@@ -114,16 +114,16 @@ def index_documents(es: Elasticsearch):
     logger.info("Indexing process complete.")
 
 
-# def main():
-#     es = Elasticsearch(
-#         [ELASTIC_CONNECTION_URL],
-#         http_auth=(ELASTIC_USERNAME, ELASTIC_PASSWORD),
-#         verify_certs=False
-#     )
+def main():
+    es = Elasticsearch(
+        [ELASTIC_CONNECTION_URL],
+        http_auth=(ELASTIC_USERNAME, ELASTIC_PASSWORD),
+        verify_certs=False
+    )
 
-#     create_index(es)
-#     index_documents(es)
+    create_index(es)
+    index_documents(es)
 
 
-# if __name__ == "__main__":
-#     main()
+if __name__ == "__main__":
+    main()
