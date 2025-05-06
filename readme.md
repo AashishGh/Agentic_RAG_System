@@ -156,7 +156,7 @@ http://127.0.0.1:8000 <br>
 You can access: <br>
 Swagger UI: http://127.0.0.1:8000/docs <br>
 ReDoc: http://127.0.0.1:8000/redoc
-![Swagger Documentation for the system api](./assets/api.png)
+![Swagger Documentation for the system api](./assets/API.png)
 ### 3. Launch the React Frontend (Client)
 You can access the client side application made with React JS by accessing `./client` folder and by running the application.
 Also, you can find the [Readme.md for React Application](./client/README.md) which guides you through the process to install application locally.
