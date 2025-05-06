@@ -1,0 +1,1356 @@
+Contents lists available at ScienceDirect 
+
+Heliyon 
+
+journal homepage: www.cell.com/heliyon 
+
+Review article 
+
+Coir fiber as thermal insulator and its performance as reinforcing 
+material in biocomposite production 
+
+Md. Arif Mahmud a, *, Nafis Abir b, Ferdausee Rahman Anannya c, Ayub Nabi Khan d, 
+A.N.M. Masudur Rahman e, f, Nasrin Jamine g 
+a Department of Textile Engineering, Ahsanullah University of Science and Technology, Dhaka, 1208, Bangladesh 
+b Department of Textile Engineering, BGMEA University of Fashion and Technology, Dhaka, 1230, Bangladesh 
+c Department of Textile Engineering and Management, BGMEA University of Fashion and Technology, Dhaka, 1230, Bangladesh 
+d BGMEA University of Fashion and Technology, Dhaka, 1230, Bangladesh 
+e Bangladesh University of Textiles, Dhaka, 1208, Bangladesh 
+f College of Textiles, Donghua University, Shanghai, 201620, China 
+g Department of Apparel Merchandising & Management, BGMEA University of Fashion and Technology, Dhaka, 1230, Bangladesh   
+
+A R T I C L E  I N F O    
+
+A B S T R A C T    
+
+Keywords: 
+Cellulose 
+Alkali treatment 
+Insulation 
+Conductivity 
+Sustainable 
+Bio-polymer 
+
+1. Introduction 
+
+Coir is a lignocellulosic natural fiber derived from the coconut’s husk, an abundantly found fruit 
+or nut worldwide. This fiber has some unique characteristics, such as its resistance to seawater, 
+microbial attack, high impact, etc. But its low thermal conductivity or high thermal insulating 
+property  makes  it  suitable  for  being  used  as  insulators  in  civil  engineering  sites.  On  the  other 
+hand, the sustainability of a material depends heavily on its environmental impact of the mate-
+rial. For making sustainable materials like biocomposite, there are no options other than using 
+polymers derived from natural renewable sources. Polylactic acid(PLA) is an  example of those 
+types of material. And these materials are often being reinforced by fibers like coir for various 
+reasons  including  improving  mechanical  properties,  reducing  the  cost  of  the  material,  and 
+improving the material’s sustainability. Many coir-reinforced sustainable biopolymer composites 
+have already been produced in many pieces of research, which will be discussed in this paper, 
+along with the chemical and physical structure of coir fiber. In addition, this paper will try to 
+focus on the insulating properties of coir and coir-reinforced composites while will also compare 
+some properties  of  the composites  with  some commonly  used materials  based on different pa-
+rameters  to  show  the  suitability  of  using  the  coir  fiber  in  heat-insulating  applications  and  to 
+produce sustainable biocomposite materials.   
+
+A Composite is a material made using two or more materials, and the final material would show different characteristics than the 
+used materials [1]. Generally, two materials, along with other additives, are used to make a composite material [2]. One of those two 
+materials can be a matrix or resin, and the other one can be a reinforcement for the matrix. These reinforcements are used to improve 
+mechanical characteristics, lower the material’s weight, improve the material’s sustainability, etc [1,3]. There can be more than one 
+
+* Corresponding author. 
+
+E-mail addresses: arif.shawon@hotmail.com, arif.te@aust.edu (Md.A. Mahmud), nafis.abir@buft.edu.bd (N. Abir), ferdausee.anannya@buft.edu. 
+
+bd (F.R. Anannya), provc@buft.edu.bd (A. Nabi Khan), masudfabric@yahoo.com (A.N.M.M. Rahman), nasrin.jamine@buft.edu.bd (N. Jamine).  
+
+https://doi.org/10.1016/j.heliyon.2023.e15597 
+Received 22 March 2022; Received in revised form 12 April 2023; Accepted 14 April 2023   
+
+Heliyon9(2023)e15597Availableonline19April20232405-8440/©2023TheAuthors.PublishedbyElsevierLtd.ThisisanopenaccessarticleundertheCCBY-NC-NDlicense(http://creativecommons.org/licenses/by-nc-nd/4.0/).Md.A. Mahmud et al.                                                                                                                                                                                                 
+
+matrix or reinforcing material while using two different matrix only can also be an option. The reinforcement can be a fiber or some 
+particles. The matrix and reinforcing materials can be synthetic polymers or natural polymers, or either can be natural, and the other 
+can be synthetic [4]. Composites made of synthetic resin and natural reinforcing material have become very popular nowadays [5–8]. 
+These natural reinforcing materials are generally natural fibers. There are several reasons why natural fibers are selected as reinforcing 
+material. Natural fibers are biodegradable and non-toxic in general. And in addition, the plants of those fibers also have the ability to 
+suck carbon from the environment, which makes these fibers responsible for reducing carbon emission. On the other hand, these fibers 
+are generally of very low weight and low cost compared to many synthetic polymers for which these natural fiber-reinforced com-
+posites are gaining popularity in automobiles, packaging, military, etc., various sectors [2,9–13]. There is another reason which has 
+become very important these days, and that is the biodegradability of composite material. The earth has become endangered due to the 
+use of non-biodegradable plastic materials, which are causing various problems when being dumped, such as clogging up drains, 
+littering in the rivers and oceans, reducing soil strength, causing the greenhouse effect, and also doing harm to the environment in 
+several other ways [14–17]. So, materials need to be biodegradable for the betterment of the environment. Actually, biodegradable 
+means materials that are degraded by biological components such as bacteria, fungi, etc [18]. If a composite material contains one or 
+more  bio  components  or  natural  components,  then  that  composite  is  called  biocomposite  [2,19–21].  Biocomposites  can  be  fully 
+biodegradable or partially biodegradable depending on the materials used for making it [4]. Partially biodegradable ones contain 
+either fiber or matrix as the biodegradable material. Actually, these materials are also degradable, but they will take a very long time to 
+degrade fully as only the portion containing biodegradable polymer would degrade biologically within a short period, while the rest 
+will take a long time. And sometimes, the biodegradable part also tends to degrade more slowly than usual or does not degrade at all 
+due to being covered with nondegradable contents, for which these types of composite materials become nondegradable or hard to be 
+degraded, both of which are least desirable in terms of the environmental requirements [22]. Both matrix or resin and reinforcing 
+material need to be biodegradable to be fully biodegradable. But these types of materials don’t have all the attributes of synthetic 
+materials, especially the low price, availability, easy processability, etc., of synthetic materials compared to biobased materials, which 
+often limits their applications in many sectors. That’s why natural fiber-reinforced synthetic polymer composites are preferred in all 
+sectors these days. When choosing natural fiber, there are many options, such as cotton, jute, flax, ramie, kenaf, sisal, coir, etc [9,23]. 
+Coir is a lignocellulosic fiber. It is obtained from the husk of coconut [24]. In this regard, coir fiber can be an excellent option, as it 
+contains a low percentage of cellulose and a high percentage of lignin [25]. In terms of production, coir sits behind jute and well ahead 
+of flax, ramie, etc., in 2017, according to the Food and Agriculture Organization of United Nations (FAO) [26]. The annual production 
+actually was over a million tonnes in that year across the world. It used to be preferred by mariners for rope making because of its better 
+resilience and resistance to seawater, as this fiber can tolerate sudden stress or pull, which breaks many other fibers [24]. Coir fibers 
+are also known for their thermal insulating property, which makes it suitable for making composites that can act as heat insulators 
+[27]. Heat insulators or thermal insulators are resistant to thermal currents. These types of materials help prevent external heat from 
+entering or going out. Insulating materials are classified into three categories, namely organic, inorganic, and composite [28]. The coir 
+fiber may fall into the category of organic materials which also include wood chips and similar materials. The composite materials can 
+include all types of materials, and coir fiber-reinforced composite structures can also be a part of that. The heat insulation property is 
+mainly  affected  by  moisture  content,  temperature  difference,  and  bulk  density  of  a  material  which  depend  on  the  physical  and 
+chemical structure of the material [29]. The coir has the required attributes to act as an insulator, especially when being used in a 
+composite structure which will be discussed in the latter part of this study. In fact, coir has been used in composite developments more 
+than in other applications (e.g., in floor-matt and mattresses) nowadays, which includes the uses in many biocomposites. However, 
+biocomposite production is not as straightforward as many may think. A sustainable, eco-friendly product is something that uses 
+resources or raw materials in a manner that will not harm the ecological balance, but at the same time, the rate of production or growth 
+will remain up to the required level [30–32]. So, in producing a sustainable product, both matrix and reinforcing fiber need to match 
+that concept. To be selected as a sustainable biopolymer, the polymer needs to be efficient in production, emit the least amount of 
+greenhouse gases during production and lifetime, be least costly, and have good enough properties for industrial applications [33]. In 
+that case, petroleum-based synthetic polymers can’t be selected because of the emission of greenhouse gases during the production and 
+degradation process. Generally, polymers from renewable sources, or more precisely, polymers derived from plants, are the ones that 
+can match the requirements of sustainable polymers. The most commonly used biopolymers are polylactide, starch, cellulose, cellulose 
+derivatives, etc [33]. On the other hand, the unique characteristics of coir also make it suitable for developing composite materials for 
+the thermal insulating purpose, which could be really useful in replacing currently existing synthetic materials, such as polyurethane, 
+polystyrene, etc., that are harmful to the environment. This paper will discuss the thermal insulating property of coir fiber and its 
+performance as a reinforcing material for some eco-friendly biocomposites. 
+
+Table 1 
+Chemical Composition of Coir fiber [2,9,35–38].  
+
+Content 
+
+Cellulose 
+Lignin 
+Hemicellulose 
+Ash 
+Pectin and related compounds 
+Water-soluble contents 
+
+Percentage 
+
+36–43 
+32–45 
+0.15–0.25 
+2.22 
+3 
+5.25  
+
+Heliyon9(2023)e155972Md.A. Mahmud et al.                                                                                                                                                                                                 
+
+2. Physical structure and chemical composition of coir fiber 
+
+Coconut contains a protective shell and husk around a nut containing white meat in the inner part called copra. Both green and ripe 
+coconuts have water in that nut. The nut is not a quite visible or prominent figure in green coconut, but it gets to its shape after the fruit 
+ripens. The white meat covers about 28% of the total weight of the whole thing. In the husk part, about 12–44% of its total weight is 
+generally the fibers [24,34]. The fibers are lignocellulosic. It contains cellulose, lignin, hemicellulose, wax, and other materials. The 
+chemical composition of coir fiber is given in Table 1. 
+
+The main component of cellulose is a polysaccharide in which the molecular units are linked by β 1, 4 glycosidic bonds [39,40]. It 
+contains three hydroxyl groups which produce inter and intramolecular hydrogen bonds with other cellulose chains between the fibers 
+[41]. Hemicellulose is termed a matrix polysaccharide [42]. The major components of hemicellulose are xylose, galactose, arabino-
+furanose, and glucuronic acid residues. It has quite stable hydrogen bonds with cellulose and is insoluble in hot water [24]. Lignin is 
+found in the middle lamella (a glue-like layer that adjoins plant cells) and cell walls of the fiber mostly along with some other places. It 
+is a three-dimensional structure made by phenylpropanoid building units, and it is responsible for the stiffness of the fiber [43,44]. The 
+fat and waxes are generally found at the surface of the fiber, while the water-solubles are water-soluble materials that can be removed 
+by boiling [24,45]. 
+
+Coir fiber has two types: green and brown fiber (Shown in Fig. 1(a–c)) [38]. Fibers collected from green coconut are called green 
+coir (Fig. 1 (a and b)), while fibers collected from ripe coconut are called brown coir fiber (Fig. 1(c)). The chemical composition of both 
+types of fibers is quite similar. But the green coir fibers are suitable for bleaching and dyeing [34]. In contrast, white fibers are much 
+weaker and softer than brown fibers [3]. But the final fibrous materials are almost similar in appearance as the fibers from green 
+coconut have a very slight whitish shade in comparison to the fibers from brown shells, and eventually, the shade actually diminishes, 
+and both fibers show almost the same color by the time those are used in any application because of drying of the green fibers. Fig. 1 
+shows the two types of fibers (Fig. 1(a) and Fig. (b) show the green coconut contents, while Fig. 1(c) shows the brown fibers). 
+
+The fibers are extracted using retting [34,38]. In fact, the physics of coir has made the retting process essential for fiber extraction. 
+The physical structure of coir fiber actually helps it to be resistant to microbes. The fibers consist of ultimate fiber cells. The ultimate 
+cells of coir are held together by the middle lamella, termed the inner middle lamella. It is chemically linked with cellulose cell walls, 
+which make this layer chemically inert, for which the fibers don’t let microbes alter them chemically and show greater resistance to 
+microbial attack as a result. But in the case of the unidirectional fibers, which are also held in bundles by another layer of the middle 
+lamella, also known as the outer middle lamella, it is not involved in many vulnerable chemical bondings to microbial attack. That’s 
+why the fibers can be extracted by retting, depending on the bacterial attack during merging or submerging in water [24]. The bundle 
+fibers are shown in Fig. 2. 
+
+Coir fibers are found in bundles, of which about 56–65% of fibers are 150 mm long, while the staple length can be up to 350 mm. 
+About 5–8% of fibers (short fibers) are found below 50 mm in length. The fiber fineness varies from 50 to 300 μm, while the individual 
+
+Fig. 1. Images of different states of Coir fiber: (a) Green Coconut shell, (b) Green Coir fiber, (c) Brown Coir fiber. (For interpretation of the ref-
+erences to color in this figure legend, the reader is referred to the Web version of this article.) 
+
+Heliyon9(2023)e155973Md.A. Mahmud et al.                                                                                                                                                                                                 
+
+cells of fibers are about 1 mm in length and 5–8 μm diameter [38]. Generally, the length and diameter of the cells vary depending on 
+species, maturity, location of the fiber within the plant, and extraction procedures [24]. 
+
+The brown fibers are generally used in mattresses, automobile seats, brushes, brooms, nets, etc., while the green fiber can be finer 
+and more flexible, which can be used in making twine, marine cordage, floor mats, etc. It is very often used in geotextiles for rein-
+forcing embankments, preventing soil erosion, drainage, composite making, etc [24,34,46]. 
+
+3. Insulating property of coir fiber 
+
+The tensile properties of coir fiber are inferior to jute, flax, sisal, etc., but the specialty of coir fiber is its superior properties in salty 
+water as it can resist salty water and any microbial attack while it can also be stretched beyond its elastic limit without rupture [38,47, 
+48]. But the one of the main advantage of coir is its thermal properties. It is often found that when coir is used as reinforcement in 
+composites, those composites are known to have low thermal conductivity [49–51]. It is due to the low thermal conductivity of coir 
+fiber  which  results  from  several  factors  like  moisture  absorbency,  having  empty  spaces  in  the  fiber  structures  (which  are  also 
+responsible for high moisture absorbency), etc [52,53]. 
+
+The thermal insulation property depends on three factors, the operating temperature, the density, and the thermal conductivity of 
+the material, while the moisture content is also mentioned by some researchers [29]. The operating temperature cannot be controlled 
+as this depends on the environment, and this will affect the conductivity naturally, either in a positive or negative way. The material’s 
+density also depends on the materials’ morphological structure. In contrast, the material’s thermal conductivity is controlled by the 
+molecular arrangement in the structure. The conductivity in non-metallic materials depends heavily on the vibrational characteristics 
+of the material. The highly oriented molecular arrangement helps transfer the vibrational movement in the material, leading to better 
+heat conductivity. From that point of view, the amorphous regions offer more resistance to heat conductivity. Another factor can be the 
+presence of an aromatic backbone in the structure, which is known to help the heat conductivity of a material. Meanwhile, cross-linked 
+structures  and  long  molecular  chains  help  heat  conductivity  also.  This  reason  is  responsible  for  the  comparatively  high 
+heat-conducting ability in polymers with a cross-linked structure rather than a linear structure [54]. 
+
+The fiber being focused on here is coir, a cellulosic fiber with a significant amount of amorphous portion within the structure, which 
+is relatively high in percentage (around 60%) [55]. It means the fiber should conduct a low amount of heat. Another factor is the 
+presence of an aromatic backbone in the structure, which is not present in cellulose, for which all cellulosic materials are slightly poor 
+conductors of heat [29,56]. And the cellulosic chains are not cross-linked either, which has been stated as another reason for increasing 
+heat conductivity. So, as a result, coir fiber is expected to be quite a low conductor of heat. 
+
+Another important factor stated above is the morphological appearance of coir fiber. For example, the air is known as a poor heat 
+conductor, which means if a material can entrap air in its structure, that will definitely show low heat conductivity than usual. Coir 
+fiber has a physical structure that is quite porous as about one-third of the structure is filled with air due to having a lot of cavities 
+inside the fiber structure, while at the same time, the fiber cells are quite narrow and hollow. It makes the fiber a poor conductor of heat 
+[57,58]. And the water-absorbing property that makes the fibers take moisture from the atmosphere is also responsible for the poor 
+heat conductivity of the material. These reasons are responsible for making the coir fiber one of the poorest heat conductors. These also 
+play a similar role when the coir fibers are used in the composite structure, while the use of synthetic polymers as resins which do not 
+have the ability to form chemical bonds with the fibers, suffers more because of the pores created by the fibers that entrap air within the 
+composite structure which become responsible for reducing heat conductivity of the material even more. 
+
+The thermal conductivity properties of the material actually shape the other thermal properties. The thermal conductivity and 
+thermal resistance of material are inversely proportional to each other as the unit of thermal conductivity is watt per meter per kelvin 
+(W/mK) while the unit of thermal resistance is K.m/W. It means a material with low thermal conductivity is going to have high thermal 
+resistance and vice versa. Since the thermal conductivity of coir fiber is quite low, its thermal resistance of it is definitely higher than 
+
+Fig. 2. Scanning Electron Microscopic image of Coir fibers (Bundle fibers comprising ultimate cells).  
+
+Heliyon9(2023)e155974Md.A. Mahmud et al.                                                                                                                                                                                                 
+
+◦
+
+usual. This phenomenon also controls the performance of the coir fiber or coir fiber reinforced materials in typical thermal tests such as 
+TGA (thermogravimetric analysis), which measures weight loss with applying temperature. The weight loss percentage shows similar 
+trends with heat conductivity as the weight loss increases with the material’s heat conductivity and vice versa [59]. So, in that sense, an 
+increase in the weight loss of the material means the material would have less resistance to heat. But the thermal degradation tem-
+perature  in  TGA  can  show  better  results  for  materials  with  higher  thermal  conductivity  (which  is  expected  to  have  low  thermal 
+resistance due to absorbing more heat) if the material has a higher thermal degradation temperature. For example, polystyrene has 
+higher thermal conductivity (0.13W/mK) while the degradation is higher than coconut contents (0.04–0.05 W/mK), but the degra-
+dation temperature is slightly higher (Up to 425 
+C for polystyrene and around 400 
+Researchers have already had a few applications of coir as an insulating material. Mintorogo et al. used coir in concrete slab 
+◦
+roofings [63]. They found the temperature difference in the room air from outside to be 2.8
+C while the temperature difference at 
+◦
+C which helped reduce the energy consumption to 3–9% on average. The experiment took place in 
+the rooftop surface was about 13 
+◦
+Jakarta, Indonesia, where the average temperature varies from 24
+C. The comparison was made with a conventional concrete 
+rooftop, and the coconut fibers were blended with the concrete materials to build the coconut fiber-reinforced rooftop. The researchers 
+found that coconut fiber-reinforced rooftops delayed the release of radiated heat during the hot daytime, for which the temperature 
+within the rooms was lesser than usual during the daytime. But the concrete could get cooled quickly, which resulted in slightly cooler 
+room temperatures at nighttime, while the coconut fiber released the heat slowly, which resulted in slightly high temperatures during 
+nighttime in the rooms. Iwaro and Mwasha developed coconut fiber-filled masonry walls to check the insulating property [64]. They 
+compared the results with no insulation and fiberglass filler walls to determine the coconut fiber’s effectiveness as the insulator. They 
+found a similar trend as the previously stated research as the energy consumption rate and the temperature during day time was 
+significantly lower than the nighttime as the fiberglass showed slightly better performance during nighttime. 
+
+C for coir fiber) [29,60–62]. 
+
+◦
+to 34 
+
+◦
+-3.1 
+
+◦
+
+On the other hand, the air relative humidity was found to be lesser all through the day in comparison to no-insulator model, but the 
+fiberglass again showed slightly better performance. Meanwhile, Brose et al. developed a coir-cement composite as insulator and that 
+resulted in 0.16–0.19 W/mK reduction of thermal conductivity. They also found that the compressive strength and modulus of rupture 
+of the coir-cement insulator was better, which would help reduction of out-of-plane failure during seismic events like earthquakes 
+[65]. So, the examples of using coir as an insulator have not been that high, but all the attempts have shown improvement in the 
+insulation property to a considerable degree. 
+
+3.1. Applications in biocomposite materials production 
+
+Coir fiber has also been used in many other composite materials made for different purposes other than insulation. Coir fiber has 
+mainly been used with many synthetic polymers for producing composite materials [45,66–71]. But these polymers don’t produce 
+sustainable composites as the polymers like polyester, polyethylene, polypropylene, etc., are neither sustainable nor biodegradable in 
+nature. These materials are derived from petroleum sources. Even though these polymers have been started to be derived from natural 
+vegetable sources these days as for example bio polyesters and bio polyethylene are made from carbohydrates now, and the source of 
+these carbohydrates is corn, epoxy, and nylon are derived from oils of sunflower and palm tree, etc [33]. But these polymers have not 
+been started to be used in the production of composite materials at a large scale yet. Only a few polymers such as polylactic acid, starch, 
+polycaprolactone, cellulose acetate, etc., are used mainly in making fully biodegradable sustainable composites. These polymers have 
+problems, such as poor tensile strength, processability, absorbency, etc [72–75]. In fact, the biodegradability property is responsible 
+for some of these problems; for example, PLA contains an acetal functional group for which PLA is susceptible to water degradation, 
+but without this in the structure, the biodegradability nature would depend on enzymatic degradation only, which is not possible in 
+landfills or ocean water [76]. So, it would not be called biodegradable then. Again, all bio-derived polymers are not biodegradable, 
+while all petrochemicals are not non-biodegradable (for example, polycaprolactone) [33]. Composites of some common biodegradable 
+polymers are discussed below. 
+
+3.2. Coir fiber reinforced starch biocomposites 
+
+Starch is one of the world’s most abundantly produced natural polymers [4]. It is a type of polysaccharide which is consisted of two 
+polysaccharides, amylose and amylopectin. Amylose and amylopectin are α(1 → 4) glucan-linked linear and α(1 → 4) and α(1 → 6) 
+glucan linked branched polymers respectively [77]. Amylopectin is more soluble and hydrophilic in nature, while amylose is slightly 
+hydrophobic. But starch contains more amylopectin, for which starch is very easily soluble in water [4]. The key component of coir is 
+cellulose, which is also a polysaccharide. Both contain hydroxyl groups in the structure, which can produce inter and intra-hydrogen 
+bonds between cellulose, starch, and cellulose. That’s why starch can be used successfully with coir fiber to produce biocomposites. 
+Lomelí-Ramírez et al. produced coir fiber-reinforced cassava starch composites in two different experiments [78,79]. They mixed 
+cassava starch with 30% glycerol in a plastic bag. Glycerol was used for plasticizing starch because starch is quite brittle in the dry 
+state; plasticizer makes the starch thermoplastic and increases the extensibility of the starch paste [72,80–82]. The fibers and starch 
+were mixed in an industrial mixer. They varied the fiber percentage from 0 to 30%. The composites were made in a hydraulic press at 
+◦
+C under 410.4 kgf/cm2 pressure, and the process was continued for 50 min. The addition of fiber increased tensile strength and 
+160 
+Youngs’s modulus from 1.56 MPa to 14.56 MPa–3.24 MPa and 59.81 MPa, respectively (for 30% fiber content). While on the other 
+hand, water uptake capacity also decreased from over 250%–59.83% in the case of 30% fiber addition in the 4-h absorbency test, 
+which shows the significantly high absorbency property of starch compared to a natural cellulosic fiber which is generally known as 
+quite good absorbent materials. This high absorbency property of starch has always been one of the major problems of starch, which 
+
+Heliyon9(2023)e155975Md.A. Mahmud et al.                                                                                                                                                                                                 
+
+has restricted its use in producing materials for practical uses [83]. Significantly poor tensile properties in another huge drawback of 
+starch which was improved to a quite higher degree by the addition of coir fiber (Coir fibers have superior tensile properties) but still 
+within the lower range compared to other common composite materials [4]. An increase in tensile modulus was an indicator of the 
+composite’s increased stiffness or hardness property, which needed greater force to cause deformation of the material. This was down 
+to the rigid nature of starch resin which is quite brittle at the same time though, but the brittleness was reduced and covered by the use 
+of plasticizer and the introduction of coir fibers in the structure, which helped starch to gain a solid shape rather than being a stiff but 
+brittle material. The strong and stiffer nature of coir fiber also played its part in the formation of a structure like this. 
+
+3.3. Coir fiber reinforced polylactic acid (PLA) biocomposites 
+
+Polylactide or polylactic acid (PLA) is a biodegradable thermoplastic polymer derived from bio sources, such as corn. It is also 
+called  biodegradable  thermoplastic  polyester  [84].  It  is  produced  by  polycondensation  or  ring-opening  polymerization  of  lactide 
+monomer in the presence of a lewis acid [85,86]. In industrial production, PLA is produced from starch, as starch is converted to 
+dextrose, from which lactic acid is produced via fermentation. Then lactide monomer is prepared from that already produced lactic 
+acid, and this lactide then undergoes polymerization [84]. Generally, PLA is known for its very good tensile properties, film trans-
+parency, and biodegradability, but it is a bit brittle and may force plasticizer use when required [84]. Since it is a biopolymer, it works 
+very well with natural fiber-like coir in composite materials. Nam et al. developed coir fiber reinforced PLA composites [87]. They 
+varied the fiber percentage from 10 to 50%, and they also varied the pre-treatment time and concentration of sodium hydroxide for 
+◦
+treating the fiber. They mixed the dried, alkali-treated, and untreated fiber with PLA resin in a mixer at 180 
+C and then formed pallets 
+◦
+of coir fiber-reinforced PLA, which were dried at 70 
+C for 12 h. Then the composite was produced by using those pallets in an injection 
+molding machine. Alkali treatment resulted in the removal of waxy and dust contents from the fibers, which helped better adhesion 
+between  the  fiber  and  resin  molecules  and  improved  the  composites’  tensile  properties.  They  found  the  best  results  for  72  h  of 
+pre-treatment  with  a  5%  concentration  of  sodium  hydroxide. Reinforcing  with  20%  fiber  gave  the  best  tensile  properties,  as  the 
+maximum tensile strength recorded was about 59 MPa. Adding more fiber showed a decrease in tensile properties because of poor 
+wetting of fiber in a comparatively low amount of resin and the least amount of bonding between resin molecules due to too much fiber 
+in between the resin molecules, which is called the agglomeration of fibers. The tensile modulus increased with an increasing amount 
+of fiber, though which means the addition of fiber made the composite more rigid, just as it did to the starch composites, as stated in the 
+previous section. It is a further sign of the strong and rigid nature of the coir fibers. The thermal stability of PLA composite was also 
+improved because of the addition of fiber. It was down to the considerable thermal properties and low thermal conductivity of coir 
+fiber. Coir fibers are generally known for low thermal conductivity like other natural fibers due to the absorbent nature and the 
+presence of hollows in the physical structure of the fibers [52]. The thermal resistance is down to the cellulosic materials, which 
+undergo thermal degradation from 200 
+C but alkali-treated fibers show significantly better resistance as the degradation 
+C to 370 
+◦
+◦
+starts above 330 
+C due to increased crystallinity or the removal of the contents other than cellulosic matters 
+C and lasts around 370 
+which have better crystallinity and thermal properties compared to other contents of the fibers [62,87]. 
+
+◦
+
+◦
+
+◦
+
+Dong et al. also found that the addition of 20% pre-treated fiber with PLA resin gives the optimum tensile and flexural properties 
+(about 15 MPa tensile strength and about 45 MPa flexural strength) [88]. The fiber percentage varied from 5 to 30%. They pre-treated 
+◦
+the fibers with 2% sodium hydroxide solution for an hour at 70 
+C. The composites were prepared in a hydraulic press under 1.5 MPa 
+pressure for a 15 min treatment at 180 
+C temperature in a more like sandwich structure. But they found a decrement in thermal 
+stability because of poor bonding between fiber and matrix, while the biodegradability rate was found to be higher than pure PLA 
+because coir fiber is more easily degraded because of having high water absorbency. Jang et al. tried to produce flame retardant 
+composite using coir fiber and PLA [89]. They pre-treated the fibers with oxygen plasma (discharge power 100 W) to modify the 
+surface of the fibers to improve fiber-matrix adhesion. They varied the fiber percentage from 5 to 10%. The composites were prepared 
+using  a  commingled  yarn  structure  (a  hybrid  structure  containing  two  materials  in  the  shape  of  fiber  to  produce  a  continuous 
+◦
+filament-type structure by using the air-jet [90]) method at 200 
+C). Fiber treatment improved the tensile properties, and the addition 
+of fiber also improved the tensile strength of PLA, as about 75 MPa tensile strength was recorded for 10% fiber addition, whereas the 
+tensile strength of pure PLA was 60 MPa. Plasma treatment reduced the thermal shrinkage of the composite, while the addition of fiber 
+also showed the same trend because of having better bonding between fiber and matrix. The flame retardancy was measured by testing 
+the LOI (limiting oxygen index value), which was found to be almost similar for the treated and untreated fiber-reinforced composites 
+to pure PLA, which mean these treatments do not have any positive impact on this property but also no negative impact was found 
+either, and the resulted material would always be flame retardant regardless of fiber addition or non-addition because of having LOI 
+above 20 [91]. 
+
+3.4. Coir fiber reinforced polycaprolactone biocomposites 
+
+Polycaprolactone (PCL) is a type of aliphatic polyester synthesized by ring-opening polymerization of caprolactone [92], and it is 
+degradable by enzymatic activities [93,94]. It is easily degraded by bacteria and fungi in the environment [95–98]. It is derived from 
+petroleum, one of just a few polymers available right now. It is very much hydrophobic in nature, has a semi-crystalline structure, is 
+◦
+soluble at room temperature, and is very easily processable due to having a very low melting point (about 60 
+C) [99]. Its properties 
+heavily depend on its molecular weight. If the molecular weight is lower, then the PCL would be a waxy solid material, while if the 
+molecular weight is above 20000, then the PCL would be a very strong solid material and these materials generally show similar 
+mechanical properties to polyethylene [93]. Because of a very low melting temperature, it is difficult to use alone; instead, it is used in 
+
+Heliyon9(2023)e155976Md.A. Mahmud et al.                                                                                                                                                                                                 
+
+blends or composites more successfully. Obasi et al. produced coir fiber reinforced PCL composite using solvent casting technique 
+[100]. They used PCL of 8000 molecular weight and brown coir fiber husk. The PCL was dissolved in Dichloromethane at room 
+temperature, and then the fibers were mixed in the solution. The mixture was stirred for 4 h and then sonicated for 20 min, and then the 
+mixture was poured onto a glass plate for drying. All these processes took place at room temperature. The fiber percentage varied from 
+2 to 5%. Tensile strength of the PCL decreased after fiber addition, though it was comparatively higher at 2.5% addition (12.99 MPa) 
+than 2% and 5% fiber loading. This happened because of poor wetting of fiber with matrix and no interfacial bonding between fiber 
+and matrix. Wu also produced a coir fiber-reinforced PCL composite [101]. But he used white coconut fiber, which was collected from 
+green coconut. He varied the fiber percentage from 5 to 20%. He also used acetic acid-grafted PCL to improve the thermal properties of 
+the PCL composite. The fibers and matrix were mixed in a blender, and the composites were made in a hot press. Results showed that 
+the thermal properties of PCL changed very little with the addition of fiber or the process of acetic acid grafting. The tensile strength 
+decreased (from 37.6 MPa, the strength decreased to 13.9 MPa while 29.8 MPa strength was recorded for 5% fiber loading) with the 
+addition of fiber for both types of the matrix but grafted PCL showed comparatively better tensile strength (35.8 MPa for pure grafted 
+PCL and 34.5 MPa at 5% fiber loading). It was due to better adhesion between grafted PCL and the fibers compared to the pure PCL. 
+
+3.5. Coir fiber reinforced other biocomposites 
+
+There are just a few other examples of sustainable coir fiber-reinforced biocomposites; polybutylene succinate composite can be 
+classed as one of those. Polybutylene succinate (PBS) is also derived from petroleum. A polycondensation reaction between succinic 
+◦
+acid and butanediol synthesizes it. The melting temperature of PBS is slightly higher than 100 
+C), and the degradation 
+◦
+temperature was above 300 
+C, which was almost similar to polyethylene and polypropylene [93,102,103]. Nam et al. Used PBS and 
+produced coir fiber-reinforced PBS composite [103]. They varied fiber percentages from 10 to 30%. The fibers were pre-treated in 
+3–7% sodium hydroxide solution at room temperature. The duration of pre-treatment varied from 24 to 96 h. The tensile strength of 
+coir fiber increased from 139 MPa to 238 MPa after alkali treatment, just as in the previously stated studies where alkali treatment 
+improved tensile properties. The maximum strength was recorded for 5% sodium hydroxide treatment for 72 h. The composites were 
+◦
+prepared in a hot press under 10 MPa pressure at 150 
+C temperature for 10 min. The addition of fiber increased the tensile strength of 
+the composite from 33 MPa to about 51 MPa. Maximum strength was found for 25% fiber addition while further increment of fiber 
+percentage decreased the strength of the composite. Flexural strength also showed a similar trend. Alkali treated fiber reinforced 
+composite showed better properties due to having more interfacial bondings than untreated fibers, just as the previous studies. 
+
+◦
+C (about 115 
+
+Polyvinyl alcohol (PVA) is quite a commonly used biodegradable polymer derived from petroleum sources [93] which is exten-
+sively used in the sizing of yarn for fabric production in the textile sector [104]. It is synthesized by polymerizing polyvinyl acetate in a 
+free radical polymerization mechanism [93]. It is odorless, colorless, non-toxic, highly water-soluble, and highly resistant to oil and 
+grease [105]. Kong et al. used PVA and produced a coir fiber-reinforced PVA composite [105]. They pre-treated the fiber with a 5% 
+alkaline solution (made using sodium hydroxide) for 2 h at room temperature. They varied the fiber percentage from 0 to 20% while 
+they produced the composites in a compression molding machine at 185 
+C within 10 min. They found better tensile properties for 
+treated fiber and the tensile strength was found on the rise with fiber loading (Young’s modulus of 4072.81 and 5207.90 MPa for 15% 
+alkali treated fiber loading), but the tensile properties were hampered a bit when fiber loading was increased beyond 15% for the 
+treated fiber (5450 MPa for 20% untreated fiber loading and 3680.72 MPa for 20% treated fiber loading) because of the increment of 
+treated soft fiber compared to untreated hard fibers as soft fibers tend to take lesser space and allowed more amount of fibers because 
+treated fibers are comparatively lighter than untreated fibers. It caused aggregation of fibers and reduced adhesion between fiber and 
+matrix. On the other hand, alkali treated fiber loading resulted in poor thermal properties than pure PVA due to possible alkaline 
+contamination in the fibers, while untreated fibers showed some improvement compared to pure PVA due to the naturally high thermal 
+resistance of coir fiber [62]. 
+
+◦
+
+Another natural biodegradable polymer is tannin. Tannin is a type of polyphenol. It has many phenolic groups in its structure [106, 
+107]. It is synthesized from various plants, barks of plants, etc [108]. Its molecular weight varies from 500 to 20000 [109]. Tannins can 
+be of two types on the basis of the chemical structure and physical properties, hydrolyzable tannins and condensed tannins [110,111]. 
+Hydrolyzable  tannins  can be  hydrolyzed  by  acid,  alkali,  and  enzymes, while  condensed  tannins  are  quite  resistant  to  hydrolysis. 
+Barbosa Jr. et al. produced a coir fiber-reinforced condensed tannin-phenolic composite [108]. Coir fiber of 3–6 cm length was used in 
+random orientation in the composite. The fiber percentage varied from 30 to 70%. The composite was prepared using a compression 
+molder. The addition of fiber increased the impact strength of the composite form from 0.016 KN to 0.096 KN. Further increment in 
+fiber percentage decreased impact strength because interfacial bonding between fiber and matrix was found to be quite higher in these 
+composites, just like the previous research. 
+
+4. Performance of coir fiber in reinforcing the composites based on different parameters 
+
+From the above examples, some common features can be noted, which are. 
+
+4.1. Effect of the type of fiber (surface treated or untreated) 
+
+Alkali treatment of fiber increases the tensile strength of the composite. This trend can be seen in Fig. 3(a and b) where Fig. 3(a) is 
+showing the smooth surface of raw coir fiber while Fig. 3(b) is showing the roughened surface of the same fibers after being treated 
+with  alkali  [87,88,103]. This  is  due  to  the  increment  in  interfacial bonding  between fiber  and  matrix molecules  [71,74,87,103]. 
+
+Heliyon9(2023)e155977Md.A. Mahmud et al.                                                                                                                                                                                                 
+
+Actually, alkali treatment removes the impurities from fiber and exposes lignin to the fiber surface shown in Fig. 3, which makes the 
+surface rougher, and it helps to create mechanical bonding between fiber and polymer [103]. 
+
+But too much exposure to alkali can cause too much removal of cuticles and globular parts from the fiber, which makes the surface 
+comparatively smoother, and results in comparatively weak mechanical bonding between fiber and matrix. That’s why alkali treat-
+ment with 5% alkaline solution for three days at room temperature gave the best results among some different concentrations and 
+different duration of treatment in different research. It gave the best mechanical properties of the composites. Other than this, an 
+increment of tensile strength may have also happened because the fibers become softer and free of dust and waxy content. It also 
+increases the roughness of the surface of the fibers, which helps the formation of mechanical bonds between fiber and matrix. It enables 
+the matrix molecules to adhere to the fiber surface even without forming any chemical bonds, especially when high pressure is applied 
+during composite production. And also, the improved crystallinity of the composite overall when the treated fibers are used due to the 
+compact and highly oriented structure that has been formed by the improved adherence between fiber and matrix molecules also helps 
+the tensile properties of the composites [62,87]. 
+
+Fig. 4 contains two examples of PLA composites where the tensile properties varied even though similar products were used. It was 
+down to the production process of the materials. The tensile properties of the pure PLA sheet were already lesser for the study of Dong 
+et  al. It happened because they used a multi-layered  sandwich system  instead of  single-layer method, which tends  to reduce  the 
+mechanical properties of the material due to slippage or easy debonding between the layers in the composite [112]. But it is not always 
+the case, and exceptions have been seen very often. Fiber length can also be a reason which was shortest for the study of Dong et al. But 
+the other studies did not use too long fibers either to establish this concept. Another difference found in these studies was the alkali 
+treatment process which was of only an hour for the study of Dong et al. whereas the other two experiments used 72 h of treatment with 
+5% sodium hydroxide, which has very often been specified as a very fruitful ratio for alkali treatment. Meanwhile, the tensile strength 
+of two PLA composites and Polypropylene composites has shown a different trend; it may be due to many reasons, including different 
+processes of composite production, different fiber length, etc. The scanning electron microscope images showed that two composites of 
+PLA have different types of cross-sections, as the amount of void in the composite made by Dong et al. was comparatively higher [88]. 
+The alkali treatment has also increased moisture absorption of the composite due to improved absorbency properties of the fibers. 
+
+Fig. 3. Scanning Electron Microscopic images of untreated and alkali-treated fiber.  
+
+Heliyon9(2023)e155978Md.A. Mahmud et al.                                                                                                                                                                                                 
+
+Fig. 4. Bar diagram of comparison of tensile strength in case of fiber treatment in different composites.  
+
+The introduction of fiber always creates voids in the structure where the water molecules can penetrate. It also affected the thermal 
+characteristics of the composite, which is described later. 
+
+On the other hand, fiber reinforcement has not always improved tensile properties in comparison to pure polymer sheets. In fact, 
+sometimes the tensile strength decreases when the fiber is added, as this trend is seen in Fig. 5, where it is clear that sometimes the 
+tensile strength has been found to be less than the tensile strength of pure polymer sheet after being reinforced with fiber [69,79,87,88, 
+100,103,113]. However, some other characteristics like impact strength and biodegradability properties of the composite improved, 
+which can be important in some cases according to the desired application of the products [87,108]. Decrement of tensile and other 
+mechanical properties by loading small fibers that do not take part in the improvement of tensile or flexural properties but helped 
+increase the stiffness of the composites, which affected the mechanical properties like tensile, and flexural, negatively [112]. Poor 
+interfacial bonding between the fibers and matrix is another big reason, as found in several pieces of research. Fiber agglomeration can 
+also be a big issue if the fiber percentage is not maintained properly. 
+
+Another important point can be the pre-treatment of the fibers. All the studies specified in Fig. 5, which had lesser success or lesser 
+improvement or deterioration in some cases in terms of the tensile properties, had one thing in common, neither experiment used 5% 
+
+Fig. 5. Bar diagram of comparison of tensile strength increment percentage in different composites.  
+
+Heliyon9(2023)e155979Md.A. Mahmud et al.                                                                                                                                                                                                 
+
+sodium hydroxide for pre-treatment or did not perform the process long enough or did not perform the pre-treatment at all. This 
+matches the previous claim made in Fig. 4 also. The chemical bonding between fiber and resin is always difficult because both ma-
+terials are generally found as chemically inactive materials and are considered good in terms of thermal resistance to any chemical 
+changes. This makes the materials very unlikely to form any chemical bonding between the fibers and matrix. The Fourier-transform 
+infrared spectroscopy of a few of these studies showed that no specific bonds were created between fiber and matrix. This led to the 
+deterioration of mechanical properties apart from the cases where proper pre-treatment was used, which helped the formation of 
+mechanical bonds between the fibers and matrix polymers. Also, it has been reported in previous studies that the incorporation of a 
+similar type of fiber and matrix can give better results due to better bonding between fiber and matrix molecules [45]. It helped in some 
+cases only when proper pre-treatment was performed. This problem has also been sorted in some research where the fibers have been 
+treated for 72 h with 5% sodium hydroxide solution [62]. 
+
+4.2. Effect of the type of resin 
+
+Natural biodegradable polymer composites have shown better mechanical properties than synthetic polymer composites, as shown 
+in Figs. 6 and 7 [45,67,74,87,88,103,113,114]. This may be due to better adhesion between natural, biodegradable polymers and 
+fibers than synthetic (non-biodegradable) ones, as it is already known that natural fibers don’t generally work that well in association 
+with synthetic polymers unless being undergone surface treatment for reducing the hydrophilic nature of the fiber [45]. Also, the 
+tensile strength of pure PLA and PBS is higher than pure polyethylene and polypropylene, as shown in Fig. 5. So better strength of PLA, 
+PBS, etc., composites was expected. 
+
+So, according to this figure, the tensile properties and improvement of any mechanical properties depend heavily on the properties 
+of the resin material. In fact, it is always expected to get comparatively poor mechanical properties when natural fibers are used with 
+synthetic materials because the anisotropic and non-homogeneous composite materials produced from these combinations due to 
+totally different types of strength, shrinkage, and surface properties of the resin and reinforcement are destined to fail to improve 
+mechanical properties [115]. These combinations generally result in better biodegradability, lesser cost of the product, etc [112]. But 
+still, better properties are found very often whenever surface treatments or any other means are used, in addition to improving the 
+bonding between the fiber and resin polymers. 
+
+4.3. Effect of fiber on the thermal properties of the composite 
+
+The thermal properties of coir fibers are quite unique, and the composites made using coir fibers have also shown the properties 
+associated with coir fibers. The fibers have very good thermal resistance, low thermal conductivity, and better resistance to weight loss 
+at heating. These properties are also found in the composites made with coir fiber in considerable amounts. Hasan et al. used long coir 
+
+Fig. 6. Bar diagram of comparison of tensile strength in different coir fiber-reinforced composites.  
+
+Heliyon9(2023)e1559710Md.A. Mahmud et al.                                                                                                                                                                                                 
+
+Fig. 7. Bar diagram of comparison of flexural strength in different coir fiber-reinforced composites.  
+
+fiber and short fibrous chips collected from coconut husk with melamine-urea-formaldehyde, and the resulting composites showed a 
+gradual increase in heat conductivity when the percentage of melamine-urea-formaldehyde was increased (from 8% to 12%) [62]. The 
+results were down to decrement in the amount of coir fiber in the structure, but at the same time, some other important factors played 
+vital roles. For example, the density of the composites increased with the increasing amount of resin (due to better bonding between 
+the fibers), which reduced the voids within the structure and the percentage of air within the structure. Since air is a bad conductor of 
+heat, its presence reduces the heat conductivity of the material, while the absence of air increases the conductivity of the composite 
+[116]. 
+
+Besides,  the  TGA  (thermogravimetric  analysis)  results  showed  the  percentage  of  weight  loss  of  the  material  with  increasing 
+temperature. The weight loss percentage was found in lower amounts when the composites contained higher amounts of coir contents 
+which were also evident in previous research reports [117]. The results actually revealed several important points. The degradation 
+occurred in three steps [118,119]. The first step of the degradation took place around 100 
+C due to the loss of moisture from the 
+structure. The second step took place between 230 and 300 
+C due to the degradation of hemicellulose while the cellulose content 
+◦
+C. The percentage of char or residue depended on the presence of lignin in the composite as a higher 
+degraded between 300 and 400 
+percentage of coir content presented more lignin in the structure, which resulted in more residue percentage (around 40% for only coir 
+contents which was reduced to around 30% when 8–12% melamine-urea-formaldehyde was introduced) after the completion of the 
+heating cycle. They also reported the composites showed a slightly higher percentage of weight loss during the first step due to the high 
+absorbency of the coir contents, especially after alkali treatment which removed the impurities from the coir as reported before [120]. 
+However, the final properties of the material would depend on both the structure’s resin and coir fiber contents. In the case of a resin 
+with better thermal resistance or low heat conductivity than coir fiber (e.g., PLA, wool, etc.), the thermal conductivity of the composite 
+would be reduced with the addition of coir fiber content in the structure. 
+
+◦
+
+◦
+
+In terms of composites made of biopolymers and coir have not been many in previous years where the thermal properties have been 
+studied. A few pieces of research were done on coir-reinforced PLA composites, which showed the same trend as stated above. Sun et al. 
+developed PLA composites using 3–7% coir fiber (hydrogen peroxide and alkali treated) and found that the addition of coir fiber 
+increased the production of residue or char in TGA results which matches the explanation given above [121]. The same trend was 
+followed by Nam et al. [87]. But they also showed that PLA has slightly better thermal resistance than coir, especially at a lower 
+temperature when the coir fiber goes through two degradation steps. But at high temperatures, the PLA degrades about 97% of its 
+weight while the presence of coir fiber increases the residue percentage, which improves the thermal property of the material slightly. 
+They also reported that the alkali-treated coir fiber produced a higher amount of residue in the end because of having a lower amount 
+of impurities in the structure, as most of the impurities are removed in the alkali treatment stage from the fibers. In that sense, the 
+treated coir fibers are expected to show better performance in terms of flammability as the formation of a high percentage of char or 
+residue generally increases the thermal or flame resistance of the material because the flame needs heat to continue burning, but the 
+presence of char or residue absorbs heat which reduces the intensity of the flame and eventually reduces the flame [2]. Jang et al. 
+showed exactly that as they found that the LOI (limiting oxygen index: the required amount of oxygen for a material to burn [2]) of 
+alkali-treated coir fiber composite (PLA composite) was slightly higher than the untreated coir fiber composite [89]. 
+
+Heliyon9(2023)e1559711Md.A. Mahmud et al.                                                                                                                                                                                                 
+
+So, from the above discussions, a few points can be found.  
+
+• Coir fiber has poor thermal conductivity properties, which can help these being used as insulating material. 
+• Coir fiber undergoes three-step degradation during heat treatment in TGA, which reduces its ability to withstand lower temper-
+◦
+atures compared to other materials due to its first two steps of degradation generally occurring by 300 
+C. But at high temperatures, 
+the temperature resistance of coir is slightly better because of its ability to produce a high amount of residue or char during heating.  
+
+• Due to having better char or residue-forming ability, the coir fiber can be a good option for resisting flame.  
+• Alkali treatment reduces the percentage of impurities in the structure, which can lead to a slightly high percentage of weight loss in 
+
+the first step of degradation but increase the formation of the residue. 
+
+4.4. Reasons behind low production of biocomposites 
+
+Even though the above-mentioned points have some proof to show here, these still cannot be taken as guaranteed because these are 
+very small sample sizes from which a final result can be given. But these points may be helpful for further research. These assessments 
+may give a wrong concept as it is clear here that polymers like PLA, PCL, and PBS can be very good alternatives to synthetic polymers, 
+but still, it may seem baffling that’s why these polymers are not being used in all sectors instead of synthetic polymers. It is mainly due 
+to the cost of natural polymers, as shown in Table 2 below. 
+
+As it can be seen here, natural polymers are way costlier than synthetic polymers. Reinforcing these polymers with cheap fibers can 
+be a very good option; in that case, fibers with a huge production rate will be the best option. That’s why coir fiber has been selected for 
+many studies, as it is produced in large quantities worldwide. This fiber is derived from coconut waste, making it cheaper than other 
+fibers. This makes it perfect for reinforcing the natural polymers to produce sustainable biocomposites. In fact, the price is always 
+expected to be higher for composite materials because of the added options like composite making process, labor cost, etc. So, it is 
+essential to reduce costs and the number of processes. And it is clear that coir fibers are generally added to reinforce or to reduce cost as 
+it is an inexpensive product due to very easy retting with only water, but a high percentage of fiber is recommended to achieve these 
+principles properly. Since coir is one of the lighter fibers among the natural fibers, its use as reinforcement and to reduce the cost of the 
+composite material is well justified. But due to poor mechanical properties compared to other commonly found natural fibers, the 
+composites made of coir are not expected to be used in many industrial applications where mechanical properties are of the greatest 
+interest [103]. Still, due to its very low cost, it can be very useful in products of daily use. 
+
+Another issue to be discussed is the sustainability of the composites discussed in this study. The term ‘sustainable biocomposites’ 
+was used at the beginning of this review, which needs quite a few specifications to be fulfilled. As stated earlier, sustainable bio-
+composites  must  be  fully  biodegradable,  easily  produced,  cheaper,  and  environmentally  friendly.  The  cost  has  already  been 
+mentioned, and, from that point of view, the bio-polymers fall quite far back from the synthetic polymers. In that sense, adding fiber 
+and reducing the material cost is a very good option. Another point would be the bio-degradability or the environment-friendliness of 
+the materials. Table 3 below shows the degradability nature of the common bio-polymers. 
+
+Table 3 above shows that all the bio-polymers discussed in this study are biodegradable. The duration may vary for different 
+polymers, but all those are biodegradable. In that sense, the bio-polymers tick the box for being considered for sustainable production, 
+as all other synthetic polymers are non-biodegradable and may take several hundred or even thousand years to degrade. But the 
+mechanical properties of all the bio-materials are not up to the mark, though, as shown in the table, for which these can not be used in 
+just any type of application if desired. 
+
+The next point is the production or abundant production of the material, and from that point of view, starch is the most easily and 
+abundantly found polymer among all the bio-polymers discussed in this study [83]. But starch-based resins have significant problems 
+in terms of mechanical properties. PLA is a new concept compared to other common polymers produced from starch sources. It is also 
+quite easily found in that sense, but since the production process is not fully established yet in terms of the sustainable system, just like 
+the other bio-polymers of this study [128]. But in comparison with the common synthetic polymers, the bio-polymers lack in terms of 
+quantity and a well-established sustainable production process. But still, the bio-polymers offer a far greater advantage of sustainable 
+production  in  comparison  to  synthetic  polymers.  The  greenhouse  gas  emission  data  can  give  the  clearest  idea  of  any  polymer’s 
+environmental impact. Table 4 below will show the greenhouse gas (GHG) emission data for different polymers. 
+
+The GHG emission data shows that the specified bio-polymers are more environmentally friendly in terms of GHG emissions. 
+Starch-based resin is the best among these, while PLA is also at the lower end of the chart. It is said that the other synthetic materials are 
+
+Table 2 
+Cost of different polymers [122].  
+
+Polymer Resin 
+
+Polylactic Acid 
+Starch based Resin 
+High Density Polyethylene 
+Low Density Polyethylene 
+Polypropylene 
+Polyester 
+Poly Carbonate 
+Polyvinyl Alcohol (PVA)  
+
+Cost Range ($/Pound) 
+
+2–2.5 
+1–1.25 
+0.2–0.5 
+
+1.2–1.5 
+
+Heliyon9(2023)e1559712Md.A. Mahmud et al.                                                                                                                                                                                                 
+
+Table 3 
+Bio-degradation nature of different polymers [123–127].  
+
+Nature of Degradation 
+
+Feature 
+
+Polymer Resin 
+
+Duration for Bio- 
+degradation 
+
+Polylactic Acid 
+
+Several months or more 
+
+Starch-based Resin 
+Poly Caprolactone (PCL) 
+
+About a month or more 
+Several months or more 
+
+Poly Butylene Succinate 
+
+A few months 
+
+Degrades by biological means 
+
+(PBS) 
+
+Not easily bio-degradable, needs specific 
+condition. 
+Degrades by biological means 
+Degrades very slowly 
+
+Good mechanical properties but brittle in nature 
+
+Brittle and poor mechanically, but very cheap. 
+Poor mechanical properties but good resistance against 
+chemicals. 
+Thermally resistant but stiffness is insufficient.  
+
+already being synthesized using the most  environmentally friendly  and sustainable system, while the PLA synthesis is still under 
+modification to find the optimum level [128]. So, from this point of view, the bio-polymers pass the sustainability mark, while adding 
+coir fiber in these resins further improves the GHG emission. 
+
+The last point to be considered would be the properties of the biopolymers. The tensile properties of different polymers are stated in 
+
+Table 5 below. 
+
+Table 5 shows that, among the bio-polymers, PLA is the best one that can match or even go beyond the tensile properties of any 
+common synthetic polymers. The other option would be PBS. Then PCL and starch would follow afterward. But by comparing all the 
+previously mentioned properties and other features, PLA seems to be the most suitable option from all points of view except the high 
+price. The price can be compromised by using coir fiber as reinforcement. These two can match quite well as both have a similar 
+density (about 1.25 gm/cc [103,124]) while the tensile properties of coir fiber are quite good too, even though not as good as other 
+fibers like jute, flax, etc [103]. And with some further optimization in the production procedure, both the price and GHG emission of 
+the PLA can be taken up to the required level, and the addition of coir fiber would help the process as it would reduce the cost and GHG 
+emission further and at the same time, the possible deterioration of by the addition of the fiber can be compromised as PLA generally 
+has better tensile properties than other common polymers, so a bit deterioration would not be too detrimental for the final product. 
+And thus, the production of sustainable biocomposite can be justified. Other than that, the starch-based resin can also be used when 
+biodegradation is far more important than tensile properties, especially for our daily-use products, which are used once or twice in the 
+product’s lifetime. And the addition of cheap coir fibers would help produce cheaper materials, and thus sustainable biocomposite can 
+also be produced. 
+
+5. Conclusion 
+
+This study has been done to learn about the thermal insulating property and the performance as reinforcing material in composite 
+structures of coir fiber, a fiber that is produced from coconut waste and found in large quantities all over the world. It is a lignocel-
+lulosic fiber, but it doesn’t have all the best properties that are found among natural fibers. Actually, its low cost, thermal insulating 
+property, and relatively fair mechanical properties make it suitable for composite material. It has been used successfully in quite a few 
+biopolymer composites discussed earlier. The results of those research again showed that it is possible to produce better and more 
+sustainable materials from natural, biodegradable polymers. A few composites under discussion have shown better thermal resistance 
+and insulating properties which have been used in civil engineering sites. The description of the coir structure also indicated the coir’s 
+ability as an effective, low-cost heat insulator that can be used in practical life. But the major drawback is the price of biopolymers, 
+which can be solved if fibers like coir, found as a waste material, are used with those polymers in composites. Some factors like alkali 
+treatment, use of suitable treatment time, use of suitable resin, etc., that impact the mechanical properties of the final product have also 
+been discussed in this study, which may come in handy in future research. And by comparing several properties such as GHG emission, 
+tensile properties, nature of the degradation process, thermal properties, etc., the use of bio-polymers to produce coir fiber-reinforced 
+sustainable biocomposites has been justified in this study. The results are not up to the optimum level yet, but with some further 
+improvement, the level can be reached in the near future, and those modifications will have to be the production of the bio-polymers 
+oriented, which will help to reduce the cost further as well as the GHG emission to a far more tolerable level. 
+
+Author contribution statement 
+
+All authors listed have significantly contributed to the development and the writing of this article. 
+
+Data availability statement 
+
+Data included in article/supp. material/referenced in article. 
+
+Financial information 
+
+There is no financial information to share regarding this study. 
+
+Heliyon9(2023)e1559713Md.A. Mahmud et al.                                                                                                                                                                                                 
+
+Table 4 
+GHG Emission for different Polymers [128–131].  
+
+Polymer Resin 
+
+GHG Emission (kg C02 equivalent/kg material) 
+
+Polylactic Acid 
+Starch based Resin 
+Poly Butylne Succinate (PBS) 
+High Density Polyethylene 
+Low Density Polyethylene 
+Unsaturated Polyester 
+Epoxy Resin 
+
+1.7 
+0.6 
+2–2.3 
+2.6 
+2.9 
+7.6 
+6.7  
+
+Table 5 
+Tensile Properties of different polymers [4,83,103,124,132–137].  
+
+Polymer Resin 
+
+Tensile Strength (MPa) 
+
+Tensile Modulus (MPa) 
+
+Polylactic Acid 
+Starch based Resin 
+Poly Butylne Succinate (PBS) 
+Polycaprolactone (PCL) 
+High Density Polyethylene 
+Low Density Polyethylene 
+Unsaturated Polyester 
+
+21–60 
+1–5 
+15–35 
+16 
+15–26 
+10–20 
+25–40 
+
+Statement of the conflict of interests 
+
+270–1600 
+25–35 
+400–500 
+400 
+600–900 
+300–400 
+900–920  
+
+The authors can clarify that there is no relation of the authors with any subject discussed in this paper which can cause any conflict 
+
+of interests. 
+
+Declaration of competing interest 
+
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to 
+
+influence the work reported in this paper. 
+
+References 
+
+[1] M. Loos, Composites, in: Carbon Nanotube Reinforced Composites, first ed., Elsevier Science, 2015, pp. 37–72, https://doi.org/10.1016/B978-1-4557-3195- 
+
+4.00002-3. 
+
+[2] F.R. Anannya, Md A. Mahmud, Developments in flame-retardant bio-composite material production, Adv. Civ. Eng. Mater. 8 (1) (2019) 9–22, https://doi.org/ 
+
+10.1520/acem20180025. 
+
+[3] A. Mwasha, Coir fibre: a sustainable engineering material for the caribbean islands, Int. J. Bahamian Stud. 15 (2009) 36, https://doi.org/10.15362/ijbs. 
+
+v15i0.108. 
+
+[4] R. Amin, A. Mahmud, F. Rahman, Natural fiber reinforced starch based biocomposites, Polym. Sci. 61 (5) (2019) 533–543, https://doi.org/10.1134/ 
+
+S0965545X1905016X. 
+
+[5] B.M.M. Gonçalves, et al., Surface treatments of coffee husk fiber waste for effective incorporation into polymer biocomposites, Polymers 13 (2021), https:// 
+
+doi.org/10.3390/polym13193428, 19. 
+
+[6] M.S. Oliveira, et al., Dynamic mechanical analysis of thermally aged fique fabric-reinforced epoxy composites, Polymers 13 (2021), https://doi.org/10.3390/ 
+
+polym13224037, 22, Nov. 
+
+[7] U.O. Costa, et al., Dynamic mechanical behavior of graphene oxide functionalized curaua fiber-reinforced epoxy composites: a brief report, Polymers 13 
+
+(2021), https://doi.org/10.3390/polym13111897, 11. 
+
+[8] A.C. Pereira, et al., Enhancement of impact toughness using graphene oxide in epoxy composite reinforced with ramie fabric, Compos. Struct. 282 (2022), 
+
+115023, https://doi.org/10.1016/j.compstruct.2021.115023. 
+
+[9] R. Kozłowski, M. Władyka-Przybylak, Flammability and fire resistance of composites reinforced by natural fibers, Polym. Adv. Technol. 19 (6) (2008) 
+
+446–453, https://doi.org/10.1002/pat.1135. 
+
+[10] J. Holbery, D. Houston, Natural-fiber-reinforced polymer composites in automotive applications, JOM 58 (11) (2006) 80–86, https://doi.org/10.1007/ 
+
+s11837-006-0234-2. 
+
+[11] M. Abdelmouleh, S. Boufi, M.N. Belgacem, A. Dufresne, Short natural-fibre reinforced polyethylene and natural rubber composites: effect of silane coupling 
+
+agents and fibres loading, Compos. Sci. Technol. 67 (7–8) (2007) 1627–1639, https://doi.org/10.1016/j.compscitech.2006.07.003. 
+
+[12] M. Souza, C. Garcia, F. Santos, Evaluation of dynamic mechanical properties of fique fabric/epoxy composites, Mater. Res. 22 (1–6) (2019), https://doi.org/ 
+
+10.1590/1980-5373-MR-2019-0125. 
+
+[13] A.C. Pereira, et al., Ballistic performance of multilayered armor with intermediate polyester composite reinforced with fique natural fabric and fibers, J. Mater. 
+
+Res. Technol. 8 (5) (2019) 4221–4226, https://doi.org/10.1016/j.jmrt.2019.07.031. 
+
+[14] O. Ayalon, T. Goldrath, G. Rosenthal, M. Grossman, Reduction of plastic carrier bag use: an analysis of alternatives in Israel, Waste Manag. 29 (7) (2009) 
+
+2025–2032, https://doi.org/10.1016/j.wasman.2009.02.016. 
+
+[15] M.A. Mahmud, Development of modified starch coated jute fabric, J. Inst. Eng.: Series E 99 (2) (2018) 149–156, https://doi.org/10.1007/s40034-018-0123-6. 
+[16] X. Xing, Study on the ban on free plastic bags in China, J. Sustain. Dev. 2 (1) (2009) 156–158, https://doi.org/10.5539/jsd.v2n1p156. 
+[17] R. Moharam, M. Almaqtari, The impact of plastic bags on the environment: a field survey of the city of sana’a and the surrounding areas, Yemen 2, 2014, 
+
+pp. 61–69, no. 4. 
+
+[18] R.A. Gross, B. Kalra, Biodegradable polymers for the environment, Science 297 (1979) 803–807, https://doi.org/10.1126/science.297.5582.803, 2002. 
+
+Heliyon9(2023)e1559714Md.A. Mahmud et al.                                                                                                                                                                                                 
+
+[19] S. Kalka, T. Huber, J. Steinberg, K. Baronian, J. Müssig, M.P. Staiger, Biodegradability of all-cellulose composite laminates, Compos Part A Appl Sci Manuf 59 
+
+(2014) 37–44, https://doi.org/10.1016/j.compositesa.2013.12.012. 
+
+[20] P.A. Fowler, J.M. Hughes, R.M. Elias, Biocomposites: Technology, environmental credentials and market forces, J. Sci. Food Agric. 86 (12) (2006) 1781–1789, 
+
+https://doi.org/10.1002/jsfa.2558. 
+
+[21] M.J. John, S. Thomas, Biofibres and biocomposites, Carbohydr. Polym. 71 (3) (2008) 343–364, https://doi.org/10.1016/j.carbpol.2007.05.040. 
+[22] E.F. G´omez, F.C. Michel, Biodegradability of conventional and bio-based plastics and natural fiber composites during composting, anaerobic digestion and 
+
+long-term soil incubation, Polym. Degrad. Stabil. 98 (12) (2013) 2583–2591, https://doi.org/10.1016/j.polymdegradstab.2013.09.018. 
+
+[23] M. Bar, R. Alagirusamy, A. Das, Flame retardant polymer composites, Fibers Polym. 16 (4) (2015) 705–717, https://doi.org/10.1007/s12221-015-0705-6. 
+[24] Menachem Lewin (Ed.), Handbook of Fiber Chemistry, third ed., CRC Press, Boca Raton, 2006 https://doi.org/10.1201/9781420015270. 
+[25] S. Chapple, R. Anandjiwala, Flammability of natural fiber-reinforced composites and strategies for fire retardancy: a review, J. Thermoplast. Compos. Mater. 
+
+23 (2010) 877–896, https://doi.org/10.1177/0892705709356338. 
+
+[26] FAO, “Food and Agriculture Organization of United Nations, Comparison between production quantity of differnt fiber. http://www.fao.org/faostat/en/ 
+
+#compare, 2019. 
+
+[27] S. Panyakaew, S. Fotios, New thermal insulation boards made from coconut husk and bagasse, Energy Build. 43 (7) (2011) 1732–1739, https://doi.org/ 
+
+10.1016/j.enbuild.2011.03.015. 
+
+[28] 16 - acoustic and thermal insulating materials, in: Y. Li, S. Ren (Eds.), Building Decorative Materials, Woodhead Publishing, 2011, pp. 359–374, https://doi. 
+
+org/10.1533/9780857092588.359. 
+
+[29] L.D. Hung Anh, Z. P´asztory, An overview of factors influencing thermal conductivity of building insulation materials, J. Build. Eng. 44 (2021), https://doi.org/ 
+
+10.1016/j.jobe.2021.102604. 
+
+[30] S. Kara, S. Manmek, H. Kaebemick, An integrated methodology to estimate the external environmental costs of products, CIRP Ann. - Manuf. Technol. 56 (1) 
+
+(2007) 9–12, https://doi.org/10.1016/j.cirp.2007.05.004. 
+
+[31] A. Gehin, P. Zwolinski, D. Brissaud, A tool to implement sustainable end-of-life strategies in the product development phase, J. Clean. Prod. 16 (5) (2008) 
+
+566–576, https://doi.org/10.1016/j.jclepro.2007.02.012. 
+
+[32] R.J. Baumgartner, C. Zielowski, Analyzing zero emission strategies regarding impact on organizational culture and contribution to sustainable development, 
+
+J. Clean. Prod. 15 (13–14) (2007) 1321–1327, https://doi.org/10.1016/j.jclepro.2006.07.016. 
+
+[33] Y. Zhu, C. Romain, C.K. Williams, Sustainable polymers from renewable resources, Nature 540 (2016) 354–362, https://doi.org/10.1038/nature21001. 
+[34] M. Faruk, Omar, Sain (Eds.), Biofiber Reinforcements in Composite Materials, Woodhead Publishing, 2014, https://doi.org/10.1016/C2013-0-16470-7. 
+[35] F.T. Wallenberger, N. Weston (Eds.), Natural Fibers, Plastics and Composites, Springer US, Boston, 2004, https://doi.org/10.1007/978-1-4419-9050-1. 
+[36] M. Lewin, E.M. Pearce (Eds.), Fibre Chemistry: Handbook of Fibre Science and Technology, vol. 4, Marcel Dekker Inc, New York, 1985. 
+[37] R.H. Kirby, Vegetable Fibres: Botany, Cultivation and Utilization, Leonard Hill, London, 1963. 
+[38] J.E.G. Van Dam, Coir processing technologies: improvement of drying, softening, bleaching and dyeing coir fibre/yarn and printing coir floor coverings, 
+
+Common Fund For Commodities 6 (2002) 51. 
+
+[39] S. Walford, Sugarcane bagasse: how easy is it to measure its constituents?, in: Proceedings of the Annual Congress - South African Sugar Technologists’ 
+
+Association, 2008, pp. 266–273. 
+
+[40] J.X. Sun, X.F. Sun, H. Zhao, R.C. Sun, Isolation and characterization of cellulose from sugarcane bagasse, Polym. Degrad. Stabil. 84 (2) (2004) 331–339, 
+
+https://doi.org/10.1016/j.polymdegradstab.2004.02.008. 
+
+[41] J.F. Kadla, R.D. Gilbert, Cellulose Structure: A Review,” Cellulose Chemistry and Technology 34 (3) (2000) 197–216. 
+[42] G. Buschle-Diller, C. Fanter, F. Loth, Structural changes in hemp fibers as a result of enzymatic hydrolysis with mixed enzyme systems, Textil. Res. J. 269 (4) 
+
+(1999) 244–251, https://doi.org/10.1177/004051759906900403. 
+
+[43] R.C. Sun, Cereal Straw as a Resource for Sustainable Biomaterials and Biofuels, first ed., Elsevier Inc., 2010 https://doi.org/10.1016/C2009-0-06759-2. 
+[44] B.T. Styles, Pine Kernels, second ed., Academic Press, 2003 https://doi.org/10.1016/b0-12-227055-x/00927-5. 
+[45] M. Brahmakumar, C. Pavithran, R.M. Pillai, Coconut fibre reinforced polyethylene composites: effect of natural waxy surface layer of the fibre on fibre/matrix 
+interfacial bonding and strength of composites, Compos. Sci. Technol. 65 (3–4) (2005) 563–569, https://doi.org/10.1016/j.compscitech.2004.09.020. 
+[46] D. Verma, P.C. Gope, A. Shandilya, A. Gupta, M.K. Maheshwari, Coir fibre reinforcement and application in polymer composites: a review, J. Mater. Environ. 
+
+Sci. 4 (2) (2013) 266–273. 
+
+[47] Md A. Mahmud, F.R. Anannya, Jute in Geotextile,” Tekstilec 51 (1) (2018) 34–40. 
+[48] P.R. Rankilor, Textiles in civil engineering. Part 1- geotextiles, in: A.R. Horrocks, S.C. Anand (Eds.), Handbook of Technical Textiles, first ed., Woodhead 
+
+Publishing Limited, Cambridge, 2000, pp. 358–406, https://doi.org/10.1533/9781855738966. 
+
+[49] C. Asasutjarit, S. Charoenvai, J. Hirunlabh, J. Khedari, Materials and mechanical properties of pretreated coir-based green composites, Compos. B Eng. 40 (7) 
+
+(2009) 633–637, https://doi.org/10.1016/j.compositesb.2009.04.009. 
+
+[50] J. Khedari, B. Suttisonk, N. Pratinthong, J. Hirunlabh, New lightweight composite construction materials with low thermal conductivity, Cem. Concr. Compos. 
+
+23 (1) (2001) 65–70, https://doi.org/10.1016/S0958-9465(00)00072-X. 
+
+[51] C. Asasutjarit, J. Hirunlabh, J. Khedari, S. Charoenvai, B. Zeghmati, U.C. Shin, Development of coconut coir-based lightweight cement board, Construct. Build. 
+
+Mater. 21 (2) (2007) 277–288, https://doi.org/10.1016/j.conbuildmat.2005.08.028. 
+
+[52] H. Takagi, A.N. Nakagaito, K. Liu, Heat transfer analyses of natural fibre composites, WIT Trans. Built Environ. 137 (2014) 237–244, https://doi.org/10.2495/ 
+
+HPSM140211. 
+
+[53] K. Manohar, D. Ramlakhan, G. Kochhar, S. Haldar, Biodegradable fibrous thermal insulation, J. Braz. Soc. Mech. Sci. Eng. 28 (1) (2006) 45–47, https://doi. 
+
+org/10.1590/S1678-58782006000100005. 
+
+[54] Y.Y. Peng, D.D. Dussan, R. Narain, Thermal, Mechanical, and Electrical Properties,” Polymer Science and Nanotechnology: Fundamentals and Applications, 2020, 
+
+pp. 179–201, https://doi.org/10.1016/B978-0-12-816806-6.00009-1. 
+
+[55] B. Bakri Naharuddin, A.E.E. Putra, I. Renreng, H. Arsyad, A.A. Mochtar, Effect of microwave treatment on mechanical properties of coir fibers, IOP Conf. Ser. 
+
+Earth Environ. Sci. 175 (1) (2018), https://doi.org/10.1088/1755-1315/175/1/012001. 
+
+[56] S. Schiavoni, F. D׳Alessandro, F. Bianchi, F. Asdrubali, Insulation materials for the building sector: a review and comparative analysis, Renew. Sustain. Energy 
+
+Rev. 62 (2016) 988–1011, https://doi.org/10.1016/j.rser.2016.05.045. 
+
+[57] C. Yu, Natural textile fibres: vegetable fibres, in: Textiles and Fashion: Materials, Design and Technology, Woodhead Publishing Limited, 2015, pp. 29–56, 
+
+https://doi.org/10.1016/B978-1-84569-931-4.00002-7. 
+
+[58] M.F. Ashby, Material Profiles,” Materials and the Environment, 2013, pp. 459–595, https://doi.org/10.1016/b978-0-12-385971-6.00015-4. 
+[59] G.B. Vaggar, S.C. Kamate, S.L. Nadaf, A study on thermal conductivity and thermogravimetric analysis of glass fiber epoxy resin composites modified with 
+
+silicon carbide and copper nanoparticles, Mater. Today Proc. 66 (2022) 2308–2314, https://doi.org/10.1016/j.matpr.2022.06.230. 
+
+[60] P. Pf¨affli, A. Zitting, H. Vainio, Thermal degradation products of homopolymer polystyrene in air, Scand. J. Work. Environ. Health 4 (Suppl 2) (1978) 22–27. 
+[61] A. Simpson, I.G. Rattigan, E. Kalavsky, G. Parr, Thermal conductivity and conditioning of grey expanded polystyrene foams, Cell. Polym. 39 (6) (2020) 
+
+238–262, https://doi.org/10.1177/0262489320934263. 
+
+[62] K.M.F. Hasan, P.G. Horv´ath, Z. K´ocz´an, T. Alp´ar, Thermo-mechanical properties of pretreated coir fiber and fibrous chips reinforced multilayered composites, 
+
+Sci. Rep. 11 (1) (2021) 1–13, https://doi.org/10.1038/s41598-021-83140-0. 
+
+[63] D.S. Mintorogo, W.K. Widigdo, A. Juniwati, Application of coconut fibres as outer eco-insulation to control solar heat radiation on horizontal concrete slab 
+
+rooftop, Procedia Eng. 125 (2015) 765–772, https://doi.org/10.1016/j.proeng.2015.11.129. 
+
+[64] J. Iwaro, A. Mwasha, Effects of using coconut fiber–insulated masonry walls to achieve energy efficiency and thermal comfort in residential dwellings, 
+
+J. Architect. Eng. 25 (1) (2019), https://doi.org/10.1061/(asce)ae.1943-5568.0000341. Mar. 
+
+Heliyon9(2023)e1559715Md.A. Mahmud et al.                                                                                                                                                                                                 
+
+[65] A. Brose, J. Kongoletos, L. Glicksman, Coconut fiber cement panels as wall insulation and structural Diaphragm, Front. Energy Res. 7 (2019), https://doi.org/ 
+
+10.3389/fenrg.2019.00009. MAR. 
+
+[66] S.N. Monteiro, L.A.H. Terrones, J.R.M. D’Almeida, Mechanical performance of coir fiber/polyester composites, Polym. Test. 27 (5) (2008) 591–595, https:// 
+
+doi.org/10.1016/j.polymertesting.2008.03.003. 
+
+[67] N. Ayrilmis, S. Jarusombuti, V. Fueangvivat, P. Bauchongkol, R.H. White, Coir fiber reinforced polypropylene composite panel for automotive interior 
+
+applications, Fibers Polym. 12 (7) (2011) 919–926, https://doi.org/10.1007/s12221-011-0919-1. 
+
+[68] S. Siddika, F. Mansura, M. Hasan, A. Hassan, Effect of reinforcement and chemical treatment of fiber on the Properties of jute-coir fiber reinforced hybrid 
+
+polypropylene composites, Fibers Polym. 15 (5) (2014) 1023–1028, https://doi.org/10.1007/s12221-014-1023-0. 
+
+[69] C.Y. Lai, S.M. Sapuan, M. Ahmad, N. Yahya, K.Z.H.M. Dahlan, Mechanical and electrical properties of coconut coir fiber-reinforced polypropylene composites, 
+
+Polym. Plast. Technol. Eng. 44 (4) (2005) 619–632, https://doi.org/10.1081/PTE-200057787. 
+
+[70] C.A.S. Hill, H.P.S. Abdul Khalil, Effect of fiber treatments on mechanical properties of coir or oil palm fiber reinforced polyester composites, J. Appl. Polym. 
+
+Sci. 78 (9) (2000) 1685–1697, https://doi.org/10.1002/1097-4628(20001128)78:9<1685::AID-APP150>3.0.CO, 2-U. 
+
+[71] A. Karthikeyan, K. Balamurugan, Effect of alkali treatment and fiber length on impact behavior of coir fiber reinforced epoxy composites, J. Sci. Ind. Res. 
+
+(India) 71 (9) (2012) 627–631. 
+
+[72] A.A.S. Curvelo, A.J.F. De Carvalho, J.A.M. Agnelli, Thermoplastic starch-cellulosic fibers composites: preliminary results, Carbohydr. Polym. 45 (2) (2001) 
+
+183–188, https://doi.org/10.1016/S0144-8617(00)00314-3. 
+
+[73] G. Bogoeva-Gaceva, et al., Natural fiber eco-composites, Polym. Compos. 28 (1) (2007) 98–107, https://doi.org/10.1002/pc.20270. 
+[74] J. Rout, M. Misra, S.S. Tripathy, S.K. Nayak, A.K. Mohanty, The influence of fibre treatment of the performance of coir-polyester composites, Compos. Sci. 
+
+Technol. 61 (9) (2001) 1303–1310, https://doi.org/10.1016/S0266-3538(01)00021-5. 
+
+[75] H. Chi, et al., Effect of acetylation on the properties of corn starch, Food Chem. 106 (3) (2008) 923–928, https://doi.org/10.1016/j.foodchem.2007.07.002. 
+[76] A. Mudhoo, R. Mohee, G.D. Unmar, S.K. Sharma, Degradation of biodegradable and green polymers in the composting environment, in: S.K. Sharma, 
+A. Mudhoo (Eds.), Handbook of Applied Biopolymer Technology: Synthesis, Degradation & Applications, first ed., RSC Publishing, Cambridge, 2011, 
+pp. 332–364. 
+
+[77] J.F. Robyt, Starch: structure, properties, chemistry and enzymology, in: B.O. Fraser-Reid, K. Tatsuta, J. Thiem (Eds.), Glycoscience: Chemistry and Chemical 
+
+Biology, Springer, Heidelberg, 2008, pp. 1437–1472. 
+
+[78] M.G. Lomelí Ramírez, K.G. Satyanarayana, S. Iwakiri, G.B. De Muniz, V. Tanobe, T.S. Flores-Sahagun, Study of the properties of biocomposites. Part I. Cassava 
+
+starch-green coir fibers from Brazil, Carbohydr. Polym. 86 (4) (2011) 1712–1722, https://doi.org/10.1016/j.carbpol.2011.07.002. 
+
+[79] M.G. Lomelí-Ramírez, S.G. Kestur, R. Manríquez-Gonz´alez, S. Iwakiri, G.B. De Muniz, T.S. Flores-Sahagun, Bio-composites of cassava starch-green coconut 
+
+fibaer: Part II - structure and properties, Carbohydr. Polym. 102 (15) (2014) 576–583, https://doi.org/10.1016/j.carbpol.2013.11.020. 
+
+[80] J.L. Guimar˜aes, F. Wypych, C.K. Saul, L.P. Ramos, K.G. Satyanarayana, Studies of the processing and characterization of corn starch and its composites with 
+
+banana and sugarcane fibers from Brazil, Carbohydr. Polym. 80 (1) (2010) 130–138, https://doi.org/10.1016/j.carbpol.2009.11.002. 
+
+[81] M.E. Vallejos, et al., Composite materials of thermoplastic starch and fibers from the ethanol-water fractionation of bagasse, Ind. Crop. Prod. 33 (3) (2011) 
+
+739–746, https://doi.org/10.1016/j.indcrop.2011.01.014. 
+
+[82] W.N. Gilfillan, D.M.T. Nguyen, P.A. Sopade, W.O.S. Doherty, Preparation and characterisation of composites from starch and sugar cane fibre, Ind. Crop. Prod. 
+
+40 (2012) 45–54, https://doi.org/10.1016/j.indcrop.2012.02.036. 
+
+[83] R. Amin, F.R. Anannya, Md A. Mahmud, S. Raian, Esterification of starch in search of a biodegradable thermoplastic material, J. Polym. Res. 27 (2020) 1–12, 
+
+https://doi.org/10.1007/s10965-019-1983-2. 
+
+[84] C. Baillie (Ed.), Green Composites: Polymer Composites and the Environment, first ed., Woodhead Publishing Limited, Cambridge, 2004 https://doi.org/ 
+
+10.1016/C2013-0-17863-4. 
+
+[85] A.K. Mohanty, M. Misra, G. Hinrichsen, Biofibres, biodegradable polymers and biocomposites: an overview, Macromol. Mater. Eng. 276=277 (1) (2000) 1–24, 
+
+https://doi.org/10.1002/(SICI)1439-2054(20000301)276:1<1::AID-MAME1>3.0. CO;2-W. 
+
+[86] R.M. Johnson, N. Tucker, S. Barnes, Impact performance of miscanthus/novamont mater-Bi (R) biocomposites, Polym. Test. 22 (2) (2003) 209–215. 
+[87] T.H. Nam, S. Ogihara, S. Kobayashi, Interfacial, mechanical and thermal properties of coir fiber-reinforced poly(lactic acid) biodegradable composites, Adv. 
+
+Compos. Mater. 21 (1) (2012) 103–122, https://doi.org/10.1163/156855112X629559. 
+
+[88] Y. Dong, A. Ghataura, H. Takagi, H.J. Haroosh, A.N. Nakagaito, K.T. Lau, Polylactic acid (PLA) biocomposites reinforced with coir fibres: evaluation of 
+
+mechanical performance and multifunctional properties, Compos Part A Appl Sci Manuf 63 (2014) 76–84, https://doi.org/10.1016/j. 
+compositesa.2014.04.003. 
+
+[89] J.Y. Jang, T.K. Jeong, H.J. Oh, J.R. Youn, Y.S. Song, Thermal stability and flammability of coconut fiber reinforced poly(lactic acid) composites, Compos. B 
+
+Eng. 43 (5) (2012) 2434–2438, https://doi.org/10.1016/j.compositesb.2011.11.003. 
+
+[90] T. Gries, M. Raina, T. Quadflieg, O. Stolyarov, Manufacturing of textiles for civil engineering applications, in: T.C. Triantafillou (Ed.), Textile Fibre Composites 
+
+in Civil Engineering, first ed., Woodhead Publishing Limited, 2016, pp. 3–24, https://doi.org/10.1016/C2014-0-01415-3. 
+
+[91] C. R´eti, M. Casetta, S. Duquesne, S. Bourbigot, R. Delobel, Flammability properties of intumescent PLA starch and lignin, Polym. Adv. Technol. 19 (6) (2008) 
+
+628–635, https://doi.org/10.1002/pat.1130. 
+
+[92] F.J. Van Natta, J.W. Hill, W.H. Carothers, Studies of polymerization and ring formation. XXIII. Ɛ-caprolactone and its polymers, J. Am. Chem. Soc. 56 (2) 
+
+(1934) 455–457, https://doi.org/10.1021/ja01317a053. 
+
+[93] S. Ebnesajjad (Ed.), Handbook of Biopolymers and Biodegradable Plastics, first ed., Elsevier Inc., Oxford, 2013 https://doi.org/10.1016/B978-1-4557-2834- 
+
+3.00006-9. 
+
+[94] Y. Tokiwa, T. Suzuki, Hydrolysis of polyesters by lipases, Nature 270 (1977) 76–78, https://doi.org/10.1038/270076a0. 
+[95] H. Nishida, Y. Tokiwa, Distribution of poly(β-hydroxybutyrate) and poly(ε-caprolactone)aerobic degrading microorganisms in different environments, 
+
+J. Environ. Polym. Degrad. 1 (3) (1993) 227–233, https://doi.org/10.1007/BF01458031. 
+
+[96] C.V. Benedict, J.A. Cameron, S.J. Huang, Polycaprolactone degradation by mixed and pure cultures of bacteria and a yeast, J. Appl. Polym. Sci. 28 (1) (1983) 
+
+335–342, https://doi.org/10.1002/app.1983.070280129. 
+
+[97] M.J. Motiwalla, P.P. Punyarthi, M.K. Mehta, J.S. D’Souza, V. Kelkar-Mane, Studies on degradation efficiency of polycaprolactone by a naturally-occurring 
+
+bacterium, J. Environ. Biol. 34 (1) (2013) 43–49. 
+
+[98] M. Rutkowska, et al., Biodegradation of modified poly(ε-caprolactone) in different environments, Pol. J. Environ. Stud. 11 (4) (2002) 413–420. 
+[99] V. Guarino, G. Gentile, L. Sorrentino, L. Ambrosio, Polycaprolactone: Synthesis, Properties, and Applications,” Encyclopedia of Polymer Science and Technology, 
+
+John Wiley & Sons, Inc., 2017, pp. 1–36, https://doi.org/10.1002/0471440264.pst658. 
+
+[100] H.C. Obasi, A.A. Chaudhry, K. Ijaz, H. Akhtar, M.H. Malik, Development of biocomposites from coir fibre and poly (caprolactone) by solvent casting technique, 
+
+Polym. Bull. 75 (5) (2018) 1775–1787, https://doi.org/10.1007/s00289-017-2122-z. 
+
+[101] C.-S. Wu, Preparation and characterizations of polycaprolactone/green coconut fiber composites, J. Appl. Polym. Sci. 115 (2) (2010) 948–956. 
+[102] T. Fujimaki, Processability and properties of aliphatic polyesters, ‘BIONOLLE’, synthesized by polycondensation reaction, Polym. Degrad. Stabil. 59 (1–3) 
+
+(1998) 209–214. 
+
+[103] T.H. Nam, S. Ogihara, N.H. Tung, S. Kobayashi, Effect of alkali treatment on interfacial and mechanical properties of coir fiber reinforced poly(butylene 
+
+succinate) biodegradable composites, Compos. B Eng. 42 (6) (2011) 1648–1656, https://doi.org/10.1016/j.compositesb.2011.04.001. 
+
+[104] J. Fromageau, E. Brusseau, D. Vray, G. Gimenez, P. Delachartre, Characterization of PVA cryogel for intravascular ultrasound elasticity imaging, IEEE Trans. 
+
+Ultrason. Ferroelectrics Freq. Control 50 (1) (2003) 1318–1324, https://doi.org/10.1109/TUFFC.2003.1244748. 
+
+[105] I. Kong, J.T. Bick Shang, K.Y. Tshai, Study of properties of coconut fibre reinforced poly (vinyl alcohol) as biodegradable composites, ARPN J. Eng. Appl. Sci. 
+
+11 (1) (2016) 135–143. 
+
+Heliyon9(2023)e1559716Md.A. Mahmud et al.                                                                                                                                                                                                 
+
+[106] A. Moubarik, A. Pizzi, A. Allal, F. Charrier, B. Charrier, Cornstarch and tannin in phenol-formaldehyde resins for plywood production, Ind. Crop. Prod. 30 (2) 
+
+(2009) 188–193, https://doi.org/10.1016/j.indcrop.2009.03.005. 
+
+[107] M.A. Mosiewicki, M.I. Aranguren, A.A.S. Curvelo, J. Borrajo, Effect of natural rubber on wood-reinforced tannin composites, J. Appl. Polym. Sci. 105 (4) 
+
+(2007) 1825–1832, https://doi.org/10.1002/app.26276. 
+
+[108] V. Barbosa, E.C. Ramires, I.A.T. Razera, E. Frollini, Biobased composites from tannin-phenolic polymers reinforced with coir fibers, Ind. Crop. Prod. 32 (3) 
+
+(2010) 305–312, https://doi.org/10.1016/j.indcrop.2010.05.007. 
+
+[109] S. Patachia, C. Croitoru, Biopolymers for wood preservation, in: F. Pacheco-Torgal, V. Ivanov, N. Karak, H. Jonkers (Eds.), Biopolymers and Biotech 
+Admixtures for Eco-Efficient Construction Materials, Elsevier Ltd, 2016, pp. 305–332, https://doi.org/10.1016/B978-0-08-100214-8.00014-2. 
+
+[110] I. Mueller-Harvey, Analysis of hydrolysable tannins, Anim. Feed Sci. Technol. 91 (1–2) (2001) 3–20, https://doi.org/10.1016/S0377-8401(01)00227-9. 
+[111] C. Pe˜na, M. Larra˜naga, N. Gabilondo, A. Tejado, J.M. Echeverria, I. Mondragon, Synthesis and characterization of phenolic novolacs modified by chestnut and 
+
+mimosa tannin extracts, J. Appl. Polym. Sci. 100 (6) (2006) 4412–4419, https://doi.org/10.1002/app.22923. 
+
+[112] B.D. Agarwal, L.J. Broutman, K. Chandrashekhara, Analysis and Performance of Fiber Composites, third ed., 3rd ed. WILEY-VCH Verlag GmbH & Co. KGaA, 
+
+2015 https://doi.org/10.1016/0921-5093(92)90189-8. 
+
+[113] M.M. Haque, M. Hasan, M.S. Islam, M.E. Ali, Physico-mechanical properties of chemically treated palm and coir fiber reinforced polypropylene composites, 
+
+Bioresour. Technol. 100 (20) (2009) 4903–4906, https://doi.org/10.1016/j.biortech.2009.04.072. 
+
+[114] S. Biswas, S. Kindo, A. Patnaik, Effect of fiber length on mechanical behavior of coir fiber reinforced epoxy composites, Fibers Polym. 12 (1) (2011) 73–78, 
+
+https://doi.org/10.1007/s12221-011-0073-9. 
+
+[115] Md A. Mahmud, F.R. Anannya, Sugarcane bagasse - a source of cellulosic fiber for diverse applications, Heliyon 7 (8) (2021), https://doi.org/10.1016/j. 
+
+heliyon.2021.e07771, 1-14. 
+
+[116] V. Gunaa, et al., Journal of Building Engineering Wool and coir fiber rein forced gypsum ceiling tiles with enhanced stability and acoustic and thermal 
+
+resistance, J. Build. Eng. 41 (2020) 2021, https://doi.org/10.1016/j.jobe.2021.102433. December. 
+
+[117] H. Essabir, M.O. Bensalah, D. Rodrigue, R. Bouhfid, A. Qaiss, Structural , mechanical and thermal properties of bio-based hybrid composites from waste coir 
+
+residues : fibers and shell particles, Mech. Mater. 93 (2016) 134–144, https://doi.org/10.1016/j.mechmat.2015.10.018. 
+
+[118] J.C. dos Santos, R.L. Siqueira, L.M.G. Vieira, R.T.S. Freire, V. Mano, T.H. Panzera, Effects of sodium carbonate on the performance of epoxy and polyester coir- 
+
+reinforced composites, Polym. Test. 67 (2018) 533–544. 
+
+[119] N. Prasad, V.K. Agarwal, S. Sinha, Thermal degradation of coir fiber reinforced low-density polyethylene composites 25 (2) (2018) 363–372, https://doi.org/ 
+
+10.1515/secm-2015-0422. 
+
+[120] N. Ezekiel, B. Ndazi, C. Nyahumwa, S. Karlsson, Effect of temperature and durations of heating on coir fibers, Ind. Crop. Prod. 33 (3) (2011) 638–643, https:// 
+
+doi.org/10.1016/j.indcrop.2010.12.030. 
+
+[121] Z. Sun, L. Zhang, D. Liang, W. Xiao, J. Lin, Mechanical and Thermal Properties of PLA Biocomposites Reinforced by Coir Fibers vol. 2017, 2017, pp. 1–9. 
+[122] K. Hamad, M. Kaseem, Y.G. Ko, F. Deri, Biodegradable polymer blends and composites: an overview, Polym. Sci. 56 (6) (2014) 812–829, https://doi.org/ 
+
+10.1134/S0965545X14060054. 
+
+[123] S.A. Rafiqah, et al., A review on properties and application of bio-based poly(Butylene succinate), Polymers 13 (9) (2021) 1–28, https://doi.org/10.3390/ 
+
+polym13091436. 
+
+[124] N.F. Zaaba, M. Jaafar, A review on degradation mechanisms of polylactic acid: hydrolytic, photodegradative, microbial, and enzymatic degradation, Polym. 
+
+Eng. Sci. 60 (9) (2020) 2061–2075, https://doi.org/10.1002/pen.25511. 
+
+◦
+
+[125] M. Kunioka, F. Ninomiya, M. Funabashi, Biodegradation of poly(butylene succinate) powder in a controlled compost at 58
+
+C evaluated by naturally-occurring 
+carbon 14 amounts in evolved CO2 based on the ISO 14855-2 method, Int. J. Mol. Sci. 10 (10) (2009) 4267–4283, https://doi.org/10.3390/ijms10104267. 
+
+[126] M. Bartnikowski, T.R. Dargaville, S. Ivanovski, D.W. Hutmacher, Degradation mechanisms of polycaprolactone in the context of chemistry, geometry and 
+
+environment, Prog. Polym. Sci. 96 (2019) 1–20, https://doi.org/10.1016/j.progpolymsci.2019.05.004. 
+
+[127] A.H.M. Zain, M.K. Ab Wahab, H. Ismail, Biodegradation behaviour of thermoplastic starch: the roles of carboxylic acids on cassava starch, J. Polym. Environ. 
+
+26 (2) (2018) 691–700, https://doi.org/10.1007/s10924-017-0978-5. 
+
+[128] E. Rezvani Ghomi, et al., The life cycle assessment for polylactic acid (PLA) to make it a low-carbon material, Polymers 13 (11) (2021) 1–16, https://doi.org/ 
+
+10.3390/polym13111854. 
+
+[129] P. Usubharatana, H. Phungrassami, Carbon footprint of cassava starch production in North-Eastern Thailand, Procedia CIRP 29 (2015) 462–467, https://doi. 
+
+org/10.1016/j.procir.2015.02.031. 
+
+[130] M.L.M. Broeren, L. Kuling, E. Worrell, L. Shen, Environmental impact assessment of six starch plastics focusing on wastewater-derived starch and additives, 
+
+Resour. Conserv. Recycl. 127 (2017) 246–255, https://doi.org/10.1016/j.resconrec.2017.09.001. July. 
+
+[131] J.M. Chard, L. Basson, G. Creech, D.A. Jesson, P.A. Smith, Shades of green: life cycle assessment of a urethane methacrylate/unsaturated polyester resin system 
+
+for composite materials, Sustainability 11 (2019), https://doi.org/10.3390/su11041001, 4. 
+
+[132] R.E. Cameron, A. Kamvari-Moghaddam, Synthetic bioresorbable polymers, in: Durability and Reliability of Medical Polymers, Woodhead Publishing Limited, 
+
+2012, pp. 96–118, https://doi.org/10.1533/9780857096517.1.96. 
+
+[133] N. Sangviroon, P. Potiyaraj, Thermal and mechanical properties of poly(butylene succinate) films reinforced with silica, MATEC Web of Conferences 30 (2015) 
+
+2–4, https://doi.org/10.1051/matecconf/20153001013. 
+
+[134] V.P. Cyras, L.B. Manfredi, M.T. Ton-That, A. V´azquez, Physical and mechanical properties of thermoplastic starch/montmorillonite nanocomposite films, 
+
+Carbohydr. Polym. 73 (1) (2008) 55–63, https://doi.org/10.1016/j.carbpol.2007.11.014. 
+
+[135] Mohammad Amjadi, Fatemi Ali, Tensile behavior of high-density polyethylene including the effects of processing technique, Polymers 12 (2020), 1857. 
+[136] A. Romisuhani, H. Salmah, H. Akmal, Tensile properties of low density polypropylene (LDPE)/palm kernel shell (PKS) biocomposites: the effect of acrylic acid 
+
+(AA), IOP Conf. Ser. Mater. Sci. Eng. 11 (2010), 012001, https://doi.org/10.1088/1757-899x/11/1/012001. 
+
+[137] G. Gündüz, D. Erol, N. Akkas¸, Mechanical properties of unsaturated polyester-isocyanate hybrid polymer network and its E-glass fiber-reinforced composite, 
+
+J. Compos. Mater. 39 (17) (2005) 1577–1589, https://doi.org/10.1177/0021998305051086. 
+
+Heliyon9(2023)e1559717

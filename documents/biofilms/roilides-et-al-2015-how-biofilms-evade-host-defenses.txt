@@ -1,0 +1,1161 @@
+How Bioﬁlms Evade
+Host Defenses
+EMMANUEL ROILIDES,1 MARIA SIMITSOPOULOU,1
+ASPASIA KATRAGKOU,1,2 and THOMAS J. WALSH2
+1Infectious Diseases Unit, 3rd Department of Pediatrics, Faculty of Medicine,
+Aristotle University School of Health Sciences, Hippokration Hospital, 54642 Thessaloniki, Greece;
+2Transplantation-Oncology Infectious Diseases Program, Weill Cornell Medical Center of
+Cornell University, New York, NY 14850
+
+ABSTRACT The steps involved during the bioﬁlm growth cycle
+include attachment to a substrate followed by more permanent
+adherence of the microorganisms, microcolony arrangement,
+and cell detachment required for the dissemination of single or
+clustered cells to other organ systems. Various methods have
+been developed for bioﬁlm detection and quantitation.
+Bioﬁlm-producing microorganisms can be detected in tissue
+culture plates, using silicone tubes and staining methods,
+and by visual assessment using scanning electron microscopy or
+confocal scanning laser microscopy. Quantitative measurement
+of bioﬁlm growth is determined by using methods that include
+dry cell weight assays, colony-forming-unit counting,
+DNA quantiﬁcation, or XTT 2,3-bis (2-methoxy-4-nitro-5-
+sulfophenyl)-5-[(phenylamino) carbonyl]-2H-tetrazolium
+hydroxide reduction assay. Upon infection, innate immune
+defense strategies are able to establish an immediate response
+through eﬀector mechanisms mediated by immune cells,
+receptors, and several humoral factors. We present an overview
+of the life cycle of bioﬁlms and their diversity, detection methods
+for bioﬁlm development, and host immune responses to
+pathogens. We then focus on current concepts in bacterial
+and fungal bioﬁlm immune evasion mechanisms. This appears
+to be of particular importance because the use of host
+immune responses may represent a novel therapeutic
+approach against bioﬁlms.
+
+INTRODUCTION
+
+Historically, microbial organisms have been grown in
+pure liquid cultures as free-ﬂoating “planktonic” cells,
+promoting the general theory of the unicellular lifestyle.
+However, in the late 1970s, Costerton et al. (1) dem-
+onstrated that groups of bacteria were embedded in a
+highly hydrated polysaccharide matrix that mediated
+
+adhesion to solid aquatic surfaces. Several years later,
+the same research team called these cellular communi-
+ties “bioﬁlms,” deﬁned as a functionally heterogeneous
+aggregate of microcolonies or single cells encased in a
+matrix of self-produced extracellular polymeric mole-
+cules that could adhere either to organic, abiotic surfaces
+or to each other (2). Microbial bioﬁlms can develop
+into highly organized structures containing channels
+in which water, nutrients, and metabolic waste can be
+transported. Adhesion to substrates or surfaces induces
+expression of a large number of genes, while cell aggre-
+gates in different regions in a bioﬁlm exhibit different
+gene expression proﬁles that regulate bioﬁlm develop-
+ment and maturation processes (3, 4). A large amount
+of research since the 1980s has brought to light the
+theory that most, if not all, bacteria and fungi can form
+bioﬁlms as a survival mechanism in hostile environ-
+ments, providing protection from biotic and abiotic
+stresses (5–8). Prime candidates for cell attachment and
+bioﬁlm growth are surfaces exposed to or containing
+moisture and some nutrients. Natural or man-made
+
+Received: 13 August 2014, Accepted: 18 February 2015,
+Published: 19 June 2015
+Editors: Mahmoud Ghannoum, Case Western Reserve University,
+Cleveland, OH; Matthew Parsek, University of Washington, Seattle,
+WA; Marvin Whiteley, University of Texas at Austin, Austin, TX; and
+Pranab Mukherjee, Case Western Reserve University, Cleveland, OH
+Citation: Roilides E, Simitsopoulou M, Katragkou A, Walsh TJ. 2015.
+How biofilms evade host defenses. Microbiol Spectrum 3(3):MB-
+0012-2014. doi:10.1128/microbiolspec.MB-0012-2014.
+Correspondence: Emmanuel Roilides, roilides@med.auth.gr
+© 2015 American Society for Microbiology. All rights reserved.
+
+ASMscience.org/MicrobiolSpectrum
+
+1
+
+Downloaded from https://journals.asm.org/journal/spectrum on 23 February 2024 by 206.209.15.21.Roilides et al.
+
+substrates for cell attachment and bioﬁlm growth in-
+clude river stones, oil and gas installations, ship hulls,
+water pipes,
+food-processing surfaces, contaminated
+surgical instruments, indwelling medical devices, human
+teeth, and infected wounds (9–11). In this chapter, we
+will present an overview of the life cycle of bioﬁlms and
+their diversity, detection methods for bioﬁlm develop-
+ment, and host immune responses to pathogens. We will
+then focus on current concepts in bacterial and fungal
+bioﬁlm immune evasion mechanisms.
+
+BIOFILM FORMATION
+
+Although different model systems have been described
+to deﬁne bioﬁlm development in bacteria and fungi,
+the steps involved in the bioﬁlm growth cycle are fairly
+universal with many common characteristics (Table 1).
+In the human body, attachment to accessible human host
+proteins is the ﬁrst step of bioﬁlm formation and is de-
+pendent either on the hydrophobic nature of microbial
+surfaces or on speciﬁc cell surface molecules that enable
+adherence to host proteins. For example, Staphylococ-
+cus epidermidis and Staphylococcus aureus express
+MSCRAMMs (microbial surface components recogniz-
+ing adhesive matrix molecules) that have domains for
+noncovalent attachment to peptidoglycan moieties and
+also harbor binding sites for ﬁbronectin, ﬁbrinogen,
+laminin, collagen IV, and other human matrix proteins
+(12, 13). For bacteria with ﬂagellar motility, swimming
+cells attach to the surface ﬁrst transiently and then
+permanently, expressing conditionally synthesized ad-
+hesive proteins to form a monolayer bioﬁlm (14, 15).
+Like the exopolysaccharide (EPS) matrix of bacterial
+bioﬁlms, the polysaccharide capsule of Cryptococcus
+neoformans, a human pathogenic fungus, promotes
+the attachment process to prosthetic medical devices,
+whereas cell-surface glycoproteins facilitate adhesion
+of Candida albicans and Candida glabrata (16–19).
+Attachment is promoted by several environmental sig-
+nals, such as changes in nutrient concentrations, pH,
+ﬂow velocity of surrounding body ﬂuids (urine, blood,
+saliva), temperature, oxygen concentration, osmolality,
+and iron.
+
+TABLE 1 Steps in the bioﬁlm growth cycle
+
+Attachment of microorganisms to surfaces
+Adherence
+Microcolony arrangement
+Detachment and dissemination of single or clustered cells to other
+organ systems
+
+The next phase of bioﬁlm formation is characterized
+by a microcolony arrangement on the attached surface
+produced by the multiplication of free-ﬂoating cells;
+motility is reduced and exopolysaccharide production is
+activated to trap nutrients and planktonic cells, whereas
+signal molecules are secreted in a cell-density-dependent
+manner to communicate and coordinate the cellular
+responses through a process called quorum sensing. The
+presence of farnesol, a quorum sensing molecule ﬁrst
+described in C. albicans, has been found to inhibit the
+yeast-to-mycelium conversion, enhancing active bud-
+ding yeast production without compromising cellular
+growth rates (20). In Pseudomonas aeruginosa, rhamno-
+lipids maintain bioﬁlm architecture by affecting the
+attachment of bacterial cells to substrates and cell-to-
+cell-interactions. When cell density increases during
+the later stages of the maturation phase, rhamnolipids
+maintain open channels between cellular aggregates to
+distribute certain types and amounts of nutrients to
+support cell growth (21).
+
+Another way to trap both nutrients and planktonic
+cells once a critical bioﬁlm mass has been achieved is
+the production and secretion of extracellular matrix
+predominantly composed of polysaccharides, proteins,
+and extracellular DNA (eDNA). This matrix promotes
+initial cell adhesion, triggers polysaccharide formation,
+and serves as a support that links molecules together in
+the bioﬁlm matrix, thus inﬂuencing the structure and
+organization of mature bioﬁlms. Extracellular DNA is
+an important component of Aspergillus fumigatus bio-
+ﬁlms that originates from either fungal autolysis (22) or
+is externally supplied from human neutrophils attracted
+to the infected site (23, 24).
+
+The last phase of bioﬁlm formation is cell detachment,
+which is required for the dissemination of single or
+clustered cells to other organ systems. Factors that could
+include sheer mechanical
+contribute to cell dispersal
+forces (blood ﬂow), enzymes that digest the extracellular
+matrix, and nutrient limitation in a mature bioﬁlm. The
+dispersed cell population of C. albicans displays yeast
+morphology with different phenotypic characteristics
+from their planktonic counterparts, including increased
+adherence capacity, ﬁlamentation, bioﬁlm formation,
+and increased pathogenicity to establish new foci of in-
+fection (25). In staphylococci, quorum sensing–controlled
+phenol-soluble modulins (PSMs) participate in establish-
+ing bioﬁlm architecture as well as detachment processes
+using a mechanism similar to that used by P. aeruginosa
+but with different effector molecules. PSMs are part of a
+novel toxin family with multiple roles in staphylococcal
+pathogenesis, because they promote formation of bioﬁlm
+
+2
+
+ASMscience.org/MicrobiolSpectrum
+
+Downloaded from https://journals.asm.org/journal/spectrum on 23 February 2024 by 206.209.15.21.channels and control bioﬁlm expansion by detachment
+and regrowth, contributing to bacterial dissemination.
+During the dispersal phase, PSMs act as surfactant-
+like peptides that inhibit cell-to-cell interactions at the
+surface of the bioﬁlm, leading to the detachment of bac-
+terial cells at the ﬂuid-bioﬁlm interphase and the subse-
+quent systemic spread of bioﬁlm-associated infections
+(26, 27).
+
+Natural bioﬁlms in most environments,
+
+including
+human disease, tend to coexist forming polymicrobial
+communities (28, 29). The interactions that take place
+between fungal and/or bacterial species can either be
+synergistic or antagonistic in nature (30). An example
+of a mutually beneﬁcial interaction is a phenomenon
+called “coaggregation symbiosis” that is observed be-
+tween C. albicans and S. aureus, whereby Candida hy-
+phal penetration through epithelial layers provides a
+route of entry for staphylococci. Moreover, the observed
+hyphal-mediated increased pathogenicity of S. aureus
+may be attributed not only to the physical interactions
+but also to the differential regulation of virulence fac-
+tors produced during polymicrobial growth (31). Dif-
+ferent microbial species in a single bioﬁlm community
+could offer passive resistance, metabolic cooperation,
+quorum sensing systems, and genotypic variability
+that give an advantage to counteract adverse environ-
+mental conditions (32). In contrast, the interactions be-
+tween A. fumigatus and P. aeruginosa (both present in
+the cystic ﬁbrosis [CF] lung microbiome) is described as
+being antagonistic. A. fumigatus bioﬁlm formation is
+inhibited by direct contact with a P. aeruginosa–secreted
+heat-stable soluble factor, suggesting that small diffus-
+ible molecules can interfere with ﬁlamentous fungal
+growth in polymicrobial environments (33). Although
+in recent years investigations have shifted to polymicro-
+bial bioﬁlms, there is considerable knowledge yet to
+be gained in our understanding of microbial cohabita-
+tion and microbes’ interaction with the host to con-
+the impact of polymicrobial bioﬁlm-associated
+trol
+diseases.
+
+DETECTION AND QUANTIFICATION
+METHODS OF BIOFILM FORMATION
+Various methods have been developed for bioﬁlm de-
+tection and quantitation (Table 2). They include staining
+and microscopic visualization of bioﬁlm structure as
+well as quantitation of the numbers of bioﬁlm-associated
+cells in situ or after detachment of microbial cells from
+the substrate. Bioﬁlm-producing microorganisms are
+also detected by methods that include growth in tissue
+
+How Bioﬁlms Evade Host Defenses
+
+TABLE 2 Methods for bioﬁlm detection and quantitation
+
+Direct methods
+Tissue culture plating
+Tube method
+Congo red agar method
+Crystal violet staining
+Visual assessment by scanning
+electron microscopy
+Visual assessment by confocal
+scanning laser microscopy
+
+Indirect methods
+Dry cell weight assays
+Colony-forming-unit counting
+DNA quantiﬁcation
+XTT reduction assay
+
+culture wells or silicone tube bioﬁlm reactors, followed
+by staining with Congo red or crystal violet stains.
+These stained bioﬁlms can be visually assessed by scan-
+ning electron microscopy or confocal scanning laser
+microscopy, which is most effective for studying an
+intact bioﬁlm’s three-dimensional architecture (34–36).
+Quantitative measurement of bioﬁlm growth is deter-
+mined by using methods that include determining dry cell
+weight assays, assessing colony forming unit by plating
+on solid media, DNA quantiﬁcation, or an XTT 2,3-
+bis(2-methoxy-4-nitro-5-sulfophenyl)-5-[(phenylamino)
+carbonyl]-2H-tetrazolium hydroxide reduction assay
+(34, 37, 38). The latter method is colorimetric and uses
+XTT, a colorless or slightly yellow compound that when
+reduced to a formazan product becomes bright orange.
+The oxidation-reduction process is initiated by mito-
+chondrial dehydrogenases of metabolically active cells.
+The colorimetric change is proportional to the number of
+living cells and can be quantiﬁed spectrophotometrically.
+The biodiversity and abundance of bioﬁlm-associated mi-
+croorganisms in polymicrobial communities is detected
+using a combination of molecular diagnostics based on
+PCR, sequencing technologies, and advanced mathe-
+matical algorithms to identify the bioﬁlm-producing
+microorganisms present and to analyze the copy number
+of each organism relative to the total number of copies
+for all organisms (39–41).
+
+HOST DEFENSES AGAINST BIOFILMS
+
+Upon infection, innate immune defense strategies are
+able to establish an immediate response through effec-
+tor mechanisms mediated by immune cells, receptors,
+and several humoral factors (Table 3). The main role
+of humoral
+factors, such as mannose binding lec-
+tins, collectins, complement, and antibodies, is to bind
+invading microbes and promote receptor-mediated rec-
+ognition and phagocytosis by cells of the innate im-
+mune system. Pathogen-associated molecular structures
+found on the surface of microbes are recognized by
+
+ASMscience.org/MicrobiolSpectrum
+
+3
+
+Downloaded from https://journals.asm.org/journal/spectrum on 23 February 2024 by 206.209.15.21.Roilides et al.
+
+TABLE 3 Relation of innate host defenses and speciﬁc microbial bioﬁlms
+
+Organism
+Pseudomonas
+
+Enterococcus
+
+Candida
+
+Aspergillus
+
+Host defenses
+Activation of oxidative burst by PMN
+Altered migratory behavior of phagocytes
+Maintenance of phagocytic functions
+Bioﬁlm formation increases in the presence of PMNs
+Function of lactoferrin is severely compromised by both bacteria and PMNs
+Secreted rhamnolipids protect bacteria against PMN antibacterial activity
+Dislodged bioﬁlm cells are susceptible to immune cells
+Eﬀective phagocytosis of bioﬁlm-embedded cells
+Infected monocytes with bioﬁlm cells display reduced cytokine, chemokine expression
+Monocytes exert a bioﬁlm-enhancing eﬀect associated with increased pro-inﬂammatory cytokine expression
+Bioﬁlms have an immunosuppressive eﬀect
+Mature bioﬁlms fail to trigger a reactive oxygen species response
+β-glucan in the extracellular matrix evades host defenses
+Cytokine-primed PMNs do not enhance bioﬁlm damage
+Bioﬁlm glycosyl phosphatidylinositol–anchored proteins confer resistance to PMN killing
+Echinocandins have positive immunomodulatory eﬀects on host cells against bioﬁlms
+Dislodged bioﬁlm cells are susceptible to immune cells
+Bioﬁlms are resistant to the antifungal activity of phagocytes
+Gliotoxin downregulates vitamin D and cytokine expression
+
+speciﬁc receptors on natural killer cells or professional
+phagocytes consisting of polymorphonuclear neutro-
+phils (PMNs), mononuclear leukocytes (macrophages),
+and dendritic cells (DCs). Toll-like receptors (TLRs),
+the best-deﬁned immune sensors of invading pathogens
+on the surface of phagocytes, initiate a cascade of sig-
+naling pathways that induce phagocytosis, secretion
+of antimicrobial products generated in phagocytes by
+oxidative and nonoxidative mechanisms, release of pro-
+and anti-inﬂammatory cytokines, or other factors that
+contribute to the activation, maturation, and immuno-
+regulation of adaptive immune responses. DCs are the
+main cell populations that bridge innate and adaptive
+immunity, because recruitment by inﬂammatory signals
+leads to DC accumulation at injured or infected sites
+to capture, internalize, and present microbial cell frag-
+ments to naïve T cells in the lymph nodes. TLRs and
+C-type lectin receptors contribute to the recognition and
+activation of speciﬁc DC programs to decode the struc-
+tural information of the antigens captured and to con-
+vert it into different T-cell immune responses (42–45).
+Thus, early phases of immune response help to control
+excessive propagation of pathogens, while activation
+of proper T cell subsets leads to long-lived protective
+immunity.
+
+In most of the studies conducted to date, host-
+pathogen interactions concern bacteria and fungi in their
+free-living planktonic state. However, despite the pau-
+city of information, recent studies have begun to inves-
+tigate immune responses to bioﬁlms. Antimicrobial
+factors, such as lactoferrin and the human cationic host
+defense peptide LL-37 found at mucosal surfaces or
+
+in secondary granules of PMN, when used in vitro at
+very low concentrations, strongly inhibit formation of
+P. aeruginosa bioﬁlms. Lactoferrin, as an iron-binding
+glycoprotein, reduces the iron supply necessary for
+bioﬁlm growth and promotes twitching motility (46),
+whereas LL-37 reduces the initial attachment phase,
+increases surface motility, and interferes with the quo-
+rum sensing system of P. aeruginosa (47). However,
+bacteria are known to counteract such host defense
+processes by secreting proteases able to degrade both
+lactoferrin and LL-37 (48, 49). Although speciﬁc im-
+mune receptors for the bioﬁlm mode of growth have
+not been identiﬁed, the active involvement of PMNs
+against bioﬁlms is demonstrated by the increased oxygen
+depletion caused by enhanced oxidative burst, by the
+increased glucose uptake by PMN in CF lungs, and
+by the high concentration of L-lactate in the sputum of
+CF patients with chronic lung infection (50). It has been
+shown that upon contact of PMNs with S. aureus bio-
+ﬁlms, a decrease in bioﬁlm mass is caused by phagocy-
+tosis, rapid degranulation of lactoferrin and elastase,
+and ﬁnally, DNA release (51). Time-lapse video mi-
+croscopy has documented migration of PMNs into
+S. aureus bioﬁlms, and clearance of bacterial cells within
+the bioﬁlm by phagocytosis is shown to be dependent
+on bioﬁlm maturation, because young bioﬁlms are more
+susceptible to PMN antimicrobial functions compared
+to mature bioﬁlms (52). In contrast to planktonic cells
+of S. epidermidis, adherence of PMNs to bioﬁlms and
+phagocytosis seems to be opsonization-independent,
+suggesting that bioﬁlms could contain PMN signaling
+molecules (53).
+
+4
+
+ASMscience.org/MicrobiolSpectrum
+
+Downloaded from https://journals.asm.org/journal/spectrum on 23 February 2024 by 206.209.15.21.Confocal scanning laser microscopy shows that
+phagocytes enhance the ability of C. albicans to form
+bioﬁlms and that these phagocytes appear as unstimu-
+lated rounded cells, inducing signiﬁcantly less damage
+to bioﬁlms than their planktonic counterparts (54, 55).
+C. neoformans, an encapsulated fungus that can cause
+meningoencephalitis in immunocompromised patients,
+shows resistance to oxidative stress, but it becomes
+considerably more susceptible to cationic antimicrobial
+peptides when switching to the bioﬁlm mode of growth.
+Defensins with higher net positive charges (β-defensin-1,
+β-defensin-3) interact strongly with negatively charged
+bioﬁlm surfaces, while their hydrophobic characteristics
+enable them to enter the cells’ membranes and create
+temporary pores through which cell contents leak,
+leading to cell death. In contrast, defensins with lower
+net positive charges (α-defensin-3 and magainin-1) are
+less efﬁcient against bioﬁlms, implying that the greater
+afﬁnity to bioﬁlms results in increased bioﬁlm suscepti-
+bility (56).
+
+C. neoformans capsule is primarily composed of
+glucuronoxylomannan, a polysaccharide present
+in
+large amounts in the extracellular bioﬁlm matrix and
+for this reason indispensible for bioﬁlm formation.
+Moreover, it has been shown that anti–C. neoformans
+antibodies have a multitude of protective functions,
+including enhancement of animal survival against cryp-
+tococcosis, promotion of phagocytosis, antigen pre-
+sentation, complement activation, and modulation of
+immune protein expression. Testing the hypothesis that
+antibodies could also interfere with bioﬁlm production,
+Martinez and Casadevall demonstrated that monoclonal
+antibodies raised against glucuronoxylomannan inhibit
+bioﬁlm formation, suggesting that humoral
+immune
+responses could be important to the prevention of bio-
+ﬁlm formation. In the clinical setting, administration
+of protective antibodies could present a valuable alter-
+native in the management of bioﬁlm-associated diseases
+(17).
+
+HOW BIOFILMS OF BACTERIA AND
+FUNGI EVADE HOST DEFENSES
+Staphylococcus spp.
+Staphylococcus spp. are among the leading causes of
+health care facility– and community-associated infec-
+tions. S. epidermidis and S. aureus are frequent etiologic
+factors of bioﬁlm-associated infections on indwelling
+medical devices as well as chronic and recalcitrant infec-
+tions such as endocarditis, periodontitis, rhinosinusitis,
+
+How Bioﬁlms Evade Host Defenses
+
+and osteomyelitis (57). The emergence of drug-resistant
+strains, especially methicillin-resistant S. aureus, further
+accentuates their therapeutic difﬁculty. While the bulk of
+the available information on bioﬁlms concerns bioﬁlm
+development, the host immune responses against bioﬁlm
+infections remain largely unidentiﬁed.
+
+Initial studies of medically relevant S. aureus bioﬁlms
+showed that human leukocytes are able to effectively
+penetrate the bioﬁlm, possibly by using the nutrient
+channels that exist in mature bioﬁlms; however, leuko-
+cytes exhibit impaired phagocytosis and show a decreased
+ability to kill the bacteria (58). Subsequent studies using
+more sophisticated methods demonstrated that PMNs
+are able to clear Staphylococcus spp. bioﬁlms by phago-
+cytosis (51, 52, 59). Furthermore, immature bioﬁlms were
+more sensitive to phagocytosis compared to mature ones,
+although mature bioﬁlms are not entirely immune to
+PMN attack (52). By comparison, macrophages did not
+show appreciable phagocytosis of S. aureus bioﬁlms. Of
+note, macrophages were capable of engulﬁng disrupted
+bioﬁlm material, suggesting that the size and/or physical
+complexity of bioﬁlm ultrastructure are responsible for
+their recalcitrance to phagocytosis (60).
+
+The opsonization of S. aureus bioﬁlms with immu-
+noglobulin G did not affect the adherence of PMNs
+to the bioﬁlms; however, it increased the clearance of
+bioﬁlm, possibly through upregulated oxygen radical
+production in PMNs (61). It seems that bioﬁlm matrix
+can protect bacteria from antibody-mediated phagocy-
+tosis (62).
+
+Another mechanism utilized by S. aureus bioﬁlms to
+evade host immunity, which may explain their in vivo
+is the macrophage dysfunction and cell
+persistence,
+death caused upon contact with the bioﬁlm itself. It
+was noted that macrophages showed a differential sen-
+sitivity to cell death based on their physical distance
+from the bioﬁlm surface, with macrophages most inti-
+mately associated with bioﬁlm being dead, while mac-
+rophages that remained above the bioﬁlm surface
+remained viable (60). Among the potential mechanisms
+proposed to account for this phenomenon is the phe-
+nomenon of metabolic “layering” within the bioﬁlm
+(63). Regions of anaerobic and aerobic microenviron-
+ments within the bioﬁlm, bacterial-inﬂuenced ﬂuctua-
+tions in pH, and macrophage survival may be affected
+due to the release of bacterially produced toxic by-
+products of metabolism. Furthermore, the bioﬁlm may
+contain lytic toxins, which may lead to cell death.
+
+Using a mouse model of catheter-associated bioﬁlm
+infection, it was demonstrated that several inﬂamma-
+tory signals responsible for macrophage and neutrophil
+
+ASMscience.org/MicrobiolSpectrum
+
+5
+
+Downloaded from https://journals.asm.org/journal/spectrum on 23 February 2024 by 206.209.15.21.Roilides et al.
+
+recruitment (CCL2 and CXXL2, respectively) and acti-
+vation (tumor necrosis factor alpha and interleukin
+[IL]-1β) were signiﬁcantly reduced in bioﬁlm-infected
+tissues compared to the wound healing response elicited
+by sterile catheters (60). The role of IL-1β is potentially
+mediated through the MyD88-dependent pathway and
+can reduce bioﬁlm development but is not sufﬁcient
+to eradicate staphylococcal bioﬁlms (63). Additionally,
+inducible nitric oxide synthase (iNOS) expression was
+decreased and arginase-1, a key enzyme involved in
+collagen biosynthesis, was increased in macrophages
+surrounding the bioﬁlm. These ﬁndings would be ex-
+pected to skew the cellular response away from bacterial
+killing to favor ﬁbrosis and could represent another
+mechanism to account for the ability of bioﬁlms to evade
+clearance (60, 63). Further in vivo data showed that
+S. aureus bioﬁlms could evade TLR2 and TLR9 recog-
+nition (60). While the mechanism responsible for TLR2/
+TLR9 evasion is not known, it could be attributed to
+ligand inaccessibility.
+
+Current data collectively indicate that the persist-
+ence of staphylococcal bioﬁlm could be attributed
+to its ability to skew the immune response to favor
+anti-inﬂammatory and pro-ﬁbrotic pathways. As such,
+it has been shown that targeting macrophage pro-
+inﬂammatory activity can represent a novel therapeutic
+strategy to overcome the local immune inhibitory envi-
+ronment created during bioﬁlm infections (64).
+
+From the currently available data, one can deduce
+that innate host defense cells may be able to recognize
+Staphylococcus spp. bioﬁlms, migrate toward bioﬁlms,
+and degrade bioﬁlms in vitro. However, the latter de-
+pends greatly on the experimental conditions, namely
+the Staphylococcus strain, bioﬁlm maturation phase,
+opsonization with immunoglobulin, and the immune
+cell population used. It is likely that the unique proper-
+ties of Staphylococcus spp. bioﬁlms circumvent tradi-
+tional antimicrobial pathways. Additional studies are
+warranted to investigate the mechanisms that lead to
+host defense impairment upon contact with Staphylo-
+coccus spp. bioﬁlms.
+
+Pseudomonas spp.
+The opportunistic pathogen P. aeruginosa has drawn
+special attention in the bioﬁlm ﬁeld due to its role in
+chronic and recalcitrant infections, particularly lung in-
+fection of CF patients, ventilator-associated pneumonia,
+chronic wounds, otitis media, and medical device–
+related infections. In humans, infection by P. aeruginosa,
+and subsequent bioﬁlm formation, invariably occurs in
+association with an exuberant inﬂammatory response.
+
+Pseudomonas bioﬁlm–related infections seem to follow
+the current dogma regarding host defense mechanisms
+in eradicating bioﬁlms
+where immune responses fail
+(65).
+
+Initial
+
+studies using a chemiluminescence assay
+showed that while bioﬁlms of P. aeruginosa were ca-
+pable of activating the oxidative burst response of
+PMNs, this response was reduced by about 25% com-
+pared to planktonic cells (66). In vitro microscopic evi-
+dence suggests that the normal migratory behavior
+of phagocytes is disrupted by P. aeruginosa bioﬁlms.
+The innate cells settle into bioﬁlms but do not appear
+to be capable of migrating from the point of contact
+even though they appear to mount a respiratory burst,
+degranulate, and retain their phagocytic and secretory
+activity. The mechanism by which the bioﬁlms immo-
+bilize neutrophils (yet they are still capable of phago-
+cytosing bacteria) is not known (67). It is possible
+that exotoxins or other components produced by
+P. aeruginosa and immune cells, respectively, may play
+a role (46, 67). Others suggest that P. aeruginosa bio-
+ﬁlm tolerance to PMNs is quorum sensing dependent
+(68).
+
+It has also been reported that P. aeruginosa bioﬁlm
+formation is increased by 2- to 3.5-fold in the presence of
+PMNs (69, 70). The mechanism of bioﬁlm enhancement
+by PMNs was attributed to PMN-generated polymers
+comprised of actin and DNA (69). This is consistent with
+the clinical ﬁnding of higher numbers of necrotic PMNs
+detected in CF lungs infected with P. aeruginosa com-
+pared with other bacterial infections (71). Lactoferrin, a
+common secretory component of human neutrophil
+granules, has been shown to inhibit P. aeruginosa bio-
+ﬁlm production (46). However, lactoferrin inhibitory
+effect was not evident when the total content of neu-
+trophil granules was combined with P. aeruginosa (69).
+In this regard, it is likely that the role of lactoferrin
+in microbial bioﬁlms is modulated by scavenging and
+protease- or oxygen radical–mediated degradation by
+P. aeruginosa and neutrophils (46, 67).
+
+The pathogen-beneﬁcial effects of the bioﬁlm matrix
+have been demonstrated in other studies (65, 72). The
+exopolysaccharide alginate protects P. aeruginosa bio-
+ﬁlm bacteria from leukocyte phagocytosis. In vitro
+studies demonstrate that in the presence of the potent
+leukocyte activator interferon-γ, human phagocytes
+killed P. aeruginosa bioﬁlm bacteria lacking the ability
+to produce the alginate exopolysaccharide (72). Of note,
+the inability of innate cells to eliminate bioﬁlms is abol-
+ished as soon as bioﬁlm cells are mechanically disrupted
+into individual cells (65, 73).
+
+6
+
+ASMscience.org/MicrobiolSpectrum
+
+Downloaded from https://journals.asm.org/journal/spectrum on 23 February 2024 by 206.209.15.21.There is increasing evidence supporting the role
+of rhamnolipids (a class of glycolipids produced by
+P. aeruginosa that are considered a key virulence de-
+terminant acting under the control of the quorum sens-
+ing system) in the host defense against PMNs, especially
+in CF lung infection or other chronic infections (65, 74).
+The activity of rhamnolipids was shown in vitro and
+in vivo in pulmonary models, where P. aeruginosa bio-
+ﬁlms produce a shield of excreted rhamnolipids that
+protects from the bactericidal activity of PMNs (65,
+75, 76). Accordingly, disabling the bioﬁlm shield of
+rhamnolipids either by mutation or by treatment with
+quorum sensing inhibitors leads to increased PMN-
+mediated clearance of the bioﬁlm (65, 76). Rhamno-
+lipids appear to be a crucial component of a vicious
+self-enhancing cycle in which rhamnolipids induce ne-
+crotic lysis of PMNs, and the lysed PMNs subsequently
+cause more inﬂammation and in turn attract more
+PMNs (65). The hypothesis of a “bioﬁlm shield” of
+rhamnolipids which offers protection from the antibac-
+terial activity of PMNs seems to contribute to bioﬁlm
+infections of P. aeruginosa (65).
+
+Candida spp.
+While the interactions between the host immune system
+and planktonic Candida cells have been extensively ex-
+the corresponding bioﬁlm interactions are
+amined,
+largely unstudied (77). Initial studies showed that mono-
+cytes inﬂuence the ability of C. albicans to form bioﬁlms.
+Monocytes exert a bioﬁlm-enhancing effect, which has
+been associated with a modulated immune response of
+increased levels of pro-inﬂammatory cytokines such as
+IL-1β and decreased levels of IL-6, IL-10, MCP-1, I-309,
+and tumor necrosis factor alpha (54). Overall, Candida
+bioﬁlms appear to have an immunosuppressive effect,
+because monocytes are unable to phagocytose fungal
+cells in the maturing bioﬁlms and appear to be entrapped
+within the bioﬁlm ultrastructure (54). Lack of mono-
+cyte-mediated phagocytosis within bioﬁlms was also
+observed for different stages of C. albicans bioﬁlm de-
+velopment. Confocal scanning microscopy showed that
+human phagocytes resemble unstimulated cells, present-
+ing a rounded shape when in the presence of bioﬁlms
+(55). This was also conﬁrmed by reduced cytokine
+production in the bioﬁlm-phagocyte co-culture com-
+pared to a planktonic cell-phagocyte mixture (55). How-
+ever, the same phenomenon was not observed with
+dislodged bioﬁlm cells (55). Consistently, mature Can-
+dida bioﬁlms were more resistant to killing by leukocytes
+than early bioﬁlms. Further, mature bioﬁlms failed
+to trigger a reactive oxygen species response (78). The
+
+How Bioﬁlms Evade Host Defenses
+
+architecture of mature bioﬁlms and the presence of
+β-glucans in the extracellular matrix represent an im-
+portant innate immune evasion mechanism of C. albicans
+bioﬁlms (55, 78).
+
+Previous studies have unequivocally shown that in-
+terferon-γ and granulocyte colony-stimulating factor
+enhance the antifungal activity of human PMNs against
+planktonic Candida spp. (77). On the contrary, expo-
+sure of C. albicans bioﬁlms to cytokine-activated PMNs
+does not enhance bioﬁlm damage (77, 79). The increased
+bioﬁlm damage induced by cytokine-activated PMNs
+can be explained by the upregulatory activity of the
+two cytokines to the number and/or to the afﬁnity of
+the mannose and FcγR receptors on the surface of
+the phagocytes leading to a more efﬁcient interaction
+between PMNs and fungal targets. Knowing that kill-
+ing of C. albicans requires ligation of the various host
+immune receptors by C. albicans surface structures
+(mannoproteins, mannans, or β-glucans) and knowing
+the role of extracellular matrix to bioﬁlm immune eva-
+sion, the lack of cytokine effectiveness was attributed
+to the inability of the effector cells to recognize the
+cells within the bioﬁlm (79). Nevertheless, the notion
+of bioﬁlm recognition by the immune system appears to
+be important. Large amounts of (1→3)-β-D-glucans are
+found in the extracellular matrix of Candida bioﬁlms
+in vitro and in vivo (80–82). In addition, Hyr1, which
+surface glycosyl phosphatidylinositol–
+encodes cell
+anchored proteins, confers resistance to neutrophil kill-
+ing in vitro and in an oral mucosal tissue bioﬁlm model
+(81, 83).
+
+In this regard, exposure of C. albicans bioﬁlms to
+anidulafungin, an antifungal agent that causes height-
+ened β-glucan exposure, was associated with a signiﬁ-
+cant increase in phagocyte-mediated damage and a
+larger pro-inﬂammatory response from phagocytes (55).
+Furthermore, Candida spp. bioﬁlms were more suscep-
+tible to the combined effect of anidulafungin with phago-
+cytes compared to voriconazole with phagocytes (55,
+79). These data underline the notion that echinocandins
+(i.e., caspofungin, micafungin, and anidulafungin) have
+immunomodulatory effects on host cells against bioﬁlms.
+
+Other Organisms
+Enterococci constitute an important cause of hospital-
+acquired infections and become particularly pathogenic
+in intensive care settings, in debilitated patients with
+impaired immune systems, and in the elderly. Despite
+the clinical importance of enterococci, little is known
+about their interactions with immune cells (84, 85).
+The prevailing notion that bioﬁlm cells encased in an
+
+ASMscience.org/MicrobiolSpectrum
+
+7
+
+Downloaded from https://journals.asm.org/journal/spectrum on 23 February 2024 by 206.209.15.21.Roilides et al.
+
+exopolysaccharide matrix are resistant to phagocytosis
+by immune cells seems to contradict recent ﬁndings (86,
+87). In vitro studies showed that immune cells are able to
+phagocytose enterococcal cells recovered from bioﬁlms
+as effectively as their planktonic counterparts (86, 87).
+In addition, enterococcal bioﬁlms seem to elicit a dif-
+ferential immune response relative to planktonic cells, in
+that infected monocytes with enterococcal bioﬁlm cells
+invoke less pro-inﬂammatory cytokine and chemokine
+expression (86, 87). However, in vivo it is likely that the
+complex involvement of multiple host factors may allow
+bioﬁlm cells to circumvent host defenses, thus explaining
+the persistence of bioﬁlm-related infections.
+
+Aspergillus spp. are frequently isolated from the res-
+piratory tract of patients with CF (88), where it causes
+typical bioﬁlms and may be associated with deteriora-
+invasive infection, or allergic
+tion of lung function,
+bronchopulmonary aspergillosis. Host defenses against
+Aspergillus in the respiratory tract of CF patients have
+been reviewed (89, 90). Like all bioﬁlms, Aspergillus
+bioﬁlms are quite resistant to the antifungal activity
+of PMNs and macrophages, the two major airway
+phagocytes. Of note, Aspergillus downregulates vitamin
+D receptor gene and protein expression in vitro and
+in vivo. This is mediated by the fungal virulence factor
+gliotoxin, an immune-evader and promoter of cellular
+apoptosis. Reduced gliotoxin and IL-5 as well as IL-13
+(Th2 cytokines) concentrations were detectable post–
+itraconazole treatment in patients with CF and Asper-
+gillus with concomitant increases in vitamin D airway
+receptor expression (91).
+
+HIGHLIGHTS OF RECENT FINDINGS
+AND FUTURE QUESTIONS
+A large range of bioﬁlm model systems has been devel-
+oped; however, the technical challenges associated with
+the growth and assessment of bioﬁlm development fur-
+ther complicate the generalization of the results of var-
+ious studies. In assessing the effects of host defenses
+on microbial bioﬁlms, the experimental conditions, the
+thickness, and the complexity of bioﬁlms should be
+considered. A major challenge in bioﬁlm research is the
+development of suitable models that effectively repro-
+duce the host defense conditions at different infection
+sites and that permit evaluation of the efﬁcacy of novel
+antifungal treatment strategies under in vivo conditions
+(92). Animal models of bioﬁlm formation represent an
+invaluable alternative for improving our understanding
+of bioﬁlm development inside the host, their resilience
+to immune cells, and their interaction with the host
+
+immune defense system. This appears to be of particular
+importance because the use of host immune responses
+may represent a novel therapeutic approach against
+bioﬁlms (64).
+
+ACKNOWLEDGMENTS
+Conﬂicts of interest: We disclose no conﬂicts.
+
+REFERENCES
+1. Costerton JW, Geesey GG, Cheng KJ. 1978. How bacteria stick. Sci Am
+238:86–95.
+2. Costerton JW, Lewandowski Z, Caldwell DE, Korber DR, Lappin-Scott
+HM. 1995. Microbial bioﬁlms. Annu Rev Microbiol 49:711–745.
+3. Costerton JW, Stewart PS, Greenberg EP. 1999. Bacterial bioﬁlms: a
+common cause of persistent infections. Science 284:1318–1322.
+4. Donlan RM, Costerton JW. 2002. Bioﬁlms: survival mechanisms of
+clinically relevant microorganisms. Clin Microbiol Rev 15:167–193.
+5. Mack D, Becker P, Chatterjee I, Dobinsky S, Knobloch JK, Peters G,
+Rohde H, Herrmann M. 2004. Mechanisms of bioﬁlm formation in
+Staphylococcus epidermidis and Staphylococcus aureus: functional mole-
+cules, regulatory circuits, and adaptive responses. Int J Med Microbiol
+294:203–212.
+6. Ramage G, Mowat E, Jones B, Williams C, Lopez-Ribot J. 2009.
+Our current understanding of fungal bioﬁlms. Crit Rev Microbiol 35:340–
+355.
+7. Wei Q, Ma LZ. 2013. Bioﬁlm matrix and its regulation in Pseudomonas
+aeruginosa. Int J Mol Sci 14:20983–21005.
+8. Palkova Z, Vachova L. 2006. Life within a community: beneﬁt to yeast
+long-term survival. FEMS Microbiol Rev 30:806–824.
+9. Donlan RM. 2001. Bioﬁlms and device-associated infections. Emerg
+Infect Dis 7:277–281.
+10. Salta M, Wharton JA, Blache Y, Stokes KR, Briand JF. 2013. Marine
+bioﬁlms on artiﬁcial surfaces: structure and dynamics. Environ Microbiol.
+[Epub ahead of print.] doi:10.1111/1462-2920.12186.
+11. Abdallah M, Benoliel C, Drider D, Dhulster P, Chihib NE. 2014.
+Bioﬁlm formation and persistence on abiotic surfaces in the context of
+food and medical environments. Arch Microbiol. [Epub ahead of print.]
+doi:10.1007/s00203-014-0983-1.
+12. Otto M. 2008. Staphylococcal bioﬁlms. Curr Top Microbiol Immunol
+322:207–228.
+13. Fey PD, Olson ME. 2010. Current concepts in bioﬁlm formation of
+Staphylococcus epidermidis. Future Microbiol 5:917–933.
+14. Moorthy S, Watnick PI. 2004. Genetic evidence that the Vibrio
+cholerae monolayer is a distinct stage in bioﬁlm development. Mol
+Microbiol 52:573–587.
+15. Caiazza NC, Merritt JH, Brothers KM, O’Toole GA. 2007. Inverse
+regulation of bioﬁlm formation and swarming motility by Pseudomonas
+aeruginosa PA14. J Bacteriol 189:3603–3612.
+16. Walsh TJ, Schlegel R, Moody M, Costerton JW, Salcman M. 1986.
+Ventriculo-atrial shunt infection due to Cryptococcus neoformans: an
+ultrastructural and quantitative microbiological study. Neurosurgery 18:
+373–375.
+17. Martinez LR, Casadevall A. 2005. Speciﬁc antibody can prevent
+fungal bioﬁlm formation and this effect correlates with protective efﬁcacy.
+Infect Immun 73:6350–6362.
+18. Zhao X, Oh SH, Yeater KM, Hoyer LL. 2005. Analysis of the Candida
+albicans Als2p and Als4p adhesins suggests the potential for compensa-
+tory function within the Als family. Microbiology 151:1619–1630.
+19. Castano I, Pan SJ, Zupancic M, Hennequin C, Dujon B, Cormack BP.
+2005. Telomere length control and transcriptional regulation of subtelo-
+meric adhesins in Candida glabrata. Mol Microbiol 55:1246–1258.
+
+8
+
+ASMscience.org/MicrobiolSpectrum
+
+Downloaded from https://journals.asm.org/journal/spectrum on 23 February 2024 by 206.209.15.21.20. Hornby JM, Jensen EC, Lisec AD, Tasto JJ, Jahnke B, Shoemaker R,
+Dussault P, Nickerson KW. 2001. Quorum sensing in the dimorphic
+fungus Candida albicans is mediated by farnesol. Appl Environ Microbiol
+67:2982–2992.
+21. Davey ME, Caiazza NC, O’Toole GA. 2003. Rhamnolipid surfactant
+production affects bioﬁlm architecture in Pseudomonas aeruginosa PAO1.
+J Bacteriol 185:1027–1036.
+22. Rajendran R, Williams C, Lappin DF, Millington O, Martins M,
+Ramage G. 2013. Extracellular DNA release acts as an antifungal resis-
+tance mechanism in mature Aspergillus fumigatus bioﬁlms. Eukaryot Cell
+12:420–429.
+23. Shopova I, Bruns S, Thywissen A, Kniemeyer O, Brakhage AA,
+Hillmann F. 2013. Extrinsic extracellular DNA leads to bioﬁlm formation
+and colocalizes with matrix polysaccharides in the human pathogenic
+fungus Aspergillus fumigatus. Front Microbiol 4:141.
+24. Krappmann S, Ramage G. 2013. A sticky situation: extracellular DNA
+shapes Aspergillus fumigatus bioﬁlms. Front Microbiol 4:159.
+25. Uppuluri P, Chaturvedi AK, Srinivasan A, Banerjee M, Ramasubramaniam
+AK, Kohler JR, Kadosh D, Lopez-Ribot JL. 2010. Dispersion as an important
+step in the Candida albicans bioﬁlm developmental cycle. PLoS Pathog 6:
+e1000828. doi:10.1371/journal.ppat.1000828.
+26. Wang R, Khan BA, Cheung GY, Bach TH, Jameson-Lee M, Kong KF,
+Queck SY, Otto M. 2011. Staphylococcus epidermidis surfactant peptides
+promote bioﬁlm maturation and dissemination of bioﬁlm-associated in-
+fection in mice. J Clin Invest 121:238–248.
+27. Periasamy S, Joo HS, Duong AC, Bach TH, Tan VY, Chatterjee SS,
+Cheung GY, Otto M. 2012. How Staphylococcus aureus bioﬁlms de-
+velop their characteristic structure. Proc Natl Acad Sci USA 109:1281–
+1286.
+28. Harriott MM, Noverr MC. 2009. Candida albicans and Staphylo-
+coccus aureus form polymicrobial bioﬁlms: effects on antimicrobial re-
+sistance. Antimicrob Agents Chemother 53:3914–3922.
+29. Demuyser L, Jabra-Rizk MA, Van Dijck P. 2014. Microbial cell sur-
+face proteins and secreted metabolites involved in multispecies bioﬁlms.
+Pathog Dis 70:219–230.
+30. Shirtliff ME, Peters BM, Jabra-Rizk MA. 2009. Cross-kingdom
+interactions: Candida albicans and bacteria. FEMS Microbiol Lett
+299:1–8.
+31. Peters BM, Jabra-Rizk MA, Scheper MA, Leid JG, Costerton JW,
+Shirtliff ME. 2010. Microbial interactions and differential protein ex-
+pression in Staphylococcus aureus-Candida albicans dual-species bioﬁlms.
+FEMS Immunol Med Microbiol 59:493–503.
+32. Wolcott R, Costerton JW, Raoult D, Cutler SJ. 2013. The
+polymicrobial nature of bioﬁlm infection. Clin Microbiol Infect 19:107–
+112.
+33. Mowat E, Rajendran R, Williams C, McCulloch E, Jones B, Lang S,
+Ramage G. 2010. Pseudomonas aeruginosa and their small diffusible
+extracellular molecules inhibit Aspergillus fumigatus bioﬁlm formation.
+FEMS Microbiol Lett 313:96–102.
+34. Christensen GD, Simpson WA, Younger JJ, Baddour LM, Barrett FF,
+Melton DM, Beachey EH. 1985. Adherence of coagulase-negative
+staphylococci to plastic tissue culture plates: a quantitative model for the
+adherence of staphylococci to medical devices. J Clin Microbiol 22:996–
+1006.
+35. Chandra J, Kuhn DM, Mukherjee PK, Hoyer LL, McCormick T,
+Ghannoum MA. 2001. Bioﬁlm formation by the fungal pathogen Candida
+albicans: development, architecture, and drug resistance. J Bacteriol
+183:5385–5394.
+36. Hassan A, Usman J, Kaleem F, Omair M, Khalid A, Iqbal M. 2011.
+Evaluation of different detection methods of bioﬁlm formation in the
+clinical isolates. Braz J Infect Dis 15:305–311.
+37. Taff HT, Nett JE, Andes DR. 2012. Comparative analysis of Candida
+bioﬁlm quantitation assays. Med Mycol 50:214–218.
+
+How Bioﬁlms Evade Host Defenses
+
+38. Mowat E, Butcher J, Lang S, Williams C, Ramage G. 2007. Development
+of a simple model for studying the effects of antifungal agents on multicel-
+lular communities of Aspergillus fumigatus. J Med Microbiol 56:1205–1212.
+39. Sontakke S, Cadenas MB, Maggi RG, Diniz PP, Breitschwerdt EB.
+2009. Use of broad range 16S rDNA PCR in clinical microbiology.
+J Microbiol Methods 76:217–225.
+40. Pontes DS, Lima-Bittencourt CI, Chartone-Souza E, Amaral Nascimento
+AM. 2007. Molecular approaches: advantages and artifacts in assessing
+bacterial diversity. J Ind Microbiol Biotechnol 34:463–473.
+41. Rhoads DD, Wolcott RD, Sun Y, Dowd SE. 2012. Comparison of
+culture and molecular identiﬁcation of bacteria in chronic wounds. Int J
+Mol Sci 13:2535–2550.
+42. Banchereau J, Briere F, Caux C, Davoust J, Lebecque S, Liu YJ,
+Pulendran B, Palucka K. 2000. Immunobiology of dendritic cells. Annu
+Rev Immunol 18:767–811.
+43. Gantner BN, Simmons RM, Canavera SJ, Akira S, Underhill DM.
+2003. Collaborative induction of inﬂammatory responses by dectin-1 and
+Toll-like receptor 2. J Exp Med 197:1107–1117.
+44. Romani L. 2011. Immunity to fungal infections. Nat Rev Immunol
+11:275–288.
+45. Norrby-Teglund A, Johansson L. 2013. Beyond the traditional im-
+mune response: bacterial interaction with phagocytic cells. Int J Anti-
+microb Agents 42(Suppl):S13–S16.
+46. Singh PK, Parsek MR, Greenberg EP, Welsh MJ. 2002. A component
+of innate immunity prevents bacterial bioﬁlm development. Nature 417:
+552–555.
+47. Overhage J, Campisano A, Bains M, Torfs EC, Rehm BH, Hancock
+RE. 2008. Human host defense peptide LL-37 prevents bacterial bioﬁlm
+formation. Infect Immun 76:4176–4182.
+48. Britigan BE, Hayek MB, Doebbeling BN, Fick RB Jr. 1993. Trans-
+ferrin and lactoferrin undergo proteolytic cleavage in the Pseudomonas
+aeruginosa-infected lungs of patients with cystic ﬁbrosis. Infect Immun
+61:5049–5055.
+49. Schmidtchen A, Frick IM, Andersson E, Tapper H, Bjorck L. 2002.
+Proteinases of common pathogenic bacteria degrade and inactivate the
+antibacterial peptide LL-37. Mol Microbiol 46:157–168.
+50. Jensen PO, Givskov M, Bjarnsholt T, Moser C. 2010. The immune
+system vs. Pseudomonas aeruginosa bioﬁlms. FEMS Immunol Med
+Microbiol 59:292–305.
+51. Meyle E, Stroh P, Gunther F, Hoppy-Tichy T, Wagner C, Hansch
+GM. 2010. Destruction of bacterial bioﬁlms by polymorphonuclear
+neutrophils: relative contribution of phagocytosis, DNA release, and de-
+granulation. Int J Artif Organs 33:608–620.
+52. Gunther F, Wabnitz GH, Stroh P, Prior B, Obst U, Samstag Y, Wagner
+C, Hansch GM. 2009. Host defense against Staphylococcus aureus
+bioﬁlms infection: phagocytosis of bioﬁlms by polymorphonuclear
+neutrophils (PMN). Mol Immunol 46:1805–1813.
+53. Meyle E, Brenner-Weiss G, Obst U, Prior B, Hansch GM. 2012.
+Immune defense against S. epidermidis bioﬁlms: components of the ex-
+tracellular polymeric substance activate distinct bactericidal mechanisms
+of phagocytic cells. Int J Artif Organs 35:700–712.
+54. Chandra J, McCormick TS, Imamura Y, Mukherjee PK, Ghannoum
+MA. 2007. Interaction of Candida albicans with adherent human pe-
+ripheral blood mononuclear cells increases C. albicans bioﬁlm formation
+and results in differential expression of pro- and anti-inﬂammatory
+cytokines. Infect Immun 75:2612–2620.
+55. Katragkou A, Kruhlak MJ, Simitsopoulou M, Chatzimoschou A,
+Taparkou A, Cotten CJ, Paliogianni F, Diza-Mataftsi E, Tsantali C,
+Walsh TJ, Roilides E. 2010. Interactions between human phagocytes and
+Candida albicans bioﬁlms alone and in combination with antifungal
+agents. J Infect Dis 201:1941–1949.
+56. Martinez LR, Casadevall A. 2006. Cryptococcus neoformans cells
+in bioﬁlms are less susceptible than planktonic cells to antimicrobial
+
+ASMscience.org/MicrobiolSpectrum
+
+9
+
+Downloaded from https://journals.asm.org/journal/spectrum on 23 February 2024 by 206.209.15.21.Roilides et al.
+
+molecules produced by the innate immune system. Infect Immun 74:
+6118–6123.
+57. Archer NK, Mazaitis MJ, Costerton JW, Leid JG, Powers ME, Shirtliff
+ME. 2011. Staphylococcus aureus bioﬁlms: properties, regulation, and
+roles in human disease. Virulence 2:445–459.
+58. Leid JG, Shirtliff ME, Costerton JW, Stoodley P. 2002. Human
+leukocytes adhere to, penetrate, and respond to Staphylococcus aureus
+bioﬁlms. Infect Immun 70:6339–6345.
+59. Guenther F, Stroh P, Wagner C, Obst U, Hansch GM. 2009. Phago-
+cytosis of staphylococci bioﬁlms by polymorphonuclear neutrophils: S.
+aureus and S. epidermidis differ with regard to their susceptibility towards
+the host defense. Int J Artif Organs 32:565–573.
+60. Thurlow LR, Hanke ML, Fritz T, Angle A, Aldrich A, Williams SH,
+Engebretsen IL, Bayles KW, Horswill AR, Kielian T. 2011. Staphylo-
+coccus aureus bioﬁlms prevent macrophage phagocytosis and attenuate
+inﬂammation in vivo. J Immunol 186:6585–6596.
+61. Stroh P, Gunther F, Meyle E, Prior B, Wagner C, Hansch GM. 2011.
+Host defense against Staphylococcus aureus bioﬁlms by polymorphonu-
+clear neutrophils: oxygen radical production but not phagocytosis depends
+on opsonisation with immunoglobulin G. Immunobiology 216:351–357.
+62. Cerca N, Jefferson KK, Oliveira R, Pier GB, Azeredo J. 2006. Com-
+parative antibody-mediated phagocytosis of Staphylococcus epidermidis cells
+grown in a bioﬁlm or in the planktonic state. Infect Immun 74:4849–4855.
+63. Hanke ML, Kielian T. 2012. Deciphering mechanisms of staphylo-
+coccal bioﬁlm evasion of host immunity. Front Cell Infect Microbiol 2:62.
+64. Hanke ML, Heim CE, Angle A, Sanderson SD, Kielian T. 2013.
+Targeting macrophage activation for the prevention and treatment of
+Staphylococcus aureus bioﬁlm infections. J Immunol 190:2159–2168.
+65. Alhede M, Bjarnsholt T, Givskov M, Alhede M. 2014. Pseudomonas
+aeruginosa bioﬁlms: mechanisms of immune evasion. Adv Appl Microbiol
+86:1–40.
+66. Jensen ET, Kharazmi A, Lam K, Costerton JW, Hoiby N. 1990. Hu-
+man polymorphonuclear leukocyte response to Pseudomonas aeruginosa
+grown in bioﬁlms. Infect Immun 58:2383–2385.
+67. Jesaitis AJ, Franklin MJ, Berglund D, Sasaki M, Lord CI, Bleazard JB,
+Duffy JE, Beyenal H, Lewandowski Z. 2003. Compromised host defense
+on Pseudomonas aeruginosa bioﬁlms: characterization of neutrophil and
+bioﬁlm interactions. J Immunol 171:4329–4339.
+68. Bjarnsholt T, Jensen PO, Burmolle M, Hentzer M, Haagensen JA,
+Hougen HP, Calum H, Madsen KG, Moser C, Molin S, Hoiby N, Givskov
+M. 2005. Pseudomonas aeruginosa tolerance to tobramycin, hydrogen
+peroxide and polymorphonuclear leukocytes is quorum-sensing depen-
+dent. Microbiology 151:373–383.
+69. Walker TS, Tomlin KL, Worthen GS, Poch KR, Lieber JG, Saavedra
+MT, Fessler MB, Malcolm KC, Vasil ML, Nick JA. 2005. Enhanced
+Pseudomonas aeruginosa bioﬁlm development mediated by human
+neutrophils. Infect Immun 73:3693–3701.
+70. Parks QM, Young RL, Poch KR, Malcolm KC, Vasil ML, Nick JA.
+2009. Neutrophil enhancement of Pseudomonas aeruginosa bioﬁlm de-
+velopment: human F-actin and DNA as targets for therapy. J Med
+Microbiol 58:492–502.
+71. Watt AP, Courtney J, Moore J, Ennis M, Elborn JS. 2005. Neutrophil
+cell death, activation and bacterial infection in cystic ﬁbrosis. Thorax
+60:659–664.
+72. Leid JG, Willson CJ, Shirtliff ME, Hassett DJ, Parsek MR, Jeffers AK.
+2005. The exopolysaccharide alginate protects Pseudomonas aeruginosa
+bioﬁlm bacteria from IFN-gamma-mediated macrophage killing.
+J
+Immunol 175:7512–7518.
+73. Jensen ET, Kharazmi A, Hoiby N, Costerton JW. 1992. Some bac-
+terial parameters inﬂuencing the neutrophil oxidative burst response to
+Pseudomonas aeruginosa bioﬁlms. APMIS 100:727–733.
+74. Jensen PO, Bjarnsholt T, Phipps R, Rasmussen TB, Calum H,
+Christoffersen L, Moser C, Williams P, Pressler T, Givskov M, Hoiby N.
+
+2007. Rapid necrotic killing of polymorphonuclear leukocytes is caused
+by quorum-sensing-controlled production of rhamnolipid by Pseudomo-
+nas aeruginosa. Microbiology 153:1329–1338.
+75. Alhede M, Bjarnsholt T, Jensen PO, Phipps RK, Moser C,
+Christophersen L, Christensen LD, van Gennip M, Parsek M, Hoiby N,
+Rasmussen TB, Givskov M. 2009. Pseudomonas aeruginosa recognizes
+and responds aggressively to the presence of polymorphonuclear
+leukocytes. Microbiology 155:3500–3508.
+76. Van Gennip M, Christensen LD, Alhede M, Phipps R, Jensen PO,
+Christophersen L, Pamp SJ, Moser C, Mikkelsen PJ, Koh AY, Tolker-
+Nielsen T, Pier GB, Hoiby N, Givskov M, Bjarnsholt T. 2009. Inactiva-
+tion of the rhlA gene in Pseudomonas aeruginosa prevents rhamnolipid
+production, disabling the protection against polymorphonuclear leuko-
+cytes. APMIS 117:537–546.
+77. Roilides E, Walsh T. 2004. Recombinant cytokines in augmentation
+and immunomodulation of host defenses against Candida spp. Med Mycol
+42:1–13.
+78. Xie Z, Thompson A, Sobue T, Kashleva H, Xu H, Vasilakos J, Dongari-
+Bagtzoglou A. 2012. Candida albicans bioﬁlms do not trigger reactive
+oxygen species and evade neutrophil killing. J Infect Dis 206:1936–1945.
+79. Katragkou A, Simitsopoulou M, Chatzimoschou A, Georgiadou E,
+Walsh TJ, Roilides E. 2011. Effects of interferon-gamma and granulocyte
+colony-stimulating factor on antifungal activity of human polymorpho-
+nuclear neutrophils against Candida albicans grown as bioﬁlms or
+planktonic cells. Cytokine 55:330–334.
+80. Nett J, Lincoln L, Marchillo K, Andes D. 2007. Beta -1,3 glucan as a test
+for central venous catheter bioﬁlm infection. J Infect Dis 195:1705–1712.
+81. Dongari-Bagtzoglou A, Kashleva H, Dwivedi P, Diaz P, Vasilakos J.
+2009. Characterization of mucosal Candida albicans bioﬁlms. PLoS One
+4:e7967. doi:10.1371/journal.pone.0007967.
+82. Al-Fattani MA, Douglas LJ. 2006. Bioﬁlm matrix of Candida albicans
+and Candida tropicalis: chemical composition and role in drug resistance.
+J Med Microbiol 55:999–1008.
+83. Luo G, Ibrahim AS, Spellberg B, Nobile CJ, Mitchell AP, Fu Y. 2010.
+Candida albicans Hyr1p confers resistance to neutrophil killing and is a
+potential vaccine target. J Infect Dis 201:1718–1728.
+84. Giard JC, Riboulet E, Verneuil N, Sanguinetti M, Auffray Y, Hartke
+A. 2006. Characterization of Ers, a PrfA-like regulator of Enterococcus
+faecalis. FEMS Immunol Med Microbiol 46:410–418.
+85. Gentry-Weeks CR, Karkhoff-Schweizer R, Pikis A, Estay M, Keith JM.
+1999. Survival of Enterococcus faecalis in mouse peritoneal macrophages.
+Infect Immun 67:2160–2165.
+86. Daw K, Baghdayan AS, Awasthi S, Shankar N. 2012. Bioﬁlm and
+planktonic Enterococcus faecalis elicit different responses from host
+phagocytes in vitro. FEMS Immunol Med Microbiol 65:270–282.
+87. Mathew S, Yaw-Chyn L, Kishen A. 2010. Immunogenic potential of
+Enterococcus faecalis bioﬁlm under simulated growth conditions. J Endod
+36:832–836.
+88. Chotirmall SH, McElvaney NG. 2014. Fungi in the cystic ﬁbrosis lung:
+bystanders or pathogens? Int J Biochem Cell Biol 52:161–173.
+89. Roilides E, Simitsopoulou M. 2010. Local innate host response and ﬁla-
+mentous fungi in patients with cystic ﬁbrosis. Med Mycol 48(Suppl 1):S22–S31.
+90. Tasina E, Simitsopoulou M, Roilides E. 2012. The innate immune
+response to ﬁlamentous fungi in patients with cystic ﬁbrosis. CML Cystic
+Fibrosis 2:29–39.
+91. Kreindler JL, Steele C, Nguyen N, Chan YR, Pilewski JM, Alcorn JF,
+Vyas YM, Aujla SJ, Finelli P, Blanchard M, Zeigler SF, Logar A, Hartigan
+E, Kurs-Lasky M, Rockette H, Ray A, Kolls JK. 2010. Vitamin D3
+attenuates Th2 responses to Aspergillus fumigatus mounted by CD4+ T
+cells from cystic ﬁbrosis patients with allergic bronchopulmonary asper-
+gillosis. J Clin Invest 120:3242–3254.
+92. Nett J, Andes D. 2006. Candida albicans bioﬁlm development, mod-
+eling a host-pathogen interaction. Curr Opin Microbiol 9:340–345.
+
+10
+
+ASMscience.org/MicrobiolSpectrum
+
+Downloaded from https://journals.asm.org/journal/spectrum on 23 February 2024 by 206.209.15.21.

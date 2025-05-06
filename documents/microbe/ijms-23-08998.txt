@@ -1,0 +1,2305 @@
+Review
+Microbe Related Chemical Signalling and Its Application
+in Agriculture
+
+Nur Wahida Abdul Hamid
+
+and Kalaivani Nadarajah *
+
+Department of Biological Sciences and Biotechnology, Faculty of Science and Technology, Universiti Kebangsaan
+Malaysia, Bangi 43600, Malaysia
+* Correspondence: vani@ukm.edu.my
+
+Abstract: The agriculture sector has been put under tremendous strain by the world’s growing
+population. The use of fertilizers and pesticides in conventional farming has had a negative impact
+on the environment and human health. Sustainable agriculture attempts to maintain productivity,
+while protecting the environment and feeding the global population. The importance of soil-dwelling
+microbial populations in overcoming these issues cannot be overstated. Various processes such as
+rhizospheric competence, antibiosis, release of enzymes, and induction of systemic resistance in host
+plants are all used by microbes to inﬂuence plant-microbe interactions. These processes are largely
+founded on chemical signalling. Producing, releasing, detecting, and responding to chemicals are all
+part of chemical signalling. Different microbes released distinct sorts of chemical signal molecules
+which interacts with the environment and hosts. Microbial chemicals affect symbiosis, virulence,
+competence, conjugation, antibiotic production, motility, sporulation, and bioﬁlm growth, to name a
+few. We present an in-depth overview of chemical signalling between bacteria-bacteria, bacteria-fungi,
+and plant-microbe and the diverse roles played by these compounds in plant microbe interactions.
+These compounds’ current and potential uses and signiﬁcance in agriculture have been highlighted.
+
+Keywords: quorum sensing; quorum quenching; autoinducers; oligopeptides; N-acyl homoserine
+lactones; bioﬁlm; extracellular polymeric substances; virulence
+
+1. Introduction
+
+Microbes are sensitive to the changes in their environment.
+
+In order to survive
+harsh environments, microbes alter their gene expression that affects microbial behavior.
+Microbes need to defend and protect themselves not only against the environment but
+also against other microbes that exist in the same niche. Communication is an important
+tool for all organisms to interact with each other. Microorganisms such as bacteria and
+fungi have a special way of interacting through chemical signal molecules known as
+autoinducers. These autoinducers trigger chemical communication between microbes. This
+communication process is called quorum sensing (QS), which allows bacteria and fungi
+to keep an eye on their surroundings for other bacteria/fungi and adjust their activity
+on a community scale in response to changes in quantity and species existing within
+a community. QS is important in microbes as it is used in the production of virulence
+factors, bioﬁlm formation, and swarming motility [1,2]. Autoinducers are classiﬁed into
+three main types which are AI-1 (N-acyl homoserine lactones, AHLs), oligopeptides or
+autoinducing peptide and AI-2. Other than the above, there are a few more signalling
+molecules that are unique and do not belong to any classes such as diffusible signal factor
+(DSF), Pseudomonas quinolone signal (PQS), and diketopiperazine. AI-1 regulates Gram-
+negative bacteria QS while oligopeptides are discovered in Gram-positive bacteria. AI-2 is
+an interspecies autoinducer that is present in many species of Gram-negative and Gram-
+positive bacteria [3]. Quorum quenching (QQ) on the other hand is a process that interferes
+with quorum sensing. QQ is believed to have been developed as a natural method by
+
+Citation: Abdul Hamid, N.W.;
+
+Nadarajah, K. Microbe Related
+
+Chemical Signalling and Its
+
+Application in Agriculture. Int. J.
+
+Mol. Sci. 2022, 23, 8998. https://
+
+doi.org/10.3390/ijms23168998
+
+Academic Editor: Marouane Baslam
+
+Received: 3 July 2022
+
+Accepted: 4 August 2022
+
+Published: 12 August 2022
+
+Publisher’s Note: MDPI stays neutral
+
+with regard to jurisdictional claims in
+
+published maps and institutional afﬁl-
+
+iations.
+
+Copyright: © 2022 by the authors.
+
+Licensee MDPI, Basel, Switzerland.
+
+This article is an open access article
+
+distributed under
+
+the terms and
+
+conditions of the Creative Commons
+
+Attribution (CC BY) license (https://
+
+creativecommons.org/licenses/by/
+
+4.0/).
+
+Int. J. Mol. Sci. 2022, 23, 8998. https://doi.org/10.3390/ijms23168998
+
+https://www.mdpi.com/journal/ijms
+
+ International Journal of Molecular SciencesInt. J. Mol. Sci. 2022, 23, 8998
+
+2 of 25
+
+QS-emitting species to clear their own QS signals, or competitive interaction with QS-
+emitters by QQ organisms. Furthermore, many different species employ QS to control the
+development and functioning of antimicrobials. Antimicrobial compounds are released
+by microbes to preserve the population stability which can cause injury or kill the target
+cells. Next, the capability to colonize a community is greatly inﬂuenced by the restricted
+amount of nutrients in the environment. Microorganisms with specialized metal acquisition
+systems such as siderophore can bind and promote the absorption of important metals
+from their environment, thus restricting the capacity of rival microbes to acquire necessary
+nutrients and able to colonize a community. A summary of quorum sensing and quorum
+quenching signaling is shown in Figure 1 below.
+
+Figure 1. Summary of quorum sensing and quorum quenching.
+
+Current agricultural practices around the world depends on extensive use of chemical
+pesticides, herbicides and fertilizers which have a deleterious impact to the ecosystem and
+also human health. Awareness towards environmental sustainability has escalated the
+demand for organic products such as bioherbicide, biofertilizers and biofungicide. With
+the knowledge from QS, more organic products can be produced with adequate impact to
+the environment. Disruption of QS system can reduce signiﬁcantly the virulence of phy-
+topathogens. Moreover, knowledge from this QS system can be used to identify microbes
+that are antagonistic against phytopathogens and microbes that can be developed into
+commercial products. Pseudomonas sp., for example, are commonly utilized as biocontrol
+agents to tackle a variety of soil-borne infections, including Fusarium oxysporum, which
+causes Fusarium wilt. Pseudomonas sp. are able to inhibit the growth of other microbes with
+less potent siderophore. Bacillus sp., Pseudomonas sp., and various other Gram negative and
+positive bacteria have been reported to affect the soil environment as monocultures or as
+mixed cultures [4–6].
+
+In recent years, a wide range of chemical signals produced by bacteria and fungi
+have attracted considerable interest in developing biofertilizer and biopesticides. To date,
+studies have contributed to signiﬁcant progress in the knowledge of microorganisms’
+communication mechanism. Understanding the process of chemical signaling among
+microbial populations has enabled researchers to recreate or regulate these interactions
+
+Int. J. Mol. Sci. 2022, 23, x FOR PEER REVIEW 3 of 25   Figure 1. Summary of quorum sensing and quorum quenching. Due to the recent advancements in omics technology and instrumentations, more chemical signaling compounds have been identified and characterized structurally and functionally for the role they play in plant-microbe interactions as well as microbe-mi-crobe interactions [8]. Many of these chemical signals have been identified and developed into chemicals for use in agriculture such as Solvinix, Sarritor® and Organosol [9,10]. In this review we look into both QS and QQ as well as various chemical signals that are produced by microbes in the environment, the roles played by these chemicals, the sig-naling involved, and how these chemicals have been, and may be used in the agricultural industry. 2. Communication Mode between Microorganisms 2.1. Quorum Sensing Quorum Sensing is a communication systems used by microorganism, which is crit-ical for the establishment of relationship between the microorganisms and their host [11]. QS is a social characteristic communication between bacteria and the environment in which bacteria creates and senses signal molecules to coordinate their behaviour in a pop-ulation-dependent manner [1,2]. When QS molecules reach a certain level, bacteria adjust their gene expression pattern to cope with high cell density microbial cell surroundings. Unique extracellular signal molecules known as ‘autoinducers’ are associated with QS. N-acyl homoserine lactones (AHLs) are extensively studied autoinducer in Gram-negative bacteria, that possess an invariant lactone ring and acyl tail of varying lengths, saturations and presence of hydroxyl group [12]. These distinctions in its structure confers species uniqueness as well as differences in genetic regulation depending on the AHL receptor which serves as transcriptional regulator for a variety of bacterial community activities, including biofilm formation and pathogenicity [12]. The biofilm matrix is a harmonious community that helps to protect the microorgan-ism from harsh environment and is vital for colonization [1]. Bacteria in biofilms are known to efficiently sustain communities by secreting extracellular chemicals that allow Int. J. Mol. Sci. 2022, 23, 8998
+
+3 of 25
+
+according to the suitability of a situation. For instance, experiment by Wubs et al., (2016)
+have demonstrated that transferring microorganisms that was found in a healthy soil to a
+dysbiosis soil over the period of six years can rehabilitate the soil health, thus improving
+the plant biodiversity and ecosystem [7]. Ultimately, the recent understanding of the
+involvement of advantageous microorganisms in agriculture and the understanding of
+host-associated microbial dysbiosis in a variety of situations have highlighted the need
+for techniques that can alter the structures and functions of host-associated microbial
+communities in agriculture.
+
+Due to the recent advancements in omics technology and instrumentations, more
+chemical signaling compounds have been identiﬁed and characterized structurally and
+functionally for the role they play in plant-microbe interactions as well as microbe-microbe
+interactions [8]. Many of these chemical signals have been identiﬁed and developed into
+chemicals for use in agriculture such as Solvinix, Sarritor® and Organosol [9,10]. In this
+review we look into both QS and QQ as well as various chemical signals that are produced
+by microbes in the environment, the roles played by these chemicals, the signaling involved,
+and how these chemicals have been, and may be used in the agricultural industry.
+
+2. Communication Mode between Microorganisms
+2.1. Quorum Sensing
+
+Quorum Sensing is a communication systems used by microorganism, which is critical
+for the establishment of relationship between the microorganisms and their host [11]. QS
+is a social characteristic communication between bacteria and the environment in which
+bacteria creates and senses signal molecules to coordinate their behaviour in a population-
+dependent manner [1,2]. When QS molecules reach a certain level, bacteria adjust their
+gene expression pattern to cope with high cell density microbial cell surroundings. Unique
+extracellular signal molecules known as ‘autoinducers’ are associated with QS. N-acyl
+homoserine lactones (AHLs) are extensively studied autoinducer in Gram-negative bac-
+teria, that possess an invariant lactone ring and acyl tail of varying lengths, saturations
+and presence of hydroxyl group [12]. These distinctions in its structure confers species
+uniqueness as well as differences in genetic regulation depending on the AHL receptor
+which serves as transcriptional regulator for a variety of bacterial community activities,
+including bioﬁlm formation and pathogenicity [12].
+
+The bioﬁlm matrix is a harmonious community that helps to protect the microorganism
+from harsh environment and is vital for colonization [1]. Bacteria in bioﬁlms are known
+to efﬁciently sustain communities by secreting extracellular chemicals that allow them
+to communicate with one another without having to come into direct physical contact.
+The LuxI is an autoinducer synthase enzyme that synthesizes AHLs, where the AHLs
+produced will interact with receptor proteins (LuxR homologues) in intracellular spaces
+of Gram-negative bacteria, and the dimers produced governing the phenotypic gene
+expression of bioﬁlm formation, enzyme synthesis, manufacturing of antibiotics, and
+virulence factors [13]. Even at very low concentrations of AHLs, plants may detect their
+presence and respond in a variety of ways including changes in hormone levels involved
+in self-defence and the release of hormones associated with growth such as auxin, ethylene
+and jasmonic acid [14].
+
+Oligopeptide autoinducers are used by Gram-positive bacteria as lead molecules. These
+autoinducing peptides (AIPs) are ribosomally produced and may have post-translational
+changes that affect the stability and functionality of their side chains [13]. Peptides typically
+need transporters to reach the extracellular environment, as they are impermeable to the
+bacterial membrane [15]. Diffusible signal factors (DSFs) are medium-chain unsaturated
+fatty acids that regulate QS in a variety of organisms, including Burkholderia cenocepacia,
+Candida albicans, Pseudomonas aeruginosa, Stenotrophomonas maltophilia, and Xylella fastidiosa,
+implying the involvement of inter-kingdom signalling pathways. Cis-2-dodecenoic acid,
+cis-11 methyldode-ca-2,5-dienoic acid, cis-11-methyl-2-dodecenoic acid, cis-10-methyl-2-
+dodecenoic acid, and trans-2-decenoic acid are examples of DSF compounds [12]. The
+
+Int. J. Mol. Sci. 2022, 23, 8998
+
+4 of 25
+
+ﬁrst discovered DSF was cis-11-methyl-2-dodecenoic acid which was discovered in the
+Xanthomonas campestris pv. campestris. It inﬂuences the expression of extracellular enzymes
+such as Egl and protease, virulence factors and xanthan, as well as the regulation of
+pathogenicity factors (rpf ) genes. The crotonase family enzyme rpfF, acts on fatty acyl
+carrier protein substrates, and the fatty acyl CoA ligase RpfB is required for X. campestris
+pv. campestris DSF production. A two-component system for DSF detection and signal
+transduction consists of the sensor RpfC, and the regulator RpfG [16,17]. Recognition
+of DSF by RpfC is related to phosphorylation of the HD-GYP which acts as the domain
+regulator and changes the cellular level of the second messenger cyclic di-GMP. Distinct
+pathways govern different subsets of Rpf-regulated virulence activities. RpfC favourably
+inﬂuences virulence factor production while adversely regulating DSF synthesis [17].
+
+2.2. Quorum Quenching
+
+Quorum quenching (QQ) is an interference to the QS system which will disrupt the
+attack of bacterial population. QQ possesses two main mechanisms; (1) QS signal molecule
+inhibitors (QSIs), and (2) QS signal molecule degradation enzymes. The QSI mechanism
+stops signal molecules from interacting with receptor proteins, thus interfering with QS,
+while the other mechanism reduces signal molecules by generating degrading enzymes,
+resulting in QQ [15]. Extracts of beans, clover, pea, garlic, geranium, grape, lily, lotus,
+pepper, strawberry, soybean, vanilla, and yam reduce AHL of QS in a variety of bacterial
+species [13]. Lactonase present in these plant extracts have QQ action. Lactones such as
+patulin and penicillic acid found in fungi behave as bacterial AHL signal counterparts.
+Patulin can be found in apples, pears, peaches, apricots, bananas, and pineapple, making
+these foods promising anti-QS phyto resources [16].
+
+AHLs can be destroyed or changed by lactone hydrolysis, amidohydrolysis and ox-
+idoreduction [18]. The activity of AHL acylase and AHL lactonase enzymes has been
+documented to cause AHL degradation that may be caused by multiple phylum members
+including Proteobacteria, Actinobacteria, and Firmicutes [9]. Furthermore, bacterial oxi-
+doreductases, such as those produced by Rhodococcus sp., have the ability to actively alter
+AHL [13]. Lactonases that catalyse the hydrolysis of the ester bond to open the AHL ring
+are classiﬁed into several classes based on their folds. Phosphotriesterase-like lactonases
+are a common type of lactonase which requires two metal ions and a TIM barrel fold (triose-
+phosphate isomerase) for proper functionality. TIM barrel proteins are crucial because it
+is needed to support wide range of enzymatic activities [19]. AHL lactonases have been
+shown to successfully hydrolyzes a variety of lactones, including QS AHLs ranging from
+C4- to C12-homoserine lactone (HSL) [16], with or without C3 alteration.
+
+QSI are small molecules which have the capacity to effectively reduce quorum sensing
+controlled gene expression [20]. These compounds must be stable, speciﬁc and resistant
+to degradation as they will encounter different metabolic reactions in the cell. These
+compounds alter gene expressions of the targeted genes by binding to different promoters
+which may interrupt the interaction of the signalling molecules or prevent the synthesis
+of signal molecules hence inhibit the generation of secondary signals that modulate gene
+expression [20]. For example, a few Bacillus strains have been associated to aiiiA and
+TasA genes, which encode for many QSI, including lactonase, and have a broad spectrum
+antimicrobial action, suggesting that they might be used to manage bacterial diseases
+biologically [21]. In addition, furanones which are synthesized by fungi have a signiﬁcant
+role as QSI for many Gram negative and positive bacteria by triggering the induction of
+stress response genes in a QS-independent manner [22]. A summary of signalling molecules
+produced by microbes and plants is shown in Figure 2 below.
+
+Int. J. Mol. Sci. 2022, 23, 8998
+
+5 of 25
+
+Figure 2. Signaling molecules of microbes and plants.
+
+2.3. Chemical Signalling in Fungi
+
+One of the most prevalent chemical signaling molecule in fungi is farnesol. Follow-
+ing the discovery of farnesol in Candida albicans, it was discovered that lipids (oxylipins),
+peptides (pheromones), alcohols (tyrosol, farnesol, tryptophol, and 1-phenylethanol), ac-
+etaldehydes, and several volatile chemicals are actively engaged in fungal QS systems [20].
+QS in fungi is often responsible for germination of spore, production of secondary metabo-
+lites, taxonomic transformation and enzyme secretions [23].
+
+Intraspecies of fungi communicate with each other by releasing pheromones. Pheromones
+are used as signalling molecules to govern spore germination, production of secondary
+metabolites, structural transformation and enzyme secretion in fungi [23]. Pheromones
+produced are different based on the alleles expressed at the MAT locus [24]. For instance,
+Saccharomyces cerevisiae is one of the most popular and broadly described yeast where
+pheromones generated by this fungus cells are diffusible peptides which are known as
+a-factor and α-factor. Alleles expressed at the MAT locus will determine the peptide
+hormone and create only one of the two peptide pheromones. MATα is responsible for
+α expression where the pheromone precursor is encoded by MFα1 that passes through
+numerous proteolytic processes before delivering a matured pheromone. MATa meanwhile
+is responsible for “a” expression, where the a-factor is farnesylated and can be recognized
+by ABC transporter Ste6p for a-factor secretion [24].
+
+Mycoparasitic fungi such as Trichoderma sp. are commonly used in agriculture to com-
+bat other fungal pathogens such as Rhizoctonia solani and Fusarium sp. [25]. Trichoderma sp.
+produce a few metabolites including harzianopyridone, trichodermin and glivorin which
+have antifungal or antimicrobial properties that allow them to thrive in various environ-
+ments [26]. Fusarium produces mycotoxins known as fusaric acid and deoxynivalenol
+(DON) which can activate defense mechanisms in T. atroviride and Clonostachys rosea which
+results in mycotoxin detoxiﬁcation [27,28]. DON and fusaric acid also play an important
+role as a virulence factor that can cause Fusarium wilt in plant. DON synthesis is related
+to oxidative stress [29,30] while fusaric acid synthesis is related to metal ion content [31].
+This two chemicals can hamper bacteria interaction by QQ of AHL in low concentration,
+
+Int. J. Mol. Sci. 2022, 23, x FOR PEER REVIEW 5 of 25  shown to successfully hydrolyzes a variety of lactones, including QS AHLs ranging from C4- to C12-homoserine lactone (HSL) [16], with or without C3 alteration. QSI are small molecules which have the capacity to effectively reduce quorum sens-ing controlled gene expression [20]. These compounds must be stable, specific and re-sistant to degradation as they will encounter different metabolic reactions in the cell. These compounds alter gene expressions of the targeted genes by binding to different promoters which may interrupt the interaction of the signalling molecules or prevent the synthesis of signal molecules hence inhibit the generation of secondary signals that mod-ulate gene expression [20]. For example, a few Bacillus strains have been associated to aiiiA and TasA genes, which encode for many QSI, including lactonase, and have a broad spec-trum antimicrobial action, suggesting that they might be used to manage bacterial dis-eases biologically [21]. In addition, furanones which are synthesized by fungi have a sig-nificant role as QSI for many Gram negative and positive bacteria by triggering the induc-tion of stress response genes in a QS-independent manner [22]. A summary of signalling molecules produced by microbes and plants is shown in Figure 2 below.  Figure 2. Signaling molecules of microbes and plants. 2.3. Chemical Signalling in Fungi One of the most prevalent chemical signaling molecule in fungi is farnesol. Following the discovery of farnesol in Candida albicans, it was discovered that lipids (oxylipins), pep-tides (pheromones), alcohols (tyrosol, farnesol, tryptophol, and 1-phenylethanol), acetal-dehydes, and several volatile chemicals are actively engaged in fungal QS systems [20]. QS in fungi is often responsible for germination of spore, production of secondary metab-olites, taxonomic transformation and enzyme secretions [23]. Intraspecies of fungi communicate with each other by releasing pheromones. Phero-mones are used as signalling molecules to govern spore germination, production of sec-ondary metabolites, structural transformation and enzyme secretion in fungi [23]. Phero-mones produced are different based on the alleles expressed at the MAT locus [24]. For instance, Saccharomyces cerevisiae is one of the most popular and broadly described yeast Int. J. Mol. Sci. 2022, 23, 8998
+
+6 of 25
+
+and suppressing phenazine-1-carboxamide production at higher concentrations [32,33].
+Other than that, zearalenone (ZEN) is another mycotoxin produced by Fusarium species.
+C. rosea however was reported to detoxify ZEN by breaking the ring structure of ZEN.
+Trichoderma sp. turns ZEN into sulphated form and reduces DON into its glycosylated form
+of deoxynivalenol-3-glucoside [27,34]. Table 1 below shows signal molecules produced by
+microorganisms and their respective functions.
+
+Table 1. Signal Molecule Produced by Fungi and the Function.
+
+Signal Molecule
+
+Role
+
+References
+
+Organism
+
+Fusarium
+
+S. cerevisiae
+
+Fusaric acid
+
+Tryptophol
+
+Farnesol
+
+Debaryomyces nepalensis
+
+Phenylethanol
+
+Penicillium spp. and
+Aspergillus spp.
+
+Patulin
+
+Oxylipins
+
+Penicillium sclerotiorum
+
+Multicolic acid
+
+Fusarium culmorum
+
+Terpenes
+
+Penicillium decumbens
+
+Farnesol
+
+Penicillium expansum
+
+Farnesol
+
+Fusarium graminearum
+
+Farnesol
+
+•
+•
+
+•
+
+•
+•
+
+•
+
+•
+•
+•
+
+•
+•
+•
+
+•
+
+•
+
+•
+•
+
+•
+•
+
+•
+
+Virulence factor
+Reduces activity of Pseudomonas and Bacillus
+
+[35,36]
+
+Promotes pseudohyphal growth
+
+Induces cellular death
+Increases mitochondrial reactive oxygen
+species concentration
+
+Promotes bioﬁlm formation
+
+Virulence factor
+Fungal colonization
+Antimicrobial activity
+
+Virulence factors
+Growth factors during sexual development
+Controls mycotoxin production
+
+Accelerates the process of sclerotiorin synthesis
+
+Inﬂuences swimming and swarming motility
+of Serratia plymuthica
+
+Promotes the growth of hyphae
+Increases the secretion of cellulase
+
+Induces cellular death
+Inhibits the growth of hyphae
+
+Inhibits growth of hyphae
+
+[37]
+
+[38]
+
+[39]
+
+[40,41]
+
+[42,43]
+
+[23]
+
+[44]
+
+[45]
+
+[46]
+
+[46]
+
+3. Microbial Interactions and Chemical Signalling in Plant
+3.1. Mycorrhizal Interactions
+
+In many ecological niches, the coexistence of bacteria and fungus is a regular occur-
+rence. The association of intracellular bacteria with their fungi inhabitants is considered
+to sustain ecological systems, in addition to being an important aspect of cellular evolu-
+tion. The majority of known groups of fungus that include endosymbiotic bacteria are
+mycorrhizal fungi [47]. Bacteria can inﬂuence how fungi grow and evolve structurally.
+For instance, Paenibacillus validus secretes trisaccharide to induce hyphal and sporulation
+development of Glomus intraradices which enables AM fungus to complete its life cycle
+without a plant host [48] Other than that, it has been reported that Rhizopus microsporus, a
+pathogenic fungi which infects different crops including rice and maize, only sporulates
+when it is infected by Burkholderia rhizoxinica [49].
+
+Apart from that, microbial communities frequently appear to exchange metabolites.
+Changing the availability of important nutrients may change the activity of the microbial
+companion. It has been demonstrated that certain fungus may induce a new phenotype in
+
+Int. J. Mol. Sci. 2022, 23, 8998
+
+7 of 25
+
+Streptomycetes by glucose deprivation which will allow colonization in different environ-
+ments. This exploratory growth, uses a chemical mediator known as trimethylamine, to
+effectively transmit information to other actinomycetes [50]. The metabolites interchange
+might frequently be strictly controlled. For instance, mycorrhizal fungus Laccaria bicolor,
+secretes trehalose which acts as chemoattractant for P. aeruginosa and in exchange, the
+bacteria produces thiamine which will helps in the fungal development [51].
+
+Apart from that, arbuscular mycorrhizal fungi (AMF) are also commonly found to
+establish mutualistic symbiosis with plant roots. AMF inﬁltrates the root system and
+it exchanges secondary metabolites which acts as nutrients between the host and the
+AMF [52,53]. Plants recruit microbes in the rhizosphere by releasing different exudates
+such as amino acids, hormones, sugars and nutrients that are beneﬁcial for certain microbes
+and in exchange microbes release chemical that is beneﬁcial for the plant [52]. For instance,
+bioﬁlms of B. subtilis establishes a mutualistic relationship with the rhizome systems of the
+plant, allowing for pre-emptive colonization and preventing other pathogens from infecting
+the plant while allowing the bacteria to receive nutrients released by the plant roots [54].
+Apart from that, AMF are also commonly found to establish mutualistic symbiosis with
+plant roots. Microbes in legumes rhizosphere are speciﬁc to their host and are recruited to
+the plant root system through chemical exudates released by the plant to recruit speciﬁc
+Rhizobia to form root nodules. This root nodule is important in legumes as it helps them in
+nitrogen ﬁxation [55,56].
+
+3.2. Nitrogen Fixation
+
+Nitrogen is one of the most important elements in plant growth and development
+but plants cannot directly convert N2 in the atmosphere. In the rhizosphere, plants recruit
+bacteria, such as diazotrophs that are able to covert atmospheric nitrogen into a more useful
+form such as ammonia. Rhizobium spp., Parasponia spp., Azospirillum spp., Frankia, Azoarcus
+spp. and Herbaspirillum are few examples of diazotrophs [57]. Nitrogen concentration in
+the soil plays an important role in the diversity of nitrogen-ﬁxing bacteria [58]. For instance,
+in the environments with low nitrogen, nitrogen-ﬁxing bacteria that lives in root nodules
+will produce ﬂavonols and ﬂavones to entice and recruit legume-rhizobia symbiosis [58].
+The ﬂavones and ﬂavonols stimulate the production of the bacterial nod gene, which starts
+the process of root nodulation. Inoculation of aerobic nitrogen-ﬁxing bacteria into the
+rhizosphere of rice, wheat, and oat seedlings caused nitrogenase activity [57].
+
+Nodulation process by rhizobia in the leguminous plants is a complicated and intrigu-
+ing process which involves a number of biochemical interactions between the bacterium
+and its host [59]. During this interaction, bacteria are attracted to the plant roots by chemo-
+taxis which causes root hairs to become curly. The formation of a nodule meristem is the
+result of the bacteria inducing cellular division in the typically dormant cells of the inner
+cortex of the root. An infection thread, which is a tube of plant origin that is created by
+bacteria trapped in the coiled root hair, is able to enters the exterior plant cells while the
+bacteria thrive within.
+
+Frankia produced different secondary metabolites including phenols, ﬂavonoids and
+hydroxycinnamic acids where ﬂavonoids have been shown to affect the diversity of the
+microbe community around it [57]. On the contrary, Rhizobium produced a unique signal
+molecules known as Nod factors which are essential for the uniqueness of the host-symbiont
+relationship as well as stimulation of all early plant responses, such as the transcription of
+symbiotic genes that causes the cortical cells to undergo mitosis again and the development
+of pre-infection threads [57,60]. On the other hand, plant is known to synthesized ethylene
+which is essential for plant growth and development. However, ethylene has a negative
+impact to nodulation [61]. Meddling with ethylene signaling increases nodule size and
+number. Contrary to the detrimental effect that ethylene has on nodule development,
+cytokinin mitotically reactivates cells in the pericycle and root cortex [62]. Additionally,
+isoﬂavonoids released by legumes including daidzein and genistein has a positive impact
+on Bradyrhizobium japonicum nod genes while Sinorhizobium meliloti nod genes was affected
+
+Int. J. Mol. Sci. 2022, 23, 8998
+
+8 of 25
+
+by luteolin. The degree of precision displayed helps the rhizobial community to precisely
+recognize their particular host.
+
+3.3. PGPR Signalling
+
+Microbes in the rhizosphere communicate predominantly through QS signalling
+molecules. At the reception of cognate signals, this cell-to-cell QS-based communication
+is implicated in plant growth promoting organisms colonization of plant roots, resulting
+in changes in gene expression corresponding to bacterial community density [63,64]. QS
+signalling molecules include antibiotics such as lipopeptide antibiotics that can be found in
+Gram-positive bacteria such as Bacillus subtilis. B. subtilis can be found easily in the soil’s top
+layers [54]. Bioﬁlms of B. subtilis establish a mutualistic relationship with the rhizosphere
+of the plant, allowing for pre-emptive colonization and preventing other pathogens from
+infecting the plant while allowing the bacteria to receive nutrients released by the plant
+roots [54].
+
+Bacillus subtilis is a plant growth promoting rhizobacteria (PGPR), that helps to sol-
+ubilize phosphorus and enhance nutrient absorption. B. subtilis strains can synthesize
+lipopeptide antibiotics which can be divided into four groups which are the plipastatin,
+the surfactin group, the fengycin group, and the iturin group [65]. Lipopeptides are am-
+phiphilic molecules with a low molecular weight. Lipopeptides genes are found in many
+bacterial species and strains of biocontrol agents, and some have been marketed for their
+improved ability to generate synthesized antibiotics and restrict root infections caused
+by fungi [66]. Sfp gene in bacilli is mandatory for a functionally active post-translational
+modiﬁcation, which is required for synthetases of the non-ribosomal peptides. The sfp gene
+encodes a 4(cid:48)-phosphopantetheinyl transferase that transforms inert apoenzyme peptide
+synthetases to their active holoenzyme forms post-translationally. A dysfunctional sfp
+gene will result in a lack of ability to synthesize antibiotics such as B. subtilis 168 which
+has a mutation in its sfp gene, but when it is complemented with a functional sfp gene,
+the antibiotic synthesis is restored [67]. Iturin has also been shown to disrupt yeast cell
+cytoplasmic membranes, resulting in the release of K+ ions and other essential elements, as
+well as the death of yeast cells [68].
+
+Surfactin is a signal molecule (autoinducers) that activates the pathway involved in
+bioﬁlm formation in Bacillus spp. [69]. Surfactin production is regulated by the srfA operon-
+sfp gene cluster system, and is crucial for cell differentiation. The Sfp gene is essential to
+build docking sites in the surfactin synthetase protein that allows particular amino acids to
+be loaded into the surfactin peptide chain and to activate the PCP domains by converting
+inactive forms to active units [70]. When surfactin is produced, potassium concentration
+in intracellular cell of Bacillus decreases due to the pore formation in the membrane. A
+sensor known as KinC will detect these changes and trigger SpoOA phosphorylation which
+then will stimulate the activation of genes that controls matrix production [71–73]. Further,
+when in contact with other species in the same ecosystem, surfactin produced by Bacillus
+will act as antibiotic by disintegrating cell membranes of other bacteria and fungi. For
+example, sulfate-reducing bacteria have been shown to be inhibited by surfactin produced
+by Bacillus sp. H2O-1 and B. mojavensis produced surfactin show antifungal activity against
+F. verticilloides [73,74]. A few Bacillus species are also known to synthesize fengycin groups
+which potentially suppresses ﬁlamentous fungi and inhibits phospholipase, a virulence
+factor in certain bacteria and fungi [75,76]. Membrane breakage, outﬂow of cellular contents,
+and eventual cell death of speciﬁc bacteria are all direct consequences of fengycin [75].
+While fengycins have antifungal efﬁcacy at low concentrations against a variety of fungi,
+their molecular processes are unknown and might vary depending on the pathogen’s
+target. In certain cases, this was clearly linked to spore/conidia permeability, which inhibits
+germination or, alternatively, causes hyphal cell disruption. Both behaviours are caused by
+CLPs degrading membranes, as seen by transmission electron microscopy. This action is
+most likely due to the compounds’ amphiphilic nature, which explains their strong afﬁnity
+for lipid bilayers [77]. Aside from that, Bacillus sp. also produces bacteriocins, which are
+
+Int. J. Mol. Sci. 2022, 23, 8998
+
+9 of 25
+
+ribosomally synthesized short antimicrobial peptides that bacteria use to defend themselves
+against closely related bacterial species [78]. Bacteriocins are not only synthesized by Gram-
+positive bacteria but are also synthesised by Gram-negative bacteria and Archae. As a
+cationic peptide, bacteriocins can easily attach to the negatively charged phospholipid
+bilayers of the membranes and exert damage. Thuricin 17 is an example of a bacteriocin
+produced by Gram-positive bacteria whereas pyocin is synthesized by Gram-negative
+bacteria including Pseudomonas spp.
+
+P. aeruginosa which can be found abundantly in the soil and water can synthesize
+bacteriocin known as pyocin [77]. Pyocin can be divided into three types: (1) R-type
+are non-ﬂexible and contractile which resembles bacteriophage tails of Myoviridae, (2) F-
+type pyocin are ﬂexible but non-contractile, and (3) S-type pyocin is a smaller protein
+compared to R and F-type pyocin with water soluble characteristics and very sensitive
+to heat protease [77,79]. The prtN activator regulates the expression of R-, F-, and S-type
+pyocin genes by binding to the P boxes of their promoters. In normal circumstances, prtR
+suppresses prtN expression. When subjected to stress conditions, an active RecA causes
+autoproteolytic cleavage of prtR, which results in the abolition of prtN repression and the
+synthesis of pyocin. A lysis cassette that encodes a holin (proteins that allow endolysin to
+pass through the cytoplasmic membrane by creating holes in the inner membrane) and an
+endolysin mediates the extracellular release of R-pyocin particles in P. aeruginosa [80,81].
+Pseudomonas spp. can also produce bioﬁlm, EPS and a few phenazine derivatives including
+pyocyanin, phenazine-1-carboxylic acid (PCA) and a few hydroxy-phenazines including
+2-hydroxybenzoic acid which are also known as salicylic acid [82,83]. All of these chemical
+compounds act as signalling molecules and virulence factors for this genera [83].
+
+Trichoderma sp. is a fungal mycoparasite that can recognize other fungi and inhibit
+their growth via a few modes of action. Trichoderma hyphae detect the presence of lectin on
+the antagonist fungi and secrete certain enzymes to degrade the cell wall of the targeted
+fungi [27]. To successfully parasitize the antagonist fungi, Trichoderma spp. excretes
+metabolites such as pachybasin, bisvertinolone and siderophore to help parasitize more
+efﬁciently [27,84]. Along with that, Trichoderma also produces pentenomycins, trichosetin,
+lignoren and cyclonerodiol that possess antimicrobial and antibiotic effects against Gram-
+positive and Gram-negative bacteria including B. subtilis, Mycobacterium smegmatis and
+P. aeruginosa [85]. Table 2 below shows other quorum sensing molecules produced by
+organisms that dwell in the rhizosphere.
+
+Table 2. Quorum Sensing Molecules Produced by Rhizospheric Microbes.
+
+Organism Producing Quorum
+Sensing Molecule
+
+Quorum Sensing Molecule
+Produced
+
+Arthrobacter agilis
+
+Dimethylhexadecylamine
+
+B. licheniformis
+
+ComX pheromone
+
+B. subtilis subsp. Subtilis C9
+
+Acetylbuanediol
+
+P. aeruginosa
+
+Rhamnolipids
+
+P. ﬂuorescens
+
+2,4-Diacetylphloroglucinol
+
+Pseudomonas spp.
+
+Dimethyl disulphide
+
+Sinorhizobium meliloti
+
+N-(tetrahydro-2-oxo-3-furanyl)-octanamide
+(C8-HL)
+
+Role of the Quorum Sensing Molecule
+
+References
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+•
+
+Affects bacterial growth and swarming
+motility of Bacillus and P. ﬂuorescens
+
+Inhibits the growth of A. ﬂavus
+
+Affect the growth Rhizoctonia solani
+
+Act as biosurfactants to reduce tension
+on surfaces for motility
+
+Promote mycelial growth and root
+colonization of Glomus mosseae
+
+Inhibit germination of S. sclerotiorum
+
+Bioﬁlm formation
+Inﬂuence nodulation efﬁciency
+
+[86]
+
+[87]
+
+[88]
+
+[89]
+
+[80]
+
+[81]
+
+[90]
+
+Int. J. Mol. Sci. 2022, 23, 8998
+
+10 of 25
+
+Furthermore, Burkholderia are famous endophyte species found ubiquitously in
+the environment; including the B. cenocepacia and B. tropica that can be found in plant
+roots [91]. B. cenocepacia regulates bacterial pathogenicity through two different types
+of QS systems including AHL and the cis-2-dodecenoic acid (BDSF) system [92]. These
+two QS systems have combined effects on bioﬁlm formation, virulence factor production,
+and bacterial motility in B. cenocepacia [93]. Study by Chen et al., (2020) has also shown
+that B. cenocepacia produced various volatile organic compounds (VOCs) such as indole,
+dimethyl trisulﬁde, allyl benzyl ether and methyl benzoate that have antifungal activity
+against different types of fungal pathogens including Botrytis cinerea, Alternaria alternata and
+Bipolaris sorokiniana [93]. Other authors also have reported similar results using different
+Burkholderia spp. which can hamper conidial germination of B. cinerea [94]. Further, research
+carried out by Tenorio-Salgado et al., (2013) shows that hyphal morphology of F. culmorum
+and F. oxysporum changed in the presence of B. tropica which eventually led to the death of
+the fungi [95].
+
+3.4. Siderophore
+
+Iron is also one of the important elements to all living organisms for numerous enzyme
+activities. In spite of that, iron is limited to the plant microhabitat and to survive this,
+endophytes should be endowed with features that facilitate its acquisition. Gram-negative
+bacteria such as B. phytoﬁrmans, G. diazotrophicus and Enterobacter sp., have special traits that
+can synthesize and excrete low molecular weight molecules with high and speciﬁc afﬁnity
+for iron which are also known as siderophores [96,97]. Low molecular weight siderophores
+synthesized by PGPR can solubilize and sequester iron from the soil and then provide it to
+the plant cells. PGPR which have this special trait release siderophores into the environment
+to bind iron (III) and adsorb ferric-siderophore complexes through Ton-B-dependent outer
+membrane receptors [98]. Although not all PGPR have these unique characteristics, PGPR
+such as Pseudomonas sp. exploit siderophores synthesized by other microbes known as
+xenosiderophores as a source of iron [99]. For instance, P. putida use other Pseudomonas sp.
+siderophores to obtain iron for themselves. To obtain pyoverdines which was synthesized
+and secreted by other Pseudomonas species, P.putida needs PupB, an outer membrane
+receptor that is triggered by the presence of the pyoverdines. This signaling process requires
+three different proteins which are PupB receptor, PupR anti-sigma factor, and the PupI
+ECF sigma factor [89]. PvdA enzyme is involved in this biosynthetic pathway while PvdQ
+enzyme is involved in maturation of the pyoverdine. Apart from that, Pseudomonas also
+produced siderophore pyochelin which also have roles in virulence and EPS formation [89].
+
+3.5. Endophytic Signalling
+
+Endophytic microorganisms invade plant tissues without producing any obvious
+detrimental consequences [100]. Endophytes can be found in the phyllosphere and rhi-
+zosphere and adopt lifestyle that commonly start as epiphytes on the plant surface and
+gradually change to endophytes by invading the plant tissues. Endophytes use a variety
+of mechanisms to continuously accommodate changes in their surroundings, which are
+strictly regulated by plants. In order to maintain a stable relationship, endophytes create a
+number of compounds that assist plants develop and adapt to their surroundings [101].
+
+Adhesion is one of the most important keys for epiphytic and endophytic microor-
+ganism colonization. Bacteria is able to attach to the plant due to the formation of bioﬁlm
+composed of water, polysaccharides, extracellular DNA, RNA, proteins and ions [102]. The
+endophyte’s QS system is similar to other bacteria where autoinducers and peptides are
+used for communication. For example, AHL based systems which are more commonly
+found in Gram-negative bacteria were detected in Burkholderia phytoﬁrmans, Microbac-
+terium populi, G. diazotrophicus, Burkholderia cenocepacia, Pseudomonas sp. and Nitromonas sp.,
+whereas autoinducer-2 system which were used by both Gram-positive and Gram-negative
+bacteria as interspecies communication, was identiﬁed in Enterobacter sp. [103].
+
+Int. J. Mol. Sci. 2022, 23, 8998
+
+11 of 25
+
+P. syringae start their life as epiphyte and gradually change to endophyte when it has
+successfully invaded the plant tissue and caused necrotic spots which are indicators that
+the disease has started. P. syringae produced two types of EPSs and extracellular DNA
+which are alginate and levan [104]. Alginate is composed of copolymer of o-acetylated
+β-1,4-linked D-mannuronic acid and L-glucuronic acid [105]. AlgU are sigma factors that
+control gene expression associated to alginate biosynthesis enzymes such as algD gene that
+controls the type III secretion system (TTSS) effector expression which plays a signiﬁcant
+role in virulence regulation by suppressing the plant defense. Furthermore, AlgU appears
+to be able to control the synthesis of coronatine (COR), that contributes to virulence by
+reducing stomatal-based defense in the early stages of infection and also in the development
+of bioﬁlm [106].
+
+3.6. Parasitism Interaction
+3.6.1. Diffusible Signal Factor (DSF)
+
+DSF is one of the most important QS molecules in bacteria. It is a cis-11-methyl-2-
+dodecenoic acid which requires the rpf gene cluster to regulate pathogenicity [107]. A
+number of bacterial activities, such as pathogenicity, bioﬁlm formation, motility, interaction
+with insect vectors, and antibiotic resistance, are inﬂuenced by signaling mediated by
+DSF family components [108]. The ability to interfere with DSF signaling may open up
+new possibilities for the management of bacterial infection. As mentioned above, DSF
+are encoded by the rpf gene cluster such as rpfABCDEFG genes which are involved in the
+generation of extracellular polysaccharides or exopolysaccharides (EPS) and extracellular
+enzymes. RpfC and RpfG form a system to detect and transform DSF signal, while RpfF is
+a crucial enzyme for the synthesis DSF [109]. Comprehensive research of DSF-mediated QS
+has been carried out on Xanthomonas campestris where it used cis-11-methyl-2-dodecenoic
+acid (DSF) to synthesize a yellow pigment called xantomonadin that aids in epiphytic
+survival and pathogenicity by acting as a barrier against ultra violet (UV) light [110]. Xan-
+thomonas oryzae pv. Oryzae synthesized three different chemical signal molecules which
+are DSF (cis-11-methyl-2-dodecenoic acid), BDSF (cis-2-dodecenoic acid) and CDSF (cis-11-
+methyldodeca-2,5-dienoic acid). On the other hand, X. axonopodis synthesized DSF which
+is butyrolactones. This QS systems controls exopolysaccharides and xanthan production
+which is an important element for bioﬁlm production and virulence in this species [111].
+Bioﬁlm formed by bacteria can protect them from diffusion of antimicrobial and antibi-
+otic [112,113]. Additionally, Malamud et al., (2011) revealed that X. axonopodis used DSF
+to control both sliding and swimming motility which is crucial during several stages of
+bioﬁlm formation including surface adhesion, maturity and dispersal [114].
+
+Although at ﬁrst DSF signaling was formerly believed to only be present in Xan-
+thomonas spp., it was later found in several unrelated species including Burkholderia cenocepa-
+cia, B. vietnamiensis, B. dolosa, and B. ambifaria synthesized cis-2-dodecenoic acid also known
+as BDSF, while Xylella fastidiosa synthesized cis-2-tetradecenoic acid and cis-2-hexadecenoic
+acid also known as XfDSF and XfDSF2, respectively. Although Pseudomonas aeruginosa
+is able to detect the presence of these molecules through bacterial behaviourial changes,
+it is unable to synthesize DSF and BDSF, but was able to synthesize cis-2-decenoic acid
+instead [108,115].
+
+3.6.2. Exopolysaccharide (EPS)
+
+Exopolysaccharides (EPS) are water soluble polymers which predominantly con-
+sist of carbohydrates and proteins, released by microorganisms and have a variety of
+biological functions, including as cell-to-cell communication, adhesion to surfaces, and
+defense [116,117]. EPS also plays an important role in bioﬁlms formation. EPS role is to
+increase the bioﬁlm community’s capacity to scavenge moisture and nutrients from the
+environment when either is scarce, encouraging sustained metabolism under unusual
+circumstances [118]. As a generic physical barrier, EPSs act as a safeguard to the microbes.
+Synthesis of EPSs are directly inﬂuenced by certain environmental pressures including
+
+Int. J. Mol. Sci. 2022, 23, 8998
+
+12 of 25
+
+moisture, temperature, acidity, and light intensity [119]. EPS produced by microbes serve a
+key role in adhesion to plant surfaces by producing biosurfactants to promote cuticular
+penetration, allowing the microbes such as bacteria to colonize the plant’s surface [112].
+The EPS also aids in maintaining a hydrated layer around the bacteria and therefore pro-
+tects them from desiccation. Ralstonia solanacearum is a Gram-negative plant pathogenic
+bacterium that has caused vascular wilt in crops and signiﬁcantly reduced crop yield.
+R. solanacearum can be considered as epiphyte or endophyte as it can cause disease either
+by invading the plant tissue or by staying on the surface of the plants [120]. These bacteria
+can produce EPS and cause disease in plant. The build-up of EPS will interrupt water move-
+ment in plant vessels which ultimately will cause acute withering symptoms in infected
+plants [121].
+
+Besides that, beneﬁcial bacteria including Azoarcus, Rhizobium, Azospirillum, Sinorhi-
+zobium, Burkholderia, and Bradyrhizobium are also able to synthesize EPS [102]. The gumD
+gene in Gluconacetobacter diazotrophicus is essential for EPS biosynthesis, while wssD gene in
+Herbaspirillum rubrisubalbicans is responsible for cellulose production, where the inactivation
+of these genes will limit the bacteria adhesion to the plant surface [102,122]. Lipopolysac-
+charide, capsule polysaccharide, gel-forming polysaccharide, and glucans are just a few
+of the polymeric compounds that exopolysaccharide-producing rhizobia strains such as
+R. legumi-nosarum bv. Trifolii and Rhizobium alamii generate. These compounds are essential
+for the advancement of efﬁcient symbiotic interactions between the host and bacteria and
+encourages nitrogen-ﬁxing nods [123]. Further, Ensifer meliloti a diazotrophic bacteria was
+able to produce EPS such as succinoglycan which is required for development of root
+nodules. Mutants strains are that are unable to produce this EPS will develop nodules
+without any bacteria in it [59].
+
+3.6.3. Antimicrobial Compounds
+
+Microbes employ antagonistic tactics to preserve population stability, such as the
+release of secondary compounds that can injure or kill the target cells. These metabolites
+might not, however, be produced in sufﬁcient quantities to have deleterious consequences.
+The microorganisms that secrete these chemicals must also produce a lethal dosage that
+is substantial enough to be effective while reducing subsequent self-exposure to toxic
+levels that might be harmful. Antimicrobials are release only happens when a certain
+threshold of antimicrobial-producing cells is reached, which is made possible with the use
+of QS. Therefore, it is not surprising that many different species employ QS to control the
+development and functioning of antimicrobials [124,125].
+
+For instance, R. solanacearum produces ralsolamycin, a lipopeptide that can enhance
+chlamydospore formation and Mucoromycota, Ascomycota, and Basidiomycota fungus, in-
+cluding Fusarium fujikuroi produce the antimicrobial bikaverin [53]. Ralsolamycin, also known
+as ralstonin A, is made by a biosynthetic gene cluster called PKS-NRPS [hybrid non-ribosomal
+peptide synthetase/non-ribosomal peptide synthetase/(rmy)]. Spraker et al., (2018) found
+that ralsolamycin altered the metabolic proﬁle of F. fujikuroi, resulting in the production
+of not just bikaverin but also additional compounds, including the bioactive metabolite
+beauvericin. In this experiment, both metabolites show promising results in controlling
+R. solanacearum, suggesting that these metabolites may protect F. fujikuroi against bacterial
+invasion [126]. According to Khalid et al., (2018) however, ralsolamycin produced by
+R. solanacearum, can suppress imqK gene cluster in Aspergillus ﬂavus, and produce imizoquin
+which helps promote germination of fungal spores and in turn reduce R. solanacearum
+population [127]. Due to contradictory information reported, further studies need to be
+conducted to determine the function of the ralsolamycin produced by the R. solanacearum.
+Apart from the above, pyrrolnitrin is yet another metabolite synthesized by different bacte-
+ria species including Pseudomonas, Burkholderia, Cystobacter, Serratia and Enterobacter, with
+antibiotic activity against different fungi species and bacteria [128]. Pyrrolnitrin produced
+have an excellent antifungal activity against plant pathogenic fungi such as Phytophthora
+capsici which caused blight and fruit rot and Rhizoctonia solani which caused wilting and
+
+Int. J. Mol. Sci. 2022, 23, 8998
+
+13 of 25
+
+stunting in many commercial crops around the world [129]. Pyrrolnitrin interferes with
+glycerol kinase which will lead to glycerol build up in cells and hence cause leaky cell
+membrane [128]. Among fungi, Trichoderma is the most famous bioagent against plant
+pathogenic microbes. Trichoderma sp. synthesize different signaling compounds that also
+act as antimicrobial such as trichorzin, peptaibols and peptaivirins. These compounds have
+also exhibited antiviral activity against cucumber mosaic virus and tobacco mosaic virus [121].
+
+4. Chemical Signals in Plant-Microbe/Pathogen Interactions
+
+Signals produced by both the host (plant) and the colonizers are used to communicate
+between plants and soil microorganisms. Plant roots produce exudates/mucilage which
+secretes molecules such as amino acids, cutin monomers, ﬂavonoids, hormones, organic
+acids and sugars that play a huge role in microorganism diversity and microbial coloniza-
+tion in the rhizosphere. In plant-microbe communication, microbes create a variety of
+signalling molecules such as phytohormones (auxin, cytokinin, and gibberellins), which are
+involved in the direct control of plant growth and development. Microbes produce signals
+made up from carbohydrate and protein which are essential for them to survive. These
+are known as Microbe or Pathogen-Associated Molecular Patterns (MAMPs or PAMPs).
+Microbial components including chitosan, glycoproteins, peptidoglycan, chitin, LPS and
+ﬂagellin are examples of MAMPs/PAMPs detected by plants [64]. MAMPs trigger a local
+basal immune defence in the roots, which can then be translated into systemic defensive
+responses mediated by regulatory networks that include salicylic acid, jasmonic acid, and
+ethylene signalling. Further, plants can produce quorum sensing mimic chemicals, which
+can interfere with bacterial quorum sensing. Table 3 shows examples of chemicals pro-
+duced by plants which are components of QS mimicry and their effects. Homoserine
+lactone (HSLs) as described earlier is an important metabolite for Gram negative bacteria
+interactions. HSLs also play a signiﬁcant role in plant immunity as reported by Schuheg-
+gerr et al. (2006) [130]. In an experiment where tomato plants were inoculated with an
+HSL-producing bacteria, Serratia liquefaciens MG1, the plant showed signiﬁcant increase of
+systemic resistance towards Alternaria alternata.
+
+Table 3. Plant quorum sensing mimicry molecules and their effect on microbes.
+
+QS Mimicry Molecule
+
+Plants
+
+Affected
+Microbes
+
+Role
+
+References
+
+Rosmarinic acid
+
+Rosmarinus ofﬁcinalis, Salvia
+ofﬁcinalis, Thymus vulgaris,
+Melissa ofﬁcinalis,
+Symphytum ofﬁcinale,
+Aegiphila mollis, Ocimum
+basilicum
+
+P. aeruginosa
+
+Eugenol
+
+Anethum graveolens,
+Syzygium aromaticum
+
+Chromobacterium
+violaceum,
+P. aeruginosa
+
+Curcumin
+
+Curcuma longa
+
+P. aeruginosa
+
+Naringenin
+
+Citrus sp., Ficus carica,
+Solanum lycopersicum
+
+P. aeruginosa,
+C. violaceum
+
+•
+
+•
+
+•
+
+•
+•
+
+•
+
+Stimulates early QS-responsive
+gene expression, hence reduces
+pathogenicity
+
+[131,132]
+
+Prevents the development of
+virulence factors such as
+violacein, elastase, and
+pyocyanin, as well as the
+formation of bioﬁlms.
+
+Inhibits the expression of
+virulence genes
+
+Reduces the production of AHLs
+Inhibits the expression of
+virulence genes
+Inhibits production of pyocyanin
+and elastase
+
+[133]
+
+[134]
+
+[134,135]
+
+Int. J. Mol. Sci. 2022, 23, 8998
+
+14 of 25
+
+Plants use MAMPs or PAMPs to distinguish between beneﬁcial and harmful microor-
+ganisms. Different plasma membrane-localized Pattern Recognition Receptors (PRRs) that
+bind MAMPs and PAMPs and control plant immune responses have emerged in plants.
+RLKs (receptor-like kinases) are transmembrane PRRs with extracellular domains that are
+involved in detecting ligands and transmitting information from external stimuli. The RLK-
+mediated signal transmission of pathogen defence is inﬂuenced by elicitors, pathogens,
+and signal molecules produced during biotic responses. RLK responses are frequently
+inﬂuenced by particular ligands and pathogens [130].
+
+Plants respond to PAMPs by triggering a defence response known as PAMP-Triggered
+Immunity (PTI) or MAMP-Triggered Immunity (MTI), the ﬁrst line of defence that re-
+stricts pathogen colonization and prevents proliferation in most plant species, resulting in
+changes to plant cells such as callose deposition, stomatal closure, and ethylene induction.
+Pathogens, on the other hand, have discovered strategies to escape PTI signalling or avoid
+detection by the host through effectors such as the MiSSP7 protein, which is an important
+component of pathogenesis [106]. Plants have evolved resistance (R) genes that express
+the Nucleotide-Binding Leucine-Rich Repeat (NB-LRR) protein, allowing them to identify
+some of these effectors directly or indirectly. The recognition of a pathogen’s avirulence
+protein sets off a cascade of immune responses known as Effector-Triggered Immunity
+(ETI). During ETI, the defence signalling pathways are stimulated, including the salicylic
+acid (SA) and jasmonic acid (JA) pathways [136].
+
+After the plant recognizes microbes via MAMPs and PAMPs, the defence mechanism
+is extended across the entire plant via plant chemical signalling such as salicylic acid (SA),
+jasmonic acid (JA) and azelaic acid (AzA). Plants also use defence hormones to regulate
+the expression of speciﬁc sets of defence genes. Two important mechanisms involved
+in the regulation of these defence genes are the JA and SA pathways. SA is synthesized
+within the cytoplasm and the synthesis was enhanced by defence inducing compounds
+such as benzothiadiazole (BTH) [64]. Increased SA levels alter cytoplasmic redox, causing
+disulphide bonds to be cleaved in NPR1 (Non-Expressor PR1) oligomers, which controls
+their transport to the nucleus. Following the translocation of NPR1 monomers from cytosol
+into the nucleus, it works as a co-transcription factor with TGA transcription factor (TF)
+and activates genes involved in defence [64,137]. SA signalling pathway is important
+for plant defence mechanism by inducing resistance to infection against hemi-biotrophic
+and biotrophic pathogens while JA is primarily involved in modulating disease resistance
+against necrotrophic pathogens [138]. Both signalling molecules contribute differently
+to plant defence relying on the type of invasive pathogen [139]. Although cross-talk
+between these two distinct signalling pathways have shown synergistic response in certain
+environment, most cases have shown antagonistic response [139]. For instance, several
+Pseudomonas species and strain are able to suppress SA signalling pathway by producing
+secondary metabolites such as coronatine (COR) which enhance susceptibility of the host.
+COR produced by P. syringae can activate JA pathway in plants by mimicking jasmonyl-
+isoleucine (JA-Ile), a bioactive form of the plant hormone JA [64]. Suppression of SA
+signalling pathway in plants will increase the chance of hemi-biotrophic and biotrophic
+pathogens to successfully invade plants by inhibit immune response of the host [140].
+
+5. The Success of Microbial Chemicals in Improving Crop Yield and Growth
+
+Chemicals can alter the microbial community in the soil, change soil pH, pollute water
+from nutrient leaching and increase greenhouse gas emissions. Most of these chemicals
+are used either to give extra nutrients to the plants for better growth or to control pests
+or pathogens. Microorganisms produce a lot of secondary metabolites that can be used
+to help increase agricultural yield. Metabolites synthesized by microorganisms can be
+used in agriculture to inhibit disease or improve plant development. For example, a few
+PGPR species secrete phytohormones including auxin, gibberellic acids and cytokinins for
+communication and enhancement of plant growth and development [138].
+
+Int. J. Mol. Sci. 2022, 23, 8998
+
+15 of 25
+
+Biofertilizers are the best alternatives for chemical fertilizers which include living
+microbes. PGPR are commonly used in biofertilizers because they can encourage plant
+growth and development by secreting different secondary metabolites to help plant absorb
+nutrients more efﬁciently or to help plant defence mechanisms. In non-legume crops such
+as wheat, barley, oat, rice, sunﬂower, maize, line, beetroot, tobacco, tea, coffee, and coconuts,
+certain organisms, such as Azotobacter, are popular biofertilizers that play a signiﬁcant
+part in nitrogen ﬁxation. Furthermore, the Rhizobiaceae family, which includes Rhizobium,
+Mesorhizobium, and Bradyrhizobium, produce siderophores, indoleacetic acid (IAA), and
+1-aminocyclopropane-1-carboxylate (ACC) deaminase, which aids in the growth of legumes
+and delivers nitrogen to plants.
+
+Bioherbicides are also used to control weeds by applying it directly to the targeted
+weeds to kill or inhibit their growth. For example, Colletotrichum and Phytophtora are
+commonly used to suppress agricultural weeds. One of the most successful bioherbicides is
+the tobacco mild green mosaic virus which is used to control weed known as tropical soda
+apple. Recently the use of phytopathogen as bioherbicide is receiving attention but more
+research should be carried out as it has risk to the commercially important crop plants.
+P. syringae pv. tagetis has shown promising results which causes up to 100% mortality
+against a few weed species [141]. There are a few genera of fungus that are often used
+as mycoherbicides, including Phytophthora, Sclerotinia, Alternaria and the most famous
+genera being Colletotrichum [142,143]. A few Colletotrichum spp. including C. goleosporioides,
+C. higginsianum, C. orbiculare and C. truncatum produce mycotoxin such as colletochlorin-
+A,-E and -F, orcinol, tyrosol and dirhamnolipid which targets weed such as Aeschynomene
+virginica, Sonchus arvensis and Xanthium spinosum [8,141,143–146].
+
+Biofungicides are living organism-based pesticides that are used to control plant
+diseases caused by either fungi or bacteria that are sprayed on either phylloplane or
+rhizosphere. Trichoderma is one of the most famous genera that is currently used as a
+biocontrol agent. T. harzianum is the most well-known species from this genera that is
+used to combat diseases caused by soil-borne pathogens including Rhizoctionia, Phythium
+and Fusarium [147]. Trichoderma sp. reduces the number of pathogens via several ways,
+including competition for food where Trichoderma spp. grow faster and rapidly compared to
+the pathogen, excretion of chemical compounds that inhibit the growth of pathogens and it
+can grow in host plants as endophytes and support the growth of the host [148]. Other than
+that, fungi such as C. albicans, Penicillium spp. and Aspergillus spp. can produce chemical
+compounds known as farnesol, which may exhibit a potential as a new biofungicide. This
+compound can inhibit the growth of R. solani that causes detrimental plant diseases around
+the world by inducing apoptosis and disintegrating the cellular ultrastructure of the fungal
+hyphae [89]. Table 4 shows the lists of commercial biocontrol products which can be found
+in the market.
+
+Table 4. Commercial biocontrol products.
+
+Type
+
+Marketing
+Name
+
+AQ10 Bio
+Fungicide
+
+Active Ingredients
+
+Spores of a naturally
+occurring Ampelomyces
+quisqualis strain AQ10
+
+e
+d
+i
+c
+i
+g
+n
+u
+f
+o
+i
+B
+
+Trichodex
+
+Trichoderma harzi anum T39
+
+Target Pathogen, Diseases or
+Weeds
+
+Mode of Action
+
+References
+
+•
+
+•
+•
+•
+•
+•
+
+Powdery mildew
+
+Botrytis cinerea
+Rhizoctonia
+Sclerotinia
+Colletotrichum
+Cladosporium fulvum
+
+•
+
+•
+•
+•
+
+•
+
+•
+
+Spores germinate into the
+powdery mildew mycelia and
+parasitize it
+
+Antibiosis
+Hyperparasitism
+Competition for nutrients and
+space
+Induction of resistance in the
+host plant
+Reduces pathogen spore
+dissemination capabilities
+
+[149]
+
+[150]
+
+Int. J. Mol. Sci. 2022, 23, 8998
+
+16 of 25
+
+Table 4. Cont.
+
+Type
+
+Marketing
+Name
+
+Active Ingredients
+
+Target Pathogen, Diseases or
+Weeds
+
+Mode of Action
+
+References
+
+Rootshield® WP
+
+Trichoderma harzianum strain
+T-22
+
+Binab T
+
+Trichoderma harzianum and
+Trichoderma polysporum
+
+Primastop
+
+Gliocladium catenulatum Strain J
+1446
+
+Contans WG
+
+Coniothyrium minitans, strain
+CON/M/91-08
+
+Biosave®
+
+Pseudomonas syringae Strain
+ESC-11
+
+Biochon
+
+Chondrostereum purpureum
+
+Dr. Biosedge
+
+Puccinia canaliculata
+
+e
+d
+i
+c
+i
+b
+r
+e
+h
+o
+i
+B
+
+Solvinix
+
+Tobacco mild green mosaic
+tobamovirus (TMGMV)
+
+Sarritor®
+
+Sclerotinia minor IMI 344141
+
+Organo-sol
+
+•
+
+•
+
+•
+
+•
+
+•
+
+Lactobacillus rhamnosus
+strain LPT–21
+Lactobacillus casei strain
+LPT–111
+Lactococcus lactis ssp.
+cremoris strain M11/CSL
+Lactococcus lactis ssp.
+lactis strain LL64/CSL
+Lactococcus lactis ssp.
+lactis strain LL102/CSL.
+
+•
+•
+•
+•
+•
+
+•
+•
+•
+•
+•
+•
+
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+•
+
+•
+•
+•
+•
+•
+•
+
+•
+•
+
+•
+
+•
+
+•
+
+Pythium
+Fusarium
+Rhizoctonia
+Cylindrocladium
+Thielaviopsis species
+
+Botrytis
+Fusarium
+Pythium
+Phytophthora
+Rhizoctonia
+Verticillium
+
+Rhizoctonia
+Pythium
+Phytophthora
+Fusarium
+Didymeﬂa
+Botrytis
+Verticillium
+Alternaria
+Cladosporium
+Helminthosporium
+Penicillium
+Plicaria
+
+Sclerotinia sclerotiorum
+
+Gray mold
+Mucor on pome fruits
+Penicillium expansum
+Rhizopus stolonifer
+Fusanum sambucinum
+Helminthosporium solam
+
+Prunus serotina
+Populus euramericana
+
+Yellow nutsedge
+
+Solanum viarum
+
+Dandelions
+
+•
+
+Broadleaves weed
+
+•
+•
+
+•
+•
+
+•
+
+•
+
+•
+
+•
+•
+
+•
+
+•
+
+•
+•
+
+•
+
+•
+
+•
+
+Mycoparasitism
+Competitive exclusion
+
+[151]
+
+Mycoparasitism
+Competitive exclusion
+
+[151]
+
+Produces hydrolytic
+enzymes including
+β-1,3-glucanase and
+chitinase
+Produces chemicals that
+inhibit the growth of fungi
+such as epipolythiodiox-
+opiperazines,
+bisorbicillinoids, verticillin
+and peptaibiotics
+
+[152]
+
+Produces macrosphelide A
+to inhibit mycelium growth
+
+[153]
+
+Competitive inhibition
+Interruption of the
+metabolism of pathogenic
+organisms
+
+Production of
+polygalacturonases and
+laccases
+lignin- and manganese
+peroxidase activities
+
+Suppresses ﬂowering
+Restricts new tuber
+formation
+
+[154]
+
+[155]
+
+[156,157]
+
+Elicits the hypersensitive
+response of the weed
+
+[158]
+
+Inhibition of enzyme
+essential for amino acid
+production.
+
+[159,160]
+
+Production of lactic acid
+and citric acid that allows
+for penetration of plant cells
+and cause tissue necrosis
+
+[160]
+
+Int. J. Mol. Sci. 2022, 23, 8998
+
+17 of 25
+
+6. Genetically Modiﬁed Microbial Products in Agriculture
+
+Chemical signaling between microbes and plants have shown to play a key role in
+the environment by carrying and delivering messages to ensure efﬁcient communication
+between cells. One of the challenges in designing a new bio-agent is identifying beneﬁcial
+microbes that have a higher potential of colonizing the environment and producing good
+results. Interactions between microbes and plants are very complex and require thorough
+knowledge to produce new products.
+
+Natural products are a substance or chemical compound produced by microorganisms
+that can be found in the environment. On the other hand, natural product synthesis is an
+attempt to produce a complicated target molecules in order to produce a product that is
+analytically similar to the naturally existing compound. For product that contain living
+microbes, a speciﬁc strain that has proven beneﬁcial and do not have any environmental
+or health risk will be identiﬁed for use. For example, the famous Trichoderma sp. are
+commonly produced via process known as solid state fermentation (SSF) [161,162]. SSF is a
+typical method for manufacturing metabolites including organic acids, biosurfactants and
+enzymes since it reduces agricultural waste and is both economical and environmentally
+friendly [161]. Every product will have a speciﬁc microbe strain that serves a speciﬁc
+purpose. For example, T. harzianum N47 is used to enhance root growth of Pisum sativum,
+T. Harzianum M10 is used to improve germination of tomato seeds and production of
+harzianic acid and T. Harzianum SQR-T037 will be used to improve root growth in tomato
+and manufacture harzianolide [163–165]. Additionally, P. ﬂuorescens strains CHA0 and F113
+are used to manufacture indole acetic acid and P. putida strains WCS358 are used to produce
+pyoluteorin [166]. All these strains have undergone genomic modiﬁcation to offer more
+effective strains and produce higher yield [166]. Modern technologies have allowed to
+create genetically modiﬁed organisms (GMO) easily in a shorter time. For instance, genome
+editing by using CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) has
+recently been considered as a method of generating new biocontrol in a relatively easy to
+use and accurate manner [167].
+
+Moreover, genetic engineering has been used widely in agriculture industries to
+improve the quality and productivity of the crop. For instance, transgenic plants or also
+known as genetically modiﬁed plants used one or more genes from microbes have been
+introduced using recombinant DNA technology [168]. The gene used will provide that
+plant with a speciﬁc characteristic or quality. B. thuringiensis (Bt), for example, is the most
+signiﬁcant insecticidal bacterium for controlling caterpillar pests, ﬂy and mosquito larvae,
+and beetles [169]. Bt creates crystals made up of insect-toxic Cry and Cyt proteins that are
+water soluble and belong to the endotoxin class, which binds to and damages the cellular
+lining of insect digestive systems [170]. Bt also synthesizes vegetative insecticidal proteins
+(Vip) which are highly toxic to a few Coleoptera and Lepidotera species. Bt has been used in
+different types of commercial crops including corn, cotton, potato and soybean [169].
+
+On top of that, Trichoderma harzianum endochitinase gene, chit42 was used in transgenic
+tobacco and potato crop to prevent a few bacterial infections including Botrytis cinerea,
+Alternaria alternata and Rhizoctonia solani. In addition, the nutritional value of staple crops
+has been improved through genetic engineering in order to lower the mortality and mor-
+bidity rates associated with micronutrient malnutrition as well as to increase agricultural
+production, productivity, and wellbeing for the underprivileged populations in devel-
+oping nations. For example, recently a biofortiﬁed rice line, Golden Rice 2E (GR2E) has
+been approved and declared safe for consumption by US Food and Drug Administration
+(FDA) [171]. This golden rice used crt1 genes from Pantoea ananatis which helps to catalyze
+conversion of 15-cis-phytoene to all-trans-lycopene, hence boost provitamin A content [171].
+Besides that, GR2E also has pmi gene from Escherichia coli strain K-12 which permits GR2E to
+convert mannose-6-phosphate into fructose-6-phosphate which can be utilized as a carbon
+source [171,172].
+
+Int. J. Mol. Sci. 2022, 23, 8998
+
+18 of 25
+
+Next, microorganisms can develop new genetic features through mutations, which
+occur when a gene is altered accidentally (‘spontaneous mutation’) or intentionally (‘in-
+duced mutation’). Mutation also helps to produce more microbial products with lower
+costs by using the same amount of raw material. For example, B. subtilis RB14 was able
+to synthesize iturin A three times more than the wild type when the native promoter was
+replaced with repU promoter [173] and in another experiment, mutant B. subtilis THY-7
+synthesized surfactin, 16 times more than the wild type by replacing PsrfA promoter in
+native strain with PgroE [174,175]. As mentioned before, the ability to form bioﬁlm is one
+of the important traits for bacteria colonization. This ability is controlled by QS system in
+bacteria which needs speciﬁc genes. Deletion or mutation of these genes will effect bioﬁlm
+formation, hence affect the virulence of the bacteria [176]. This knowledge can be applied
+to control virulence of phytopathogen. For example, mutation of gene edpX1 which is
+responsible for bioﬁlm formation and EPS production in X. oryzae will signiﬁcantly reduce
+EPS formation while deletion of dgcA gene will signiﬁcantly reduce bioﬁlm formation [177].
+Moreover, knockout mutants of the gene ﬂiM, pilX and epsF in Azocarpus sp. affects the
+organism’s pathogenicity to rice root by reducing the efﬁciency of the bacterial motility and
+EPS production [84].
+
+7. Conclusions
+
+Microorganisms communicate in different ways to cope with harsh environments.
+AHL is one of the most well studied QS molecule in Gram-negative bacteria while oligopep-
+tide is used mainly by Gram-positive bacteria. These chemical molecules are secreted by
+microorganisms either to protect themselves by building bioﬁlm/EPS or to reduce the
+population of other species. Microbes from different parts of plants have their own unique
+ways of communicating and adapting to the different environmental stresses. Microbial
+chemical interactions- whether mediated by signalling, antagonism or competition for
+resources, is likely involved in the growth and development of plants. Although many of
+these advantageous interactions are well recognised, relatively little is understood about
+the signalling molecules that initiate these interactions or the signalling pathways that
+plants and soil creatures have developed to detect and react to these cues. Hence, under-
+standing the role of each chemical produced by these microbes can help to develop new
+bio-agents for a better alternative to current synthetic pesticides and fertilizers. Although
+there are currently a lot of biofertilizers and biopesticides in the market, there are still
+a lot of pathogens that can only be eradicated by chemicals. Hence, continuous studies
+are required to help identify new candidates for bioagents and to help improve current
+bioagent quality. In addition, new technologies that propel this search for new bioagents is
+also welcomed to catapult this area of study further.
+
+Author Contributions: Conceptualization, K.N.; writing, N.W.A.H. and K.N.; ﬁguration, text and
+formatting, N.W.A.H.; editing, K.N. All authors have read and agreed to the published version of
+the manuscript.
+
+Funding: This paper is funded by Ministry of Education Malaysia [FRGS/1/2019/STG03/UKM/01/2]
+and Universiti Kebangsaan Malaysian [GP 2021-K006631] through grants awarded to Kalaivani Nadarajah.
+
+Conﬂicts of Interest: The authors declare no conﬂict of interest. The funders had no role in the design
+of the study; in the collection, analyses, or interpretation of data; in the writing of the manuscript, or
+in the decision to publish the results.
+
+References
+
+1. Hartmann, A.; Rothballer, M. Rhizotrophs: Plant Growth Promotion to Bioremediation; Springer: Berlin/Heidelberg, Germany, 2017;
+
+pp. 205–217.
+Fatima, K. Insights into Chemical Interaction between Plants and Microbes and its Potential Use in Soil Remediation. Biosci. Rev.
+2019, 1, 39–45. [CrossRef]
+Guo, M.; Gamby, S.; Zheng, Y.; Sintim, H.O. Small Molecule Inhibitors of AI-2 Signaling in Bacteria: State-of-the-Art and Future
+Perspectives for Anti-Quorum Sensing Agents. Int. J. Mol. Sci. 2013, 14, 17694. [CrossRef] [PubMed]
+Babalola, O.O. Beneﬁcial bacteria of agricultural importance. Biotechnol. Lett. 2010, 32, 1559–1570. [CrossRef] [PubMed]
+
+2.
+
+3.
+
+4.
+
+Int. J. Mol. Sci. 2022, 23, 8998
+
+19 of 25
+
+5.
+
+Tao, C.; Li, R.; Xiong, W.; Shen, Z.; Liu, S.; Wang, B.; Ruan, Y.; Geisen, S.; Shen, Q.; Kowalchuk, G.A. Bio-organic fertilizers
+stimulate indigenous soil Pseudomonas populations to enhance plant disease suppression. Microbiome 2020, 8, 137. [CrossRef]
+
+6. Harding, D.P.; Raizada, M.N. Controlling weeds with fungi, bacteria and viruses: A review. Front. Plant Sci. 2015, 6, 659.
+
+[CrossRef] [PubMed]
+
+7. Wubs, E.R.J.; van der Putten, W.H.; Bosch, M.; Bezemer, T.M. Soil inoculation steers restoration of terrestrial ecosystems. Nat.
+
+8.
+
+Plants 2016, 2, 16107. [CrossRef]
+Boyette, C.D.; Bowling, A.J.; Vaughn, K.C.; Hoagland, R.E.; Stetina, K.C. Induction of infection in Sesbania exaltata by Colletotrichum
+gloeosporioides f. sp. aeschynomene formulated in an invert emulsion. World J. Microbiol. Biotechnol. 2010, 26, 951–956. [CrossRef]
+Dessaux, Y.; Grandclément, C.; Faure, D. Engineering the Rhizosphere. Trends Plant Sci. 2016, 21, 266–278. [CrossRef]
+
+9.
+10. Gordon-Kamm, B.; Sardesai, N.; Arling, M.; Lowe, K.; Hoerster, G.; Betts, S.; Jones, T. Using Morphogenic Genes to Improve
+
+Recovery and Regeneration of Transgenic Plants. Plants 2019, 8, 38. [CrossRef]
+
+11. Calatrava-Morales, N.; McIntosh, M.; Soto, M.J. Regulation mediated by N-acyl homoserine lactone quorum sensing signals in
+
+the rhizobium-legume symbiosis. Genes 2018, 9, 263. [CrossRef]
+
+12. Rosier, A.; Bishnoi, U.; Lakshmanan, V.; Sherrier, D.J.; Bais, H.P. A perspective on inter-kingdom signaling in plant–beneﬁcial
+
+microbe interactions. Plant Mol. Biol. 2016, 90, 537–548. [CrossRef] [PubMed]
+
+13. Kim, S.R.; Yeon, K.M. Quorum Sensing as Language of Chemical Signals, 1st ed.; Elsevier B.V.: Amsterdam, The Netherlands, 2018;
+
+14.
+15.
+
+Volume 81.
+Schenk, S.T.; Schikora, A. AHL-Priming functions via oxylipin and salicylic acid. Front. Plant Sci. 2015, 5, 784. [CrossRef]
+Saeki, E.K.; Kobayashi, R.K.T.; Nakazato, G. Quorum sensing system: Target to control the spread of bacterial infections. Microb.
+Pathog. 2020, 142, 104068. [CrossRef]
+
+16. Achari, G.A.; Ramesh, R. Recent Advances in Quorum Quenching of Plant Pathogenic Bacteria; Elsevier Inc.: Amsterdam,
+
+The Netherlands, 2019.
+
+17. Ryan, R.P.; An, S.; Allan, J.H.; McCarthy, Y.; Dow, J.M. The DSF Family of Cell–Cell Signals: An Expanding Class of Bacterial
+
+Virulence Regulators. PLoS Pathog. 2015, 11, e1004986. [CrossRef] [PubMed]
+
+18. Ya’Ar Bar, S.; Dor, S.; Erov, M.; Afriat-Jurnou, L. Identiﬁcation and Characterization of a New Quorum-Quenching N-acyl
+Homoserine Lactonase in the Plant Pathogen Erwinia amylovora. J. Agric. Food Chem. 2021, 69, 5652–5662. [CrossRef] [PubMed]
+19. Halloran, K.T.; Wang, Y.; Arora, K.; Chakravarthy, S.; Irving, T.C.; Bilsel, O.; Brooks, C.L.; Matthews, C.R. Frustration and folding
+
+of a TIM barrel protein. Proc. Natl. Acad. Sci. USA 2019, 116, 16378–16383. [CrossRef]
+
+20. Padder, S.A.; Prasad, R.; Shah, A.H. Quorum sensing: A less known mode of communication among fungi. Microbiol. Res. 2018,
+
+210, 51–58. [CrossRef]
+
+21. Yin, X.-T.; Xu, L.-N.; Xu, L.; Fan, S.-S.; Liu, Z.-Y.; Zhang, X.-Y. Evaluation of the efﬁcacy of endophytic Bacillus amyloliquefaciens
+
+against Botryosphaeria dothidea and other phytopathogenic microorganisms. Afr. J. Microbiol. Res. 2011, 5, 340–345.
+
+22. Landini, P.; Antoniani, D.; Burgess, J.G.; Nijland, R. Molecular mechanisms of compounds affecting bacterial bioﬁlm formation
+
+and dispersal. Appl. Microbiol. Biotechnol. 2010, 86, 813–823. [CrossRef]
+
+23. Barriuso, J.; Hogan, D.A.; Keshavarz, T.; Martínez, M.J. Role of quorum sensing and chemical communication in fungal
+
+biotechnology and pathogenesis. FEMS Microbiol. Rev. 2018, 42, 627–638. [CrossRef]
+
+24. Cottier, F.; Mühlschlegel, F.A. Communication in Fungi. Int. J. Microbiol. 2012, 2012, 1–9. [CrossRef] [PubMed]
+25. Gorai, P.S.; Barman, S.; Gond, S.K.; Mandal, N.C. Chapter 28—Trichoderma; Amaresan, N., Senthil Kumar, M., Annapurna, K.,
+
+Kumar, K., Sankaranarayanan, A., Eds.; Academic Press: Cambridge, MA, USA, 2020; pp. 571–591.
+
+26. Macías-Rodríguez, L.; Contreras-Cornejo, H.A.; Adame-Garnica, S.G.; del-Val, E.; Larsen, J. The interactions of Trichoderma at
+
+27.
+
+multiple trophic levels: Inter-kingdom communication. Microbiol. Res. 2020, 240, 126552. [CrossRef] [PubMed]
+Speckbacher, V.; Zeilinger, S. Secondary metabolites of mycoparasitic fungi. In Secondary Metabolites—Sources and Applications;
+InTech: London, UK, 2018; pp. 37–55.
+
+28. Lutz, M.P.; Feichtinger, G.; Défago, G.; Duffy, B. Mycotoxigenic Fusarium and Deoxynivalenol Production Repress Chitinase
+
+Gene Expression in the Biocontrol Agent Trichoderma atroviride P1. Appl. Environ. Microbiol. 2003, 69, 3077–3084. [CrossRef]
+
+29. Montibus, M.; Ducos, C.; Bonnin-Verdal, M.-N.; Bormann, J.; Ponts, N.; Richard-Forget, F.; Barreau, C. The bZIP Transcription
+Factor Fgap1 Mediates Oxidative Stress Response and Trichothecene Biosynthesis but Not Virulence in Fusarium graminearum.
+PLoS ONE 2013, 8, e83377. [CrossRef]
+
+30. Ponts, N.; Pinson-Gadais, L.; Verdal-Bonnin, M.-N.; Barreau, C.; Richard-Forget, F. Accumulation of deoxynivalenol and its
+15-acetylated form is signiﬁcantly modulated by oxidative stress in liquid cultures of Fusarium graminearum. FEMS Microbiol.
+Lett. 2006, 258, 102–107. [CrossRef] [PubMed]
+
+31. Harborne, J.B. Higher plant–lower plant interactions: Phytoalexins and phytotoxins. In Introduction to Ecological Biochemistry;
+
+Elsevier: Amsterdam, The Netherlands, 1993; pp. 264–297.
+
+32. Van Rij, E.T.; Girard, G.; Lugtenberg, B.J.J.; Bloemberg, G.V. Inﬂuence of fusaric acid on phenazine-1-carboxamide synthesis and
+
+gene expression of Pseudomonas chlororaphis strain PCL1391. Microbiology 2005, 151, 2805–2814. [CrossRef] [PubMed]
+
+33. Venkatesh, N.; Keller, N.P. Mycotoxins in Conversation with Bacteria and Fungi. Front. Microbiol. 2019, 10, 403. [CrossRef]
+34. Tian, Y.; Tan, Y.; Liu, N.; Yan, Z.; Liao, Y.; Chen, J.; de Saeger, S.; Yang, H.; Zhang, Q.; Wu, A. Detoxiﬁcation of Deoxynivalenol
+via Glycosylation Represents Novel Insights on Antagonistic Activities of Trichoderma when Confronted with Fusarium
+graminearum. Toxins 2016, 8, 335. [CrossRef]
+
+Int. J. Mol. Sci. 2022, 23, 8998
+
+20 of 25
+
+35. López-Díaz, C.; Rahjoo, V.; Sulyok, M.; Ghionna, V.; Martín-Vicente, A.; Capilla, J.; di Pietro, A.; López-Berges, M.S. Fusaric acid
+contributes to virulence of Fusarium oxysporum on plant and mammalian hosts. Mol. Plant Pathol. 2018, 19, 440–453. [CrossRef]
+36. Ruiz, J.A.; Bernar, E.M.; Jung, K. Production of Siderophores Increases Resistance to Fusaric Acid in Pseudomonas protegens Pf-5.
+
+PLoS ONE 2015, 10, e0117040. [CrossRef]
+
+37. Wongsuk, T.; Pumeesat, P.; Luplertlop, N. Fungal quorum sensing molecules: Role in fungal morphogenesis and pathogenicity.
+
+J. Basic Microbiol. 2016, 56, 440–447. [CrossRef] [PubMed]
+
+38. Guo, H.; Ma, A.; Zhao, G.; Yun, J.; Liu, X.; Zhang, H.; Zhuang, G. Effect of Farnesol on Penicillium Decumbens’s Morphology and
+
+Cellulase Production. Bioresources 2011, 6, 3252–3259.
+
+39. Lei, X.; Deng, B.; Ruan, C.; Deng, L.; Zeng, K. Phenylethanol as a quorum sensing molecule to promote bioﬁlm formation of the
+antagonistic yeast Debaryomyces nepalensis for the control of black spot rot on jujube. Postharvest Biol. Technol. 2022, 185, 111788.
+[CrossRef]
+Jurick, W.M.; Peng, H.; Beard, H.S.; Garrett, W.M.; Lichtner, F.J.; Luciano-Rosario, D.; Macarisin, O.; Liu, Y.; Peter, K.A.; Gaskins,
+V.L.; et al. Blistering1 modulates penicillium expansum virulence via vesicle-mediated protein secretion. Mol. Cell. Proteomics
+2020, 19, 344–361. [CrossRef] [PubMed]
+
+40.
+
+41. Bradshaw, M.J.; Bartholomew, H.P.; Fonseca, J.M.; Gaskins, V.L.; Prusky, D.; Jurick, W.M. Delivering the goods: Fungal secretion
+
+modulates virulence during host–pathogen interactions. Fungal Biol. Rev. 2021, 36, 76–86. [CrossRef]
+
+42. Brodhun, F.; Feussner, I. Oxylipins in fungi. FEBS J. 2011, 278, 1047–1063. [CrossRef]
+43. Yashiroda, Y.; Yoshida, M. Intraspecies cell–cell communication in yeast. FEMS Yeast Res. 2019, 19, 71. [CrossRef]
+44.
+
+Schmidt, R.; Etalo, D.W.; de Jager, V.; Gerards, S.; Zweers, H.; de Boer, W.; Garbeva, P. Microbial Small Talk: Volatiles in
+Fungal-Bacterial Interactions. Front. Microbiol. 2016, 6, 1495. [CrossRef]
+
+45. Egbe, N.E.; Dornelles, T.O.; Paget, C.M.; Castelli, L.M.; Ashe, M.P. Farnesol inhibits translation to limit growth and ﬁlamentation
+
+in C. albicans and S. cerevisiae. Microb. Cell 2017, 4, 294. [CrossRef]
+
+46. Liu, P.; Luo, L.; Guo, J.; Liu, H.; Wang, B.; Deng, B.; Long, C.A.; Cheng, Y. Farnesol induces apoptosis and oxidative stress in the
+
+fungal pathogen Penicillium expansum. Mycologia 2010, 102, 311–318. [CrossRef]
+
+47. Kobayashi, D.Y.; Crouch, J.A. Bacterial/Fungal interactions: From pathogenes to mutualistic endosymbionts. Annu. Rev.
+
+Phytopathol. 2009, 47, 63–82. [CrossRef] [PubMed]
+
+48. Hildebrandt, U.; Ouziad, F.; Marner, F.J.; Bothe, H. The bacterium Paenibacillus validus stimulates growth of the arbuscular
+mycorrhizal fungus Glomus intraradices up to the formation of fertile spores. FEMS Microbiol. Lett. 2006, 254, 258–267. [CrossRef]
+49. Lackner, G.; Moebius, N.; Partida-Martinez, L.P.; Boland, S.; Hertweck, C. Evolution of an endofungal Lifestyle: Deductions from
+
+50.
+
+the Burkholderia rhizoxinica Genome. BMC Genomics 2011, 12, 210. [CrossRef] [PubMed]
+Jones, S.E.; Ho, L.; Rees, C.A.; Hill, J.E.; Nodwell, J.R.; Elliot, M.A. Streptomyces exploration is triggered by fungal interactions
+and volatile signals. Elife 2017, 6, e21738. [CrossRef] [PubMed]
+Scherlach, K.; Hertweck, C. Mediators of mutualistic microbe–microbe interactions. Nat. Prod. Rep. 2018, 35, 303–308. [CrossRef]
+51.
+52. Nadarajah, K.; Abdul Rahman, N.S.N. Plant–microbe interaction: Aboveground to belowground, from the good to the bad. Int. J.
+
+Mol. Sci. 2021, 22, 10388. [CrossRef]
+
+53. Nadarajah, K.; Kumar, I.S. Molecular microbial biodiversity assessment in the mycorrhizosphere. In Mycorrhizosphere and
+
+Pedogenesis; Springer: Singapore, 2019; pp. 401–420.
+
+54. Earl, A.M.; Losick, R.; Kolter, R. Ecology and genomics of Bacillus subtilis. Trends Microbiol. 2008, 16, 269–275. [CrossRef]
+55. Wang, Q.; Liu, J.; Zhu, H. Genetic and Molecular Mechanisms Underlying Symbiotic Speciﬁcity in Legume-Rhizobium Interactions.
+
+Front. Plant Sci. 2018, 9, 313. [CrossRef]
+
+56. Rasmann, S.; Turlings, T.C.J. Root signals that mediate mutualistic interactions in the rhizosphere. Curr. Opin. Plant Biol. 2016,
+
+32, 62–68. [CrossRef]
+Santi, C.; Bogusz, D.; Franche, C. Biological nitrogen ﬁxation in non-legume plants. Ann. Bot. 2013, 111, 743–767. [CrossRef]
+57.
+58. Nadarajah, K.K. Rhizosphere interactions: Life below ground. In Plant-Microbe Interaction: An Approach to Sustainable Agriculture;
+
+Springer: Singapore, 2016; pp. 3–23.
+
+59. González, J.E.; Marketon, M.M. Quorum Sensing in Nitrogen-Fixing Rhizobia. Microbiol. Mol. Biol. Rev. 2003, 67, 574–592.
+
+[CrossRef] [PubMed]
+
+60. Oldroyd, G.E.D.; Murray, J.D.; Poole, P.S.; Downie, J.A. The Rules of Engagement in the Legume-Rhizobial Symbiosis. Annu. Rev.
+
+Genet. 2011, 45, 119–144. [CrossRef] [PubMed]
+
+61. Goyal, R.K.; Schmidt, M.A.; Hynes, M.F. Molecular Biology in the Improvement of Biological Nitrogen Fixation by Rhizobia and
+
+Extending the Scope to Cereals. Microorganisms 2021, 9, 125. [CrossRef] [PubMed]
+
+62. Gühl, K.; Holmer, R.; Xiao, T.T.; Shen, D.; Wardhani, T.A.K.; Geurts, R.; van Zeijl, A.; Kohlen, W. The Effect of Exogenous Nitrate
+on LCO Signalling, Cytokinin Accumulation, and Nodule Initiation in Medicago truncatula. Genes 2021, 12, 988. [CrossRef]
+63. Helman, Y.; Chernin, L. Silencing the mob: Disrupting quorum sensing as a means to ﬁght plant disease. Mol. Plant Pathol. 2015,
+
+16, 316–329. [CrossRef]
+
+64. Bukhat, S.; Imran, A.; Javaid, S.; Shahid, M.; Majeed, A.; Naqqash, T. Communication of plants with microbial world: Exploring
+
+the regulatory networks for PGPR mediated defense signaling. Microbiol. Res. 2020, 238, 126486. [CrossRef]
+
+65. Tsuge, K.; Inoue, S.; Ano, T.; Itaya, M.; Shoda, M. Horizontal Transfer of Iturin a Operon, itu, to Bacillus subtilis 168 and Conversion
+
+into an Iturin A Producer. Antimicrob. Agents Chemother. 2005, 49, 4641–4648. [CrossRef]
+
+Int. J. Mol. Sci. 2022, 23, 8998
+
+21 of 25
+
+66. Hashem, A.; Tabassum, B.; Fathi Abd_Allah, E. Bacillus subtilis: A plant-growth promoting rhizobacterium that also impacts
+
+biotic stress. Saudi J. Biol. Sci. 2019, 26, 1291–1297. [CrossRef]
+
+67. Koumoutsi, A.; Chen, X.-H.; Vater, J.; Borriss, R. DegU and YczE Positively Regulate the Synthesis of Bacillomycin D by Bacillus
+
+amyloliquefaciens Strain FZB42. Appl. Environ. Microbiol. 2007, 73, 6953–6964. [CrossRef]
+
+68. Gong, A.-D.; Li, H.-P.; Yuan, Q.-S.; Song, X.-S.; Yao, W.; He, W.-J.; Zhang, J.-B.; Liao, Y.-C. Antagonistic Mechanism of Iturin A and
+Plipastatin A from Bacillus amyloliquefaciens S76-3 from Wheat Spikes against Fusarium graminearum. PLoS ONE 2015, 10, e0116871.
+[CrossRef]
+
+69. Romero, D.; Traxler, M.F.; López, D.; Kolter, R. Antibiotics as Signal Molecules. Chem. Rev. 2011, 111, 5492. [CrossRef] [PubMed]
+70. López, D.; Vlamakis, H.; Losick, R.; Kolter, R. Paracrine signaling in a bacterium. Genes Dev. 2009, 23, 1631–1638. [CrossRef]
+
+[PubMed]
+
+71. López, D.; Fischbach, M.A.; Chu, F.; Losick, R.; Kolter, R. Structurally diverse natural products that cause potassium leakage
+
+trigger multicellularity in Bacillus subtilis. Proc. Natl. Acad. Sci. USA 2009, 106, 280–285. [CrossRef] [PubMed]
+
+72. Rahman, F.B.; Sarkar, B.; Moni, R.; Rahman, M.S. Molecular Genetics of Surfactin and Its Effects on Different Sub-populations of
+
+Bacillus subtilis. Biotechnol. Rep. 2021, 32, e00686. [CrossRef]
+
+73. Zhi, Y.; Wu, Q.; Xu, Y. Genome and transcriptome analysis of surfactin biosynthesis in Bacillus amyloliquefaciens MT45. Sci. Rep.
+
+2017, 7, 40976. [CrossRef]
+
+75.
+
+74. Korenblum, E.; de Araujo, L.V.; Guimarães, C.R.; de Souza, L.M.; Sassaki, G.; Abreu, F.; Nitschke, M.; Lins, U.; Freire, D.M.G.;
+Barreto-Bergter, E.; et al. Puriﬁcation and characterization of a surfactin-like molecule produced by Bacillus sp. H2O-1 and its
+antagonistic effect against sulfate reducing bacteria. BMC Microbiol. 2012, 12, 252. [CrossRef]
+Farzand, A.; Moosa, A.; Zubair, M.; Khan, A.R.; Massawe, V.C.; Tahir, H.A.S.; Sheikh, T.M.M.; Ayaz, M.; Gao, X. Suppression
+of Sclerotinia sclerotiorum by the Induction of Systemic Resistance and Regulation of Antioxidant Pathways in Tomato Using
+Fengycin Produced by Bacillus amyloliquefaciens FZB42. Biomolecules 2019, 9, 613. [CrossRef]
+Istivan, T.S.; Coloe, P.J. Phospholipase A in Gram-negative bacteria and its role in pathogenesis. Microbiology 2006, 152, 1263–1274.
+[CrossRef]
+
+76.
+
+78.
+
+77. Kulimushi, P.Z.; Arias, A.A.; Franzil, L.; Steels, S.; Ongena, M. Stimulation of fengycin-type antifungal lipopeptides in Bacillus
+amyloliquefaciens in the presence of the maize fungal pathogen Rhizomucor variabilis. Front. Microbiol. 2017, 8, 850. [CrossRef]
+Sharma, G.; Dang, S.; Gupta, S.; Gabrani, R. Antibacterial Activity, Cytotoxicity, and the Mechanism of Action of Bacteriocin from
+Bacillus subtilis GAS101. Med. Princ. Pract. 2018, 27, 186–192. [CrossRef]
+Fernandez, M.; Godino, A.; Príncipe, A.; López Ramírez, V.; Quesada, J.M.; Rigo, V.; Espinosa-Urgel, M.; Morales, G.M.;
+Fischer, S. Characterization of the bacteriocins and the PrtR regulator in a plant-associated Pseudomonas strain. J. Biotechnol. 2020,
+307, 182–192. [CrossRef] [PubMed]
+
+79.
+
+80. Khalid, S.; Keller, N.P. Chemical signals driving bacterial–fungal interactions. Environ. Microbiol. 2021, 23, 1334–1347. [CrossRef]
+
+[PubMed]
+
+81. Giorgio, A.; de Stradis, A.; Lo Cantore, P.; Iacobellis, N.S. Biocide effects of volatile organic compounds produced by potential
+
+82.
+
+biocontrol rhizobacteria on Sclerotinia sclerotiorum. Front. Microbiol. 2015, 6, 1056. [CrossRef] [PubMed]
+Janakiev, T.; Dimki´c, I.; Unkovi´c, N.; Ljaljevi´c Grbi´c, M.; Opsenica, D.; Gaši´c, U.; Stankovi´c, S.; Beri´c, T. Phyllosphere Fungal
+Communities of Plum and Antifungal Activity of Indigenous Phenazine-Producing Pseudomonas synxantha Against Monilinia laxa.
+Front. Microbiol. 2019, 10, 2287. [CrossRef] [PubMed]
+Shukla, A.; Parmar, P.; Patel, B.; Goswami, D.; Saraf, M. Breaking bad: Better call gingerol for improving antibiotic susceptibility
+of Pseudomonas aeruginosa by inhibiting multiple quorum sensing pathways. Microbiol. Res. 2021, 252, 126863. [CrossRef]
+84. Hanson, L.E.; Howell, C.R. Elicitors of Plant Defense Responses from Biocontrol Strains of Trichoderma viren. Phytopathology 2004,
+
+83.
+
+94, 171–176. [CrossRef]
+
+85. Reino, J.L.; Guerrero, R.F.; Hernández-Galán, R.; Collado, I.G. Secondary metabolites from species of the biocontrol agent
+
+86.
+
+Trichoderma. Phytochem. Rev. 2007, 7, 89–123. [CrossRef]
+Santoyo, G.; Urtis-Flores, C.A.; Loeza-Lara, P.D.; Orozco-Mosqueda, M.D.C.; Glick, B.R. Rhizosphere Colonization Determinants
+by Plant Growth-Promoting Rhizobacteria (PGPR). Biology 2021, 10, 475. [CrossRef]
+
+87. Esmaeilishirazifard, E.; Dariush, A.; Moschos, S.A.; Keshavarz, T. A novel antifungal property for the Bacillus licheniformis
+ComX pheromone and its possible role in inter-kingdom cross-talk. Appl. Microbiol. Biotechnol. 2018, 102, 5197–5208. [CrossRef]
+Islam, R.; Jeong, Y.T.; Lee, Y.S.; Song, C.H. Isolation and Identiﬁcation of Antifungal Compounds from Bacillus subtilis C9
+Inhibiting the Growth of Plant Pathogenic Fungi. Mycobiology 2018, 40, 59–66. [CrossRef]
+
+88.
+
+89. Nassimi, Z.; Taheri, P.; Tarighi, S. Farnesol altered morphogenesis and induced oxidative burst–related responses in Rhizoctonia
+
+solani AG1-IA. Mycologia 2019, 111, 359–370. [CrossRef] [PubMed]
+
+90. Marketon, M.M.; Gronquist, M.R.; Eberhard, A.; González, J.E. Characterization of the Sinorhizobium meliloti sinR/sinI Locus and
+
+the Production of Novel N-Acyl Homoserine Lactones. J. Bacteriol. 2002, 184, 5686. [CrossRef] [PubMed]
+
+91. You, M.; Fang, S.; MacDonald, J.; Xu, J.; Yuan, Z.-C. Isolation and characterization of Burkholderia cenocepacia CR318, a phosphate
+
+solubilizing bacterium promoting corn growth. Microbiol. Res. 2020, 233, 126395. [CrossRef] [PubMed]
+
+92. Cui, C.; Yang, C.; Song, S.; Fu, S.; Sun, X.; Yang, L.; He, F.; Zhang, L.H.; Zhang, Y.; Deng, Y. A novel two-component system
+modulates quorum sensing and pathogenicity in Burkholderia cenocepacia. Mol. Microbiol. 2018, 108, 32–44. [CrossRef] [PubMed]
+
+Int. J. Mol. Sci. 2022, 23, 8998
+
+22 of 25
+
+93. Chen, J.H.; Xiang, W.; Cao, K.X.; Lu, X.; Yao, S.C.; Hung, D.; Huang, R.S.; Li, L.B. Characterization of volatile organic compounds
+emitted from endophytic burkholderia cenocepacia ETR-B22 by SPME-GC-MS and their inhibitory activity against various plant
+fungal pathogens. Molecules 2020, 25, 3765. [CrossRef]
+
+94. Elshaﬁe, H.; Camele, I.; Racioppi, R.; Scrano, L.; Iacobellis, N.; Bufo, S. In Vitro Antifungal Activity of Burkholderia gladioli pv.
+
+agaricicola against Some Phytopathogenic Fungi. Int. J. Mol. Sci. 2012, 13, 16291–16302. [CrossRef]
+
+95. Tenorio-Salgado, S.; Tinoco, R.; Vazquez-Duhalt, R.; Caballero-Mellado, J.; Perez-Rueda, E. Identiﬁcation of volatile compounds
+produced by the bacterium Burkholderia tropica that inhibit the growth of fungal pathogens. Bioengineered 2013, 4, 236–243.
+[CrossRef]
+
+96. Deng, S. Phosphorus and selected metals and metalloids. In Principles and Applications of Soil Microbiology, 3rd ed.; Gentry, T.J.,
+
+Fuhrmann, J.J., Zuberer, D.A.B.T.-P., Eds.; Elsevier: Amsterdam, The Netherlands, 2021; pp. 523–555.
+
+97. Mitter, B.; Petric, A.; Shin, M.W.; Chain, P.S.G.; Hauberg-Lotte, L.; Reinhold-Hurek, B.; Nowak, J.; Sessitsch, A. Comparative
+genome analysis of Burkholderia phytoﬁrmans PsJN reveals a wide spectrum of endophytic lifestyles based on interaction strategies
+with host plants. Front. Plant Sci. 2013, 4, 120. [CrossRef]
+
+98. Reinhold-Hurek, B.; Hurek, T. Living inside plants: Bacterial endophytes. Curr. Opin. Plant Biol. 2011, 14, 435–443. [CrossRef]
+99. Cornelis, P.; Bodilis, J. A survey of TonB-dependent receptors in ﬂuorescent pseudomonads. Environ. Microbiol. Rep. 2009,
+
+1, 256–262. [CrossRef]
+
+100. Joo, H.S.; Deyrup, S.T.; Shim, S.H. Endophyte-produced antimicrobials: A review of potential lead compounds with a focus on
+
+quorum-sensing disruptors. Phytochem. Rev. 2021, 20, 543–568. [CrossRef]
+
+101. Nair, D.N.; Padmavathy, S. Impact of endophytic microorganisms on plants, environment and humans. Sci. World J. 2014,
+
+2014, 250693. [CrossRef] [PubMed]
+
+102. Pinski, A.; Betekhtin, A.; Hupert-Kocurek, K.; Mur, L.A.J.; Hasterok, R. Deﬁning the Genetic Basis of Plant–Endophytic Bacteria
+
+Interactions. Int. J. Mol. Sci. 2019, 20, 1947. [CrossRef] [PubMed]
+
+103. Venkatesh Kumar, R.; Singh, R.P.; Mishra, P. Endophytes as emphatic communication barriers of quorum sensing in Gram-positive
+
+and Gram-negative bacteria—A review. Environ. Sustain. 2019, 2, 455–468. [CrossRef]
+
+104. Laue, H.; Schenk, A.; Li, H.; Lambertsen, L.; Neu, T.R.; Molin, S.; Ullrich, M.S. Contribution of alginate and levan production to
+
+bioﬁlm formation by Pseudomonas syringae. Microbiology 2006, 152, 2909–2918. [CrossRef]
+
+105. Heredia-Ponce, Z.; Gutiérrez-Barranquero, J.A.; Purtschert-Montenegro, G.; Eberl, L.; Cazorla, F.M.; de Vicente, A. Biological role
+of EPS from Pseudomonas syringae pv. syringae UMAF0158 extracellular matrix, focusing on a Psl-like polysaccharide. Npj Bioﬁlms
+Microbiomes 2020, 6, 37. [CrossRef]
+
+106. Ishiga, T.; Ishiga, Y.; Betsuyaku, S.; Nomura, N. AlgU contributes to the virulence of Pseudomonas syringae pv. tomato DC3000 by
+
+regulating production of the phytotoxin coronatine. J. Gen. Plant Pathol. 2018, 84, 189–201. [CrossRef]
+
+107. Li, L.; Li, J.; Zhang, Y.; Wang, N. Diffusible signal factor (DSF)-mediated quorum sensing modulates expression of diverse traits in
+
+Xanthomonas citri and responses of citrus plants to promote disease. BMC Genomics 2019, 20, 55. [CrossRef]
+
+108. Ryan, R.P.; Dow, J.M. Communication with a growing family: Diffusible signal factor (DSF) signaling in bacteria. Trends Microbiol.
+
+2011, 19, 145–152. [CrossRef]
+
+109. Zhou, L.; Yu, Y.; Chen, X.; Diab, A.A.; Ruan, L.; He, J.; Wang, H.; He, Y.-W. The Multiple DSF-family QS Signals are Synthesized
+
+from Carbohydrate and Branched-chain Amino Acids via the FAS Elongation Cycle. Sci. Rep. 2015, 5, 13294. [CrossRef]
+
+110. Poplawsky, A.R.; Chun, W. pigB determines a diffusible factor needed for extracellular polysaccharide slime and xanthomonadin
+
+production in Xanthomonas campestris pv. campestris. J. Bacteriol. 1997, 179, 439–444. [CrossRef] [PubMed]
+
+111. Jacques, M.A.; Josi, K.; Darrasse, A.; Samson, R. Xanthomonas axonopodis pv. phaseoli var. fuscans is aggregated in stable bioﬁlm
+
+population sizes in the phyllosphere of ﬁeld-grown beans. Appl. Environ. Microbiol. 2005, 71, 2008–2015. [CrossRef] [PubMed]
+
+112. Aragón, W.; Reina-Pinto, J.J.; Serrano, M. The intimate talk between plants and microorganisms at the leaf surface. J. Exp. Bot.
+
+2017, 68, 5339–5350. [CrossRef] [PubMed]
+
+113. Vorholt, J.A. Microbial life in the phyllosphere. Nat. Rev. Microbiol. 2012, 10, 828–840. [CrossRef] [PubMed]
+114. Malamud, F.; Torres, P.S.; Roeschlin, R.; Rigano, L.A.; Enrique, R.; Bonomi, H.R.; Castagnaro, A.P.; Marano, M.R.; Vojnov, A.A. The
+Xanthomonas axonopodis pv. citri ﬂagellum is required for mature bioﬁlm and canker development. Microbiology 2011, 157, 819–829.
+[CrossRef] [PubMed]
+
+115. Dow, J.M. Diffusible signal factor-dependent quorum sensing in pathogenic bacteria and its exploitation for disease control.
+
+J. Appl. Microbiol. 2017, 122, 2–11. [CrossRef]
+
+116. Ahuja, V.; Sangeetha, J.; Torvi, A.; Thangadurai, D.; Shettar, A.K.; David, M.; Thimmappa, S.C. Microbes and agricultural waste:
+A safe resource for the production of bionanomaterials. In Agri-Waste and Microbes for Production of Sustainable Nanomaterials;
+Elsevier: Amsterdam, The Netherlands, 2022; pp. 301–322.
+
+117. Bhattacharyya, C.; Roy, R.; Tribedi, P.; Ghosh, A.; Ghosh, A. Biofertilizers as substitute to commercial agrochemicals. In
+
+Agrochemicals Detection, Treatment and Remediation; Butterworth-Heinemann: Oxford, UK, 2020; pp. 263–290.
+
+118. Stone, W.; Wolfaardt, G. Measuring microbial metabolism in atypical environments. In Methods in Microbiology; Academic Press:
+
+Cambridge, MA, USA, 2018; Volume 45, pp. 123–144.
+
+119. Kambourova, M.; Oner, E.T.; Poli, A. Exopolysaccharides from prokaryotic microorganisms—Promising sources for white
+In Industrial Bioreﬁneries & White Biotechnology; Elsevier: Amsterdam, The Netherlands, 2015;
+
+biotechnology processes.
+pp. 523–554.
+
+Int. J. Mol. Sci. 2022, 23, 8998
+
+23 of 25
+
+120. Coutinho, T.A.; Wingﬁeld, M.J. Ralstonia solanacearum and R. pseudosolanacearum on Eucalyptus: Opportunists or Primary
+
+Pathogens? Front. Plant Sci. 2017, 8, 761. [CrossRef]
+
+121. Kai, K. Bioorganic chemistry of signaling molecules in microbial communication. J. Pestic. Sci. 2019, 44, 200–207. [CrossRef]
+122. Meneses, C.H.S.G.; Rouws, L.F.M.; Simões-Araújo, J.L.; Vidal, M.S.; Baldani, J.I. Exopolysaccharide Production Is Required for
+Bioﬁlm Formation and Plant Colonization by the Nitrogen-Fixing Endophyte Gluconacetobacter diazotrophicus. Mol. Plant-Microbe
+Interact. 2011, 24, 1448–1458. [CrossRef]
+
+123. Gupta, S.; Pandey, S. Exploiting the potential of plant growth-promoting rhizobacteria in legume production. In Abiotic Stress and
+
+Legumes; Elsevier: Amsterdam, The Netherlands, 2021; pp. 1–32.
+
+124. Zhou, J.; Lyu, Y.; Richlen, M.L.; Anderson, D.M.; Cai, Z. Quorum Sensing Is a Language of Chemical Signals and Plays an
+
+Ecological Role in Algal-Bacterial Interactions. Crit. Rev. Plant Sci. 2016, 35, 81–105. [CrossRef]
+
+125. Hibbing, M.E.; Fuqua, C.; Parsek, M.R.; Peterson, S.B. Bacterial competition: Surviving and thriving in the microbial jungle. Nat.
+
+Rev. Microbiol. 2009, 8, 15–25. [CrossRef] [PubMed]
+
+126. Spraker, J.E.; Wiemann, P.; Baccile, J.A.; Venkatesh, N.; Schumacher, J.; Schroeder, F.C.; Sanchez, L.M.; Keller, N.P. Conserved
+Responses in a War of Small Molecules between a Plant-Pathogenic Bacterium and Fungi. MBio 2018, 9, e00820-18. [CrossRef]
+[PubMed]
+
+127. Khalid, S.; Baccile, J.A.; Spraker, J.E.; Tannous, J.; Imran, M.; Schroeder, F.C.; Keller, N.P. NRPS-Derived Isoquinolines and
+Lipopetides Mediate Antagonism between Plant Pathogenic Fungi and Bacteria. ACS Chem. Biol. 2018, 13, 171. [CrossRef]
+[PubMed]
+
+128. Van Pée, K.-H. Biosynthesis of halogenated alkaloids. In Alkaloids: Chemistry and Biology; Academic Press: Cambridge, MA, USA,
+
+2012; Volume 71, pp. 167–210.
+
+129. Pawar, S.; Chaudhari, A.; Prabha, R.; Shukla, R.; Singh, D.P. Microbial pyrrolnitrin: Natural metabolite with immense practical
+
+utility. Biomolecules 2019, 9, 443. [CrossRef]
+
+130. Schuhegger, R.; Ihring, A.; Gantner, S.; Bahnweg, G.; Knappe, C.; Vogg, G.; Hutzler, P.; Schmid, M.; van Breusegem, F.; Eberl, L.;
+et al. Induction of systemic resistance in tomato by N-acyl-L-homoserine lactone-producing rhizosphere bacteria. Plant. Cell
+Environ. 2006, 29, 909–918. [CrossRef]
+
+131. Corral-Lugo, A.; Daddaoua, A.; Ortega, A.; Espinosa-Urgel, M.; Krell, T. Rosmarinic acid is a homoserine lactone mimic produced
+
+by plants that activates a bacterial quorum-sensing regulator. Sci. Signal. 2016, 9, ra1. [CrossRef]
+
+132. Petersen, M.; Abdullah, Y.; Benner, J.; Eberle, D.; Gehlen, K.; Hücherig, S.; Janiak, V.; Kim, K.H.; Sander, M.; Weitzel, C.; et al.
+
+Evolution of rosmarinic acid biosynthesis. Phytochemistry 2009, 70, 1663–1679. [CrossRef]
+
+133. Zhou, L.; Zheng, H.; Tang, Y.; Yu, W.; Gong, Q. Eugenol inhibits quorum sensing at sub-inhibitory concentrations. Biotechnol. Lett.
+
+2012, 35, 631–637. [CrossRef]
+
+134. Nazzaro, F.; Fratianni, F.; d’Acierno, A.; de Feo, V.; Ayala-Zavala, F.J.; Gomes-Cruz, A.; Granato, D.; Coppola, R. Effect of
+polyphenols on microbial cell-cell communications. In Quorum Sensing; Academic Press: Cambridge, MA, USA, 2019; pp. 195–223.
+135. Vandeputte, O.M.; Kiendrebeogo, M.; Rasamiravaka, T.; Stévigny, C.; Duez, P.; Rajaonson, S.; Diallo, B.; Mol, A.; Baucher, M.; El
+Jaziri, M. The ﬂavanone naringenin reduces the production of quorum sensing-controlled virulence factors in pseudomonas
+aeruginosa PAO1. Microbiology 2011, 157, 2120–2132. [CrossRef]
+
+136. Chagas, F.O.; Pessotti, R.D.C.; Caraballo-Rodríguez, A.M.; Pupo, M.T. Chemical signaling involved in plant–microbe interactions.
+
+Chem. Soc. Rev. 2018, 47, 1652–1704. [CrossRef]
+
+137. Nadarajah, K.; Abdul Hamid, N.W.; Abdul Rahman, N.S.N. SA-Mediated Regulation and Control of Abiotic Stress Tolerance in
+
+Rice. Int. J. Mol. Sci. 2021, 22, 5591. [CrossRef] [PubMed]
+
+138. Meena, V.S.; Meena, S.K.; Verma, J.P.; Kumar, A.; Aeron, A.; Mishra, P.K.; Bisht, J.K.; Pattanayak, A.; Naveed, M.; Dotaniya, M.L.
+Plant beneﬁcial rhizospheric microorganism (PBRM) strategies to improve nutrients use efﬁciency: A review. Ecol. Eng. 2017,
+107, 8–32. [CrossRef]
+
+139. Yang, J.; Duan, G.; Li, C.; Liu, L.; Han, G.; Zhang, Y.; Wang, C. The Crosstalks Between Jasmonic Acid and Other Plant Hormone
+Signaling Highlight the Involvement of Jasmonic Acid as a Core Component in Plant Response to Biotic and Abiotic Stresses.
+Front. Plant Sci. 2019, 10, 1349. [CrossRef]
+
+140. Brooks, D.M.; Bender, C.L.; Kunkel, B.N. The Pseudomonas syringae phytotoxin coronatine promotes virulence by overcoming
+
+salicylic acid-dependent defences in Arabidopsis thaliana. Mol. Plant Pathol. 2005, 6, 629–639. [CrossRef] [PubMed]
+
+141. Kremer, R.J. Bioherbicides and nanotechnology: Current status and future trends.
+
+In Nano-Biopesticides Today and Future
+
+Perspectives; Koul, O., Ed.; Elsevier: Amsterdam, The Netherlands, 2019; pp. 353–366.
+
+142. National Research Council. Feasibility of Using Mycoherbicides for Controlling Illicit Drug Crops; National Academies Press:
+
+Washington, DC, USA, 2011.
+
+143. Chakraborty, A.; Ray, P. Mycoherbicides for the Noxious Meddlesome: Can Colletotrichum be a Budding Candidate? Front.
+
+Microbiol. 2021, 12, 2859. [CrossRef] [PubMed]
+
+144. Xu, Z.; Shi, M.; Tian, Y.; Zhao, P.; Niu, Y.; Liao, M. Dirhamnolipid Produced by the Pathogenic Fungus Colletotrichum gloeosporioides
+
+BWH-1 and Its Herbicidal Activity. Molecules 2019, 24, 2969. [CrossRef] [PubMed]
+
+145. Boyette, C.D.; Hoagland, R.E.; Stetina, K.C. Extending the host range of the bioherbicidal fungus Colletotrichum gloeosporioides f.
+
+sp. aeschynomene. Biocontrol Sci. Technol. 2019, 29, 720–726. [CrossRef]
+
+Int. J. Mol. Sci. 2022, 23, 8998
+
+24 of 25
+
+146. Masi, M.; Zonno, M.C.; Cimmino, A.; Reveglia, P.; Berestetskiy, A.; Boari, A.; Vurro, M.; Evidente, A. On the metabolites produced
+by Colletotrichum gloeosporioides a fungus proposed for the Ambrosia artemisiifolia biocontrol; Spectroscopic data and absolute
+conﬁguration assignment of colletochlorin A. Nat. Prod. Res. 2018, 32, 1537–1547. [CrossRef]
+
+147. Singh, R.; Kumar, M.; Mittal, A.; Mehta, P.K. Microbial metabolites in nutrition, healthcare and agriculture. 3 Biotech 2017, 7, 15.
+
+[CrossRef]
+
+148. Asad, S.A. Mechanisms of action and biocontrol potential of Trichoderma against fungal plant diseases—A review. Ecol. Complex.
+
+2022, 49, 100978. [CrossRef]
+
+149. Berrie, A.; Xu, X. Developing biopesticide-based programmes for managing powdery mildew in protected strawberries in the UK.
+
+Crop Prot. 2021, 149, 105766. [CrossRef]
+
+150. Pfordt, A.; Schiwek, S.; Karlovsky, P.; von Tiedemann, A. Trichoderma Afroharzianum Ear Rot—A New Disease on Maize in
+
+Europe. Front. Agron. 2020, 2, 11. [CrossRef]
+
+151. Khakimov, A.A.; Omonlikov, A.U.; Utaganov, S.B.U. Current status and prospects of the use of biofungicides against plant
+
+diseases. GSC Biol. Pharm. Sci. 2020, 13, 119–126. [CrossRef]
+
+152. Kumar, D.; Singh, M.K.; Singh, H.K.; Singh, K.N. Fungal biopesticides and their uses for control of insect pest and diseases. In
+
+Biofertilizers and Biopesticides in Sustainable Agriculture; Apple Academic Press: Palm Bay, FL, USA, 2020; pp. 43–70.
+
+153. Valantin-Morison, M.; Lasserre-Joulin, F.; Martinet, V.; Meiss, H.; Messéan, A.; Meynard, J.-M.; Paschalidou, F.; Perrin, B.;
+Rouabah, A. Integrating biocontrol into cropping system design. In Extended Biocontrol; Springer: Dordrecht, The Netherlands,
+2022; pp. 233–244.
+
+154. Abbey, J.A.; Percival, D.; Abbey, L.; Asiedu, S.K.; Prithiviraj, B.; Schilder, A. Biofungicides as alternative to synthetic fungicide
+
+control of grey mould (Botrytis cinerea)—Prospects and challenges. Biocontrol Sci. Technol. 2019, 29, 207–228. [CrossRef]
+
+155. Korzeniewicz, R.; Baranowska, M.; Kwa´sna, H.; Niedbała, G.; Behnke-Borowczyk, J. Communities of Fungi in Black Cherry
+
+Stumps and Effects of Herbicide. Plants 2020, 9, 1126. [CrossRef]
+
+156. Uludag, A.; Uremis, I.; Arslan, M. Biological weed control. In Non-Chemical Weed Control; Elsevier: Amsterdam, The Netherlands,
+
+2018; pp. 115–132.
+
+157. Aneja, K.R.; Kumar, V.; Jiloha, P.; Kaur, M.; Sharma, C.; Surain, P.; Dhiman, R.; Aneja, A. Potential bioherbicides: Indian
+perspectives. In Biotechnology: Prospects and Applications; Springer: New Delhi, India, 2013; Volume 9788132216, pp. 197–215.
+158. U.S. Environmental Protection Agency. Notice Of Pesticide: X Registration SolviNix LC; U.S. Environmental Protection Agency:
+
+Washington, DC, USA, 2014.
+
+159. Abu-Dieyeh, M.H.; Bernier, J.; Watson, A.K. Sclerotinia minor avances fruiting and reduces germination in dandelion (Taraxacum
+
+ofﬁcinale). Biocontrol Sci. Technol. 2007, 15, 815–825. [CrossRef]
+
+160. Kumar, V.; Singh, M.; Sehrawat, N.; Atri, N.; Singh, R.; Upadhyay, S.K.; Kumar, S.; Yadav, M. Mycoherbicide Control Strategy:
+
+Concept, Constraints, and Advancements. Biopestic. Int. 2021, 17, 29–40.
+
+161. Lizardi-Jiménez, M.A.; Hernández-Martínez, R. Solid state fermentation (SSF): Diversity of applications to valorize waste and
+
+biomass. 3 Biotech 2017, 7, 44. [CrossRef]
+
+162. Mousumi Das, M.; Aguilar, C.N.; Haridas, M.; Sabu, A. Production of bio-fungicide, Trichoderma harzianum CH1 under solid-state
+
+fermentation using coffee husk. Bioresour. Technol. Reports 2021, 15, 100708. [CrossRef]
+
+163. Zin, N.A.; Badaluddin, N.A. Biological functions of Trichoderma spp. for agriculture applications. Ann. Agric. Sci. 2020, 65, 168–178.
+
+[CrossRef]
+
+164. Cai, F.; Yu, G.; Wang, P.; Wei, Z.; Fu, L.; Shen, Q.; Chen, W. Harzianolide, a novel plant growth regulator and systemic resistance
+
+elicitor from Trichoderma harzianum. Plant Physiol. Biochem. 2013, 73, 106–113. [CrossRef] [PubMed]
+
+165. Vinale, F.; Nigro, M.; Sivasithamparam, K.; Flematti, G.; Ghisalberti, E.L.; Ruocco, M.; Varlese, R.; Marra, R.; Lanzuise, S.;
+Eid, A.; et al. Harzianic acid: A novel siderophore from Trichoderma harzianum. FEMS Microbiol. Lett. 2013, 347, 123–129.
+[CrossRef] [PubMed]
+
+166. Pirttilä, A.M.; Mohammad Parast Tabas, H.; Baruah, N.; Koskimäki, J.J. Biofertilizers and Biocontrol Agents for Agriculture: How
+
+to Identify and Develop New Potent Microbial Strains and Traits. Microorganisms 2021, 9, 817. [CrossRef] [PubMed]
+
+167. Muñoz, I.V.; Sarrocco, S.; Malfatti, L.; Baroncelli, R.; Vannacci, G. CRISPR-Cas for Fungal Genome Editing: A New Tool for the
+
+Management of Plant Diseases. Front. Plant Sci. 2019, 10, 135. [CrossRef]
+
+168. Key, S.; Ma, J.K.C.; Drake, P.M.W. Genetically modiﬁed plants and human health. J. R. Soc. Med. 2008, 101, 290–298. [CrossRef]
+169. Abbas, M.S.T. Genetically engineered (Modiﬁed) crops (Bacillus thuringiensis crops) and the world controversy on their safety.
+
+Egypt. J. Biol. Pest Control 2018, 28, 52. [CrossRef]
+
+170. Schünemann, R.; Knaak, N.; Fiuza, L.M. Mode of Action and Speciﬁcity of Bacillus thuringiensis Toxins in the Control of Caterpillars
+
+and Stink Bugs in Soybean Culture. ISRN Microbiol. 2014, 2014, 35675. [CrossRef]
+
+171. Kumar, K.; Gambhir, G.; Dass, A.; Tripathi, A.K.; Singh, A.; Jha, A.K.; Yadava, P.; Choudhary, M.; Rakshit, S. Genetically modiﬁed
+
+crops: Current status and future prospects. Planta 2020, 251, 91. [CrossRef]
+
+172. Bahariah, B.; Parveez, G.K.A.; Masani, M.Y.A.; Khalid, N. In silico Construction of phosphomannose isomerase (PMI) transfor-
+mation vectors and evaluation of the effectiveness of vectors in tobacco (Nicotiana tabacum L.). Bioinformation 2012, 8, 151–157.
+[CrossRef]
+
+173. Tsuge, K.; Akiyama, T.; Shoda, M. Cloning, Sequencing, and Characterization of the Iturin a Operon. J. Bacteriol. 2001, 183, 6265–6273.
+
+[CrossRef]
+
+Int. J. Mol. Sci. 2022, 23, 8998
+
+25 of 25
+
+174. Dang, Y.; Zhao, F.; Liu, X.; Fan, X.; Huang, R.; Gao, W.; Wang, S.; Yang, C. Enhanced production of antifungal lipopeptide iturin A
+by Bacillus amyloliquefaciens LL3 through metabolic engineering and culture conditions optimization. Microb. Cell Fact. 2019,
+18, 68. [CrossRef] [PubMed]
+
+175. Jiao, S.; Li, X.; Yu, H.; Yang, H.; Li, X.; Shen, Z. In situ enhancement of surfactin biosynthesis in Bacillus subtilis using novel
+
+artiﬁcial inducible promoters. Biotechnol. Bioeng. 2017, 114, 832–842. [CrossRef] [PubMed]
+
+176. An, S.-Q.; Potnis, N.; Dow, M.; Vorhölter, F.-J.; He, Y.-Q.; Becker, A.; Teper, D.; Li, Y.; Wang, N.; Bleris, L.; et al. Mechanistic
+insights into host adaptation, virulence and epidemiology of the phytopathogen Xanthomonas. FEMS Microbiol. Rev. 2020, 44, 1–32.
+[CrossRef] [PubMed]
+
+177. Xue, D.; Tian, F.; Yang, F.; Chen, H.; Yuan, X.; Yang, C.-H.; Chen, Y.; Wang, Q.; He, C. Phosphodiesterase EdpX1 Promotes
+Xanthomonas oryzae pv. oryzae Virulence, Exopolysaccharide Production, and Bioﬁlm Formation. Appl. Environ. Microbiol. 2018,
+84, e01717-18. [CrossRef] [PubMed]
+
+

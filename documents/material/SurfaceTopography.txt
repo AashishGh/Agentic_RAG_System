@@ -1,0 +1,623 @@
+Surface topography as a material 
+parameter
+
+Tevis D.B. Jacobs* 
+
+ and Lars Pastewka,* 
+
+ Guest Editors
+
+Materials science is about understanding the relationship between a material’s structure and its 
+properties—in the sphere of mechanical behavior, this includes elastic modulus, yield strength, 
+and other bulk properties. We show in this issue that, analogously, a material’s surface 
+structure governs its surface properties—such as adhesion, friction, and surface stiffness. 
+For bulk materials, microstructure is a critical component of structure; for surfaces, the 
+structure is governed largely by surface topography. The articles in this issue cover the latest 
+understanding of these structure–property connections for surfaces. This includes both the 
+theoretical basis for how properties depend on topography, as well as the latest understanding 
+of how surface topography emerges, how to measure and understand topography-dependent 
+properties, and how to engineer surfaces to improve performance. The present article frames 
+the importance of surface topography and its effect on properties; it also outlines some of the 
+critical knowledge gaps that impede progress toward optimally performing surfaces.
+
+Introduction: Surface topography 
+as a multiscale material parameter 
+stretching from the size of a component 
+down to the atomic scale
+A surface is a planar defect, the outermost layer of a mate-
+rial. Depending on context, it can refer to the outermost 
+atoms, or it can include some depth of near-surface mate-
+rial. The  geometry  of  this  surface  is  a  two-dimensional 
+contour, the surface topography. The series of articles in 
+this issue describe how, besides the chemical composition 
+of the material itself, this arbitrarily complex shape of the 
+boundary between a material and the outside world plays a 
+key role in determining the surface properties of that mate-
+rial. Surface topography can control whether paints and 
+coatings flake off of a consumer product, how much energy 
+is wasted in automobile and airplane engines, how quickly 
+a cutting tool wears out, the biocompatibilty of a medical 
+device, and whether a flooring tile will cause slip-and-fall 
+injuries.
+
+We contend that the conventional ways of measuring and 
+describing surface topography impede advancement in this 
+area. Common reference standards (e.g., ISO 4287 or ASTM 
+B46) specify that a surface topography measurement should 
+
+be separated into three components: large-scale waviness, 
+medium-to-small-scale roughness, and small-scale noise. 
+For example, for the commonly used stylus profilometer, 
+“noise” is typically defined as topography below 2.5 μm of 
+lateral size scale (or wavelength), whereas “waviness” is 
+commonly defined as topography with wavelength larger 
+than  80,  250,  or  800  μm  (depending  on  topography  and 
+measurement conditions), with everything in between des-
+ignated as “roughness.” These distinctions serve a practical 
+purpose in a machine shop, where large-scale machining 
+defects can be considered “waviness,” and polishing or other 
+finishing techniques can be used to control “roughness.” 
+However, we contend that these distinctions impede the sci-
+entific understanding of topography-dependent properties 
+because the final performance of the part often depends on 
+all scales of topography and does not acknowledge these 
+arbitrary distinctions.
+
+We advocate instead to think of the surface topography 
+as a multiscale material parameter, which stretches from the 
+size of a component down to the atomic scale. In an extreme 
+case, the size of the component could be on geologic scales: 
+In this issue, Aghababaei et al.1 discuss earthquake faults 
+(Figure 1a), where surface topography has been measured 
+
+Tevis D.B. Jacobs , Department of Mechanical Engineering and Materials Science, University of Pittsburgh, Pittsburgh, USA; tjacobs@pitt.edu
+Lars Pastewka , Department of Microsystems Engineering, University of Freiburg, Freiburg, Germany; Cluster of Excellence livMatS, Freiburg Center for Interactive Materials and Bioinspired 
+Technologies, University of Freiburg, Freiburg, Germany; lars.pastewka@imtek.uni-freiburg.de
+Guest Editors, 
+*Corresponding author
+
+doi:10.1557/s43577-022-00465-5
+
+© The Author(s) 2022
+
+MRS BULLETIN  •  VOLUME 47 •  DEcEMbEr 2022  •  mrs.org/bulletin               1205
+
+SUrfacE tOpOgraphy aS a MatEriaL paraMEtEr
+
+a
+
+b
+
+–
+
+Figure 1.   Surface topography can range from kilometers to the atomic scale. 
+(a) The Corona Heights Fault in San Francisco, Calif., provides an example 
+of the multiscale nature of roughness, where roughness features exist over 
+length scales from tens of kilometers down to microns. The surface topog-
+raphy shows self-affine fractal-like scaling, here manifested as a power-law 
+C(q) ∝ q−1−2H in the PSD, over this whole range. (b) The topography of 
+ultrananocrystalline diamond, a common wear-resistant coating, deviates 
+from self-affine behavior, but still shows roughness across a wide range of 
+scales from centimeters to Ångströms. TEM, transmission electron micros-
+copy; LIDAR, light detection and ranging. (a) Adapted with permission from 
+Reference 3. © 2012 American Geophysical Union. (b) Adapted with permis-
+sion from Reference 4. © 2018 American Chemical Society.
+
+for the same fault on scales stretching from 100 km down 
+to the scale of micrometers with common scale-independent 
+features across all scales. Describing the multiscale nature 
+of surface topography requires spectral analysis, rather than 
+simple scalar metrics. One such example is the power spectral 
+density (PSD), which is a mathematical tool for decomposing 
+a surface into contributions from different spatial frequencies 
+(wave vectors).2 An example of the multiscale roughness of 
+an engineering material is given in Figure 1b, where a wear-
+resistant diamond coating has been characterized from centim-
+eters down to the atomic scale. Taken together, the examples 
+of Figure 1 illustrate that roughness features can exist, and can 
+be statistically characterized, over more than 16 decades in 
+length. All of this multi-scale surface structure can contribute 
+to surface performance.
+
+1206     
+
+   MRS BULLETIN  •  VOLUME 47  •  DEcEMbEr 2022  •  mrs.org/bulletin
+
+Concept: Surface topography is analogous 
+to material microstructure
+It  is  well  known  within  the  materials  community  that 
+microstructure is a critical properties-controlling aspect 
+of a material. Whereas some properties such as elastic 
+modulus can be predicted solely from knowledge of the 
+type of material and its bonding configuration, many other 
+functional properties are governed by the material’s micro-
+structure; these include yield strength, fracture toughness, 
+electrical conductivity, and diffusivity, among others. Spe-
+cifically, the microstructure comprises the arrangement of 
+crystal grains in the material, their size and orientation, as 
+well as the density and distribution of crystal defects or 
+inclusions or second phases. The performance of a mate-
+rial cannot be truly predicted without knowledge of that 
+material’s microstructure.
+
+Furthermore, microstructural features exist across many 
+orders of length scale. Vacancies, interstitials, and substi-
+tutional defects exist at the atomic scale, and can have a 
+critical impact on strength through the interaction of their 
+stress fields with dislocations. Other microstructural fea-
+tures, such as dislocations, twin boundaries, grains and grain 
+boundaries, second phases, and voids or pores can range in 
+size scale from tens or hundreds of nanometers up to the 
+millimeter scale or larger. Describing and optimizing the 
+multiscale dependence of properties on microstructure is 
+a grand challenge in materials science right now, which is 
+captured in priority research directions at the US National 
+Science Foundation (“property prediction across length 
+scales”5) and the US Department of Energy (“develop mul-
+tiscale and multiphysics capabilities [for] multiple length 
+and time scales”6).
+
+A similar grand challenge exists for the understanding 
+and optimization of surface topography to control surface 
+properties. Similar to microstructure’s effect on bulk proper-
+ties, the surface topography has a controlling effect on the 
+performance of the surface. Similar to microstructure, indi-
+vidual topography features can be as small as the size of an 
+atomic defect, or can be as large as the size of the component 
+(see Figure 1). Similar to microstructure, surface topography 
+can be modified through the processing of materials. For these 
+reasons, we propose that the conceptual Materials Tetrahedron 
+(Figure 2a) be complemented by the Surface Tetrahedron (Fig-
+ure 2b), with surface topography as an integral part.
+
+Unlike microstructure, surface topography often exhibits 
+scale-invariance,7,8  which means  that  measurements  per-
+formed at one scale can, in many cases, be used to extrapo-
+late structure at other scales. It also makes surface topogra-
+phy especially amenable to multiscale theory and modeling, 
+which has made significant strides in the last two decades as 
+discussed later in the issue. Additionally, a key realization 
+of prior research is that functional properties are often pri-
+marily controlled by topographic features over a specific range 
+of scales, where roughness at larger and smaller scales plays 
+
+a
+
+b
+
+SUrfacE tOpOgraphy aS a MatEriaL paraMEtEr
+
+The need for this issue 
+of MRS Bulletin: Despite 
+more than 100 years 
+of investigation, 
+we still cannot 
+predict and control 
+topography‑dependent 
+properties
+It  was  110  years  ago  that 
+ Binder 21  measured  that  the 
+electrical  conductivity  of 
+rough surfaces was lower than 
+expected and attributed this to 
+a reduction in contact area due 
+to  surface  roughness.  In  the 
+following decades, significant 
+effort  went  into  understand-
+ing  surface  topography  and 
+topography-dependent proper-
+ties. Experimentally, empirical 
+truths were learned such as that 
+the true contact area between 
+rough  surfaces  increases  in 
+direct proportion to the load applied. For characterization, 
+there was a proliferation of tools to measure roughness, from 
+stylus profilometry to white-light interferometry to the atomic 
+force microscope. The theory and modeling of topography-
+dependent properties has been especially successful. Early 
+models,  such  as  the  famous  Greenwood  and  Williamson 
+model,22 used oversimplifying assumptions, but accurately 
+captured certain trends in behavior and prompted the scientific 
+community to think quantitatively about roughness. Recent 
+models, especially by Persson,11,23 described in this issue,24 
+take account of the multiscale roughness, and result in far more 
+accurate predictions. Also, in recent decades, the atomistic 
+simulation and numerical modeling has made great strides in 
+directly describing and predicting behavior; the progress in 
+this area is summarized by Müser and  Nicola25 in this issue.
+
+However, despite these advancements, the community as 
+a whole still remains unable to reliably apply these models 
+to real-world surfaces. A useful example of such a failing is 
+provided by a review in the field of bone-tissue engineer-
+ing.26 In this article, the authors discussed the topic of creat-
+ing scaffolds to induce bone growth and reviewed various 
+aspects of the materials and design and their impact on the 
+growth of bone cells. However, when it came to surface 
+topography, the authors concluded the following: “Over-
+all, the effect of surface roughness (at both the nano- and 
+micron-scales) and grain size on cell adhesion is inconclu-
+sive due to contradicting data in the literature.” (p. 8041)
+
+There were simply too many articles showing that cell 
+adhesion increased with roughness (such as Reference 27) 
+and too many articles showing that cell adhesion decreased 
+with roughness (such as Reference 28). The problem is not 
+
+MRS BULLETIN  •  VOLUME 47  •  DEcEMbEr 2022  •  mrs.org/bulletin               1207
+
+Figure 2.   The surface tetrahedron. We propose to think about surfaces in terms of structure–process-
+ing–property relationships. Just like the classical materials tetrahedron (a), these relationships can be 
+described schematically by the surface tetrahedron (b).
+
+little or no role. However, the specific scale that matters is 
+context-dependent.
+
+It is possible to broadly categorize some of the key surface 
+properties by the size scale that dominates their performance. 
+We have condensed this knowledge into the conceptual repre-
+sentation of Figure 3. We note that some properties, such as 
+friction, adhesion, and wear cannot be attributed to a single 
+size scale because their dependence on topography depends 
+on the material, and because the scientific understanding is still 
+emerging through active research. But other important proper-
+ties such as the elastic contact  area9–12 or contact  stiffness13–17 
+have  been  shown  to  clearly  depend  on  a  limited  range  of 
+topographic features. Yet other properties depend on multiple 
+distinct scales, such as electric or thermal conductivity that is 
+determined by a combination of a resistance due to constricting 
+the current toward the contacting spots at a rough  interface18 
+(that behaves similar to the contact stiffness) and also a contact 
+ resistivity19 (that is proportional to the total contact area).
+
+We can also map onto the same space the characterization 
+techniques that are able to capture the corresponding scales. 
+For example, certain properties such as the contact stiffness 
+are controlled by large-scale topography and therefore can be 
+understood and controlled by measuring a surface using a sty-
+lus or optical profilometer. By contrast, certain other properties 
+such as the contact area (and potentially its derived properties 
+like friction) are controlled by the very smallest-scale topog-
+raphy, and therefore, require techniques with far better resolu-
+tion. Further refinement is still needed of this understanding 
+of which properties are controlled by topography at which 
+scales, and thus which processing and characterization tools 
+are required for different applications.
+
+SUrfacE tOpOgraphy aS a MatEriaL paraMEtEr
+
+a
+
+b
+
+Figure 3.   Size scales that control behavior, and techniques that can 
+measure at different sizes. (a) A contemporary electric vehicle has 
+many interfaces whose properties are crucial for its function. (b) Most 
+functional surface properties are governed primarily by certain ranges 
+of size scales. Surface-measurement techniques are also confined to 
+certain length scales, such that multiple methods must be combined for 
+comprehensive topography characterization. AFM, atomic force micros-
+copy; RADAR, radio detection and ranging; LIDAR, light detection and 
+ranging. Image of the electric vehicle from Reference 20, reprinted with 
+permission by L.I.F. Cabrera.
+
+that the individual studies were performed badly or were 
+inconclusive in isolation; the problem is that the standard 
+practices for measuring and reporting topography give only 
+an incomplete picture of the roughness of a surface.
+
+The community still remains unable to reliably modify 
+surface roughness to control properties. Typical net-shape 
+manufacturing processes yield an uncontrolled, and often 
+quite rough, surface finish. The present solution is then to 
+postprocess a part (e.g., through processes such as polishing, 
+lapping, honing, or grinding). Some surface-modification 
+techniques have been developed (as described in this issue 
+by Costa et al.29) to intentionally impart topographic fea-
+tures to the component, yet further work is required to better 
+
+1208     
+
+   MRS BULLETIN  •  VOLUME 47  •  DEcEMbEr 2022  •  mrs.org/bulletin
+
+understand this process and to design specific topographies 
+to achieve certain functional surface properties.
+
+A  key  impediment  to  fundamental  understanding  and 
+control  of  surface  topography  is  the  current  practice  in 
+topography measurement. The most common practice for 
+measuring topography of manufactured components is to use 
+a stylus or optical profilometer, and to use this to measure a 
+simple roughness parameter such as average deviation from 
+the mean height Ra, or root-mean-square deviation from 
+the mean height Rq. However, the key limitation of current 
+practice is that typical roughness techniques and metrics 
+capture only a limited range of scales. By filtering out the 
+large and small scales, typical roughness metrics focus pri-
+marily on the range of tens to hundreds of microns. This 
+range of sizes will govern only a subset of properties (see 
+Figure  3) and will have little or no predictive power for 
+many other surface properties. Additionally, because of the 
+finite tip radius of a stylus tool and the diffraction limit of 
+light, commonly used techniques do not accurately measure 
+topography below a few microns. Even when atomic force 
+microscopy is used to capture smaller scales, it is rarely 
+combined with large-scale topography for a full description. 
+For these reasons it is, in many cases, impossible to find 
+meaningful correlations between conventional roughness 
+metrics, such as Ra or Rq, and performance metrics such as 
+adhesion, friction, or surface stiffness.
+
+Recent advances and future prospects 
+for understanding and controlling surface 
+performance through surface topography
+This issue contains five articles targeted at explaining the 
+recent advancements and future directions for the field. The 
+first  section  contains  two  articles  about  the  fundamental 
+understanding of topography-dependent properties.  Persson24 
+describes his seminal theory of multiscale roughness, and 
+describes a few of the applications for which it has found util-
+ity. This theory revolutionized the understanding of topog-
+raphy and pushed other practitioners in the field (theorists, 
+modelers, and even experimentalists) to account for many 
+different size scales of topography. Müser and  Nicola25 then 
+describe recent advances in the modeling and simulation of the 
+properties of rough surfaces. Unlike analytical theory, which 
+must make simplifying mathematical assumptions about the 
+behavior of the surfaces, these models and theories can con-
+sider arbitrarily complex geometries, can include atomistic 
+detail such as the role of dislocations in near-surface plasticity, 
+and solve by “brute force” calculations contact problems that 
+are analytically intractable.
+
+The  second  section  contains  three  articles  about  the 
+understanding  of  real-world  surfaces. Aghababaei et  al.1 
+address the basic question of how topography emerges on 
+surfaces. This covers both natural surfaces, including an 
+earthquake fault line, as well as human-made surfaces during 
+manufacture and use. Weber et al.30 describe experimental 
+
+SUrfacE tOpOgraphy aS a MatEriaL paraMEtEr
+
+observation  of  adhesion  and  friction  of  rough  surfaces. 
+Focusing on dry, unlubricated contacts, they show the dis-
+parate physics governing the performance of hard and soft 
+materials in contact with rough surfaces. Finally, Costa et 
+al.29 describe how surface patterning can be used to inten-
+tionally modify adhesion, friction, or heat transfer. The arti-
+cle covers both conventional and additively manufactured 
+components, as well as a variety of environments, including 
+dry, wet, and lubricated.
+
+Missing links to achieving a comprehensive 
+and predictive understanding of surface 
+topography
+Together, the present collection of articles attempts to capture 
+the current state of knowledge in controlling surface perfor-
+mance through surface topography. Each article also contains 
+some insights about the future prospects and critical questions 
+in that particular area. In order to continue advancing this field 
+to the point where we can controllably tailor surface perfor-
+mance, we see that three things are needed:
+
+First, the roughness-focused community needs to move 
+away  from  conventional  approaches,  such  as  measuring 
+topography using one technique and then computing sim-
+ple scalar metrics (e.g., Ra); instead moving toward novel 
+approaches, such as measuring topography using many dif-
+ferent techniques and then combining their results using mul-
+tiscale metrics. So long as simple scalar metrics (any scalar 
+metrics) constitute the most commonly used descriptor, then 
+physics-based predictions will remain impossible. Instead, if 
+multiscale metrics are used (any multiscale metrics), then there 
+is a greater chance of incorporating real physical phenomena 
+and getting closer to fundamental understanding and control.
+Second, materials-science researchers need to begin pub-
+lishing their topography data (not just computed metrics) 
+along with their scientific publications. In general, the mate-
+rials-science community has recognized and embraced the 
+open-data revolution, and it is becoming increasingly common 
+for researchers to publish the raw data collected during their 
+investigations. Indeed, some funding agencies and journals 
+are now requiring it. However, when it comes to topography, 
+this frequently means publishing only metrics, such as Ra or 
+the PSD. To achieve significant advances, researchers must 
+more commonly publish their raw topography data, and do 
+so in accordance with the principles of FAIR data,31 which 
+are just starting to be embraced in the tribology and surface-
+roughness communities.32,33 One way to publish topography 
+data in an accessible format with a Digital Object Identifier 
+(DOI) is to use the contact.engineering platform developed by 
+the present authors.33 Regardless of platform, the publication 
+of topography data will reduce the gulf that currently exists 
+between modelers, who have accurate theory/simulations of 
+topography-dependent performance but inadequate access to 
+the topography of real-world surfaces, and experimentalists, 
+
+who have access to real-world surfaces but typically lack the 
+specialized knowledge and computing resources to implement 
+complex theories or models.
+
+Third, new metrics are required to describe and report the 
+surface topography adequately. Although the power spectral 
+density is widely used, including by the present authors, it 
+has its own limitations, including a lack of phase informa-
+tion, ambiguity of implementation, and difficulty of interpret-
+ing. Other multiscale metrics have their own advantages and 
+limitations. Also, statistical parameters inherently describe 
+the global statistics of a surface, but fail to capture specific 
+features that could, in some cases, be relevant to performance. 
+Therefore, we hope that the field will continue to find new 
+and better metrics that address these limitations. It is unlikely 
+that some perfect metric will be discovered that is appropriate 
+for all cases; it is far more likely that our understanding will 
+develop and it will turn out that different metrics are particu-
+larly useful for different physical situations.
+
+Finally, at the time of this writing, the authors are conducting 
+the Surface Topography Challenge,34 in which standard samples 
+are being sent out to any interested research group that focuses 
+on measuring surfaces and their properties. At the completion 
+of the challenge all submitted data will be published for all to 
+see and access. The objectives of this Challenge are in align-
+ment with the needs previously identified: further insight into 
+the strengths and limitations of various techniques for measur-
+ing topography; the open publication of the most comprehensive 
+statistical description of a surface ever created; and the release 
+of such a surface so that theorists, simulators, and modelers can 
+apply their calculations to this real-world surface, and also sug-
+gest new metrics for describing surface topography.
+
+Conclusion
+In conclusion, we urge the materials-science community to 
+view surface topography as a material property. Using the con-
+cept of the surface tetrahedron, the performance of a material’s 
+surface can be understood and controlled analogously to how 
+we routinely modify bulk material parameters. The ultimate 
+goal for the field is to be able to systematically design, impart, 
+and measure surface topography for the rational control of sur-
+face properties from adhesion to friction to biocompatibility to 
+electrical and thermal transport across a contacting interface. 
+The recent advances described in the present issue, and ongo-
+ing fundamental investigations in the field, are moving the 
+community toward achieving this goal.
+
+Funding 
+Open Access  funding  enabled  and  organized  by  Projekt 
+DEAL.  Funding  was  provided  by  the European  Research 
+Council (StG 757343), Deutsche Forschungsgemeinschaft 
+(PA 2023/2, EXC 2193/1– 390951807), the National Science 
+Foundation (CMMI-1844739), and the National Institute for 
+Occupational Safety and Health (R21OH012126).
+
+MRS BULLETIN  •  VOLUME 47  •  DEcEMbEr 2022  •  mrs.org/bulletin               1209
+
+SUrfacE tOpOgraphy aS a MatEriaL paraMEtEr
+
+Conflict of interest 
+On behalf of all authors, the corresponding author states that 
+there is no conflict of interest.
+
+Open access
+This article is licensed under a Creative Commons Attribu-
+tion 4.0 International License, which permits use, sharing, 
+adaptation, distribution and reproduction in any medium or 
+format, as long as you give appropriate credit to the original 
+author(s) and the source, provide a link to the Creative Com-
+mons license, and indicate if changes were made. The images 
+or other third party material in this article are included in the 
+article’s Creative Commons license, unless indicated other-
+wise in a credit line to the material. If material is not included 
+in the article’s Creative Commons license and your intended 
+use is not permitted by statutory regulation or exceeds the 
+permitted use, you will need to obtain permission directly 
+from the copyright holder. To view a copy of this license, visit 
+http:// creat iveco mmons. org/ licen ses/ by/4. 0/.
+
+References
+ 1.  R. Aghababaei, E. Brodsky, J.-F. Molinari, S. Chandrasekar, MRS Bull.  47(12) 
+(2022)
+ 2.  T.D.B. Jacobs, T. Junge, L. Pastewka, Surf. Topogr. Metrol. Prop. 5, 013001 (2017)
+ 3.  T. Candela, F. Renard, Y. Klinger, K. Mair, J. Schmittbuhl, E.E. Brodsky, J. Geophys. 
+Res. 117, B08409 (2012)
+ 4.  A. Gujrati, S.R. Khanal, L. Pastewka, T.D.B. Jacobs, ACS Appl. Mater. Interfaces 10, 
+29169 (2018)
+ 5.  J. Allison, D. Bahr, S. Baker, E. Cerreta, N. Chawla, M. DeGraef, D. Dimiduk, J. Erle-
+bacher, J. Evans, K. Fahey, K. Findley, E. George, D. Gianola, P. Gumbsch, G.R. Gray III, 
+C. Handwerker, E. Holm, W. Jones, S. Kalidindi, S. Kang, D. Lados, R. LeSar, C. Levi, J. 
+Lewandoski, D. Lewis, Q. Li, Z.-K. Liu, M. Manuel, E. Marquis, M. Mills, A. Mottura, B. 
+Mueller, R. Odette, V. Ozolins, T. Pollock, B. Reynolds, A. Rollett, M. Sangid, T. Schaedler, 
+C. Schuh, D. Shih, E. Taleff, D. Trinkle, A. Van der Ven, K. Vecchio, P. Voorhees, Emerg-
+ing Science and National Priorities in Metals and Metallic Nanostructures (National 
+Science Foundation, Washington, DC, 2012)
+ 6.  G. Galli, T. Dunning, M. Head-Gordon, G. Kotliar, J.C. Grossmann, K.-M. Ho, M.-Y. 
+Chou, M. Dupuis, M. Asta, C. Simmerling, Discovery in Basic Energy Sciences: The 
+Role of Computing at the Extreme Scale (US Department of Energy, Washington, DC, 
+2009)
+ 7.  B. Mandelbrot, Science 156, 636 (1967)
+ 8.  B.B. Mandelbrot, D.E. Passoja, A.J. Paullay, Nature 308, 721 (1984)
+ 9.  A.W. Bush, R.D. Gibson, T.R. Thomas, Wear 35, 87 (1975)
+ 10.  S. Hyun, L. Pei, J.-F. Molinari, M.O. Robbins, Phys. Rev. E 70, 026117 (2004)
+ 11.  B.N.J. Persson, J. Chem. Phys. 115, 3840 (2001)
+ 12.  B.N.J. Persson, E. Tosatti, J. Chem. Phys. 115, 5597 (2001)
+ 13.  P. Berthoud, T. Baumberger, Proc. R. Soc. A 454(1974), 1615 (1998)
+ 14.  S. Akarapu, T. Sharp, M.O. Robbins, Phys. Rev. Lett. 106, 204301 (2011)
+ 15.  C. Campañá, B.N.J. Persson, M.H. Müser, J. Phys. Condens. Matter. 23, 085001 
+(2011)
+ 16.  R. Pohrt, V.L. Popov, Phys. Rev. Lett. 108, 104301 (2012)
+ 17.  L. Pastewka, N. Prodanov, B. Lorenz, M.H. Müser, M.O. Robbins, B.N.J. Persson, 
+Phys. Rev. E 87, 062809 (2013)
+ 18.  J.R. Barber, Phys. Rev. E 87, 013203 (2013)
+ 19.  B. Gotsmann, M.A. Lantz, Nat. Mater. 12, 59 (2013)
+
+ 20.  L.I. Farfan-Cabrera, M. Tapia-Gaspar, J. Pérez-González, “Tribology of Polymer 
+Matrix Composites Within the Automotive Industry,” in Reference Module in Materials 
+Science and Materials Engineering (Elsevier, New York, 2021)
+ 21.  L. Binder, Elektrotechnik und Maschinenbau 30, 781 (1912)
+ 22.  J.A. Greenwood, J.B.P. Williamson, Proc. R. Soc. A 295, 300 (1966)
+ 23.  B.N.J. Persson, Phys. Rev. Lett. 87, 116101 (2001)
+ 24.  B.N.J. Persson, MRS Bull. 47(12) (2022)
+ 25.  M.H. Müser, L. Nicola, MRS Bull. 47(12) (2022)
+ 26.  S. Samavedi, A.R. Whittington, A.S. Goldstein, Acta Biomater. 9(9), 8037 (2013)
+ 27.  N.J. Hallab, K.J. Bundy, K. O’Connor, R.L. Moses, J.J. Jacobs, Tissue Eng. 7, 55 (2001)
+ 28.  V. Brunetti, G. Maiorano, L. Rizzello, B. Sorce, S. Sabella, R. Cingolani, P.P. Pompa, 
+Proc. Natl. Acad. Sci. U.S.A. 107, 6264 (2010)
+ 29.  H.L. Costa, F.J. Profito, X. Zhang, K.A. Thole, MRS Bull. 47(12) (2022)
+ 30.  B. Weber, J. Scheibert, M.P. de Boer, A. Dhinojwala, MRS Bull. 47(12) (2022)
+ 31.  M.D. Wilkinson, M. Dumontier, U.J. Aalbersberg, G. Appleton, M. Axton, A. Baak, 
+N. Blomberg, J.-W. Boiten, L. Bonino da Silva Santos, P.E. Bourne, J. Bouwman, A.J. 
+Brookes, T. Clark, M. Crosas, I. Dillo, O. Dumon, S. Edmunds, C.T. Evelo, R. Finkers, A. 
+Gonzalez-Beltran, A.J.G. Gray, P. Groth, C. Goble, J.S. Grethe, J. Heringa, P.A.C ’t Hoen, 
+R. Hooft, T. Kuhn, R. Kok, J. Kok, S.J. Lusher, M.E. Martone, A. Mons, A.L. Packer, B. 
+Persson, P. Rocca-Serra, M. Roos, R. van Schaik, S.-A. Sansone, E. Schultes, T. Seng-
+stag, T. Slater, G. Strawn, M.A. Swertz, M. Thompson, J. van der Lei, E. van Mulligen, J. 
+Velterop, A. Waagmeester, P. Wittenburg, K. Wolstencroft, J. Zhao, B. Mons, Sci. Data 3, 
+160018 (2016)
+ 32.  N.T. Garabedian, P.J. Schreiber, N. Brandt, P. Zschumme, I.L. Blatter, A. Dollmann, 
+C. Haug, D. Kümmel, Y. Li, F. Meyer, C.E. Morstein, J.S. Rau, M. Weber, J. Schneider, P. 
+Gumbsch, M. Selzer, C. Greiner, Sci Data 9, 315 (2022)
+ 33.  M.C. Röttger, A. Sanner, L.A. Thimons, T. Junge, A. Gujrati, J.M. Monti, W.G. 
+Nöhring, T.D.B. Jacobs, L. Pastewka, Surf. Topogr. Metrol. Prop. 10, 035032 (2022)
+ 34.  T.D.B. Jacobs, N. Miller, M.H. Müser, L. Pastewka, The surface-topography chal-
+lenge: Problem definition (2022). http:// arxiv. org/ abs/ 2206. 13384
+⃞
+
+Publisher’s note 
+Springer  Nature  remains  neutral  with  regard  to  jurisdictional  claims  in  published 
+maps and institutional affiliations.
+
+Tevis D.B. Jacobs  is a Whiteford Fellow and 
+associate  professor  in  the  Department  of 
+Mechanical Engineering and Materials Science 
+at the University of Pittsburgh. He received his 
+PhD  degree  and  completed  postdoctoral 
+research at the University of Pennsylvania, and 
+earned his MSc and MPhil degrees from Stan-
+ford University and Cambridge University, UK, 
+respectively. He received the National Science 
+Foundation CAREER Award and the Early Career 
+Award  from  the  Society  of  Tribologists  and 
+Lubrication Engineers. His research uncovers 
+the atomic-scale mechanisms governing the 
+properties of surfaces. Jacobs can be reached 
+by email at tjacobs@pitt.edu.
+
+Lars Pastewka  is a professor in the Department 
+of Microsystems Engineering at the University of 
+Freiburg,  Germany.  After  receiving  his  PhD 
+degree from the same university, he held a post-
+doctoral position at Johns Hopkins University and 
+headed a junior research group at Karlsruhe Insti-
+tute of Technology, Germany. He is the recipient of 
+Fulbright,  Marie  Skłodowska-Curie  and 
+Emmy Noether Awards and has received a Euro-
+pean Research Council Starting Grant. His research 
+uses computer simulations to study contact, adhe-
+sion, and friction. Pastewka can be reached by 
+email at lars.pastewka@imtek.uni-freiburg.de.
+
+1210     
+
+   MRS BULLETIN  •  VOLUME 47  •  DEcEMbEr 2022  •  mrs.org/bulletin
+
+

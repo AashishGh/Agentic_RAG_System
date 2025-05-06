@@ -1,0 +1,752 @@
+Les biofilms bactériens : leur importance en santé animale  
+et en santé publique
+
+Yannick D.N. Tremblay, Skander Hathroubi, Mario Jacques
+
+R é s u m é
+Les biofilms bactériens sont des amas structurés de cellules bactériennes enrobés d’une matrice polymérique et attachés à une surface. Le 
+biofilm protège les bactéries et leur permet de survivre dans des conditions environnementales hostiles. Les bactéries du biofilm peuvent 
+résister à la réponse immunitaire de l’hôte et sont beaucoup plus résistantes aux antibiotiques et aux désinfectants que les cellules bactériennes 
+planctoniques. La capacité de former un biofilm est maintenant reconnue comme une caractéristique propre à plusieurs microorganismes. 
+La présence de biofilms lors d’infections demande donc de nouvelles méthodes de prévention, de diagnostic et de traitement. De même, la 
+présence de biofilms sur des surfaces retrouvées à la ferme, à l’abattoir ou à l’usine de transformation affectera l’efficacité du protocole de 
+désinfection. De façon surprenante, la formation de biofilms chez les bactéries pathogènes des animaux et les bactéries zoonotiques est un sujet 
+relativement peu étudié. Ce bref compte rendu a pour objectif de sensibiliser les intervenants en santé animale à l’importance des biofilms.
+
+A b s t r a c t
+Bacterial biofilms are structured communities of bacterial cells enclosed in a self-produced polymer matrix that is attached to a 
+surface. Biofilms protect and allow bacteria to survive and thrive in hostile environments. Bacteria within biofilms can withstand 
+host  immune  responses,  and  are  much  less  susceptible  to  antibiotics  and  disinfectants  when  compared  to  their  planktonic 
+counterparts. The ability to form biofilms is now considered an attribute of many microorganisms. Diseases associated with 
+biofilms require novel methods for their prevention, diagnosis and treatment; this is largely due to the properties of biofilms. 
+Furthermore,  the  presence  of  biofilms  on  surfaces  found  at  farms,  slaughterhouses  or  food  processing  plants  will  have  an 
+impact on the efficacy of disinfection protocols. Surprisingly, biofilm formation by bacterial pathogens of veterinary or zoonotic 
+importance has received relatively little attention. The objective of this brief Review article is to bring awareness about the 
+importance of biofilms to animal health stakeholders.
+
+(Translated by the authors) 
+
+C a r a c t é r i s t i q u e s   d e s   b i o f i l m s
+
+Les  biofilms  bactériens  sont  généralement  définis  comme  des 
+agrégats de cellules bactériennes attachés à une surface et enrobés 
+d’une matrice polymérique (1–3) (Figure 1). Les bactéries peuvent 
+tout  aussi  bien  adhérer  à  une  surface  biotique  (e.g.  cellules  de  la 
+muqueuse) qu’à une surface abiotique (e.g. plancher ou équipement 
+à la ferme, à l’abattoir ou à l’usine de transformation). La formation 
+d’un biofilm se fait en plusieurs étapes selon un modèle bien établi 
+(Figure 2). La capacité de former un biofilm est maintenant reconnue 
+comme  une  caractéristique  propre  à  plusieurs  microorganismes. 
+On estime d’ailleurs que 80 % de la biomasse microbienne de notre 
+planète réside sous forme d’un biofilm (4).
+
+Les biofilms bactériens isolés de divers environnements partagent 
+des  caractéristiques  communes  (1–3) :  (i)  les  cellules  bactériennes 
+sont  retenues  ensemble  par  une  matrice  polymérique  composée 
+d’exopolysaccharides,  de  protéines  et  d’acides  nucléiques;  (ii)  le 
+
+développement  du  biofilm  survient  en  réponse  à  des  signaux 
+extracellulaires, soit présents dans l’environnement ou produits par 
+les cellules bactériennes; (iii) le biofilm protège les bactéries contre 
+le  système  immunitaire  de  l’hôte,  la  dessiccation  et  les  biocides 
+(antibiotiques  et  désinfectants).  Cette  dernière  caractéristique  est 
+particulièrement importante. La présence de biofilms pourra avoir 
+comme effet d’interférer avec un traitement adéquat de l’animal ou 
+une désinfection efficace des surfaces (1–6).
+
+É t a p e s   d e   l a   f o r m a t i o n 
+d ’ u n   b i o f i l m
+Tel  que  mentionné  précédemment,  la  formation  d’un  biofilm 
+est constituée de plusieurs étapes (Figure 2) (1–3). Le biofilm peut 
+se  former  très  rapidement,  en  quelques  heures;  un  bon  exemple 
+étant  la  plaque  dentaire.  Les  bactéries  doivent,  dans  un  premier 
+temps,  adhérer  à  une  surface  biotique  ou  abiotique.  Cette  étape 
+
+Réseau canadien de recherche sur la mammite bovine et la qualité du lait (Tremblay, Jacques); Centre de recherche en infectiologie porcine 
+(Tremblay, Hathroubi, Jacques); Faculté de médecine vétérinaire, Université de Montréal, St-Hyacinthe, Québec, Canada J2S 7C6.
+
+Adresser toute correspondance à Docteur Mario Jacques; téléphone : 450-773-8521 (poste 8348); fax : 450-778-8108; e-mail :  
+mario.jacques@umontreal.ca
+L’adresse actuelle de Dr Jacques est Faculté de médecine vétérinaire, Université de Montréal, 3200, rue Sicotte, St-Hyacinthe, Québec, Canada 
+J2S 7C6.
+
+Ce texte est dédié à la mémoire de J. William (Bill) Costerton; un ami et un mentor.
+
+110 
+110 
+
+The Canadian Journal of Veterinary Research 
+The Canadian Journal of Veterinary Research 
+
+2014;78:110–116
+2014;78:000–000
+
+Compte rendu Review Articlerequiert  généralement  la  présence  de  molécules  ou  de  structures 
+particulières à la surface de la bactérie (e.g. fimbriae, flagelle). Puis 
+les cellules bactériennes vont s’agglutiner, se multiplier et former des 
+microcolonies. Lors de l’étape de maturation du biofilm, les bactéries 
+synthétisent  un  exopolysaccharide  et  d’autres  constituants  de  la 
+matrice  polymérique.  Le  biofilm  mature  représente  une  structure 
+complexe et les bactéries de diverses régions du biofilm pourront 
+exprimer des gènes différents. L’étape finale de la formation d’un 
+biofilm est le détachement et la dispersion de cellules bactériennes 
+(7). Ces cellules ont la capacité d’adhérer à de nouvelles surfaces et 
+de reformer un biofilm. Le détachement des cellules peut être initié 
+par différents facteurs : des perturbations mécaniques (e.g. force de 
+cisaillement, abrasion), la dégradation enzymatique de la matrice 
+polymérique  (e.g.  dispersine  B),  la  dégradation  enzymatique  du 
+substrat  sur  lequel  le  biofilm  est  attaché  (e.g.  hyaluronidase), 
+l’induction  de  la  motilité,  la  production  d’agents  tensioactifs 
+(e.g.  rhamnolipides)  et  le  relâchement  de  l’exopolysaccharide.  Il 
+est bien connu que les bactéries réagissent à de multiples signaux 
+environnementaux  (e.g.  concentration  d’éléments  nutritifs)  ainsi 
+qu’à la densité de cellules bactériennes, phénomène mieux connu 
+sous  le  nom  de  quorum  sensing,  et  que  ceci  aura  une  influence 
+sur  les  différentes  étapes  de  la  formation  du  biofilm  (8).  Le 
+détachement et la dispersion de cellules bactériennes d’un biofilm 
+jouent  un  rôle  important  dans  la  transmission  de  bactéries  de 
+réservoirs environnementaux à un hôte (animal ou humain), dans 
+la transmission entre les hôtes et dans la propagation de l’infection 
+chez un hôte (7).
+
+C o m p o s i t i o n   d e   l a   m a t r i c e 
+d u   b i o f i l m
+La  matrice  du  biofilm  est  hautement  hydratée  et  peut  contenir 
+jusqu’à 97 % d’eau. Elle peut être constituée de polysaccharides, de 
+protéines, d’acides nucléiques, d’agents tensioactifs, de lipides, de 
+glycolipides et de cations (8, 9). La composition de la matrice varie 
+selon  l’espèce  bactérienne  et  les  conditions  de  croissance.  Un  des 
+exopolysaccharides le plus souvent retrouvés est un polymère de 
+b-1,6-N-acétyl-D-glucosamine (polyglucosamine, PGA ou PNAG). 
+On retrouve ce polymère chez plusieurs espèces bactériennes, dont 
+Escherichia  coli,  Staphylococcus  aureus  et  Staphylococcus  epidermidis, 
+Yersinia pestis, Bordetella spp. et Actinobacillus spp. La cellulose, un 
+polymère linéaire de glucose, est également retrouvée fréquemment 
+chez diverses espèces et genres bactériens, dont E. coli, Salmonella, 
+Enterobacter et Pseudomonas. Il existe plusieurs autres polysaccharides 
+dont le glucane chez Streptococcus mutans et l’alginate retrouvé chez 
+Pseudomonas.
+
+R é s i s t a n c e   d e s   b i o f i l m s   à 
+d i v e r s   a g e n t s   a n t i m i c r o b i e n s
+Les  biofilms  retrouvés  dans  des  environnements  naturels  ou 
+industriels  sont  résistants  aux  bactériophages,  aux  amibes  ainsi 
+qu’aux biocides utilisés dans les procédés industriels (1). Comme 
+indiqué  précédemment,  les  biofilms  permettent  aux  bactéries 
+pathogènes de résister à la réponse immunitaire de l’hôte. De plus, 
+
+Figure 1. Biofilm produit par une souche de Staphylococcus epidermidis 
+dans un système en microplaque. Image obtenue en microscopie confocale 
+suite à une coloration du biofilm à l’aide de FilmTracerTM FM® 1-43.
+
+les  bactéries  d’un  biofilm  sont  généralement  moins  sensibles  aux 
+antibiotiques  et  aux  désinfectants  que  ces  mêmes  bactéries  sous 
+forme planctonique. En fait, les bactéries d’un biofilm peuvent être 
+de 10 à 1000 fois plus résistantes aux agents antimicrobiens (10, 11). 
+Plusieurs  facteurs  peuvent  expliquer  la  plus  grande  résistance 
+(certains auteurs préfèrent plutôt parler d’une tolérance) des biofilms 
+aux agents antimicrobiens (2, 5, 11). Un de ces facteurs est la matrice 
+polymérique  qui  agit  comme  barrière  réduisant  ou  empêchant  la 
+diffusion des agents antimicrobiens. Les charges électrostatiques à la 
+surface de la matrice polymérique peuvent aussi lier certains agents 
+antimicrobiens.  Le  métabolisme  des  bactéries  d’un  biofilm  joue 
+également un rôle très important. Étant donné la faible concentration 
+de certains nutriments et le gradient en oxygène, certaines cellules 
+du biofilm seront peu actives métaboliquement et pourront même 
+être  sous  forme  dormante;  ces  cellules  bactériennes  dormantes 
+sont d’ailleurs probablement responsables d’une grande partie de 
+la  tolérance  associée  aux  biofilms  (12).  La  proximité  spatiale  des 
+bactéries  au  sein  d’un  biofilm  mature  favorise  probablement  le 
+transfert horizontal de gènes et l’augmentation de la résistance aux 
+antibiotiques.
+
+La  concentration  minimale  inhibitrice  (CMI)  demeure  la 
+mesure  de  référence  pour  déterminer  la  sensibilité  des  bactéries 
+planctoniques  à  divers  agents  antimicrobiens.  Cependant,  il  faut 
+être  conscient  qu’il  n’existe  pas  une  bonne  corrélation  entre  la 
+CMI  de  cultures  bactériennes  planctoniques  et  la  concentration 
+de l’agent antimicrobien requise pour éradiquer un biofilm (10). Il 
+est  maintenant  possible  de  déterminer  la  concentration  minimale 
+d’un  antibiotique  pouvant  éradiquer  un  biofilm  (ou  «minimal 
+biofilm eradication concentration», MBEC). En effet, un groupe de 
+chercheurs de l’University of Calgary a développé une technologie 
+
+2000;64:0–00 
+
+The Canadian Journal of Veterinary Research  111
+
+Figure 2. Étapes de la formation et de la dispersion d’un biofilm bactérien.
+
+permettant  de  déterminer  la  sensibilité  de  biofilms  à  divers 
+antibiotiques et désinfectants (13). L’appareil originalement connu 
+sous  le  nom  de  «Calgary  Biofilm  Device»  est  maintenant  appelé 
+«MBEC Assay» et est disponible commercialement (Innovotech inc., 
+Edmonton, AB). Son format de 96 puits, bien que ne reproduisant 
+évidemment pas à la perfection l’environnement normal d’un biofilm 
+ou  d’un  biofilm  formé  dans  une  cuve  à  flux  continu,  permet  le 
+criblage rapide d’agents antimicrobiens (seuls ou en combinaison). 
+Ces chercheurs ont été les premiers à démontrer une augmentation 
+de la résistance aux antibiotiques lors de la croissance sous forme 
+d’un  biofilm  d’une  vaste  gamme  de  bactéries  pathogènes  des 
+animaux (10).
+
+M o d è l e s   d e   l a b o r a t o i r e   p o u r
+l ’ é t u d e   d e s   b i o f i l m s
+Plusieurs  systèmes  sont  couramment  utilisés  afin  d’étudier  en 
+laboratoire la formation de biofilms (14). Les cuves à flux continu 
+(ou «flow cell») sont de petites chambres qui permettent la formation 
+
+d’un  biofilm  à  l’interface  solide-liquide  en  présence  d’une  force 
+de  cisaillement  et  d’un  apport  continu  d’éléments  nutritifs.  Ce 
+système reproduit assez bien les conditions auxquelles sont exposés 
+les  biofilms  dans  leur  environnement  naturel.  De  plus,  il  permet 
+de  visualiser  facilement  le  biofilm  sous  un  microscope  confocal. 
+Une  modification  apportée  au  système  permet  la  formation  d’un 
+biofilm  à  l’interface  air-liquide  en  présence  d’une  faible  force  de 
+cisaillement (15). Ce système (appelé «drip flow reactor») serait plus 
+représentatif de l’environnement des poumons et de la cavité orale. 
+Plus récemment, des systèmes de microfluidique ont été développés 
+et adaptés à l’étude des biofilms (16). Les biofilms peuvent également 
+être étudiés dans un système statique en microplaques de 96 puits 
+(17).  Ce  système  très  populaire  permet  la  formation  d’un  biofilm 
+à  l’interface  solide-liquide  et  le  criblage  à  haut  débit.  Le  Calgary 
+Biofilm  Device,  mentionné  à  la  section  précédente,  combine  les 
+caractéristiques  d’un  système  de  microplaques  à  96  puits  auquel 
+une force de cisaillement constante est appliquée (12). Finalement, la 
+pellicule qui se forme à l’interface air-liquide d’une culture en tube 
+représente un autre modèle d’étude des biofilms.
+
+112 
+
+The Canadian Journal of Veterinary Research 
+
+2000;64:0–00
+
+M o l é c u l e s   p o u v a n t   i n t e r f é r e r 
+a v e c   l a   f o r m a t i o n   d u   b i o f i l m
+Il existe différentes stratégies permettant d’inhiber la formation 
+du biofilm (4, 18–22). Celles-ci peuvent prévenir l’adhérence initiale 
+du microorganisme, prévenir la croissance microbienne, empêcher 
+la communication entre les cellules bactériennes, inhiber la synthèse 
+de  la  matrice  polymérique  ou  bien  dégrader  cette  matrice.  Le 
+criblage à haut débit de banques de composés chimiques (naturels 
+ou synthétiques) est utilisé afin d’identifier des produits capables 
+d’interférer avec la formation d’un biofilm ou capables de disperser 
+un  biofilm  existant  (4,  18).  Bien  que  la  plupart  de  ces  produits 
+antibiofilm  ne  tuent  pas  les  bactéries,  elles  peuvent  toutefois  les 
+rendre plus susceptibles à l’action des agents antimicrobiens ou à la 
+réponse immunitaire de l’hôte. La grande majorité de ces produits 
+est  toujours  au  stade  expérimental.  Nous  donnerons  ici  quelques 
+exemples démontrant la diversité des molécules antibiofilm et de 
+leurs cibles potentiels.
+
+Davies et Marques (23) ont identifié une petite molécule signal 
+(acide  cis-2-décénoïque)  produite  par  Pseudomonas  aeruginosa  et 
+capable  d’inhiber  le  développement  d’un  biofilm  et  d’induire  sa 
+dispersion. Cette molécule s’est également montrée efficace contre 
+des biofilms produits par d’autres bactéries à Gram-négatif, à Gram-
+positif et par des levures. Certains acides aminés D (dextrogyres) 
+produits par les bactéries (e.g. Bacillus) sont capables de disperser les 
+biofilms produits par différentes bactéries à Gram-positif et à Gram-
+négatif (24). Il a été récemment rapporté que certains polysaccharides 
+bactériens avaient la capacité d’inhiber la formation de biofilms chez 
+un vaste spectre de bactéries et de champignons (25).
+
+La  bromoageliferine,  molécule  d’origine  marine  de  la  famille 
+des 2-amino-imidazoles, a démontré une activité antibiofilm chez 
+P. aeruginosa et d’autres bactéries à Gram-négatif et à Gram-positif 
+(26).  Une  molécule  synthétique,  le  2-amino-imidazole/triazole 
+(ou  2-AIT),  a  démontré  une  activité  antibiofilm  chez  les  bactéries 
+à Gram-négatif et à Gram-positif ainsi qu’une activité synergique 
+avec  des  antibiotiques  traditionnels  (27).  Truchado  et  coll.  (28) 
+ont démontré que le miel de châtaignier contient un inhibiteur du 
+quorum  sensing  pouvant  réduire  la  formation  d’un  biofilm  chez 
+diverses bactéries à Gram-négatif. Une approche chémoinformatique 
+a  permis  à  Dürig  et  coll.  (29)  d’identifier  des  produits  naturels 
+d’origine végétale (acide ellagique, esculétine et fisétine) inhibant 
+la formation de biofilm chez S. aureus et Streptococcus dysgalactiae. 
+Les peptides cationiques antimicrobiens peuvent également affecter 
+la  formation  du  biofilm.  Par  exemple,  le  peptide  LL-37,  membre 
+de la famille des cathélicidines retrouvées chez les vertébrés, peut 
+inhiber  la  formation  d’un  biofilm  chez  Francisella  novicida  (30). 
+Notre laboratoire a démontré que de faibles concentrations de zinc 
+(e.g. ZnCl2) pouvaient inhiber la formation de biofilm chez diverses 
+bactéries pathogènes du porc (31, 32).
+
+Plusieurs  enzymes  se  sont  montrées  efficaces  à  dégrader  la 
+matrice polymérique du biofilm. Ainsi, l’alginate lyase est capable 
+de  dégrader  l’alginate  contenu  dans  la  matrice  du  biofilm  de 
+P.  aeruginosa  (33).  La  dispersine  B  est  une  enzyme  bactérienne 
+capable  de  dégrader  le  polymère  de  N-acétyl-glucosamine  de  la 
+matrice du biofilm de plusieurs espèces bactériennes dont S. aureus, 
+
+S. epidermidis et E. coli (34). La DNAse quant à elle peut hydrolyser 
+les acides désoxyribonucléiques contenus dans la matrice de certains 
+biofilms (35, 36). Les bactériophages produisent certaines enzymes 
+capables de dégrader les polysaccharides de la matrice du biofilm 
+et  provoquer  sa  dispersion  (37).  La  spécificité  des  bactériophages 
+pour un groupe de bactéries bien précis suggère par contre qu’un 
+cocktail  composé  de  plusieurs  bactériophages  soit  nécessaire  afin 
+d’être efficace.
+
+Finalement, l’interférence avec des signaux bactériens représentent 
+une approche privilégiée par plusieurs chercheurs. Par exemple, la 
+furanone (molécule extraite d’une algue marine) et des molécules 
+analogues  sont  capables  d’inhiber  le  quorum  sensing  et  donc 
+d’interférer  par  la  même  occasion  avec  la  formation/dispersion 
+du  biofilm  (38,  39).  Le  sulfathiazole  est  un  antibiotique  pouvant 
+interférer avec la biosynthèse de la molécule signal c-di-GMP jouant 
+un  rôle  important  dans  la  formation/dispersion  de  biofilm  chez 
+plusieurs espèces bactériennes (40).
+
+F o r m a t i o n   d e   b i o f i l m   c h e z 
+l e s   b a c t é r i e s   p a t h o g è n e s 
+d e s   a n i m a u x
+Plusieurs  espèces  et  genres  bactériens  causant  des  infections 
+chez  l’animal,  et  ayant  ou  non  un  potentiel  zoonotique,  sont 
+capables de former des biofilms (Tableau 1). L’espace limité nous 
+empêche d’inclure une liste exhaustive de références sur ces espèces 
+bactériennes mais le lecteur intéressé est invité à consulter un article 
+de synthèse récent sur le sujet (41). Mentionnons à titre d’exemple 
+que S. aureus est souvent impliqué dans les cas de mammite chez 
+la vache laitière, une maladie économiquement très importante. Il 
+est suggéré par plusieurs chercheurs que la formation d’un biofilm 
+favorise la persistance dans la glande mammaire tout en diminuant 
+l’efficacité  des  traitements  aux  antibiotiques  (42).  Plusieurs  gènes 
+impliqués dans la formation du biofilm ont été identifiés dont ceux 
+(gènes  icaADBC)  codant  pour  la  synthèse  de  l’exopolysaccharide 
+PGA de la matrice polymérique. La capacité de former un biofilm a 
+également été observée chez d’autres espèces pouvant causer une 
+mammite chez la vache laitière, dont S. epidermidis (un staphylocoque 
+à  coagulase  négative  ou  SCN)  et  Streptococcus  agalactiae.  Notre 
+laboratoire s’intéresse d’ailleurs à la formation de biofilms par les 
+SCN isolés du lait provenant de fermes canadiennes (Figure 1) (43). 
+Fait intéressant, plus les souches proviennent d’échantillons de lait 
+prélevés tardivement au cours de la lactation plus elles ont tendance 
+à  démontrer  une  grande  capacité  à  former  des  biofilms.  Nous 
+avons également observé que la croissance sous forme d’un biofilm 
+diminue de façon marquée (de 4 à 500 fois) l’efficacité d’antibiotiques 
+d’usage  courant  (pénicilline  G/novobiocine  et  ceftiofur)  chez 
+les  souches  de  CNS  que  nous  avons  testées  (Tremblay  YDN  et 
+M Jacques, données non-publiées).
+
+Plusieurs  espèces  bactériennes  intéressent  particulièrement 
+l’industrie  agroalimentaire  à  cause  de  leur  capacité  à  causer  des 
+infections ou des toxi-infections alimentaires chez l’homme (6, 44). 
+C’est le cas notamment des souches entérohémorragiques d’E. coli 
+O157:H7  dont  le  bœuf  est  le  principal  réservoir.  Plusieurs  de 
+ces  souches  sont  capables  de  former  des  biofilms  et  le  plasmide 
+
+2000;64:0–00 
+
+The Canadian Journal of Veterinary Research  113
+
+Tableau 1. Espèces et genres bactériens causant des infections 
+chez l’animal, ayant ou non un potentiel zoonotique, capables 
+de former des biofilms [adapté (41)]
+
+Actinobacillus pleuropneumoniae 
+Aeromonas hydrophila 
+Trueperella pyogenes 
+Bartonella henselae 
+Bordetella bronchiseptica 
+Bordetella parapertussis 
+Brucella melitensis 
+Burkholderia pseudomallei 
+Campylobacter coli 
+Campylobacter jejuni 
+Clostridium perfringens 
+Corynebacterium pseudotuberculosis 
+Corynebacterium renale 
+Enterococcus faecalis 
+Enterococcus faecium 
+Erysipelothrix rhusiopathiae 
+Escherichia coli 
+
+Francisella novicida
+Francisella tularensis
+groupe Bacillus cereus
+Haemophilus parasuis
+Histophilus somni
+Leptospira
+Listeria monocytogenes
+Mannheimia haemolytica
+Mycobacterium
+Mycoplasma
+Pasteurella multocida
+Pseudomonas aeruginosa
+Riemerella anatipestifer
+Salmonella
+Staphylococcus
+Streptococcus
+Yersinia
+
+pO157 semble y jouer un rôle essentiel (45). De plus, des souches 
+d’E.  coli  O157:H7  incapables  de  former  un  biofilm  peuvent  tout 
+de  même  s’associer  à  un  biofilm  produit  par  une  souche  non 
+pathogène d’E. coli et profiter ainsi de la protection fournie par le  
+biofilm (46).
+
+Listeria monocytogenes, agent de la listériose, est un microorganisme 
+pouvant survivre et croître dans diverses conditions environnementales 
+incluant  la  température  de  réfrigération,  un  pH  acide  et  une  haute 
+concentration  en  sel  (47).  Il  peut  être  isolé  d’aliments  crus  ou 
+transformés  (ex.  lait,  produits  laitiers,  viandes,  poissons  et  fruits 
+de  mer).  La  formation  d’un  biofilm  par  L.  monocytogenes  et  le  fait 
+que L. monocytogenes peut également se retrouver dans des biofilms 
+multi-espèces  (48)  compliquent  par  le  fait  même  les  procédures 
+de  désinfection.  Il  a  été  montré  que  l’hydrophobicité  de  la  surface 
+bactérienne (49) et la motilité due aux flagelles (50) sont tous les deux 
+importants  dans  le  développement  des  biofilms  chez  cette  espèce. 
+L’ADN semble être un composant important de la matrice du biofilm 
+(51).
+
+Les Campylobacter thermophiles, C. jejuni et C. coli, sont responsables 
+d’un  grand  nombre  d’infections  gastro-intestinales.  Ces  bactéries 
+peuvent former des biofilms et survivre sur les surfaces d’équipement 
+des usines de transformation (52). Ces bactéries peuvent également 
+former des biofilms dans les systèmes d’approvisionnement en eau à 
+la ferme (53). Ces biofilms peuvent représenter une source continue 
+de  contamination  des  animaux.  Ces  espèces  bactériennes  peuvent 
+également  s’incorporer  à  des  biofilms  existants  (54).  Les  flagelles 
+(53, 55) et le quorum sensing (53) semblent requis pour une formation 
+optimale du biofilm.
+
+Les salmonelles sont également capables de former des biofilms 
+sur une variété de surfaces (56). Les salmonelles d’un biofilm sont 
+plus  résistantes  à  l’action  des  désinfectants  que  les  salmonelles 
+planctoniques (57). Bien que les désinfectants puissent grandement 
+
+diminuer  le  nombre  de  cellules  viables  d’un  biofilm,  les  cellules 
+viables  restantes  représentent  une  source  problématique  de 
+contamination.  L’utilisation  du  Calgary  Biofilm  Device  a  permis 
+de  démontrer  une  plus  grande  résistance  des  salmonelles  face 
+à  plusieurs  antibiotiques  lors  d’une  croissance  sous  forme  d’un 
+biofilm (10).
+
+C o n c l u s i o n s   e t   p e r s p e c t i v e s
+Le  biofilm  semble  faciliter  la  survie  des  bactéries  pathogènes 
+dans  l’environnement  et  chez  leurs  hôtes.  Parce  que  les  bactéries 
+formant des biofilms ont des caractéristiques différentes des bactéries 
+planctoniques,  de  nouveaux  outils  et  de  nouvelles  approches 
+pour  la  prévention,  le  traitement  et  le  diagnostic  de  ces  bactéries 
+pathogènes  sont  requis.  L’impact  des  biofilms  en  santé  animale 
+et  en  santé  publique  est  très  évident.  La  formation  d’un  biofilm 
+peut  augmenter  la  résistance  aux  antibiotiques,  aux  désinfectants 
+et  à  la  réponse  immunitaire  de  l’hôte.  Le  cas  échéant,  ceci  aura 
+comme  effet  d’interférer  avec  un  traitement  adéquat  de  l’animal 
+ou une désinfection efficace à la ferme à l’abattoir ou à l’usine de 
+transformation.
+
+La vaccination contre les bactéries produisant des biofilms n’a pas 
+été évaluée de façon approfondie, mais des résultats prometteurs 
+ont été obtenus dans certains cas. Par exemple, un vaccin composé 
+de  cellules  inactivées  d’une  souche  de  S.  aureus  produisant  un 
+abondant  biofilm  induit  une  forte  production  d’anticorps  contre 
+le PGA et protège contre la mammite ovine et bovine (58, 59). De 
+même, un vaccin composé de cellules d’Aeromonas hydrophila sous 
+forme d’un biofilm induit une réponse immunitaire protectrice chez 
+le poisson (60).
+
+Le  développement  de  la  prochaine  génération  d’agents 
+antimicrobiens  devra  tenir  compte  de  la  synergie  possible  entre 
+deux antibiotiques, ou entre un antibiotique et une autre molécule 
+(ex.  biocide,  ion  métallique,  enzyme,  agent  tensioactif  ou  un 
+inhibiteur du quorum sensing) afin d’accroitre leur efficacité envers 
+les biofilms (11). Pour ce faire, il faudra également développer des 
+essais standardisés permettant d’évaluer ces synergies potentielles. 
+De même, l’efficacité des biocides/désinfectants devra être évaluée 
+contre des bactéries d’un biofilm et non plus uniquement contre des 
+cellules planctoniques. Considérant sont impact sur la santé animale 
+et  la  santé  publique,  la  persistance  de  gènes  de  résistance  aux 
+antibiotiques à l’intérieur des biofilms est un autre aspect important 
+qui ne peut être négligé. De plus, les bactéries ne forment que très 
+rarement  des  biofilms  composés  d’une  seule  espèce  bactérienne. 
+Certaines  bactéries  peuvent  aussi  s’incorporer  à  des  biofilms 
+existants.  Il  existe  d’ailleurs  des  exemples  bien  documentés  chez 
+L. monocytogenes et E. coli O157:H7. L’existence de biofilms multi-
+espèces amène d’ailleurs un niveau de complexité supplémentaire 
+à l’étude et au contrôle des biofilms.
+
+En  résumé,  il  nous  faut  effectuer  des  recherches  en  vue  de 
+développer  des  stratégies  pour  la  prévention  et  le  traitement  des 
+infections  chez  l’animal  en  tenant  compte  des  caractéristiques  du 
+biofilm. Des recherches sont également requises afin de développer 
+des procédures de désinfection permettant d’éliminer les biofilms à 
+la ferme, à l’abattoir ou à l’usine de transformation, car ces biofilms 
+représentent des réservoirs potentiels d’agents infectieux.
+
+114 
+
+The Canadian Journal of Veterinary Research 
+
+2000;64:0–00
+
+R e m e r c i e m e n t s
+Les travaux sur les biofilms réalisés dans le laboratoire de MJ sont 
+financés par le Conseil de recherches en sciences naturelles et en génie 
+(CRNSG), le Fonds de recherche du Québec — Nature et technologies 
+(FRQ-NT), le Conseil canadien de la santé porcine et la Grappe de 
+recherche  laitière  du  Canada.  Les  auteurs  tiennent  à  remercier  les 
+deux évaluateurs anonymes pour la pertinence de leurs commentaires.
+
+R é f é r e n c e s
+  1.  Costerton  JW,  Stewart  PS,  Greenberg  EP.  Bacterial  biofilms: 
+A  common  cause  of  persistent  infections.  Science  1999;284: 
+1318–1322.
+
+  2.  Hall-Stoodley  L,  Stoodley  P.  Evolving  concepts  in  biofilm 
+
+infections. Cell Microbiol 2009;11:1034–1043.
+
+  3.  Hall-Stoodley  L,  Costerton  JW,  Stoodley  P.  Bacterial  biofilms: 
+From the natural environment to infectious diseases. Nat Rev 
+Microbiol 2004;2:95–108.
+
+  4.  Richards  JJ,  Melander  C.  Controlling  bacterial  biofilms. 
+
+ChemBioChem 2009;10:2287–2294.
+
+  5.  Anderson  GG,  O’Toole  GA.  Innate  and  induced  resistance 
+mechanisms of bacterial biofilms. Curr Top Microbiol Immunol 
+2008;322:85–105.
+
+  6.  Van  Houdt  R,  Michiels  CW.  Biofilm  formation  and  the  food 
+industry, a focus on the bacterial outer surface. J Appl Microbiol 
+2010;109:1117–1131.
+
+  7.  Kaplan JB. Biofilm dispersal: Mechanisms, clinical implications, 
+and potential therapeutic uses. J Dent Res 2010;89:205–218.
+  8.  Karatan E, Watnick P. Signals, regulatory networks, and materials 
+that build and break bacterial biofilms. Microbiol Mol Biol Rev 
+2009;73:310–347.
+
+  9.  Flemming  H-C,  Wingender  J.  The  biofilm  matrix.  Nat  Rev 
+
+Microbiol 2010;8:623–633.
+
+10.  Olson  ME,  Ceri  H,  Morck  DW,  Buret  AG,  Read  RR.  Biofilm 
+bacteria: Formation and comparative susceptibility to antibiotics. 
+Can J Vet Res 2002;66:86–92.
+
+11.  Ceri  H,  Olson  ME,  Turner  RJ.  Needed,  new  paradigms  in 
+antibiotic  development.  Expert  Opin  Pharmacother  2010;11: 
+1233–1237.
+
+12.  Lewis K. Multidrug tolerance of biofilms and persister cells. Curr 
+
+Top Microbiol Immunol 2008;322:107–131.
+
+13.  Harrison  JJ,  Stremick  CA,  Turner  RJ,  Allan  ND,  Olson  ME, 
+Ceri  H.  Microtiter  susceptibility  testing  of  microbes  growing 
+on peg lids: A miniaturized biofilm model for high-throughput 
+screening. Nat Protoc 2010;5:1236–1254.
+
+14.  Coenye T, Nelis HJ. In vitro and in vivo model systems to study 
+microbial biofilm formation. J Microbiol Methods 2010;83:89–105.
+15.  Goeres DM, Hamilton MA, Beck NA, et al. A method for growing 
+a biofilm under low shear at the air-liquid interface using the 
+drip flow biofilm reactor. Nat Protoc 2009;4:783–788.
+
+16.  Benoit MR, Conant CG, Ionescu-Zanetti C, Schwartz M, Matin A. 
+New  device  for  high-throughput  viability  screening  of  flow 
+biofilms. Appl Environ Microbiol 2010;76:4136–4142.
+
+17.  Merritt JH, Kadouri DE, O’Toole GA. Growing and analyzing 
+static biofilms. Curr Protoc Microbiol 2005;00:1B.1.1-1B.1.17.
+
+18.  Landini  P,  Antoniani  D,  Burgess  JG,  Nijland  R.  Molecular 
+mechanisms of compounds affecting bacterial biofilm formation 
+and dispersal. Appl Microbiol Biotechnol 2010;86:813–823.
+19.  Rendueles O, Ghigo JM. Multi-species biofilms: How to avoid 
+unfriendly neighbors. FEMS Microbiol Rev 2012;36:972–989.
+20.  Lebeaux  D,  Ghigo  JM.  Infections  associées  aux  biofilms  — 
+Quelles  perspectives  thérapeutiques  issues  de  la  recherche 
+fondamentale? Med Sci (Paris) 2012;28:727–739.
+
+21.  Worthington RJ, Richards JJ, Melander C. Small molecule control 
+of bacterial biofilms. Org Biomol Chem 2012;10:7457–7474.
+22.  Yang L, Liu Y, Wu H, et al. Combating biofilms. FEMS Immunol 
+
+Med Microbiol 2012;65:146–157.
+
+23.  Davies DG, Marques CNH. A fatty acid messenger is responsible 
+for  inducing  dispersion  in  microbial  biofilms.  J  Bacteriol 
+2009;191:1393–1403.
+
+24.  Kolodkin-Gal I, Romero D, Cao S, Clardy J, Kolter R, Losick R. 
+D-amino  acids  trigger  biofilm  disassembly.  Science  2010;328: 
+627–629.
+
+25.  Rendueles O, Kaplan JB, Ghigo JM. Antibiofilm polysaccharides. 
+Environ Microbiol 2012;doi: 10.1111/j.1462-2920.2012.02810.x
+26.  Huigens  RW  III,  Ma  L,  Gambino  C,  et  al.  Control  of  bacterial 
+biofilms  with  marine  alkaloid  derivatives.  Mol  BioSyst  2008;4: 
+614–621.
+
+27.  Rogers SA, Huigens RW III, Cavanagh J, Melander C. Synergistic 
+effects between conventional antibiotics and 2-aminoimidazole-
+derived  antibiofilm  agents.  Antimicrob  Agents  Chemother 
+2010;54:2112–2118.
+
+28.  Truchado  P,  Gil-Izquierdo  A,  Tomás-Barberán  F,  Allende  A. 
+Inhibition  by  chestnut  honey  of  N-acyl-L-homoserine  lactones 
+and biofilm formation in Erwinia carotovora, Yersinia enterocolitica, 
+and Aeromonas hydrophila. J Agric Food Chem 2009;57:11186–11193.
+29.  Dürig  A,  Kouskoumvekaki  I,  Vejborg  RM,  Klemm  P. 
+Chemoinformatics-assisted  development  of  new  antibiofilm 
+compounds. Appl Microbiol Biotechnol 2010;87:309–317.
+
+30.  Amer  LS,  Bishop  BM,  van  Hoek  ML.  Antimicrobial  and 
+antibiofilm activity of cathelicidins and short, synthetic peptides 
+against  Francisella.  Biochem  Biophys  Res  Comm  2010;396: 
+246–251.
+
+31.  Labrie  J,  Pelletier-Jacques  G,  Deslandes  V,  et  al.  Effects  of 
+growth  conditions  on  biofilm  formation  by  Actinobacillus 
+pleuropneumoniae. Vet Res 2010;41:03.
+
+32.  Wu C, Labrie J, Tremblay YDN, Haine D, Mourez M, Jacques M. 
+Zinc  as  an  agent  for  the  prevention  of  biofilm  formation  by 
+pathogenic bacteria. J Appl Microbiol 2013;115:30–40.
+
+33.  Boyd  A,  Chakrabarty  AM.  Role  of  alginate  lyase  in  cell 
+detachment of Pseudomonas aeruginosa. Appl Environ Microbiol 
+1994;60:2355–2359.
+
+34.  Kerrigan  JE,  Ragunath  C,  Kandra  L,  et  al.  Modeling  and 
+biochemical  analysis  of  the  activity  of  antibiofilm  agent 
+Dispersin B. Acta Biol Hung 2008;59:439–451.
+
+35.  Whitchurch  CB,  Tolker-Nielsen  T,  Ragas  PC,  Mattick  JS. 
+Extracellular  DNA  required  for  bacterial  biofilm  formation. 
+Science 2002;295:1487.
+
+36.  Mann EE, Rice KC, Boles BR, et al. Modulation of eDNA release 
+and degradation affects Staphylococcus aureus biofilm maturation. 
+PLoS One 2009;4:e5822.
+
+2000;64:0–00 
+
+The Canadian Journal of Veterinary Research  115
+
+37.  Donlan RM. Preventing biofilms of clinically relevant organisms 
+
+using bacteriophage. Trends Microbiol 2009;17:66–72.
+
+38.  Hentzer  M,  Riedel  K,  Rasmussen  TB,  et  al.  Inhibition  of 
+quorum sensing in Pseudomonas aeruginosa biofilm bacteria by a 
+halogenated furanone compound. Microbiology 2002;148:87–102.
+39.  Müh U, Schuster M, Heim R, Singh A, Olson ER, Greenberg EP. 
+Novel  Pseudomonas  aeruginosa  quorum-sensing  inhibitors 
+identified in an ultra-high-throughput screen. Antimicrob Agents 
+Chemother 2006;50:3674–3679.
+
+40.  Antoniani  D,  Bocci  P,  Maciag  A,  Raffaelli  N,  Landini  P. 
+Monitoring of diguanylate cyclase activity and of cyclic-di-GMP 
+biosynthesis by whole-cell assays suitable for high-throughput 
+screening  of  biofilm  inhibitors.  Appl  Microbiol  Biotechnol 
+2010;85:1095–1104.
+
+41.  Jacques  M,  Aragon  V,  Tremblay  YDN.  Biofilm  formation  in 
+bacterial pathogens of veterinary importance. Anim Health Res 
+Rev 2010;11:97–121.
+
+42.  Melchior  MB.  Bovine  mastitis  and  biofilms.  In:  Percival  SL, 
+Knottenbelt DC, Cochrane CA, eds. Springer Series on Biofilms, 
+Vol. 6 Biofilms and Veterinary Medicine. New York: Springer, 
+2011:205–222.
+
+43.  Tremblay  YDN,  Lamarche  D,  Chever  P,  Haine  D,  Messier  S, 
+Jacques M. Characterization of the ability of coagulase-negative 
+staphylococci isolated from the milk of Canadian farms to form 
+biofilms. J Dairy Sci 2013;96:234–246.
+
+44.  Jacques M, Tremblay YDN. Les biofilms : s’en préoccupe-t-on 
+assez  dans  l’industrie  agroalimentaire?  Centre  québécois  de 
+valorisation des biotechnologies, Fiche BioTendance® 2010:BTD 
+10-7, www.cqvb.ca.
+
+45.  Puttamreddy  S,  Cornick  NA,  Minion  FC.  Genome-wide 
+transposon mutagenesis reveals a role for pO157 genes in biofilm 
+development in Escherichia coli O157:H7 EDL933. Infect Immun 
+2010;78:2377–2384.
+
+46.  Uhlich  GA,  Rogers  DP,  Mosier  DA.  Escherichia  coli  serotype 
+O157:H7 retention on solid surfaces and peroxide resistance is 
+enhanced by dual-strain biofilm formation. Foodborne Pathog 
+Dis 2010;7:935–943.
+
+47.  Gandhi M, Chikindas ML. Listeria: A foodborne pathogen that 
+knows how to survive. Int J Food Microbiol 2007;113:1–15.
+48.  Habimana  O,  Meyrand  M,  Meylheuc  T,  Kulakauskas  S, 
+Briandet  R.  Genetic  features  of  resident  biofilms  determine 
+attachment  of  Listeria  monocytogenes. Appl  Environ  Microbiol 
+2009;75:7814–7821.
+
+49.  Takahashi H, Suda T, Tanaka Y, Kimura B. Cellular hydrophobicity 
+of Listeria monocytogenes involves initial attachment and biofilm 
+
+formation on the surface of polyvinyl chloride. Lett Appl Microbiol 
+2010;50:618–625.
+
+50.  Todhanakasem T, Young GM. Loss of flagellum-based motility 
+by Listeria monocytogenes results in formation of hyperbiofilms. 
+J Bacteriol 2008;190:6030–6034.
+
+51.  Harmsen M, Lappann M, Knochel S, Molin S. Role of extracellular 
+DNA during biofilm formation by Listeria monocytogenes. Appl 
+Environ Microbiol 2010;76:2271–2279.
+
+52.  Peyrat  MB,  Soumet  C,  Maris  P,  Sanders  P.  Recovery  of 
+Campylobacter  jejuni  from  surfaces  of  poultry  slaughterhouses 
+after  cleaning  and  disinfection  procedures:  Analysis  of  a 
+potential source of carcass contamination. Int J Food Microbiol 
+2008;124:188–194.
+
+53.  Reeser  RJ,  Medler  RT,  Billington  SJ,  Jost  BH,  Joens  LA. 
+Characterization of Campylobacter jejuni biofilms under defined 
+growth conditions. Appl Environ Microbiol 2007;73:1908–1913.
+54.  Sulaeman S, Le Bihan G, Rossero A, Federighi M, Dé E, Tresse O. 
+Comparison between the biofilm initiation of Campylobacter jejuni 
+and Campylobacter coli strains to an inert surface using BioFilm 
+Ring Test. J Appl Microbiol 2010;108:1303–1312.
+
+55.  Moe  KK,  Mimura  J,  Ohnishi  T,  et  al.  The  mode  of  biofilm 
+formation on smooth surfaces by Campylobacter jejuni. J Vet Med 
+Sci 2010;72:411–416.
+
+56.  Jain  S,  Chen  J. Attachment  and  biofilm  formation  by  various 
+serotypes  of  Salmonella  as  influenced  by  cellulose  production 
+and thin aggregative fimbriae biosynthesis. J Food Prot 2007;70: 
+2473–2479.
+
+57.  Wong  HS,  Townsend  KM,  Fenwick  SG,  Trengove  RD, 
+O’Handley RM. Comparative susceptibility of planktonic and 
+3-day-old  Salmonella  Typhimurium  biofilms  to  disinfectants. 
+J Appl Microbiol 2010;108:2222–2228.
+
+58.  Pérez MM, Prenafeta A, Valle J, et al. Protection from Staphylococcus 
+aureus mastitis associated with poly-N-acetyl b-1,6 glucosamine 
+specific antibody production using biofilm-embedded bacteria. 
+Vaccine 2009;27:2379–2386.
+
+59.  Prenafeta  A,  March  R,  Foix  A,  Casals  I,  Costa  L.  Study  of 
+the  humoral  immunological  responses  after  vaccination  with 
+a  Staphylococcus  aureus  biofilm-embedded  bacterin  in  dairy 
+cows: possible role of the exopolysaccharide specific antibody 
+production in the protection from Staphylococcus aureus induced 
+mastitis. Vet Immunol Immunopathol 2010;134:208–217.
+
+60.  Nayak  DK,  Asha  A,  Shankar  KM,  Mohan  CV.  Evaluation  of 
+biofilm  of  Aeromonas  hydrophila  for  oral  vaccination  of  Clarias 
+batrachus — A carnivore model. Fish Shellfish Immunol 2004;16: 
+613–619.
+
+116 
+
+The Canadian Journal of Veterinary Research 
+
+2000;64:0–00
+
+

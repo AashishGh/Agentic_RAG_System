@@ -1,0 +1,7114 @@
+Inaoka et al. Journal of Biomedical Science           (2019) 26:45 
+https://doi.org/10.1186/s12929-019-0537-6
+
+R E V I E W
+
+Open Access
+
+Host-microbe interactions in the
+pathogenesis and clinical course
+of sarcoidosis
+Pleiades T. Inaoka1, Masato Shono2, Mishio Kamada2 and J. Luis Espinoza3*
+
+Abstract
+
+Sarcoidosis is a rare inflammatory disease characterized by the development of granulomas in various organs,
+especially in the lungs and lymph nodes. Clinics of the disease largely depends on the organ involved and may
+range from mild symptoms to life threatening manifestations. Over the last two decades, significant advances in the
+diagnosis, clinical assessment and treatment of sarcoidosis have been achieved, however, the precise etiology of
+this disease remains unknown. Current evidence suggests that, in genetically predisposed individuals, an excessive
+for the development of sarcoidosis. Epidemiological and
+immune response to unknown antigen/s is crucial
+microbiological studies suggest that, at least in a fraction of patients, microbes or their products may trigger the
+immune response leading to sarcoid granuloma formation. In this article, we discuss the scientific evidence on the
+interaction of microbes with immune cells that may be implicated in the immunopathogenesis of sarcoidosis, and
+highlight recent studies exploring potential implications of human microbiota in the pathogenesis and the clinical
+course of sarcoidosis.
+
+Keywords: Sarcoidosis, Granulomas, Microbiota, Dysbiosis, Autoimmune disease, Host-microbe interactions
+
+Background
+Sarcoidosis is a unique inflammatory disease characterized
+by the formation of non-caseating granulomas that can
+affect any body organ but most often affects the lungs and
+liver,
+lymph nodes and less commonly the skin, eyes,
+heart, and brain [3, 44]. Extensive research over the last 20
+years has contributed to improve the diagnosis and man-
+agement of this disease. However, despite important ad-
+vances in the understanding of the inflammatory process
+associated with sarcoidosis, its etiology still remains un-
+known. The fact that sarcoidosis can mimic many auto-
+immune disorders and/or may coexist with them, together
+with the amelioration of symptoms in response to cortico-
+steroids or immunosuppressive drugs, support the notion
+that an autoimmune reaction is a critical component on
+the pathogenesis of this disease [3, 11, 159].
+
+In addition, the existence of cases of familial sarcoidosis
+along with the observations that certain HLA loci and
+
+* Correspondence: luis@med.kindai.ac.jp
+3Department of Hematology and Rheumatology, Kindai University Faculty of
+Medicine, 377-2, Ohno-Higashi, Osaka-Sayama, Osaka 577-8502, Japan
+Full list of author information is available at the end of the article
+
+single nucleotide polymorphisms (SNPs)
+in non-HLA
+genes are associated with increased risk of sarcoidosis sug-
+gest that a genetic predisposition also plays a role in dis-
+ease pathogenesis [25, 60]. In addition, accumulating
+evidence indicate that certain microorganisms, especially
+Cutibacterium acne (C. acne) (previously known as propi-
+onibacterium acne) and mycobacterium tuberculosis
+(mTB) may be implicated in the development of sarcoid-
+osis, and thus various authors have proposed the possibil-
+ity of
+the standard
+treatment of this disease [7, 12, 19]. Moreover, given the
+structural similarities of certain mycobacterial proteins,
+especially heat shock proteins of mycobacterium tubercu-
+losis (mTB-hsp) with human heat shock proteins (HSPs),
+it has been proposed that the exposure to mycobacterial
+antigens, via either natural infection, or by vaccination
+with BCG, may trigger an autoimmune response leading
+to sarcoidosis, in genetically prone individuals [36].
+
+including antibiotics as part of
+
+With the development of advanced tools for microbe re-
+search, such as new generation sequencing (NGS) and the
+incorporation of more sophisticated methods form micro-
+biome research, it will be possible to determine whether
+
+© The Author(s). 2019 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0
+International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and
+reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to
+the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver
+(http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+
+Inaoka et al. Journal of Biomedical Science           (2019) 26:45 
+
+Page 2 of 19
+
+or not, there is a link between specific alterations in the
+composition of certain microbiota niches (namely dysbio-
+sis of the gut or dysbiosis of the lung microbiota) and the
+development or progression of sarcoidosis.
+
+In this article, we revise the scientific evidence on the
+potential role that host/microbe interplay may have in
+the pathogenesis of sarcoidosis. The clinical relevance of
+previous reports and ongoing clinical trials testing the
+therapeutic utility of antimicrobials for the management
+of this disease is also highlighted.
+
+Main text
+Epidemiology of sarcoidosis
+The incidence rate of sarcoidosis varies depending on
+the geographic region. For example, high incidence rates
+are reported in Northern European countries, such as
+Sweden and Iceland, with nearly 60 cases per 100,000
+population [44]. In Asians, the incidence rate is lower,
+being 1.3 and 2.17 per 100,000 in Japan and Taiwan re-
+spectively [131, 159]. In the United States, high inci-
+dence in Afro-Americans has been reported (35.5 per
+100,000), which contrasts with a lower incidence (10.9
+per 100,000) in their Caucasian counterparts [3, 119].
+Interestingly, relatively high incidence rates (16.9 per
+100,000 per year) have also been documented in African
+descendants living in certain European countries [45],
+however, a study examining the occurrence of sarcoid-
+osis in African descendants living in the Caribbeans, re-
+incidence (2.3 per 100,000).
+ported a much lower
+Although such a lower incidence rate observed in Afro
+Caribbeans could be due to the most rigorous inclusion
+criteria utilized in that study, which required a positive
+biopsy to consider a case to be positive [23], the lower
+incidence in the Afro Caribbeans may indeed indicate
+that geographic and environmental factors are also im-
+plicated in the pathogenesis of the disease.
+
+Sarcoidosis more commonly occurs in people younger
+than 40, with a peak in the age-group from 25 to 40
+years, but the disease has been diagnosed in people of all
+ages [3]. Intriguingly, the occurrence of this disease in
+seasonal clustering has been observed in certain regions
+of the world. For example, in Japan most cases are diag-
+nosed during June and July. In Spain, half of the cases
+occur between April and June, and about 70% of cases
+confirmed in Greece occur between March and May and
+lower incidence of the disease during the autumn was
+reported in specific population of
+the United States
+[152]. These apparent “seasonal sarcoidosis” could be re-
+lated to specific seasonal changes in weather, however
+the seasonal pattern of certain infectious diseases occur-
+rence also points on the possibility that infection with
+certain microbes may be implicated [57].
+
+the disease is more likely to be a chronic and severe dis-
+order involving several organs that can lead to death
+[102]. Erythema nodosum (an acute, nodular, erythema-
+tous eruption that usually is limited to the extensor as-
+pects of the lower legs) occurs frequently in young female
+Caucasians, especially from Scandinavian countries [44]
+and Löfgren syndrome (an acute form of sarcoidosis char-
+acterized by erythema nodosum, bilateral hilar lymph-
+adenopathy, and polyarthralgia or polyarthritis) is more
+likely to occur in Scandinavians and in patients from
+Spain [100]. On the other hand, sarcoidosis with ocular in-
+volvement and cardiac features is more likely to occur in
+Japanese individuals [44].
+
+Clinics of sarcoidosis
+Since sarcoidosis is a multisystem inflammatory disease,
+symptoms largely depend on the organs affected [12]
+(Table 1). Strikingly, between 30 to 60% of individuals af-
+fected are entirely asymptomatic and the disease is discov-
+checkups.
+chance during routine medical
+ered by
+Symptoms, when occur, tend to be non-specific and may
+include fatigue, anorexia, lack of energy and arthralgia that
+may mimic a variety of conditions such as malignancies,
+autoimmune disorders or chronic infections [16, 20, 100].
+Pulmonary involvement, which is the most frequent
+form of the disease, may present with cough and short-
+ness of breath and less commonly hemoptysis [15, 84].
+The second most commonly affected organ is the skin
+and may present with variable rash, papules or with the
+typical bump nodules of erythema nodosum [9, 67]. In
+individuals with eye involvement, symptoms may include
+dry eyes, blurry vision and red eye [67].
+
+Except for Japanese individuals, in whom cardiac sar-
+coidosis is a common manifestation of this disease, heart
+affectation has been considered a rare phenomenon [73].
+However, recent publications suggest that cardiac sar-
+coidosis is more common than previously reported with
+most patients unaware of its presence [86]. Clinically, car-
+diac sarcoidosis may present with severe dysrhythmias,
+such as tachycardia or heart block, both of which can be
+fatal [63, 161]. Less commonly, patients with cardiac sar-
+coidosis present pericardial effusion or other structural le-
+sions such as granuloma formation and fibrosis, leading to
+mechanical dysfunction of the heart [63].
+
+Furthermore, sarcoidosis can cause a wide variety of
+musculoskeletal complaints affecting the bones, joints, or
+muscles with joint involvement manifested as acute or
+chronic arthritis [109, 137]. Curiously, in Japanese individ-
+uals, enlargement of spleen has also reported in a consid-
+erable number of patients with sarcoidosis, which was
+linked to a specific genetic background [129].
+
+Disease severity and clinical manifestations also show
+certain racial patterns. For instance, in African Americans
+
+Finally, Sarcoidosis affecting the nervous system (neuro-
+sarcoidosis) is a rare condition that can manifest as a
+
+Inaoka et al. Journal of Biomedical Science           (2019) 26:45 
+
+Page 3 of 19
+
+Table 1 Demographic characteristics and main clinical features
+of Sarcoidosis
+
+Demographic data
+
+Main characteristics
+
+Reference
+
+Gender
+
+No predominance
+
+Age at onset (years)
+
+Ethnicity
+
+Clinical findings
+
+Constitutional
+manifestations
+
+Pulmonary
+Sarcoidosis
+
+Skin sarcoidosis
+
+Löfgren syndrome
+
+Ocular sarcoidosis
+
+Musculoskeletal
+
+Cardiac sarcoidosis
+
+Neurosarcoidosis
+
+[3]
+
+([3]; [15])
+
+Any age
+Peaks at 25~40 years.
+Nearly 30% of cases
+in older
+than 60
+
+More common in northern
+Europeans (60 per 100,000).
+Less common in Asians
+(1.3–2.17 per 100,000)
+In the USA
+(35.5 per 100,000 in Afro-Americans
+10.9 per 100,000 in Caucasians)
+
+([15]; [86]; [102];
+[109])
+
+([15]; [84]; [102])
+
+([44]; [67])
+
+[87, 100]
+
+([70]; [115])
+
+Asymptomatic (30~60%
+of cases)
+Malaise, Fever, Anorexia,
+weight loss
+
+At least 90% of affected
+individuals
+have lung involvement
+-Most patients are asymptomatic.
+-Primarily manifests as hilar or
+mediastinal adenopathy
+-Some patients present with
+interstitial lung disease
+-Fibrosis of the lung (20%
+of patients)
+-Pulmonary hypertension
+(in 5% of cases)
+
+Skin lesions (found in 20~35% of
+patients) and can cause:
+Rash,
+papules or
+Erythema nodosum
+
+Occurs more often in
+Scandinavian.
+Fever, Enlarged lymph nodes,
+Arthritis and erythema nodosum
+
+Can affect any part of the eye
+and may cause: Uveitis, Scleritis,
+Conjunctival-granuloma,
+Eyelid abnormalities, Optic
+neuropathy, lacrimal gland
+enlargement and orbital
+inflammation
+
+Infrequent May cause:
+Nonspecific arthralgia, Polyarthritis
+(acute or chronic)
+Sarcoid myopathy (muscle weakness,
+muscle pain, or muscle nodules)
+
+[109]
+
+([63]; [86]; [132])
+
+[79]
+
+Infrequent.
+Most commonly manifests with
+arrhythmias
+(tachycardia or heart block).
+Less commonly:
+Pericardial effusion or
+myocardial
+granulomas leading to
+cardiac fibrosis
+
+Not well characterized due
+to its rarity.
+Patients may present with:
+Intracranial or spinal mass
+lesions
+Optic neuritis
+Facial mononeuropathies
+Myopathy and peripheral
+neuropathy
+
+space-occupying lesion in the central nervous system or as
+peripheral neuropathies [79, 125, 162].
+
+Findings in conventional Chest X-rays may be the first
+clue that suggest the diagnosis of sarcoidosis, which is
+complemented with more advanced imaging techniques
+such as high resolution CT scan (HRCT) and magnetic
+resonance (MRI) imaging.
+
+tomography
+
+In addition, 18F-fluorodeoxyglucose positron emission
+tomography–computed
+(FDG-PET/CT)
+scan has become an extremely useful technique not only
+for the diagnosis of sarcoidosis but also for evaluating
+treatment response [62, 84, 100], however the high cost
+of FDG-PET/CT scan is an important limitation for its
+utilization as a standard approach for monitoring patient
+response to therapy.
+
+In patients with lung involvement, pulmonary function
+tests are useful to assess lung functioning and bronchos-
+copy for bronchial inspection and biopsy extraction are
+frequently utilized. The development of ultrasound im-
+aging coupled with bronchoscopy has improved the
+diagnosis of pulmonary sarcoidosis as it increases the
+yield of tissue aspiration of hilar and/or mediastinal
+lymph nodes [84].
+
+According to the inclusion criteria from the American
+Thoracic Society/European Respiratory Society/World
+Association of Sarcoidosis and other Granulomatous
+Disorders (ATS/ERS/WASOG), there are three criteria
+for diagnosis sarcoidosis: (1) a compatible clinical and
+radiologic presentation, (2) pathologic evidence of typ-
+ical lesions in more than one organ, and (3) exclusion of
+other diseases known to cause granulomatous disease.
+However, since the clinical presentation of sarcoidosis is
+quite variable and there is not a single diagnostic test or
+procedure to definitely diagnosis sarcoidosis,
+in many
+cases the diagnosis of this disease is challenging [74]. Re-
+cently, Bickett et al. reported the development of quanti-
+tative diagnostic criteria for sarcoidosis. This approach
+combines biopsy findings in granulomas (SDS biopsy
+score) and clinical
+features (SDS clinical score). Al-
+though this study included patients from a single center,
+the SDS score performed well (specificity of > 95%) as a
+diagnostic test for sarcoidosis [14], and thus this score
+may be a “first step in making the diagnosis of sarcoid-
+osis significantly less arbitrary”[84]. Further analyses,
+ideally conducted across several institutions are required
+to determine the diagnostic utility of this score.
+
+A recently study that included 2163 Caucasian patients
+with sarcoidosis who were evaluated at 31 study centers in
+Europe, revealed that patients with acute onset were mainly
+female, young and presented with scadding type I or II.
+High frequency of eye and skin involvement along with fa-
+tigue were also frequently observed in female patients.
+More importantly, according to the predominant organs af-
+fected, patients could be consistently stratified into five
+
+Inaoka et al. Journal of Biomedical Science           (2019) 26:45 
+
+Page 4 of 19
+
+distinct subgroups: 1) abdominal organ involvement, 2)
+ocular–cardiac–cutaneous–central nervous system disease
+involvement, 3) musculoskeletal–cutaneous involvement,
+4) pulmonary and intrathoracic lymph node involvement,
+and 5) extrapulmonary involvement [135]. In addition to its
+utility for stratifying homogenous and well-defined sub-
+groups of sarcoidosis patients, these findings are very useful
+to direct new studies aimed to identify potential links be-
+tween specific genotypes with disease phenotypes. This is
+particularly important considering that a genetic predispos-
+ition appears to play important roles in the development
+and clinical course of sarcoidosis.
+
+Treatment recommendations for patients with sarcoid-
+osis will not be reviewed in this article, however, it is im-
+portant
+to mention that since spontaneous resolution
+frequently occurs, many patients with pulmonary disease
+do not require any specific treatment and can be monitored
+over a period of time [10]. In those requiring treatment,
+oral corticosteroids, such as prednisone or prednisolone, re-
+main the first line therapy in both, acute and chronic sar-
+coidosis and in most cases the disease is very responsive,
+however, there are no standard protocols for corticosteroid
+dose or duration of treatment and long-term exposure to
+these agents is associated with substantial morbidity [83].
+
+In patients who do not respond to corticosteroids,
+more potent immunosuppressant drugs such as metho-
+trexate, azathioprine and mycophenolate may be re-
+quired, although due to the considerable secondary
+effects associated with the long-term use of these drugs,
+patients need to be carefully monitored [10, 126].
+
+In addition, biological agents,
+
+including anti-TNF-α
+monoclonal antibodies (infliximab) and anti-CD20 mono-
+clonal antibodies (rituximab) have shown promising thera-
+peutic potential in select group of patients, especially in
+those with severe or refractory sarcoidosis, [1, 83, 126].
+
+Recently the Innate Repair Receptor (IRR) activator
+ARA 290, has been designed an orphan drug for the
+treatment of sarcoidosis by the U.S. Food and Drug Ad-
+ministration (FDA) and the European Union and was
+granted as Fast Track designation by the FDA for the
+treatment of painful small fiber neuropathy in patients
+with sarcoidosis. ARA290 has been evaluated in patients
+with small fiber neuropathy associated with sarcoidosis
+or type 2 diabetes mellitus. In the sarcoidosis group,
+ARA290 improved quality of life and significantly ame-
+liorated neuropathic and autonomic symptoms and thus
+ARA290 will be useful for ameliorating pain associated
+with this form of sarcoidosis [28, 155].
+
+Pathogenesis of sarcoidosis: the autoimmune theory
+As mentioned above, the key pathogenic component of
+sarcoidosis is the development of noncaseating granu-
+lomas that can arise in different organs. Current evidence
+suggests that a combination of genetic predisposition and
+
+environmental conditions play a central role in the exces-
+sive immune reaction leading to the development of sar-
+coidosis [54, 125]. Granulomas constitute an excessive
+immune response aimed to control or eliminate an unchar-
+acterized antigen. Proposed candidate antigens include vari-
+ous microorganisms or their products, inorganic particulate
+matters, metal particles or unknown environmental contam-
+inants and due to the predominance of lung involvement,
+antigens are believed to enter the body via the respiratory
+system within airdrops or microparticles [35, 91].
+
+Histologically, sarcoidal granulomas are character-
+ized by the presence of centrally organized collections
+of epithelioid histiocytes and macrophages surrounded
+by giant cells and lymphocytes, mostly Th1 lympho-
+cytes, and a rim of fibrosis [21, 91]. Unlike infectious
+granulomas, such as those associated with mTB,
+in
+sarcoidal granulomas, necrosis is uncommonly seen,
+which defines its non-caseating nature [21, 147]. Al-
+though not specific to sarcoidosis, Schaumann bodies
+(within the cytoplasm of multinucleated cells) and as-
+teroid bodies (star shaped cytoplasmic inclusions) are
+frequently seen [122].
+
+The immune signature of sarcoidosis is the excessive
+immune response mediated by CD4+ type 1 helper-like
+cells (Th1-cells), including hyperactivation of Th1-cells
+and increased levels of Th1 cytokines (Fig. 1). Based on
+studies using bronchoalveolar lavage fluids (BALF) sam-
+ples, it has been documented that in patients with pul-
+is
+monary sarcoidosis,
+characterized by a Th1/Th2 imbalance in which Th1-
+related cytokines, such as interleukin-2 (IL-2), IL-12,
+interferon-γ (IFN-γ), and tumor necrosis factor α (TNF-
+α) promote a persistent inflammatory response in the af-
+fected tissues [29]. For example, both IL-2 and IFN-γ are
+potent inducer of T cell proliferation and TNF-α pro-
+motes the differentiation of macrophages into giant cells
+and contributes to granuloma formation [164].
+
+the local microenvironment
+
+Another subset of CD4T-lymphocytes, involvement in
+granuloma induction or maintenance in sarcoidosis are
+Th17 cells, as documented by the elevated numbers of
+IL-17, IL-22 and IFN-γ secreting CD4T-lymphocytes
+found in the blood of patients with sarcoidosis, as well
+as an increased proportion of Th17 cells, located in and
+around sarcoidal granulomas [127, 144, 151]. These find-
+ings indicate that Th17 cells are pathogenic in sarcoid-
+osis and suggest that the inhibition of both Th1/Th17
+pathways may be required to achieve therapeutic efficacy
+in sarcoidosis patients [66].
+
+Regulatory cells (Treg cells), which are defined as
+CD4+CD25brightFoxP3+ have been also implicated in the
+pathogenesis of sarcoidosis. Treg cells are a subset of lym-
+phocytes that inhibit autoimmune reactions by controlling
+the proliferation of CD4+ and CD8+ T lymphocytes via se-
+cretion of immunosuppressive cytokines such as interleukin
+
+Inaoka et al. Journal of Biomedical Science           (2019) 26:45 
+
+Page 5 of 19
+
+10 (IL-10) and transforming growth factor β (TGF-β) or
+through mechanisms dependent on cell contact via the
+CD25 molecules constitutively expressed on their surfaces
+[127]. High number of Treg cells are frequently found in
+lymph nodes and in BALF of patients with sarcoidosis and
+accumulate at the periphery of sarcoid granulomas. Not-
+ably, although these cells exhibit powerful antiproliferative
+activity, they fail to completely inhibit TNF-α production
+[29] likely due their increased apoptotic susceptibility [18].
+Contrary to the local dysfunction of granuloma associated
+
+Treg cells, increased circulating Treg cells have been docu-
+mented in the blood of patients with sarcoidosis, which
+may explain the apparent immune anergy frequently ob-
+served in these patients. Experimental studies have shown
+that Treg depletion accelerates in vitro granuloma growth
+in mononuclear cell cultures of healthy controls, but not in
+those from patients with active sarcoidosis indicating that,
+although healthy Tregs suppress the initial steps of granu-
+loma formation, they have no positive influence on sarcoid-
+osis lesions [142]. Notably, a significant increase in the
+
+Fig. 1 Legend of the figure. A schematic model for granuloma formation. a Dendritic cells pick up the initiating antigen (likely an environmental
+airborne antigen or a microbe) and migrate toward lymph nodes, where they interact with appropriate T cells, promoting the differentiation and
+clonal expansion of T helper (Th)1 and 17 cells. Activated Th1 and Th17 cells promote an inflammatory response via the release of cytokines such
+as interferon γ (INF-γ), interleukin 2 (IL-2) and IL-17 contributing to granuloma formation. b Microbes, such as mycobacteria or C. acnes, may
+directly infect monocytes or macrophages, which fail to properly eliminate the infection and in turn differentiate into giant cells or epithelioid
+cells. Simultaneously, giant cells or epithelioid cells produce tumor necrosis factor-α (TNF-α), which promotes the formation and maintenance of
+sarcoid granulomas. In addition, by secreting MCP-1 and CXCL10 chemokines, macrophages attract Th1/17 cells, monocytes, regulatory T cells
+(Tregs). These Tregs fail to control the inflammatory response and secrete transforming grow factor β (TGF- β) that may contribute to fibrosis and
+granuloma organization (c) An altered composition of the microbiota (dysbiosis) of the gut or lungs may act as a source of microbes that secrete
+pathogen-associated molecular patterns (PAMPs), which may activate immune cells of the innate system, such as monocytes or eosinophils, by
+interacting with pathogen recognition receptors (PRRs) like toll-like receptors (TLRs) and in the presence of sustained activation, it may further
+promote the generation of giant cells and epithelioid cells from macrophages and thereby contribute to granuloma formation via the secretion
+of cytokines such as IL-6, IL-12, IL-18, and TNF-α
+
+Inaoka et al. Journal of Biomedical Science           (2019) 26:45 
+
+Page 6 of 19
+
+Th17/Treg cell ratio has been reported in sarcoidosis pa-
+tients [78], which is consistent with other studies reporting
+that in patients with pulmonary sarcoidosis in relapse after
+corticosteroid withdrawal, a significant increase in circulat-
+ing Th17 cell along with a concomitant decrease in Treg
+cell has been documented [95]. Interestingly, a recent
+study that analyzed samples from airways obtained by
+BAF, Tregs from the lung of sarcoidosis patients were
+characterized by expressing high levels of the receptor
+CD278 on their surface and such a CD278 expressing
+Tregs cells were restricted to the inflamed lungs and were
+absent in blood Tregs of sarcoidosis patients as well as in
+lung and blood Tregs of healthy volunteers. Strikingly,
+CD278 expression was particularly high on Tregs derived
+from the lungs of Löfgren’s syndrome patients who
+present with acute disease and that often resolves spon-
+taneously [128] indicating that CD278 may be a marker of
+disease activity and could be considered a biomarker for
+the prognosis of sarcoidosis.
+
+Pathogenesis of sarcoidosis: genetics and environmental
+factors
+The appearance of familiarly clustered cases of sarcoid-
+osis and the racial differences in disease incidence and
+clinical progression support a possible link of genetics
+with the development of this disease [104, 116, 154].
+These observations are substantiated by the findings of a
+large study recently conducted in Sweden that included
+23 880 individuals with sarcoidosis assessed between1964
+to 2013 and matched (10:1) to general population con-
+trols. A heritable link was tracked in 39% of cases (95%
+CI 12–65) analyzed and having ≥1 first degree relative
+with sarcoidosis was associated with a 3.7-fold increase
+in the risk for sarcoidosis (95% CI 3.4–4.1) and the risk
+increased in those with ≥2 relatives (RR 4.7) and in Löfg-
+ren’s syndrome (RR 4.1) [123].
+
+The most strongly and consistently associated risk fac-
+tor for sarcoidosis is the major histocompatibility com-
+plex (MHC) region, comprising of HLA class I (HLA-A,
+−B, and -C) and class II (HLA-DP, −DQ, and -DR)
+genes, being HLA class II variants, particularly HLA-
+DRB1 and DQB1 the alleles most prevalently reported in
+association with sarcoidosis [60, 158]. For example,
+B1*0301/DQB1*0201 is strongly linked with Löfgren’s
+syndrome and it predicts good prognosis in various pop-
+ulations [71]. A decreased risk of sarcoidosis has been
+reported in individuals carrying the HLA class II allele
+HLA-DRB1∗01/∗04 (Fingerlin, Hamzeh and Maier, 2015;
+[104, 130]). Individuals with the allele HLA-DRB1∗14:01
+more likely develop a chronic disease [60, 61, 123], and
+those with HLA-DRB1*03:01-DRB3*01:01are more likely
+to have pulmonary sarcoidosis [90, 158].
+
+On the other hand, SNPs in non-HLA genes, including
+CCR2, CCR5, IL1A, IL23R, TNF-α and NOD2, FCGR,
+
+have been also reported in association with the disease
+[61, 121, 139]. It must be noted, however, that many of
+these gene-association studies were conducted in single
+populations where allele frequencies in sarcoidosis pa-
+tients were compared with healthy control
+individuals
+and most of those studies did not include a confirmatory
+cohort. Not surprisingly, only a few of the reported gene
+associations have been consistently validated across dis-
+tinct populations (Fingerlin, Hamzeh and Maier, 2015).
+Interestingly, genetic variants in TNFα gene, as a sus-
+ceptibility factor for sarcoidosis, have been replicated
+across populations in various studies (Fingerlin, Hamzeh
+and Maier, 2015; [104]) and some of them have been
+also verified in meta-analyses [59, 138].
+
+Despite that numerous genetic risk factors in associ-
+ation with sarcoidosis have been identified, in the major-
+ity of cases, the biologic functions of specific variants
+and their precise interaction with environmental expo-
+sures remain unknown. The use of new generation se-
+quencing based HLA typing will be helpful to identify
+potential new associations and to elucidate the specific
+contribution of particular gene variants, especially within
+the HLA region, to disease susceptibility and may pro-
+vide new insights on the pathogenesis of this disease.
+
+and moldy
+
+Sarcoidosis has been also linked with certain environ-
+ments factors such as exposure to inorganic particles, in-
+secticides,
+environments. Occupational
+studies have also found an increased risk of sarcoidosis
+among metalworkers and fire fighters [110]. In a recent
+epidemiological study, significantly elevated rates of this
+disease were observed among workers that responded to
+the world trade center terror attack in 2001. The in-
+creased risk was observed among workers at all exposure
+levels [157], suggesting that nanoparticles or metal and
+chemicals fumes likely derived from the occupational
+domain or other environmental contaminant may act as
+important triggers of this disease.
+
+Furthermore, tattoos-induced sarcoidosis has been de-
+scribed in the literature, and although the etiology of this
+phenomenon is unknown, it has been attributed to an ex-
+cessive immune reaction against pigment particles, in gen-
+etically predisposed individuals. Notably, the sarcoidal
+granulomas, contain pigment particles, pigment laden
+macrophages and polarizing material and some patients
+may develop symptoms of pulmonary sarcoidosis [118].
+
+In line with these observations, it has been proposed
+that sarcoid formation may occur in the context of infec-
+tious and non-infectious causes, depending on the genetic
+background of the host. In this model, the exposure to
+certain microorganisms expressing microbial hsps or
+pathogen-associated molecular patterns (PAMPs), which
+are sensed by immune cells via pattern recognition recep-
+tors (PRR), may generate an increased and persistent re-
+lease of both human HSPs and microbial hsp. Given the
+
+Inaoka et al. Journal of Biomedical Science           (2019) 26:45 
+
+Page 7 of 19
+
+high homology of mycobacterial hsp, particularly myco-
+bacterium tuberculosis hsp (mTB-hsp) and HSP, this may
+lead to an excessive immune response that ultimately may
+cause sarcoidosis. On the other hand, in non-infectious
+causes of sarcoidosis, the persistent exposure to an array
+of damaging factors such as phagocyted metal fumes, pig-
+ments and other chemicals may result in the release of
+(DAMPs), also
+damage-associated molecular patterns
+known as danger-associated molecular patterns, which are
+host biomolecules capable of initiating and perpetuating a
+noninfectious inflammatory response [37].
+
+Intriguingly, patients with sarcoidosis have increased
+risk of developing lymphomas, a condition that has been
+called sarcoidosis-lymphoma syndrome, with sarcoidosis
+preceding lymphoma in most cases, though sarcoidosis
+following lymphoma has been also reported [96] and
+sarcoidosis or sarcoid-like granulomas are being fre-
+quently reported in patients with cancer, particularly in
+patients receiving immunotherapy with immune check-
+point inhibitors [32, 55, 69, 146], which has been attrib-
+uted to an excessive immune response against cancer
+cells, which may be activated by immunotherapy agents
+and thus substantiating the critical role that an excessive
+immune response plays in the pathogenesis of sarcoid-
+osis. Experimental data indicate that the immune check
+point blockade augments the number of circulating
+Th17 CD4+ cells along with an increased production of
+proinflammatory molecules, such as IL-6 and TNF-α
+[69, 156], which may promote the formation of granu-
+lomatous/sarcoid-like lesions.
+Interestingly, a recent
+study showed that PD-1 pathway is upregulated in sar-
+coidosis. In this study, sarcoidal PD-1 + CD4 + T cells
+displayed reduced proliferation rate, their proliferation
+capacity could be recovered after treatment with anti-
+PD-1[17]. These findings suggest a potential benefit and
+a dual role of PD-1 blockade in sarcoidosis in an analo-
+gous way as TNF-α blockers.
+
+Microbes and sarcoidosis
+The potential involvement of microbes in the pathogen-
+esis of sarcoidosis was proposed many years ago [35, 49].
+This was mainly based on the observations that granu-
+lomas observed in sarcoidosis share certain histological
+similarities with the granulomatous lesions caused by
+pathogen infections such as leprosy, tuberculosis and
+some parasitic infections [2, 148]. To identify potential
+pathogens
+of
+sarcoidosis-specimens have been analyzed utilizing sev-
+eral techniques,
+including microbe culture, real time
+immunohistochemistry and proteomic and gen-
+PCR,
+omic studies [25, 47]. As a result, various microorgan-
+isms have been detected in sarcoid granulomas and
+other tissues affected by sarcoidosis, which suggests that
+microbes may have a role in the pathogenesis of this
+
+linked with
+
+sarcoidosis,
+
+variety
+
+a
+
+disease [22, 25, 35, 97]. However, it is important to no-
+tice that most of the putative microorganisms have been
+identified at genomic levels (DNA or RNA) and only a
+few studies have documented the presence of microbes
+using bacteriological or proteomic methods (Table 2).
+The considerable variation among different reports and
+the fact that the presumptive microbes are not detect-
+able in all sarcoidal granulomas or in all patients ana-
+lyzed, along with the detection of those microorganisms,
+even in tissues of normal individuals or in samples de-
+rived from patients with other diseases, constitute im-
+and
+portant
+therefore, current evidence does not support a direct
+causative role of microbes in sarcoidosis.
+
+the microbial
+
+limitations of
+
+theory
+
+In addition, a putative involvement of microbes in the
+pathogenesis of sarcoidosis is indirectly supported by
+studies reporting considerable activation PRRs, which
+are essential components of the innate immune system
+involved in the control of
+infective microorganisms.
+Among the altered PRRs, enhanced expression toll-like
+receptors (TLR) and their activated downstream signals
+have been documented in various cell subsets of patients
+with sarcoidosis. For example, a study that assessed glo-
+bal transcriptomic changes of miRNAs of circulating
+Tregs and CD4+/CD25 + Tregs from BAL, identified al-
+terations in TLR-2 signaling pathway. Notably, induction
+of TLR-2 expression was found not only in Tregs, but
+also in the heterogeneous population of peripheral blood
+mononuclear cells of patients with pulmonary sarcoid-
+osis [85]. In addition, increased inflammatory cytokine
+secretion was reported when immune cells obtained
+from BAL of sarcoidosis patients were in vitro exposed
+to LpqH, a 19kd lipoprotein of mTB, that is a ligand of
+TLR2[64]. In the same study, TLR-2 gene deletion in a
+murine model of Th1-associated lung disease induced by
+heat-killed C. acnes, resulted in a considerable attenuation
+of the granulomatous pulmonary inflammation compared
+to wild-type C57BL/6 animals [64]. Another study found a
+significant association between TLR9 expression and
+CD4+ lymphocytes in BAL of patients with sarcoidosis. In-
+creased TLR9 expression in alveolar macrophages derived
+from patients with sarcoidosis was also reported and these
+cells secreted higher levels of cytokines in response to in
+vitro stimulation [134]. TLR9 is an important receptor
+mainly expressed by dendritic cells, macrophages and NK
+cells that recognizes specific unmethylated CpG motifs of
+DNA present in bacteria and viruses. This receptor trig-
+gers signaling cascades leading to a pro-inflammatory
+cytokine response has attracted considerable attention for
+its immunotherapeutic potential [58].
+
+So far, the most comprehensive study aimed to clarify
+the role of microbes in sarcoidosis is a meta-analysis that
+included 58 case–control studies (involving more than
+reporting the
+6000 patients
+
+in several
+
+countries)
+
+Inaoka et al. Journal of Biomedical Science           (2019) 26:45 
+
+Page 8 of 19
+
+presence of microorganisms in samples of patients with
+sarcoidosis using culture methods or molecular biology
+techniques concluded that an etiological link exists be-
+tween C. acnes and sarcoidosis (OR 18.80, 95% CI 12.62,
+28.01). Strong association was also found with mycobac-
+terium tuberculosis (mTB), as this bacterium was detected
+within the sarcoidal lesions of nearly 25% of sarcoidosis
+including Borrelia,
+patients (OR 6.8). Other microbes,
+HHV-8, as well as Rickettsia helvetica, Chlamydia pneu-
+moniae, Epstein-Barr virus and Retrovirus were not asso-
+ciated with sarcoidosis [54]. In the next section, we will
+discuss additional studies supporting a causal association
+between C. acnes and mTB with sarcoidosis.
+
+Role of C. acnes and sarcoidosis
+C. acnes,
+is a slow-growing anaerobic Gram-positive
+bacterium rod that is etiologically linked to the skin dis-
+order acne. In addition, C. acnes can cause chronic
+blepharitis, and endophthalmitis and is an opportunistic
+agent that can cause endocarditis, corneal ulcer, septic
+arthritis and is a contaminating agent of areas subcuta-
+neous such as after craniotomy. This bacterium is largely
+commensal and part of the skin microbiota detectable
+on healthiest adult humans’ skin and may be also found
+throughout the gastrointestinal tract.
+
+tissues [5],
+
+C. acnes can be found in BAL of the majority of pa-
+tients with sarcoidosis and its presence has been associ-
+ated with disease activity, however the microbe can be
+also found in around 20% of controls [46]. In addition,
+C. acnes has been identified in granulomas and inflam-
+matory cells of myocardial
+lymph nodes
+[141] neurological system [160], the granulomas present
+in the epiretinal membrane excised from patients with
+uveitis associated with sarcoidosis [70] and many other
+sarcoidal granuloma specimens. Importantly, C. acnes
+constitutes the only microorganisms that has been iso-
+lated from sarcoidal specimens by bacterial culture [47].
+One of the first attempts to systematically study a po-
+tential link between sarcoidosis and pathogens was an
+international study included formalin-fixed and paraffin-
+embedded (FFPE) sections of lymph nodes of patients
+from Japan, Italy, Germany, and England. The specimens
+(108 sarcoidosis, 65 tuberculosis and 86 control samples)
+were subjected to quantitative real-time PCR to identify
+genomes of C. acnes, Propionibacterium granulosum,
+mTB, Mycobacterium avium subsp. paratuberculosis,
+and Escherichia coli (as the control). The authors con-
+cluded that Propionibacterium spp. are more likely than
+Mycobacteria spp. to be involved in the etiology of sar-
+coidosis and the association occurred not only in Japa-
+nese but also in European patients with sarcoidosis [48].
+High frequency of C. acnes genomes were also found in
+FFPE derived from Chinese patients with sarcoidosis but
+not in tuberculosis or lung cancer [163].
+
+Negi and colleagues examined formalin-fixed and
+paraffin-embedded samples of lungs and lymph nodes
+from 196 patients with sarcoidosis, as well as control
+samples derived from 275 patients with non-sarcoidosis
+diseases. Using immunohistochemistry with C. acnes-
+specific monoclonal antibodies that react with cell-
+membrane-bound lipoteichoic acid (PAB antibody), the
+authors detected small round bodies within sarcoid
+granulomas in 20/27 (74%) video-assisted thoracic sur-
+gery lung samples, 24/50 (48%) transbronchial lung bi-
+opsy
+lymph node
+samples, and 34/38 (89%) German lymph node samples.
+Notably, PAB antibody did not react with non-sarcoid
+granulomas in any of the 45 tuberculosis samples or the
+34 samples with sarcoid reaction, suggesting that this in-
+digenous bacterium might be the cause of granuloma
+formation in many sarcoid patients [108].
+
+samples, 71/81 (88%)
+
+Japanese
+
+C. acnes secretes propionic acid and other short-chain
+fatty acids metabolites (SCFAs) such as formic acid (C1),
+acetic acid (C2), butyric acid (C4), and valeric acid (C5).
+Interesting SCFAs secreted by gut microbiota exert
+modulatory effects on the immune system, including the
+differentiation and proliferation of Treg cells [4, 89], and
+regulate the production of blood cells in the bone mar-
+row in the mouse [88, 150].
+
+One may expect that propionic acid released by C. acnes
+may promote the proliferation of Treg cells and thus it
+could theoretically prevent the development of sarcoidosis
+rather that promoting granuloma formation, however, in
+individuals with new onset pulmonary sarcoidosis, a large
+infiltration of Treg cells, along with Treg cytokines such
+as IL-10 and TGF-β are increased but are not functional
+[29]. Therefore, it is plausible that Treg induction via ex-
+cessive production of propionic acid in the site of inflam-
+mation may promote granuloma formation in sarcoidosis,
+however more controlled studies, using more individuals
+and testing tissues from other organs affected by sarcoid-
+osis are needed to clarify these issues.
+
+In summary, there is abundant laboratory and clinical
+evidence supporting an association between sarcoidosis
+and C. acnes, however is worthy to notice that the vast
+majority of the studies reported so far have been con-
+ducted by Japanese groups testing Japanese patients,
+while only a few testing specimens obtained from pa-
+tients from African American or Caucasian patients hav-
+ing been published. More studies are needed to
+demonstrate a direct causal link between this pathogen
+and sarcoidosis.
+
+Role of mTB in sarcoidosis
+The link between mTB and sarcoidosis was proposed
+many years ago [76] given the fact that sometimes dis-
+tinguishing between sarcoidosis and tuberculosis in the
+in
+clinical
+
+challenging,
+
+especially
+
+can be
+
+setting
+
+Inaoka et al. Journal of Biomedical Science           (2019) 26:45 
+
+Page 9 of 19
+
+s
+t
+n
+e
+i
+t
+a
+p
+m
+o
+r
+f
+
+y
+s
+p
+o
+b
+
+i
+
+r
+e
+h
+t
+o
+
+r
+o
+
+,
+)
+5
+1
+=
+
+n
+(
+
+l
+
+i
+
+a
+d
+r
+a
+c
+o
+y
+m
+o
+d
+n
+e
+
+d
+n
+a
+
+i
+
+c
+a
+d
+r
+a
+c
+
+h
+t
+i
+
+w
+
+s
+i
+t
+i
+d
+r
+a
+c
+o
+y
+m
+
+,
+)
+6
+2
+=
+
+n
+(
+
+i
+
+s
+i
+s
+o
+d
+o
+c
+r
+a
+s
+
+e
+c
+n
+e
+r
+e
+f
+e
+R
+
+]
+5
+[
+
+y
+b
+
+i
+
+d
+e
+n
+a
+t
+b
+o
+
+s
+e
+u
+s
+s
+i
+t
+
+y
+s
+p
+o
+t
+u
+a
+
+r
+o
+
+y
+r
+e
+g
+r
+u
+s
+
+i
+
+s
+i
+s
+o
+d
+o
+c
+r
+a
+s
+
+i
+
+c
+a
+d
+r
+a
+c
+
+l
+
+i
+
+a
+d
+r
+a
+c
+o
+y
+m
+
+f
+
+o
+
+E
+P
+F
+F
+
+m
+r
+o
+
+f
+
+l
+
+s
+a
+m
+o
+u
+n
+a
+r
+g
+
+f
+
+o
+
+,
+)
+
+%
+3
+6
+(
+
+0
+1
+
+n
+
+i
+
+y
+t
+i
+v
+i
+t
+c
+a
+e
+r
+
+e
+v
+i
+t
+i
+s
+o
+p
+-
+
+s
+e
+n
+c
+a
+
+.
+
+C
+
+.
+
+y
+d
+o
+b
+i
+t
+n
+a
+
+l
+
+l
+
+a
+n
+o
+c
+o
+n
+o
+m
+c
+i
+f
+i
+c
+e
+p
+s
+-
+
+s
+e
+n
+c
+a
+
+.
+
+P
+
+a
+
+h
+t
+i
+
+w
+C
+H
+
+I
+
+m
+u
+i
+r
+e
+t
+c
+a
+b
+i
+t
+u
+C
+
+d
+n
+a
+
+s
+e
+n
+c
+a
+
+.
+
+C
+
+.
+
+p
+s
+
+l
+
+e
+p
+m
+a
+s
+
+f
+
+o
+
+e
+p
+y
+T
+
+s
+d
+o
+h
+t
+e
+m
+c
+m
+o
+e
+t
+o
+r
+p
+
+i
+
+r
+o
+
+l
+
+l
+
+i
+
+i
+
+a
+c
+g
+o
+o
+b
+o
+r
+c
+m
+y
+b
+
+i
+
+d
+e
+t
+c
+e
+t
+e
+d
+
+d
+n
+a
+
+i
+
+s
+i
+s
+o
+d
+o
+c
+r
+a
+s
+
+h
+t
+i
+
+w
+d
+e
+t
+a
+c
+o
+s
+s
+a
+
+i
+
+i
+
+s
+e
+b
+o
+r
+c
+m
+e
+v
+i
+t
+a
+t
+u
+p
+
+f
+
+o
+
+t
+s
+i
+L
+
+a
+
+2
+
+e
+l
+b
+a
+T
+
+s
+g
+n
+d
+n
+
+i
+
+i
+f
+
+i
+
+n
+a
+M
+
+d
+o
+h
+t
+e
+m
+n
+o
+i
+t
+c
+e
+t
+e
+D
+
+m
+
+s
+i
+n
+a
+g
+r
+o
+o
+r
+c
+M
+
+i
+
+i
+
+s
+e
+h
+t
+a
+p
+o
+y
+m
+o
+d
+r
+a
+c
+
+i
+
+)
+9
+3
+=
+
+n
+(
+
+]
+3
+1
+1
+[
+
+s
+n
+e
+m
+c
+e
+p
+s
+
+i
+
+i
+
+s
+i
+s
+o
+d
+o
+c
+r
+a
+s
+
+n
+e
+z
+o
+r
+f
+
+p
+a
+n
+s
+
+n
+e
+e
+t
+e
+n
+N
+
+i
+
+g
+n
+i
+s
+u
+
+d
+e
+z
+y
+a
+n
+a
+
+l
+
+e
+r
+e
+w
+
+S
+M
+
+I
+-
+
+D
+L
+A
+M
+a
+
+5
+1
+/
+7
+
+i
+
+s
+i
+s
+o
+d
+o
+c
+r
+a
+S
+
+4
+/
+1
+
+s
+l
+o
+r
+t
+n
+o
+C
+
+h
+t
+i
+
+w
+
+)
+
+%
+2
+8
+(
+
+i
+
+s
+i
+s
+o
+d
+o
+c
+r
+a
+s
+
+i
+
+s
+n
+e
+t
+o
+r
+p
+
+l
+
+i
+
+a
+i
+r
+e
+t
+c
+a
+b
+n
+o
+p
+o
+r
+p
+
+i
+
+r
+o
+
+f
+
+S
+M
+
+I
+-
+I
+
+D
+L
+A
+M
+
+.
+
+y
+d
+u
+t
+s
+
+s
+i
+h
+t
+
+s
+t
+n
+e
+i
+t
+a
+p
+
+1
+1
+/
+9
+m
+o
+r
+f
+
+)
+
+%
+3
+8
+(
+
+l
+
+s
+e
+p
+m
+a
+s
+
+2
+1
+/
+0
+1
+
+n
+
+i
+
+t
+n
+e
+s
+e
+r
+p
+
+e
+r
+e
+w
+
+n
+
+i
+
+d
+e
+
+l
+l
+
+o
+r
+n
+e
+
+e
+r
+e
+w
+
+,
+
+y
+d
+o
+b
+i
+t
+n
+a
+
+.
+)
+y
+d
+o
+b
+i
+t
+n
+a
+
+B
+A
+P
+(
+
+]
+8
+0
+1
+[
+
+m
+o
+r
+f
+
+s
+e
+d
+o
+n
+
+h
+p
+m
+y
+
+l
+
+d
+n
+a
+
+s
+g
+n
+u
+
+l
+
+f
+
+o
+
+l
+
+s
+e
+p
+m
+a
+s
+
+E
+P
+F
+F
+
+7
+2
+/
+0
+2
+
+n
+
+i
+
+l
+
+s
+a
+m
+o
+u
+n
+a
+r
+g
+
+i
+
+d
+o
+c
+r
+a
+s
+
+i
+
+n
+h
+t
+i
+
+w
+s
+e
+d
+o
+b
+
+i
+
+d
+n
+u
+o
+r
+
+l
+l
+
+a
+m
+S
+
+d
+n
+a
+
+y
+d
+o
+b
+i
+t
+n
+a
+
+B
+A
+P
+
+h
+t
+i
+
+w
+g
+n
+i
+t
+t
+o
+b
+
+l
+
+n
+r
+e
+t
+s
+e
+w
+d
+n
+a
+
+C
+H
+
+I
+
+h
+t
+i
+
+w
+s
+t
+n
+e
+i
+t
+a
+p
+
+6
+9
+1
+
+,
+
+l
+
+s
+e
+p
+m
+a
+s
+
+g
+n
+u
+
+l
+
+y
+r
+e
+g
+r
+u
+s
+
+i
+
+c
+c
+a
+r
+o
+h
+t
+
+d
+e
+t
+s
+i
+s
+s
+a
+-
+o
+e
+d
+v
+
+i
+
+)
+
+%
+4
+7
+(
+
+)
+y
+d
+o
+b
+i
+t
+n
+a
+G
+T
+(
+
+I
+
+i
+
+n
+e
+t
+o
+r
+p
+
+r
+o
+t
+c
+a
+f
+-
+r
+e
+g
+g
+i
+r
+t
+
+d
+n
+u
+o
+b
+-
+e
+m
+o
+s
+o
+b
+i
+r
+
+4
+8
+9
+1
+
+,
+
+e
+b
+A
+
+]
+9
+1
+[
+
+.
+
+s
+e
+s
+a
+e
+s
+i
+d
+
+i
+
+s
+i
+s
+o
+d
+o
+c
+r
+a
+s
+-
+n
+o
+n
+
+h
+t
+i
+
+w
+
+s
+t
+n
+e
+i
+t
+a
+p
+
+5
+7
+2
+m
+o
+r
+f
+
+l
+
+s
+e
+p
+m
+a
+s
+
+l
+
+o
+r
+t
+n
+o
+c
+
+i
+
+g
+n
+d
+n
+o
+p
+s
+e
+r
+r
+o
+c
+
+d
+n
+a
+
+,
+
+i
+
+s
+i
+s
+o
+d
+o
+c
+r
+a
+s
+
+,
+
+l
+
+s
+e
+p
+m
+a
+s
+
+y
+s
+p
+o
+b
+
+i
+
+g
+n
+u
+
+l
+
+l
+
+i
+
+a
+h
+c
+n
+o
+r
+b
+s
+n
+a
+r
+t
+
+d
+n
+a
+
+,
+
+l
+
+s
+e
+p
+m
+a
+s
+
+e
+d
+o
+n
+
+h
+p
+m
+y
+
+l
+
+e
+s
+e
+n
+a
+p
+a
+J
+
+.
+
+l
+
+s
+e
+p
+m
+a
+s
+
+e
+d
+o
+n
+
+h
+p
+m
+y
+
+l
+
+n
+a
+m
+r
+e
+G
+
+)
+
+%
+8
+4
+(
+
+)
+
+%
+8
+8
+(
+
+)
+
+%
+9
+8
+(
+
+0
+5
+/
+4
+2
+
+1
+8
+/
+1
+7
+
+8
+3
+/
+4
+3
+
+0
+8
+1
+/
+8
+3
+
+s
+l
+o
+r
+t
+n
+o
+C
+
+0
+4
+/
+1
+3
+
+i
+
+s
+i
+s
+o
+d
+o
+c
+r
+a
+S
+
+e
+r
+u
+t
+l
+u
+c
+
+n
+
+i
+
+s
+e
+n
+c
+a
+
+.
+
+P
+
+f
+
+o
+
+n
+o
+i
+t
+a
+o
+s
+I
+
+l
+
+]
+7
+0
+1
+[
+
+s
+i
+t
+i
+e
+v
+u
+
+i
+
+d
+o
+c
+r
+a
+s
+
+h
+t
+i
+
+w
+
+)
+s
+e
+y
+e
+
+2
+1
+(
+
+s
+t
+n
+e
+i
+t
+a
+p
+
+n
+e
+v
+e
+E
+
+l
+
+B
+A
+P
+
+e
+h
+t
+
+h
+t
+i
+
+w
+d
+e
+t
+c
+a
+e
+r
+
+t
+a
+h
+t
+
+i
+
+s
+e
+d
+o
+b
+
+d
+n
+u
+o
+r
+
+s
+a
+
+d
+e
+i
+f
+i
+t
+n
+e
+d
+
+i
+
+,
+
+s
+e
+n
+c
+a
+
+.
+
+P
+
+y
+d
+o
+b
+i
+t
+n
+a
+
+l
+
+l
+
+a
+n
+o
+c
+o
+n
+o
+m
+c
+i
+f
+i
+c
+e
+p
+s
+-
+
+s
+e
+n
+c
+a
+
+.
+
+P
+
+a
+
+h
+t
+i
+
+w
+C
+H
+
+I
+
+]
+0
+7
+[
+
+h
+t
+i
+
+w
+d
+e
+t
+a
+c
+o
+s
+s
+a
+
+i
+
+i
+
+s
+i
+s
+o
+d
+o
+c
+r
+a
+s
+
+s
+t
+n
+e
+i
+t
+a
+p
+
+0
+1
+
+B
+A
+P
+
+r
+o
+
+f
+
+e
+v
+i
+t
+i
+s
+o
+p
+
+e
+r
+e
+w
+s
+a
+m
+o
+u
+n
+a
+r
+g
+
+l
+
+e
+h
+t
+
+l
+l
+
+a
+
+d
+n
+a
+
+,
+
+i
+
+s
+i
+s
+o
+d
+o
+c
+r
+a
+s
+
+h
+t
+i
+
+w
+
+s
+i
+t
+i
+e
+v
+u
+
+h
+t
+i
+
+w
+s
+t
+n
+e
+i
+t
+a
+p
+
+n
+e
+T
+
+f
+
+o
+
+4
+
+n
+
+i
+
+d
+e
+v
+r
+e
+s
+b
+o
+
+s
+a
+w
+e
+n
+a
+r
+b
+m
+e
+m
+
+l
+
+a
+n
+i
+t
+e
+r
+i
+p
+e
+
+e
+h
+t
+
+n
+
+i
+
+l
+
+a
+m
+o
+u
+n
+a
+r
+G
+
+.
+
+s
+e
+n
+c
+a
+
+.
+
+P
+
+i
+
+t
+s
+n
+a
+g
+a
+
+y
+d
+o
+b
+i
+t
+n
+a
+
+l
+
+l
+
+a
+n
+o
+c
+o
+n
+o
+m
+g
+n
+i
+s
+u
+
+C
+H
+
+I
+
+.
+
+l
+
+s
+i
+s
+o
+u
+c
+r
+e
+b
+u
+t
+
+g
+n
+i
+t
+a
+e
+s
+a
+c
+
+i
+
+g
+n
+d
+e
+c
+e
+r
+p
+
+.
+;
+
+1
+1
+
+n
+
+i
+
+l
+
+s
+i
+s
+o
+u
+c
+r
+e
+b
+u
+t
+
+]
+3
+3
+1
+[
+
+h
+t
+i
+
+w
+s
+t
+n
+e
+i
+t
+a
+p
+
+0
+4
+2
+m
+o
+r
+f
+
+s
+n
+e
+m
+c
+e
+p
+s
+
+i
+
+l
+
+a
+m
+o
+u
+n
+a
+r
+G
+
+n
+
+i
+
+;
+
+8
+1
+
+n
+
+i
+
+e
+s
+a
+h
+p
+
+i
+
+d
+o
+c
+r
+a
+s
+
+e
+h
+t
+
+n
+
+i
+
+d
+n
+u
+o
+
+f
+
+i
+l
+l
+i
+
+c
+a
+b
+
+l
+
+e
+c
+r
+e
+b
+u
+T
+
+i
+l
+l
+i
+
+c
+a
+b
+
+B
+T
+m
+
+f
+
+o
+
+n
+o
+i
+t
+a
+c
+i
+f
+i
+t
+n
+e
+d
+
+i
+
+i
+
+c
+p
+o
+c
+s
+o
+r
+c
+M
+
+i
+
+s
+e
+u
+s
+s
+i
+t
+
+l
+
+s
+u
+o
+t
+a
+m
+o
+u
+n
+a
+r
+g
+m
+o
+r
+f
+
+s
+n
+e
+m
+c
+e
+p
+s
+
+i
+
+e
+u
+s
+s
+i
+t
+
+E
+P
+F
+F
+
+B
+T
+
+l
+l
+
+a
+
+r
+o
+
+f
+
+e
+v
+i
+t
+i
+s
+o
+p
+
+y
+d
+o
+b
+i
+t
+n
+a
+D
+P
+P
+-
+i
+t
+n
+a
+
+B
+T
+M
+
+r
+o
+
+f
+
+l
+
+s
+i
+s
+y
+a
+n
+a
+
+C
+H
+
+I
+
+t
+c
+e
+t
+e
+d
+
+o
+t
+
+d
+e
+s
+u
+
+s
+a
+w
+y
+d
+o
+b
+i
+t
+n
+a
+D
+P
+P
+
+B
+T
+m
+g
+n
+i
+s
+u
+
+C
+H
+
+I
+
+y
+r
+a
+n
+o
+m
+u
+p
+
+l
+
+d
+e
+m
+
+r
+i
+f
+
+n
+o
+c
+
+2
+1
+
+d
+n
+a
+
+i
+
+s
+i
+s
+o
+d
+o
+c
+r
+a
+s
+
+h
+t
+i
+
+w
+
+s
+t
+n
+e
+i
+t
+a
+p
+
+0
+1
+
+f
+
+o
+
+l
+
+s
+i
+s
+o
+u
+c
+r
+e
+b
+u
+t
+
+)
+
+%
+0
+3
+(
+
+s
+t
+n
+e
+i
+t
+a
+p
+
+i
+
+s
+i
+s
+o
+d
+o
+c
+r
+a
+s
+
+3
+
+n
+
+i
+
+d
+n
+a
+
+s
+t
+n
+e
+i
+t
+a
+p
+
+s
+n
+e
+g
+i
+t
+n
+a
+
+l
+
+a
+i
+r
+e
+t
+c
+a
+b
+o
+c
+y
+m
+
+y
+c
+n
+a
+n
+g
+
+i
+l
+
+a
+m
+
+f
+
+o
+
+s
+e
+s
+a
+c
+
+4
+1
+
+d
+n
+a
+
+i
+
+s
+i
+s
+o
+d
+o
+c
+r
+a
+s
+
+f
+
+o
+
+s
+e
+s
+a
+c
+
+8
+2
+
+f
+
+o
+
+s
+e
+t
+i
+s
+
+e
+r
+a
+
+s
+e
+r
+u
+t
+c
+u
+r
+t
+s
+
+)
+s
+C
+P
+(
+
+s
+n
+e
+g
+o
+m
+o
+r
+h
+c
+
+i
+
+c
+h
+p
+r
+o
+m
+o
+e
+P
+
+l
+
+i
+
+g
+n
+d
+u
+c
+n
+
+l
+
+i
+
+,
+
+i
+
+s
+e
+d
+o
+b
+i
+t
+n
+a
+
+s
+u
+o
+i
+r
+a
+v
+
+f
+
+o
+
+s
+l
+e
+n
+a
+p
+
+h
+t
+i
+
+w
+C
+H
+
+I
+
+)
+B
+
+s
+e
+i
+r
+e
+s
+(
+
+s
+i
+s
+o
+t
+y
+c
+o
+i
+t
+s
+i
+h
+
+s
+u
+n
+i
+s
+
+i
+
+d
+e
+t
+a
+c
+o
+s
+s
+a
+
+l
+
+a
+i
+r
+e
+t
+c
+a
+b
+o
+c
+y
+m
+
+n
+o
+i
+t
+a
+d
+a
+r
+g
+e
+d
+
+l
+
+s
+i
+s
+o
+u
+c
+r
+e
+b
+u
+t
+
+M
+
+r
+o
+
+f
+
+c
+i
+f
+i
+c
+e
+p
+s
+
+s
+b
+A
+M
+
+l
+
+a
+i
+r
+e
+t
+c
+a
+b
+o
+c
+y
+m
+
+i
+t
+n
+a
+
+e
+v
+i
+t
+c
+a
+e
+r
+-
+s
+s
+o
+r
+c
+
+r
+o
+
+f
+
+d
+n
+a
+
+e
+a
+r
+p
+e
+
+l
+
+.
+
+M
+
+r
+o
+
+f
+
+,
+
+l
+
+x
+e
+p
+m
+o
+c
+
+l
+
+a
+i
+r
+e
+t
+c
+a
+b
+o
+c
+y
+m
+
+s
+n
+e
+g
+i
+t
+n
+a
+
+,
+
+M
+
+r
+e
+m
+e
+Z
+
+i
+
+y
+n
+a
+m
+r
+e
+G
+
+]
+0
+3
+[
+
+9
+0
+0
+2
+
+a
+i
+r
+t
+s
+u
+A
+
+,
+r
+e
+l
+r
+e
+D
+
+8
+0
+0
+2
+
+,
+]
+5
+6
+1
+[
+
+)
+s
+e
+i
+s
+p
+o
+b
+
+i
+
+i
+
+n
+k
+s
+(
+
+i
+
+s
+i
+s
+o
+d
+o
+c
+r
+a
+s
+
+s
+u
+o
+e
+n
+a
+t
+u
+C
+
+.
+
+p
+s
+
+a
+
+i
+l
+
+e
+r
+r
+o
+B
+
+1
+6
+/
+1
+
+.
+
+p
+s
+
+a
+
+i
+l
+
+e
+r
+r
+o
+B
+
+o
+t
+
+e
+v
+i
+t
+i
+s
+o
+p
+
+e
+r
+e
+w
+
+)
+5
+3
+/
+3
+1
+(
+
+%
+6
+2
+
+d
+n
+a
+
+y
+d
+o
+b
+i
+t
+n
+a
+
+l
+
+l
+
+a
+n
+o
+c
+y
+o
+p
+
+l
+
+A
+G
+
+f
+
+o
+
+s
+e
+i
+s
+p
+o
+b
+
+i
+
+7
+5
+1
+
+A
+G
+
+f
+
+o
+
+s
+e
+s
+a
+c
+
+7
+2
+1
+
+n
+
+i
+
+d
+e
+t
+c
+e
+t
+e
+d
+
+e
+r
+e
+w
+a
+
+i
+l
+
+e
+r
+r
+o
+B
+
+,
+
+E
+P
+F
+F
+
+g
+n
+i
+s
+U
+
+.
+)
+
+.
+
+%
+9
+0
+8
+(
+
+d
+n
+a
+
+y
+d
+o
+b
+i
+t
+n
+a
+
+l
+
+l
+
+a
+n
+o
+c
+y
+o
+p
+
+l
+
+a
+
+i
+l
+
+e
+r
+r
+o
+b
+-
+i
+t
+n
+a
+
+h
+t
+i
+
+w
+C
+H
+
+I
+
+a
+
+i
+l
+
+e
+r
+r
+o
+b
+-
+i
+t
+n
+a
+
+h
+t
+i
+
+w
+C
+H
+
+I
+
+t
+n
+e
+m
+
+s
+s
+e
+s
+s
+a
+
+M
+F
+F
+
+t
+n
+e
+m
+
+s
+s
+e
+s
+s
+a
+
+M
+F
+F
+
+h
+t
+i
+
+w
+
+m
+u
+i
+r
+e
+t
+c
+a
+b
+o
+c
+y
+M
+
+d
+n
+a
+
+B
+T
+m
+
+p
+s
+
+d
+n
+a
+
+p
+s
+
+a
+
+i
+l
+
+e
+r
+r
+o
+B
+
+i
+r
+e
+f
+r
+o
+d
+g
+r
+u
+B
+
+a
+
+i
+l
+
+e
+r
+r
+o
+B
+
+Inaoka et al. Journal of Biomedical Science           (2019) 26:45 
+
+Page 10 of 19
+
+e
+c
+n
+e
+r
+e
+f
+e
+R
+
+]
+2
+8
+[
+
+8
+9
+9
+1
+
+,
+
+a
+r
+a
+h
+h
+s
+I
+
+i
+
+n
+a
+p
+a
+J
+
+,
+
+s
+n
+e
+t
+r
+a
+M
+
+]
+8
+9
+[
+
+7
+9
+9
+1
+
+y
+n
+a
+m
+r
+e
+G
+
+]
+1
+8
+[
+
+6
+9
+9
+1
+
+,
+
+a
+r
+a
+h
+h
+s
+I
+
+i
+
+n
+a
+p
+a
+J
+
+i
+
+s
+i
+s
+o
+d
+o
+c
+r
+a
+s
+
+h
+t
+i
+
+w
+s
+t
+n
+e
+i
+t
+a
+p
+
+s
+o
+
+l
+
+s
+e
+p
+m
+a
+s
+
+m
+u
+r
+e
+S
+
+0
+6
+/
+1
+
+i
+
+s
+i
+s
+o
+d
+o
+c
+r
+a
+s
+
+n
+
+i
+
++
+
+i
+r
+e
+f
+r
+o
+d
+g
+r
+u
+b
+
+.
+
+B
+
+i
+r
+e
+f
+r
+o
+d
+g
+r
+u
+b
+
+a
+
+i
+l
+
+e
+r
+r
+o
+B
+
+r
+o
+
+f
+
+t
+o
+b
+
+l
+
+n
+r
+e
+t
+s
+e
+W
+d
+n
+a
+A
+S
+L
+E
+
+I
+
+i
+
+s
+i
+s
+o
+d
+o
+c
+r
+a
+s
+
+g
+n
+u
+
+l
+
+l
+
+i
+
+y
+n
+a
+M
+
+)
+
+%
+2
+1
+(
+
+.
+
+0
+8
+/
+1
+
+l
+
+o
+r
+t
+n
+o
+C
+
+.
+
+p
+s
+
+a
+
+i
+l
+
+e
+r
+r
+o
+B
+
+l
+
+s
+e
+p
+m
+a
+s
+
+m
+u
+r
+e
+S
+
+.
+
+p
+s
+
+a
+
+i
+l
+
+e
+r
+r
+o
+B
+
+)
+
+%
+3
+5
+(
+
+.
+
+8
+3
+/
+2
+
+s
+t
+n
+e
+i
+t
+a
+p
+
+i
+
+s
+i
+s
+o
+d
+o
+c
+r
+a
+S
+
+.
+i
+r
+e
+f
+r
+o
+d
+r
+u
+b
+
+a
+
+i
+l
+
+e
+r
+r
+o
+B
+
+0
+0
+0
+1
+/
+7
+2
+
+s
+l
+o
+r
+t
+n
+o
+c
+
+.
+
+p
+s
+
+a
+
+i
+l
+
+e
+r
+r
+o
+B
+
+r
+o
+
+f
+
+l
+
+s
+i
+s
+y
+a
+n
+a
+
+l
+
+t
+o
+b
+-
+t
+o
+D
+d
+n
+a
+
+a
+s
+i
+l
+
+E
+
+h
+t
+i
+
+w
+s
+t
+n
+e
+i
+t
+a
+p
+
+6
+4
+m
+o
+r
+f
+
+l
+
+s
+e
+p
+m
+a
+s
+
+m
+u
+r
+e
+S
+
+l
+
+e
+p
+m
+a
+s
+
+f
+
+o
+
+e
+p
+y
+T
+
+n
+a
+
+i
+
+s
+i
+s
+o
+d
+o
+c
+r
+a
+s
+
+s
+l
+o
+r
+t
+n
+o
+c
+
+0
+5
+1
+
+)
+d
+e
+u
+n
+i
+t
+n
+o
+C
+
+(
+
+s
+d
+o
+h
+t
+e
+m
+c
+m
+o
+e
+t
+o
+r
+p
+
+i
+
+r
+o
+
+l
+
+l
+
+i
+
+i
+
+a
+c
+g
+o
+o
+b
+o
+r
+c
+m
+y
+b
+
+i
+
+d
+e
+t
+c
+e
+t
+e
+d
+
+d
+n
+a
+
+i
+
+s
+i
+s
+o
+d
+o
+c
+r
+a
+s
+
+h
+t
+i
+
+w
+d
+e
+t
+a
+c
+o
+s
+s
+a
+
+i
+
+i
+
+s
+e
+b
+o
+r
+c
+m
+e
+v
+i
+t
+a
+t
+u
+p
+
+f
+
+o
+
+t
+s
+i
+L
+
+a
+
+2
+
+e
+l
+b
+a
+T
+
+.
+
+p
+s
+
+a
+
+i
+l
+
+e
+r
+r
+o
+B
+
+0
+0
+1
+/
+2
+
+.
+
+p
+s
+
+a
+
+i
+l
+
+e
+r
+r
+o
+B
+
+s
+g
+n
+d
+n
+
+i
+
+i
+f
+
+i
+
+n
+a
+M
+
+6
+4
+/
+5
+1
+
+y
+a
+s
+s
+a
+
+A
+S
+L
+E
+
+I
+
+d
+n
+a
+
+)
+t
+i
+K
+
+a
+
+i
+l
+
+e
+r
+r
+o
+B
+
+l
+
+t
+o
+b
+t
+o
+D
+
+(
+
+d
+o
+h
+t
+e
+m
+n
+o
+i
+t
+c
+e
+t
+e
+D
+
+l
+
+s
+i
+s
+y
+a
+n
+a
+
+l
+
+t
+o
+b
+-
+t
+o
+D
+
+m
+
+s
+i
+n
+a
+g
+r
+o
+o
+r
+c
+M
+
+i
+
+t
+a
+
+d
+e
+t
+a
+g
+i
+t
+s
+e
+v
+n
+
+i
+
+s
+a
+w
+s
+e
+b
+o
+r
+c
+i
+m
+
+f
+o
+
+e
+c
+n
+e
+s
+e
+r
+p
+
+e
+h
+t
+
+e
+r
+e
+h
+w
+s
+e
+d
+u
+t
+S
+
+i
+
+.
+
+l
+
+s
+a
+m
+o
+u
+n
+a
+r
+g
+
+l
+
+i
+
+a
+d
+o
+c
+r
+a
+s
+
+i
+
+n
+h
+t
+i
+
+w
+d
+e
+t
+n
+e
+m
+u
+c
+o
+d
+
+y
+l
+t
+c
+e
+r
+i
+d
+
+e
+r
+e
+w
+s
+n
+e
+t
+o
+r
+p
+
+i
+
+r
+i
+e
+h
+t
+
+r
+o
+
+s
+e
+b
+o
+r
+c
+i
+m
+h
+c
+i
+h
+w
+n
+
+i
+
+s
+e
+l
+c
+i
+t
+r
+a
+
+e
+r
+a
+
+s
+e
+c
+n
+e
+r
+e
+f
+e
+r
+
+d
+e
+t
+c
+e
+e
+S
+a
+
+l
+
+e
+r
+e
+h
+w
+e
+s
+l
+e
+
+d
+e
+h
+s
+i
+l
+
+b
+u
+p
+
+s
+e
+l
+c
+i
+t
+r
+a
+
+s
+w
+e
+v
+e
+r
+
+i
+
+r
+e
+h
+t
+o
+
+n
+
+i
+
+d
+e
+
+l
+i
+
+p
+m
+o
+c
+
+e
+r
+a
+
+)
+
+A
+N
+R
+
+r
+o
+A
+N
+D
+
+(
+
+l
+
+e
+v
+e
+
+l
+
+c
+i
+m
+o
+n
+e
+g
+
+)
+S
+M
+
+I
+-
+I
+
+D
+L
+A
+M
+
+(
+
+y
+r
+t
+e
+m
+o
+r
+t
+c
+e
+p
+s
+
+s
+s
+a
+m
+g
+n
+g
+a
+m
+
+i
+
+i
+
+n
+o
+i
+t
+a
+z
+i
+n
+o
+
+i
+
+n
+o
+i
+t
+p
+r
+o
+s
+e
+d
+
+r
+e
+s
+a
+
+l
+
+d
+e
+t
+s
+i
+s
+s
+a
+-
+x
+i
+r
+t
+a
+M
+
+)
+E
+P
+F
+F
+(
+
+d
+e
+d
+d
+e
+b
+m
+e
+-
+n
+i
+f
+f
+a
+r
+a
+p
+
+d
+e
+x
+i
+f
+-
+n
+
+i
+l
+
+a
+m
+r
+o
+F
+
+)
+
+M
+F
+F
+(
+
+y
+p
+o
+c
+s
+o
+r
+c
+i
+m
+g
+n
+i
+t
+a
+o
+l
+f
+-
+s
+u
+c
+o
+F
+
+)
+
+D
+P
+P
+(
+
+e
+v
+i
+t
+a
+v
+i
+r
+e
+d
+
+i
+
+n
+e
+t
+o
+r
+p
+
+d
+e
+i
+f
+i
+r
+u
+P
+
+)
+
+A
+G
+
+(
+
+l
+
+e
+r
+a
+u
+n
+n
+A
+a
+m
+o
+u
+n
+a
+r
+G
+
+l
+
+)
+
+C
+H
+
+I
+(
+
+y
+r
+t
+s
+i
+
+m
+e
+h
+c
+o
+t
+s
+i
+h
+o
+n
+u
+m
+m
+
+I
+
+Inaoka et al. Journal of Biomedical Science           (2019) 26:45 
+
+Page 11 of 19
+
+tuberculosis cases with atypical presentation or in areas
+where tuberculosis is endemic [105]. The differential
+diagnosis sometimes is difficult because both diseases
+mainly affect the lungs and frequently involve the en-
+largement of mediastinal, perihilar and other thoracic
+lymph nodes with marked radiological similarities [101].
+In addition, both diseases may present with similar
+extrapulmonary manifestations in the skin, kidneys and
+musculoskeletal system and may cause systemic symp-
+toms such as fever, malaise, and weight loss [94]. More-
+over, the presence of granulomas is a histopathological
+features shared by both diseases and, although tubercu-
+losis typically causes caseating granulomas, some pa-
+tients may present with non-caseating granulomas [8].
+Furthermore, as mentioned before, current standard
+treatment of sarcoidosis involves the administration of
+corticosteroids whose prolonged use results in immuno-
+suppression. As a result, latent tuberculosis reactivation
+is relatively frequent in sarcoidosis patients taking corti-
+costeroids adding an additional layer of complexity to
+the distinction between the two diseases [94, 103].
+
+Pathological studies have documented the presence of
+mTB-hsps, including mTB-hsp70, mTB-hsp65, and mTB-
+hsp16 in lymph node tissues of patients with sarcoidosis,
+being mTB-hsp16 predominantly detected in the early
+stage of the disease and mTB-hsp70 in stage II sarcoidosis
+[38]. As expected, mTB-hsps are also detectable in tuber-
+culosis, however higher nitrate/nitrite concentrations are
+observed tuberculosis than in sarcoidosis. Since nitrite
+produced by mTB in infected macrophages modulates
+mycobacterial survival [27],
+it has been proposed that
+lower levels of nitrate/nitrite may induce a “mTB genetic
+dormancy program” via higher mTB-hsp16 expression fa-
+vorable for the development of sarcoidosis [39]. Given the
+structural similarities between mTB-hsps and human-
+HSP, it has been proposed that the exposure to mycobac-
+terial antigens via either natural infection, or by vaccin-
+ation with BCG, may induce an autoimmune response in
+genetically prone individuals that may result in sarcoidosis
+[36]. In line with these observations, in patients with sar-
+coidosis, specific antibodies to these mycobacterial anti-
+gens (anti- mTB-hsps) are frequently detected in serum
+samples. Interestingly, in comparison with tuberculosis,
+significantly higher levels of anti-mTB-hsp70 antibodies
+are observed in sarcoidosis patients [40].
+
+There is a relative high prevalence of sarcoidosis in
+certain countries of northern Europe and for many years
+it was assumed that whereas sarcoidosis was a disease of
+the developed world, tuberculosis was a disease that
+mainly affect people in the developing world [6]. How-
+ever, with the introduction of new diagnostic modalities
+such as high resolution computed tomography, and
+transbronchial lymph node and lung biopsies, sarcoid-
+osis cases in developing countries are being increasingly
+
+detected and thus recent reports suggest that sarcoidosis
+is a worldwide disease.
+
+Early observations published during the mid-twentieth
+reported the presence of mTB bacilli-like structures
+identified by bacteriological methods in inflamed tissues
+of some patients with suspected sarcoidosis [26, 120,
+133], although those findings were not consistently ob-
+served in all the specimens examined and some of the
+patients studied may have indeed presented both dis-
+eases concomitantly (tuberculosis and sarcoidosis), given
+the higher prevalence of tuberculosis in that period and
+the fact that immunological anergy associated with sar-
+coidosis is a risk factor for the development of tubercu-
+losis. With the introduction of the polymerase chain
+reaction (PCR) analysis in medical research at the begin-
+ning of the 1990s, several investigators independently re-
+ported the finding that mycobacterial DNA can be
+frequently detected in tissues specimens from patients
+with sarcoidosis [68, 124] and the causal
+link of this
+mTB and other mycobacteria with sarcoidosis was fur-
+ther tested in the following decade using more advanced
+microbiological and molecular techniques [112, 145].
+
+A meta-analysis assessing the molecular evidence of
+the role of mycobacteria in sarcoidosis analyzed 31 stud-
+ies in which PCR for nucleic acid amplification followed
+by identification of nucleic acid sequences specific for
+different types of mycobacteria concluded that 231 out
+of 874 patients were positive for mycobacteria with a
+positive signal rate of 26.4 (23.6–29.5%), and the odds of
+finding mycobacteria in samples of patients with sar-
+coidosis versus controls were 9.67 (4.56–20.5%). It must
+be noted however that methodological and statistical
+heterogeneity and publication bias was evident in most
+of the studies assessed [72]. However, similar results
+were reported by another meta-analysis that assessed 36
+different studies (1034 sarcoidosis patients and 1054
+control), where the positive signal rate was 24.2% (250
+sarcoidosis samples were positive for some form of
+mycobacteria DNA) [54].
+
+A comprehensive assessment of immune infiltration of
+sarcoidosis or tuberculosis granulomas using immunohisto-
+chemistry revealed that, although there was no significance
+difference in single CD4+, CD8+, CD22+, CD14+ and
+CD68+ staining between sarcoidosis and tuberculosis sec-
+tions, CD163 expression (a marker of M2 macrophages)
+was significantly increased in sarcoidosis sections compared
+with those from tuberculosis [136]. Although the study was
+limited by the small number of samples analyzed (10 sar-
+coidosis and 12 tuberculosis), these observations indicate
+that M2 macrophages may exert a functional role of in the
+immunopathogenesis of sarcoidosis. Human CD14+ mono-
+cytes have the potential to differentiate into two function-
+ally distinct subpopulations M1 and M2 macrophages.
+Notably, M2 macrophages, also known as “product of Th2
+
+Inaoka et al. Journal of Biomedical Science           (2019) 26:45 
+
+Page 12 of 19
+
+activation”, are the result of macrophage polarization driven
+by immunoregulatory cytokines such IL-4, IL-10 and TGF-
+β and tumor-infiltrating macrophages are typically classified
+as M2 and are well-known to promote malignant cells
+growing and immune evasion [99]. Interestingly, circulating
+CD14(+) monocytes from patients with sarcoidosis have al-
+tered expression of FcγR (CD16, CD32, and CD64) and
+complement receptors, along with increased phagocytic ac-
+tivity, which appear to be implicated in the high antigen
+load and increased circulating immune complexes observed
+in this disease [43].
+
+Mycobacterial or their products can exert differential
+effects on immune from patients with sarcoidosis. For
+example, higher percentages of CD8(+) αβ (+) T-cells,
+with a concomitant
+increase in the release of pro-
+inflammatory cytokines was observed when peripheral
+blood mononuclear cells (PBMCs) from patients with
+sarcoidosis were stimulated in vitro with Mtb-hsp,
+in
+comparison with PBMCs from controls or from patients
+with tuberculosis [42]. Notably, monocytes from patients
+with sarcoidosis are less sensitive to apoptosis induced
+by mycobacterial mTB-hsp in comparison with mono-
+cytes derived from patients with tuberculosis or from
+healthy individuals [41]. The immunomodulatory effects
+of mycobacterial products have been verified in meta-
+analysis that included 733 participants from 13 case-
+control studies revealing a significantly higher immune
+response in sarcoidosis patients than in controls, which
+suggests an association to exist between mycobacteria
+(especially mTB) and sarcoidosis [56].
+
+Taken together, the above discussed evidence appear
+to link mTB, other mycobacteria or their products with
+the excessive immune responses leading to sarcoidosis
+in a proportion of patients with sarcoidosis. Although
+this association in unlikely to occur in all patients and
+may be more significant in countries where tuberculosis
+is endemic.
+
+Potential implications of microbiota in sarcoidosis
+Human microbiota composition is functionally impli-
+cated in the regulation of several physiological processes,
+including metabolic functions and immune homeostasis.
+Although gut microbiota is the most studied human
+microbiota niche, well-defined microbiota communities
+have been identified in virtually any body niche, includ-
+ing the skin and the respiratory tract [24, 53, 111]. In
+addition, the use of novel microbiome analysis tech-
+niques has shown that even internal structures such as
+the blood vessels, may have their own microbiota niche
+[51]. Alterations in the composition of this community
+of microorganisms has been associated with the develop-
+ment of several inflammatory disorders including cancer
+and autoimmune diseases [53, 92].
+
+Microbiome analysis in healthy individuals reveal that
+airway and lung microbiome composition is similar to
+oropharyngeal microbiome with no evidence of site spe-
+cific enrichment of bacterial communities indicating and
+the presence of certain microorganisms, which reach the
+lungs mainly via passive microaspiration, may directly
+modulates local immune responses [31]. Not surprisingly
+changes in microbe composition of the respiratory niche
+has been associated with inflammatory diseases [24,
+140]. Since sarcoidosis manifests as a respiratory disease
+in more than 90% of patients, one may anticipate that
+the disease may be associated with specific changes in
+the composition of lung microbiota. Interestingly, Gar-
+zoni and colleagues analyzed the microbiome compos-
+ition in BAL specimens of the lungs and respiratory
+tracts of individuals with sarcoidosis or with idiopathic
+interstitial pneumonia (IIP) and did not find any differ-
+ence in the microbiome profiles of the analyzed patients
+[65]. It must be noted however, that although specimens
+were prospective analyzed, crucial
+limitations in this
+study were the small number of individuals analyzed (7
+patients with sarcoidosis, 5 patients with IIP and 6 with
+non-IIP) and the heterogeneity of the subjects involved
+in the study. In addition, though microbiome compos-
+ition was determined by 16S rRNA gene sequencing of
+BAL specimens, no extensive ultra-deep sequencing of
+viruses and fungi in the collection of samples was per-
+formed. In contrast, another study that included 71 pa-
+tients with sarcoidosis, 15 patients with idiopathic
+pulmonary fibrosis and 10 healthy controls found that
+Atopobium spp. was detectable in 68% of sarcoidosis
+specimens but in none of healthy controls. Similarly,
+Fusobacterium spp. were also identified as sarcoidosis-
+associated bacteria. In the same study, gene association
+analysis
+variant
+rs2076530 in BTNL2 associated with a decrease in bac-
+encodes
+terial
+butyrophilin-like 2, a type I transmembrane protein that
+negatively regulates T-cells, decreasing T-cell prolifera-
+tion and cytokine release.
+the variant
+rs2076530 impairs the functionality of the BTNL2 pro-
+leading to overactivation of T-cells and conse-
+tein,
+quently it has been associated with increased risk of
+sarcoidosis [93, 153].
+
+identified an association of
+
+note, BTNL2
+
+Interestingly,
+
+[166]. Of
+
+burden
+
+the
+
+Clarke and colleagues reported performed metage-
+nomics sequencing analysis of specimens from subjects
+with sarcoidosis (n = 93) and control subjects without
+sarcoidosis (n = 72). Sarcoidosis specimens analyzed in-
+cluded two independent sets of formalin-fixed, paraffin-
+embedded (FFPE) granulomatous tissue biopsies from
+patients with newly identified sarcoidosis and control
+patients, and BAL from patients with newly diagnosed
+sarcoidosis and healthy control subjects. A set of 20
+specimens (19 Kveim reagent and one fresh spleen) that
+
+Inaoka et al. Journal of Biomedical Science           (2019) 26:45 
+
+Page 13 of 19
+
+fungi
+
+had been prepared under sterile conditions were also an-
+alyzed. Specimens were interrogated using diverse se-
+quencing strategies including 16S ribosomal RNA gene
+sequencing (for bacterial analysis), shotgun metage-
+nomics (for virus analysis) and internal transcribed spa-
+cer ribosomal RNA gene sequencing (for fungi). In one
+tissue set,
+in the Cladosporiaceae family were
+enriched in sarcoidosis compared with nonsarcoidosis
+tissues; in the other tissue set, several bacterial lineages
+were enrichment in sarcoidosis but not Cladosporiaceae.
+In BAL fluid samples, Corynebacteria was enriched along
+with a limited enrichment of Aspergillus fungi. Interest-
+ingly, in the 20 sterile-collected samples available (Kveim
+and spleen tissue), whole-genome shotgun sequencing
+analysis revealed the enrichment of several microbial line-
+ages, especially Cladosporium [22]. Despite these promis-
+ing candidates, the study did not identify any microbe
+signature associated with sarcoidosis, namely, no single
+causative microbe was consistently enriched across tissue
+specimen types in patients with sarcoidosis.
+
+However,
+
+it must be noted that there were various
+technical
+limitations associated with this study. First,
+most samples utilized in this study were FFPE and for-
+malin degrades DNA and also it is well-known that the
+de-crosslinking step necessary to undo the formalin fix-
+ation results in DNA damage which may have impaired
+the sensitivity for microbe detection in these samples. In
+addition, although in this study various negative control
+specimens, representing a variety of potential sources of
+contamination, were analyzed to exclude false positive
+findings, the fact that mycobacteria and Propionibacteria
+(which have been linked with sarcoidosis in previous
+studies) may be present in both environmental controls
+and patient tissues, along with the fact that mycobacteria
+DNA extraction is difficult, likely contributed to the false
+negative results reported in the study. Finally, spleen and
+Kveim specimens were not matched with negative con-
+trol human specimens. A recent study that included
+16sRNA gene sequencing of bronchoscopy obtained
+specimens from 31 patients with sarcoidosis and 19 with
+interstitial lung disease found no significant differences
+in the microbiome composition between the two groups,
+being Firmicutes, Proteobacteria, Acinetobacter, Bacteroi-
+detes, Fusobacteriales, and Spirochaetales the most dom-
+inant microorganisms
+identified. The absence of a
+healthy control group and the heterogeneity of the inter-
+stitial lung disease group were important limitations in
+this study [13].
+
+Furthermore, as previous studies have shown, alter-
+ations in the gut microbiome may result in the develop-
+ment of
+such as
+systemic inflammatory conditions,
+rheumatoid arthritis and atherosclerosis [75, 117, 143],
+which can be attributed to the pivotal role that gut micro-
+biota play in the modulation of systemic immune response
+
+via the education of various subsets of immune cells, espe-
+cially Treg cells and Th17 cells [4, 52, 106]. Is dysbiosis of
+the gut associated with the development or progression of
+sarcoidosis? To the best of our knowledge, no studies sys-
+tematically assessing the gut microbiome composition in
+patients with sarcoidosis have been reported so far. Fur-
+ther studies including larger number of individuals with
+appropriate controls, utilizing not only freshly isolated sar-
+coidal specimens prepared under sterile condition, but
+also the gut microbiome are needed to elucidate a poten-
+tial role of microbiome in the pathogenesis of this disease.
+
+Antimicrobials for the treatment of sarcoidosis
+One may speculate that using antibiotics capable of eradi-
+cating microbes potentially linked with sarcoidosis such as
+C. acnes or Mtb could modify the clinical course of the dis-
+ease. Indeed, a few studies testing the clinical efficacy of an-
+tibiotics for sarcoidosis have been reported, although most
+studies have been conducted in small series of cases and es-
+sentially in patients with cutaneous sarcoidosis. Measurable
+clinical response was observed in 10 of the 12 patients with
+cutaneous sarcoidosis treated with either minocycline or
+doxycycline, although no control group was included in this
+small study [7]. In a randomized, placebo-controlled single-
+masked trial that enrolled 30 patients with symptomatic
+chronic cutaneous sarcoidosis lesions, Drake et al. reported
+significant clinically improvements in patients receiving oral
+antibiotics. In this study, subjects received either a combin-
+ation of levofloxacin, ethambutol, azithromycin, and rifam-
+pin (CLEAR regimen) or a placebo for 8 weeks with a 180-
+day follow-up [33]. The same group reported a significant
+improvement in forced vital capacity from baseline and bet-
+ter quality-of-life in 15 patients with chronic pulmonary
+sarcoidosis who received the CLEAR regimen for 8 weeks.
+The investigators also observed a normalization in the ex-
+pression of tyrosine kinase Lck and NF-κB signals in the
+leukocytes of patients treated with the CLEAR regimen, in-
+dicating that antimicrobials reduced immune cell hyperacti-
+vation associated with the disease [34].
+
+Although some studies utilizing electron microscopic
+images and various molecular biology techniques have re-
+ported the presence of infective C. acnes within the granu-
+lomas from some patients with sarcoidosis [47, 108], the
+reproducibility of those findings in a large number of pa-
+tients from different populations and presenting with dis-
+tinct disease phenotypes remains to be seen. In addition, it
+is important to consider that sarcoid granulomas consti-
+tute a chronic inflammation, rather than an acute inflam-
+matory response and thus, even if microorganisms are the
+triggering factor, antibiotics could be ineffective due to the
+absence of an active infection within granulomas. Indeed,
+some studies have reported no clinical response in sar-
+coidosis patients treated with antibiotics [149].
+
+Inaoka et al. Journal of Biomedical Science           (2019) 26:45 
+
+Page 14 of 19
+
+trial
+
+Currently, a multicenter open-label clinical
+
+(J-
+ACNES) of sarcoidosis is being conducted in Japan. This
+study, which is the largest so far, will assess the clinical re-
+sponse of patients with cardiac sarcoidosis in response to
+antibiotic therapy for which patients will be randomized
+to receive either standard corticosteroid therapy plus anti-
+biotic therapy (with known activity against C. acnes) or
+standard corticosteroid therapy alone [80]. Similarly, the
+utility of antibiotics is also being tested in other clinical
+trials of sarcoidosis in the USA and Canada (clinicaltrials.-
+gov NCT02024555 and NCT01245036), substantiating
+the importance of the microbial hypothesis in the patho-
+genesis of sarcoidosis.
+
+Whether or not microbes are causally implicated in
+the development of sarcoidosis is unclear at present.
+Further studies are needed in order to conclude or rule
+out a causal relationship between infections and sarcoid-
+osis. In this regard, the utilization of artificial intelligence
+(AI) tools may be very useful for this purpose, since AI
+has tremendous potential in the development of algo-
+rithms for the diagnosis, treatment and prognosis of
+complex human diseases. AI can integrate large number
+of data encompassing laboratory data, imaging studies,
+and clinical data to better characterize disease and devel-
+oping predictive models [50, 114].
+
+Concluding remarks and future directions
+For more than one century, utilizing a variety of ap-
+proaches and testing numerous specimens, researchers
+have tried to identify the cause of sarcoidosis to ultim-
+ately design a cure for this disease. Some of those studies
+have provided important insights for understanding the
+etiology of the sarcoidosis. For example, immunohisto-
+chemistry and molecular biology studies have delineated
+the cellular components of sarcoidal granulomas and the
+unique features that distinguish sarcoidosis from other
+granulomatous disorders including tuberculosis. Gene
+association studies have identified genetic risk factors of
+sarcoidosis and epidemiological studies have contributed
+to identify specific environmental and occupational fac-
+tors strongly associated with the disease.
+
+Several studies have tested the hypothesis that microbes
+may be the cause of sarcoidosis and among the numerous
+microorganisms investigated, mTB and C. acnes appear to
+be the strongest candidates. Although current evidence
+does not support a direct causal role of these pathogens in
+sarcoidosis, some studies have reported encouraging re-
+sults on the potential utility of antibiotics for the manage-
+ment of patients with sarcoidosis and there is a great
+expectation about the results that will generate ongoing
+randomized clinical trials of antibiotics in sarcoidosis. Fur-
+ther studies are needed to better understand the specific
+role of the above mentioned agents in the development of
+sarcoidosis. For example, although articles published so
+
+this disease.
+
+the unknown aspects of
+
+far have failed to identify a lung microbiome signature in
+patients with sarcoidosis, data generated from those
+studies could not definitely rule out that an alteration
+the respiratory
+in the microbiome composition of
+tract or in other body niche, such as dysbiosis of the
+gut has some role in the development or progression
+of the disease. Given the complexity of the disease,
+future studies will require the combination of various
+approaches using microbiological, immunological, epi-
+demiological and molecular biology techniques to un-
+ravel
+In this
+regard, the utilization of machine learning and deep
+learning algorithms will be extremely useful for future
+studies as artificial
+intelligence tools can identify
+causal associations that are undetectable using stand-
+ard statistical analysis methods [50]. Finally, over the
+past years various animal models of sarcoidosis have
+been reported and although some of those models ap-
+pear to recapitulate certain aspects of the disease [47,
+77], appropriate replication of
+the histological and
+the
+clinical
+utilization of these models, not only for verifying the
+pathogenic role of microbe candidates but also for
+the identification of new therapeutic targets and sur-
+rogate biomarkers of sarcoidosis.
+
+features of disease
+
+essential
+
+for
+
+is
+
+Acknowledgements
+Not applicable.
+
+Authors’ contributions
+JLE: conceived the study, wrote the manuscript and designed the figures;
+MK and SM: collected references and contributed with writing the
+manuscript; TI: collected references and prepared tables. All authors read and
+approved the final manuscript.
+
+Funding
+Not applicable.
+
+Availability of data and materials
+Not applicable.
+
+Ethics approval and consent to participate
+Not applicable.
+
+Consent for publication
+Not applicable.
+
+Competing interests
+The authors declare that they have no competing interests.
+
+Author details
+1Department of Physical Therapy, School of Health Sciences, Kanazawa
+University, Kodatsuno, Kanazawa 577-8502, Japan. 2Faculty of Medicine,
+Kindai University, 377-2, Ohno-Higashi, Osaka-Sayama, Osaka 577-8502, Japan.
+3Department of Hematology and Rheumatology, Kindai University Faculty of
+Medicine, 377-2, Ohno-Higashi, Osaka-Sayama, Osaka 577-8502, Japan.
+
+Received: 30 January 2019 Accepted: 22 May 2019
+
+References
+1.
+
+Adler BL, Wang CJ, Bui TL, Schilperoort HM, Armstrong AW. Anti-
+tumor necrosis factor agents in sarcoidosis: a systematic review of
+
+Inaoka et al. Journal of Biomedical Science           (2019) 26:45 
+
+Page 15 of 19
+
+5.
+
+2.
+
+4.
+
+3.
+
+efficacy and safety. Semin Arthritis Rheum. 2018. https://doi.org/10.
+1016/j.semarthrit.2018.10.005.
+Al-Harbi A, Al-Otaibi S, Abdulrahman A, Al-Jahdali F, Al-Harbi F, Bamefleh H,
+Gamdi M, Al-Jahdali H. Lung granuloma: a clinicopathologic study of 158 cases.
+Ann Thorac Med. 2017;12(4):278–81. https://doi.org/10.4103/atm.ATM_1_17.
+Arkema EV, Cozier YC. Epidemiology of sarcoidosis: current findings and
+future directions. Ther Adv Chronic Dis. 2018;9(11):227–40. https://doi.org/
+10.1177/2040622318790197.
+Arpaia N, Campbell C, Fan X, Dikiy S, Van Der Veeken J, Deroos P, Liu H,
+Cross JR, Pfeffer K, Coffer PJ, Rudensky AY. Metabolites produced by
+commensal bacteria promote peripheral regulatory T-cell generation.
+Nature. 2013;504(7480):451–5. https://doi.org/10.1038/nature12726.
+Asakawa N, Uchida K, Sakakibara M, Omote K, Noguchi K, Tokuda Y, Kamiya
+K, Hatanaka KC, Matsuno Y, Yamada S, Asakawa K, Fukasawa Y, Nagai T,
+Anzai T, Ikeda Y, Ishibashi-Ueda H, Hirota M, Orii M, Akasaka T, Uto K, Shingu
+Y, Matsui Y, Morimoto SI, Tsutsui H, Eishi Y. Immunohistochemical
+identification of Propionibacterium acnes in granuloma and inflammatory
+cells of myocardial tissues obtained from cardiac sarcoidosis patients. PLoS
+One. 2017;12(7):e0179980. https://doi.org/10.1371/journal.pone.0179980.
+Babu K. Sarcoidosis in tuberculosis-endemic regions: India. J Ophthalmic
+Inflamm Infect. 2013;3(1):53. https://doi.org/10.1186/1869-5760-3-53.
+Bachelez H, Senet P, Cadranel J, Kaoukhov A, Dubertret L. The use of tetracyclines
+for the treatment of sarcoidosis. Arch Dermatol. 2001;137(1):69–73.
+Badar F, Azfar SF, Ahmad I, Yasmeen S, Kirmani S. Diagnostic difficulties in
+differentiating sarcoidosis from tuberculosis. Oman Med J. 2011;26(3):210–1.
+https://doi.org/10.5001/omj.2011.53.
+Badgwell C, Rosen T. Cutaneous sarcoidosis therapy updated. J Am Acad
+Dermatol. 2007;56(1):69–83. https://doi.org/10.1016/j.jaad.2006.06.019.
+10. Baughman RP, Grutters JC. New treatment strategies for pulmonary
+
+7.
+
+9.
+
+6.
+
+8.
+
+sarcoidosis: antimetabolites, biological drugs, and other treatment
+approaches. Lancet Respir Med. 2015;3(10):813–22. https://doi.org/10.1016/
+S2213-2600(15)00199-X.
+
+11. Baughman RP, Lower EE. Evidence-based therapy for cutaneous sarcoidosis. Clin
+
+Dermatol. 2007;25(3):334–40. https://doi.org/10.1016/j.clindermatol.2007.03.011.
+
+12. Baughman RP, Lower EE. Treatment of sarcoidosis. Clin Rev Allergy
+
+Immunol. 2015;49(1):79–92. https://doi.org/10.1007/s12016-015-8492-9.
+13. Becker A, Vella G, Galata V, Rentz K, Beisswenger C, Herr C, Walter J, Tierling
+S, Slevogt H, Keller A, Bals R. The composition of the pulmonary microbiota
+in sarcoidosis - an observational study. Respir Res. 2019;20(1):46. https://doi.
+org/10.1186/s12931-019-1013-2.
+
+14. Bickett AN, Lower EE, Baughman RP. Sarcoidosis diagnostic score: a
+
+systematic evaluation to enhance the diagnosis of sarcoidosis. Chest. 2018;
+154(5):1052–60. https://doi.org/10.1016/j.chest.2018.05.003.
+
+15. Bonifazi M, Gasparini S, Alfieri V, Renzoni EA. Pulmonary Sarcoidosis. Semin Respir
+Crit Care Med. 2017;38(4):437–49. https://doi.org/10.1055/s-0037-1603766.
+16. Bowe C, Jenssen F, Espinoza A. Case report of sarcoidosis as a great
+mimicker in various populations. J La State Med Soc. 2017;169(2):52.
+
+17. Braun NA, Celada LJ, Herazo-Maya JD, Abraham S, Shaginurova G, Sevin CM,
+Grutters J, Culver DA, Dworski R, Sheller J, Massion PP, Polosukhin VV,
+Johnson JE, Kaminski N, Wilkes DS, Oswald-Richter KA, Drake WP. Blockade
+of the programmed death-1 pathway restores sarcoidosis CD4(+) T-cell
+proliferative capacity. Am J Respir Crit Care Med. 2014;190(5):560–71. https://
+doi.org/10.1164/rccm.201401-0188OC.
+
+18. Broos CE, Van Nimwegen M, Kleinjan A, Ten Berge B, Muskens F, In 'T Veen
+JC, Annema JT, Lambrecht BN, Hoogsteden HC, Hendriks RW, Kool M, Van
+Den Blink B. Impaired survival of regulatory T cells in pulmonary sarcoidosis.
+Respir Res. 2015;16:108. https://doi.org/10.1186/s12931-015-0265-8.
+19. Brownell I, Ramírez-Valle F, Sanchez M, Prystowsky S. Evidence for
+
+mycobacteria in sarcoidosis. Am J Respir Cell Mol Biol. 2011;45(5):899–905.
+https://doi.org/10.1165/rcmb.2010-0433TR.
+
+20. Casanova N, Zhou T, Knox KS, Garcia JGN. Identifying novel biomarkers in
+sarcoidosis using genome-based approaches. Clin Chest Med. 2015;36(4):
+621–30. https://doi.org/10.1016/j.ccm.2015.08.005.
+
+21. Chapelon-Abric C, Saadoun D, Marie I, Comarmond C, Desbois AC, Domont
+
+F, Savey L, Cacoub P. Sarcoidosis with Takayasu arteritis: a model of
+overlapping granulomatosis. A report of seven cases and literature review.
+Int J Rheum Dis. 2017. https://doi.org/10.1111/1756-185X.13137.
+
+22. Clarke EL, Lauder AP, Hofstaedter CE, Hwang Y, Fitzgerald AS, Imai I, Biernat
+W, Rękawiecki B, Majewska H, Dubaniewicz A, Litzky LA, Feldman MD,
+Bittinger K, Rossman MD, Patterson KC, Bushman FD, Collman RG. Microbial
+lineages in sarcoidosis. A metagenomic analysis tailored for low-microbial
+
+content samples. Am J Respir Crit Care Med. 2018;197(2):225–34. https://doi.
+org/10.1164/rccm.201705-0891OC.
+
+23. Coquart N, Cadelis G, Tressières B, Cordel N. Epidemiology of sarcoidosis in
+afro-Caribbean people: a 7-year retrospective study in Guadeloupe. Int J
+Dermatol. 2015;54(2):188–92. https://doi.org/10.1111/ijd.12633.
+
+24. Costa AN, Costa FMD, Campos SV, Salles RK, Athanazio RA. The pulmonary
+
+microbiome: challenges of a new paradigm. J Bras Pneumol. 2018;0. https://
+doi.org/10.1590/S1806-37562017000000209.
+
+25. Crouser ED, Fingerlin TE, Yang IV, Maier LA, Nana-Sinkam P, Collman RG,
+Kaminski N. Application of “omics” and systems biology to sarcoidosis
+research. Ann Am Thorac Soc. 2017;14(Supplement_6):S445–51. https://doi.
+org/10.1513/AnnalsATS.201707-567OT.
+
+26. Cummings MM, Hammarsten JF. Sarcoidosis. Annu Rev Med. 1962;13:19–40.
+
+https://doi.org/10.1146/annurev.me.13.020162.000315.
+
+27. Cunningham-Bussel A, Zhang T, Nathan CF. Nitrite produced by
+
+mycobacterium tuberculosis in human macrophages in physiologic oxygen
+impacts bacterial ATP consumption and gene expression. Proc Natl Acad
+Sci U S A. 2013;110(45):E4256–65. https://doi.org/10.1073/pnas.1316894110.
+
+28. Dahan A, Brines M, Niesters M, Cerami A, Van Velzen M. Targeting the
+
+innate repair receptor to treat neuropathy. Pain Rep. 2016;1(1):e566. https://
+doi.org/10.1097/PR9.0000000000000566.
+
+29. Darlington P, Haugom-Olsen H, Von Sivers K, Wahlström J, Runold M,
+Svjatoha V, Porwit A, Eklund A, Grunewald J. T-cell phenotypes in
+bronchoalveolar lavage fluid, blood and lymph nodes in pulmonary
+sarcoidosis--indication for an airborne antigen as the triggering factor
+in sarcoidosis. J Intern Med. 2012;272(5):465–71. https://doi.org/10.1111/j.
+1365-2796.2012.02543.x.
+
+30. Derler AM, Eisendle K, Baltaci M, Obermoser G, Zelger B. High
+
+prevalence of ‘Borrelia-like’ organisms in skin biopsies of sarcoidosis
+patients from Western Austria. J Cutan Pathol. 2009;36(12):1262–8.
+https://doi.org/10.1111/j.1600-0560.2009.01271.x.
+
+31. Dickson RP, Erb-Downward JR, Freeman CM, Mccloskey L, Falkowski NR,
+
+Huffnagle GB, Curtis JL. Bacterial topography of the healthy human Lower
+respiratory tract. MBio. 2017;8(1). https://doi.org/10.1128/mBio.02287-16.
+32. Dimitriou F, Frauchiger AL, Urosevic-Maiwald M, Naegeli MC, Goldinger
+SM, Barysch M, Franzen D, Kamarachev J, Braun R, Dummer R, Mangana
+J. Sarcoid-like reactions in patients receiving modern melanoma
+treatment. Melanoma Res. 2018;28(3):230–6. https://doi.org/10.1097/CMR.
+0000000000000437.
+
+33. Drake WP, Oswald-Richter K, Richmond BW, Isom J, Burke VE, Algood H,
+
+Braun N, Taylor T, Pandit KV, Aboud C, Yu C, Kaminski N, Boyd AS, King LE.
+Oral antimycobacterial therapy in chronic cutaneous sarcoidosis: a
+randomized, single-masked, placebo-controlled study. JAMA Dermatol.
+2013a;149(9):1040–9. https://doi.org/10.1001/jamadermatol.2013.4646.
+34. Drake WP, Richmond BW, Oswald-Richter K, Yu C, Isom JM, Worrell JA, Shipley
+
+GR. Effects of broad-spectrum antimycobacterial therapy on chronic
+pulmonary sarcoidosis. Sarcoidosis Vasc Diffuse Lung Dis. 2013b;30(3):201–11.
+
+35. Du Bois RM, Goh N, Mcgrath D, Cullinan P.
+
+Is there a role for
+
+microorganisms in the pathogenesis of sarcoidosis? J Intern Med.
+2003;253(1):4–17.
+
+36. Dubaniewicz A. Mycobacterium tuberculosis heat shock proteins and
+
+autoimmunity in sarcoidosis. Autoimmun Rev. 2010;9(6):419–24. https://doi.
+org/10.1016/j.autrev.2009.11.015.
+
+37. Dubaniewicz A. Microbial and human heat shock proteins as ‘danger
+
+signals’ in sarcoidosis. Hum Immunol. 2013;74(12):1550–8. https://doi.org/10.
+1016/j.humimm.2013.08.275.
+
+38. Dubaniewicz A, Dubaniewicz-Wybieralska M, Sternau A, Zwolska Z, Izycka-
+Swieszewska E, Augustynowicz-Kopec E, Skokowski J, Singh M, Zimnoch L.
+Mycobacterium tuberculosis complex and mycobacterial heat shock
+proteins in lymph node tissue from patients with pulmonary sarcoidosis.
+J Clin Microbiol. 2006a;44(9):3448–51. https://doi.org/10.1128/JCM.01433-06.
+39. Dubaniewicz A, Holownia A, Kalinowski L, Wybieralska M, Dobrucki IT, Singh
+M. Is mycobacterial heat shock protein 16 kDa, a marker of the dormant
+stage of mycobacterium tuberculosis, a sarcoid antigen? Hum Immunol.
+2013;74(1):45–51. https://doi.org/10.1016/j.humimm.2012.10.007.
+
+40. Dubaniewicz A, Kämpfer S, Singh M. Serum anti-mycobacterial heat shock
+
+proteins antibodies in sarcoidosis and tuberculosis. Tuberculosis (Edinb).
+2006;86(1):60–7. https://doi.org/10.1016/j.tube.2005.09.004.
+
+41. Dubaniewicz A, Trzonkowski P, Dubaniewicz-Wybieralska M, Singh M,
+
+Myśliwski A. Comparative analysis of mycobacterial heat shock proteins-
+induced apoptosis of peripheral blood mononuclear cells in sarcoidosis
+
+Inaoka et al. Journal of Biomedical Science           (2019) 26:45 
+
+Page 16 of 19
+
+and tuberculosis. J Clin Immunol. 2006b;26(3):243–50. https://doi.org/10.
+1007/s10875-006-9011-9.
+
+42. Dubaniewicz A, Trzonkowski P, Dubaniewicz-Wybieralska M, Singh M,
+Myśliwski A. Mycobacterial heat shock protein-induced blood T
+lymphocytes subsets and cytokine pattern: comparison of sarcoidosis with
+tuberculosis and healthy controls. Respirology. 2007;12(3):346–54. https://
+doi.org/10.1111/j.1440-1843.2007.01076.x.
+
+43. Dubaniewicz A, Typiak M, Wybieralska M, Szadurska M, Nowakowski S,
+
+Staniewicz-Panasik A, Rogoza K, Sternau A, Deeg P, Trzonkowski P. Changed
+phagocytic activity and pattern of Fcγ and complement receptors on blood
+monocytes in sarcoidosis. Hum Immunol. 2012;73(8):788–94. https://doi.org/
+10.1016/j.humimm.2012.05.005.
+
+44. Dubrey S, Shah S, Hardman T, Sharma R. Sarcoidosis: the links between
+
+epidemiology and aetiology. Postgrad Med J. 2014;90(1068):582–9. https://
+doi.org/10.1136/postgradmedj-2014-132584.
+
+48.
+
+51.
+
+52.
+
+49.
+
+50.
+
+47.
+
+46.
+
+45. Duchemann B, Annesi-Maesano I, Jacobe De Naurois C, Sanyal S, Brillet PY,
+Brauner M, Kambouchner M, Huynh S, Naccache JM, Borie R, Piquet J,
+Mekinian A, Virally J, Uzunhan Y, Cadranel J, Crestani B, Fain O, Lhote F,
+Dhote R, Saidenberg-Kermanac'h N, Rosental PA, Valeyre D, Nunes H.
+Prevalence and incidence of interstitial lung diseases in a multi-ethnic
+county of greater Paris. Eur Respir J. 2017;50(2). https://doi.org/10.1183/
+13993003.02419-2016.
+Eishi Y. Etiologic aspect of sarcoidosis as an allergic endogenous infection
+caused by Propionibacterium acnes. Biomed Res Int. 2013a;2013:935289.
+https://doi.org/10.1155/2013/935289.
+Eishi Y. Etiologic link between sarcoidosis and Propionibacterium
+acnes. Respir Investig. 2013b;51(2):56–68. https://doi.org/10.1016/j.
+resinv.2013.01.001.
+Eishi Y, Suga M, Ishige I, Kobayashi D, Yamada T, Takemura T, Takizawa T,
+Koike M, Kudoh S, Costabel U, Guzman J, Rizzato G, Gambacorta M, Du Bois
+R, Nicholson AG, Sharma OP, Ando M. Quantitative analysis of mycobacterial
+and propionibacterial DNA in lymph nodes of Japanese and European
+patients with sarcoidosis. J Clin Microbiol. 2002;40(1):198–204.
+Eklund A. Aetiology, pathogenesis and treatment of sarcoidosis. J Intern
+Med. 2003;253(1):2–3.
+Espinoza JL. Machine learning for tackling microbiota data and infection
+complications in immunocompromised patients with cancer. J Intern Med.
+2018. https://doi.org/10.1111/joim.12746.
+Espinoza JL, Ai S, Matsumura I. New insights on the pathogenesis of
+Takayasu arteritis: revisiting the microbial theory. Pathogens. 2018;7(3).
+https://doi.org/10.3390/pathogens7030073.
+Espinoza JL, Elbadry MI, Nakao S. An altered gut microbiota may trigger
+autoimmune-mediated acquired bone marrow failure syndromes. Clin
+Immunol. 2016;171:62–4. https://doi.org/10.1016/j.clim.2016.08.008.
+Espinoza JL, Minami M. Sensing bacterial-induced DNA damaging effects.
+Front Immunol. 2018;9:52. https://doi.org/10.3389/fimmu.2018.00052.
+Esteves T, Aparicio G, Garcia-Patos V. Is there any association between
+sarcoidosis and infectious agents?: a systematic review and meta-analysis.
+BMC Pulm Med. 2016;16(1):165. https://doi.org/10.1186/s12890-016-0332-z.
+Fakhri G, Akel R, Salem Z, Tawil A, Tfayli A. Pulmonary sarcoidosis activation
+following neoadjuvant Pembrolizumab plus chemotherapy combination
+therapy in a patient with non-small cell lung cancer: a case report. Case Rep
+Oncol. 2017;10(3):1070–5. https://doi.org/10.1159/000484596.
+Fang C, Huang H, Xu Z. Immunological evidence for the role of
+mycobacteria in sarcoidosis: a meta-analysis. PLoS One. 2016;11(8):e0154716.
+https://doi.org/10.1371/journal.pone.0154716.
+Fares A. Factors influencing the seasonal patterns of infectious diseases. Int
+J Prev Med. 2013;4(2):128–32.
+Farrokhi S, Abbasirad N, Movahed A, Khazaei HA, Pishjoo M, Rezaei N. TLR9-
+based immunotherapy for the treatment of allergic diseases.
+Immunotherapy. 2017;9(4):339–46. https://doi.org/10.2217/imt-2016-0104.
+Feng Y, Zhou J, Gu C, Ding Y, Wan H, Ni L, Niu W. Association of six
+well-characterized polymorphisms in TNF-α and TNF-β genes with
+sarcoidosis: a meta-analysis. PLoS One. 2013;8(11):e80150. https://doi.
+org/10.1371/journal.pone.0080150.
+Fingerlin TE, Hamzeh N, Maier LA. Genetics of sarcoidosis. Clin Chest Med.
+2015;36(4):569–84. https://doi.org/10.1016/j.ccm.2015.08.002.
+Fischer A, Ellinghaus D, Nutsua M, Hofmann S, Montgomery CG, Iannuzzi
+MC, Rybicki BA, Petrek M, Mrazek F, Pabst S, Grohé C, Grunewald J,
+Ronninger M, Eklund A, Padyukov L, Mihailovic-Vucinic V, Jovanovic D,
+Sterclova M, Homolka J, Nöthen MM, Herms S, Gieger C, Strauch K,
+
+56.
+
+55.
+
+54.
+
+60.
+
+59.
+
+61.
+
+58.
+
+53.
+
+57.
+
+Winkelmann J, Boehm BO, Brand S, Büning C, Schürmann M, Ellinghaus E,
+Baurecht H, Lieb W, Nebel A, Müller-Quernheim J, Franke A, Schreiber S,
+Consortium G. Identification of immune-relevant factors conferring
+sarcoidosis genetic risk. Am J Respir Crit Care Med. 2015;192(6):727–36.
+https://doi.org/10.1164/rccm.201503-0418OC.
+Flores RJ, Flaherty KR, Jin Z, Bokhari S. The prognostic value of quantitating
+and localizing F-18 FDG uptake in cardiac sarcoidosis. J Nucl Cardiol. 2018.
+https://doi.org/10.1007/s12350-018-01504-y.
+Fussner LA, Karlstedt E, Hodge DO, Fine NM, Kalra S, Carmona EM, Utz JP,
+Isaac DL, Cooper LT. Management and outcomes of cardiac sarcoidosis: a
+20-year experience in two tertiary care centres. Eur J Heart Fail. 2018.
+https://doi.org/10.1002/ejhf.1319.
+
+62.
+
+63.
+
+64. Gabrilovich MI, Walrath J, Van Lunteren J, Nethery D, Seifu M, Kern JA,
+
+Harding CV, Tuscano L, Lee H, Williams SD, Mackay W, Tomashefski JF, Silver
+RF. Disordered toll-like receptor 2 responses in the pathogenesis of
+pulmonary sarcoidosis. Clin Exp Immunol. 2013;173(3):512–22. https://doi.
+org/10.1111/cei.12138.
+
+65. Garzoni C, Brugger SD, Qi W, Wasmer S, Cusini A, Dumont P, Gorgievski-
+
+Hrisoho M, Mühlemann K, Von Garnier C, Hilty M. Microbial communities in
+the respiratory tract of patients with interstitial lung disease. Thorax. 2013;
+68(12):1150–6. https://doi.org/10.1136/thoraxjnl-2012-202917.
+
+66. Georas SN, Chapman TJ, Crouser ED. Sarcoidosis and T-helper cells. Th1,
+
+Th17, or Th17.1? Am J Respir Crit Care Med. 2016;193(11):1198–200. https://
+doi.org/10.1164/rccm.201512-2419ED.
+
+67. Gerke AK, Judson MA, Cozier YC, Culver DA, Koth LL. Disease burden and
+
+variability in sarcoidosis. Ann Am Thorac Soc. 2017;14(Supplement_6):S421–
+8. https://doi.org/10.1513/AnnalsATS.201707-564OT.
+
+68. Ghossein RA, Ross DG, Salomon RN, Rabson AR. A search for
+
+mycobacterial DNA in sarcoidosis using the polymerase chain reaction.
+Am J Clin Pathol. 1994;101(6):733–7.
+
+69. Gkiozos I, Kopitopoulou A, Kalkanis A, Vamvakaris IN, Judson MA, Syrigos KN.
+
+Sarcoidosis-like reactions induced by checkpoint inhibitors. J Thorac Oncol.
+2018;13(8):1076–82. https://doi.org/10.1016/j.jtho.2018.04.031.
+
+70. Goto H, Usui Y, Umazume A, Uchida K, Eishi Y. As a possible pathogen of
+granuloma in patients with ocular sarcoidosis. Br J Ophthalmol. 2017;
+101(11):1510–3. https://doi.org/10.1136/bjophthalmol-2016-309248.
+71. Grunewald J, Eklund A. Sex-specific manifestations of Löfgren’s
+
+syndrome. Am J Respir Crit Care Med. 2007;175(1):40–4. https://doi.org/
+10.1164/rccm.200608-1197OC.
+
+72. Gupta D, Agarwal R, Aggarwal AN, Jindal SK. Molecular evidence for the role
+of mycobacteria in sarcoidosis: a meta-analysis. Eur Respir J. 2007;30(3):508–
+16. https://doi.org/10.1183/09031936.00002607.
+
+73. Hattori T, Konno S, Shijubo N, Yamaguchi T, Sugiyama Y, Honma S, Inase N,
+
+Ito YM, Nishimura M. Nationwide survey on the organ-specific prevalence
+and its interaction with sarcoidosis in Japan. Sci Rep. 2018;8(1):9440. https://
+doi.org/10.1038/s41598-018-27554-3.
+
+74. Heinle R, Chang C. Diagnostic criteria for sarcoidosis. Autoimmun Rev. 2014;
+
+13(4–5):383–7. https://doi.org/10.1016/j.autrev.2014.01.035.
+
+75. Horta-Baas G, Romero-Figueroa MDS, Montiel-Jarquín AJ, Pizano-Zárate
+
+ML, García-Mena J, Ramírez-Durán N. Intestinal Dysbiosis and
+rheumatoid arthritis: a link between gut microbiota and the
+pathogenesis of rheumatoid arthritis. J Immunol Res. 2017;2017:4835189.
+https://doi.org/10.1155/2017/4835189.
+
+76. Hosoda Y, Chiba Y. The relationship of sarcoidosis to tuberculosis. Acta Med
+
+Scand Suppl. 1964;425:271–4.
+
+79.
+
+77. Hu Y, Yibrehu B, Zabini D, Kuebler WM. Animal models of sarcoidosis. Cell
+Tissue Res. 2017;367(3):651–61. https://doi.org/10.1007/s00441-016-2526-3.
+78. Huang H, Lu Z, Jiang C, Liu J, Wang Y, Xu Z. Imbalance between Th17 and
+regulatory T-cells in sarcoidosis. Int J Mol Sci. 2013;14(11):21463–73. https://
+doi.org/10.3390/ijms141121463.
+Ibitoye RT, Wilkins A, Scolding NJ. Neurosarcoidosis: a clinical approach to
+diagnosis and management. J Neurol. 2017;264(5):1023–8. https://doi.org/10.
+1007/s00415-016-8336-4.
+Ishibashi K, Eishi Y, Tahara N, Asakura M, Sakamoto N, Nakamura K,
+Takaya Y, Nakamura T, Yazaki Y, Yamaguchi T, Asakura K, Anzai T,
+Noguchi T, Yasuda S, Terasaki F, Hamasaki T, Kusano K. Japanese
+antibacterial drug Management for Cardiac Sarcoidosis (J-ACNES): a
+multicenter, open-label, randomized, controlled study. J Arrhythm. 2018;
+34(5):520–6. https://doi.org/10.1002/joa3.12084.
+Ishihara M, Ishida T, Isogai E, Kimura K, Oritsu M, Matsui Y, Isogai H, Ohno S.
+Detection of antibodies to Borrelia species among patients with confirmed
+
+80.
+
+81.
+
+Inaoka et al. Journal of Biomedical Science           (2019) 26:45 
+
+Page 17 of 19
+
+82.
+
+83.
+
+84.
+
+85.
+
+86.
+
+87.
+
+88.
+
+89.
+
+90.
+
+91.
+
+92.
+
+93.
+
+94.
+
+95.
+
+96.
+
+Ishida
+
+Isogai H, Aoki K,
+
+Isogai E, Kimura K,
+
+sarcoidosis in a region where Lyme disease is nonendemic. Graefes Arch
+Clin Exp Ophthalmol. 1996;234(12):770–3.
+Ishihara M, Ohno S, Ono H,
+T, Suzuki K, Kotake S, Hiraga Y. Seroprevalence of anti-Borrelia
+antibodies among patients with confirmed sarcoidosis in a region of
+Japan where Lyme borreliosis is endemic. Graefes Arch Clin Exp
+Ophthalmol. 1998;236(4):280–4.
+James WE, Baughman R. Treatment of sarcoidosis: grading the evidence.
+Expert Rev Clin Pharmacol. 2018;11(7):677–87. https://doi.org/10.1080/
+17512433.2018.1486706.
+Judson MA. The diagnosis of sarcoidosis: attempting to apply rigor to
+arbitrary and circular reasoning. Chest. 2018;154(5):1006–7. https://doi.org/
+10.1016/j.chest.2018.06.012.
+Kachamakova-Trojanowska N, Jazwa-Kusior A, Szade K, Kasper L, Soja J,
+Andrychiewicz A, Jakiela B, Plutecka H, Sanak M, Jozkowicz A, Sladek K,
+Dulak J. Molecular profiling of regulatory T cells in pulmonary sarcoidosis. J
+Autoimmun. 2018;94:56–69. https://doi.org/10.1016/j.jaut.2018.07.012.
+Kandolin R, Lehtonen J, Kupari M. Cardiac sarcoidosis. J Intern Med. 2016;
+280(1):129–31. https://doi.org/10.1111/joim.12498.
+Karakaya B, Kaiser Y, Van Moorsel CHM, Grunewald J. Löfgren’s syndrome:
+diagnosis, management, and disease pathogenesis. Semin Respir Crit Care
+Med. 2017;38(4):463–76. https://doi.org/10.1055/s-0037-1602380.
+Khosravi A, Yáñez A, Price JG, Chow A, Merad M, Goodridge HS, Mazmanian
+SK. Gut microbiota promote hematopoiesis to control bacterial infection. Cell
+Host Microbe. 2014;15(3):374–81. https://doi.org/10.1016/j.chom.2014.02.006.
+Kim CH, Park J, Kim M. Gut microbiota-derived short-chain fatty acids, T
+cells, and inflammation. Immune Netw. 2014;14(6):277–88. https://doi.org/
+10.4110/in.2014.14.6.277.
+Kishore A, Petrek M. Next-generation sequencing based HLA typing:
+deciphering Immunogenetic aspects of sarcoidosis. Front Genet. 2018;9:503.
+https://doi.org/10.3389/fgene.2018.00503.
+Korsten P, Tampe B, Konig MF, Nikiphorou E. Sarcoidosis and autoimmune
+diseases: differences, similarities and overlaps. Curr Opin Pulm Med. 2018;
+24(5):504–12. https://doi.org/10.1097/MCP.0000000000000500.
+Kriss M, Hazleton KZ, Nusbacher NM, Martin CG, Lozupone CA. Low diversity
+gut microbiota dysbiosis: drivers, functional implications and recovery. Curr
+Opin Microbiol. 2018;44:34–40. https://doi.org/10.1016/j.mib.2018.07.003.
+Li Y, Wollnik B, Pabst S, Lennarz M, Rohmann E, Gillissen A, Vetter H, Grohé
+C. BTNL2 gene variant and sarcoidosis. Thorax. 2006;61(3):273–4. https://doi.
+org/10.1136/thx.2005.056564.
+Litinsky I, Elkayam O, Flusser G, Segal R, Yaron M, Caspi D. Sarcoidosis: TB or
+not TB? Ann Rheum Dis. 2002;61(5):385–6.
+Liu Y, Qiu L, Wang Y, Aimurola H, Zhao Y, Li S, Xu Z. The circulating Treg/
+Th17 cell ratio is correlated with relapse and treatment response in
+pulmonary sarcoidosis patients after corticosteroid withdrawal. PLoS One.
+2016;11(2):e0148207. https://doi.org/10.1371/journal.pone.0148207.
+London J, Grados A, Fermé C, Charmillon A, Maurier F, Deau B, Crickx E,
+Brice P, Chapelon-Abric C, Haioun C, Burroni B, Alifano M, Le Jeunne C,
+Guillevin L, Costedoat-Chalumeau N, Schleinitz N, Mouthon L, Terrier B.
+Sarcoidosis occurring after lymphoma: report of 14 patients and review of
+the literature. Medicine (Baltimore). 2014;93(21):e121. https://doi.org/10.
+1097/MD.0000000000000121.
+
+97. Marshall TG, Marshall FE. Sarcoidosis succumbs to antibiotics--implications
+for autoimmune disease. Autoimmun Rev. 2004;3(4):295–300. https://doi.
+org/10.1016/j.autrev.2003.10.001.
+
+98. Martens H, Zöllner B, Zissel G, Burdon D, Schlaak M, Müller-Quernheim J.
+Anti-Borrelia burgdorferi immunoglobulin seroprevalence in pulmonary
+sarcoidosis: a negative report. Eur Respir J. 1997;10(6):1356–8.
+99. Martinez FO, Gordon S. The M1 and M2 paradigm of macrophage
+
+activation: time for reassessment. F1000Prime Rep. 2014;6:13. https://doi.org/
+10.12703/P6-13.
+
+100. Mañá J, Rubio-Rivas M, Villalba N, Marcoval J, Iriarte A, Molina-Molina M, Llatjos
+R, García O, Martínez-Yélamos S, Vicens-Zygmunt V, Gámez C, Pujol R, Corbella
+X. Multidisciplinary approach and long-term follow-up in a series of 640
+consecutive patients with sarcoidosis: cohort study of a 40-year clinical
+experience at a tertiary referral center in Barcelona, Spain. Medicine (Baltimore).
+2017;96(29):e7595. https://doi.org/10.1097/MD.0000000000007595.
+
+101. Mian A, Ray A. Thoracic sarcoidosis versus tuberculosis: need for a multi-
+
+disciplinary approach. Indian J Radiol Imaging. 2018;28(2):267–8. https://doi.
+org/10.4103/ijri.IJRI_61_18.
+
+102. Mirsaeidi M, Machado RF, Schraufnagel D, Sweiss NJ, Baughman RP. Racial
+difference in sarcoidosis mortality in the United States. Chest. 2015;147(2):
+438–49. https://doi.org/10.1378/chest.14-1120.
+
+103. Miyazaki K, Yamada H, Tamura T, Shiozawa T, Satoh H. Pulmonary
+
+tuberculosis developed in sarcoidosis patients. Tuberk Toraks. 2018;66(3):271.
+https://doi.org/10.5578/tt.67367.
+
+104. Moller DR, Rybicki BA, Hamzeh NY, Montgomery CG, Chen ES, Drake W,
+
+Fontenot AP. Genetic, immunologic, and environmental basis of sarcoidosis.
+Ann Am Thorac Soc. 2017;14(Supplement_6):S429–36. https://doi.org/10.
+1513/AnnalsATS.201707-565OT.
+
+105. Mortaz E, Masjedi MR, Abedini A, Matroodi S, Kiani A, Soroush D, Adcock IM.
+Common features of tuberculosis and sarcoidosis. Int J Mycobacteriol. 2016;
+5(Suppl 1):S240–1. https://doi.org/10.1016/j.ijmyco.2016.09.031.
+106. Nagano Y, Itoh K, Honda K. The induction of Treg cells by gut-
+
+indigenous clostridium. Curr Opin Immunol. 2012;24(4):392–7. https://
+doi.org/10.1016/j.coi.2012.05.007.
+
+107. Nagata K, Eishi Y, Uchida K, Yoneda K, Hatanaka H, Yasuhara T,
+
+Nagata M, Sotozono C, Kinoshita S.
+of Propionibacterium acnes in the retinal granulomas in patients with
+ocular sarcoidosis. Sci Rep. 2017;7(1):15226. https://doi.org/10.1038/
+s41598-017-15710-0.
+
+Immunohistochemical detection
+
+108. Negi M, Takemura T, Guzman J, Uchida K, Furukawa A, Suzuki Y, Iida T,
+
+Ishige I, Minami J, Yamada T, Kawachi H, Costabel U, Eishi Y. Localization of
+propionibacterium acnes in granulomas supports a possible etiologic link
+between sarcoidosis and the bacterium. Mod Pathol. 2012;25(9):1284–97.
+https://doi.org/10.1038/modpathol.2012.80.
+
+109. Nessrine A, Zahra AF, Taoufik H. Musculoskeletal involvement in sarcoidosis.
+
+J Bras Pneumol. 2014;40(2):175–82.
+
+110. Newman KL, Newman LS. Occupational causes of sarcoidosis. Curr Opin
+Allergy Clin Immunol. 2012;12(2):145–50. https://doi.org/10.1097/ACI.
+0b013e3283515173.
+
+111. O'dwyer DN, Dickson RP, Moore BB. The lung microbiome, immunity, and
+
+the pathogenesis of chronic lung disease. J Immunol. 2016;196(12):4839–47.
+https://doi.org/10.4049/jimmunol.1600279.
+
+112. Osaki M, Adachi H, Gomyo Y, Yoshida H, Ito H. Detection of mycobacterial
+DNA in formalin-fixed, paraffin-embedded tissue specimens by duplex
+polymerase chain reaction: application to histopathologic diagnosis. Mod
+Pathol. 1997;10(1):78–83.
+
+113. Oswald-Richter KA, Beachboard DC, Seeley EH, Abraham S, Shepherd BE,
+
+Jenkins CA, Culver DA, Caprioli RM, Drake WP. Dual analysis for
+mycobacteria and propionibacteria in sarcoidosis BAL. J Clin Immunol. 2012;
+32(5):1129–40. https://doi.org/10.1007/s10875-012-9700-5.
+
+114. Owais M, Arsalan M, Choi J, Park KR. Effective diagnosis and treatment
+
+through content-based medical image retrieval (CBMIR) by using artificial
+intelligence. J Clin Med. 2019;8(4). https://doi.org/10.3390/jcm8040462.
+115. Pasadhika S, Rosenbaum JT. Ocular Sarcoidosis. Clin Chest Med. 2015;36(4):
+
+669–83. https://doi.org/10.1016/j.ccm.2015.08.009.
+
+116. Perng RP, Chou KT, Chu H, Chung YM. Familial sarcoidosis in Taiwan. J
+Formos Med Assoc. 2007;106(6):499–503. https://doi.org/10.1016/S0929-
+6646(09)60301-6.
+
+117. Picchianti-Diamanti A, Rosado MM, D’amelio R. Infectious agents and
+
+inflammation: the role of microbiota in autoimmune arthritis. Front
+Microbiol. 2017;8:2696. https://doi.org/10.3389/fmicb.2017.02696.
+
+118. Post J, Hull P. Tattoo reactions as a sign of sarcoidosis. CMAJ. 2012;184(4):
+
+432. https://doi.org/10.1503/cmaj.110696.
+
+119. Reich JM. Epidemiology of sarcoidosis. Mayo Clin Proc. 2016;91(6):822–3.
+
+https://doi.org/10.1016/j.mayocp.2016.04.012.
+
+120. Riley EA. Boeck’s sarcoid; a review based upon a clinical study of fifty-two
+
+cases. Am Rev Tuberc. 1950;62(3):231–85.
+
+121. Rivera NV, Ronninger M, Shchetynsky K, Franke A, Nöthen MM, Müller-
+
+Quernheim J, Schreiber S, Adrianto I, Karakaya B, Van Moorsel CH, Navratilova
+Z, Kolek V, Rybicki BA, Iannuzzi MC, Petrek M, Grutters JC, Montgomery C,
+Fischer A, Eklund A, Padyukov L, Grunewald J. High-density genetic mapping
+identifies new susceptibility variants in sarcoidosis phenotypes and shows
+genomic-driven phenotypic differences. Am J Respir Crit Care Med. 2016;
+193(9):1008–22. https://doi.org/10.1164/rccm.201507-1372OC.
+
+122. Rosen Y. Pathology of sarcoidosis. Semin Respir Crit Care Med. 2007;28(1):
+
+36–52. https://doi.org/10.1055/s-2007-970332.
+
+123. Rossides M, Grunewald J, Eklund A, Kullberg S, Di Giuseppe D, Askling J,
+
+Arkema EV. Familial aggregation and heritability of sarcoidosis: a Swedish
+
+Inaoka et al. Journal of Biomedical Science           (2019) 26:45 
+
+Page 18 of 19
+
+nested case-control study. Eur Respir J. 2018;52(2). https://doi.org/10.1183/
+13993003.00385-2018.
+
+microbiome in non-tuberculous mycobacteria. Eur Respir J. 2018. https://
+doi.org/10.1183/13993003.00810-2018.
+
+124. Saboor SA, Johnson NM, Mcfadden J. Detection of mycobacterial DNA
+
+in sarcoidosis and tuberculosis with polymerase chain reaction.
+Lancet. 1992;339(8800):1012–5.
+
+125. Saidha S, Sotirchos ES, Eckstein C. Etiology of sarcoidosis: does infection
+
+play a role? Yale J Biol Med. 2012;85(1):133–41.
+
+126. Saketkoo LA, Baughman RP. Biologic therapies in the treatment of
+
+sarcoidosis. Expert Rev Clin Immunol. 2016;12(8):817–25. https://doi.org/10.
+1080/1744666X.2016.1175301.
+
+127. Sakthivel P, Bruder D. Mechanism of granuloma formation in sarcoidosis. Curr
+
+Opin Hematol. 2017;24(1):59–65. https://doi.org/10.1097/MOH.0000000000000301.
+
+128. Sakthivel P, Grunewald J, Eklund A, Bruder D, Wahlström J. Pulmonary
+sarcoidosis is associated with high-level inducible co-stimulator (ICOS)
+expression on lung regulatory T cells--possible implications for the ICOS/
+ICOS-ligand axis in disease course and resolution. Clin Exp Immunol. 2016;
+183(2):294–306. https://doi.org/10.1111/cei.12715.
+
+129. Sato H, Nagai S, Du Bois RM, Handa T, Suginoshita Y, Ohta K, Welsh KI, Izumi
+T. HLA-DQB1 0602 allele is associated with splenomegaly in Japanese
+sarcoidosis. J Intern Med. 2007;262(4):449–57. https://doi.org/10.1111/j.1365-
+2796.2007.01829.x.
+
+130. Sato H, Woodhead FA, Ahmad T, Grutters JC, Spagnolo P, Van Den Bosch
+
+JM, Maier LA, Newman LS, Nagai S, Izumi T, Wells AU, Du Bois RM, Welsh KI.
+Sarcoidosis HLA class II genotyping distinguishes differences of clinical
+phenotype across ethnic groups. Hum Mol Genet. 2010;19(20):4100–11.
+https://doi.org/10.1093/hmg/ddq325.
+
+131. Sawahata M, Sugiyama Y. An epidemiological perspective of the pathology
+
+and etiology of sarcoidosis. Sarcoidosis Vasc Diffuse Lung Dis. 2016;33(2):112–6.
+
+132. Sayah DM, Bradfield JS, Moriarty JM, Belperio JA, Lynch JP. Cardiac
+involvement in sarcoidosis: evolving concepts in diagnosis and
+treatment. Semin Respir Crit Care Med. 2017;38(4):477–98. https://doi.
+org/10.1055/s-0037-1602381.
+
+133. Scadding JG. Mycobacterium tuberculosis in the aetiology of sarcoidosis. Br
+
+Med J. 1960;2(5213):1617–23.
+
+134. Schnerch J, Prasse A, Vlachakis D, Schuchardt KL, Pechkovsky DV,
+
+Goldmann T, Gaede KI, Müller-Quernheim J, Zissel G. Functional toll-like
+receptor 9 expression and CXCR3 ligand release in pulmonary
+sarcoidosis. Am J Respir Cell Mol Biol. 2016;55(5):749–57. https://doi.org/
+10.1165/rcmb.2015-0278OC.
+
+135. Schupp JC, Freitag-Wolf S, Bargagli E, Mihailović-Vučinić V, Rottoli P,
+Grubanovic A, Müller A, Jochens A, Tittmann L, Schnerch J, Olivieri C,
+Fischer A, Jovanovic D, Filipovic S, Videnovic-Ivanovic J, Bresser P, Jonkers R,
+O'reilly K, Ho LP, Gaede KI, Zabel P, Dubaniewicz A, Marshall B, Kieszko R,
+Milanowski J, Günther A, Weihrich A, Petrek M, Kolek V, Keane MP, O'beirne
+S, Donnelly S, Haraldsdottir SO, Jorundsdottir KB, Costabel U, Bonella F,
+Wallaert B, Grah C, Peroš-Golubičić T, Luisetti M, Kadija Z, Pabst S, Grohé C,
+Strausz J, Vašáková M, Sterclova M, Millar A, Homolka J, Slováková A,
+Kendrick Y, Crawshaw A, Wuyts W, Spencer L, Pfeifer M, Valeyre D, Poletti V,
+Wirtz H, Prasse A, Schreiber S, Krawczak M, Müller-Quernheim J. Phenotypes
+of organ involvement in sarcoidosis. Eur Respir J. 2018;51(1). https://doi.org/
+10.1183/13993003.00991-2017.
+
+136. Shamaei M, Mortaz E, Pourabdollah M, Garssen J, Tabarsi P, Velayati A,
+
+Adcock IM. Evidence for M2 macrophages in granulomas from pulmonary
+sarcoidosis: a new aspect of macrophage heterogeneity. Hum Immunol.
+2018;79(1):63–9. https://doi.org/10.1016/j.humimm.2017.10.009.
+137. Shariatmaghani S, Salari R, Sahebari M, Shalchiantabrizi P, Salari M.
+Musculoskeletal manifestations of sarcoidosis: a review article. Curr
+Rheumatol Rev. 2018. https://doi.org/10.2174/1573397114666180425111901.
+
+138. Song GG, Kim JH, Lee YH. Associations between TNF-α −308 a/G and
+
+lymphotoxin-α +252 a/G polymorphisms and susceptibility to
+sarcoidosis: a meta-analysis. Mol Biol Rep. 2014;41(1):259–67. https://doi.
+org/10.1007/s11033-013-2859-x.
+
+139. Spagnolo P, Sato H, Grunewald J, Brynedal B, Hillert J, Mañá J, Wells AU,
+Eklund A, Welsh KI, Du Bois RM. A common haplotype of the C-C
+chemokine receptor 2 gene and HLA-DRB1*0301 are independent genetic
+risk factors for Löfgren's syndrome. J Intern Med. 2008;264(5):433–41.
+https://doi.org/10.1111/j.1365-2796.2008.01984.x.
+
+140. Sulaiman I, Wu BG, Li Y, Scott AS, Malecha P, Scaglione B, Wang J, Basavaraj
+
+A, Chung S, Bantis K, Carpenito J, Clemente JC, Shen N, Bessich J, Rafeq S,
+Michaud G, Donington J, Naidoo C, Theron G, Schattner G, Garofano S,
+Condos R, Kamelhar D, Addrizzo-Harris D, Segal LN. Evaluation of the airway
+
+141. Suzuki Y, Uchida K, Takemura T, Sekine M, Tamura T, Furukawa A, Hebisawa
+A, Sakakibara Y, Awano N, Amano T, Kobayashi D, Negi M, Kakegawa T,
+Wada Y, Ito T, Suzuki T, Akashi T, Eishi Y. Propionibacterium acnes-derived
+insoluble immune complexes in sinus macrophages of lymph nodes
+affected by sarcoidosis. PLoS One. 2018;13(2):e0192408. https://doi.org/10.
+1371/journal.pone.0192408.
+
+142. Taflin C, Miyara M, Nochy D, Valeyre D, Naccache JM, Altare F, Salek-Peyron
+P, Badoual C, Bruneval P, Haroche J, Mathian A, Amoura Z, Hill G, Gorochov
+G. FoxP3+ regulatory T cells suppress early stages of granuloma formation
+but have little impact on sarcoidosis lesions. Am J Pathol. 2009;174(2):497–
+508. https://doi.org/10.2353/ajpath.2009.080580.
+
+143. Tang WH, Kitai T, Hazen SL. Gut microbiota in cardiovascular health and
+
+disease. Circ Res. 2017;120(7):1183–96. https://doi.org/10.1161/
+CIRCRESAHA.117.309715.
+
+144. Ten Berge B, Paats MS, Bergen IM, Van Den Blink B, Hoogsteden HC,
+
+Lambrecht BN, Hendriks RW, Kleinjan A. Increased IL-17A expression in
+granulomas and in circulating memory T cells in sarcoidosis. Rheumatology
+(Oxford). 2012;51(1):37–46. https://doi.org/10.1093/rheumatology/ker316.
+
+145. Testi I, Tognon MS, Gupta V. Diagnostic challenges in granulomatous
+uveitis: tuberculosis or sarcoidosis? Ocul Immunol Inflamm. 2018:1–3.
+https://doi.org/10.1080/09273948.2018.1491997.
+
+146. Tetzlaff MT, Nelson KC, Diab A, Staerkel GA, Nagarajan P, Torres-Cabala CA,
+Chasen BA, Wargo JA, Prieto VG, Amaria RN, Curry JL. Granulomatous/
+sarcoid-like lesions associated with checkpoint inhibitors: a marker of
+therapy response in a subset of melanoma patients. J Immunother Cancer.
+2018;6(1):14. https://doi.org/10.1186/s40425-018-0323-0.
+
+147. Thulasidoss K, Asokan L, Chandra P, Rejliwal P. The clinical conundrum of
+
+diagnosing and treating systemic sarcoidosis in a high TB burden area. BMJ
+Case Rep. 2017;2017. https://doi.org/10.1136/bcr-2016-218741.
+148. Timmermans WM, Van Laar JA, Van Hagen PM, Van Zelm MC.
+
+Immunopathogenesis of granulomas in chronic autoinflammatory diseases.
+Clin Transl Immunology. 2016;5(12):e118. https://doi.org/10.1038/cti.2016.75.
+
+149. Toutous-Trellu L, Ninet B, Rohner P, Auckenthaler R, Saurat JH, Pechère M.
+Three cases of cutaneous sarcoidosis: search for bacterial agent by the 16S
+RNA gene analysis and treatment with antibiotics. Dermatology. 2000;200(4):
+342–5. https://doi.org/10.1159/000018406.
+
+150. Trompette A, Gollwitzer ES, Yadava K, Sichelstiel AK, Sprenger N, Ngom-Bru C,
+
+Blanchard C, Junt T, Nicod LP, Harris NL, Marsland BJ. Gut microbiota
+metabolism of dietary fiber influences allergic airway disease and
+hematopoiesis. Nat Med. 2014;20(2):159–66. https://doi.org/10.1038/nm.3444.
+
+151. Tøndell A, Moen T, Børset M, Salvesen Ø, Rø AD, Sue-Chu M.
+
+Bronchoalveolar lavage fluid IFN-γ+ Th17 cells and regulatory T cells in
+pulmonary sarcoidosis. Mediat Inflamm. 2014;2014:438070. https://doi.org/
+10.1155/2014/438070.
+
+152. Ungprasert P, Crowson CS, Matteson EL. Seasonal variation in incidence of
+sarcoidosis: a population-based study, 1976-2013. Thorax. 2016;71(12):1164–
+6. https://doi.org/10.1136/thoraxjnl-2016-209032.
+
+153. Valentonyte R, Hampe J, Huse K, Rosenstiel P, Albrecht M, Stenzel A,
+
+Nagy M, Gaede KI, Franke A, Haesler R, Koch A, Lengauer T, Seegert D,
+Reiling N, Ehlers S, Schwinger E, Platzer M, Krawczak M, Müller-
+Quernheim J, Schürmann M, Schreiber S. Sarcoidosis is associated with
+a truncating splice site mutation in BTNL2. Nat Genet. 2005;37(4):357–
+64. https://doi.org/10.1038/ng1519.
+
+154. Van Moorsel CH, Christiani DC. Genetic susceptibility to sarcoidosis, a
+
+chronic inflammatory disorder. Am J Respir Crit Care Med. 2012;186(9):816–
+8. https://doi.org/10.1164/rccm.201209-1582ED.
+
+155. Van Velzen M, Heij L, Niesters M, Cerami A, Dunne A, Dahan A, Brines M. ARA
+
+290 for treatment of small fiber neuropathy in sarcoidosis. Expert Opin Investig
+Drugs. 2014;23(4):541–50. https://doi.org/10.1517/13543784.2014.892072.
+156. Vogel WV, Guislain A, Kvistborg P, Schumacher TN, Haanen JB, Blank CU.
+Ipilimumab-induced sarcoidosis in a patient with metastatic melanoma
+undergoing complete remission. J Clin Oncol. 2012;30(2):e7–e10. https://doi.
+org/10.1200/JCO.2011.37.9693.
+
+157. Webber MP, Yip J, Zeig-Owens R, Moir W, Ungprasert P, Crowson CS, Hall
+CB, Jaber N, Weiden MD, Matteson EL, Prezant DJ. Post-9/11 sarcoidosis in
+WTC-exposed firefighters and emergency medical service workers. Respir
+Med. 2017;132:232–7. https://doi.org/10.1016/j.rmed.2017.06.004.
+158. Wolin A, Lahtela EL, Anttila V, Petrek M, Grunewald J, Van Moorsel CHM,
+
+Eklund A, Grutters JC, Kolek V, Mrazek F, Kishore A, Padyukov L, Pietinalho A,
+
+Inaoka et al. Journal of Biomedical Science           (2019) 26:45 
+
+Page 19 of 19
+
+Ronninger M, Seppänen M, Selroos O, Lokki ML. SNP variants in major
+histocompatibility complex are associated with sarcoidosis susceptibility-a
+joint analysis in four European populations. Front Immunol. 2017;8:422.
+https://doi.org/10.3389/fimmu.2017.00422.
+
+159. Wu CH, Chung PI, Wu CY, Chen YT, Chiu YW, Chang YT, Liu HN.
+
+Comorbid autoimmune diseases in patients with sarcoidosis: a
+nationwide case-control study in Taiwan. J Dermatol. 2017;44(4):423–30.
+https://doi.org/10.1111/1346-8138.13654.
+
+160. Yang G, Eishi Y, Raza A, Rojas H, Achiriloaie A, De Los Reyes K,
+
+Raghavan R. Propionibacterium acnes-associated neurosarcoidosis: a
+case report with review of the literature. Neuropathology. 2018;38(2):
+159–64. https://doi.org/10.1111/neup.12411.
+
+161. Yatsynovich Y, Dittoe N, Petrov M, Maroz N. Cardiac sarcoidosis: a review of
+contemporary challenges in diagnosis and treatment. Am J Med Sci. 2018;
+355(2):113–25. https://doi.org/10.1016/j.amjms.2017.08.009.
+
+162. Zella S, Kneiphof J, Haghikia A, Gold R, Woitalla D, Thöne J. Successful
+
+therapy with rituximab in three patients with probable neurosarcoidosis.
+Ther Adv Neurol Disord. 2018;11:1756286418805732. https://doi.org/10.
+1177/1756286418805732.
+
+163. Zhou Y, Wei YR, Zhang Y, Du SS, Baughman RP, Li HP. Real-time quantitative
+
+reverse transcription-polymerase chain reaction to detect propionibacterial
+ribosomal RNA in the lymph nodes of Chinese patients with sarcoidosis. Clin
+Exp Immunol. 2015;181(3):511–7. https://doi.org/10.1111/cei.12650.
+
+164. Ziegenhagen MW, Müller-Quernheim J. The cytokine network in sarcoidosis
+
+and its clinical relevance. J Intern Med. 2003;253(1):18–30.
+
+165. Ziemer M, Grabner T, Eisendle K, Baltaci M, Zelger B. Granuloma annulare--a
+manifestation of infection with Borrelia? J Cutan Pathol. 2008;35(11):1050–7.
+https://doi.org/10.1111/j.1600-0560.2007.00977.x.
+
+166. Zimmermann A, Knecht H, Häsler R, Zissel G, Gaede KI, Hofmann S, Nebel A,
+Müller-Quernheim J, Schreiber S, Fischer A. And. Eur Respir J. 2017;50(6).
+https://doi.org/10.1183/13993003.00746-2016.
+
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.
+
+

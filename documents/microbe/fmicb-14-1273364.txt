@@ -1,0 +1,231 @@
+OPEN ACCESS
+
+EDITED AND REVIEWED BY
+Rustam Aminov,
+University of Aberdeen, United Kingdom
+
+*CORRESPONDENCE
+Madhuree Kumari
+
+madhuree88@gmail.com
+
+RECEIVED 06 August 2023
+ACCEPTED 10 August 2023
+PUBLISHED 18 August 2023
+
+CITATION
+Kumari M, Klodzinska SN and Chiﬁriuc MC
+(2023) Editorial: Microbe-nanoparticle
+interactions: a mechanistic approach.
+Front. Microbiol. 14:1273364.
+doi: 10.3389/fmicb.2023.1273364
+
+COPYRIGHT
+© 2023 Kumari, Klodzinska and Chiﬁriuc. This is
+an open-access article distributed under the
+terms of the Creative Commons Attribution
+License (CC BY). The use, distribution or
+reproduction in other forums is permitted,
+provided the original author(s) and the
+copyright owner(s) are credited and that the
+original publication in this journal is cited, in
+accordance with accepted academic practice.
+No use, distribution or reproduction is
+permitted which does not comply with these
+terms.
+
+TYPE Editorial
+PUBLISHED 18 August 2023
+DOI 10.3389/fmicb.2023.1273364
+
+Editorial: Microbe-nanoparticle
+interactions: a mechanistic
+approach
+
+Madhuree Kumari1*, Sylvia Natalie Klodzinska2 and
+Mariana Carmen Chiﬁriuc3
+
+1Department of Biochemistry, Indian Institute of Science, Bengaluru, India, 2Department of Pharmacy,
+University of Copenhagen, Copenhagen, Denmark, 3Department of Botanic and Microbiology, University
+of Bucharest, Bucharest, Romania
+
+KEYWORDS
+
+nanoparticles, microbes, interactions, drug delivery, bioﬁlm, resistance
+
+Editorial on the Research Topic
+Microbe-nanoparticle interactions: a mechanistic approach
+
+The last decade has seen a tremendous growth in nanoparticles’ application as potential
+antimicrobials against human, plant and animal diseases. The recent developments in
+synthesis and use of metallic, magnetic, polymeric nanoparticles, liposomes, nanoemulsions
+and nanogels have paved a path for their successful application against drug resistant
+bacteria, fungi and viruses. The nanoparticles mediated drug-delivery systems and their
+crucial role against quorum sensing and bioﬁlms have also been studied at a large scale.
+
+Microbes including bacteria, fungi and viruses undergo a series of biochemical,
+biophysical, physiological, molecular and metabolic changes during their interaction with
+diﬀerent nanosystems. Nanoparticles employ a series of cellular and epigenetic changes
+including generation of oxidative stress, DNA damage, changes in subcellular structure,
+change in omics to degrade the microbial structure and serving as a potential antimicrobial
+agent. However, some reports of microbes resistant against metal nanoparticles have also
+been reported. The current Research Topic aimed to address the mechanistic insights into
+the interaction of microbes-nanoparticles as potential antimicrobials and the strategies in
+use to prevent the development of microbial resistant against nanoparticles systems. Within
+this Research Topic, ﬁve articles including three research articles, one review and one mini-
+review were published, which added to our knowledge on microbe-nanoparticle interaction.
+The research article of Dhanya Raj et al. focused on the increasing drug resistance
+patterns in uropathogens and role of emerging nano-therapeutics. They synthesized silver
+nanoparticles using a brown-seaweed Turbinaria ornate. The obtained particles were
+spherical in nature, with an average size of 73.98 nm. The synthesized particles showed a
+high antioxidative and antibacterial activities. A good antibacterial activity was observed
+against uropathogens,
+including Staphylococcus aureus, Escherichia coli, Pseudomonas
+aeruginosa, Enterococcus faecalis, and Klebsiella pneumoniae. The authors concluded that
+silver nanoparticles can be developed as a new class of antimicrobial agents against urinary
+tract infections.
+
+Tiwari et al. worked on the development of “surface-tuned biocompatible nanomaterial-
+containing formulations with selective antimicrobial activity.” They focused on
+understanding the mechanism of polyethyleneimine-functionalized silver nanoparticles
+(PEI-f-Ag-NPs) as an antifungal agent using the intrinsic ﬂuorescence of whole Candida
+albicans cells as a molecular probe. PEI-f-Ag-NPs showed a low MIC value of 5 µg/mL, with
+
+Frontiers in Microbiology
+
+01
+
+frontiersin.org
+
+Kumari et al.
+
+10.3389/fmicb.2023.1273364
+
+a rapid killing kinetics. Silver nanoparticles had a strong binding
+tendency with C. albicans surface and had a more selective
+interaction with the tyrosine-rich proteins in the fungal cell.
+The study concluded that PEI-f-AG-NPs were able to generate
+reactive oxygen species and form cell wall pit while acting as
+antifungal agent.
+
+al.
+
+reported the
+
+role of nanoparticles
+
+Further investigating the nanoparticle-microbe interaction,
+surface
+Ameh et
+in determining their antibacterial action.
+stabilizing agents
+Cetyltrimethylammonium bromide (CTAB, to confer a positive
+surface charge) and polyvinyl pyrrolidone (PVP, to confer a
+neutral surface charge) were used as surface stabilizing agents
+for the synthesis of silver and copper nanoparticles. The results
+indicated that CTAB stabilized silver and copper nanoparticles
+were more eﬀective antibacterial agents against E. coli, S. aureus
+and Sphingobacterium multivorum than PVP stabilized metal
+nanoparticles. In conclusion, the authors speciﬁed the important
+of the surface charge and stabilizing agents of nanoparticles in
+conferring the antibacterial potential to them.
+
+also
+
+interactions
+
+resistance. They
+
+surface-bacterial membrane
+
+Furthermore, a review by Modi et al.
+
+shed light on
+in
+nanoparticle
+antibiotic
+focused on
+overcoming
+the role of
+surface functionalization of nanoparticles with
+aptamers and antibodies. Nanocarriers can employ a number
+of mechanisms including interaction with bacterial cell wall,
+lipopolysaccharide, cell membrane, ROS mediated bacterial
+killing, and targeting ion channels and eﬄux proteins
+to
+the bacterial cells. The authors concluded on designing
+kill
+surface-functionalized nanocarriers which can act as
+smart
+to replace the
+bacteria-
+conventional antibiotics.
+
+targeted robots with the potential
+
+latest development
+
+Last but not the least, Kamat and Kumari in their mini-review
+in nanoparticle-microbe
+presented the
+against
+interaction,
+nanoparticles.” They
+concern of
+nanoparticle resistance acquired by some bacterial pathogens.
+They summarized the mechanisms employed by pathogens to
+
+reviewed an important
+
+of microbial
+
+“emergence
+
+resistance
+
+gain resistance against nanoparticles: nanoparticle transformation-
+induced oxidative stress, membrane alterations, reversible adaptive
+resistance, irreversible modiﬁcations to cell division, and a change
+in bacterial motility and resistance. Furthermore, they suggested
+the important strategies which can be employed to prevent the
+pathogens from acquiring resistance against the nanoparticles.
+
+In conclusion, the Research Topic was presented with multiple
+interesting and scientiﬁc articles previding the insights on
+nanoparticle-microbe interaction. The editors consider that this
+issue has been successful in reporting on recent studies on the
+mechanistic of nanoparticle-microbe interaction.
+
+Author contributions
+
+MK: Conceptualization, Project administration, Resources,
+Supervision, Writing—original draft. SK: Conceptualization,
+Project administration, Supervision, Writing—review and editing.
+MC: Project
+Supervision, Writing—review
+and editing.
+
+administration,
+
+Conﬂict of interest
+
+The authors declare that the research was conducted in the
+absence of any commercial or ﬁnancial relationships that could be
+construed as a potential conﬂict of interest.
+
+Publisher’s note
+
+All claims expressed in this article are solely those of the
+authors and do not necessarily represent those of their aﬃliated
+organizations, or those of the publisher, the editors and the
+reviewers. Any product that may be evaluated in this article, or
+claim that may be made by its manufacturer, is not guaranteed or
+endorsed by the publisher.
+
+Frontiers in Microbiology
+
+02
+
+frontiersin.org
+
+

@@ -1,0 +1,2057 @@
+982
+
+Send Orders for Reprints to reprints@benthamscience.net 
+
+REVIEW ARTICLE 
+
+Current Drug Targets, 2019, 20, 982-993 
+
+Current Understanding of Group A Streptococcal Biofilms 
+
+(cid:17)(cid:18)(cid:18)(cid:12)(cid:19)(cid:8)(cid:16)(cid:20)(cid:21)(cid:15)(cid:22)(cid:23)(cid:24)(cid:10)(cid:16)
+(cid:7)(cid:17)(cid:18)(cid:18)(cid:12)(cid:19)(cid:8)(cid:16)(cid:21)(cid:25)(cid:20)(cid:22)(cid:24)(cid:24)(cid:15)(cid:9)
+
+(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)
+(cid:8)(cid:5)(cid:6)(cid:7)(cid:9)(cid:10)(cid:11)
+(cid:12)(cid:13)(cid:14)(cid:14)(cid:15)
+
+(cid:20)(cid:18)(cid:19)(cid:21)(cid:22)(cid:23)(cid:24)
+(cid:16) (cid:17) (cid:2) (cid:18) (cid:19) (cid:17) (cid:18)
+
+Heema K.N. Vyas#, Emma-Jayne Proctor#, Jason McArthur, Jody Gorman and Martina Sanderson-
+Smith* 
+
+School  of  Chemistry  and  Molecular  Bioscience,  and  Illawarra  Health  and  Medical  Research  Institute,  University  of 
+Wollongong, Wollongong, Australia 
+
+(cid:2)
+
+A R T I C L E  H I S T O R Y 
+
+Received: March 28, 2019 
+Revised: April 01, 2019 
+Accepted: April 02, 2019 
+
+DOI: 
+10.2174/1389450120666190405095712 
+
+Abstract:  Background:  It  has  been  proposed  that  GAS  may  form  biofilms.  Biofilms  are  microbial 
+communities that aggregate on a  surface, and exist within  a self-produced matrix of  extracellular po-
+lymeric substances. Biofilms offer bacteria an increased survival advantage, in which bacteria persist, 
+and  resist  host  immunity  and  antimicrobial  treatment.  The  biofilm  phenotype  has  long  been  recog-
+nized  as  a  virulence  mechanism  for  many  Gram-positive  and  Gram-negative  bacteria,  however  very 
+little is known about the role of biofilms in GAS pathogenesis.  
+
+Objective: This review provides an overview of the current knowledge of biofilms in GAS pathogene-
+sis. This review assesses the evidence of GAS biofilm formation, the role of GAS virulence factors in 
+GAS biofilm formation, modelling GAS biofilms,  and discusses the polymicrobial nature of biofilms 
+in the oropharynx in relation to GAS. 
+
+Conclusion:  Further  study  is  needed  to  improve  the  current  understanding  of  GAS  as  both  a  mono-
+species  biofilm,  and  as  a  member  of  a  polymicrobial  biofilm.  Improved  modelling  of  GAS  biofilm 
+formation  in  settings  closely  mimicking  in  vivo  conditions  will  ensure  that  biofilms  generated  in  the 
+lab closely reflect those occurring during clinical infection. 
+
+Keywords: Streptococcus pyogenes, Group A Streptococcus, biofilms, biofilm formation, antibiotics, virulence factors, biofilm 
+modelling, polymicrobial. 
+
+s
+t
+e
+g
+r
+a
+T
+
+g
+u
+r
+D
+
+t
+n
+e
+r
+r
+u
+C
+
+1. INTRODUCTION 
+
+  Group A Streptococcus (GAS) is a Gram-positive patho-
+gen,  with  the  human  population  serving  as  its  only  known 
+reservoir. GAS is known to cause an array of diseases rang-
+ing from mild, superficial infections such as impetigo, tonsil-
+litis and pharyngitis, to serious invasive infections including 
+necrotizing  fasciitis,  Streptococcal  toxic  shock  syndrome, 
+cellulitis,  and  autoimmune  sequelae  (including  rheumatic 
+heart disease, acute rheumatic fever, and glomerulonephritis) 
+[1, 2]. Globally, GAS  causes 700 million  infections and ac-
+counts for half a million deaths per year [3]. 
+
+Increased  use  of  macrolides  for  the  treatment  of  GAS 
+infections has seen an increase in resistance; however, there 
+have been no reports of resistance to penicillin among clini-
+cal GAS isolates [4-6]. Despite GAS remaining sensitive  to 
+penicillin,  a  number  of  studies  have  indicated  antibiotic 
+treatment failure rates of 20-40% [5, 7]. Numerous hypothe-
+ses  explaining  antibiotic  treatment  failure  have  been  pro-
+posed,  including  biofilm  formation  [4,  5,  8].  The  biofilm 
+increased  survival  advantage,  
+phenotype  provides  an 
+
+*Address correspondence to this author at the Illawarra Health and Medical 
+Research  Institute  and  School  of  Chemistry  and  Molecular  Bioscience, 
+University  of  Wollongong,  Wollongong,  2500  Australia;  Tel:  +61  2 
+42981935; E-mail: martina@uow.edu.au 
+
+#Contributed equally to this manuscript. 
+
+enabling bacteria  to persist  and resist both host  immune de-
+fenses  and  antimicrobial  treatment  [4,  9,  10].  Although  the 
+biofilm  phenotype  has  been  studied  extensively  for  other 
+bacteria,  little  is  known  about  GAS  biofilm  in  vitro  or  in 
+vivo.  This  review  provides  an  overview  of  the  current 
+knowledge of the GAS biofilm. 
+
+2. BIOFILMS IN GAS PATHOGENESIS 
+
+  Biofilm  formation  is  recognized  as  a  virulence  mecha-
+nism for a variety of Gram-positive and Gram-negative bac-
+terial  species  [11-14].  The  presence  of  GAS  biofilms  in  a 
+variety  of  clinical  infections  suggests  this  phenotype  may 
+play a role in GAS pathogenesis [15, 16]. While there have 
+been  numerous  studies  that  have  characterized  the  role  of 
+GAS  virulence  factors  in  biofilm  formation,  studies  assess-
+ing the role of biofilm formation in GAS pathogenesis have 
+been  limited.  To  understand  GAS  as  a  biofilm,  it  is  first 
+important to understand the biofilm phenotype.  
+
+2.1. Bacterial Biofilms 
+
+  Bacteria  can  exist  either  in  planktonic  or  biofilm  states. 
+Planktonic  cells  are  singular  ‘free  floating’  entities  existing 
+in  a  liquid  environment  [17],  whereas  in  biofilms,  bacteria 
+exist as sessile aggregates encased in a self-produced matrix 
+of  Extracellular  Polymeric  Substances  (EPS)  attached  to  a 
+biological or non-biological surface [18].  Biofilm  cells vary 
+
+1873-5592/19 $58.00+.00 
+
+©2019 Bentham Science Publishers 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Current Understanding of Group A Streptococcal Biofilms 
+
+Current Drug Targets, 2019, Vol. 20, No. 9    983 
+
+drastically in their physiology, growth rate, and gene expres-
+sion when compared to planktonic cells. Furthermore, it has 
+become  clear  that  bacteria  frequently  flux  between  plank-
+tonic  and  biofilm  states,  which  is  central  to  biofilm  forma-
+tion and development [19, 20].  
+
+2.1.1. Biofilm Formation and Development 
+
+  Biofilm  formation  is  a  dynamic,  multifaceted  process 
+triggered by environmental cues that prompt changes in gene 
+expression.  This  results  in  a  re-organization  of  the  spatial 
+and temporal arrangement of bacterial cells leading to a tran-
+sition  from  the  planktonic  phenotype,  to  a  biofilm  [21]. 
+Overall,  biofilm  formation  and  development  has  been  well-
+defined, and can be simplified into 4 steps: i) reversible bac-
+terial  attachment;  ii)  irreversible  bacterial  attachment;  iii) 
+biofilm  maturation  and  iv)  biofilm  dispersal  [21].  In  brief, 
+initial reversible attachment of free-floating planktonic  cells 
+to a host tissue surface is driven by environmental cues (e.g. 
+pH,  temperature,  ions,  nutrients,  and  gas/O2  availability), 
+forces of gravity, Brownian motion, and local environmental 
+hydrodynamics  [21-23].  Some  motile  bacteria  may  use  ap-
+pendages (e.g. pili and flagella) for migration [24, 25]. Upon 
+irreversible  attachment,  EPS,  consisting  of  polysaccharides, 
+proteins,  nucleic  acids,  and  lipids  are  produced  and  this 
+meshwork  provides  the  scaffold  for  a  complex,  three-
+dimensional biofilm architecture [11, 26]. At  this stage,  ini-
+tial  micro-colonies  begin  to  form  [27].  Biofilm  maturation 
+can be induced by quorum sensing signals prompting pheno-
+typic  changes  and  genetic  diversification.  This  process  re-
+sults  in  enhanced  structural  defense  against  biological, 
+physical, and chemical stress, which assists nutrient acquisi-
+tion by forming complex water/nutrient channels, and facili-
+tates  reproductive  ability  [28].  Dispersal  of  bacterial  cells 
+into  the  host  environment  is  the  final  stage  of  the  biofilm 
+cycle  which  can  occur  passively  through  physical  forces 
+such as fluid shear or abrasion, or can be induced in response 
+to various environmental conditions (e.g. pH, nutrient levels, 
+and gas concentrations), highly regulated signal transduction 
+pathways, and effectors. Dispersal is key for re-colonization 
+and re-establishment of the biofilm at other sites [19, 29]. 
+
+2.1.2. Biofilm Resistance to Immune Clearance and Antim-
+icrobial Agents 
+
+It has been suggested that 99% of the world’s bacteria ex-
+ist  in  a  biofilm  state,  highlighting  an  adaptive  advantage  of 
+this phenotype  [30].  Biofilms  are highly  resistant  to both  an-
+timicrobial  treatment  and  immune  action  [31].  Biofilm  com-
+munities  are  ~10-1000  fold  more  resistant  to  antimicrobials 
+when compared to their planktonic bacterial cell counterparts 
+[32,  33].  Resistance  displayed  by  biofilm  communities  is  at-
+tributed to, but not limited to: i) changes in gene expression; 
+ii)  sharing of resistance  genes  via  horizontal gene  transfer or 
+adaptive  mutations;  iii)  active  release  of  antibiotic-degrading 
+enzymes; iv) three-dimensional structure; v) the physical EPS 
+barrier  (to  both  antibiotics/antimicrobials  and  immune  cells) 
+and vi) reduced metabolic activity among some bacterial cells 
+found deep within the biofilm [34-36].  
+
+2.2. Evidence of GAS Biofilm Formation 
+
+  GAS typically infects the skin and mucosal surface of the 
+oropharynx.  The  earliest  evidence  for  the  presence  of  GAS 
+
+biofilm in vivo was found in impetigo lesions, where glyco-
+calyx  encapsulated  micro-colonies  resembling    early  stage 
+biofilm  formation  were  detected  via  FITC-ConA  staining 
+and  visualized  by  confocal  laser  scanning  microscopy 
+(CLSM) [37]. A more recent clinical case study described a 
+previously  healthy  male  presenting  with  a  Necrotizing  Soft 
+Tissue  Infection  (NSTI)  persisting  over  24  days.  The  sur-
+geon noted  the  presence of  “thick  layer biofilm” in the pa-
+tient’s  fascia  [16].  This  observation  prompted  the  team  to 
+further investigate the biofilm as a constituent of GAS NSTI. 
+A multicenter study revealed that 32% of patient tissue biop-
+sies  (n=31)  contained  GAS  biofilm.  The  biofilms  found  in 
+these  NSTIs  exacerbated  inflammation  and  led  to  severe 
+tissue  damage  at  the  site  of  the  NSTI  infection;  moreover, 
+the presence of bacterial loads far exceeded those of wound 
+biopsies lacking biofilm. Taken together, these studies high-
+light  the need for further consideration of GAS biofilm as a 
+complicating factor in NSTIs.  
+
+  GAS  enters  the  throat  via  the  oral  cavity  and  typically 
+colonizes the oro-nasopharynx. Asymptomatic and persistent 
+oropharyngeal  GAS  carriage  has  been  attributed  to  biofilm 
+formation,  complicating,  and  contributing  to  oropharyngeal 
+disease [38]. Although penicillin resistant GAS has not been 
+reported, it has been hypothesized that GAS biofilm may be 
+a contributing factor to the antibiotic treatment failure rate of 
+20-40% associated with GAS infection [7, 39]. A number of 
+clinically relevant GAS serotypes (M2, M6, M14, and M18) 
+have  been  found  to  form  biofilm  in  vitro  on  both  uncoated 
+surfaces, and surfaces coated with human fibronectin, human 
+fibrinogen,  human  collagen  types  I  and  IV,  and  human 
+laminin [39]. In a study observing GAS pharyngitis and anti-
+biotic  treatment  failure,  all  99  GAS  isolates  collected  from 
+patients  suffering  from  GAS  pharyngitis  displayed  biofilm 
+forming  abilities  to  varying  degrees  [5].  The  Minimum 
+Biofilm  Eradication  Concentrations  (MBECs)  were  overall 
+higher  than  the  Minimum  Inhibitory  Concentration  (MIC) 
+values  for  all  GAS  isolates,  with  resistance  to  penicillin 
+demonstrated  by  60%  of  the  GAS  isolates  when  in  the 
+biofilm phenotype. This study is one of the  earliest to dem-
+onstrate  a link between  in vitro GAS biofilm formation and 
+penicillin  insensitivity,  highlighting  the  protective  advan-
+tages  offered  by  the  biofilm  phenotype  against  antibiotics 
+like penicillin [5].  
+
+  Another  study  investigated  289  differing  clinical  GAS 
+isolates  from  carriers,  pharyngitis  cases,  and  invasive/non-
+invasive  infections  in  an  attempt  to  understand  the  link  be-
+tween clinical source, biofilm-forming ability, and antibiotic 
+insensitivity  [4].  Although  90%  were  found  to  be  biofilm 
+forming  in  vitro,  some  emm  types  displayed  a  greater  pro-
+pensity for biofilm formation than others, this was especially 
+apparent among emm 6 strains when assessed for the biofilm 
+biomass.  However,  intra-strain  variability  within  an  M-type 
+suggested  that  the  biofilm  formation  was  strain  specific 
+rather  than  an overall characteristic offered by  the serotype. 
+Moreover,  this  study  found  that  GAS  strains  which  were 
+otherwise macrolide sensitive utilized the biofilm phenotype 
+to  resist  β-lactam  treatment  [4].  A  more  recent  study  ex-
+plored  biofilm  formation  by  15  differing  GAS  emm  types 
+frequently  isolated  from  patients  suffering  from  recurrent 
+GAS  pharyngitis  [8].  Findings  indicated  that  emm  types  1, 
+12 and 28 were most abundant; however,  the  emm 6 strains 
+
+ 
+984    Current Drug Targets, 2019, Vol. 20, No. 9 
+
+Vyas et al. 
+
+produced  significantly  more  biofilm.  These  GAS  biofilms 
+were 10 times more resistant to penicillin, erythromycin, and 
+clindamycin used individually or in combination when com-
+pared  to  MICs  generated  for  their  planktonic  cell  counter-
+parts. 
+
+  An  in  vivo  study  by  Roberts,  et  al.  [15]  revealed  GAS 
+residing  within  the  tonsillar  crypts  of  sufferers  of  recurrent 
+GAS  tonsillopharyngitis  using  fluorescence  microscopy  and 
+Scanning  Electron  Microscopy  (SEM).  The  group  also  ob-
+served  cocci  chains  typical  of  GAS  arranged  in  three-
+dimensional communities resemblant of biofilm in an ex vivo 
+pig epithelium model [15].  
+
+  Overall, it is apparent that both the skin and the throat are 
+able to cultivate GAS biofilms from the earlier stages of mi-
+cro-colony formation, to the more mature biofilm communi-
+ties. Moreover, these findings highlight the clinical relevance 
+of  GAS  biofilms  and  their  potential  role  in  antibiotic  treat-
+ment  failure  in  recurrent  GAS  infections.  Taken  together, 
+this  reinforces  the  need  for  further  investigation  into  GAS 
+biofilm formation in vitro, in vivo and ex vivo. 
+
+2.2.1.  Virulence  Factors  Involved  in  GAS  Biofilm  Forma-
+tion 
+
+  GAS  expresses  multiple virulence factors  involved  in  ad-
+herence to host tissue surfaces. GAS virulence factor expres-
+sion is variable between individual strains, and differs between 
+GAS  serotypes,  with  expression  and  regulation  impacted  by 
+both  host  and  environmental  stimuli  [2,  40].  Several  GAS 
+virulence  factors  have  been  implicated  in  various  stages  of 
+biofilm phenotype development (Table 1 and Fig. 1).  
+
+2.2.1.1. M Protein Family and Lipoteichoic Acid 
+
+  The M protein is highly expressed on the surface of GAS, 
+and  numerous  studies  have  demonstrated  a  role  for  M  pro-
+tein  in  adherence,  as  it  facilitates  the  attachment  of  GAS  to 
+host  epithelial  cells  [41-43].  It  has  also  been  proposed  that 
+the M protein mediates initial cell-surface interactions during 
+biofilm  formation.  Cho  and  Caparon  [44] demonstrated  this 
+using an isogenic M protein deficient GAS HSC5 (emm 14) 
+mutant  grown  on  abiotic  polystyrene  surfaces  under  static 
+conditions.  The mutant displayed a decrease in biofilm bio-
+mass relative to wild-type by safranin staining. Courtney, et 
+al. [45] also observed significantly reduced biofilm biomass 
+relative to wild-type for isogenic M protein mutants of emm 
+1,  5,  6  and  24  isolates  under  similar  growth  conditions.  A 
+correlation  has  been  shown  between  M  protein  expression 
+and  the  levels  of  membrane-bound  lipoteichoic  acid  (LTA), 
+surface hydrophobicity, and ability to form biofilms for emm 
+types 1, 5, 6 and 24. Isogenic M protein deficient GAS mu-
+tants  displayed  diminished  bacterial  hydrophobicity,  de-
+creased  membrane-bound  LTA,  and  decreased  biofilm  bio-
+mass relative to wild-type strains. It was suggested that com-
+plex  interactions  between  M  protein  and  LTA  expose  the 
+ester fatty acids of LTA, increasing bacterial hydrophobicity, 
+ultimately  favoring  LTA-host  cell  interactions  [45].  Con-
+versely,  no  significant  reduction  in  biofilm  biomass,  hydro-
+phobicity  or  membrane-bound  LTA  was  observed  for 
+isogenic M2, M4 and M49 protein deficient GAS. Notably, a 
+key  difference  between  the  strains  displaying  M-protein-
+LTA mediated adherence and those that did not, is their emm 
+pattern classification. Specifically, emm1, 5, 6, and 24 strains 
+
+all belong to the emm pattern A classification, which display 
+a single M protein family member on their surface whilst the 
+emm 2, 4 and 49 belong to the pattern D and E classification, 
+which express other surface proteins of the M protein family, 
+such as the M-related protein (mrp) and M-like protein (enn) 
+on  their  surface.  Thus,  it  appears  that  the  M-protein-LTA 
+interaction may be specific to strains expressing only one M 
+protein  family  member.  Courtney,  et  al.  [45]  also  investi-
+gated if the Mrp and Enn proteins participated in LTA com-
+plex mediated biofilm formation and found a significant de-
+crease 
+in  hydrophobicity,  membrane-bound  LTA,  and 
+biofilm  formation  relative  to  wild-type  using  an  isogenic 
+mrp4  deficient  GAS  mutant  of  the  emm4  expressing  strain. 
+However,  an  isogenic  enn4  deficient  GAS  mutant  was  also 
+examined  and  there  was  no  difference  in  hydrophobicity, 
+membrane-bound  LTA,  or  biofilm  formation  compared  to 
+the  wild  type.  The  M  protein  has  previously  been  shown  to 
+be expressed at significantly higher levels than Mrp and Enn 
+in a CS101 GAS (emm49) strain [46]. Expression levels may 
+play a part in the role of these proteins in LTA complex ini-
+tiation  and  biofilm  formation;  however  this  has  yet  to  be 
+determined. Collectively, this research highlights the need to 
+study GAS biofilm formation using strains from diverse ge-
+netic backgrounds. 
+
+2.2.1.2. Pili 
+
+Pili are long filamentous structures that  exist on the sur-
+face of GAS, and numerous other bacterial species [58, 59]. 
+Pili  are  encoded  by  the  FCT  (fibronectin-binding  protein, 
+collagen-binding  protein,  and  trypsin-resistant  antigen)  ge-
+nomic region of GAS. This is a highly variable 11kb patho-
+genicity  island  which  contains  genes  for  a  pilus  backbone 
+protein, at least one matrix protein binding ancillary protein, 
+sortases  (SrtB/SrtC2),  and  a  signal  peptidase  [1,  40,  60]. 
+GAS can be  classified into nine FCT subtypes based on the 
+diversity  of  gene  content  and  nucleotide  sequence  [47,  61, 
+62].  Pili  are  considered  a  major  adhesin  of  GAS,  as  their 
+involvement  in  the  adherence  of  GAS  to  human  tonsillar 
+tissue, keratinocytes,  lung, and  throat  epithelial cells  is well 
+characterized  [63-65].  Numerous  studies  have  demonstrated 
+that pili play an  integral part  in GAS biofilm formation and 
+have  shown  associations  between  several  different  FCT 
+types and  the capacity of GAS to form bacterial biofilms  in 
+vitro [1, 8, 47, 58, 60].  
+
+  Manetti,  et  al.  [1]  confirmed  that  GAS  FCT-2  pili  are 
+essential  for  efficient  attachment  of  the  GAS  M1  strain 
+SF370 to human epithelial cells, as GAS pilus negative mu-
+tants,  constructed  by  either  deletion  of  the  pilus  backbone 
+structural  protein  (Δspy0128)  or  the  sortase  C1  (Δspy0129) 
+gene  which  are  essential  for  pili  assembly,  were  unable  to 
+attach  to  epithelial  cells.  The  same  mutants  did  not  effi-
+ciently aggregate in liquid culture and did not form sufficient 
+biofilms  relative  to  the  wildtype  strain  on  polystyrene  as 
+determined  by  crystal  violet  biomass  staining,  or  epithelial 
+cells  as  observed  by  confocal  microscopy  [1].  Visualization 
+of  the  wildtype,  Δspy0128  and  Δspy0129  strains  demon-
+strated that the EPS was virtually absent for the mutant strains. 
+This dramatically contrasted to the wild-type GAS SF370 strain 
+and the complementation  mutant for which  the biofilm pheno-
+type was restored. Together, these results demonstrate that FCT-
+the  biofilm 
+the 
+2  pili  are 
+
+important 
+
+transition 
+
+to 
+
+in 
+
+ 
+Current Understanding of Group A Streptococcal Biofilms 
+
+Current Drug Targets, 2019, Vol. 20, No. 9    985 
+
+Table 1.  Summary of GAS biofilm  studies assessing the  effect of different virulence  factors and growth  conditions on biofilm for-
+mation.  The following molecules have been shown to contribute to GAS biofilm formation (BF): Lipoteichoic acid (LTA) 
+and M protein (emm),  M-related protein (mrp), and M-like protein  (enn) complexes, pili, Streptococcal collagen-like pro-
+tein 1 (scl-1), short hydrophobic peptides (SHP 1 and 2), the hyaluronic acid (HA) capsule, Group A Streptococcus protein 
+A (aspA), Streptococcal regulator of virulence (srv) and cysteine protease (speB), and Streptococcal invasion locus peptide 
+(silC). 
+
+Virulence 
+
+Factor 
+
+M protein-
+
+LTA com-
+
+plex 
+
+MRP-LTA 
+
+complex 
+
+ENN-LTA 
+
+complex 
+
+Genetic  
+
+Background 
+
+Mutation 
+
+Biofilm Model 
+
+Growth Substratum 
+
+References 
+
+Role in 
+
+No Role 
+
+BF 
+
+in BF 
+
+(cid:1)emm 
+
+emm14 
+
+- 
+
+Flow model (34 µm s-1) 
+
+Static model 
+
+Glass coverslips 
+
+Uncoated polystyrene 
+
+[44] 
+
+(cid:1)emm 
+
+(cid:1)mrp 
+
+emm1 
+
+emm5 
+
+emm2 
+
+emm6 
+
+emm4 
+
+Static model 
+
+Uncoated polystyrene 
+
+[45] 
+
+emm24 
+
+emm4 
+
+emm49 
+
+emm2 
+
+Static model 
+
+Uncoated polystyrene 
+
+(cid:1)enn 
+
+- 
+
+emm2 
+
+emm4 
+
+Static model 
+
+Uncoated polystyrene 
+
+[45] 
+
+[45] 
+
+emm1 
+
+- 
+
+Static model 
+
+Polylysine-coated glass coverslips 
+
+[1] 
+
+(cid:1)spy0128 (pili back-
+
+bone) 
+
+(cid:1)spy0129 (C1 sortase) 
+
+(cid:1)tee6 (pilus back-
+
+bone) 
+
+Pili 
+
+(cid:1)fctX (ancillary 
+
+protein) 
+
+(cid:1)srtA (sortase) 
+
+(cid:1)srtB (sortase) 
+
+(cid:1)ALP-1(ancillary 
+
+protein 1) 
+
+Scl-1 
+
+(cid:1)scl-1 
+
+emm6 
+
+emm6 
+
+emm1 
+
+emm28 
+
+emm41 
+
+(cid:1)scl-1 
+
+emm3 
+
+(cid:1)HasA (Hyaluronan 
+
+HA capsule 
+
+synthase) 
+
+emm14 
+
+AspA 
+
+Srv and 
+
+SpeB 
+
+SilC 
+
+(cid:1)CovS (sensor kinase) 
+
+emm18 
+
+(cid:1)aspA 
+
+emm28 
+
+(cid:1)srv 
+
+emm1 
+
+(cid:1)silC 
+
+emm14 
+
+emm18 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Static model 
+
+Glass coverslips 
+
+Uncoated polystyrene 
+
+Static model 
+
+Uncoated polystyrene 
+
+Static model 
+
+Glass cover slips 
+
+Static model 
+
+Polystyrene coated with fibronectin and laminin 
+
+Static model 
+
+Uncoated polystyrene 
+
+Static model 
+
+Uncoated + fibronectin/collagen coated polystyrene 
+
+Static model 
+
+Saliva-coated coverslips 
+
+Flow model (0.7 ml/min) 
+
+Polystyrene chamber 
+
+Flow model (1.2 ml/min) 
+
+Fibronectin/ collagen IV coated plastic coverslips 
+
+Static model 
+
+coated polystyrene 
+
+Uncoated, fibronectin, fibrinogen, laminin, collagen I and IV 
+
+[47] 
+
+[48] 
+
+[49] 
+
+[50] 
+
+[44] 
+
+[51] 
+
+[52] 
+
+[53] 
+
+[39] 
+
+  
+986    Current Drug Targets, 2019, Vol. 20, No. 9 
+
+Vyas et al. 
+
+GAS SURFACE PROTEINS AND 
+INITIAL ATTACHMENT 
+
+QS MOLECULES ALLOW 
+SIGNALING BETWEEN BACTERIA 
+TO PROMOTE ATTACHMENT AND 
+MATURATION  
+
+OTHER VIRULENCE FACTORS 
+AND DISPERSAL 
+
+PLANKTONIC 
+BACTERIA 
+
+EPS
+EPS  
+PRODUCTION 
+
+QUORUM  
+QU
+SE
+SENSING  
+SIG
+SIGNALS 
+
+SPE SALSERS
+INITIAL ATTACHMENT        MICROCOLONY        MATURATION        DISPERSAL 
+SPERS
+DDISDISSPERS
+
+ATUR
+
+ABIOTIC OR BIOTIC SURFACE
+ABIOTIC OR BIOTIC SURFACE 
+
+Fig. (1). Role of GAS virulence factors in biofilm formation. Many bacterial surface molecules aid in the initial attachment of planktonic 
+GAS to abiotic/biotic  surfaces. This includes Streptococcal  collagen-like protein (Scl-1), pili, Group A Streptococcus protein A (AspA),  as 
+well as members of the M protein family such as the M protein and M-related protein, which form complexes with LTA to facilitate adher-
+ence [1, 44, 45, 47, 48, 50, 52, 54]. Communication between bacteria may utilize quorum sensing (QS) systems, secreting QS molecules such 
+as  Streptococcal  invasion  locus  protein  (SilC),  Short  Hydrophobic  Peptides  (SHP)  and  Autoinducer-2  (Al-2)  of  the  Streptococcal  invasion 
+locus (Sil), Regulatory gene of glucosyltransferase (Rgg), and LuxS/autoinducer-2 QS systems, respectively to facilitate adherence and matu-
+ration  of  biofilms  which  includes  the  production  of  the  extracellular  polymeric  matrix  (EPS)  [39,  55-57].  Studies  have  also  demonstrated 
+strains that are encapsulated by hyaluronic acid do not form biofilm as readily as un-encapsulated strains, and it has been suggested that the 
+hyaluronic acid capsule decreases biofilm forming capacity [9, 44, 51]. Decreased transcription of the Streptococcal regulator of virulence has 
+also been shown to increase production of SpeB, a cysteine protease which may play a role in biofilm dispersal [53]. 
+
+phenotype for this strain. Following these findings, Köller, et 
+al. [60] assayed biofilm formation under an array of different 
+growth conditions for 183 isolates that were  emm and FCT-
+typed in an effort to demonstrate novel correlations between 
+FCT-type  and  biofilm  formation.  Whilst  novel  associations 
+between FCT-type and biofilm formation were demonstrated 
+for  multiple  isolates,  the  study  did  not  support  a  direct  link 
+between biofilm formation and FCT-type. This is most likely 
+because  there  are  many  other  virulence  factors  that  play  a 
+role in biofilm formation by GAS [60]. 
+
+  There  is  also  data  to  suggest  that  the  role  of  individual 
+FCT  types  in  biofilm  formation  may  be  dependent  on  envi-
+ronmental  conditions during infection. In  a study of clinical 
+isolates  obtained  from  the  University  Hospital  in  Rostock, 
+Germany,  between  2001  and  2006,  an  association  was  ob-
+served  between  environmental  conditions  (acidity)  and 
+biofilm formation for different FCT-types [66]. Biofilm for-
+mation  on  abiotic  surfaces  and  micro-colony  formation  on 
+epithelial  cells for FCT-types 2, 3, 5 and 6, and a  subset of 
+FCT-4 strains increased as a result of acidification caused by 
+fermentative  sugar  metabolism.  The  subsequent  decrease  in 
+
+environmental  pH  was  associated  with  an  enhanced  expres-
+sion  of  the  pilus  components  and  transcriptional  regulators 
+including  the  RofA-Like  Protein  (RALP)  regulator  family 
+proteins  RofA  and  Nra,  and  the  AraC/XylS  type  transcrip-
+tional  regulator  family  protein,  MsmR.  Manetti,  et  al.  [66] 
+speculated  that  a  decreased  pH  at  the  cell  surface  due  to 
+sugar metabolism may favor biofilm formation during colo-
+nization;  however,  this  requires  further  investigation,  par-
+ticularly to determine if pH plays a role in biofilm formation 
+in the oropharynx [66]. 
+
+  As  an  extension  of  the  study  by  Köller,  et  al.  [60]  that 
+demonstrated  that  emm  type  6  strains  with  the  FCT-1  type 
+pili form high levels of biofilm in vitro, Kimura, et al. [47] 
+characterized  the  role  of  FCT-1  pili  in  the  GAS  strain 
+TW3558  (emm6).  In-frame  deletions  of  the  pilus  backbone 
+(tee6),  ancillary  protein  (fctX),  and  sortases  (srtB  and  srtA) 
+were  used  to  produce  isogenic  pili  deficient  GAS  mutants. 
+Use  of  the  mutants  in  biofilm  growth  assays  demonstrated 
+that deletion of the tee6 gene compromised the ability of the 
+strain to form a biofilm on an  abiotic surface, with deletion 
+of  fctX  and  srtB  genes  (pilus  ancillary  protein  and  class  C 
+
+Current Understanding of Group A Streptococcal Biofilms 
+
+Current Drug Targets, 2019, Vol. 20, No. 9    987 
+
+pilus-associated  sortase,  respectively)  further  decreasing  the 
+capacity for biofilm formation. It was also noted that assem-
+bly of the pili, rather than individual pili  components, is re-
+quired  for  biofilm  formation.  The  FCT-1  pilus  region  (fctX 
+operon) was then ectopically expressed in M1 strain SF370, 
+and an increase in biofilm formation was observed, substan-
+tiating the role of FCT-1 pili in biofilm formation. A similar 
+study  was  conducted  by  Becherelli,  et  al.  [48],  whereby 
+isogenic  mutants  of  ancillary  protein  1  (ALP-1)  of  FCT-1 
+type  GAS  were  examined  for  biofilm  formation.  Wild-type 
+bacteria  produced  substantial  biofilms,  whilst  the  mutant 
+strain  exhibited  impaired  biofilm  forming  capacity  [48]. 
+Taken  together,  the  data  from  Becherelli,  et  al.  [48]  and 
+Kimura,  et  al.  [47]  suggests  both  structural,  and  assembly 
+components  of  pili  are  important  in  adherence  and  biofilm 
+formation  of  FCT-1  type  GAS.  However,  the  authors  high-
+light  that  the  role  of  pili  should  not  be  considered  in  isola-
+tion, as GAS biofilm formation is likely to be dependent on 
+multiple factors [47].  
+
+2.2.1.3. Streptococcal Collagen-like Protein 
+
+Streptococcal collagen-like protein-1 (Scl-1) is expressed 
+on the surface of GAS as a homotrimeric protein consisting 
+of  a  N-terminal  variable  region,  a  collagen-like  region  con-
+taining  Gly-X-Y  repeats,  and  a  cell-wall-anchored  C-
+terminal  region  which  contains  a  linker  region  connecting 
+the collagen-like region to the cell wall and membrane asso-
+ciated  portions  of  the  protein  [54,  67,  68].  Transcription  of 
+Scl-1  is  positively  regulated  by  the  multiple  gene  activator 
+regulon, suggesting it may be co-expressed with many other 
+GAS  virulence  factors  such  as  the  M  protein  family  [49]. 
+Scl-1 is thought to be expressed by all strains of GAS and is 
+regarded  as  a  major  cell  surface  adhesin  [67,  68].  It  is  also 
+recognized  as  a  contributor  to  the  biofilm  forming  capacity 
+of GAS on abiotic surfaces. Isogenic scl1 mutants have been 
+shown to have a significantly reduced capacity for adhesion 
+and  biofilm  development,  as  well  as  variation  in  surface 
+morphology and EPS production [49]. In  this study,  the ex-
+pression  of  the  Scl-1  protein  in  a  heterologous  Lactococcus 
+lactis  system  facilitated  biofilm  formation,  further  implicat-
+ing this protein in biofilm production. A study by Bachert, et 
+al.  [50]  assaying  biofilm  formation  in  M3  GAS,  supported 
+these  earlier  findings.  They  identified  47  M3  GAS  strains 
+containing a nonsense mutation in the 11th Gly-X-Y repeat of 
+the  collagenous  region.  Biofilms  of 
+the  M3  strains 
+(MGAS315  and  MGAS10870)  grown  on  abiotic  surfaces 
+coated with fibronectin and laminin exhibited a significantly 
+reduced  capacity  to  form  biofilm.  Moreover,  the  M3  GAS 
+mutant was not able to form micro-colonies when introduced 
+into  a  skin  infection  model.  When  the  nonsense  mutation 
+was 
+(MGAS315  and 
+MGAS10870) through homologous complementation, resto-
+ration  of  expression  increased  biofilm  formation  upon  fi-
+bronectin  and  laminin  coated  surfaces  [50].  The  nonsense 
+mutation  within  the  11th  Gly-X-Y  repeat  of  the  collagenous 
+region had previously been shown to be present in 98.7% of 
+479  sequenced  invasive  M3  isolates  [69].  Another  study  by 
+Lukomski,  et  al.  [67]  also  demonstrated  this  polymorphism 
+in  five  M3  strains,  but  not  in  any  of  the  other  20  M-types 
+tested. Bachert,  et al. [50] therefore suggested this mutation 
+is highly conserved and unique to M3 isolates and that Scl-1 
+promotes stable biofilm formation for M3 GAS. 
+
+two  M3 
+
+repaired 
+
+strains 
+
+in 
+
+2.2.1.4. Hyaluronic Acid Capsule 
+
+  The  Hyaluronic  Acid  (HA)  capsule,  a  major  virulence 
+factor of GAS, is highly conserved and surface-exposed, and 
+made from a polymer of repeating units of glucuronic and N-
+acetylglucosamine [70]. Some studies suggest that HA is an 
+adhesin  that  aids  in  the  attachment  of  GAS  strains  to  host 
+cells [71, 72]. Conversely, it has been reported that HA cap-
+sule can decrease Streptococcal adherence by preventing the 
+surface-exposed  adhesins  from  attaching  to  host  cell  recep-
+tors  [73].  The  capsule  is  also  central  to  immune  evasion 
+upon  colonization  of  host  tissues,  and  generally,  encapsu-
+lated  strains  display  a  greater  propensity  for  virulence  than 
+those with a reduced/absent capsule [74]. Investigations into 
+the  role  of  capsule  in  GAS  biofilm  formation  have  impli-
+cated  HA  in  biofilm  maturation.  When  Cho  and  Caparon 
+[44]  assessed  the  biofilm  forming  capacity  of  a  wild-type 
+HSC5  GAS  strain  and  an  isogenic  capsule  deficient  mutant 
+whereby  the  Hyaluronate  synthase  (HasA)  gene  was  abol-
+ished,  they found biofilm forming ability of  the  mutant was 
+not  affected  under  static  conditions.  This  suggests  HA  does 
+not affect the  initial bacterial attachment that  is required for 
+subsequent biofilm formation. To illustrate the role of HA in 
+later stages of biofilm maturation, flow  chambers were util-
+ized, and although the mutant was able to adhere to the sur-
+face  of  the  chamber  it  was  unable  to  propagate  the  biofilm 
+phenotype,  and  cells  seemed  to  appear  dispersed  across  the 
+substratum evenly, suggesting that HA has a role in biofilm 
+maturation [44]. A more recent study observed a decrease in 
+HasA transcription in biofilms of MGAS315 (emm3) grown 
+on  live  keratinocytes  (SCC13)  in  comparison  to  planktonic 
+bacteria. Marks, et al. [9] suggested other factors must affect 
+the  role  of  HA  in  biofilm  formation.  Indirect  evidence  that 
+the  amount  of  capsule  inhibits  GAS  biofilm  formation  was 
+reported  by  Sugareva,  et  al.  [51].  CovS  is  a  sensor  kinase 
+involved in regulation of hyaluronic acid synthesis. Deletion 
+of  covS  was  shown  to  lead  to  increased  capsule  production 
+but lower biofilm biomass for emm2, 6, 18, and 49 [9]. Fur-
+thermore,  Sugareva,  et  al.  [51]  suggested  strains  with  less 
+HA formed biofilm  more readily. It could therefore be sug-
+gested that the reduction in capsule production upon change 
+from planktonic to biofilm phenotypes may facilitate biofilm 
+maturation. Overall, the role of HA  in GAS biofilm has yet 
+to be fully elucidated. 
+
+2.2.1.5. Regulators of Gene Expression 
+
+  Most oral streptococci  express Streptococcal antigen I/II 
+(Agl  I/II)  family  polypeptides,  which  have  demonstrated 
+roles in adhesion to human salivary glycoproteins, other mi-
+crobial cells, and calcium to facilitate colonization in the oral 
+cavity  [52,  75].  An  Agl  I/II  polypeptide  produced  by  M28 
+GAS  called  Group  A  Streptococcus  protein  A  (AspA)  has 
+been shown to have a role in biofilm formation in two inde-
+pendently isolated M28 serotypes [52]. Deletion of the aspA 
+gene in these  strains  abolished  their  ability to propagate the 
+biofilm  phenotype  on  saliva-coated  surfaces.  The  biofilm 
+developing  capacity  of  the  strain  was  reinstated  upon  trans-
+complementation of the aspA deletion. Additionally, expres-
+sion of the AspA protein in L. lactis allowed for biofilm de-
+velopment  in  this  species,  relative  to  wild-type  L.  lactis. 
+Whilst AspA is a relatively understudied GAS virulence fac-
+tor, these results indicate AspA plays a role in adhesion and 
+biofilm propagation in GAS. 
+
+ 
+988    Current Drug Targets, 2019, Vol. 20, No. 9 
+
+Vyas et al. 
+
+  The  Streptococcal  regulator  of  virulence  (Srv)  is  a  tran-
+scriptional  regulator  required  for  GAS  virulence,  as  it  con-
+trols the transcription of many extracellular proteins [53, 76]. 
+There  is  also  some  evidence  indicating  participation  of  this 
+virulence  factor  in  biofilm  formation.  An  isogenic  srv  defi-
+cient  GAS  strain  (MGAS5005)  and  its  complementation 
+mutant  were  used  to  demonstrate  that  Srv-mediated  tran-
+scription  is  an  important  contributor  to  biofilm  formation 
+[77]. A decreased capacity to form biofilm was observed for 
+the srv deficient  strain which was restored to  levels compa-
+rable  to  the  wild-type  strain  following  complementation.  It 
+was  suggested  that  Srv  may  control  the  transcription  of 
+genes  necessary  for  adherence  and  micro-colony  formation. 
+One  of  the  extracellular  proteases  controlled  by  Srv  is  the 
+cysteine  protease  SpeB  [77].  In  the  absence  of  srv,  over-
+production  of  SpeB  is  associated  with  decreased  biofilm 
+formation  [77].  Complementation  decreased  SpeB  produc-
+tion and restored biofilm formation comparably to the wild-
+type.  A  subcutaneous  model  of  skin  infection  in  mice  that 
+were infected with the srv deficient strain (MGAS5005) sup-
+ported previous findings as it demonstrated increased detec-
+tion  of  SpeB,  decreased  detection  of  biofilm,  and  overall 
+increased virulence relative to wild-type GAS. Furthermore, 
+the model demonstrated that inactivation of SpeB in  the srv 
+deficient strain was subsequently shown to reduce GAS viru-
+lence  relative  to  wild-type  and  promote  biofilm  formation 
+[75].  Doern,  et  al.  [76]  and  Connolly,  et  al.  [75]  both  pro-
+posed  a  model  for  the  Srv-mediated  biofilm  dispersal,  sug-
+gesting  SpeB  may  degrade  the  components  required  for 
+biofilm  formation  such  as  the  extracellular  DNase  (Sda1). 
+Taken  together  these  data  demonstrate  a  potential  mecha-
+nism that GAS may utilize to transition from mild to severe 
+infections.  Whilst  this  model  is  preliminary,  further  investi-
+gations  into  the  downstream  effects  of  the  srv  mutation  on 
+the expression of other extracellular virulence factors such as 
+the Streptococcal inhibitor of complement (Sic) and its effect 
+on GAS biofilm formation and virulence could provide new 
+insights  into  the  role  of  biofilm  dispersal  in  invasive  GAS 
+infection [77]. 
+
+2.2.2. Quorum Sensing 
+
+  Quorum Sensing (QS), a hallmark feature of many bacte-
+rial  biofilms,  has  also  been  noted  for  GAS  biofilms.  Three 
+GAS quorum sensing systems have been described: Strepto-
+coccal invasion locus (Sil), regulatory gene of glucosyltrans-
+ferase (Rgg), and LuxS/autoinducer-2.  
+
+Sil has been linked to regulating genes involved in inva-
+sive disease [56]. SilC  is a  signaling peptide of Sil,  and has 
+been  linked  to  the  ability  of  GAS  to  spread  in  soft  tissues 
+[78]. Importantly, SilC has been shown to have a role in QS 
+for GAS biofilm formation [39, 57]. Using safranin-staining, 
+an  isogenic  emm14  silC  mutant  showed  reduced  adherence 
+to surfaces coated with fibronectin, fibrinogen,  and polysty-
+rene  surfaces,  relative  to  the  wild-type  strain,  but  this  was 
+not  statistically  significant  [39].  An  isogenic  emm18  silC 
+mutant  exhibited  reduced  adherence  to  collagen  type  I  and 
+IV  substrates,  relative  to  the  wild-type  strain,  but  this  was 
+also not statistically significant. SEM analysis of the emm14 
+and emm18 silC mutants revealed phenotypic changes in the 
+strain  relative  to  the  wild-type.  The  emm14,  silC  mutant 
+biofilm surface displayed more clefts than the wild-type ana-
+logue  whilst  the  emm18  silC  mutant  displayed  a  thinner 
+biofilm with  a patchy appearance, whilst its wild-type  com-
+parator formed a solid and thick biofilm [39, 79]. 
+
+  Conversely,  in a  study by Thenmozhi, et al. [57], it was 
+suggested that strains from different serotypes form biofilms 
+regardless  of  the  presence  of  the  silC  gene.  Crystal  violet 
+staining of biofilms grown from strains of 11 different sero-
+types  distinguished  M56,  M65,  M74,  M89,  M100,  and  st38 
+as biofilm formers and M49, M63, M88.3, M122, and st2147 
+as  non-biofilm  formers.  These  biofilms  were  grown  under 
+static conditions on uncoated polystyrene. These strains were 
+screened  for  the  presence  of  silC  which  present  in  only 
+M100, M74, and st38 from the biofilm formers and the non-
+biofilm former  M122. Serotypes lacking silC were  the most 
+proficient biofilm producers under these conditions suggest-
+ing  that  the  involvement  of  SilC  in  QS  is  not  required  for 
+biofilm formation in all strains. 
+
+  The Rgg QS system is one of the most conserved systems 
+among Firmicutes, universally existing among all species of 
+Streptococcus.  Within  this  large  family  of  regulatory  pro-
+teins,  many  paralogs  exist.  For  GAS,  biofilm  formation, 
+biofilm  development,  and  virulence  is  controlled  by  the 
+Rgg2/Rgg3 system in response to the short hydrophobic pep-
+tides  SHP2  and  SHP3  [80].  The  effects  of  SHP  have  been 
+witnessed in GAS biofilm development, with potentiation of 
+surface-associated  biofilms  forming  in  concentrations  of 
+synthetic  SHP  pheromone  as  low  as  5  nM  [55].  Rgg-SHP-
+mediated  QS  has  also  been  hypothesized  to  promote  inter-
+species  signaling  between  common  residents  of  the  naso-
+pharynx;  S.  pneumoniae,  S.  dysgalactiae,  and  GAS  [80]. 
+Interspecies  signaling  utilizing  the  orthologous  Rgg/SHP 
+systems has been further investigated and shown to be bidi-
+rectional  between  GAS,  Group  B  Streptococcus,  and  Strep-
+tococcus dysgalactiae subsp.  Equisimilis. However, the role 
+of this particular bidirectional communication using QS sys-
+tems  in  multispecies  biofilm  formation  and  virulence  war-
+rants further analysis [81].  
+
+  Lastly,  Autoinducer-2  synthesized  by  LuxS,  an  enzyme 
+expressed  by  several  biofilm-forming  bacteria,  including 
+GAS, is necessary for biofilm formation [56]. Although this 
+QS  system  has  yet  to  be  thoroughly  investigated,  it  is 
+thought  to  control  some  virulence  mechanisms  (e.g.  hemo-
+lytic  and  proteolytic  activity),  and  importantly  emm  gene 
+expression  and  SpeB  production,  which  have  both  been 
+shown to affect biofilm formation and development [82-85]. 
+
+2.2.3. Modelling GAS Biofilms 
+
+  Current  knowledge  of  biofilm  formation,  basic  hallmark 
+characteristics,  physiology,  and  antimicrobial  resistance  has 
+come  primarily  from  in  vitro  biofilm  modelling.  In  vitro 
+models aim to depict conditions similar to those in vivo con-
+sidering  variables  such  as  growth  rate,  flow  rate,  nutrient 
+availability,  gas  concentrations,  and  substratum.  The  sim-
+plest  and  earliest  biofilm  model  was  liquid  growth  media 
+inoculated with bacteria left to colonize a solid surface [86]. 
+However,  higher  throughput  models  have  since  been  devel-
+oped  such  as  multi-well  systems  using  various  abiotic 
+growth  surfaces  (glass,  plastic,  silicone,  and  polystyrene). 
+Although these are  cost-effective and somewhat  easy to  im-
+plement,  the  biofilms  formed  are  limited  in  their  ability  to 
+truly mimic  those  in an in  vivo setting [9].  Moreover, while 
+in  vitro  GAS  biofilms  have  provided  important  insight  into 
+GAS  biofilm  formation,  GAS  colonization  and  infection  in 
+vivo  is  a  complex  process  involving  multiple  interactions 
+
+ 
+Current Understanding of Group A Streptococcal Biofilms 
+
+Current Drug Targets, 2019, Vol. 20, No. 9    989 
+
+with  the host. Such interactions  initiate  and  alter  GAS gene 
+expression in a way that is difficult to mimic in most in vitro 
+models.  This  was  demonstrated  in  a  study  showing  that  a 
+lack  of  host  factors  resulted  in  highly  differential  virulence 
+gene expression between biofilms produced in vitro to those 
+present  in vivo [44]. The  study highlights the importance of 
+mimicking  the  host  environment  as  closely  as  possible.  Al-
+ternative approaches to biofilm formation include the use of 
+epithelial cells as the substratum for GAS biofilm growth to 
+compensate  for  host  factor  presence.  However,  the  toxicity 
+of  broth  grown  GAS  to  cultured  eukaryotic  cells  renders 
+long term biofilm-epithelial modelling difficult [87]. A more 
+recent  study  that  utilized  both  live  and  prefixed  epithelial 
+substrata  successfully  integrated  aspects  of  the  necessary 
+environment, closely mirroring in vivo GAS colonization [9]. 
+Specifically,  GAS  was  able  to  form  micro-colonies  resem-
+blant of biofilms in vivo, as opposed to dense biofilm sheets 
+typical  of  biofilms  grown  on  abiotic  surfaces.  Additionally, 
+biofilms were non-toxic to the live human keratinocyte sub-
+stratum. Overall, this study confirmed that an epithelial sub-
+stratum  potentiates  biofilm  formation,  with  bacterial  mor-
+phology  resemblant  of  in  vivo  GAS  biofilms,  a  result  not 
+achievable for GAS biofilms grown on abiotic surfaces  like 
+glass or plastic. Another in vitro study investigated the abil-
+ity of 2 dominating emm-types involved with NSTI, (emm 1 
+strain  8157,  and  emm  3  strains  5626  and  8003)  to  form 
+biofilm  using  standard  polystyrene  and  glass  surfaces  [16]. 
+Both  emm  3  strains  formed  biofilm  on  uncoated  and  fi-
+bronectin-coated  polystyrene  surfaces.  In  contrast,  only 
+strain 5626 was able to form a biofilm on glass surfaces. The 
+emm  1  strain  8157  did  not  form  biofilm  under  the  tested 
+plate conditions. A 3D organotypic skin model was also gen-
+erated using human keratinocyte cells (N/TERT-1) and nor-
+mal  human  dermal  fibroblasts  (NHDF)  to  mimic  key  ana-
+tomical/functional  features  of  the  skin.  This  model  had  the 
+advantage of dermal and epidermal layers being formed, and 
+key epidermal structural proteins included. The emm 1 strain 
+8157 and emm 3 strains 5626 and 8003 were all able to initi-
+ate tissue infection in this model, and after 8 hours of incuba-
+tion, the bacteria were found to predominate the stratum cor-
+neum.  Upon  further  incubation,  the  bacteria  were  dispersed 
+throughout  the  whole  tissue,  with  bacterial  aggregates  that 
+developed  typical  of  biofilm  upon  immunostaining.  Further 
+investigation  of  these  aggregates  utilizing  confocal  laser 
+scanning  microscopy  confirmed  the  presence  of  hallmark 
+biofilm  features  of  the  EPS  including;  exopolysaccharides, 
+lipids  and  extracellular  DNA  associated  with  the  bacterial 
+community  [16].  At  present,  GAS  existing  in  the  biofilm 
+phenotype  is  not  recognized  as  a  potential  component  of 
+NSTIs. This comprehensive study supports the need for fur-
+ther investigation into the role biofilms play in GAS NSTIs, 
+and by extension, other GAS associated skin infections. Fu-
+ture studies using similar epithelial-GAS biofilm models are 
+necessary,  with  a  focus  on  establishing  the  interaction  be-
+tween  GAS  and  the  local  resident  microbiome  to  provide  a 
+more  accurate  understanding  of  the  underlying  mechanisms 
+in which GAS may adhere, colonize and persist in the host. 
+
+gions of the tonsils, pharynx, and oesophagus which cumula-
+tively  play  an  important  role  in  human  health  and  disease 
+[88]. As found by Lemon, et al. [89], the phylum-level com-
+position  of  bacterial  residents  of  the  oropharynx  is  distinct 
+from  the  nasal  cavity.  Moreover,  differences  in  relative 
+abundance  profiles  of  phyla  vary  between  the  pharynx  and 
+saliva.  These  differences  highlight  how  each  niche  environ-
+ment,  although  quite  interconnected,  supports  discrete  mi-
+crobial populations [90]. 
+
+  Commonly found species that predominate this niche are 
+from  the  genera  Prevotella,  Capnocytophaga,  Campylobac-
+ter,  Veillonella,  Streptococcus,  Neisseria,  Rothia,  Actinoo-
+myces, and Haemophilus [90, 91]. This site is also colonized 
+by important human pathogens such  as GAS, Streptococcus 
+pneumoniae,  Staphylococcus  aureus,  Haemophilus  influen-
+zae, Neisseria  meningitidis, and  Moraxella  catarrhalis  [92, 
+93].  However,  due  to  the  limited  number  of  studies,  much 
+remains  unknown  about  the  interspecies  interactions  that 
+occur in this rich, polymicrobial ecosystem. 
+
+2.3.1. Polymicrobial Biofilms of the Oropharynx 
+
+  Currently, very  little is known regarding the  interactions 
+between  species  of  the  oropharyngeal  microbiome,  and  the 
+opportunistic bacterial pathogen GAS [38, 94]. It is possible 
+that the overall biofilm architecture/organization and relative 
+species  abundance  within  these  polymicrobial  communities 
+may  alter  in  a  strain-specific  manner  [95-97].  Additionally, 
+the polymicrobial biofilm may offer GAS numerous survival 
+and  competitive  advantages  such  as;  metabolic  cooperation, 
+complex QS systems, an increased gene pool, efficient DNA 
+sharing,  by-product  sharing,  cross-protection,  protective  ad-
+vantages  to  host  immunity  and  antimicrobials,  alongside 
+numerous  other  synergies  [98].  This  is  especially  important 
+when  we  consider  the  antibiotic  treatment  failure  rate,  and 
+persistence/recurrence  of  GAS  pharyngitis.  An  example  of 
+this  is  the  co-operation  between  GAS  and  co-pathogenic 
+organisms  such  as  Haemophilus  parainfluenzae,  S.  aureus, 
+and  Moraxella  catarrhalis.  It  has  been  theorized  that  these 
+bacteria  collectively  contribute  to  antibiotic  insensitivity 
+through  their  combined  β-lactamase  production  when  in  a 
+polymicrobial  biofilm  [5].  Another  study  demonstrated  that 
+in a polymicrobial biofilm of Streptococcus oralis and GAS, 
+S.  oralis  was  the  initial  colonizer  and  formed  the  bottom 
+layer  of  the  biofilm,  while  the  GAS  M49  strain,  which  was 
+otherwise  a  poor  biofilm  former,  was  more  able  to  form  a 
+biofilm on top. This study additionally found that when both 
+S.  oralis  and  Streptococcus  salivarius  formed  the  bottom 
+biofilm layer, they collectively displayed a growth inhibitory 
+effect on GAS via bacteriocin secretion [38]. Overall, efforts 
+are needed toward designing models enabling the assessment 
+of  how  pathogens  like  GAS  interact  with  the  local  micro-
+biome  of  the  throat.  Characterizing  these  interactions  may 
+provide  a  greater  understanding  of  the  GAS  colonization 
+process,  and  may  also  help  to  identify  more  targeted  treat-
+ments or preventative strategies. 
+
+CONCLUSION 
+
+2.3. The Oropharyngeal Microbiome 
+
+  Over 700 different bacterial species have been recovered 
+from  the  microbiome  of  the  oral  cavity  and  contiguous  re-
+
+  Whilst  it  is  evident  that  there  have  been  some  advances 
+in the understanding of GAS biofilms, it is clear that further 
+characterization of the biofilm phenotype is needed in order 
+to  define  its  role  in  GAS  pathogenesis.  Specifically,  further 
+
+990    Current Drug Targets, 2019, Vol. 20, No. 9 
+
+Vyas et al. 
+
+study  is  needed  to  improve  the  current  understanding  of 
+GAS as a mono-species biofilm, particularly with respect to 
+the  virulence  factors  involved,  and  their  roles  in  the  GAS 
+biofilm phenotype. Improved models of GAS biofilm forma-
+tion  that  closely  mimic  in  vivo  conditions  will  ensure  that 
+biofilms  generated  in  the  lab  more  accurately  reflect  those 
+occurring during a clinical infection. Moreover, an improved 
+understanding of the way in which GAS interacts, and forms 
+biofilms  with  a  broader  array  of  bacterial  species  typical  of 
+the local host environment is also necessary. Taken together, 
+this  valuable  information  may  provide  better  insight  into 
+GAS antibiotic treatment failure and the mechanisms utilized 
+by GAS biofilms that may underpin recurrent and persistent 
+GAS infections. In turn, such findings will serve as potential 
+avenues for better treatment modalities and therapeutics. 
+
+AUTHORS PERSPECTIVE 
+
+  Group A Streptococcus (GAS) is a Gram-positive human 
+pathogen, known to cause an array of diseases ranging from 
+mild,  superficial  infections,  to  more  serious  invasive  infec-
+tions,  and  numerous  autoimmune  sequelae.  There  is  evi-
+dence  to suggest  that GAS forms biofilms both  in vitro and 
+in  vivo.  Current  understanding  of  the  biofilm  phenotype  in 
+GAS  pathogenesis  and  disease  progression  is  limited  and 
+further  characterization  is  needed.  A  greater  understanding 
+of  GAS  biofilms,  may  support  the  development  of  novel 
+therapeutics  and  treatment  strategies  that  specifically  target 
+GAS in the biofilm phenotype. 
+
+CONSENT FOR PUBLICATION 
+
+  Not applicable. 
+
+FUNDING 
+
+  None. 
+
+CONFLICT OF INTEREST 
+
+  The  authors  declare  no  conflict  of  interest,  financial  or 
+otherwise. 
+
+ACKNOWLEDGEMENTS 
+
+  Declared none. 
+
+REFERENCES 
+
+[1] 
+
+[2] 
+
+[3] 
+
+[4] 
+
+[5] 
+
+[PMID: 
+
+Manetti AG,  Zingaretti C, Falugi  F, et al. Streptococcus pyogenes 
+pili  promote  pharyngeal  cell  adhesion  and biofilm  formation.  Mol 
+Microbiol 2007; 64(4): 968-83. 
+[http://dx.doi.org/10.1111/j.1365-2958.2007.05704.x] 
+17501921]  
+Walker  MJ,  Barnett  TC,  McArthur  JD,  et  al.  Disease  manifesta-
+tions  and  pathogenic  mechanisms  of  Group  A  Streptococcus.  Clin 
+Microbiol Rev 2014; 27(2): 264-301.  
+[http://dx.doi.org/ 10.1128/CMR.00101-13] [PMID: 24696436]  
+Carapetis  JR,  Steer  AC,  Mulholland  EK,  Weber  M.  The  global 
+burden of group A streptococcal diseases. Lancet Infect Dis 2005; 
+5(11): 685-94. 
+[http://dx.doi.org/10.1016/S1473-3099(05)70267-X] 
+16253886]  
+Baldassarri  L,  Creti  R,  Recchia  S,  et  al.  Therapeutic  failures  of 
+antibiotics  used  to  treat  macrolide-susceptible  Streptococcus  pyo-
+genes infections may be due to biofilm formation. J Clin Microbiol 
+2006; 44(8): 2721-7. 
+[http://dx.doi.org/10.1128/JCM.00512-06] [PMID: 16891483]  
+Conley  J,  Olson  ME,  Cook  LS,  Ceri  H,  Phan  V,  Davies  HD. 
+
+[PMID: 
+
+[6] 
+
+[7] 
+
+[8] 
+
+[9] 
+
+[10] 
+
+[11] 
+
+[12] 
+
+[13] 
+
+[14] 
+
+[15] 
+
+[16] 
+
+[17] 
+
+[18] 
+
+Infect 
+
+[PMID: 
+
+[PMID: 
+
+[PMID: 
+
+[PMID: 
+
+2011.03.009] 
+
+Biofilm  formation  by  group  a  streptococci:  is  there  a  relationship 
+with treatment failure? J Clin Microbiol 2003; 41(9): 4043-8. 
+[http://dx.doi.org/10.1128/JCM.41.9.4043-4048.2003] 
+12958223]  
+Facinelli B, Spinaci C, Magi G, Giovanetti E, E Varaldo P. Asso-
+ciation between erythromycin resistance and ability to enter human 
+respiratory cells in group A streptococci. Lancet 2001; 358(9275): 
+30-3. 
+[http://dx.doi.org/10.1016/S0140-6736(00)05253-3] 
+11454374]  
+Pichichero  ME,  Casey  JR.  Systematic  review of  factors  contribut-
+ing  to  penicillin  treatment  failure  in  Streptococcus  pyogenes 
+pharyngitis. Otolaryngol Head Neck Surg 2007; 137(6): 851-7. 
+[http://dx.doi.org/10.1016/j.otohns.2007.07.033] 
+18036409]  
+Ogawa T, Terao Y, Okuni H, et al. Biofilm formation or internali-
+zation into epithelial cells enable Streptococcus pyogenes to evade 
+antibiotic  eradication  in  patients  with  pharyngitis.  Microb  Pathog 
+2011; 51(1-2): 58-68.  
+[http://dx.doi.org/10.1016/j.micpath. 
+21443942]  
+Marks  LR,  Reddinger  RM,  Hakansson  AP.  Biofilm  formation 
+enhances  fomite  survival of  Streptococcus pneumoniae  and  Strep-
+tococcus  pyogenes. 
+Immun  2014;  82(3):  1141-6. 
+[http://dx.doi.org/10.1128/IAI.01310-13] [PMID: 24371220]  
+Speziale P, Geoghegan JA. Biofilm formation by staphylococci and 
+streptococci:  structural,  functional,  and  regulatory aspects and  im-
+plications  for  pathogenesis.  Front  Cell  Infect  Microbiol  2015;  5: 
+31.  
+[http://dx.doi.org/10.3389/fcimb.2015.00031] [PMID: 25905046]  
+Abee T, Kovács ÁT, Kuipers OP, van der Veen S. Biofilm forma-
+tion and dispersal in Gram-positive bacteria. Curr Opin Biotechnol 
+2011; 22(2): 172-9.  
+[http://dx.doi.org/10.1016/j.copbio.2010. 
+21109420]  
+Al-Wrafy  F,  Brzozowska  E,  Górska  S,  Gamian  A.  Pathogenic 
+factors  of  Pseudomonas  aeruginosa  -  the  role  of biofilm  in  patho-
+genicity and as a target for phage therapy. Postepy Hig Med Dosw 
+2017; 71(0): 78-91. 
+[http://dx.doi.org/10.5604/01.3001.0010.3792] [PMID: 28258668]  
+Kong C, Chee C-F, Richter K, Thomas N, Abd Rahman N, Nathan 
+S.  Suppression  of  Staphylococcus  aureus  biofilm  formation  and 
+virulence by a benzimidazole derivative, UM-C162. Sci Rep 2018; 
+8(1): 2758. 
+[http://dx.doi.org/10.1038/s41598-018-21141-2] 
+29426873]  
+Zalewska-Piatek BM, Wilkanowicz SI, Piatek RJ, Kur JW. Biofilm 
+formation as a virulence determinant of uropathogenic Escherichia 
+coli  Dr+  strains.  Pol  J  Microbiol  2009;  58(3):  223-9.  [PMID: 
+19899615]  
+Roberts  AL,  Connolly  KL,  Kirse  DJ,  et  al.  Detection  of  group  A 
+Streptococcus in tonsils from pediatric patients reveals high rate of 
+asymptomatic streptococcal carriage. BMC Pediatr 2012; 12: 3. 
+[http://dx.doi.org/10.1186/1471-2431-12-3] [PMID: 22230361]  
+Siemens N, Chakrakodi B, Shambat SM, et al. Biofilm in group A 
+streptococcal  necrotizing  soft  tissue  infections.  JCI  Insight  2016; 
+1(10) e87882 
+[http://dx.doi.org/10.1172/jci.insight.87882] [PMID: 27699220]  
+Percival  SL,  Hill  KE,  Williams  DW,  Hooper  SJ,  Thomas  DW, 
+Costerton  JW.  A  review  of  the  scientific  evidence  for  biofilms  in 
+647-57. 
+wounds.  Wound  Repair  Regen 
+[http://dx.doi.org/10.1111/j.1524-475X.2012.00836.x] 
+[PMID: 
+22985037]  
+Bjarnsholt  T,  Kirketerp-Møller  K,  Jensen  PØ,  et  al.  Why  chronic 
+wounds  will  not  heal:  A  novel  hypothesis.  Wound  Repair  Regen 
+2008; 16(1): 2-10.  
+[http://dx.doi.org/10.1111/j.1524-475X.2007.  00283.x] 
+18211573]  
+
+[PMID: 
+
+[PMID: 
+
+[PMID: 
+
+10.016] 
+
+20(5): 
+
+2012; 
+
+[19]  McDougald  D,  Rice  SA,  Barraud  N,  Steinberg  PD,  Kjelleberg  S. 
+Should we stay or should we go: mechanisms and ecological con-
+sequences  for  biofilm  dispersal.  Nat  Rev  Microbiol  2011;  10(1): 
+39-50. 
+[http://dx.doi.org/10.1038/nrmicro2695] [PMID: 22120588]  
+Rollet C, Gal L, Guzzo J. Biofilm-detached cells, a transition from 
+a  sessile  to  a  planktonic phenotype:  a  comparative  study of  adhe-
+sion  and  physiological  characteristics  in  Pseudomonas  aeruginosa. 
+
+[20] 
+
+Current Understanding of Group A Streptococcal Biofilms 
+
+Current Drug Targets, 2019, Vol. 20, No. 9    991 
+
+[21] 
+
+[22] 
+
+[23] 
+
+[24] 
+
+[25] 
+
+[26] 
+
+[27] 
+
+[PMID: 
+
+[PMID: 
+
+FEMS Microbiol Lett 2009; 290(2): 135-42.  
+[http://dx.doi.org/  10.1111/j.1574-6968.2008.01415.x] 
+19054076]  
+Kostakioti M, Hadjifrangiskou M, Hultgren SJ. Bacterial biofilms: 
+development,  dispersal,  and  therapeutic  strategies  in  the  dawn  of 
+the  postantibiotic  era.  Cold  Spring  Harb  Perspect  Med  2013; 
+3(4)a010306 
+[http://dx.doi.org/10.1101/cshperspect.a010306] 
+23545571]  
+Donlan RM. Biofilms: microbial life on surfaces. Emerg Infect Dis 
+2002; 8(9): 881-90. 
+[http://dx.doi.org/10.3201/eid0809.020063] [PMID: 12194761]  
+Shunmugaperumal  T.  Biofilm  Eradication  and  Prevention:  A 
+Pharmaceutical Approach to Medical Device Infections 2010. 
+[http://dx.doi.org/10.1002/9780470640463]  
+O’Toole GA, Kolter R. Flagellar and twitching motility are neces-
+sary  for  Pseudomonas  aeruginosa  biofilm  development.  Mol  Mi-
+crobiol 1998; 30(2): 295-304. 
+[http://dx.doi.org/10.1046/j.1365-2958.1998.01062.x] 
+9791175]  
+Caiazza NC, Merritt JH, Brothers KM, O’Toole GA. Inverse regu-
+lation of biofilm formation and swarming motility by Pseudomonas 
+aeruginosa  PA14. 
+J  Bacteriol  2007;  189(9):  3603-12. 
+[http://dx.doi.org/10.1128/JB.01685-06] [PMID: 17337585]  
+Gloag ES, Turnbull L, Huang A, et al. Self-organization of bacte-
+rial  biofilms  is  facilitated  by  extracellular  DNA.  Proc  Natl  Acad 
+Sci USA 2013; 110(28): 11541-6.  
+[http://dx.doi.org/10.1073/ pnas.1218898110] [PMID: 23798445]  
+Rutherford  ST,  Bassler  BL.  Bacterial  quorum  sensing:  its  role  in 
+virulence  and  possibilities  for  its  control.  Cold  Spring  Harb  Per-
+spect Med 2012; 2(11)a012427 
+[http://dx.doi.org/10.1101/ 
+23125205]  
+
+cshperspect.a012427] 
+
+[PMID: 
+
+[PMID: 
+
+[33] 
+
+[31] 
+
+[30] 
+
+[29] 
+
+[32] 
+
+2008; 
+
+17(8): 
+
+J  Wound  Care 
+
+[28]  Wolcott RD, Rhoads DD, Dowd  SE. Biofilms and chronic wound 
+inflammation. 
+333-41. 
+[http://dx.doi.org/10.12968/jowc.2008.17.8.30796] [PMID: 18754194]  
+Gjermansen M, Ragas P, Sternberg C, Molin S,  Tolker-Nielsen T. 
+Characterization  of  starvation-induced  dispersion  in  Pseudomonas 
+putida  biofilms.  Environ  Microbiol  2005;  7(6):  894-906. 
+[http://dx.doi.org/10.1111/j.1462-2920.2005.00775.x] 
+[PMID: 
+15892708]  
+Vickery K, Hu H, Jacombs AS, Bradshaw DA, Deva AK. A review 
+of  bacterial  biofilms  and  their  role  in  device-associated  infection. 
+Healthc Infect 2013; 18(2): 61-6.  
+[http://dx.doi.org/10.1071/ HI12059]  
+Davies D. Understanding biofilm resistance to antibacterial agents. 
+Nat Rev Drug Discov 2003; 2(2): 114-22.  
+[http://dx.doi.org/ 10.1038/nrd1008] [PMID: 12563302]  
+Nickel JC, Ruseska I, Wright JB, Costerton JW. Tobramycin resis-
+tance  of  Pseudomonas  aeruginosa  cells  growing  as  a  biofilm  on 
+urinary  catheter  material.  Antimicrob  Agents  Chemother  1985; 
+27(4): 619-24. 
+[http://dx.doi.org/10.1128/AAC.27.4.619] [PMID: 3923925]  
+Prosser BL,  Taylor D, Dix BA, Cleeland R.  Method of evaluating 
+effects of antibiotics on bacterial biofilm. Antimicrob Agents Che-
+mother 1987; 31(10): 1502-6.  
+[http://dx.doi.org/10.1128/AAC. 31.10.1502] [PMID: 3435100]  
+Brown ML, Aldrich HC, Gauthier JJ. Relationship between glyco-
+calyx  and  povidone-iodine  resistance  in  Pseudomonas  aeruginosa 
+(ATCC  27853)  biofilms.  Appl  Environ  Microbiol  1995;  61(1): 
+187-93. [PMID: 7887601]  
+Cowan  T.  Biofilms  and  their  management:  implications  for  the 
+future  of  wound  care.  J  Wound  Care  2010;  19(3):  117-20. 
+[http://dx.doi.org/10.12968/jowc.2010.19.3.47281] 
+[PMID: 
+20559189]  
+de la Fuente-Núñez C, Reffuveille F, Fernández L, Hancock REW. 
+Bacterial biofilm development as a multicellular adaptation: antibi-
+otic resistance and new therapeutic strategies. Curr Opin Microbiol 
+2013; 16(5): 580-9. 
+[http://dx.doi.org/10.1016/j.mib.2013.06.013] [PMID: 23880136]  
+Akiyama  H,  Morizane  S,  Yamasaki  O,  Oono  T,  Iwatsuki  K.  As-
+sessment  of  Streptococcus  pyogenes  microcolony  formation  in  in-
+fected skin by confocal laser scanning microscopy. J Dermatol Sci 
+2003; 32(3): 193-9. 
+[http://dx.doi.org/10.1016/S0923-1811(03) 
+14507444]  
+
+00096-3] 
+
+[PMID: 
+
+[37] 
+
+[34] 
+
+[35] 
+
+[36] 
+
+[38] 
+
+[39] 
+
+[40] 
+
+[41] 
+
+[42] 
+
+[43] 
+
+[44] 
+
+[45] 
+
+[46] 
+
+[47] 
+
+[48] 
+
+[49] 
+
+[50] 
+
+[51] 
+
+[PMID: 
+
+Fiedler T, Riani C, Koczan D, Standar K, Kreikemeyer B, Podbiel-
+ski  A.  Protective  mechanisms  of  respiratory  tract  Streptococci 
+against  Streptococcus  pyogenes  biofilm  formation  and  epithelial 
+cell  infection.  Appl  Environ  Microbiol  2013;  79(4):  1265-76. 
+[http://dx.doi.org/10.1128/AEM.03350-12] [PMID: 23241973]  
+Lembke  C,  Podbielski  A,  Hidalgo-Grass  C,  Jonas  L,  Hanski  E, 
+Kreikemeyer B. Characterization of biofilm formation by clinically 
+relevant  serotypes  of  group  A  streptococci.  Appl  Environ  Micro-
+biol 2006; 72(4): 2864-75.  
+[http://dx.doi.org/10.1128/AEM.72.4.  2864-2875.2006] 
+16597993]  
+Fiedler  T,  Köller  T,  Kreikemeyer  B.  Streptococcus  pyogenes 
+biofilms-formation,  biology,  and  clinical  relevance.  Front  Cell  In-
+fect Microbiol 2015; 5: 15.  
+[http://dx.doi.org/10.3389/ fcimb.2015.00015] [PMID: 25717441]  
+Caparon MG, Stephens DS, Olsén A,  Scott JR. Role of M protein 
+in  adherence  of  group  A  streptococci.  Infect  Immun  1991;  59(5): 
+1811-7. [PMID: 2019444]  
+Ellen RP, Gibbons RJ. M protein-associated adherence of Strepto-
+coccus  pyogenes  to  epithelial  surfaces:  prerequisite  for  virulence. 
+Infect Immun 1972; 5(5): 826-30. [PMID: 4564883]  
+Tylewska  SK,  Fischetti  VA,  Gibbons  RJ.  Binding  selectivity  of 
+Streptococcus  pyogenes  and  M-protein  to  epithelial  cells  differs 
+from that of lipoteichoic acid. Curr Microbiol 1988; 16(4): 209-16. 
+[http://dx.doi.org/10.1007/BF01568531]  
+Cho KH, Caparon MG. Patterns of virulence gene expression differ 
+between  biofilm  and  tissue  communities  of  Streptococcus  pyo-
+genes. Mol Microbiol 2005; 57(6): 1545-56.  
+[http://dx.doi.org/  10.1111/j.1365-2958.2005.04786.x] 
+16135223]  
+Courtney  HS,  Ofek  I,  Penfound  T,  et  al.  Relationship  between 
+expression  of  the  family  of  M  proteins  and  lipoteichoic  acid  to 
+hydrophobicity  and  biofilm  formation  in  Streptococcus  pyogenes. 
+PLoS One 2009; 4(1)e4166 
+[http://dx.doi.org/10.1371/journal. 
+19132104]  
+Podbielski  A,  Flosdorff  A,  Weber-Heynemann  J.  The  group  A 
+streptococcal virR49 gene controls expression of four structural vir 
+regulon genes. Infect Immun 1995; 63(1): 9-20. [PMID: 7806389]  
+Kimura KR, Nakata M, Sumitomo T, et al. Involvement of T6 pili 
+in  biofilm  formation  by  serotype  M6  Streptococcus  pyogenes.  J 
+Bacteriol 2012; 194(4): 804-12.  
+[http://dx.doi.org/10.1128/ JB.06283-11] [PMID: 22155780]  
+Becherelli M, Manetti AG, Buccato S, et al. The ancillary protein 1 
+of  Streptococcus  pyogenes  FCT-1  pili  mediates  cell  adhesion  and 
+biofilm formation through heterophilic as well as homophilic inter-
+actions. Mol Microbiol 2012; 83(5): 1035-47.  
+[http://dx.doi.org/  10.1111/j.1365-2958.2012.07987.x] 
+22320452]  
+Oliver-Kozup HA, Elliott M, Bachert BA, et al. The streptococcal 
+collagen-like  protein-1  (Scl1)  is  a  significant  determinant  for 
+biofilm  formation  by  group  A  Streptococcus.  BMC  Microbiol 
+2011; 11(1): 262. 
+[http://dx.doi.org/10.1186/1471-2180-11-262] [PMID: 22168784]  
+Bachert  BA,  Choi  SJ,  LaSala  PR,  et  al.  Unique  Footprint  in  the 
+scl1.3 Locus Affects Adhesion and Biofilm Formation of the Inva-
+sive M3-Type Group A Streptococcus. Front Cell Infect Microbiol 
+2016; 6: 90. 
+[http://dx.doi.org/10.3389/fcimb.2016.00090] [PMID: 27630827]  
+Sugareva V, Arlt R, Fiedler T, Riani C, Podbielski A, Kreikemeyer 
+B.  Serotype-  and  strain-  dependent  contribution  of  the  sensor 
+kinase CovS of the CovRS two-component system to Streptococcus 
+pyogenes  pathogenesis.  BMC  Microbiol  2010;  10(1):  34. 
+[http://dx.doi.org/10.1186/1471-2180-10-34] [PMID: 20113532]  
+
+pone.0004166] 
+
+[PMID: 
+
+[PMID: 
+
+[PMID: 
+
+[52]  Maddocks  SE,  Wright  CJ,  Nobbs  AH,  et  al.  Streptococcus  pyo-
+genes  antigen  I/II-family  polypeptide  AspA  shows  differential 
+ligand-binding properties and mediates biofilm formation. Mol Mi-
+crobiol 2011; 81(4): 1034-49. 
+[http://dx.doi.org/10.1111/j.1365-2958.2011.07749.x] 
+21736640]  
+Doern CD, Holder RC, Reid SD. Point mutations within the strep-
+tococcal regulator of virulence (Srv) alter protein-DNA interactions 
+and  Srv  function.  Microbiology  2008;  154(Pt  7):  1998-2007. 
+[http://dx.doi.org/10.1099/mic.0.2007/013466-0] [PMID: 18599828]  
+Oliver-Kozup H, Martin KH, Schwegler-Berry D, et al. The group 
+A  streptococcal  collagen-like  protein-1,  Scl1,  mediates  biofilm 
+
+[PMID: 
+
+[54] 
+
+[53] 
+
+992    Current Drug Targets, 2019, Vol. 20, No. 9 
+
+Vyas et al. 
+
+[59] 
+
+[56] 
+
+[60] 
+
+[55] 
+
+[58] 
+
+[57] 
+
+[61] 
+
+[63] 
+
+[62] 
+
+formation  by  targeting  the  extra  domain  A-containing  variant  of 
+cellular  fibronectin  expressed  in  wounded  tissue.  Mol  Microbiol 
+2013; 87(3): 672-89.  
+[http://dx.doi.org/10.1111/mmi.12125] [PMID: 23217101]  
+Aggarwal C, Jimenez JC, Nanavati D, Federle MJ. Multiple length 
+peptide-pheromone  variants  produced  by  Streptococcus  pyogenes 
+directly  bind  Rgg  proteins  to  confer  transcriptional  regulation.  J 
+Biol Chem 2014; 289(32): 22427-36.  
+[http://dx.doi.org/ 10.1074/jbc.M114.583989] [PMID: 24958729]  
+Jimenez  JC,  Federle  MJ.  Quorum  sensing  in  group  A  Streptococ-
+cus. Front Cell Infect Microbiol 2014; 4: 127.  
+[http:// dx.doi.org/10.3389/fcimb.2014.00127] [PMID: 25309879]  
+Thenmozhi  R,  Balaji  K,  Kumar  R,  Rao  TS,  Pandian  SK.  Charac-
+terization  of  biofilms  in  different  clinical  M  serotypes  of  Strepto-
+coccus  pyogenes.  J  Basic  Microbiol  2011;  51(2):  196-204. 
+[http://dx.doi.org/10.1002/jobm.201000006] [PMID: 21298675]  
+Nakata  M,  Kimura  KR,  Sumitomo  T,  et  al.  Assembly  mechanism 
+of FCT region type 1 pili in serotype M6 Streptococcus pyogenes. J 
+Biol Chem 2011; 286(43): 37566-77.  
+[http://dx.doi.org/ 10.1074/jbc.M111.239780] [PMID: 21880740]  
+Young C, Holder RC, Dubois L, Reid SD. Streptococcus pyogenes 
+Biofilm 2016. 
+Köller T, Manetti AGO, Kreikemeyer B, et al. Typing of the pilus-
+protein-encoding  FCT  region  and  biofilm  formation  as  novel  pa-
+rameters  in  epidemiological  investigations  of  Streptococcus  pyo-
+genes isolates from various infection sites. J Med Microbiol 2010; 
+59(Pt 4): 442-52. 
+[http://dx.doi.org/10.1099/jmm.0.013581-0] [PMID: 20007764]  
+Falugi F, Zingaretti C, Pinto V, et al. Sequence variation in group 
+A  Streptococcus  pili  and  association of  pilus  backbone  types  with 
+lancefield  T  serotypes.  J  Infect  Dis  2008;  198(12):  1834-41. 
+[http://dx.doi.org/10.1086/593176] [PMID: 18928376]  
+Kratovac  Z,  Manoharan  A,  Luo  F,  Lizano  S,  Bessen  DE.  Popula-
+tion genetics and linkage analysis of loci within the FCT region of 
+Streptococcus  pyogenes.  J  Bacteriol  2007;  189(4):  1299-310. 
+[http://dx.doi.org/10.1128/JB.01301-06] [PMID: 17028269]  
+Abbot  EL,  Smith  WD,  Siou  GP,  et  al.  Pili  mediate  specific  adhe-
+sion of Streptococcus pyogenes to human tonsil and skin. Cell Mi-
+crobiol 2007; 9(7): 1822-33. 
+[http://dx.doi.org/10.1111/j.1462-5822.2007.00918.x] 
+17359232]  
+Crotty Alexander LE, Maisey HC, Timmer AM, et al. M1T1 group 
+A  streptococcal  pili  promote  epithelial  colonization  but  diminish 
+systemic  virulence  through  neutrophil  extracellular  entrapment.  J 
+Mol Med (Berl) 2010; 88(4): 371-81.  
+[http://dx.doi.org/ 10.1007/s00109-009-0566-9] [PMID: 19960175]  
+Smith  WD,  Pointon  JA,  Abbot  E,  et  al.  Roles  of  minor  pilin 
+subunits  Spy0125  and  Spy0130  in  the  serotype  M1  Streptococcus 
+pyogenes  strain  SF370.  J  Bacteriol  2010;  192(18):  4651-9. 
+[http://dx.doi.org/10.1128/JB.00071-10] [PMID: 20639332]  
+[66]  Manetti AGO, Köller T, Becherelli M, et al. Environmental acidifi-
+cation drives S. pyogenes pilus expression and microcolony forma-
+tion  on  epithelial  cells  in  a  FCT-dependent  manner.  PLoS  One 
+2010; 5(11)e13864 
+[http://dx.doi.org/10.1371/journal.pone. 
+21079780]  
+Lukomski S, Nakashima K, Abdi I, et al. Identification and charac-
+terization  of  the  scl  gene  encoding  a  group  A  Streptococcus  ex-
+tracellular  protein  virulence  factor  with  similarity  to  human  colla-
+gen. Infect Immun 2000; 68(12): 6542-53.  
+[http://dx.doi.org/  10.1128/IAI.68.12.6542-6553.2000] 
+11083763]  
+Xu Y, Keene DR, Bujnicki JM, Höök M, Lukomski S. Streptococ-
+cal Scl1 and Scl2 proteins form collagen-like triple helices. J Biol 
+Chem 2002; 277(30): 27312-8.  
+[http://dx.doi.org/10.1074/ jbc.M201163200] [PMID: 11976327]  
+Flores  AR,  Jewell  BE,  Versalovic  EM,  et  al.  Natural  variant  of 
+collagen-like  protein  a  in  serotype  M3  group  a  Streptococcus  in-
+creases  adherence  and  decreases  invasive  potential.  Infect  Immun 
+2015; 83(3): 1122-9. 
+[http://dx.doi.org/10.1128/IAI.02860-14] [PMID: 25561712]  
+Stoolmiller  AC,  Dorfman  A.  The  biosynthesis  of  hyaluronic  acid 
+by  Streptococcus.  J  Biol  Chem  1969;  244(2):  236-46.  [PMID: 
+5773295]  
+Cywes  C,  Stamenkovic  I,  Wessels  MR.  CD44  as  a  receptor  for 
+colonization  of  the  pharynx  by  group  A  Streptococcus.  J  Clin  In-
+
+0013864] 
+
+[PMID: 
+
+[PMID: 
+
+[PMID: 
+
+[64] 
+
+[65] 
+
+[70] 
+
+[71] 
+
+[69] 
+
+[68] 
+
+[67] 
+
+[72] 
+
+[73] 
+
+[74] 
+
+[75] 
+
+[76] 
+
+[77] 
+
+[78] 
+
+[79] 
+
+[80] 
+
+[81] 
+
+[82] 
+
+[83] 
+
+[PMID: 
+
+vest 2000; 106(8): 995-1002. 
+[http://dx.doi.org/10.1172/JCI10195] [PMID: 11032859]  
+Schrager  HM,  Albertí  S,  Cywes  C,  Dougherty  GJ,  Wessels  MR. 
+Hyaluronic  acid  capsule  modulates  M  protein-mediated adherence 
+and  acts  as  a  ligand  for  attachment  of  group  A  Streptococcus  to 
+CD44  on  human  keratinocytes.  J  Clin  Invest  1998;  101(8):  1708-
+16. 
+[http://dx.doi.org/10.1172/JCI2121] [PMID: 9541502]  
+Bartelt  MA,  Duncan  JL.  Adherence  of  group  A  streptococci  to 
+human  epithelial  cells.  Infect  Immun  1978;  20(1):  200-8.  [PMID: 
+352928]  
+Henningham A, Yamaguchi M, Aziz RK, et al. Mutual exclusivity 
+of  hyaluronan  and  hyaluronidase  in  invasive  group  A  Streptococ-
+cus. J Biol Chem 2014; 289(46): 32303-15.  
+[http://dx.doi.org/ 10.1074/jbc.M114.602847] [PMID: 25266727]  
+Connolly  KL,  Roberts  AL,  Holder  RC,  Reid  SD.  Dispersal  of 
+Group  A  streptococcal  biofilms  by  the  cysteine  protease  SpeB 
+leads  to  increased  disease  severity  in  a  murine  model.  PLoS  One 
+2011; 6(4)e18984 
+[http://dx.doi.org/10.1371/journal.pone.0018984] 
+21547075]  
+Doern CD, Roberts AL, Hong W, et al. Biofilm formation by group 
+A Streptococcus: a role for the streptococcal regulator of virulence 
+(Srv)  and  streptococcal  cysteine  protease  (SpeB).  Microbiology 
+2009; 155(Pt 1): 46-52. 
+[http://dx.doi.org/10.1099/mic.0.021048-0] [PMID: 19118345]  
+Reid SD, Chaussee MS, Doern CD, et al. Inactivation of the group 
+A  Streptococcus  regulator  srv  results  in  chromosome  wide  reduc-
+tion  of  transcript  levels,  and  changes  in extracellular  levels  of  Sic 
+and SpeB. FEMS Immunol Med Microbiol 2006; 48(2): 283-92. 
+[http://dx.doi.org/10.1111/j.1574-695X.2006.00150.x] 
+16999824]  
+Belotserkovsky  I,  Baruch  M,  Peer  A,  et  al.  Functional  analysis  of 
+the quorum-sensing streptococcal invasion locus (sil). PLoS Pathog 
+2009; 5(11)e1000651 
+[http://dx.doi.org/10.1371/journal.ppat. 
+19893632]  
+Lembke  C,  Podbielski  A,  Hidalgo-Grass  C,  Jonas  L,  Hanski  E, 
+Kreikemeyer B. Characterization of biofilm formation by clinically 
+relevant  serotypes  of  group  A  streptococci.  Appl  Environ  Micro-
+biol 2006; 72(4): 2864-75. 
+[http://dx.doi.org/10.1128/AEM.72.4.  2864-2875.2006] 
+16597993]  
+Chang JC, LaSarre B, Jimenez JC, Aggarwal C,  Federle MJ. Two 
+group  A  streptococcal  peptide  pheromones  act  through  opposing 
+Rgg regulators to control biofilm development. PLoS Pathog 2011; 
+7(8)e1002190 
+[http://dx.doi.org/10.1371/journal.ppat.1002190] 
+21829369]  
+Cook  LC,  LaSarre  B,  Federle  MJ.  Interspecies  communication 
+among  commensal  and  pathogenic  streptococci.  MBio  2013; 
+4(4)e00382-13 
+[http://dx.doi.org/10.1128/mBio.00382-13] [PMID: 23882015]  
+Beema Shafreen RM, Selvaraj C, Singh SK, Karutha Pandian S. In 
+silico and in vitro studies of cinnamaldehyde and their derivatives 
+against  LuxS  in  Streptococcus  pyogenes:  effects  on  biofilm  and 
+virulence genes. J Mol Recognit 2014; 27(2): 106-16. 
+[http://dx.doi.org/10.1002/jmr.2339] [PMID: 24436128]  
+Lyon WR, Madden JC, Levin JC, Stein JL, Caparon MG. Mutation 
+of  luxS  affects  growth  and  virulence  factor  expression  in  Strepto-
+coccus  pyogenes.  Mol  Microbiol  2001;  42(1):  145-57. 
+[http://dx.doi.org/10.1046/j.1365-2958.2001.02616.x] 
+[PMID: 
+11679074]  
+
+1000651] 
+
+[PMID: 
+
+[PMID: 
+
+[PMID: 
+
+[PMID: 
+
+[85] 
+
+[84]  Marouni  MJ,  Sela  S.  The  luxS  gene  of  Streptococcus  pyogenes 
+regulates  expression of  genes  that  affect  internalization  by  epithe-
+lial cells. Infect Immun 2003; 71(10): 5633-9.  
+[http://dx.doi.org/  10.1128/IAI.71.10.5633-5639.2003] 
+14500483]  
+Siller  M, Janapatla RP, Pirzada ZA, Hassler  C, Zinkl D, Charpen-
+tier E.  Functional analysis of the group A streptococcal luxS/AI-2 
+system in metabolism, adaptation to stress and interaction with host 
+cells. BMC Microbiol 2008; 8: 188.  
+[http://dx.doi.org/10.1186/ 1471-2180-8-188] [PMID: 18973658]  
+Zobell CE. The Effect of Solid Surfaces upon Bacterial Activity. J 
+Bacteriol 1943; 46(1): 39-56. [PMID: 16560677]  
+Håkansson  A,  Bentley  CC,  Shakhnovic  EA,  Wessels  MR.  Cy-
+
+[PMID: 
+
+[86] 
+
+[87] 
+
+Current Understanding of Group A Streptococcal Biofilms 
+
+Current Drug Targets, 2019, Vol. 20, No. 9    993 
+
+[88] 
+
+[89] 
+
+[90] 
+
+[91] 
+
+tolysin-dependent evasion of lysosomal killing. Proc Natl Acad Sci 
+USA 2005; 102(14): 5192-7.  
+[http://dx.doi.org/10.1073/ pnas.0408721102] [PMID: 15795386]  
+Dewhirst FE, Chen T, Izard J, et al. The human oral microbiome. J 
+Bacteriol 2010; 192(19): 5002-17.  
+[http://dx.doi.org/10.1128/ JB.00542-10] [PMID: 20656903]  
+Lemon  KP,  Klepac-Ceraj  V,  Schiffer  HK,  Brodie  EL,  Lynch  SV, 
+Kolter  R.  Comparative  analyses  of  the bacterial  microbiota  of  the 
+human  nostril  and  oropharynx.  MBio  2010;  1(3):  e00129-10. 
+[http://dx.doi.org/10.1128/mBio.00129-10] [PMID: 20802827]  
+Gao Z, Kang Y, Yu J, Ren L. Human pharyngeal microbiome may 
+play a protective role in respiratory tract infections. Genomics Pro-
+teomics Bioinformatics 2014; 12(3): 144-50.  
+[http://dx.doi.org/ 10.1016/j.gpb.2014.06.001] [PMID: 24953866]  
+Anderson DJ, Richet H, Chen LF, et al. Seasonal variation in Kleb-
+siella  pneumoniae  bloodstream  infection  on  4  continents.  J  Infect 
+Dis 2008; 197(5): 752-6. 
+[http://dx.doi.org/10.1086/527486] [PMID: 18260762]  
+
+[92]  Mertz  D,  Frei  R,  Jaussi  B,  et  al.  Throat  swabs  are  necessary  to 
+reliably  detect  carriers  of  Staphylococcus  aureus.  Clin  Infect  Dis 
+2007; 45(4): 475-7. 
+[http://dx.doi.org/10.1086/520016] [PMID: 17638197]  
+
+[93]  Widmer  AF,  Mertz  D,  Frei  R.  Necessity  of  screening  of  both  the 
+nose  and  the  throat  to  detect  methicillin-resistant  Staphylococcus 
+aureus colonization in patients upon admission to an intensive care 
+
+[94] 
+
+[95] 
+
+[96] 
+
+[97] 
+
+unit. J Clin Microbiol 2008; 46(2): 835.  
+[http://dx.doi.org/10.1128/ JCM.02276-07] [PMID: 18252860]  
+Lafontaine  ER,  Wall  D,  Vanlerberg  SL,  Donabedian  H,  Sledjeski 
+DD.  Moraxella  catarrhalis  coaggregates  with  Streptococcus  pyo-
+genes  and  modulates  interactions  of  S.  pyogenes  with  human 
+epithelial cells. Infect Immun 2004; 72(11): 6689-93.  
+[http://  dx.doi.org/10.1128/IAI.72.11.6689-6693.2004] 
+15501804]  
+Federle MJ, Bassler BL. Interspecies communication in bacteria. J 
+Clin Invest 2003; 112(9): 1291-9.  
+[http://dx.doi.org/10.1172/ JCI20195] [PMID: 14597753]  
+Stoodley P, Sauer K, Davies DG, Costerton JW. Biofilms as com-
+plex  differentiated  communities.  Annu  Rev  Microbiol  2002;  56: 
+187-209.  
+[http://dx.doi.org/10.1146/annurev.micro.56.012302.160705] 
+[PMID: 12142477]  
+Suntharalingam P, Cvitkovitch DG. Quorum sensing in streptococ-
+cal  biofilm  formation.  Trends  Microbiol  2005;  13(1):  3-6. 
+[http://dx.doi.org/10.1016/j.tim.2004.11.009] [PMID: 15639624]  
+
+[PMID: 
+
+[98]  Wolcott R, Costerton JW, Raoult D, Cutler  SJ. The polymicrobial 
+nature of biofilm infection. Clin Microbiol Infect 2013; 19(2): 107-
+12.  
+[http://dx.doi.org/10.1111/j.1469-0691.2012.04001.x] 
+22925473]  
+
+[PMID: 
+
+PMID: 30947646 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

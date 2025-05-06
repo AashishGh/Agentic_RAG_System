@@ -1,0 +1,889 @@
+Article
+Selective Laser Melted M300 Maraging Steel—Material
+Behaviour during Ballistic Testing
+
+Ireneusz Szachogłuchowicz 1
+Janusz Torzewski 1
+
+and Jakub Łuszczek 1
+
+, Bartosz Fikus 2
+
+, Krzysztof Grzelak 1
+
+, Janusz Kluczy ´nski 1,*
+
+,
+
+1
+
+2
+
+Faculty of Mechanical Engineering, Institute of Robots & Machine Design, Military University of Technology,
+2 Gen. S. Kaliskiego Street, 00-908 Warsaw, Poland; ireneusz.szachogluchowicz@wat.edu.pl (I.S.);
+krzysztof.grzelak@wat.edu.pl (K.G.); janusz.torzewski@wat.edu.pl (J.T.); jakub.luszczek@wat.edu.pl (J.Ł.)
+Faculty of Mechatronics, Armament and Aerospace, Institute of Armament Technology, Military University
+of Technology, 2 Gen. S. Kaliskiego Street, 00-908 Warsaw, Poland; bartosz.ﬁkus@wat.edu.pl
+
+* Correspondence: janusz.kluczynski@wat.edu.pl
+
+Abstract: Signiﬁcant growth in knowledge about metal additive manufacturing (AM) affects the
+increase of interest in military solutions, where there is always a need for unique technologies and
+materials. An important section of materials in the military are those dedicated to armour production.
+An AM material is characterised by different behaviour than those conventionally made, especially
+during more dynamic loading such as ballistics testing. In this paper, M300 maraging steel behavior
+was analysed under the condition of ballistic testing. The material was tested before and after solution
+annealing and ageing. This manuscript also contains some data based on structural analysis and
+tensile testing with digital image correlation. Based on the conducted research, M300 maraging steel
+was found to be a helpful material for some armour solutions after pre- or post-processing activities.
+Conducted solution annealing and ageing increased the ballistic properties by 87% in comparison to
+build samples. At the same time, the material’s brittleness increased, which affected a signiﬁcant
+growth in fragmentation of the perforated plate. According to such phenomena, a detailed fracture
+analysis was made.
+
+Keywords:
+structural analysis
+
+additive manufacturing; selective laser melting; ballistic testing; M300 steel;
+
+1. Introduction
+
+Military usage of AM has become increasingly popular because of the signiﬁcant
+growth of different technologies and dedicated materials for those technologies [1–4].
+Until now, AM technologies mainly were used in military solutions for rapid prototyping
+(RP), and rapid tooling (RT) to a limited extent [5–8]. Recently, the popularity of using
+AM technologies in military solutions has increased, especially from the applicability
+point of view. One example is Kristoffersen et al.’s [9] research results, where ballistic
+perforation resistance of AM AlSi10Mg aluminium plates were taken into account. In
+comparison to AM materials and conventionally made materials, the authors determined
+that their ballistic appearance was negligible. The authors registered residual velocity for
+die-cast plates at a value of 230.7 m/s, while the AM was 231.6 m/s. The obtained results
+are very encouraging, especially considering that lightweight materials (aluminium and
+titanium-based) are an interest of many research facilities [10–19]. A different approach
+was suggested by Zochowski et al. [20], where the authors analysed ballistic properties of
+bulletproof vest inserts made of AM-made titanium alloy. Their research results indicated
+a signiﬁcant capability of absorbing and dissipating the projectile impact energy from
+about 500 J to 0 J in 0.15 s. In Hassanin et al.’s [21] work, the authors proved an increased,
+higher ballistic performance of AM metamaterial characterised by the shape memory,
+superelasticity, and negative Poisson’s ratio properties compared to conventional steel
+
+Citation: Szachogłuchowicz, I.;
+
+Fikus, B.; Grzelak, K.; Kluczy ´nski, J.;
+
+Torzewski, J.; Łuszczek, J. Selective
+
+Laser Melted M300 Maraging
+
+Steel—Material Behaviour during
+
+Ballistic Testing. Materials 2021, 14,
+
+2681. https://doi.org/10.3390/
+
+ma14102681
+
+Academic Editor: Igor V. Shishkovsky
+
+Received: 24 April 2021
+
+Accepted: 18 May 2021
+
+Published: 20 May 2021
+
+Publisher’s Note: MDPI stays neutral
+
+with regard to jurisdictional claims in
+
+published maps and institutional afﬁl-
+
+iations.
+
+Copyright: © 2021 by the authors.
+
+Licensee MDPI, Basel, Switzerland.
+
+This article is an open access article
+
+distributed under
+
+the terms and
+
+conditions of the Creative Commons
+
+Attribution (CC BY) license (https://
+
+creativecommons.org/licenses/by/
+
+4.0/).
+
+Materials 2021, 14, 2681. https://doi.org/10.3390/ma14102681
+
+https://www.mdpi.com/journal/materials
+
+materials(cid:1)(cid:2)(cid:3)(cid:1)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:1)(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)Materials 2021, 14, 2681
+
+2 of 16
+
+armours. They improved the energy absorbed by unit mass from 91.28 and 252.35 N·mm/g
+in the case of solid steel and solid NiTi, respectively, to 495 N·mm/g for the optimized
+NiTi, AM auxetic structure.
+
+Different usage of AM in military solutions was suggested by Limido et al., where
+the authors attempted to design a warhead penetrator using lattice structures to reduce
+its mass and guarantee, at the same time, its mechanical strength and performances, or
+even improve them. In their research, austenitic steels were considered. From a ballis-
+tic resistance point of view, ceramic materials were also prevalent. In the case of that
+type of material (mostly alumina–Al2O3), AM is possible. Jones et al. [22] performed
+mechanical and ballistic investigations of AM alumina-based armour plates. Unfortu-
+nately, their research indicated weaknesses of AM materials made using direct-ink writ-
+ing technology (DIW), characterised by decreased ballistic properties by 45% as com-
+pared to isostatic pressed (IP) equivalent material. Similar research was conducted by
+Appleby-Thomas et al. [23], where the authors found that AM ceramic material was slightly
+less effective than that conventionally made. During the literature review, it was difﬁcult
+to ﬁnd research papers connected with the ballistic performance of steel parts obtained by
+AM. It is well known that those materials are commonly used in armoured parts produc-
+tion [24–27]. One example is maraging steels, which could be used in that type of solution.
+Kaiser et al. [28] found that that type of alloy met the acceptance standards of military
+speciﬁcations for First Article Certiﬁcation and was certiﬁed for use on USA produced
+armoured systems. Regarding the usefulness of maraging steels in armour application and
+AM possibilities from a geometrical complexity point of view, ballistic tests were carried
+out. Additionally, it is well-known that maraging steels are amenable to heat treatment
+(solution annealing and ageing). Hence, two types of material were tested before and
+after heat treatment. Regarding our own previous research [29–35], to better understand
+AM material behaviour, it is essential to perform structural analysis of the material with
+properly described fractures. This approach is suggested in this paper, which will be
+helpful in understanding the effects of solution annealing and ageing in AM plates on
+tensile-deformation and ballistic-testing properties.
+
+2. Materials and Methods
+2.1. Material
+
+The material used for samples manufacturing was gas atomized M300 maraging steel
+(Carpenter Additive, Philadelphia, PA, USA). Our own scanning electron microscopy (SEM)
+observations (Figure 1) indicated that powder particles were characterised by spherical
+shapes (diameters of 20–63 µm) with some satellites on the external surface.
+
+Figure 1. SEM image of M300 powder grains.
+
+Materials 2021, 14, x  2 of 16   higher ballistic performance of AM metamaterial characterised by the shape memory, su‐perelasticity, and negative Poisson’s ratio properties compared to conventional steel ar‐mours. They improved the energy absorbed by unit mass from 91.28 and 252.35 N∙mm/g in the case of solid steel and solid NiTi, respectively, to 495 N∙mm/g for the optimized NiTi, AM auxetic structure. Different usage of AM in military solutions was suggested by Limido et al., where the authors attempted to design a warhead penetrator using lattice structures to reduce its mass and guarantee, at the same time, its mechanical strength and performances, or even improve them. In their research, austenitic steels were considered. From a ballistic resistance point of view, ceramic materials were also prevalent. In the case of that type of material (mostly alumina–Al2O3), AM is possible. Jones et al. [22] performed mechanical and ballistic investigations of AM alumina‐based armour plates. Unfortunately, their re‐search indicated weaknesses of AM materials made using direct‐ink writing technology (DIW), characterised by decreased ballistic properties by 45% as compared to isostatic pressed (IP) equivalent material. Similar research was conducted by Appleby‐Thomas et al. [23], where the authors found that AM ceramic material was slightly less effective than that conventionally made. During the literature review, it was difficult to find research papers connected with the ballistic performance of steel parts obtained by AM. It is well known that those materials are commonly used in armoured parts production [24–27]. One example is maraging steels, which could be used in that type of solution. Kaiser et al. [28] found that that type of alloy met the acceptance standards of military specifications for First Article Certification and was certified for use on USA produced armoured sys‐tems. Regarding the usefulness of maraging steels in armour application and AM possi‐bilities from a geometrical complexity point of view, ballistic tests were carried out. Ad‐ditionally, it is well‐known that maraging steels are amenable to heat treatment (solution annealing and ageing). Hence, two types of material were tested before and after heat treatment. Regarding our own previous research [29–35], to better understand AM mate‐rial behaviour, it is essential to perform structural analysis of the material with properly described fractures. This approach is suggested in this paper, which will be helpful in understanding the effects of solution annealing and ageing in AM plates on tensile‐defor‐mation and ballistic‐testing properties. 2. Materials and Methods 2.1. Material The material used for samples manufacturing was gas atomized M300 maraging steel (Carpenter Additive, Philadelphia, PA, USA). Our own scanning electron microscopy (SEM) observations (Figure 1) indicated that powder particles were characterised by spherical shapes (diameters of 20–63 μm) with some satellites on the external surface.  Figure 1. SEM image of M300 powder grains. Materials 2021, 14, 2681
+
+3 of 16
+
+Material chemical composition based on the producer’s quality control measures is
+
+shown in Table 1.
+
+Table 1. M300 steel chemical composition.
+
+Al
+
+C
+
+Cr
+
+Co
+
+Fe
+
+Mn Mo
+
+Ni
+
+N
+
+O
+
+P
+
+Si
+
+S
+
+Ti
+
+Cu
+
+0.07
+
+0.02
+
+0.06
+
+8.97
+
+balanced 0.03
+
+4.82
+
+18.43
+
+0.01
+
+0.02
+
+0.005
+
+0.05
+
+0.002
+
+0.98
+
+0.1
+
+weight (%)
+
+2.2. The Manufacturing Process
+
+The SLM 125 HL (SLM Solutions, Lubeck, Germany), with a 400 W laser source, was
+used for samples manufacturing. Regarding the simple sample shape, its geometry was
+prepared directly in the software for process preparation-Magics (Materialise, Leuven,
+Belgium, version 19). An AM process was carried out under typical conditions in laser
+powder bed fusion (L-PBF) in an argon atmosphere, where the oxygen content was below
+0.1%. We used the process parameters listed below to produce samples:
+•
+•
+• Hatching distance: 0.12 mm
+•
+Layer thickness: 0.05mm
+
+Laser power: 300 W
+Exposure velocity: 720 mm/s
+
+The above mentioned parameters (hatching distance and layer thickness) are shown
+in Figure 2. The usage of the parameters, as mentioned earlier, values generated energy
+density at the level of 69.44 J/mm3, which is consistent with the equation:
+
+ρe =
+
+Lp
+evhdlt
+
+(1)
+
+where:
+
+LP–laser power (W);
+ev–exposure velocity (mm/s);
+hd–hatching distance (mm);
+lt–layer thickness (mm).
+
+Figure 2. Explanation of layer thickness, hatching distance values, and sample plate dimension.
+
+Materials 2021, 14, x  3 of 16   Material chemical composition based on the producer’s quality control measures is shown in Table 1. Table 1. M300 steel chemical composition. Al C Cr Co Fe Mn Mo Ni N O P Si S Ti Cu weight (%) 0.07 0.02 0.06 8.97 balanced 0.03 4.82 18.43 0.01 0.02 0.005 0.05 0.002 0.98 0.1 2.2. The Manufacturing Process The SLM 125 HL (SLM Solutions, Lubeck, Germany), with a 400 W laser source, was used for samples manufacturing. Regarding the simple sample shape, its geometry was prepared directly in the software for process preparation‐Magics (Materialise, Leuven, Belgium, version 19). An AM process was carried out under typical conditions in laser powder bed fusion (L‐PBF) in an argon atmosphere, where the oxygen content was below 0.1%. We used the process parameters listed below to produce samples:  Laser power: 300 W  Exposure velocity: 720 mm/s  Hatching distance: 0.12 mm  Layer thickness: 0.05mm The above mentioned parameters (hatching distance and layer thickness) are shown in Figure 2. The usage of the parameters, as mentioned earlier, values generated energy density at the level of 69.44 J/mm3, which is consistent with the equation: pevdtLρ=ehl (1)where: LP–laser power (W); ev–exposure velocity (mm/s); hd–hatching distance (mm);  lt–layer thickness (mm).  Figure 2. Explanation of layer thickness, hatching distance values, and sample plate dimension. Materials 2021, 14, 2681
+
+4 of 16
+
+For ballistic tests,
+
+the samples had a cuboidal shape in the dimension of
+110 mm × 110 mm × 6.5 mm (L × W × H). The height of the sample was selected
+to allow part penetration during the STANAG 4569 level I test (5.56 mm × 45 mm NATO
+projectile (SS109) at 30 meters with a velocity of 910 m/s) and a lack of penetration after
+a 20% projectile velocity decrease. This approach was suggested to better to understand
+material behaviour during dynamic loading in ballistic testing. The plate sample, shown in
+Figure 3, was made in such a way to allow for ballistic testing in a perpendicular direction
+according to the substrate plate surface (through the deposited material’s layers).
+
+Figure 3. Sample panel on the SLM 125 HL’s substrate plate.
+
+Visible cylindrical undercuts on the panel’s edges were necessary to allow substrate
+
+removal after the process was ﬁnished.
+
+Half of the manufactured parts were heat-treated using a Nabertherm P300 annealing
+furnace (Nabertherm GmbH, Lilienthal, Germany). The process was divided into two
+stages: solution annealing performed under a temperature of 820 ◦C for one hour with air
+cooling, and ageing under a temperature of 480 ◦C with air cooling.
+
+2.3. Description of the Testing Methodology
+
+The ballistic tests were carried out using of the experimental stand presented in
+Figure 4. The stand consisted of a barrel launching system, calibre 5.56 mm (Figure 4g),
+and a specimen mount (Figure 4a) covered by a protective box with a bullet catcher
+(Figure 4d). To provide accurate values of impact velocity and to conduct the observation
+of terminal ballistics effects, a set of three devices were applied: an electromagnetic device
+for muzzle velocity measurement, EMG–1 (Figure 4f), an intelligent light screen, Kistler
+2521A (Figure 4e) (Kistler, Switzerland), for bullet velocity measurement, and a high-
+speed camera, Phantom v1612 (Figure 4b) (Vision Research, Wayne, NJ, USA). Tests were
+conducted with 5.56 mm × 45 mm NATO M855 (SS109) steel core bullets. Following the
+results presented in [36], the expected value of the projectile velocity was equal to (935 ± 6)
+m/s regarding the specimen distance for the under–investigation ammunition and applied
+barrel length. Accounting for the required 20% decrease of impact velocity for the second
+conditions set, the round propellant mass was adjusted to obtain the velocity of approx.
+750 m/s.
+
+Materials 2021, 14, x  4 of 16   For ballistic tests, the samples had a cuboidal shape in the dimension of 110 mm × 110 mm × 6.5 mm (L × W × H). The height of the sample was selected to allow part pene‐tration during the STANAG 4569 level I test (5.56 mm × 45 mm NATO projectile (SS109) at 30 meters with a velocity of 910 m/s) and a lack of penetration after a 20% projectile velocity decrease. This approach was suggested to better to understand material behav‐iour during dynamic loading in ballistic testing. The plate sample, shown in Figure 3, was made in such a way to allow for ballistic testing in a perpendicular direction according to the substrate plate surface (through the deposited material’s layers).  Figure 3. Sample panel on the SLM 125 HL’s substrate plate. Visible cylindrical undercuts on the panel’s edges were necessary to allow substrate removal after the process was finished. Half of the manufactured parts were heat‐treated using a Nabertherm P300 anneal‐ing furnace (Nabertherm GmbH, Lilienthal, Germany). The process was divided into two stages: solution annealing performed under a temperature of 820 °C for one hour with air cooling, and ageing under a temperature of 480 °C with air cooling. 2.3. Description of the Testing Methodology The ballistic tests were carried out using of the experimental stand presented in Fig‐ure 4. The stand consisted of a barrel launching system, calibre 5.56 mm (Figure 4g), and a specimen mount (Figure 4a) covered by a protective box with a bullet catcher (Figure 4d). To provide accurate values of impact velocity and to conduct the observation of ter‐minal ballistics effects, a set of three devices were applied: an electromagnetic device for muzzle velocity measurement, EMG–1 (Figure 4f), an intelligent light screen, Kistler 2521A (Figure 4e) (Kistler, Switzerland), for bullet velocity measurement, and a high‐speed camera, Phantom v1612 (Figure 4b) (Vision Research, Wayne, NJ, USA). Tests were conducted with 5.56 mm × 45 mm NATO M855 (SS109) steel core bullets. Following the results presented in [36], the expected value of the projectile velocity was equal to (935 ± 6) m/s regarding the specimen distance for the under–investigation ammunition and ap‐plied barrel length. Accounting for the required 20% decrease of impact velocity for the second conditions set, the round propellant mass was adjusted to obtain the velocity of approx. 750 m/s. Materials 2021, 14, 2681
+
+5 of 16
+
+Figure 4. Experimental stand for terminal ballistics tests:
+(a) investigated specimen mount,
+(b) high-speed camera, (c) light source, (d) protective box with bullet catcher, (e) intelligent light
+screen, (f) electromagnetic muzzle device, and (g) barrel launching system, calibre 5.56 mm.
+
+A Keyence VHX 7000 optical microscope (Keyence International, Mechelen, Belgium)
+was used for surface structural and fractures analysis. The material was mounted in resin,
+ground, polished, and etched to allow microstructural observations. Additional studies
+for determining powder grain shape and some microfracture phenomena were completed
+using a Jeol JSM-6610 SEM (JEOL Ltd., Tokyo, Japan) scanning electron microscope (SEM).
+To better describe material behaviour, tensile testing of samples was used. The tensile tests
+were carried out via the Instron 8802 (Instron, Norwood, MA, USA) testing machine. Dur-
+ing those tests, digital image correlation (DIC) of the deformation process was made. DIC
+analyses, a non-contact optical technique to measure three-dimensional (3D) deformations,
+were made using Dantec Dynamics (Dantec, Ulm, Germany). The tensile testing rig with
+the DIC system is shown in Figure 5.
+
+Materials 2021, 14, x  5 of 16     Figure 4. Experimental stand for terminal ballistics tests: (a) investigated specimen mount, (b) high‐speed camera, (c) light source, (d)protective box with bullet catcher, (e) intelligent light screen, (f) electromagnetic muzzle device, and (g) barrel launching system, calibre 5.56 mm. A Keyence VHX 7000 optical microscope (Keyence International, Mechelen, Belgium) was used for surface structural and fractures analysis. The material was mounted in resin, ground, polished, and etched to allow microstructural observations. Additional studies for determining powder grain shape and some microfracture phenomena were completed using a Jeol JSM‐6610 SEM (JEOL Ltd., Tokyo, Japan) scanning electron microscope (SEM). To better describe material behaviour, tensile testing of samples was used. The tensile tests were carried out via the Instron 8802 (Instron, Norwood, MA, USA) testing machine. Dur‐ing those tests, digital image correlation (DIC) of the deformation process was made. DIC analyses, a non‐contact optical technique to measure three‐dimensional (3D) defor‐mations, were made using Dantec Dynamics (Dantec, Ulm, Germany). The tensile testing rig with the DIC system is shown in Figure 5. Materials 2021, 14, 2681
+
+6 of 16
+
+Figure 5. Servo-hydraulic pulsator for tensile tests Instron 8802 (a) with digital image correlation
+system DIC (b).
+
+To check how the material’s properties were changed after heat treatment, tensile tests
+were conducted on samples for which geometry was designed based on the ASTM E466 96
+standard (Figure 6). For each material condition, ﬁve samples were tested.
+
+Figure 6. Sample dimensions basing on the ASTM E466 96 standard.
+
+Materials 2021, 14, x  6 of 16    Figure 5. Servo‐hydraulic pulsator for tensile tests Instron 8802 (a) with digital image correlation system DIC (b). To check how the material’s properties were changed after heat treatment, tensile tests were conducted on samples for which geometry was designed based on the ASTM E466 96 standard (Figure 6). For each material condition, five samples were tested.  Figure 6. Sample dimensions basing on the ASTM E466 96 standard.   Materials 2021, 14, x  6 of 16    Figure 5. Servo‐hydraulic pulsator for tensile tests Instron 8802 (a) with digital image correlation system DIC (b). To check how the material’s properties were changed after heat treatment, tensile tests were conducted on samples for which geometry was designed based on the ASTM E466 96 standard (Figure 6). For each material condition, five samples were tested.  Figure 6. Sample dimensions basing on the ASTM E466 96 standard.   Materials 2021, 14, 2681
+
+7 of 16
+
+3. Results and Discussion
+3.1. Tensile and Structural Analysis
+
+Structural and tensile analysis was necessary to justify the character of material be-
+haviour after a deterioration in different conditions: before heat treatment (BHT), after heat
+treatment (AHT), and after the impact of a projectile with different velocities. Additionally,
+this type of analysis was helpful for further fracture description.
+
+The images of the material microstructure in each condition are shown in Figure 7.
+Z-direction, visible in Figure 7, is a direction of the material’s layers growth during AM
+process.
+
+Figure 7. Microstructure of the AM M300 steel in BHT (a) and AHT (b) conditions.
+
+The material condition after the AM process is characterised by a typical, layered
+structure with visible molten pools [37,38]. The microstructure is very ﬁne and regular in
+each molten pool, as is shown in Figure 8.
+
+Figure 8. Microstructure of the AM M300 in BHT condition with marked crack (red circle) from
+non-melted grain (yellow circle) and visible melt-pool boundary (blue arrow).
+
+Materials 2021, 14, x  7 of 16   3. Results and Discussion 3.1. Tensile and Structural Analysis Structural and tensile analysis was necessary to justify the character of material be‐haviour after a deterioration in different conditions: before heat treatment (BHT), after heat treatment (AHT), and after the impact of a projectile with different velocities. Addi‐tionally, this type of analysis was helpful for further fracture description. The images of the material microstructure in each condition are shown in Figure 7. Z‐direction, visible in Figure 7, is a direction of the material’s layers growth during AM process.  Figure 7. Microstructure of the AM M300 steel in BHT (a) and AHT (b) conditions. The material condition after the AM process is characterised by a typical, layered structure with visible molten pools [37,38]. The microstructure is very fine and regular in each molten pool, as is shown in Figure 8.   Figure 8. Microstructure of the AM M300 in BHT condition with marked crack (red circle) from non‐melted grain (yellow circle) and visible melt‐pool boundary (blue arrow). Heat treatment resulted in a more homogeneous and fine‐grained structure. It should be noted that the martensite needles were short and dark, which contributed either to an increase in hardness or a decreased material plasticity [39,40]. Tensile testing results for each sample group are shown in Figure 9. After heat treat‐ment, tensile strength increased by almost 45% but, at the same time, elongation decreased (a) (b) Materials 2021, 14, x  7 of 16   3. Results and Discussion 3.1. Tensile and Structural Analysis Structural and tensile analysis was necessary to justify the character of material be‐haviour after a deterioration in different conditions: before heat treatment (BHT), after heat treatment (AHT), and after the impact of a projectile with different velocities. Addi‐tionally, this type of analysis was helpful for further fracture description. The images of the material microstructure in each condition are shown in Figure 7. Z‐direction, visible in Figure 7, is a direction of the material’s layers growth during AM process.  Figure 7. Microstructure of the AM M300 steel in BHT (a) and AHT (b) conditions. The material condition after the AM process is characterised by a typical, layered structure with visible molten pools [37,38]. The microstructure is very fine and regular in each molten pool, as is shown in Figure 8.   Figure 8. Microstructure of the AM M300 in BHT condition with marked crack (red circle) from non‐melted grain (yellow circle) and visible melt‐pool boundary (blue arrow). Heat treatment resulted in a more homogeneous and fine‐grained structure. It should be noted that the martensite needles were short and dark, which contributed either to an increase in hardness or a decreased material plasticity [39,40]. Tensile testing results for each sample group are shown in Figure 9. After heat treat‐ment, tensile strength increased by almost 45% but, at the same time, elongation decreased (a) (b) Materials 2021, 14, 2681
+
+8 of 16
+
+Heat treatment resulted in a more homogeneous and ﬁne-grained structure. It should
+be noted that the martensite needles were short and dark, which contributed either to an
+increase in hardness or a decreased material plasticity [39,40].
+
+Tensile testing results for each sample group are shown in Figure 9. After heat
+treatment, tensile strength increased by almost 45% but, at the same time, elongation
+decreased by 67%, which signiﬁcantly changed material properties, especially regarding its
+behaviour during dynamic loading such as ballistics testing.
+
+Figure 9. Tensile test results of M300 steel in AHT and BHT conditions.
+
+Based on the obtained tensile tests, all characteristic values were measured, calculated,
+and presented in Table 2. Values shown in the Table, as mentioned earlier, are averages
+with standard deviation, which was calculated based on ﬁve measurements for each
+sample group.
+
+Table 2. Mechanical properties of BHT and AHT samples obtained during tensile testing.
+
+Specimen
+Condition
+
+Elasticity
+Modulus (GPa)
+
+Rp0.2% Proof
+Strength (MPa)
+
+Ultimate Tensile
+Strength (MPa)
+
+Elongation to
+Fracture (%)
+
+BHT
+
+AHT
+
+156.3 ± 9.2
+
+172.1 ± 2.9
+
+842.7 ± 3.1
+
+1746.8 ± 1.6
+
+1057.1 ± 5.3
+
+1827.4 ± 2.1
+
+5.84 ± 0.28
+
+1.99 ± 0.07
+
+More advanced tensile analysis of the samples was possible by using a DIC system.
+To adequately describe material behaviour during tensile testing, images at a certain level
+were taken (Figure 10) for BHT samples and for (Figure 11) AHT samples.
+
+Materials 2021, 14, x  8 of 16   by 67%, which significantly changed material properties, especially regarding its behav‐iour during dynamic loading such as ballistics testing.  Figure 9. Tensile test results of M300 steel in AHT and BHT conditions. Based on the obtained tensile tests, all characteristic values were measured, calcu‐lated, and presented in Table 2. Values shown in the Table, as mentioned earlier, are av‐erages with standard deviation, which was calculated based on five measurements for each sample group. Table 2. Mechanical properties of BHT and AHT samples obtained during tensile testing. Specimen  Condition Elasticity  Modulus (GPa) Rp0.2% Proof Strength (MPa) Ultimate Tensile Strength (MPa) Elongation to Fracture (%) BHT 156.3 ± 9.2 842.7 ± 3.1 1057.1 ± 5.3 5.84 ± 0.28 AHT 172.1 ± 2.9 1746.8 ± 1.6 1827.4 ± 2.1 1.99 ± 0.07 More advanced tensile analysis of the samples was possible by using a DIC system. To adequately describe material behaviour during tensile testing, images at a certain level were taken (Figure 10) for BHT samples and for (Figure 11) AHT samples.   Materials 2021, 14, 2681
+
+9 of 16
+
+Figure 10. DIC of M300 steel in BHT condition during tensile testing, (a) a reference sample before the tensile testing, (b) Rp
+0.2% proof strength, (c) the ultimate tensile strength (UTS) point, (d) breaking point, and (e) a sample after a fracture.
+
+Figure 11. DIC of M300 steel in AHT condition during tensile testing, (a) a reference sample before the tensile testing, (b)
+Rp 0.2% proof strength, (c) the ultimate tensile strength (UTS) point, (d) breaking point, and (e) a sample after a fracture.
+
+Materials 2021, 14, x  9 of 16   (a) (b) (c) (d) (e) Scale     Figure 10. DIC of M300 steel in BHT condition during tensile testing, (a) a reference sample before the tensile testing, (b) Rp 0.2% proof strength, (c) the ultimate tensile strength (UTS) point, (d) breaking point, and (e) a sample after a fracture. In the conventional yield point, the distribution of strain fields was very even. The sample showed no defect connected with the manufacturing process. In the case of mate‐rial strain at the ultimate tensile strength point, the areas of maximum strain were marked with oval lines. There was a banding effect visible, which is evenly distributed. Before sample destruction (Figure 10d), a significant deformation at the level of 5% revealed ar‐eas of potential sources of cracking. Their location and number might relate to part poros‐ity, which is visible in Figure 7. Considering the DIC image after fracture (Figure 10e), deformation fields are visible despite the lack of load. The white‐dotted line (Figure 10e) indicates relaxation by the fracture, which appeared as a strain banding. The DIC images captured during tensile tests of samples in the AHT condition are shown in Figure 11. To maintain consistency, the form of the obtained results is presented the same as in Figure 10. In the conventional yield point, there were visible small areas with increased strain value. This phenomenon could be related to the increased porosity caused by additional heat treatment [32]. The distribution of that area (marked using black arrows) is randomly placed on the whole sample’s surface.   Materials 2021, 14, x  10 of 16   (a) (b) (c) (d) (e) Scale       Figure 11. DIC of M300 steel in AHT condition during tensile testing, (a) a reference sample before the tensile testing, (b) Rp 0.2% proof strength, (c) the ultimate tensile strength (UTS) point, (d) breaking point, and (e) a sample after a fracture. In the case of the DIC image at the UTS point, there were no zones of constant strain. Only small areas of increased strain values were visible (Figure 11, dashed line). After exceeding the UTS point, no necking formation was visible, which indicates the brittleness and low plasticity of the material. In the last part of the material fracture, the cracking process was very dynamic, which caused the scale in Figure 10e to go out of the range. The course of the fracture line, which is complex, may be related to the irregular porosity and brittleness of the material. 3.2. Ballistic Tests Results The ballistic tests were conducted under the conditions summarized in Table 3. As can be seen, for the initially applied value of impact velocity, the heat‐treated samples exhibited more effective ballistic protection despite the more brittle character of specimen damage (described further below). Table 3. Conditions of experimental ballistic tests. No. Specimen Condition Impact Velocity (m/s) Impact  Angle (°) Residual Velocity (m/s) 1 BHT 936 90.8 696 3 AHT 918 91.1 120 2 BHT 746 90.6 No penetration 4 AHT 743 90.8 No penetration The material behaviour during the perforation of each target plate is shown in Figure 12. Materials 2021, 14, 2681
+
+10 of 16
+
+In the conventional yield point, the distribution of strain ﬁelds was very even. The
+sample showed no defect connected with the manufacturing process. In the case of material
+strain at the ultimate tensile strength point, the areas of maximum strain were marked
+with oval lines. There was a banding effect visible, which is evenly distributed. Before
+sample destruction (Figure 10d), a signiﬁcant deformation at the level of 5% revealed
+areas of potential sources of cracking. Their location and number might relate to part
+porosity, which is visible in Figure 7. Considering the DIC image after fracture (Figure 10e),
+deformation ﬁelds are visible despite the lack of load. The white-dotted line (Figure 10e)
+indicates relaxation by the fracture, which appeared as a strain banding.
+
+The DIC images captured during tensile tests of samples in the AHT condition are
+shown in Figure 11. To maintain consistency, the form of the obtained results is presented
+the same as in Figure 10. In the conventional yield point, there were visible small areas
+with increased strain value. This phenomenon could be related to the increased porosity
+caused by additional heat treatment [32]. The distribution of that area (marked using black
+arrows) is randomly placed on the whole sample’s surface.
+
+In the case of the DIC image at the UTS point, there were no zones of constant strain.
+Only small areas of increased strain values were visible (Figure 11, dashed line). After
+exceeding the UTS point, no necking formation was visible, which indicates the brittleness
+and low plasticity of the material. In the last part of the material fracture, the cracking
+process was very dynamic, which caused the scale in Figure 10e to go out of the range. The
+course of the fracture line, which is complex, may be related to the irregular porosity and
+brittleness of the material.
+
+3.2. Ballistic Tests Results
+
+The ballistic tests were conducted under the conditions summarized in Table 3. As
+can be seen, for the initially applied value of impact velocity, the heat-treated samples
+exhibited more effective ballistic protection despite the more brittle character of specimen
+damage (described further below).
+
+Table 3. Conditions of experimental ballistic tests.
+
+No.
+
+1
+3
+2
+4
+
+Specimen
+Condition
+
+Impact Velocity
+(m/s)
+
+Impact Angle
+(◦)
+
+Residual
+Velocity (m/s)
+
+BHT
+AHT
+BHT
+AHT
+
+936
+918
+746
+743
+
+90.8
+91.1
+90.6
+90.8
+
+696
+120
+No penetration
+No penetration
+
+The material behaviour during the perforation of each target plate is shown in Figure 12.
+Figure 12 contains ballistic test results captured by a high-speed camera, which al-
+
+lowed for the determination of the perforation mechanism during projectile penetration.
+There were many failure mechanisms for the sample in the BHT condition, which was
+penetrated by projectile with a velocity equal to 936 m/s (Figure 12a). The ﬁrst one was
+the plugging mechanism, highlighted in Table 3 using a yellow arrow to show the cut-out
+plug. During that kind of mechanism, the fragmentation of the material appeared in the
+form of several pieces of material with additional reverse fragmentation (marked by a red
+arrow in Figure 12a) and the generation of numerous shards on both sides.
+
+Materials 2021, 14, 2681
+
+11 of 16
+
+Figure 12. High-speed camera images captured during plates perforation:
+(a) BHT condition, 936m/s impact ve-
+locity; (b) AHT condition, 918m/s impact velocity; (c) BHT condition, 746m/s impact velocity; (d) AHT condition,
+743m/s impact velocity.
+
+Typical material fragmentation occurred for the AHT sample penetrated by a projectile
+with a velocity of 918 m/s (Figure 12b). A yellow arrow marked severed material parts.
+Particular attention should be paid to the dust formed during the penetration of this
+sample (it was marked with a yellow and red rectangle in Figure 12b) as this is a typical
+phenomenon in armour steels.
+
+In the case of a plate in BHT condition, penetrated by a projectile with a velocity of
+746 m/s, there was no perforation registered. In this case, a dust cloud had formed on
+the side of the projectile impact. Several small parts of the material were also spotted
+(Figure 12c Step II, red oval). This proves the plasticity of the material and good dispersion
+of the impact energy compared with plates in the AHT condition.
+
+Materials 2021, 14, x  11 of 16    Figure 12. High‐speed camera images captured during plates perforation: (a) BHT condition, 936m/s impact velocity; (b) AHT condition, 918m/s impact velocity; (c) BHT condition, 746m/s impact velocity; (d) AHT condition, 743m/s impact velocity. Figure 12 contains ballistic test results captured by a high‐speed camera, which al‐lowed for the determination of the perforation mechanism during projectile penetration. There were many failure mechanisms for the sample in the BHT condition, which was penetrated by projectile with a velocity equal to 936 m/s (Figure 12a). The first one was the plugging mechanism, highlighted in Table 3 using a yellow arrow to show the cut‐out plug. During that kind of mechanism, the fragmentation of the material appeared in the form of several pieces of material with additional reverse fragmentation (marked by a red arrow in Figure 12a) and the generation of numerous shards on both sides. Typical material fragmentation occurred for the AHT sample penetrated by a projec‐tile with a velocity of 918 m/s (Figure 12b). A yellow arrow marked severed material parts. Particular attention should be paid to the dust formed during the penetration of this sam‐ple (it was marked with a yellow and red rectangle in Figure 12b) as this is a typical phe‐nomenon in armour steels. In the case of a plate in BHT condition, penetrated by a projectile with a velocity of 746 m/s, there was no perforation registered. In this case, a dust cloud had formed on the side of the projectile impact. Several small parts of the material were also spotted (Figure Materials 2021, 14, 2681
+
+12 of 16
+
+Regarding the last sample in AHT condition penetrated by a projectile with a velocity
+of 743 m/s, there was also no perforation. As in the previous case, a dust cloud was
+generated, but with more signiﬁcant dimensions. Additionally, a greater number of tiny
+debris were noticed (Figure 12d, red ovals). Their increased number could be caused by a
+higher hardness of the material and its internal cracking.
+
+3.3. Fracture Analysis
+
+After ballistic testing, all types of fractures were considered. Structural analysis was
+necessary to determine the character of material deterioration in different conditions: BHT,
+AHT, and after the impact of a projectile with different velocities. Results in each condition
+are shown in Table 4.
+
+Table 4. Material structure before (BHT), after (AHT) heat treatment, and after deterioration with different velocities.
+
+No.
+
+Porosity (%)
+
+Impact
+Velocity (m/s)
+
+Material Condition
+
+1.
+
+3.86
+
+936
+
+2.
+
+1.94
+
+918
+
+3.
+
+3.69
+
+746
+
+4.
+
+2.21
+
+743
+
+Materials 2021, 14, x  12 of 16   12c Step II, red oval). This proves the plasticity of the material and good dispersion of the impact energy compared with plates in the AHT condition. Regarding the last sample in AHT condition penetrated by a projectile with a velocity of 743 m/s, there was also no perforation. As in the previous case, a dust cloud was gen‐erated, but with more significant dimensions. Additionally, a greater number of tiny de‐bris were noticed (Figure 12d, red ovals). Their increased number could be caused by a higher hardness of the material and its internal cracking. 3.3. Fracture Analysis After ballistic testing, all types of fractures were considered. Structural analysis was necessary to determine the character of material deterioration in different conditions: BHT, AHT, and after the impact of a projectile with different velocities. Results in each condition are shown in Table 4. Table 4. Material structure before (BHT), after (AHT) heat treatment, and after deterioration with different velocities. No. Porosity (%) Impact Velocity (m/s) Material Condition 1. 3.86 936   2. 1.94 918   3. 3.69 746   Materials 2021, 14, x  12 of 16   12c Step II, red oval). This proves the plasticity of the material and good dispersion of the impact energy compared with plates in the AHT condition. Regarding the last sample in AHT condition penetrated by a projectile with a velocity of 743 m/s, there was also no perforation. As in the previous case, a dust cloud was gen‐erated, but with more significant dimensions. Additionally, a greater number of tiny de‐bris were noticed (Figure 12d, red ovals). Their increased number could be caused by a higher hardness of the material and its internal cracking. 3.3. Fracture Analysis After ballistic testing, all types of fractures were considered. Structural analysis was necessary to determine the character of material deterioration in different conditions: BHT, AHT, and after the impact of a projectile with different velocities. Results in each condition are shown in Table 4. Table 4. Material structure before (BHT), after (AHT) heat treatment, and after deterioration with different velocities. No. Porosity (%) Impact Velocity (m/s) Material Condition 1. 3.86 936   2. 1.94 918   3. 3.69 746   Materials 2021, 14, x  12 of 16   12c Step II, red oval). This proves the plasticity of the material and good dispersion of the impact energy compared with plates in the AHT condition. Regarding the last sample in AHT condition penetrated by a projectile with a velocity of 743 m/s, there was also no perforation. As in the previous case, a dust cloud was gen‐erated, but with more significant dimensions. Additionally, a greater number of tiny de‐bris were noticed (Figure 12d, red ovals). Their increased number could be caused by a higher hardness of the material and its internal cracking. 3.3. Fracture Analysis After ballistic testing, all types of fractures were considered. Structural analysis was necessary to determine the character of material deterioration in different conditions: BHT, AHT, and after the impact of a projectile with different velocities. Results in each condition are shown in Table 4. Table 4. Material structure before (BHT), after (AHT) heat treatment, and after deterioration with different velocities. No. Porosity (%) Impact Velocity (m/s) Material Condition 1. 3.86 936   2. 1.94 918   3. 3.69 746   Materials 2021, 14, x  13 of 16   4. 2.21 743   As shown in Table 4, all samples were characterised by a significant porosity (above 1%) which is a very undesirable phenomenon. The occurrence of several such pores relates to the high temperature of the previously exposed layer, which caused key‐hole porosity generation after delivering into the material volume a significant amount of energy [41,42]. It should be noted that process parameters used in the process had default values for M300 steel, but the melted material volume was too large to draw the proper amount of heat. In non‐perforated samples (Table 4, no. 3 and 4, marked by blue ovals), a part of the projectile was connected with the plate during the impact. During DIC analysis, it was suggested that porosity could be a source of material cracking, visible in the plate after projectile impact with 743 m/s velocities in AHT condi‐tion (Table 4, No.4). Cracks in the material, which appeared after the projectile impact, went through the pores. That phenomenon is hazardous because cracking through the porosity, with an increased brittleness of the material, would cause significant material fragmentation directly after impact. In the case of perforated plates penetrated by a projectile with a higher velocity (920 m/s), additional macroscopic analysis was completed as shown in Figure 13.  Figure 13. Fractures of projectile entry and exit of both penetrated plates: (a) BHT (b) AHT. Materials 2021, 14, 2681
+
+13 of 16
+
+As shown in Table 4, all samples were characterised by a signiﬁcant porosity (above
+1%) which is a very undesirable phenomenon. The occurrence of several such pores relates
+to the high temperature of the previously exposed layer, which caused key-hole porosity
+generation after delivering into the material volume a signiﬁcant amount of energy [41,42].
+It should be noted that process parameters used in the process had default values for M300
+steel, but the melted material volume was too large to draw the proper amount of heat.
+
+In non-perforated samples (Table 4, no. 3 and 4, marked by blue ovals), a part of the
+
+projectile was connected with the plate during the impact.
+
+During DIC analysis, it was suggested that porosity could be a source of material
+cracking, visible in the plate after projectile impact with 743 m/s velocities in AHT condition
+(Table 4, No.4). Cracks in the material, which appeared after the projectile impact, went
+through the pores. That phenomenon is hazardous because cracking through the porosity,
+with an increased brittleness of the material, would cause signiﬁcant material fragmentation
+directly after impact.
+
+In the case of perforated plates penetrated by a projectile with a higher velocity
+
+(920 m/s), additional macroscopic analysis was completed as shown in Figure 13.
+
+Figure 13. Fractures of projectile entry and exit of both penetrated plates: (a) BHT (b) AHT.
+
+In both cases (BHT and AHT plates), many features were visible and characteristic of
+high-hardness material perforations. Comparing both cases, the material plate in the BHT
+condition seems to be more plastic than the AHT plates. The projectile’s lead cap caused a
+slight deformation on the entry side and left a small amount of its material on the external
+perforation surface. On the other side, a plug with a diameter like the perforation size was
+pushed out by the projectile. The surface of the perforation, shown in Figure 14 (areas a),
+was characterised by a signiﬁcant deformation, which indicates the material’s ductility in
+that area. This phenomenon might cause a local increase in temperature during perforation
+due to friction between the surface of the projectile and the panel. That kind of approach
+was suggested by Kristoffersen et al. [9]. However, this issue requires more detailed
+research and will be a topic for further research. Additionally, there were cracks visible
+around the contact of the projectile and the plate, which indicates a material tendency for
+delamination (samples were manufactured layer-by-layer and perpendicular to the surface
+of the layer was the projectile impact) after such dynamic loading.
+
+Materials 2021, 14, x  13 of 16   4. 2.21 743   As shown in Table 4, all samples were characterised by a significant porosity (above 1%) which is a very undesirable phenomenon. The occurrence of several such pores relates to the high temperature of the previously exposed layer, which caused key‐hole porosity generation after delivering into the material volume a significant amount of energy [41,42]. It should be noted that process parameters used in the process had default values for M300 steel, but the melted material volume was too large to draw the proper amount of heat. In non‐perforated samples (Table 4, no. 3 and 4, marked by blue ovals), a part of the projectile was connected with the plate during the impact. During DIC analysis, it was suggested that porosity could be a source of material cracking, visible in the plate after projectile impact with 743 m/s velocities in AHT condi‐tion (Table 4, No.4). Cracks in the material, which appeared after the projectile impact, went through the pores. That phenomenon is hazardous because cracking through the porosity, with an increased brittleness of the material, would cause significant material fragmentation directly after impact. In the case of perforated plates penetrated by a projectile with a higher velocity (920 m/s), additional macroscopic analysis was completed as shown in Figure 13.  Figure 13. Fractures of projectile entry and exit of both penetrated plates: (a) BHT (b) AHT. Materials 2021, 14, 2681
+
+14 of 16
+
+Figure 14. Perforation channel surface with visible deformed areas (a) and cracks (b) of the BHT plate.
+
+In the case of the ATH panel, the perforation channel on the projectile entrance side
+had an irregular shape due to the brittle tearing of the material which appeared as short
+and straight crack paths. Further penetration mechanisms caused a radial fracture and
+detachment of a large material part several times larger area than the projectile’s cross-
+sectional area. That phenomenon also caused material fragmentation. However, the
+fragmentation of the material does not indicate its ballistic resistance as it is only a result of
+its low ductility. In the cross-section of the perforation channel, a horizontal border was
+visible (Figure 14, areas b) from which the radial tearing of the material began. It indicates
+an interlayer cracking mechanism which may be caused by the layered structure of the
+AM material.
+
+4. Conclusions
+
+Obtained research results were helpful to understand AM M300 steel behaviour during
+ballistic testing conditions. A broad scope of the research with material conditions of BHT,
+AHT, and two projectile velocity levels, allowed us to draw the following conclusions:
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+Despite the high UTS of M300 steel, it was possible to reduce projectile velocity only
+by 25% after perforation, with total material penetration;
+Solution and ageing annealing allowed for signiﬁcantly increased ballistic properties.
+The same plate after heat treatment reduced a projectile velocity by 87%, unfortunately
+also with penetration. Additionally, heat treatment caused an increase in material
+fragmentation after impact;
+The source of material deterioration was twofold. On the one hand, it was connected
+with high material brittleness (especially after heat treatment), and on the other hand,
+it was connected with increased porosity of the tested plates;
+To reduce porosity in parts characterized by signiﬁcant volume, some experimental
+process parameters selection, thermodynamical modelling of the exact geometry
+manufacturing, or hot isostatic pressing (HIP) annealing could be used;
+Despite the revealed weaknesses of the AM M300 maraging steel, this kind of material
+could be useful in some armour solutions, especially for the production of complex
+shapes of armoured parts. However, to properly manufacture each part, some pre- or
+post-process activities are necessary.
+
+Author Contributions: Conceptualization, I.S., B.F., K.G., and J.K., methodology, B.F., J.T., J.K., I.S.,
+and J.Ł.; ballistic tests, B.F.; tensile tests, J.T.; digital image correlation analysis, I.S.; heat treatment,
+K.G.; microscopical investigation, J.K., and J.Ł.; formal analysis, K.G.; writing—original draft prepa-
+ration, J.K., and J.Ł.; writing—review and editing, J.K., and B.F.; visualization, J.Ł., J.K., B.F., and I.S.;
+supervision, I.S.; project administration, B.F., K.G., and J.K.; funding acquisition, K.G. All authors
+have read and agreed to the published version of the manuscript.
+
+Funding: This research was funded by the Military University of Technology, grant number 22 758.
+
+Institutional Review Board Statement: Not Applicable.
+
+Materials 2021, 14, x  14 of 16   In both cases (BHT and AHT plates), many features were visible and characteristic of high‐hardness material perforations. Comparing both cases, the material plate in the BHT condition seems to be more plastic than the AHT plates. The projectile’s lead cap caused a slight deformation on the entry side and left a small amount of its material on the exter‐nal perforation surface. On the other side, a plug with a diameter like the perforation size was pushed out by the projectile. The surface of the perforation, shown in Figure 14 (areas a), was characterised by a significant deformation, which indicates the material’s ductility in that area. This phenomenon might cause a local increase in temperature during perfo‐ration due to friction between the surface of the projectile and the panel. That kind of approach was suggested by Kristoffersen et al. [9]. However, this issue requires more de‐tailed research and will be a topic for further research. Additionally, there were cracks visible around the contact of the projectile and the plate, which indicates a material ten‐dency for delamination (samples were manufactured layer‐by‐layer and perpendicular to the surface of the layer was the projectile impact) after such dynamic loading.  Figure 14. Perforation channel surface with visible deformed areas (a) and cracks (b) of the BHT plate. In the case of the ATH panel, the perforation channel on the projectile entrance side had an irregular shape due to the brittle tearing of the material which appeared as short and straight crack paths. Further penetration mechanisms caused a radial fracture and detachment of a large material part several times larger area than the projectile’s cross‐sectional area. That phenomenon also caused material fragmentation. However, the frag‐mentation of the material does not indicate its ballistic resistance as it is only a result of its low ductility. In the cross‐section of the perforation channel, a horizontal border was vis‐ible (Figure 14, areas b) from which the radial tearing of the material began. It indicates an interlayer cracking mechanism which may be caused by the layered structure of the AM material. 4. Conclusions Obtained research results were helpful to understand AM M300 steel behaviour dur‐ing ballistic testing conditions. A broad scope of the research with material conditions of BHT, AHT, and two projectile velocity levels, allowed us to draw the following conclu‐sions: 1. Despite the high UTS of M300 steel, it was possible to reduce projectile velocity only by 25% after perforation, with total material penetration; 2. Solution and ageing annealing allowed for significantly increased ballistic properties. The same plate after heat treatment reduced a projectile velocity by 87%, unfortu‐nately also with penetration. Additionally, heat treatment caused an increase in ma‐terial fragmentation after impact; Materials 2021, 14, 2681
+
+15 of 16
+
+Informed Consent Statement: Not Applicable.
+
+Data Availability Statement: Data sharing is not applicable.
+
+Conﬂicts of Interest: The authors declare no conﬂict of interest.
+
+References
+
+1. Mellor, S.; Hao, L.; Zhang, D. Additive manufacturing: A framework for implementation. Int. J. Prod. Econ. 2014, 149, 194–201.
+
+2.
+
+3.
+
+4.
+5.
+
+6.
+7.
+
+[CrossRef]
+Karunakaran, K.P.; Bernard, A.; Suryakumar, S.; Dembinski, L.; Taillandier, G. Rapid manufacturing of metallic objects. Rapid
+Prototyp. J. 2012, 18, 264–280. [CrossRef]
+Prakash, K.S.; Nancharaih, T.; Rao, V.V.S. Additive Manufacturing Techniques in Manufacturing—An Overview. Mater. Today
+Proc. 2018, 5, 3873–3882. [CrossRef]
+Azari, A.; Nikzad, S. The evolution of rapid prototyping in dentistry: A review. Rapid Prototyp. J. 2009, 15, 216–225. [CrossRef]
+Sanders, D. Ambient-intelligence, rapid-prototyping and where real people might ﬁt into factories of the future. Assem. Autom.
+2009, 29, 1–5. [CrossRef]
+Cherry, B.D.; Udvardy, S. Rapid Tooling Solves Military Supply Problem. Prod. Des. Dev. 2006, 20, 61.
+Platek, P.; Damaziak, K.; Malachowski, J.; Kupidura, P.; Wozniak, R.; Zahor, M. Numerical study of modular 5.56 mm standard
+assault riﬂe referring to dynamic characteristics. Def. Sci. J. 2015, 65, 431–437. [CrossRef]
+
+8. Malachowski, J.; Damaziak, K.; Platek, P.; Sarzynski, M.; Kupidura, P.; Wozniak, R.; Zahor, M. Numerical and experimental failure
+
+9.
+
+10.
+
+11.
+
+12.
+
+13.
+
+14.
+
+15.
+
+16.
+
+analysis of riﬂe extractor. Eng. Fail. Anal. 2016, 62, 112–127. [CrossRef]
+Kristoffersen, M.; Costas, M.; Koenis, T.; Brøtan, V.; Paulsen, C.O.; Børvik, T. On the ballistic perforation resistance of additive
+manufactured AlSi10Mg aluminium plates. Int. J. Impact Eng. 2020, 137. [CrossRef]
+Szachogluchowicz, I.; Sniezek, L.; Slezak, T.; Kluczy ´nski, J.; Grzelak, K.; Torzewski, J.; Fras, T. Mechanical Properties Analysis of
+the AA2519-AA1050-Ti6Al4V Explosive Welded Laminate. Materials 2020, 13, 4348. [CrossRef]
+Fras, T.; Szachogluchowicz, I.; Sniezek, L. Ti6Al4V-AA1050-AA2519 explosively-cladded plates under impact loading. Eur. Phys.
+J. Spec. Top. 2018, 227, 17–27. [CrossRef]
+Fra´s, T.; Nowak, Z.; Perzyna, P.; Pe¸cherski, R.B. Identiﬁcation of the model describing viscoplastic behaviour of high strength
+metals. Inverse Probl. Sci. Eng. 2011, 19, 17–30. [CrossRef]
+Fras, T.; Colard, L.; Pawlowski, P. Perforation of aluminum plates by fragment simulating projectiles (FSP). Int. J. Multiphysics
+2015, 9, 267–285. [CrossRef]
+Fronczek, D.M.; Wojewoda-Budka, J.; Chulist, R.; Sypien, A.; Korneva, A.; Szulc, Z.; Schell, N.; Zieba, P. Structural properties of
+Ti/Al clads manufactured by explosive welding and annealing. Mater. Des. 2016, 91, 80–89. [CrossRef]
+Fras, T.; Roth, C.C.; Mohr, D. Application of two fracture models in impact simulations. Bull. Pol. Acad. Sci. Tech. Sci. 2020, 68,
+317–325.
+Fras, T.; Murzyn, A.; Pawlowski, P. Defeat mechanisms provided by slotted add-on bainitic plates against small-calibre 7.62 mm
+× 51 AP projectiles. Int. J. Impact Eng. 2017, 103, 241–253. [CrossRef]
+
+17. Taminger, K.M.B.; Wagner, J.A.; Lisagor, W.B. Creep strain and strain rate response of 2219 Al alloy at high stress levels. Mater.
+
+Sci. Forum 2000, 331, 1–6. [CrossRef]
+
+18. Eliaz, N.; Foucks, N.; Geva, D.; Oren, S.; Shriki, N.; Vaknin, D.; Fishman, D.; Levi, O. Alloy 4047 Either Manufactured or Repaired
+
+19.
+
+by Laser Engineered Net Shaping (LENS ). Materials 2020, 13, 4171. [CrossRef]
+Szachogluchowicz, I.; Sniezek, L.; Mierzynski, J.; Koperski, W. Experimental study on ballistic AA 2519/Ti6Al4V laminate
+according to STANAG 4569 Level 1. In Proceedings of the 11th International Conference on Intelligent Technologies in Logistics
+and Mechatronics Systems, ITELMS 2016, Panevezys, Lithuania, 28–29 April 2016; pp. 155–163.
+
+20. Zochowski, P.; Bajkowski, M.; Grygoruk, R.; Magier, M.; Burian, W.; Pyka, D.; Bocian, M.; Jamroziak, K. Ballistic impact resistance
+
+of bulletproof vest inserts containing printed titanium structures. Metals 2021, 11, 225. [CrossRef]
+
+21. Hassanin, H.; Abena, A.; Elsayed, M.A.; Essa, K. 4D printing of NiTi auxetic structure with improved ballistic performance.
+
+22.
+
+Micromachines 2020, 11, 745. [CrossRef]
+Jones, T.L.; Vargas-Gonzalez, L.R.; Scott, B.; Goodman, B.; Becker, B. Ballistic evaluation and damage characterization of 3-D
+printed, alumina-based ceramics for light armor applications. Int. J. Appl. Ceram. Technol. 2020, 17, 424–437. [CrossRef]
+
+23. Appleby-Thomas, G.J.; Jaansalu, K.; Hameed, A.; Painter, J.; Shackel, J.; Rowley, J. A comparison of the ballistic behaviour of
+
+conventionally sintered and additively manufactured alumina. Def. Technol. 2020, 16, 275–282. [CrossRef]
+
+24. Zhou, N.; Wang, J.; Peng, C.; Tong, Z. Experimental and numerical study on the ballistic resistance of steel-ﬁbre reinforced
+
+two-layer explosively welded plates. Mater. Des. 2014, 54, 104–111. [CrossRef]
+
+25. Atapek, S.H. Development of a new armor steel and its ballistic performance. Def. Sci. J. 2013, 63, 271–277. [CrossRef]
+26. Wen, Y.; Xu, C.; Wang, H.; Chen, A.; Batra, R.C. Impact of steel spheres on ballistic gelatin at moderate velocities. Int. J. Impact
+
+Eng. 2013, 62, 142–151. [CrossRef]
+
+27. Coles, L.A.; Roy, A.; Sazhenkov, N.; Voronov, L.; Nikhamkin, M.; Silberschmidt, V.V. Ice vs. steel: Ballistic impact of woven
+
+carbon/epoxy composites. Part I-Deformation and damage behaviour. Eng. Fract. Mech. 2020, 225, 106270. [CrossRef]
+
+Materials 2021, 14, 2681
+
+16 of 16
+
+28. Kaiser, H.-J.; Kern, A.; Scharf, S.; Gooch, W.A., Jr. Ballistic Testing of ThyssenKrupp Steel Europe Armor Steel in Accordnace with
+U.S. Military Armor Speciﬁcations. In Proceedings of the 26th International Symposium on BallisticsHyatt Regency Hotel, Miami,
+FL, USA, 12–16 September 2011.
+
+29. Kluczy ´nski, J.; ´Snie ˙zek, L.; Grzelak, K.; Torzewski, J.; Szachogłuchowicz, I.; Ozi˛ebło, A.; Perkowski, K.; Wachowski, M.; Małek, M.
+The inﬂuence of heat treatment on low cycle fatigue properties of selectively laser melted 316l steel. Materials 2020, 13, 1–20.
+30. Grzelak, K.; Kluczy ´nski, J.; Szachogłuchowicz, I.; Łuszczek, J.; ´Snie ˙zek, L.; Torzewski, J. Modiﬁcation of structural properties
+using process parameters and surface treatment of monolithic and thin-walled parts obtained by selective laser melting. Materials
+2020, 13, 5662. [CrossRef] [PubMed]
+
+31. Kluczy ´nski, J.; Sniezek, L.; Grzelak, K.; Torzewski, J. The inﬂuence of layer re-melting on tensile and fatigue strength of
+selective laser melted 316L steel. In Proceedings of the 12th International Conference on Intelligent Technologies in Logistics and
+Mechatronics Systems, ITELMS 2018, Panevezys, Lithuania, 26–27 April 2018; pp. 115–123.
+
+32. Kluczy ´nski, J.; ´Sniezek, L.; Grzelak, K.; Oziebło, A.; Perkowski, K.; Torzewski, J.; Szachogłuchowicz, I.; Gocman, K.; Wachowski,
+M.; Kania, B. Comparison of different heat treatment processes of selective laser melted 316L steel based on analysis of mechanical
+properties. Materials 2020, 13, 3805. [CrossRef] [PubMed]
+
+33. Kluczy ´nski, J.; ´Snie ˙zek, L.; Grzelak, K.; Ozi˛ebło, A.; Perkowski, K. Hot isostatic pressing inﬂuence on the mechanical properties of
+
+34.
+
+selectively laser-melted 316L steel. Bull. Pol. Acad. Sci. Tech. Sci. 2020, 68, 1413–1424.
+´Sniezek, L.; Grzelak, K.; Torzewski, J.; Kluczy ´nski, J. Study of the mechanical properties components made by SLM additive
+technology. In Proceedings of the 11th International Conference on Intelligent Technologies in Logistics and Mechatronics
+Systems, ITELMS 2016, Panevezys, Lithuania, 28–29 April 2016; pp. 145–153.
+
+35. Kluczy ´nski, J.; ´Sniezek, L.; Grzelak, K.; Torzewski, J.; Szachogłuchowicz, I.; Wachowski, M.; Łuszczek, J. Crack growth behavior
+of additively manufactured 316L steel-inﬂuence of build orientation and heat treatment. Materials 2020, 13, 3259. [CrossRef]
+[PubMed]
+
+36. Go´zdzik, D.; FIKUS, B.; KIJEWSKI, J. Preliminary Comparative Investigations on Ballistic Properties of Intermediate Cartridges.
+
+37.
+
+Probl. Mechatronics Armament Aviat. Saf. Eng. 2020, 11, 27–44. [CrossRef]
+Shifeng, W.; Shuai, L.; Qingsong, W.; Yan, C.; Sheng, Z.; Yusheng, S. Effect of molten pool boundaries on the mechanical properties
+of selective laser melting parts. J. Mater. Process. Technol. 2014, 214, 2660–2667. [CrossRef]
+
+38. Cheng, B.; Shrestha, S.; Chou, K. Stress and deformation evaluations of scanning strategy effect in selective laser melting. Addit.
+
+Manuf. 2016, 12, 240–251.
+
+39. Wang, Z.; Palmer, T.A.; Beese, A.M. Effect of processing parameters on microstructure and tensile properties of austenitic stainless
+
+steel 304L made by directed energy deposition additive manufacturing. Acta Mater. 2016, 110, 226–235. [CrossRef]
+
+40. Ran, X.; Liu, D.; Li, J.; Wang, H.; Cheng, X.; Zhang, J.; Tang, H.; Liu, X. Effects of microstructures on the fatigue crack growth
+
+41.
+
+behavior of laser additive manufactured ultrahigh-strength AerMet100 steel. Mater. Sci. Eng. A 2018, 721, 251–262. [CrossRef]
+Scipioni Bertoli, U.; Wolfer, A.J.; Matthews, M.J.; Delplanque, J.P.R.; Schoenung, J.M. On the limitations of Volumetric Energy
+Density as a design parameter for Selective Laser Melting. Mater. Des. 2017, 113, 331–340. [CrossRef]
+
+42. Luo, M.; Hu, R.; Li, Q.; Huang, A.; Pang, S. Physical understanding of keyhole and weld pool dynamics in laser welding under
+
+different water pressures. Int. J. Heat Mass Transf. 2019, 137, 328–336. [CrossRef]
+
+

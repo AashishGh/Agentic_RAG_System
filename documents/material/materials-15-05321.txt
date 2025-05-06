@@ -1,0 +1,1357 @@
+Article
+Research on Bending Performance of Three-Dimensional Deep
+Angle Interlock Kevlar/EP Armor Material
+
+Jianhua Zheng 1,2, Lin Zhong 1, Hongxia Chen 1,*, Xiaomei Huang 1 and Haijian Cao 1,*
+
+1
+
+2
+
+School of Textile and Clothing, Nantong University, Nantong 226007, China; 1515032079@ntu.edu.cn (J.Z.);
+18136523883@163.com (L.Z.); h.xmei@ntu.edu.cn (X.H.)
+School of Textile Science and Engineering, Jiangnan University, Wuxi 214126, China
+
+* Correspondence: chenhx@ntu.edu.cn (H.C.); caohaijian@ntu.edu.cn (H.C.)
+
+Abstract: Three-dimensional (3D) woven composites have attracted much attention in the lightweight
+research of protective armor due to their high speciﬁc strength and good impact resistance. However,
+there are still many gaps in terms of the performance and inﬂuencing factors of three-dimensional
+deep-angle-interlock (3DDAI) Kevlar/EP armor materials. Therefore, in order to prepare 3DDAI
+Kevlar/EP armor materials with excellent ballistic resistance and mechanical properties, this paper
+studies the bending performance of 3DDAI Kevlar/EP armor materials and the inﬂuence of the
+number of stacking layers, resin content, laying method, and weft density. Finally, we compare it
+with the traditional two-dimensional (2D) plain laminated Kevlar/EP armor material. The results
+showed that when the 3DDAI Kevlar/EP armor material was subjected to bending load, the upper
+and bottom layers of the material had a great inﬂuence on the initial stiffness and fracture strength
+of the material, respectively; when the material’s warp and weft density are quite different, the
+utilization rate of the yarn and the strength of the material are negatively affected; the fracture energy
+of the 3DDAI Kevlar/EP armor material prepared by the orthogonal laying method was about 20%
+higher than that of the 3DDAI Kevlar/EP armor material with the unidirectional layering method;
+and the bending performance of the 3DDAI Kevlar/EP armor material in the weft direction was
+better than that of the 2D plain laminated Kevlar/EP armor material, with the 3DDAI Kevlar/EP
+armor material having better delamination resistance. The research results will lay the foundation for
+structural optimization and engineering applications of such materials.
+
+Keywords: composite armor material; laying method; resin content; weft density; number of stack-
+ing layers
+
+1. Introduction
+
+Fiber-reinforced composite materials are widely used in aerospace, transportation,
+military protection, and other ﬁelds due to their low density and high strength [1–3]. In
+the ﬁeld of protection, ﬁber-reinforced composite materials can be directly prepared into
+armor for protection and can also be used as a back plate to form composite armor with a
+ceramic/metal panel [4,5].
+
+Three-dimensional (3D) woven composite materials outperform the traditional two-
+dimensional (2D) fabrics laminated to prepare laminate armor [5], in terms of impact
+resistance and interlayer shear resistance [6–9]. Due to the designability and structural
+complexity of 3D woven composites, previous studies have mainly focused on fabric
+structure, hybrid effects, and failure mechanisms. Warren et al. [10] combined a digital
+image method to study the tensile, compression, and in-plane shear performance of 3D
+orthogonal, shallow bend-interlock composite materials and compared them with 2D
+woven composites. Dai et al. [11] studied the tensile, compression, and bending properties
+of four 3D orthogonal and two 3D deep-angle-interlock composite materials, and found
+that the initial damage positions of the six composite materials with different structures
+
+Citation: Zheng, J.; Zhong, L.; Chen,
+
+H.; Huang, X.; Cao, H. Research on
+
+Bending Performance of
+
+Three-Dimensional Deep Angle
+
+Interlock Kevlar/EP Armor Material.
+
+Materials 2022, 15, 5321. https://
+
+doi.org/10.3390/ma15155321
+
+Academic Editors: Kai Jin, Joseph
+
+Domblesky and Zhenchao Qi
+
+Received: 11 July 2022
+
+Accepted: 27 July 2022
+
+Published: 2 August 2022
+
+Publisher’s Note: MDPI stays neutral
+
+with regard to jurisdictional claims in
+
+published maps and institutional afﬁl-
+
+iations.
+
+Copyright: © 2022 by the authors.
+
+Licensee MDPI, Basel, Switzerland.
+
+This article is an open access article
+
+distributed under
+
+the terms and
+
+conditions of the Creative Commons
+
+Attribution (CC BY) license (https://
+
+creativecommons.org/licenses/by/
+
+4.0/).
+
+Materials 2022, 15, 5321. https://doi.org/10.3390/ma15155321
+
+https://www.mdpi.com/journal/materials
+
+materialsMaterials 2022, 15, 5321
+
+2 of 18
+
+were all at the interweaving point of the resin-rich zone. Zhang et al. [12] used immersion-
+focused ultrasound imaging and micro-computed tomography technology to study the
+bending properties and damage mechanism of 3D shallow bend-interlock carbon/epoxy
+composites along different angles (0◦, 30◦, 45◦, 90◦). The study found that the material
+has higher ﬂexural strength, initial modulus, and lower bending deformation along the
+axis (0◦, 90◦) than the off-axis (30◦, 45◦). The on-axis sample exhibits quasi-brittleness,
+and the off-axis style exhibits better elongation properties and effectively reduces cracks
+and delamination. Fan et al. [13] prepared 3D orthogonal C-G/epoxy hybrid composites,
+with glass ﬁbers in the upper and bottom layers and carbon ﬁbers in the middle layer,
+and Z-binder yarns to study their bending properties and bending fatigue properties and
+compared them with the 3D orthogonal carbon ﬁber/epoxy composites and the laminated
+C-G/epoxy hybrid composites. The study found that the strength and modulus of the 3D
+C-G hybrid composites were higher than that of the laminated C-G hybrid composites,
+and the modulus of the 3D C-G hybrid composites was lower than that of the 3D carbon
+ﬁber composites, but the failure strain and strength were higher than those of the 3D
+carbon ﬁber composites. The study also found that the fracture origin of the 3D C-G hybrid
+composites and 3D carbon ﬁber composites in static bending was from the kinking failure
+and shearing failure of the top layer. The compression damage of warp and Z-binder
+yarns was the main failure mode of fatigue testing. Guo et al. [14] studied the effect of
+weaving parameters on the mechanical properties of 3D multi-angle interlocking woven
+composite materials and found that weaving parameters have a greater inﬂuence on the
+failure morphology of the material. Zheng et al. [4] established a mesoscopic model of
+3D shallow bend-interlock composite materials, based on numerical simulations, to study
+the damage mechanism of the material and conducted tensile experiments on the material
+to verify the accuracy of the simulation. For 3D angle-interlock structural materials, the
+current research on bulletproof ability mainly focuses on the fabric level, as illustrated in
+the following studies. Yang et al. [15] conducted a ﬁnite element simulation of the ballistic
+performance of 3D angle-interlock fabrics and 2D plain laminated fabrics, and found that
+the 3D angle-interlock fabric ratio capacity absorbs higher than the 2D plain laminated
+fabric; they also found that 3D fabrics have better surface diffusion capacity. Wei et al. [16]
+conducted ballistic impact experiments on 3D deep-angle-interlock fabrics, which revealed
+the impact damage evolution, energy absorption mechanism, and stress wave distribution
+of 3D deep-angle-interlock fabrics.
+
+Due to the limitations of weaving technology, the thickness of a single 3D fabric is
+often limited to 1–6 mm [17–19], and the preparation of composite materials is still unable
+to reach a high level of ballistic protection. Min et al. [20] analyzed the ballistic performance
+of 3D deep-angle-interlock stacking layer armored materials of different structures from
+the aspects of damage depth, scale-out, damage volume, etc., and found that the bullet-
+proof effect of the ﬁve-layer deep-angle-interlock structure is better than that of the four-
+layer deep-angle-interlock structure. However, the effect on the mechanical and ballistic
+performance of the 3D deep-angle-interlock armored materials has not been sufﬁciently
+studied, such as the series of fabric structure parameters, fabric stacking direction, and
+resin content.
+
+Therefore, to prepare three-dimensional deep-angle-interlock (3DDAI) Kevlar/EP
+armor materials with excellent mechanical and ballistic properties, in this paper, 3DDAI
+Kevlar fabric was used as the reinforcement and epoxy resin was used as the matrix to
+study the inﬂuence of the bending properties. These include the number of stacking layers,
+resin content, fabric weft density, and laying method. The work presented in this study
+lays a foundation for subsequent research on the ballistic resistance of 3DDAI Kevlar/EP
+armor materials.
+
+Materials 2022, 15, 5321
+
+3 of 18
+
+2. Experiment
+2.1. Materials and Equipment
+
+The 3D deep-angle-interlock Kevlar fabrics (three different weft densities, as shown in
+Table 1), were self-made, as shown in Figure 1; Kevlar plain fabrics were supplied by Yantai
+Taihe New Material Co., Ltd. (Yantai, China); Epoxy resin E-51 was supplied by Nantong
+Xingchen Synthetic Material Co., Ltd. (Nantong, China); Polyetheramine D230 curing agent
+was supplied by Changzhou Runxiang Chemical Co., Ltd. (Changzhou, China); 101A-4S
+electric heating blast-drying oven was supplied by Nanjing Wohuan Technology Industrial
+Co., Ltd. (Nanjing, China); WG-1200 multifunctional ceramic tile cutting machine was
+supplied by Sichuan Wanguang Machinery Equipment Co., Ltd. (Guanghan, China); In-
+stron 5969H universal material testing machine was supplied by Instron Testing Equipment
+Trading Co., Ltd. (Shanghai, China); LEICASAPO stereo microscope was supplied by Leica
+Microsystems Trading Co., Ltd. (Shanghai, China).
+
+Table 1. Kevlar fabric speciﬁcations.
+
+Type
+
+Fiber Type
+
+3DDI
+3DDI
+3DDI
+Plain
+
+Kevlar
+Kevlar
+Kevlar
+Kevlar
+
+Yarn Linear
+Density (Tex)
+
+Warp Density
+(ends/cm)
+
+Weft Density
+(picks/cm)
+
+111.11
+111.11
+111.11
+111.11
+
+10
+10
+10
+9
+
+43
+46
+50
+9
+
+Thickness
+(mm)
+
+0.80 ± 0.3
+0.82 ± 0.3
+0.85 ± 0.1
+0.21 ± 0.1
+
+Areal Weight
+(g/m2)
+
+650 ± 3
+662 ± 5
+680 ± 6
+200 ± 2
+
+Figure 1. Schematic diagram of 3DDAI fabric.
+
+2.2. Sample Preparation
+
+We utilized the 300 mm × 300 mm 3D deep-angle-interlock Kevlar fabric as the
+reinforcement. Epoxy resin E-51 and curing agent polyetheramine D230 were mixed
+uniformly in the ratio of 4:1 as the matrix, and the vacuum-assisted molding process was
+used to compound. The material was cut by the WG-1200 multifunctional ceramic tile
+cutting machine, according to the experimental requirements, and the parameters of the
+3DDAI Kevlar/EP armor material sample are listed in Table 2.
+
+The resin content/ﬁber volume fraction has an important inﬂuence on the mechanical
+properties of the material [21–23], so it is necessary to control the resin content during the
+
+    Materials 2022, 15, x. https://doi.org/10.3390/xxxxx www.mdpi.com/journal/materials  Figure 1. Schematic diagram of 3DDAI fabric. The bending stress-strain curves of 3DDAI Kevlar/EP armor materials with different fabric layers are shown in Figure 2.   (a) (b) Figure 2. The bending stress-strain curve of 3DDAI Kevlar/EP armor materials with different stack-ing layers. (a) The warp direction. (b) The weft direction.    (a) (b) Figure 3. Bending failure morphologies of 3DDAI of Kevlar/EP armor materials with 1 to 2 layers. (a) 1 layer. (b) 2 layer.  Materials 2022, 15, 5321
+
+4 of 18
+
+material preparation process. Among them, the calculation formula for resin content and
+ﬁber volume fraction is as follows:
+
+Mm =
+
+1 − m f
+mc
+
+Vf =
+
+m f /ρ f
+Vc
+
+(1)
+
+(2)
+
+where Mm is the resin content. mf is the ﬁber quality. mc is the composite material quality.
+Vf is the ﬁber volume fraction. Vc is the volume of composite ρf is the density of ﬁber.
+
+Table 2. The detailed parameters of the 3DDAI Kevlar/EP armor material.
+
+Number of Layers
+
+Laying Method
+
+Thickness (mm)
+
+Weft Density
+(picks/cm)
+
+Resin Content (%)
+
+Fiber Volume
+Fraction (%)
+
+1
+2
+3
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+
+Uni-Directional
+Uni-Directional
+Uni-Directional
+Uni-Directional
+Symmetrical
+Symmetrical
+Symmetrical
+Symmetrical
+Symmetrical
+2/2
+Orthogonal
+Orthogonal
+Orthogonal
+Orthogonal
+
+1.26 ± 0.04
+2.25 ± 0.04
+3.16 ± 0.05
+4.09 ± 0.05
+3.46 ± 0.08
+3.68 ± 0.04
+3.87 ± 0.05
+4.2 ± 0.06
+4.4 ± 0.06
+4.06 ± 0.07
+4.11 ± 0.08
+4.26 ± 0.07
+4.06 ± 0.08
+4 ± 0.08
+
+2.3. Bending Test
+
+50
+50
+50
+50
+50
+50
+50
+50
+50
+50
+50
+50
+46
+43
+
+44.59
+43.64
+44.61
+44.59
+34.27
+36.75
+40.39
+44.61
+48.59
+44.18
+44.49
+46.21
+45.43
+46.25
+
+36.57
+42.78
+45.05
+46.36
+54.92
+52.71
+48.94
+46.12
+43.38
+46.73
+46.06
+45.03
+44.05
+43.4
+
+The bending performance of the 3DDAI Kevlar/EP armor material was tested on the
+Instron 5969 H universal material testing machine according to GB/T1449-2005 [24]. The
+ratio of the bending span to the thickness of the pattern was 16:1. The bending test speed
+was 2 mm/min. The preload was set to 3–8 N, and the load continues until the pattern fails.
+In order to ensure the validity of the data, each data-point was tested at least ﬁve times,
+and the average value was taken.
+
+The bending stress was calculated using Equation (3); the bending strain was calcu-
+
+lated using Equation (4); and the bending modulus was calculated using Equation (5).
+
+σ = 3P · l/2b · h2
+
+ε = 6S · h/l2
+l3 · ∆P
+4 · b · h3 · ∆S
+
+E =
+
+(3)
+
+(4)
+
+(5)
+
+where σ is the bending stress. P is the bending load. l is the bending span. b is the sample
+width. h is the sample thickness. ε is the bending strain. S is the bending deﬂection. ∆P
+and ∆S are the load increments of the initial line segment and the displacement increment
+of the middle point of the span, respectively.
+
+3. Results and Discussions
+3.1. Effect of Stacking Layers of 3DDAI Kevlar Fabrics on Bending Properties
+
+The 3DDAI fabric with a weft density of 50 picks/cm was used as the reinforce-
+ment, and armor materials (resin content 44% ± 1%) of different fabric pieces were pre-
+pared through the superimposition of the unidirectional laying method, including 3DDAI
+
+Materials 2022, 15, 5321
+
+5 of 18
+
+Kevlar/EP armor materials made of single, two, three, and four fabric laminates. The warp
+and weft directions of the material were tested for bending performance, respectively.
+
+3.1.1. Bending Stress-Strain Curves
+
+The bending stress-strain curves of 3DDAI Kevlar/EP armor materials with different
+
+fabric layers are shown in Figure 2.
+
+Figure 2. The bending stress-strain curve of 3DDAI Kevlar/EP armor materials with different
+stacking layers. (a) The warp direction. (b) The weft direction.
+
+It can be seen from Figure 2 that 3DDAI Kevlar/EP armor materials with different
+stacking layers have different bending stress-strain responses. Among them, the curve
+characteristics of 1 to 2 layers are similar. The stress ﬁrst increases linearly with the strain,
+then increases nonlinearly, and then decreases slowly after reaching the maximum value.
+This is because Kevlar ﬁbers have good toughness, and the material failure is mainly due
+to the decrease in stiffness caused by buckling deformation. The damage morphology of
+1–2 layers of 3DDAI Kevlar/EP armor materials is shown in Figure 3. When there was only
+one layer of fabric, the yarn did not break; when there were two layers of fabric, the local
+yarn broke. The 3 to 4 layer bending curve characteristics are similar and are described as
+follows: in the initial stage, the stress increases linearly with the strain; subsequently, the
+stress increases nonlinearly with the strain; and then, the stress reaches its maximum value,
+and the material fails. Finally, as the strain increases further, the stress drops sharply.
+
+Figure 3. Bending failure morphologies of 3DDAI of Kevlar/EP armor materials with 1 to 2 layers.
+(a) 1 layer. (b) 2 layer.
+
+In order to further study the bending characteristics of multilayer 3DDAI armor
+materials, taking 4 layers of 3DDI armor materials as an example, the damage morphology
+
+Materials 2022, 15, x. https://doi.org/10.3390/xxxxx www.mdpi.com/journal/materials Figure 1. Schematic diagram of 3DDAI fabric. The bending stress-strain curves of 3DDAI Kevlar/EP armor materials with different fabric layers are shown in Figure 2. (a)(b) Figure 2.The bending stress-strain curve of 3DDAI Kevlar/EP armor materials with different stack-ing layers. (a) The warp direction. (b) The weft direction.(a) (b) Figure 3. Bending failure morphologies of 3DDAI of Kevlar/EP armor materials with 1 to 2 layers. (a) 1 layer. (b) 2 layer.     Materials 2022, 15, x. https://doi.org/10.3390/xxxxx www.mdpi.com/journal/materials  Figure 1. Schematic diagram of 3DDAI fabric. The bending stress-strain curves of 3DDAI Kevlar/EP armor materials with different fabric layers are shown in Figure 2.   (a) (b) Figure 2. The bending stress-strain curve of 3DDAI Kevlar/EP armor materials with different stack-ing layers. (a) The warp direction. (b) The weft direction.    (a) (b) Figure 3. Bending failure morphologies of 3DDAI of Kevlar/EP armor materials with 1 to 2 layers. (a) 1 layer. (b) 2 layer.  Materials 2022, 15, 5321
+
+6 of 18
+
+was analyzed by a LEICASAPO stereo microscope. Among them, the slope of the curve
+was calculated with a strain of 0.002 mm/mm as the limit, and the test was stopped at
+the point of sudden change of the slope to get the failure morphology of the material at
+different stages, which is shown in Figures 4 and 5. In these pictures, we noticed that the B
+and C points when the material was loaded in the weft direction come earlier than when
+the material was loaded in the warp direction. This is because the buckled warp yarn in
+the material has a higher failure strain than the straightened weft yarn. Among them, there
+was no obvious damage to the material in the linear growth phase (AB section, A is the
+curve’s starting point). In the non-linear growth stage (the BC section), the axial yarns in
+the upper layer of the material accumulate damage, and the matrix is broken. When loaded
+in the warp direction, it shows warp yarn damage and matrix fragmentation around the
+interweaving point on the upper surface of the material, as shown in Figure 4c. When
+loaded in the weft direction, it shows buckling and extrusion of the weft yarn in the upper
+layer of the material and local cracking of the matrix, as shown in Figure 5c. The ultimate
+failure of the material (point D) was caused by the fracture of the axial yarns in the bottom
+layer of the material. When loaded in the warp direction, it appears that the underside
+of the material has been broken, and the weft yarns have collapsed. The bottom warp
+yarns located directly under the upper indenter broke ﬁrst and then spread in the thickness
+direction, showing longitudinal cracks as shown in Figure 4d. When loaded in the weft
+direction, it appears that the material’s bottom layer matrix was broken. The bottom weft
+yarn, located directly under the upper indenter, breaks ﬁrst and then expands in the plane,
+resulting in a diagonal breaking path of the weft yarn along the weaving point area, as
+shown in Figure 5d.
+
+3.1.2. Bending Properties
+
+The bending properties of the 3DDAI Kevlar/EP armor materials with different
+superimposed layers are listed in Table 3. In order to more intuitively evaluate the inﬂuence
+of different stacking layers on the bending properties of materials, the bending performance
+comparison of different stacking layers of materials is shown in Figure 6.
+
+Table 3. The bending properties of materials with different stacking layers.
+
+Stacking
+Layers
+
+1
+2
+3
+4
+
+Bending Stress (MPa)
+
+Bending Modulus (GPa)
+
+Warp
+
+67.7
+126.0
+169.4
+165.9
+
+CV%
+
+5.0
+1.2
+1.5
+2.0
+
+Weft
+
+200.0
+312.0
+356.0
+345.3
+
+CV%
+
+Warp
+
+CV%
+
+10.0
+2.8
+2.5
+2.6
+
+2.31
+2.96
+4.41
+5.75
+
+1.4
+3.5
+4.2
+1.4
+
+Weft
+
+9.83
+14.02
+18.61
+19.52
+
+CV%
+
+13.7
+6.0
+2.4
+1.9
+
+It can be seen from Table 3 that: (1) The bending performance in the weft direction was
+signiﬁcantly better than that in the warp direction. (2) When the number of stacked layers
+reaches 3 layers, the bending strength was the largest (169.4 MPa along the warp direction
+and 356 MPa along the weft direction). (3) When reaching 4 layers, the bending modulus
+was the largest (in the warp direction: 5.75 GPa, along the weft direction: 19.52 GPa).
+
+It can be seen from Figure 6 that the bending strength of the 3DDAI Kevlar/EP armor
+material ﬁrst increases with the number of fabric stacking layers, reaches a peak when the
+number of stacking layers reaches three, and then decreases. According to the bending
+strength formula, the bending strength of the material increases as a logarithmic function
+with an increase in thickness. However, in George J. Dvorak’s study [25], it was found that
+with the increase in the thickness of the laminate layer, the strength of the matrix in the
+material decreased. Therefore, when the number of 3DDAI Kevlar/EP armored material
+overlays increases to a certain extent, the increase in bending strength is weaker than the
+decrease in matrix strength, resulting in a decrease in the overall strength of the material.
+The increase in the number of stacking layers in the 3DDAI Kevlar/EP armor material
+and the increase in the total amount of ﬁbers involved in resisting deformation shows that
+
+Materials 2022, 15, 5321
+
+7 of 18
+
+the bending modulus of the material increases. However, the increase in bending module
+decreases with the increase in the number of stacking layers due to the material’s resistance
+to deformation by synergy between different layers, rather than the participation of all
+areas of the material itself in resisting deformation.
+
+Figure 4. The bending response of 3DDAI Kevlar/EP armor material when loaded along the warp
+direction. (a) The bending stress-strain curve. (b) The topography of the material at point B. (c) The
+topography of the material at point C. (d) The topography of the material at point D.
+
+Materials 2022, 15, x FOR PEER REVIEW 2 of 9     (a) (b)  (c)  (d) Figure 4. The bending response of 3DDAI Kevlar/EP armor material when loaded along the warp direction. (a) The bending stress-strain curve. (b) The topography of the material at point B. (c) The topography of the material at point C. (d) The topography of the material at point D. Materials 2022, 15, 5321
+
+8 of 18
+
+Figure 5. The bending response of 3DDAI Kevlar/EP armor material when loaded along the weft
+direction. (a) The bending stress-strain curve. (b) The topography of the material at point B. (c) The
+topography of the material at point C. (d) The topography of the material at point D.
+
+Materials 2022, 15, x FOR PEER REVIEW 3 of 9     (a) (b)  (c)  (d) Figure 5. The bending response of 3DDAI Kevlar/EP armor material when loaded along the weft direction. (a) The bending stress-strain curve. (b) The topography of the material at point B. (c) The topography of the material at point C. (d) The topography of the material at point D. 3.1.2. Bending Properties The bending properties of the 3DDAI Kevlar/EP armor materials with different su-perimposed layers are listed in Table 3. In order to more intuitively evaluate the influence Materials 2022, 15, 5321
+
+9 of 18
+
+Figure 6. Comparison of the bending properties of materials with different stacking layers. (a) Bend-
+ing strength. (b) Bending stiffness.
+
+3.2. Effect of Epoxy Resin Content on Bending Properties
+
+The 3DDAI fabric with a weft density of 50 picks/cm was the reinforcement, and the
+armor material, with different contents of epoxy resin, was prepared by the symmetrical
+laying method, including resin contents of 34.27%, 36.75%, 40.39%, 44.61%, and 48.59% of the
+3DDAI Kevlar/EP armor materials were tested in the warp and weft directions, respectively.
+
+3.2.1. Bending Stress-Strain Curves
+
+Figure 7 shows the bending stress-strain curves of 3DDAI Kevlar/EP armor materials
+with different resin contents. In the ﬁgure, we found that the stress-strain curve of the
+material was more unstable when the resin content was 34.27% (ﬁber volume content of
+54.92%) and 36.75% (52.71%), which may be because the fabric structure of 3DDAI was
+relatively loose and low resin content will result in more voids inside the material and thus
+an unstable response of the material during the bending process. When the resin content
+was 40.39% (48.94%), 44.61% (46.12%), and 48.59% (43.38%), the stress-strain curve of the
+material was relatively stable, indicating that the resin content in this range can prepare
+3DDAI Kevlar/EP armor material with stable performance.
+
+Figure 7. The bending stress-strain curve of 3DDAI Kevlar/EP armor materials with different
+contents of epoxy resin. (a) The warp direction. (b) The weft direction.
+
+3.2.2. Bending Properties
+
+The bending properties of 3DDAI Kevlar/EP armor materials with different resin
+content are listed in Table 4. In order to evaluate the inﬂuence of different resin contents on
+
+Materials 2022, 15, x FOR PEER REVIEW 4 of 9   of different stacking layers on the bending properties of materials, the bending perfor-mance comparison of different stacking layers of materials is shown in Figure 6.   (a) (b) Figure 6. Comparison of the bending properties of materials with different stacking layers. (a) Bending strength. (b) Bending stiffness. 3.2.1. Bending Stress-Strain Curves Figure 7 shows the bending stress-strain curves of 3DDAI Kevlar/EP armor materials with different resin contents. In the figure, we found that the stress-strain curve of the material was more unstable when the resin content was 34.27% (fiber volume content of 54.92%) and 36.75% (52.71%), which may be because the fabric structure of 3DDAI was relatively loose and low resin content will result in more voids inside the material and thus an unstable response of the material during the bending process. When the resin content was 40.39% (48.94%), 44.61% (46.12%), and 48.59% (43.38%), the stress-strain curve of the material was relatively stable, indicating that the resin content in this range can prepare 3DDAI Kevlar/EP armor material with stable performance.   (a) (b) Figure 7. The bending stress-strain curve of 3DDAI Kevlar/EP armor materials with different con-tents of epoxy resin. (a) The warp direction. (b) The weft direction. 3.2.2. Bending Properties The bending properties of 3DDAI Kevlar/EP armor materials with different resin content are listed in Table 4. In order to evaluate the influence of different resin contents on the bending properties of the material, the bending properties comparison of the ma-terial with different resin contents is shown in Figure 8. Table 4. The bending properties of materials with different contents of epoxy resin. Materials 2022, 15, x FOR PEER REVIEW 4 of 9   of different stacking layers on the bending properties of materials, the bending perfor-mance comparison of different stacking layers of materials is shown in Figure 6.   (a) (b) Figure 6. Comparison of the bending properties of materials with different stacking layers. (a) Bending strength. (b) Bending stiffness. 3.2.1. Bending Stress-Strain Curves Figure 7 shows the bending stress-strain curves of 3DDAI Kevlar/EP armor materials with different resin contents. In the figure, we found that the stress-strain curve of the material was more unstable when the resin content was 34.27% (fiber volume content of 54.92%) and 36.75% (52.71%), which may be because the fabric structure of 3DDAI was relatively loose and low resin content will result in more voids inside the material and thus an unstable response of the material during the bending process. When the resin content was 40.39% (48.94%), 44.61% (46.12%), and 48.59% (43.38%), the stress-strain curve of the material was relatively stable, indicating that the resin content in this range can prepare 3DDAI Kevlar/EP armor material with stable performance.   (a) (b) Figure 7. The bending stress-strain curve of 3DDAI Kevlar/EP armor materials with different con-tents of epoxy resin. (a) The warp direction. (b) The weft direction. 3.2.2. Bending Properties The bending properties of 3DDAI Kevlar/EP armor materials with different resin content are listed in Table 4. In order to evaluate the influence of different resin contents on the bending properties of the material, the bending properties comparison of the ma-terial with different resin contents is shown in Figure 8. Table 4. The bending properties of materials with different contents of epoxy resin. Materials 2022, 15, 5321
+
+10 of 18
+
+the bending properties of the material, the bending properties comparison of the material
+with different resin contents is shown in Figure 8.
+
+Table 4. The bending properties of materials with different contents of epoxy resin.
+
+Content of
+Epoxy Resin (%)
+
+34.27
+36.75
+40.39
+44.61
+48.59
+
+Warp
+
+167.0
+193.8
+199.9
+206.8
+204.7
+
+Bending Stress (MPa)
+
+CV%
+
+2.0
+3.4
+0.8
+2.0
+1.2
+
+Weft
+
+216.4
+274.2
+278.8
+307.0
+292.3
+
+CV%
+
+7.1
+5.2
+1.2
+1.0
+2.2
+
+Figure 8. Comparison of the bending strength of materials with different contents of epoxy resin.
+
+As can be seen from Table 4, the resin content of the 3DDAI Kevlar/EP armor material’s
+bending strength was the highest at 44.61% (along the warp direction: 206.8 MPa, along the
+weft direction: 307 MPa), and the bending strength was the lowest when the resin content
+was 34.27% (along the warp direction: 167 MPa, along the weft direction: 216.4 MPa).
+
+As can be seen from Figure 8, the bending strength of the material increases with the
+increase of the resin content when the resin content is increased from 34.27% to 44.61%.
+When the resin content of the material is 44.61% to 48.59%, the bending strength decreases
+with the increase of the epoxy resin content, but the degree of the decrease is not very
+obvious. This is because if the resin content is too low, the matrix will be unable to play a
+useful role in load transmission and reducing the synergy between ﬁbers and the matrix
+will result in the lower material’s strength. However, if the resin content is excessively high,
+the material strength will decrease too, due to the relative reduction of ﬁber as the carrier
+main body [26,27]. Therefore, in the armor material preparation process, it could improve
+the utilization rate of the material by controlling the appropriate resin content, and the
+optimal resin content of the 3DDAI Kevlar/EP armor material should be controlled within
+the range of 40% to 49%.
+
+3.3. The Effect of Laying Method on Bending Properties
+
+In the literature on woven and woven-composite ballistic materials, it was found that
+the ballistic performance of quasi-isotropic materials in the macroscopic plane was better
+than that of anisotropic materials in the macroscopic plane [28–30]. Therefore, the following
+3DDAI Kevlar/EP armor materials with different laying methods were designed as far as
+possible to be macro-quasi-isotropic except for the unidirectional laying materials.
+
+Materials 2022, 15, x FOR PEER REVIEW 5 of 9   Content of Epoxy Resin (%) Bending Stress (MPa) Warp CV% Weft CV% 34.27 167.0 2.0 216.4 7.1 36.75 193.8 3.4 274.2 5.2 40.39 199.9 0.8 278.8 1.2 44.61 206.8 2.0 307.0 1.0 48.59 204.7 1.2 292.3 2.2  Figure 8. Comparison of the bending strength of materials with different contents of epoxy resin. As can be seen from Table 4, the resin content of the 3DDAI Kevlar/EP armor mate-rial’s bending strength was the highest at 44.61% (along the warp direction: 206.8 MPa, along the weft direction: 307 MPa), and the bending strength was the lowest when the resin content was 34.27% (along the warp direction: 167 MPa, along the weft direction: 216.4 MPa). As can be seen from Figure 8, the bending strength of the material increases with the increase of the resin content when the resin content is increased from 34.27% to 44.61%. When the resin content of the material is 44.61% to 48.59%, the bending strength decreases with the increase of the epoxy resin content, but the degree of the decrease is not very obvious. This is because if the resin content is too low, the matrix will be unable to play a useful role in load transmission and reducing the synergy between fibers and the matrix will result in the lower material’s strength. However, if the resin content is excessively high, the material strength will decrease too, due to the relative reduction of fiber as the carrier main body [26,27]. Therefore, in the armor material preparation process, it could improve the utilization rate of the material by controlling the appropriate resin content, and the optimal resin content of the 3DDAI Kevlar/EP armor material should be con-trolled within the range of 40% to 49%.   Materials 2022, 15, 5321
+
+11 of 18
+
+The 3DDAI fabric, with a weft density of 50 picks/cm, was used as the reinforcement
+and was combined with the resin system to prepare armor materials with different laying
+methods. 3DDAI Kevlar/EP armor materials (resin content 44% ± 1%) was prepared using
+the unidirectional laying method, the orthogonal laying method, the symmetrical laying
+method, and the 2/2 laying method, and bending performance tests were conducted along
+the warp and weft directions, respectively. Figure 9 is a schematic diagram of different
+laying methods.
+
+Figure 9. Schematic diagram of different laying methods. (a) Unidirectional laying method. (b) Or-
+thogonal laying method. (c) Symmetrical laying method. (d) 2/2 laying method.
+
+3.3.1. Bending Stress-Strain Curves
+
+Figure 10 is the bending stress-strain curve of the 3DDAI Kevlar/EP armor materials
+with different laying methods. From the ﬁgure, we can see that the materials with different
+laying methods have similar bending characteristics. However, the response of each stage
+was different, so the fracture energy of the material obtained by calculating the curve area
+of each stage is listed in Table 5.
+
+Figure 10. The bending stress-strain curve of 3DDAI Kevlar/EP armor materials with different laying
+methods. (a) The warp direction. (b) The weft direction.
+
+Materials 2022, 15, x FOR PEER REVIEW 6 of 9   3.3. The Effect of Laying Method on Bending Properties In the literature on woven and woven-composite ballistic materials, it was found that the ballistic performance of quasi-isotropic materials in the macroscopic plane was better than that of anisotropic materials in the macroscopic plane [28–30]. Therefore, the follow-ing 3DDAI Kevlar/EP armor materials with different laying methods were designed as far as possible to be macro-quasi-isotropic except for the unidirectional laying materials. The 3DDAI fabric, with a weft density of 50 picks/cm, was used as the reinforcement and was combined with the resin system to prepare armor materials with different laying methods. 3DDAI Kevlar/EP armor materials (resin content 44% ± 1%) was prepared using the unidirectional laying method, the orthogonal laying method, the symmetrical laying method, and the 2/2 laying method, and bending performance tests were conducted along the warp and weft directions, respectively. Figure 9 is a schematic diagram of different laying methods.   (a) (b)   (c) (d) Figure 9. Schematic diagram of different laying methods. (a) Unidirectional laying method. (b) Orthogonal laying method. (c) Symmetrical laying method. (d) 2/2 laying method. 3.3.1. Bending Stress-Strain Curves Figure 10 is the bending stress-strain curve of the 3DDAI Kevlar/EP armor materials with different laying methods. From the figure, we can see that the materials with differ-ent laying methods have similar bending characteristics. However, the response of each stage was different, so t\[he fracture energy of the material obtained by calculating the curve area of each stage is listed in Table 5.   (a) (b) Figure 10. The bending stress-strain curve of 3DDAI Kevlar/EP armor materials with different lay-ing methods. (a) The warp direction. (b) The weft direction. Materials 2022, 15, x FOR PEER REVIEW 6 of 9 3.3. The Effect of Laying Method on Bending Properties In the literature on wovenand woven-composite ballistic materials, it was found thatthe ballistic performance of quasi-isotropic materials in the macroscopic plane was betterthan that of anisotropic materials in the macroscopic plane [28–30].Therefore, the follow-ing 3DDAI Kevlar/EP armor materialswith different laying methods were designed as far as possible to be macro-quasi-isotropic except for the unidirectional laying materials.The 3DDAI fabric, with a weft density of50 picks/cm, was used as the reinforcementand was combined with the resin system to prepare armor materials with different laying methods. 3DDAI Kevlar/EP armor materials (resin content 44% ± 1%) was prepared using the unidirectional laying method, the orthogonal laying method, the symmetrical laying method, and the 2/2 laying method, and bending performance tests were conducted along the warp and weft directions, respectively. Figure 9 isa schematic diagram of differentlaying methods.(a) (b) (c) (d) Figure 9. Schematic diagram of different laying methods. (a) Unidirectional laying method. (b) Orthogonal laying method. (c) Symmetrical laying method. (d) 2/2 laying method. 3.3.1. Bending Stress-Strain CurvesFigure 10 is the bending stress-strain curve of the 3DDAI Kevlar/EP armor materials with different laying methods. From thefigure, we can see that the materials with differ-ent laying methods have similar bending characteristics. However, the response of each stage was different, so t\[he fracture energy of the material obtained by calculating the curve area ofeach stage is listed in Table 5. (a)(b) Figure 10. The bending stress-strain curve of3DDAI Kevlar/EP armor materials with different lay-ing methods. (a) The warp direction. (b) The weft direction. Materials 2022, 15, 5321
+
+12 of 18
+
+Table 5. Material fraction energy with various laying methods.
+
+Linear Stage
+
+Nonlinear Stage
+
+Laying Method
+
+Strain
+(mm/mm)
+
+Area (J/mm2)
+
+Strain
+(mm/mm)
+
+Area (J/mm2)
+
+Unidirectional
+
+Orthogonal
+
+Symmetrical
+
+2/2
+
+Warp [0]4
+Weft [90]4
+Warp [90/0]2
+Weft [0/90]2
+Warp [0/90]s
+Weft [90/0]s
+Warp [902/02]
+Weft [02/902]
+
+0.0180
+0.0142
+0.0118
+0.0164
+0.0206
+0.0102
+0.0142
+0.0234
+
+0.77
+1.70
+0.62
+1.28
+1.23
+0.80
+0.63
+1.80
+
+0.0774
+0.0710
+0.0694
+0.1025
+0.0802
+0.0834
+0.0514
+0.0988
+
+8.22
+18.42
+11.06
+23.09
+11.02
+20.10
+6.15
+18.64
+
+Total
+
+Fraction
+Energy
+(J/mm2)
+
+9.00
+20.12
+11.68
+24.37
+12.25
+20.90
+6.78
+20.43
+
+From Table 5, we can observe that: (1) The nonlinear phase of the material lasts longer
+and can absorb more energy. (2) In general, the order of fracture energy was orthogonal
+laying method > symmetric laying method > unidirectional laying method > 2/2 laying
+method. Furthermore, the fracture energy of the material of the orthogonal layer was about
+20% higher than that of the material of the unidirectional layer. (3) The fracture energy of
+the material whose bottom layer was in the weft direction (90◦) was signiﬁcantly higher
+than that of the material whose bottom layer was in the warp direction (0◦). (4) The material
+whose upper layer was in the warp direction shows higher ultimate strain at each stage
+than the material whose upper layer was in the weft direction.
+
+3.3.2. Bending Properties
+
+The bending properties of the 3DDAI Kevlar/EP armor materials with different laying
+methods are listed in Table 6. It can be seen from the table that: (1) In the unidirectional
+and symmetrical laying methods, the bending strength and bending modulus of the
+armor material along the weft direction were far greater than the bending strength and
+bending modulus of the material along the warp direction. (2) The bending strength
+of the armor material along the weft direction was greater than the bending strength of
+the material along the warp direction in the orthogonal and 2/2 laying methods, and
+the bending modulus of the material in the warp direction was slightly greater than the
+bending modulus of the material in the weft direction. (3) The bending properties of
+the 3DDAI Kevlar/EP armor materials with different laying methods were different, and
+the bending performance of the materials along the weft direction was in the order of
+unidirectional laying method > symmetrical laying method > orthogonal laying method
+> 2/2 laying method; the bending performance of the materials along the warp direction
+was in the order of orthogonal laying method > 2/2 laying method > symmetrical laying
+method > unidirectional laying method. (4) When the 3DDAI Kevlar/EP armor material
+was subjected to bending load, the upper and bottom layers of the material were the main
+bodies that bore the load, and the stiffness contribution of the upper layer was greater than
+the bottom layer; however, the strength contribution of the bottom layer was greater than
+the upper layer.
+
+Materials 2022, 15, 5321
+
+13 of 18
+
+Table 6. The bending properties of materials with different laying methods.
+
+Laying Method
+
+Bending Stress (MPa)
+
+CV%
+
+Bending Modulus (GPa)
+
+CV%
+
+Uni-Directional
+
+Orthogonal
+
+Symmetrical
+
+2/2
+
+Warp [0]4
+Weft [90]4
+Warp [90/0]2
+Weft [0/90]2
+Warp [0/90]s
+Weft [90/0]s
+Warp [902/02]
+Weft [02/902]
+
+165.9
+345.3
+215.7
+291.8
+207.0
+307.0
+206.8
+266.2
+
+2.0
+2.6
+2.4
+2.7
+2.0
+1.0
+8.8
+2.1
+
+4.79
+19.52
+11.52
+10.61
+6.67
+17.32
+8.79
+8.23
+
+1.4
+1.9
+4.2
+3.7
+3.4
+1.3
+3.3
+0.9
+
+In order to make the material appear quasi-isotropic in the macroscopic plane, the
+mechanical properties of the material in different directions are improved by changing the
+laying method. However, as was described above, there were still anisotropic features in
+the material when bearing the bending load after changing the method of laying. Therefore,
+we used Equation (6), the Coefﬁcient of Ascension (CA), to express the comprehensive
+bending performance of the material relative to the unidirectional laying material, and
+the difference between the bending properties of the material in different directions was
+expressed by Equation (7), the Coefﬁcient of Difference (CD; the closer to 1, the smaller the
+difference). A comparison of the bending coefﬁcients of the 3DDAI Kevlar and EP armor
+materials in different laying methods was made, as shown in Figure 11.
+
+QCA = (Q1/Qwarp + Q2/Qwe f t) · 1/2
+
+QCD = Q1/Q2
+
+(6)
+
+(7)
+
+where QCA is the Coefﬁcient of ascension, QCD is the coefﬁcient of difference, Q1 is the
+bending performance of the material along the warp direction, Q2 is the bending perfor-
+mance of the material along the weft direction, Qwarp is the bending performance of the
+unidirectional laying material along the warp direction, Qweft is the bending performance
+of the unidirectional laying material along the weft direction.
+
+Figure 11. Comparison of the bending performance of materials with different laying method.
+(a) Strength coefﬁcient. (b) Stiffness coefﬁcient.
+
+As shown in Figure 11, after changing the laying method, the comprehensive bending
+performance of the 3DDAI Kevlar/EP armor material was improved. Among these changes,
+the comprehensive bending performance improvement of the orthogonal laying material
+was the highest. The difference in bending performance between 2/2 laying materials
+in different directions was the smallest, and the difference in bending performance of
+
+Materials 2022, 15, x FOR PEER REVIEW 7 of 9      (a) (b) Figure 11. Comparison of the bending performance of materials with different laying method. (a) Strength coefficient. (b) Stiffness coefficient. As shown in Figure 11, after changing the laying method, the comprehensive bend-ing performance of the 3DDAI Kevlar/EP armor material was improved. Among these changes, the comprehensive bending performance improvement of the orthogonal laying material was the highest. The difference in bending performance between 2/2 laying ma-terials in different directions was the smallest, and the difference in bending performance of orthogonal laying materials was also very small. In summary, the preparation of 3DDAI Kevlar/EP armor material by the orthogonal laying method is beneficial to maximize the potential to improve the comprehensive bending performance of the material, while re-ducing the difference in bending performance between different directions of the material.    (a) (b) Figure 12. Comparison of the bending properties of materials with different weft densities. (a) Bending strength. (b) Bending stiffness. Materials 2022, 15, 5321
+
+14 of 18
+
+orthogonal laying materials was also very small. In summary, the preparation of 3DDAI
+Kevlar/EP armor material by the orthogonal laying method is beneﬁcial to maximize
+the potential to improve the comprehensive bending performance of the material, while
+reducing the difference in bending performance between different directions of the material.
+
+3.4. The Effect of Fabric Weft Density on Bending Properties
+
+As noted above, the preparation of 3DDAI Kevlar/EP armor materials in an orthogonal
+laying method was conducive to maximizing the potential to improve the comprehensive
+bending performance of the material, while reducing the difference in bending performance
+between different directions of the material. Therefore, armor materials were mainly
+prepared by the orthogonal laying method to study the effect of different fabric weft
+densities on the bending properties of the materials.
+
+The 3DDAI fabrics with weft densities of 43, 46, and 50 picks/cm were used as rein-
+forcements to prepare armor materials (resin content 46% ± 1%), and bending performance
+tests were carried out along the material’s warp and weft direction. The bending properties
+of the 3DDAI Kevlar/EP armor materials with different weft densities are listed in Table 7.
+In order to more intuitively evaluate the effect of different fabric weft densities on the
+bending performance of the material, the comparison of the bending performances of
+different fabric weft densities is shown in Figure 12.
+
+Table 7. The bending properties of materials with different weft densities.
+
+Weft Density (picks/cm)
+
+43
+46
+50
+
+Bending Stress (MPa)
+
+Bending Modulus (GPa)
+
+Warp
+
+220.8
+204.7
+194.6
+
+CV%
+
+2.7
+2.1
+4.1
+
+Weft
+
+267.6
+260.5
+238.7
+
+CV%
+
+1.6
+2.0
+3.4
+
+Warp
+
+10.42
+10.66
+11.00
+
+CV%
+
+4.4
+2.6
+6.2
+
+Weft
+
+8.81
+9.97
+10.71
+
+CV%
+
+2.0
+2.1
+4.6
+
+Figure 12. Comparison of the bending properties of materials with different weft densities. (a) Bend-
+ing strength. (b) Bending stiffness.
+
+As can be seen from Table 7, the 3DDAI Kevlar/EP armor material has the high-
+est bending strength at 43 picks/cm of weft density (along warp direction: 220.8 MPa,
+along weft direction: 267.6 MPa), and the lowest bending modulus (along warp direc-
+tion: 10.42 GPa, along weft direction: 8.81 GPa); when the weft density of the fabric was
+50 picks/cm, the bending strength was the lowest (along the warp direction: 194.6 MPa,
+along the weft direction: 238.7 MPa), and the bending modulus was the highest (along the
+warp direction: 11 GPa, along the weft direction: 10.71 GPa).
+
+Materials 2022, 15, x FOR PEER REVIEW 7 of 9      (a) (b) Figure 11. Comparison of the bending performance of materials with different laying method. (a) Strength coefficient. (b) Stiffness coefficient. As shown in Figure 11, after changing the laying method, the comprehensive bend-ing performance of the 3DDAI Kevlar/EP armor material was improved. Among these changes, the comprehensive bending performance improvement of the orthogonal laying material was the highest. The difference in bending performance between 2/2 laying ma-terials in different directions was the smallest, and the difference in bending performance of orthogonal laying materials was also very small. In summary, the preparation of 3DDAI Kevlar/EP armor material by the orthogonal laying method is beneficial to maximize the potential to improve the comprehensive bending performance of the material, while re-ducing the difference in bending performance between different directions of the material.    (a) (b) Figure 12. Comparison of the bending properties of materials with different weft densities. (a) Bending strength. (b) Bending stiffness. Materials 2022, 15, 5321
+
+15 of 18
+
+As can be seen from Figure 12, when the weft density of the fabric increases from
+43 picks/cm to 50 picks/cm, the bending strength of the material decreases with the
+increase of the fabric weft density. The internal voids of the fabric are reduced when the
+fabric weft density is increased, and the reason why the material can macroscopically
+ensure the same resin content is that more resin accumulates on the surface of the material
+to form a “resin-rich zone,” which means the material with the higher fabric weft density
+actually has less resin content in the interior than the material with the lower fabric weft
+density. Firstly, this is because the increase in the weft density causes the “lean resin zone”
+in the material to be more prone to cracks. Secondly, due to the increase in the weft density,
+the degree of squeezing inside the yarn increases and the internal stress increases, resulting
+in a decrease in the overall bending strength of the material; these results were also found
+in the study of HA Aisyah [31]. The bending modulus of the material increased as the fabric
+weft density increased from 43 picks/cm to 50 picks/cm, and the increase in the bending
+modulus of the material along the weft direction is greater than that of the material along
+the warp direction. This is owing to the fact that when the material is subjected to bending
+load, the upper layer bears the axial compressive loading while the bottom layer bears the
+axial tensile loading [32]. With an increase in fabric weft density, the axial ﬁbers along the
+weft direction increase and the transverse ﬁbers along the warp direction rise. On the other
+hand, the axial mechanical properties of the ﬁbers far outperform the transverse mechanical
+properties [33]. For the reasons stated above, the increase in the bending modulus of the
+material along the weft direction is greater than the rise in the bending modulus of the
+material along the warp direction.
+
+3.5. The Effect of the Structure on Bending Properties
+
+Many studies [8–10,34] compared the performance of woven composites with different
+structures by controlling the material thickness and ensuring similar resin content/ﬁber
+volume fraction. For bending properties, Khatkar et al. showed that the ﬂexural strength of
+3D orthogonal composites was 50.7% higher than that of 2D plain composites. Therefore,
+this article compares the bending properties of 3DDAI armor material (unidirectional
+laying) and 2D plain weave laminated Kevlar/EP armor material by controlling the fabric
+surface density and resin content to achieve a similar thickness and material density.
+The speciﬁcations of the 3DDAI Kevlar/EP armor material and the 2D plain laminated
+Kevlar/EP armor material are shown in Table 8.
+
+Table 8. 3DDAI armor material, 2D plain laminated armor material parameters.
+
+Type
+
+Resin Content (%)
+
+Fabric Areal Weight
+(g/m2)
+
+Thickness (mm)
+
+Density (g/cm3)
+
+2D plain (14 pieces)
+3DDAI (4 pieces)
+
+43.08
+44.11
+
+2800
+2720
+
+3.87
+4.09
+
+1.26
+1.21
+
+Figure 13 shows the comparison of the bending properties of the 3DDAI Kevlar/EP
+armor material and the 2D plain laminated Kevlar/EP armor material. As can be seen
+from the ﬁgure, the bending strength of 2D plain laminated Kevlar/EP armor materials
+was 304 MPa and the ﬂexural modulus was 15.48 GPa, which was lower than that of the
+weft direction of 3DDAI Kevlar/EP armor materials but much higher than that of the warp
+direction of 3DDAI Kevlar/EP armor materials. This is due to the 3DDAI structure being
+through the buckled warp system in the thickness through the straightening weft system,
+intertwined into a three-dimensional structure. This structure improves the mechanics
+and structural integrity in the weft direction and thickness direction by sacriﬁcing the
+mechanics of the warp direction.
+
+Materials 2022, 15, 5321
+
+16 of 18
+
+Figure 13. Comparison of the bending properties of the 3DDAI Kevlar/EP armor material and the
+2D plain laminated Kevlar/EP armor material.
+
+For further investigation, the bending failure morphology of the 2D plain laminated
+Kevlar/EP armor material in Figure 14 was compared with the bending failure of the
+3DDAI Kevlar/EP armor material that was loaded in the weft direction as shown in
+Figure 5d. The analysis revealed that, in contrast to the oblique fracture path presented
+by the axial yarn of the 3DDAI Kevlar/EP armor material loaded along the weft direction,
+the axial yarn of the 2D plain laminated Kevlar/EP armor material presents the horizontal
+fracture path of the interwoven point area, and then fracture and delamination occur layer
+by layer.
+
+Figure 14. Bending failure morphology of 2D plain laminated Kevlar/EP armor material.
+
+This indicates that the 3DDAI Kevlar/EP armor material has better in-plane perfor-
+mance in the weft direction. Additionally, since the 3DDAI Kevlar/EP armor material along
+the weft direction of the axial yarn (weft yarn) was actually larger than the 2D plain weave
+laminated Kevlar/EP armor material, the bending performance of the 3DDAI Kevlar/EP
+armor material was superior to that of the 2D plain laminated Kevlar/EP armor material.
+
+Materials 2022, 15, x FOR PEER REVIEW 8 of 9    Figure 13. Comparison of the bending properties of the 3DDAI Kevlar/EP armor material and the 2D plain laminated Kevlar/EP armor material. For further investigation, the bending failure morphology of the 2D plain laminated Kevlar/EP armor material in Figure 14 was compared with the bending failure of the 3DDAI Kevlar/EP armor material that was loaded in the weft direction as shown in Figure 5d. The analysis revealed that, in contrast to the oblique fracture path presented by the axial yarn of the 3DDAI Kevlar/EP armor material loaded along the weft direction, the axial yarn of the 2D plain laminated Kevlar/EP armor material presents the horizontal fracture path of the interwoven point area, and then fracture and delamination occur layer by layer.  Figure 14. Bending failure morphology of 2D plain laminated Kevlar/EP armor material. This indicates that the 3DDAI Kevlar/EP armor material has better in-plane perfor-mance in the weft direction. Additionally, since the 3DDAI Kevlar/EP armor material along the weft direction of the axial yarn (weft yarn) was actually larger than the 2D plain weave laminated Kevlar/EP armor material, the bending performance of the 3DDAI Kev-lar/EP armor material was superior to that of the 2D plain laminated Kevlar/EP armor material. Materials 2022, 15, x FOR PEER REVIEW 8 of 9    Figure 13. Comparison of the bending properties of the 3DDAI Kevlar/EP armor material and the 2D plain laminated Kevlar/EP armor material. For further investigation, the bending failure morphology of the 2D plain laminated Kevlar/EP armor material in Figure 14 was compared with the bending failure of the 3DDAI Kevlar/EP armor material that was loaded in the weft direction as shown in Figure 5d. The analysis revealed that, in contrast to the oblique fracture path presented by the axial yarn of the 3DDAI Kevlar/EP armor material loaded along the weft direction, the axial yarn of the 2D plain laminated Kevlar/EP armor material presents the horizontal fracture path of the interwoven point area, and then fracture and delamination occur layer by layer.  Figure 14. Bending failure morphology of 2D plain laminated Kevlar/EP armor material. This indicates that the 3DDAI Kevlar/EP armor material has better in-plane perfor-mance in the weft direction. Additionally, since the 3DDAI Kevlar/EP armor material along the weft direction of the axial yarn (weft yarn) was actually larger than the 2D plain weave laminated Kevlar/EP armor material, the bending performance of the 3DDAI Kev-lar/EP armor material was superior to that of the 2D plain laminated Kevlar/EP armor material. Materials 2022, 15, 5321
+
+17 of 18
+
+4. Conclusions
+
+Based on the potential of 3DDAI Kevlar/EP armor material in the ﬁeld of protection,
+the bending mechanics response of the 3DDAI Kevlar/EP armor material was carried out in
+terms of the number of fabric superimposed layers, resin content, laying method, and fabric
+weft density, and then compared with the bending performance of 2D plain laminated
+Kevlar/EP armor material. The following conclusions were obtained through research:
+
+(1) When 3DDAI Kevlar/EP armor material is subjected to bending load, the upper and
+bottom layers of the material become the main carrying bodies, which has a greater
+impact on the initial stiffness and breaking strength of the material, respectively.
+Wherein the bending response of the 3DDAI Kevlar/EP armor material was nonlinear,
+the damage of the upper layer in the axial yarn and the damage of the matrix leads to
+the phenomenon of bending softening, and the fracture of the axial yarn in the bottom
+layer is the main cause of the material failure.
+
+(2) Due to the particularity of the 3DDAI fabric structure, when the material’s warp and
+weft density are quite different, the utilization rate of the yarn and the strength will
+decrease. Furthermore, its loose structure needs to be appropriately increased in the
+resin content to prepare stable armor materials, where the appropriate range of resin
+content is 40%–49%. In addition, the 3DDAI Kevlar/EP armor can be prepared by the
+orthogonal laying method to improve the macroscopic mechanical properties of the
+material and effectively increase the fracture energy of the material.
+
+(3) The 3DDAI Kevlar/EP armor material was in-plane anisotropic, and its bending
+performance along the weft direction was better than the 2D plain laminated material.
+Additionally, due to the penetration of the yarns in the thickness direction in the
+3DDAI structure, even the lamination can effectively slow down the delamination of
+the material.
+
+Author Contributions: Conceptualization, L.Z., H.C. (Hongxia Chen), X.H. and H.C. (Haijian Cao);
+Data curation, J.Z.; Formal analysis, J.Z.; Investigation, J.Z. and L.Z.; Methodology, J.Z.; Project
+administration, H.C. (Haijian Cao); Resources, L.Z., H.C. (Hongxia Chen), X.H. and H.C. (Haijian
+Cao); Supervision, H.C. (Hongxia Chen), X.H. and H.C. (Haijian Cao); Validation, H.C. (Hongxia
+Chen) and X.H.; Visualization, J.Z.; Writing—original draft, J.Z.; Writing—review & editing, H.C.
+(Hongxia Chen) and H.C. (Haijian Cao). All authors have read and agreed to the published version
+of the manuscript.
+
+Funding: This work was supported by National Key R&D Program of China (No. 2018YFC0810300),
+Six Talent Peaks Project in Jiangsu Province (No. XCL-061), Innovative training program for college
+students in Jiangsu Province (No. 202010304101Y), and Postgraduate independent innovation project
+of Nantong University (No. FZ201901).
+
+Data Availability Statement: Data is contained within the article.
+
+Conﬂicts of Interest: The authors declare no conﬂict of interest.
+
+References
+
+1.
+
+Pickering, K.L.; Aruan Efendy, M.G.; Le, T.M. A review of recent developments in natural ﬁbre composites and their mechanical
+performance. Compos. Part A Appl. 2016, 83, 98–112. [CrossRef]
+
+2. Mouritz, A.P.; Cox, B.N. A mechanistic interpretation of the comparative in-plane mechanical properties of 3D woven, stitched
+
+3.
+
+4.
+
+5.
+
+6.
+
+and pinned composites. Compos. Part A Appl. 2010, 41, 709–728. [CrossRef]
+Bogdanovich, A.E.; Karahan, M.; Lomov, S.V.; Verpoest, I. Quasi-static tensile behavior and damage of carbon/epoxy composite
+reinforced with 3D non-crimp orthogonal woven fabric. Mech. Mater. 2013, 62, 14–31. [CrossRef]
+Zheng, T.; Guo, L.; Huang, J.; Liu, G. A novel mesoscopic progressive damage model for 3D angle-interlock woven composites.
+Compos. Sci. Technol. 2020, 185, 107894. [CrossRef]
+Zheng, Y.; Zhao, B. Armor Protection Material Technology, 1st ed.; National Defense Industry Press: Beijing, China, 2014; pp. 144–145.
+ISBN 978-7-118-08584-6.
+Abtew, M.A.; Boussu, F.; Bruniaux, P.; Loghin, C.; Crostoam, I. Ballistic impact mechanisms–A review on textiles and ﬁbre
+-reinforced composites impact responses. Compos. Struct. 2019, 223, 110966. [CrossRef]
+
+Materials 2022, 15, 5321
+
+18 of 18
+
+7.
+
+8.
+
+9.
+
+Ahmad, F.; Yuvaraj, N.; Baijpai, P.K. Effect of reinforcement architecture on the macroscopic mechanical propertires of ﬁberous
+polymer composite: A review. Polymer 2020, 41, 2518–2534. [CrossRef]
+Yang, D.; Wei, Q.; Xin, B.; Chen, X. Research on the creation of TA/LOI compoundstructure fabric and its ballistic performance
+for 3D curved-surface ballistic application. Compos. Part B Eng. 2020, 201, 108275. [CrossRef]
+Khatkar, V.; Sakthi Vijayalakshmi, A.G.; Manjunath, R.N.; Olhan, S.; Behera, B.K. Experimental Investigation into the Mechanical
+Behavior of Textile Composites with Various Fiber Reinforcement Architectures. Mech. Compos. Mater. 2020, 56, 367–378.
+[CrossRef]
+
+10. Warren, K.C.; Lopez-Anido, R.A.; Goering, J. Experimental investigation of three-dimensional woven composites. Compos. Part A
+
+Appl. 2015, 73, 242–259. [CrossRef]
+
+11. Dai, S.; Cunningham, P.R.; Silva, C. Inﬂuence of ﬁbre architecture on the tensile, compressive and ﬂexural behaviour of 3D woven
+
+composites. Compos. Part A Appl. 2015, 69, 195–207. [CrossRef]
+
+12. Zhang, D.; Sun, M.; Liu, X.; Xiao, X.; Qian, K. Off-axis bending behaviors and failure characterization of 3D woven composites.
+
+13.
+
+Compos. Struct. 2019, 208, 45–55. [CrossRef]
+Fan, W.; Dang, W.; Liu, T.; Li, J.; Xue, L.; Yuan, L.; Dong, J. Fatigue behavior of the 3D orthogonal carbon/glass ﬁbers hybrid
+composite under three-point bending load. Mater. Des. 2019, 183, 108112. [CrossRef]
+
+14. Guo, Q.; Zhang, Y.; Guo, R.; Ma, M.; Chen, L. Inﬂuences of weave parameters on the mechanical behavior and fracture mechanisms
+
+of multidirectional angle-interlock 3D woven composites. Mater. Today Commun. 2020, 23, 100886. [CrossRef]
+
+15. Yang, Y.; Zhang, X.; Chen, X.; Min, S. Numerical Study on the Effect of Z-Warps on the Ballistic Responses of Para-Aramid 3D
+
+Angle-Interlock Fabrics. Materials 2021, 14, 479. [CrossRef]
+
+16. Wei, Q.; Yang, D.; Gu, B.; Sun, B. Numerical and experimental investigation on 3D angle interlock woven fabric under ballistic
+
+impact. Compos. Struct. 2021, 266, 113778. [CrossRef]
+
+17. Umer, R.; Alhussein, H.; Zhou, J.; Cantwell, W.J. The mechanical properties of 3D woven composites. J. Compos. Mater. 2017, 51,
+
+18.
+
+1703–1716. [CrossRef]
+Saleh, M.N.; Soutis, C. Recent advancements in mechanical characterisation of 3D woven composites. Mech. Adv. Mater. Mod.
+Process. 2017, 3, 12. [CrossRef]
+
+19. Bechera, B.K.; Dash, B.P. Mechanical behavior of 3D woven composites. Mater. Des. 2015, 67, 261–271. [CrossRef]
+20. Min, S.; Chai, Y.; Chu, Y.; Chen, X. Effect of Panel Construction on the Ballistic Performance of Multiply 3D through-the-Thickness
+
+Angle-Interlock fabrIc Reinforced Composites. Polymers 2019, 11, 198. [CrossRef]
+
+21. Huang, T.; Wang, Y.; Wang, G. A Review of the Mechanical Properties of a 3D Woven Composite and Its Applications. Polym.
+
+-Plast. Technol. Eng. 2018, 57, 740–756. [CrossRef]
+
+22. Gibson, R.F. Principles of Composite Material Mechanics, 1st ed.; Proﬁle of Shanghai Jiao Tong University Press: Shanghai, China,
+
+2019; pp. 137–148. ISBN 978-7-313-20656-5.
+
+23. Mouritz, A.P.; Bannister, M.K.; Falzon, P.J.; Leong, K.H. Review of applications for advanced three dimensioonal ﬁbre textile
+
+composites. Compos. Part A Appl. Sci. Manuf. 1999, 30, 1445–1461. [CrossRef]
+
+24. GB/T 1449-2005; National Fiber Reinforced Plastics Standardization Technical Committee. Fibre-Reinforced Plastic Composites-
+
+Determination of Flexural Properties. China Standard Press: Beijing, China, 2007; pp. 371–376ISBN 978-7-5066-4349-8.
+
+25. Dvorak, G.J.; Laws, N. Analysis of Progressive Matrix Cracking In Composite Laminates II. First Ply Failure. J. Compos. Materials.
+
+1987, 21, 309–329. [CrossRef]
+
+26. Anbukarasi, K.; Kalaiselvam, S. Study of effect of ﬁbre volume and dimension on mechanical, thermal, and water absorption
+
+behaviour of luffa reinforced epoxy composites. Mater. Des. 2015, 66, 321–330. [CrossRef]
+
+27. Chen, Q.; Soykeabkaew, N.; Ni, X.; Peijs, T. The effect of ﬁbre volume fraction and mercerization on the properties of all-cellulose
+
+composites. Carbohydr. Polym. 2008, 71, 458–467. [CrossRef]
+
+28. Yuan, Z.; Wang, K.; Qiu, J.; Xu, Y.; Chen, X. A numerical study on the mechanisms of Dyneema® quasi-isotropic woven panels
+
+under ballistic impact. Compos. Struct. 2020, 236, 111855. [CrossRef]
+
+29. Min, S.; Chu, Y.; Chen, X. Numerical study on mechanisms of angle-plied panels for ballistic protection. Mater. Des. 2016, 90,
+
+896–905. [CrossRef]
+
+30. Yan, R.; Chen, X. Aramid/epoxy composites with angle-laid reinforcement constructions for ballistic protection. J. Ind. Text. 2016,
+
+45, 765–779. [CrossRef]
+
+31. Aisyah, H.A.; Paridah, M.T.; Khalina, A.; Sapuan, S.M.; Wahab, M.S.; Berkalp, O.B.; Lee, C.H.; Lee, S.H. Effects of Fabric Counts
+and Weave Designs on the Properties of Laminated Woven Kenaf/Carbon Fibre Reinforced Epoxy Hybrid Composites. Polymer
+2018, 10, 1320. [CrossRef] [PubMed]
+
+32. Dai, B. Mechanics of Materials, 2nd ed.; Beihang University Press: Beijing, China, 2010; pp. 77–91. ISBN 978-7-5124-0239-3.
+33. Yu, W.; Chu, C. Textile Physics, 2nd ed.; Donghua University Press: Shanghai, China, 2009; pp. 2–6. ISBN 978-7-81111-525-3.
+34. Guénon, V.A.; Chou, T.W.; Gillespie, J.W. Toughness properties of a three-dimensional carbon-epoxy composite. J. Mater. Sci.
+
+1989, 24, 4168–4175. [CrossRef]
+
+

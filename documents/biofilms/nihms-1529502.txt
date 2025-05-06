@@ -1,0 +1,2736 @@
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+HHS Public Access
+Author manuscript
+J Mol Biol. Author manuscript; available in PMC 2020 July 26.
+
+Published in final edited form as:
+
+J Mol Biol. 2019 July 26; 431(16): 2957–2969. doi:10.1016/j.jmb.2019.05.016.
+
+The structure of dental plaque microbial communities in the 
+transition from health to dental caries and periodontal disease
+
+Alex M. Valm1
+1.Department of Biological Sciences, University at Albany, State University of New York, Albany, 
+NY 12210 USA
+
+Abstract
+
+The human oral cavity harbors diverse communities of microbes that live as biofilms: highly 
+ordered, surface-associated assemblages of microbes embedded in an extracellular matrix. Oral 
+microbial communities contribute to human health by fine-tuning immune responses and reducing 
+dietary nitrate. Dental caries and periodontal disease are together the most prevalent microbially-
+mediated human diseases, worldwide. Both of these oral diseases are known to be caused not by 
+the introduction of exogenous pathogens to the oral environment, but rather by a homeostasis 
+breakdown that leads to changes in the structure of the microbial communities present in states of 
+health. Both dental caries and periodontal disease are mediated by synergistic interactions within 
+communities and both diseases are further driven by specific host inputs: diet and behavior in the 
+case of dental caries and immune system interactions in the case of periodontal disease. Changes 
+in community structure (taxonomic identity and abundance) are well documented during the 
+transition from health to disease. In this review, changes in biofilm physical structure during the 
+transition from oral health to disease and the concomitant relationship between structure and 
+community function will be emphasized.
+
+Introduction
+
+Numerous molecular based sequencing studies have resulted in a consensus among 
+researchers that approximately 700 species or phylotypes comprise the bacterial component 
+of the oral microbiome, while each individual human is estimated to carry a subset of 
+between 50–200 species[1,2]. The human oral cavity includes different habitats for microbes 
+including the epithelial mucosa; the papillary surface of the tongue dorsum; and the non-
+shedding, hard surfaces of the teeth, which themselves consist of two distinct compartments: 
+the supragingival surface, i.e., above the gum line and the subgingival, i.e., that below the 
+gum line[2]. Site specific, DNA sequencing studies of these different habitats have revealed 
+that these different habitats support different microbial communities mediated by the 
+characteristics of the surfaces available for attachment, oxygen availability, and exposure to 
+
+Publisher's Disclaimer: This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our 
+customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of 
+the resulting proof before it is published in its final citable form. Please note that during the production process errors may be 
+discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Valm
+
+Page 2
+
+host products delivered by saliva, to supragingival communities, and gingival crevicular fluid 
+(GCF), to subgingival communities[3].
+
+Dental caries are lesions of the tooth enamel and may involve the underlying dentin, which 
+develop as a consequence of dietary sugar-driven microbial growth and carbohydrate 
+metabolism that leads to localized acidification and disruption of tooth mineralization 
+homeostasis[4]. Periodontitis is a chronic, progressive disease, characterized by expansion of 
+the microbial biofilm at the gingival margin with the formation of an inflammatory infiltrate 
+that contributes to destruction of connective tissue attachment to the tooth, alveolar bone 
+resorption and may result in eventual tooth loss[5,6]. As well, periodontal disease status is 
+correlated with certain comorbid systemic diseases including cardiovascular disease, 
+rheumatoid arthritis, adverse pregnancy outcome and cancer, through cellular and molecular 
+mechanisms that are not well understood[6–12].
+
+Dental caries and periodontal disease are both mediated by the oral microbiome and host 
+interactions and inputs: diet in the case of caries and the immune system in the case of 
+periodontal disease[4]. The transitions from health to caries pathology and to periodontal 
+disease are both recognized to be caused not by introduction of exogenous pathogens, but by 
+changes in microbial community structure, i.e., taxonomic composition and relative 
+abundance, that transform the communities into pathogenic states[13]. In fact, periodontal 
+disease is correlated with an increase in microbial community diversity, in contrast to most 
+diseases known to be mediated by the human microbiome[5,14,15]. The transition from oral 
+health to disease is further recognized to be multi-factorial, interdependent between host and 
+microbiota and dynamic[4].
+
+Molecular sequencing-based approaches have revolutionized our understanding of the 
+human microbiome. Next generation DNA sequencing and other -omics technologies have 
+permitted the assessment of the oral microbiome with enormous breadth and without the 
+need for prior knowledge of the system, allowing the analysis of large sample sets and 
+facilitating large-scale, longitudinal studies that together have greatly informed our 
+understanding of the shift in microbial community structure that occurs in the transition 
+from health to disease[5,16–18]. At the same time, the genetic and biochemical 
+manipulation of individual organisms and small consortia under controlled laboratory 
+conditions has permitted the identification of many of the molecular and cellular processes 
+that underlie community function[19–24]. Importantly, the network of fine scale interactions 
+that have been identified to date does not exist in an unstructured milieu. In fact, the highly 
+non-random structure of supragingival dental plaque has been reported in a rich body of 
+literature, with increasing taxonomic specificity[25]. Early electron and light microscopy-
+based studies allowed the development of two central hypotheses to the formation of dental 
+plaque and its role in mediating disease, namely that highly ordered communities result as a 
+consequence of ecological succession and that no single pathogenic organism is responsible 
+for periodontal disease[26,27]. This review presents a summary of the current state of 
+knowledge regarding dental plaque structure and especially considers the importance of 
+structure in the transition from dental health to caries pathology and periodontal disease.
+
+J Mol Biol. Author manuscript; available in PMC 2020 July 26.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Valm
+
+Page 3
+
+Taxonomic composition of dental plaque communities in health
+
+The species composition and relative abundance of microbial communities is often referred 
+to as community structure in the literature[3]. This type of structural information, generated 
+by sample homogenization and subsequent molecular identification through DNA 
+sequencing is not to be confused with information on the physical architecture of microbial 
+biofilms[28]. This type of structural information, generated by direct observation with 
+microscopy will be considered in detail subsequently. Particular emphasis will be given to 
+the supra and subgingival plaque communities as these communities are extraordinarily 
+complex and species rich and have been observed to have highly non-random spatial 
+structure, hypothesized to be due in part to the non-shedding nature of the tooth compared to 
+the soft epithelium[4].
+
+The oral microbiome of healthy subjects is dominated, like the human microbiome in 
+general, by members of the phyla Firmicutes, Proteobacteria, Actinobacteria and 
+Bacteroidetes as well as the additional orally abundant Fusobacteria and Spirochaetes[16]. A 
+recent meta-analysis of Human Microbiome Project (HMP) supra and subgingival dental 
+plaque data revealed that 13 genera are both highly abundant and have high prevalence 
+within the sampled population: Streptococcus, Corynebacterium, Capnocytophaga, 
+Haemophilus/Aggregatibacter, Fusobacterium, Prevotella, Leptotrichia, Veillonella, 
+Neisseria, Rothia, Actinomyces, Lautropia, and Porphyromonas[29]. At the genus level, the 
+taxonomic composition of both the supra and shallow-depth subgingival communities in 
+states of health are similar, with marked differences in relative abundance, e.g., the genus 
+Prevotella is increased in subgingival communities, a reflection of the different 
+environmental conditions experienced by the two microbial communities[16,29].
+
+Together with bacteria, fungi also comprise the healthy human oral microbiome. Though the 
+fungal load in healthy subjects is estimated to be orders of magnitude lower than the 
+bacterial load, the size and morphology of fungal cells and their synergistic interactions with 
+bacteria suggest an important role for these organisms in structuring dental plaque[30,31]. 
+Assessment of fungal diversity has been hampered by both the incompleteness of fungal 
+sequence databases which itself is due partly to the inability to culture many species, 
+necessitating de novo database construction, as well as a lack of standard protocols for 
+fungal DNA extraction caused by the extreme heterogeneity in fungal cell wall 
+composition[30,32]. Nonetheless, recent next generation sequencing studies of oral fungal 
+18S rRNA internal transcribed spacer (ITS) sequences identified numerous genera with both 
+high abundance and prevalence in saliva and include Candida, Cryptococcus, Fusarium, 
+Aspergillus/Emericella/Eurotium and others[33,34].
+
+Role of the oral microbiome in health
+
+Emerging evidence suggests that the human microbiome performs diverse functions that are 
+beneficial for the human host[35]. The beneficial effects of the human microbiome have 
+primarily been observed in the gut; however, recent work has identified key beneficial 
+functions of the oral microbiota[36–39]. It is hypothesized that a primary function of 
+resident microbes is to act as a physical and biochemical barrier to prevent colonization or 
+
+J Mol Biol. Author manuscript; available in PMC 2020 July 26.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Valm
+
+Page 4
+
+infection by exogenous organisms[40]. Indeed, the mouth is open to the external 
+environment and receives countless airborne and droplet-associated microbes through 
+breathing as well as food-and water-associated microbes through eating and drinking. By 
+physically and chemically restricting access to the host epithelium through direct occlusion, 
+by sequestering nutrients and by secreting antimicrobials, the commensal oral microbiota 
+may play an important role in directing foreign microbes to the flushing saliva and mucus, to 
+be swallowed and delivered to the extremely low pH, microbicidal environment of the 
+stomach[40].
+
+A second hypothesized function of the commensal microbiota is to promote maturation of 
+both the innate and adaptive host immune systems, especially to achieve proper balance 
+between pro-and anti-inflammatory processes in the absence of, and during, infection[41]. In 
+the mouth, the study of patients with underlying primary immmuno-deficiency (PID) as well 
+as mouse models of PID have unraveled a complex interplay between subgingival 
+microbiota and the host immune system including the importance of proper neutrophil 
+recruitment to prevent potentially over compensatory inflammatory responses to oral 
+microbiota. Additionally, the crucial involvement of TH17 cells in mediating microbiota-
+induced periodontal disease further supports the central involvement of neutrophils in 
+periodontal disease[39,42]. In the context of beneficial microbes, it has been demonstrated 
+that species of oral streptococci play an immuno-modulatory role and down regulate pro-
+inflammatory responses to beneficial oral microbes[43–47]. For example, Streptococcus 
+salivarius was demonstrated to downregulate innate immune responses specifically by 
+downregulating genes involved in the NF-kappaB pathway in oral epithelial cells[48].
+
+In addition to roles that are common to all human associated microbiomes, the oral 
+microbiome is hypothesized to contribute unique functions to human health and 
+homeostasis. A key role for the oral microbiome in nitrate reduction and subsequent nitric 
+oxide (NO) concentration in the systemic circulation has been proposed, implicating the oral 
+microbiota in the maintenance of vascular health[43,49,50]. Dietary nitrate is concentrated 
+in saliva and may be reduced by nitrate-reducing bacteria, which are abundant on the tongue 
+dorsum[51]. The contribution that oral communities make to systemic NO homeostasis 
+remains to be determined, but correlations between subgingival bacterial load and blood 
+pressure have been described[52].
+
+Dental plaque physical structure in states of oral health.
+
+Early light and electron microscopy studies of intact dental plaque revealed these 
+communities to be highly structured, with non-random distributions of morphologically and 
+phenotypically different cells[26,27,53,54]. Dental plaque is now recognized as a 
+polymicrobial biofilm, defined as a community of microbial cells embedded in an 
+extracellular matrix, that grows on an interface between two phases of matter, e.g. the solid 
+tooth surface and liquid saliva or GCF[55]. The structure of dental plaque biofilms is 
+hypothesized to be driven by specific inter-taxon physical and chemical interactions; 
+environmental pressures including oxygen tension; host factors both growth promoting, e.g., 
+nutrients and growth-promoting factors in saliva and gingivo-crevicular fluid (GCF) and 
+growth inhibiting including antimicrobial peptides, lysozyme, secreted antibodies and other 
+
+J Mol Biol. Author manuscript; available in PMC 2020 July 26.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Valm
+
+Page 5
+
+immune mediators[56]. Coaggregation, the adhesion of taxonomically distinct cells to each 
+other mediated by specific cell surface molecules, prevents the dislodging and loss of oral 
+colonizers by mastication and shear forces generated by flowing saliva and GCF and also 
+provides spatial proximity to facilitate microbial communication and chemical 
+exchange[57–60]. The results of extensive in vitro binding assays using cultivable bacterial 
+isolates were compiled to generate a hypothetical model for the spatial structure of dental 
+plaque[61]. According to this model, a subset of microbes, namely species of the genera 
+Streptococcus and Actinomyces are able to bind directly to the glycoprotein rich salivary 
+pellicle that coats the tooth, through bacterial surface receptor recognition[62]. A process of 
+ecological succession then takes place by which these founding organisms and other early 
+colonizers including species of the genus Veillonella serve as substrates for the subsequent 
+attachment of later colonizing organisms culminating in a climax community, rich in 
+diversity that includes organisms that are abundant in states of health as well as those 
+enriched in states of periodontal disease, i.e., cells of the genera, Treponema and Tannerella 
+among others[63]. Importantly, according to this model, Fusobacterium nucleatum and to 
+some extent Porphyromonas gingivalis serve as important bridging organisms that physically 
+unite the early colonizers with late colonizing organisms, because these two species have 
+demonstrated the ability to specifically coaggregate with both types of colonizers[4,60].
+
+Lending support to this conceptual model, many of the inter-taxon associations hypothesized 
+from in vitro coaggregation assays have been directly observed using fluorescence 
+microscopy with labeled antibodies or oligo nucleotide probes in in-vitro, co-culture 
+experiments[57,64,65], on removable substrates worn by healthy volunteers[66], and in 
+multiplex fluorescence in situ hybridization (FISH) on extracted dental plaque[67]. During 
+development, the structure of`dental plaque communities is further fine tuned by the 
+synergistic activities of the microbes themselves[68]. For example, members of the genus 
+Streptococcus rapidly sequester oxygen at the apical, saliva-exposed surfaces of 
+supragingival biofilms to create anaerobic niches within these health-associated 
+structures[29].
+
+Health-associated subgingival plaque biofilms have not yet been analyzed systematically 
+with a high degree of taxonomic resolution due to the difficulty in obtaining intact, tooth-
+associated subgingival biofilms from healthy donors. However, multiplex FISH has recently 
+been applied to supragingival dental plaque extracted from healthy volunteers in a manner 
+that maintained the three-dimensional structure of the biofilms[29]. Within these undisturbed 
+regions of supragingival biofilms, large, annular structures were repeatedly observed. Within 
+these “hedgehog,” structures, cells of the genus Fusobacterium were present; however, 
+filamentous cells of the genus Corynebacterium were more abundant, and their distribution 
+and colocalization with other taxa suggest a central role for this organism in structuring the 
+community. Seven other bacterial taxa were consistently observed in hedgehog structures: 
+Streptococcus, Porphyromonas, Pasturellaceae, Neisseriaceae, Leptotrichia, 
+Capnocytophaga and Actinomyces. Cells of the genus Streptococcus and sometimes 
+Porphyromonas and family Pasturellaceae were observed to decorate the apical tips of some 
+Corynebacterium filaments in “corncob” arrangements, a structure that had been described 
+without taxonomic resolution in early electron microscopy studies of dental plaque. These 
+observations were assimilated into an updated model for dental plaque structure, driven by 
+
+J Mol Biol. Author manuscript; available in PMC 2020 July 26.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Valm
+
+Page 6
+
+synergistic inter-taxon interactions, ecological succession and dynamic environmental and 
+biochemical inputs that shape the physical structure of the health-associated community as it 
+develops[29].
+
+Community structure in the context of dental caries
+
+Mutans streptococci, especially S. mutans, as well as lactobacilli are strongly correlated with 
+caries[13]. S. mutans readily ferments sucrose and other sugars to produce ATP and lactic 
+acid as a waste product[69]. The accumulation of lactate is thus responsible for the local 
+acidification of the caries environment[70,71]. Species of the aciduric, i.e., acid-tolerant 
+genus Veillonella utilize lactate as a carbon source and thus are involved in syntrophic 
+metabolism of carbohydrate with S. mutans[19]. Molecular sequencing analyses have 
+identified other acidogenic and aciduric organisms that are strongly correlated with different 
+stages of caries progression in vivo, including Bifidobacterium spp. Scardovia spp., 
+Actinomyces and the fungus, and especially in the case of early childhood caries, Candida 
+albicans[13,31]. Other non-aciduric genera including Corynebacterium, Granulicatella and 
+Propionibacterium have also been found at increased abundance in caries-associated 
+supragingival plaque[4]. Thus, the development of caries is marked by a shift in 
+supragingival community composition from one that promotes health, to one that mediates 
+disease (Fig. 1). This homeostasis breakdown in microbial community composition, or 
+dysbiosis, is a common phenomenon of microbiome-mediated diseases[72].
+
+Supragingival plaque biofilm structure and caries development
+
+Although the systems-level spatial analysis of caries-associated dental plaque biofilms with 
+taxonomic resolution as described above for health-associated biofilms is yet to be achieved, 
+mounting evidence assembled from different studies suggests an intrinsic contribution of 
+spatial structure on the development of caries (Fig. 1). In the absence of abundant 
+fermentable carbohydrates, Mitis group streptococci bind to the saliva coated tooth with 
+greater avidity than S. mutans, they grow more rapidly and they antagonize competitors with 
+local secretion of hydrogen peroxide[4,73,74]. Thus, acidogenic and aciduric oral microbes 
+are required but not sufficient for caries development; also needed is frequent consumption 
+of dietary sugars by the host[4]. When ecological perturbation exceeds a threshold, 
+interspecies interactions that shape the biofilm community during states of health are 
+altered[21]. During frequent exposure to fermentable carbohydrates, localized regions of low 
+pH generated by lactate producers further select for aciduric organisms resulting in a 
+positive feedback loop, which ultimately leads to highly localized demineralization[75,76]. 
+Dietary sucrose is especially cariogenic because its component 6-carbon sugars, glucose and 
+fructose, are used to synthesize extracellular polymeric substances (EPS) in the form of 
+glucans and fructans[77]. The extracellular biofilm matrix, comprised of EPS, glycoproteins 
+and extracellular DNA, provides binding sites for embedded microbes, protects against 
+biofilm removal during normal oral hygiene procedures and contributes to the generation of 
+highly localized regions of low pH by inhibiting exchange of saliva, which has a natural 
+buffering capacity[76]. EPS also has the ability to alter diffusion and sequester 
+antimicrobials, which has implications for therapeutic intervention[4,28,78,79]. 
+Glucosyltransferase (Gtf) exoenzymes secreted by S. mutans have been observed to bind to 
+
+J Mol Biol. Author manuscript; available in PMC 2020 July 26.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Valm
+
+Page 7
+
+the surface of Candida albicans cells and function to synthesize glucans[31]. In this way, C. 
+albicans hyphae act as important physical scaffolds for the development of EPS-embedded 
+microcolonies of S. mutans and other organisms, which may contribute especially to early 
+childhood caries which strongly correlate with C. ablicans carriage[80]. Thus, diet and 
+synergistic interactions shape the microbial community in both its taxonomic makeup and 
+physical structure by allowing the formation of highly localized acidic 
+microenvironments[21]. These microenvironments in turn further shape the local structure of 
+the biofilm to create a positive feedback loop which can lead to highly localized acidification 
+and tissue demineralization.
+
+Community structure in the context of periodontal disease
+
+As with caries, no single organism is implicated in the transition from health to periodontal 
+disease, rather, the subgingival microbial community present in states of periodontal health 
+transitions to a state of dysbiosis in which the community structure, i.e., species composition 
+and abundance, shifts toward a pathogenic state[81]. Early culture-independent approaches 
+first identified a three-member consortium of Gram negative organisms, called the “Red 
+Complex” enriched in the subgingival microbiomes of patients with periodontal disease, 
+consisting of Prophyromonas gingivalis, Treponema denticola and Tannerella forsythia[82]. 
+These organisms have been termed pathobionts rather than pathogens because although 
+implicated in disease, they are normally present at lower abundances in the microbiota of 
+subjects with no clinical markers of periodontitis[83]. The list of pathobionts has recently 
+been expanded through modern culture-independent molecular surveys to include the Gram-
+positive Filifacter alocis and other anaerobes including cells of the genera Parvimonas, 
+Fusobacterium, and Prevotella (Fig. 2) [5,16,84].
+
+The cellular and molecular mechanisms that drive and reinforce the Jekyll to Hyde transition 
+of subgingival communities toward a dysbiotic state is an active area of research. According 
+to the Ecological Plaque Hypothesis, changes in environmental conditions, i.e., nutrient 
+availability, oxygen concentration, pH, and host inflammatory mediators drive the 
+community shift by selecting and enriching for pathobionts[85,86]. Consistent with this 
+hypothesis, molecular sequencing based approaches have confirmed that pathobionts are 
+present in health-associated subgingival communities at low abundance; while, as ecological 
+changes take place, these organisms expand within the communities above a threshold that 
+initiates and reinforces periodontal disease pathology [5,16]. The newly described 
+polymicrobial synergy and dysbiosis (PSD) hypothesis builds on this ecological concept to 
+include the dynamic and synergistic interactions between organisms and the host as a 
+mechanism to shape and stabilize dysbiotic communities within their ecological context[87]. 
+The gingival tissue destruction associated with inflammation is thought to contribute to 
+dysbiosis by releasing nutrients including degraded collagen and other peptides as well as 
+haem-containing compounds into the periodontal pocket in the form of GCF[4]. Supporting 
+this hypothesis, periodontal pathobionts include organisms that require exogenous amino 
+acids for growth in culture and a recent metatranscriptomic analysis of subgingival 
+communities found enhanced expression of genes involved in iron-uptake in periodontitis-
+associated communities[18,88].
+
+J Mol Biol. Author manuscript; available in PMC 2020 July 26.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Valm
+
+Page 8
+
+That dysbiotic communities require inflammation for their nutritional support seems 
+paradoxical because a localized inflammatory response by the host normally functions to 
+inhibit microbial growth. This paradox is resolved by the demonstrated ability of P. 
+gingivalis to manipulate the host immune response in such a fashion as to uncouple tissue 
+destruction from microbicide during inflammation, through manipulation of the complement 
+pathway mediated through gingipain exoenzymes that act on the inactive precursor 
+complement protein, C5 to generate C5a[89]. P. gingivalis further promotes crosstalk 
+between the complement C5a receptor 1 and Toll-like receptor 2 (TLR-2) while bypassing 
+the downstream effector Myd88 to achieve a pro-inflammatory, anti-phagocytic response in 
+phagocytic cells[4]. Even futher, P. gingivalis has demonstrated the ability to downregulate 
+expression of interleukin-8 (IL-8) by epithelial cells, a chemokine that recruits phagocytic 
+neutrophils and Th1 cells to the gingiva, as well as T cell production of interferon (IFN)γ 
+[39,90–92]. Thus, P. gingivalis, present in low abundance in both health-and disease-
+associated communities, acts as a keystone species in the developing dysbiotic community to 
+create a pro-inflammatory, anti-phagocytic environment that favors the growth and 
+expansion of pathobionts[93].
+
+Subgingival plaque biofilm structure and periodontal disease development
+
+As described above, an understanding of the synergistic activities of subgingival microbes 
+and the host as these communities undergo dysbiosis is emerging; however, what remains 
+poorly understood is how these activities are distributed within the physical architecture of 
+microbial communities[94]. The molecular cross-talk that takes place between the 
+subgingival microbiota and the host immune system does not take place in an unstructured 
+milieu, but rather within a highly ordered environment. The structure of biological systems, 
+including both the involved host tissues and the subgingival microbial community are 
+correlate with their function, and mounting evidence suggests the importance of biofilm 
+structure in the transition through dysbiosis[95].
+
+The close apposition of cells within polymicrobial biofilms allows biochemical interaction, 
+signaling and genetic exchange between cells. Facultative aerobes within dental plaque 
+biofilms can sequester oxygen and create anaerobic niches[29]. This process may be 
+important during the transition to dysbiosis because many pathobionts are strict anaerobes. 
+During the progression of periodontal disease, the gingival pocket increases in volume, 
+which may drive higher bacterial load within this niche[4,27]. That the total bacterial load is 
+increased in patients with periodontal disease as newly dominant members of the community 
+emerge and accumulate, rather than replace earlier colonizers suggests a dynamic physical 
+interplay between biofilms and host tissue to create this new space[5]. How these newly 
+dominant species are distributed within expanding biofilms is beginning to be explored. 
+Extensive FISH labeling of subgingival biofilms on teeth extracted from patients with 
+periodontal disease and systematic image analyses have provided a qualitative visual atlas of 
+the spatial distributions of some dominant organisms including putative pathobionts (Fig. 2). 
+Zijnge and colleagues were able to describe four distinct layers in subgingival plaque from 
+periodontitis-affected individuals. Actinomyces spp. were located primarily in the basal 
+layer of the biofilm, i.e. closest to the tooth surface. Fusobacterium was identified in the 
+intermediate layers of the biofilms along with Tannerella while Prevotella and 
+
+J Mol Biol. Author manuscript; available in PMC 2020 July 26.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Valm
+
+Page 9
+
+Porphyromonas localized to both the apical and intermediate layers. Cells of the Cytophaga-
+Flavobacterium-Bacteroides (CFB)-cluster were observed in the apical layers while 
+Treponema were loosely arranged superior to the densely packed biofilm[95]. Interestingly, 
+some of these spatial arrangements superficially recapitulate those summarized in the 
+conceptual model of Kolenbrander and colleagues described earlier, reflecting the combined 
+actions of ecological succession, coaggregation and microbial growth during the transition 
+from subgingival health to periodontal disease[61].
+
+In addition to microbial physical interactions, including interkingdom interactions between 
+fungi and bacteria, physical interactions between subgingival biofilm microbes and host cells 
+have been observed. Zijnge and colleagues observed microbes of the genus Synergistes in 
+close spatial proximity to polymorphonuclear leukocytes in multiplex FISH images of 
+extracted teeth with associated gingival tissue, suggesting direct physical interaction 
+between these biofilm resident microbes and host immune cells[95]. In fact, close apposition 
+of host leukocytes, identified by their characteristic lobed nuclei, to subgingival biofilm 
+microbes had previously been observed in transmission electron micrographs of human and 
+canine subgingival tissue[96].
+
+Early events during the transition from health to periodontal disease
+
+In a longitudinal metatranscriptomic study of long-term healthy subgingival sites and sites 
+that progressed to periodontal disease in human subjects, P. gingivalis displayed 
+upregulation of a large number of virulence genes in healthy sites that later progressed to 
+disease while T. denticola and T. forsythia did not upregulate any but one or a few virulence 
+genes until later timepoints during disease progression, suggesting that when present, P. 
+gingivalis serves as a microbial driver in the transition from periodontal health to 
+disease[4,97]. Furthermore, this transition may involve an intermediate state. Gingivitis is a 
+reversible form of periodontal disease, marked by microbiota-induced inflammation at the 
+apical gingival border, i.e., the zone that distinguishes the supra-and subgingival 
+compartments[98]. Gingivitis may be induced experimentally in volunteers who have 
+abstained from normal oral hygiene for a short period of time and usually resolves upon 
+resumption of normal oral hygiene practices[99]. However, in susceptible individuals in non-
+experimental situations, gingivitis may progress to chronic periodontal disease (Fig. 2) 
+[100]. Molecular analyses of dental plaque communities in volunteers with experimentally-
+induced gingivitis reveal a unique cohort of microbes that are associated with gingivitis but 
+not health or chronic periodontitis, comprised of F. nucleatum subsp. polymorphum, 
+Lachnospiraceae spp., Lautropia sp. and Prevotella oulorum[99]. Importantly, the mature 
+and highly ordered hedgehog structures previously described in supragingival plaque 
+biofilms were extracted from volunteers who abstained from normal oral hygiene for 12–48 
+hours[29], and these structures or others like them that project tens of microns above the 
+enamel surface may be involved in the induction of gingivitis, especially if they locate at the 
+gingival border, suggesting a role for plaque biofilm structure in mediating the transition 
+from periodontal health to disease[101].
+
+J Mol Biol. Author manuscript; available in PMC 2020 July 26.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Valm
+
+Page 10
+
+Conclusions and future directions
+
+Both dental caries and periodontal disease are highly prevalent within the human population. 
+Both diseases are polymicrobial in their etiology and result when the supra and subgingival 
+microbial communities associated with states of health experience a homeostasis breakdown 
+and undergo dysbiosis. The etiologies of these diseases are multifactorial and depend upon 
+synergistic activities, both chemical and physical, within the microbial communities and 
+between the host immune system, as well as environmental inputs and other host factors.
+
+As described here, descriptive studies of dental plaque structure in states of health and 
+disease are beginning to be achieved with systems level taxonomic resolution. What remains 
+to be achieved is a mechanistic understanding of how fine scale intercellular interactions 
+lead to large scale physical structures. To that end, in vitro biofilm culture systems and 
+animal models may be exploited for controlled laboratory testing of structure-related 
+hypotheses[102,103]. The analysis of complex and highly heterogeneous image data is not a 
+straightforward task and the development of image analysis tools that can be shared and 
+standardized by researchers are tremendously valuable[104]. Furthermore, the development 
+of mature dental plaque biofilms is a dynamic process that results as a consequence of 
+ecological succession. Analysis of static images of fully developed communities provides 
+limited information on the developmental processes that take place to achieve the climax 
+community structure. To this end, live cell imaging will provide crucial information to 
+“connect the dots” in plaque structure development over time[105].
+
+To achieve a deep understanding of the forces that drive dysbiosis within dental plaque 
+communities, collaboration will be required among scientists with diverse expertise 
+including microbiology, biochemistry, immunology, ecology, imaging and genomics as well 
+as concerted effort among researchers to synthesize emerging knowledge into unified 
+theories.
+
+Acknowledgement
+
+The work of the author is supported by US National Institutes of Health grant DE028042.
+
+References
+
+[1]. Dewhirst FE, Chen T, Izard J, Paster BJ, Tanner ACR, Yu W-H, et al., The human oral 
+
+microbiome, J. Bacteriol 192 (2010) 5002–5017. doi:10.1128/JB.00542-10. [PubMed: 20656903] 
+[2]. Aas JA, Paster BJ, Stokes LN, Olsen I, Dewhirst FE, Defining the normal bacterial flora of the oral 
+cavity, J. Clin. Microbiol 43 (2005) 5721–5732. doi:10.1128/JCM.43.11.5721-5732.2005. 
+[PubMed: 16272510] 
+
+[3]. Human Microbiome Project Consortium, Structure, function and diversity of the healthy human 
+microbiome, Nature 486 (2012) 207–214. doi:10.1038/nature11234. [PubMed: 22699609] 
+[4]. Lamont RJ, Koo H, Hajishengallis G, The oral microbiota: dynamic communities and host 
+
+interactions, Nat. Rev. Microbiol 16 (2018) 745–759. doi:10.1038/s41579-018-0089-x. [PubMed: 
+30301974] 
+
+[5]. Abusleme L, Dupuy AK, Dutzan N, Silva N, Burleson JA, Strausbaugh LD, et al., The subgingival 
+
+microbiome in health and periodontitis and its relationship with community biomass and 
+inflammation, Isme J 7 (2013) 1016–1025. doi:10.1038/ismej.2012.174. [PubMed: 23303375] 
+
+J Mol Biol. Author manuscript; available in PMC 2020 July 26.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Valm
+
+Page 11
+
+[6]. Hajishengallis G, Periodontitis: from microbial immune subversion to systemic inflammation, Nat. 
+
+Rev. Immunol 15 (2015) 30–44. doi:10.1038/nri3785. [PubMed: 25534621] 
+
+[7]. Han YW, Wang X, Mobile microbiome: oral bacteria in extra-oral infections and inflammation, J. 
+
+Dent. Res 92 (2013) 485–491. doi:10.1177/0022034513487559. [PubMed: 23625375] 
+[8]. Kholy KE, Genco RJ, Van Dyke TE, Oral infections and cardiovascular disease, Trends 
+
+Endocrinol. Metab 26 (2015) 315–321. doi:10.1016/j.tem.2015.03.001. [PubMed: 25892452] 
+[9]. Mukherjee A, Jantsch V, Khan R, Hartung W, Fischer R, Jantsch J, et al., Rheumatoid Arthritis-
+Associated Autoimmunity Due to Aggregatibacter actinomycetemcomitans and Its Resolution 
+With Antibiotic Therapy, Front Immunol 9 (2018) 2352. doi:10.3389/fimmu.2018.02352. 
+[PubMed: 30459755] 
+
+[10]. Potempa J, Mydel P, Koziel J, The case for periodontitis in the pathogenesis of rheumatoid 
+
+arthritis, Nat Rev Rheumatol 13 (2017) 606–620. doi:10.1038/nrrheum.2017.132. [PubMed: 
+28835673] 
+
+[11]. Kriebel K, Hieke C, Müller-Hilke B, Nakata M, Kreikemeyer B, Oral Biofilms from Symbiotic to 
+Pathogenic Interactions and Associated Disease -Connection of Periodontitis and Rheumatic 
+Arthritis by Peptidylarginine Deiminase, Front Microbiol 9 (2018) 53. doi:10.3389/fmicb.
+2018.00053. [PubMed: 29441048] 
+
+[12]. Börnigen D, Ren B, Pickard R, Li J, Ozer E, Hartmann EM, et al., Alterations in oral bacterial 
+
+communities are associated with risk factors for oral and oropharyngeal cancer, Sci Rep 7 (2017) 
+17686. doi:10.1038/s41598-017-17795-z. [PubMed: 29247187] 
+
+[13]. Tanner ACR, Kressirer CA, Rothmiller S, Johansson I, Chalmers NI, The Caries Microbiome: 
+
+Implications for Reversing Dysbiosis, Adv. Dent. Res 29 (2018) 78–85. doi:
+10.1177/0022034517736496. [PubMed: 29355414] 
+
+[14]. Naik S, Bouladoux N, Wilhelm C, Molloy MJ, Salcedo R, Kastenmuller W, et al., 
+
+Compartmentalized control of skin immunity by resident commensals, Science 337 (2012) 1115–
+1119. doi:10.1126/science.1225152. [PubMed: 22837383] 
+
+[15]. Dalal SR, Chang EB, The microbial basis of inflammatory bowel diseases, J. Clin. Invest 124 
+
+(2014) 4190–4196. doi:10.1172/JCI72330. [PubMed: 25083986] 
+
+[16]. Griffen AL, Beall CJ, Campbell JH, Firestone ND, Kumar PS, Yang ZK, et al., Distinct and 
+
+complex bacterial profiles in human periodontitis and health revealed by 16S pyrosequencing, 
+Isme J 6 (2012) 1176–1185. doi:10.1038/ismej.2011.191. [PubMed: 22170420] 
+
+[17]. Mark Welch JL, Utter DR, Rossetti BJ, Mark Welch DB, Eren AM, Borisy GG, Dynamics of 
+tongue microbial communities with single-nucleotide resolution using oligotyping, Front 
+Microbiol 5 (2014) 568. doi:10.3389/fmicb.2014.00568. [PubMed: 25426106] 
+
+[18]. Duran-Pinedo AE, Chen T, Teles R, Starr JR, Wang X, Krishnan K, et al., Community-wide 
+
+transcriptome of the oral microbiome in subjects with and without periodontitis, Isme J 8 (2014) 
+1659–1672. doi:10.1038/ismej.2014.23. [PubMed: 24599074] 
+
+[19]. Chalmers NI, Palmer RJ, Cisar JO, Kolenbrander PE, Characterization of a Streptococcus sp.-
+
+Veillonella sp. community micromanipulated from dental plaque, J. Bacteriol 190 (2008) 8145–
+8154. doi:10.1128/JB.00983-08. [PubMed: 18805978] 
+
+[20]. Lima BP, Shi W, Lux R, Identification and characterization of a novel Fusobacterium nucleatum 
+adhesin involved in physical interaction and biofilm formation with Streptococcus gordonii, 
+Microbiologyopen 6 (2017) e00444. doi:10.1002/mbo3.444.
+
+[21]. Edlund A, Yang Y, Yooseph S, Hall AP, Nguyen DD, Dorrestein PC, et al., Meta-omics uncover 
+
+temporal regulation of pathways across oral microbiome genera during in vitro sugar metabolism, 
+Isme J 9 (2015) 2605–2619. doi:10.1038/ismej.2015.72. [PubMed: 26023872] 
+
+[22]. Huang X, Browngardt CM, Jiang M, Ahn S-J, Burne RA, Nascimento MM, Diversity in 
+
+Antagonistic Interactions between Commensal Oral Streptococci and Streptococcus mutans, 
+Caries Res 52 (2018) 88–101. doi:10.1159/000479091. [PubMed: 29258070] 
+
+[23]. Zeng L, Burne RA, Essential Roles of the sppRA Fructose-Phosphate Phosphohydrolase Operon 
+in Carbohydrate Metabolism and Virulence Expression by Streptococcus mutans, J. Bacteriol 201 
+(2019) 543. doi:10.1128/JB.00586-18.
+
+[24]. Mutha NVR, Mohammed WK, Krasnogor N, Tan GYA, Choo SW, Jakubovics NS, 
+
+Transcriptional responses of Streptococcus gordonii and Fusobacterium nucleatum to 
+
+J Mol Biol. Author manuscript; available in PMC 2020 July 26.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Valm
+
+Page 12
+
+coaggregation, Mol Oral Microbiol 33 (2018) 450–464. doi:10.1111/omi.12248. [PubMed: 
+30329223] 
+
+[25]. Listgarten MA, The structure of dental plaque, Periodontol. 2000 5 (1994) 52–65. [PubMed: 
+
+9673162] 
+
+[26]. Listgarten MA, Mayo HE, Tremblay R, Development of dental plaque on epoxy resin crowns in 
+
+man. A light and electron microscopic study, J. Periodontol 46 (1975) 10–26. doi:10.1902/jop.
+1975.46.1.10. [PubMed: 1089145] 
+
+[27]. Newman HN, The apical border of plaque in chronic inflammatory periodontal disease, Br Dent J 
+
+141 (1976) 105–113. [PubMed: 1067109] 
+
+[28]. Jakubovics NS, Kolenbrander PE, The road to ruin: the formation of disease-associated oral 
+
+biofilms, Oral Dis 16 (2010) 729–739. doi:10.1111/j.1601-0825.2010.01701.x. [PubMed: 
+20646235] 
+
+[29]. Mark Welch JL, Rossetti BJ, Rieken CW, Dewhirst FE, Borisy GG, Biogeography of a human 
+
+oral microbiome at the micron scale, Proc. Natl. Acad. Sci. U.S.a 113 (2016) E791–800. doi:
+10.1073/pnas.1522149113. [PubMed: 26811460] 
+
+[30]. Diaz PI, Hong B-Y, Dupuy AK, Strausbaugh LD, Mining the oral mycobiome: Methods, 
+
+components, and meaning, Virulence 8 (2017) 313–323. doi:10.1080/21505594.2016.1252015. 
+[PubMed: 27791473] 
+
+[31]. Koo H, Andes DR, Krysan DJ, Candida-streptococcal interactions in biofilm-associated oral 
+
+diseases, PLoS Pathog 14 (2018) e1007342. doi:10.1371/journal.ppat.1007342. [PubMed: 
+30543717] 
+
+[32]. NIH Intramural Sequencing Center Comparative Sequencing Program, Findley K, Oh J, Yang J, 
+Conlan S, Deming C, et al., Topographic diversity of fungal and bacterial communities in human 
+skin, Nature 498 (2013) 367–370. doi:10.1038/nature12171. [PubMed: 23698366] 
+
+[33]. Ghannoum MA, Jurevic RJ, Mukherjee PK, Cui F, Sikaroodi M, Naqvi A, et al., Characterization 
+of the oral fungal microbiome (mycobiome) in healthy individuals, PLoS Pathog 6 (2010) 
+e1000713. doi:10.1371/journal.ppat.1000713. [PubMed: 20072605] 
+
+[34]. Dupuy AK, David MS, Li L, Heider TN, Peterson JD, Montano EA, et al., Redefining the human 
+oral mycobiome with improved practices in amplicon-based taxonomy: discovery of Malassezia 
+as a prominent commensal, PLoS ONE 9 (2014) e90899. doi:10.1371/journal.pone.0090899. 
+[PubMed: 24614173] 
+
+[35]. Lloyd-Price J, Abu-Ali G, Huttenhower C, The healthy human microbiome, Genome Med 8 
+
+(2016) 51. doi:10.1186/s13073-016-0307-y. [PubMed: 27122046] 
+
+[36]. Thaiss CA, Zmora N, Levy M, Elinav E, The microbiome and innate immunity, Nature 535 
+
+(2016) 65–74. doi:10.1038/nature18847. [PubMed: 27383981] 
+
+[37]. Honda K, Littman DR, The microbiota in adaptive immune homeostasis and disease, Nature 535 
+
+(2016) 75–84. doi:10.1038/nature18848. [PubMed: 27383982] 
+
+[38]. Naik S, Bouladoux N, Linehan JL, Han S-J, Harrison OJ, Wilhelm C, et al., Commensal-
+
+dendritic-cell interaction specifies a unique protective skin immune signature, Nature 520 (2015) 
+104–108. doi:10.1038/nature14052. [PubMed: 25539086] 
+
+[39]. Dutzan N, Kajikawa T, Abusleme L, Greenwell-Wild T, Zuazo CE, Ikeuchi T, et al., A dysbiotic 
+microbiome triggers TH17 cells to mediate oral mucosal immunopathology in mice and humans, 
+Sci Transl Med 10 (2018) eaat0797. doi:10.1126/scitranslmed.aat0797. [PubMed: 30333238] 
+[40]. Beasley DE, Koltz AM, Lambert JE, Fierer N, Dunn RR, The Evolution of Stomach Acidity and 
+
+Its Relevance to the Human Microbiome, PLoS ONE 10 (2015) e0134116. doi:10.1371/
+journal.pone.0134116. [PubMed: 26222383] 
+
+[41]. Kilian M, The oral microbiome - friend or foe? Eur. J. Oral Sci 126 Suppl 1 (2018) 5–12. doi:
+
+10.1111/eos.12527. [PubMed: 30178561] 
+
+[42]. Silva LM, Brenchley L, Moutsopoulos NM, Primary immunodeficiencies reveal the essential role 
+of tissue neutrophils in periodontitis, Immunol. Rev 287 (2019) 226–235. doi:10.1111/imr.12724. 
+[PubMed: 30565245] 
+
+[43]. Marsh PD, In Sickness and in Health-What Does the Oral Microbiome Mean to Us? An 
+
+Ecological Perspective, Adv. Dent. Res 29 (2018) 60–65. doi:10.1177/0022034517735295. 
+[PubMed: 29355410] 
+
+J Mol Biol. Author manuscript; available in PMC 2020 July 26.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Valm
+
+Page 13
+
+[44]. Devine DA, Marsh PD, Meade J, Modulation of host responses by oral commensal bacteria, J 
+
+Oral Microbiol 7 (2015) 26941. doi:10.3402/jom.v7.26941. [PubMed: 25661061] 
+
+[45]. Hasegawa Y, Mans JJ, Mao S, Lopez MC, Baker HV, Handfield M, et al., Gingival epithelial cell 
+transcriptional responses to commensal and opportunistic oral microbial species, Infect. Immun 
+75 (2007) 2540–2547. doi:10.1128/IAI.01957-06. [PubMed: 17307939] 
+
+[46]. Kaci G, Goudercourt D, Dennin V, Pot B, Doré J, Ehrlich SD, et al., Anti-inflammatory 
+
+properties of Streptococcus salivarius, a commensal bacterium of the oral cavity and digestive 
+tract, Appl. Environ. Microbiol 80 (2014) 928–934. doi:10.1128/AEM.03133-13. [PubMed: 
+24271166] 
+
+[47]. Kaci G, Lakhdari O, Doré J, Ehrlich SD, Renault P, Blottière HM, et al., Inhibition of the NF-
+kappaB pathway in human intestinal epithelial cells by commensal Streptococcus salivarius, 
+Appl. Environ. Microbiol 77 (2011) 4681–4684. doi:10.1128/AEM.03021-10. [PubMed: 
+21602373] 
+
+[48]. Cosseau C, Devine DA, Dullaghan E, Gardy JL, Chikatamarla A, Gellatly S, et al., The 
+
+commensal Streptococcus salivarius K12 downregulates the innate immune responses of human 
+epithelial cells and promotes host-microbe homeostasis, Infect. Immun 76 (2008) 4163–4175. 
+doi:10.1128/IAI.00188-08. [PubMed: 18625732] 
+
+[49]. Raizada MK, Joe B, Bryan NS, Chang EB, Dewhirst FE, Borisy GG, et al., Report of the 
+
+National Heart, Lung, and Blood Institute Working Group on the Role of Microbiota in Blood 
+Pressure Regulation: Current Status and Future Directions, Hypertension 70 (2017) 479–485. 
+doi:10.1161/HYPERTENSIONAHA.117.09699.
+
+[50]. Lundberg JO, Weitzberg E, Gladwin MT, The nitrate-nitrite-nitric oxide pathway in physiology 
+and therapeutics, Nat Rev Drug Discov 7 (2008) 156–167. doi:10.1038/nrd2466. [PubMed: 
+18167491] 
+
+[51]. Hyde ER, Andrade F, Vaksman Z, Parthasarathy K, Jiang H, Parthasarathy DK, et al., 
+
+Metagenomic analysis of nitrate-reducing bacteria in the oral cavity: implications for nitric oxide 
+homeostasis, PLoS ONE 9 (2014) e88645. doi:10.1371/journal.pone.0088645. [PubMed: 
+24670812] 
+
+[52]. Desvarieux M, Demmer RT, Jacobs DR, Rundek T, Boden-Albala B, Sacco RL, et al., 
+
+Periodontal bacteria and hypertension: the oral infections and vascular disease epidemiology 
+study (INVEST), J. Hypertens 28 (2010) 1413–1421. doi:10.1097/HJH.0b013e328338cd36. 
+[PubMed: 20453665] 
+
+[53]. Listgarten MA, Structure of the microbial flora associated with periodontal health and disease in 
+man. A light and electron microscopic study, J. Periodontol 47 (1976) 1–18. doi:10.1902/jop.
+1976.47.1.1. [PubMed: 1063849] 
+
+[54]. Nyvad B, Fejerskov O, Scanning electron microscopy of early microbial colonization of human 
+
+enamel and root surfaces in vivo, Scand J Dent Res 95 (1987) 287–296. [PubMed: 3476984] 
+[55]. Davey ME, O’toole GA, Microbial biofilms: from ecology to molecular genetics, Microbiol. 
+
+Mol. Biol. Rev 64 (2000) 847–867. [PubMed: 11104821] 
+
+[56]. Diaz PI, Microbial diversity and interactions in subgingival biofilm communities, Front Oral Biol 
+
+15 (2012) 17–40. doi:10.1159/000329669. [PubMed: 22142955] 
+
+[57]. Egland PG, Palmer RJ, Kolenbrander PE, Interspecies communication in Streptococcus gordonii-
+Veillonella atypica biofilms: signaling in flow conditions requires juxtaposition, Proc. Natl. Acad. 
+Sci. U.S.a 101 (2004) 16917–16922. doi:10.1073/pnas.0407457101. [PubMed: 15546975] 
+[58]. Hansen SK, Rainey PB, Haagensen JAJ, Molin S, Evolution of species interactions in a biofilm 
+community, Nature 445 (2007) 533–536. doi:10.1038/nature05514. [PubMed: 17268468] 
+[59]. Coppenhagen-Glazer S, Sol A, Abed J, Naor R, Zhang X, Han YW, et al., Fap2 of Fusobacterium 
+nucleatum is a galactose-inhibitable adhesin involved in coaggregation, cell adhesion, and 
+preterm birth, Infect. Immun 83 (2015) 1104–1113. doi:10.1128/IAI.02838-14. [PubMed: 
+25561710] 
+
+[60]. Jakubovics NS, Intermicrobial Interactions as a Driver for Community Composition and 
+
+Stratification of Oral Biofilms, J. Mol. Biol 427 (2015) 3662–3675. doi:10.1016/j.jmb.
+2015.09.022. [PubMed: 26519790] 
+
+J Mol Biol. Author manuscript; available in PMC 2020 July 26.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Valm
+
+Page 14
+
+[61]. Kolenbrander PE, Palmer RJ, Periasamy S, Jakubovics NS, Oral multispecies biofilm 
+
+development and the key role of cell-cell distance, Nat. Rev. Microbiol 8 (2010) 471–480. doi:
+10.1038/nrmicro2381. [PubMed: 20514044] 
+
+[62]. Nobbs AH, Lamont RJ, Jenkinson HF, Streptococcus adherence and colonization, Microbiol. 
+
+Mol. Biol. Rev 73 (2009) 407–50– Table of Contents. doi:10.1128/MMBR.00014-09. [PubMed: 
+19721085] 
+
+[63]. Kolenbrander PE, Palmer RJ, Rickard AH, Jakubovics NS, Chalmers NI, Diaz PI, Bacterial 
+
+interactions and successions during plaque development, Periodontol. 2000 42 (2006) 47–79. doi:
+10.1111/j.1600-0757.2006.00187.x. [PubMed: 16930306] 
+
+[64]. Periasamy S, Kolenbrander PE, Aggregatibacter actinomycetemcomitans builds mutualistic 
+biofilm communities with Fusobacterium nucleatum and Veillonella species in saliva, Infect. 
+Immun 77 (2009) 3542–3551. doi:10.1128/IAI.00345-09. [PubMed: 19564387] 
+
+[65]. Periasamy S, Chalmers NI, Du-Thumm L, Kolenbrander PE, Fusobacterium nucleatum ATCC 
+
+10953 requires Actinomyces naeslundii ATCC 43146 for growth on saliva in a three-species 
+community that includes Streptococcus oralis 34, Appl. Environ. Microbiol 75 (2009) 3250–
+3257. doi:10.1128/AEM.02901-08. [PubMed: 19286780] 
+
+[66]. Palmer RJ, Shah N, Valm A, Paster B, Dewhirst F, Inui T, et al., Interbacterial Adhesion 
+
+Networks within Early Oral Biofilms of Single Human Hosts, Appl. Environ. Microbiol 83 
+(2017) e00407–17. doi:10.1128/AEM.00407-17. [PubMed: 28341674] 
+
+[67]. Valm AM, Mark Welch JL, Rieken CW, Hasegawa Y, Sogin ML, Oldenbourg R, et al., Systems-
+level analysis of microbial community organization through combinatorial labeling and spectral 
+imaging, Proc. Natl. Acad. Sci. U.S.a 108 (2011) 4152–4157. doi:10.1073/pnas.1101134108. 
+[PubMed: 21325608] 
+
+[68]. Kuboniwa M, Houser JR, Hendrickson EL, Wang Q, Alghamdi SA, Sakanaka A, et al., Metabolic 
+
+crosstalk regulates Porphyromonas gingivalis colonization and virulence during oral 
+polymicrobial infection, Nat Microbiol 2 (2017) 1493–1499. doi:10.1038/s41564-017-0021-6. 
+[PubMed: 28924191] 
+
+[69]. Zeng L, Burne RA, Sucrose-and Fructose-Specific Effects on the Transcriptome of Streptococcus 
+
+mutans, as Determined by RNA Sequencing, Appl. Environ. Microbiol 82 (2016) 146–156. doi:
+10.1128/AEM.02681-15. [PubMed: 26475108] 
+
+[70]. Guo L, Hu W, He X, Lux R, McLean J, Shi W, investigating acid production by Streptococcus 
+
+mutans with a surface-displayed pH-sensitive green fluorescent protein, PLoS ONE 8 (2013) 
+e57182. doi:10.1371/journal.pone.0057182. [PubMed: 23468929] 
+
+[71]. Hwang G, Liu Y, Kim D, Sun V, Aviles-Reyes A, Kajfasz JK, et al., Simultaneous spatiotemporal 
+mapping of in situ pH and bacterial activity within an intact 3D microcolony structure, Sci Rep 6 
+(2016) 32841. doi:10.1038/srep32841. [PubMed: 27604325] 
+
+[72]. Lamont RJ, Hajishengallis G, Polymicrobial synergy and dysbiosis in inflammatory disease, 
+
+Trends Mol Med 21 (2015) 172–183. doi:10.1016/j.molmed.2014.11.004. [PubMed: 25498392] 
+
+[73]. Jakubovics NS, Yassin SA, Rickard AH, Community interactions of oral streptococci, Adv. Appl. 
+
+Microbiol 87 (2014) 43–110. doi:10.1016/B978-0-12-800261-2.00002-5. [PubMed: 24581389] 
+
+[74]. Džunková M, Martinez-Martinez D, Gardlík R, Behuliak M, Janšáková K, Jiménez N, et al., 
+Oxidative stress in the oral cavity is driven by individual-specific bacterial communities, NPJ 
+Biofilms Microbiomes 4 (2018) 29. doi:10.1038/s41522-018-0072-3. [PubMed: 30510769] 
+[75]. Head D, Devine DA, Marsh PD, In silico modelling to differentiate the contribution of sugar 
+frequency versus total amount in driving biofilm dysbiosis in dental caries, Sci Rep 7 (2017) 
+17413. doi:10.1038/s41598-017-17660-z. [PubMed: 29234121] 
+
+[76]. Bowen WH, Burne RA, Wu H, Koo H, Oral Biofilms: Pathogens, Matrix, and Polymicrobial 
+Interactions in Microenvironments, Trends in Microbiology 26 (2018) 229–242. doi:10.1016/
+j.tim.2017.09.008. [PubMed: 29097091] 
+
+[77]. Xiao J, Klein MI, Falsetta ML, Lu B, Delahunty CM, Yates JR, et al., The exopolysaccharide 
+
+matrix modulates the interaction between 3D architecture and virulence of a mixed-species oral 
+biofilm, PLoS Pathog 8 (2012) e1002623. doi:10.1371/journal.ppat.1002623. [PubMed: 
+22496649] 
+
+J Mol Biol. Author manuscript; available in PMC 2020 July 26.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Valm
+
+Page 15
+
+[78]. Stoodley P, Wefel J, Gieseke A, Debeer D, von Ohle C, Biofilm plaque and hydrodynamic effects 
+
+on mass transfer, fluoride delivery and caries, J Am Dent Assoc 139 (2008) 1182–1190. 
+[PubMed: 18762628] 
+
+[79]. Watson PS, Pontefract HA, Devine DA, Shore RC, Nattress BR, Kirkham J, et al., Penetration of 
+
+Fluoride into Natural Plaque Biofilms, J. Dent. Res 84 (2016) 451–455. doi:
+10.1177/154405910508400510.
+
+[80]. Metwalli KH, Khan SA, Krom BP, Jabra-Rizk MA, Streptococcus mutans, Candida albicans, and 
+
+the human mouth: a sticky situation, PLoS Pathog 9 (2013) e1003616. doi:10.1371/journal.ppat.
+1003616. [PubMed: 24146611] 
+
+[81]. Hajishengallis G, Immunomicrobial pathogenesis of periodontitis: keystones, pathobionts, and 
+host response, Trends Immunol 35 (2014) 3–11. doi:10.1016/j.it.2013.09.001. [PubMed: 
+24269668] 
+
+[82]. Socransky SS, Haffajee AD, Cugini MA, Smith C, Kent RL, Microbial complexes in subgingival 
+
+plaque, J. Clin. Periodontol 25 (1998) 134–144. [PubMed: 9495612] 
+
+[83]. Chow J, Tang H, Mazmanian SK, Pathobionts of the gastrointestinal microbiota and 
+
+inflammatory disease, Curr. Opin. Immunol 23 (2011) 473–480. doi:10.1016/j.coi.2011.07.010. 
+[PubMed: 21856139] 
+
+[84]. Dabdoub SM, Ganesan SM, Kumar PS, Comparative metagenomics reveals taxonomically 
+
+idiosyncratic yet functionally congruent communities in periodontitis, Sci Rep 6 (2016) 38993. 
+doi:10.1038/srep38993. [PubMed: 27991530] 
+
+[85]. Marsh PD, Are dental diseases examples of ecological catastrophes? Microbiology (Reading, 
+
+Engl.) 149 (2003) 279–294. doi:10.1099/mic.0.26082-0.
+
+[86]. Rosier BT, De Jager M, Zaura E, Krom BP, Historical and contemporary hypotheses on the 
+development of oral diseases: are we there yet? Front Cell Infect Microbiol 4 (2014) 92. doi:
+10.3389/fcimb.2014.00092. [PubMed: 25077073] 
+
+[87]. Hajishengallis G, Lamont RJ, Beyond the red complex and into more complexity: the 
+
+polymicrobial synergy and dysbiosis (PSD) model of periodontal disease etiology, Mol Oral 
+Microbiol 27 (2012) 409–419. doi:10.1111/j.2041-1014.2012.00663.x. [PubMed: 23134607] 
+[88]. Nowicki EM, Shroff R, Singleton JA, Renaud DE, Wallace D, Drury J, et al., Microbiota and 
+
+Metatranscriptome Changes Accompanying the Onset of Gingivitis, MBio 9 (2018) e00575–18. 
+doi:10.1128/mBio.00575-18. [PubMed: 29666288] 
+
+[89]. Olsen I, Lambris JD, Hajishengallis G, Porphyromonas gingivalis disturbs host-commensal 
+
+homeostasis by changing complement function, J Oral Microbiol 9 (2017) 1340085. doi:
+10.1080/20002297.2017.1340085. [PubMed: 28748042] 
+
+[90]. Maekawa T, Krauss JL, Abe T, Jotwani R, Triantafilou M, Triantafilou K, et al., Porphyromonas 
+gingivalis manipulates complement and TLR signaling to uncouple bacterial clearance from 
+inflammation and promote dysbiosis, Cell Host Microbe 15 (2014) 768–778. doi:10.1016/j.chom.
+2014.05.012. [PubMed: 24922578] 
+
+[91]. Moutsopoulos NM, Moutsopoulos HM, The oral mucosa: A barrier site participating in tissue-
+specific and systemic immunity, Oral Dis 24 (2018) 22–25. doi:10.1111/odi.12729. [PubMed: 
+29480644] 
+
+[92]. Takeuchi H, Hirano T, Whitmore SE, Morisaki I, Amano A, Lamont RJ, The serine phosphatase 
+SerB of Porphyromonas gingivalis suppresses IL-8 production by dephosphorylation of NF-κB 
+RelA/p65, PLoS Pathog 9 (2013) e1003326. doi:10.1371/journal.ppat.1003326. [PubMed: 
+23637609] 
+
+[93]. Darveau RP, Hajishengallis G, Curtis MA, Porphyromonas gingivalis as a potential community 
+
+activist for disease, J. Dent. Res 91 (2012) 816–820. doi:10.1177/0022034512453589. [PubMed: 
+22772362] 
+
+[94]. Murray JL, Connell JL, Stacy A, Turner KH, Whiteley M, Mechanisms of synergy in 
+
+polymicrobial infections, J. Microbiol 52 (2014) 188–199. doi:10.1007/s12275-014-4067-3. 
+[PubMed: 24585050] 
+
+[95]. Zijnge V, van Leeuwen MBM, Degener JE, Abbas F, Thurnheer T, Gmür R, et al., Oral biofilm 
+
+architecture on natural teeth, PLoS ONE 5 (2010) e9321. doi:10.1371/journal.pone.0009321. 
+[PubMed: 20195365] 
+
+J Mol Biol. Author manuscript; available in PMC 2020 July 26.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Valm
+
+Page 16
+
+[96]. ten Napel JH, Theilade J, Matsson L, Attström R, Ultrastructure of developing subgingival plaque 
+
+in beagle dogs, J. Clin. Periodontol 12 (1985) 507–524. [PubMed: 3860515] 
+
+[97]. Yost S, Duran-Pinedo AE, Teles R, Krishnan K, Frias-Lopez J, Functional signatures of oral 
+dysbiosis during periodontitis progression revealed by microbial metatranscriptome analysis, 
+Genome Med 7 (2015) 27. doi:10.1186/s13073-015-0153-3. [PubMed: 25918553] 
+[98]. Kilian M, Chapple ILC, Hannig M, Marsh PD, Meuric V, Pedersen AML, et al., The oral 
+
+microbiome - an update for oral healthcare professionals, Br Dent J 221 (2016) 657–666. doi:
+10.1038/sj.bdj.2016.865. [PubMed: 27857087] 
+
+[99]. Kistler JO, Booth V, Bradshaw DJ, Wade WG, Bacterial community development in experimental 
+gingivitis, PLoS ONE 8 (2013) e71227. doi:10.1371/journal.pone.0071227. [PubMed: 23967169] 
+
+[100]. Kurgan S, Kantarci A, Molecular basis for immunohistochemical and inflammatory changes 
+during progression of gingivitis to periodontitis, Periodontol. 2000 76 (2018) 51–67. doi:
+10.1111/prd.12146. [PubMed: 29194785] 
+
+[101]. Thurnheer T, Bostanci N, Belibasakis GN, Microbial dynamics during conversion from 
+
+supragingival to subgingival biofilms in an in vitro model, Mol Oral Microbiol 31 (2016) 125–
+135. doi:10.1111/omi.12108. [PubMed: 26033167] 
+
+[102]. Cieplik F, Zaura E, Brandt BW, Buijs MJ, Buchalla W, Crielaard W, et al., Microcosm biofilms 
+cultured from different oral niches in periodontitis patients, J Oral Microbiol 11 (2019) 1551596. 
+doi:10.1080/20022727.2018.1551596. [PubMed: 30598734] 
+
+[103]. Hajishengallis G, Lamont RJ, Graves DT, The enduring importance of animal models in 
+
+understanding periodontal disease, Virulence 6 (2015) 229–235. doi:
+10.4161/21505594.2014.990806. [PubMed: 25574929] 
+
+[104]. Luo TL, Eisenberg MC, Hayashi MAL, Gonzalez-Cabezas C, Foxman B, Marrs CF, et al., A 
+Sensitive Thresholding Method for Confocal Laser Scanning Microscope Image Stacks of 
+Microbial Biofilms, Sci Rep 8 (2018) 13013. doi:10.1038/s41598-018-31012-5. [PubMed: 
+30158655] 
+
+[105]. Shrivastava A, Patel VK, Tang Y, Yost SC, Dewhirst FE, Berg HC, Cargo transport shapes the 
+
+spatial organization of a microbial community, Proc. Natl. Acad. Sci. U.S.a 115 (2018) 8633–
+8638. doi:10.1073/pnas.1808966115. [PubMed: 30082394] 
+
+[106]. Gross EL, Beall CJ, Kutsch SR, Firestone ND, Leys EJ, Griffen AL, Beyond Streptococcus 
+
+mutans: dental caries onset linked to multiple species by 16S rRNA community analysis, PLoS 
+ONE 7 (2012) e47722. doi:10.1371/journal.pone.0047722. [PubMed: 23091642] 
+[107]. Hajishengallis E, Parsaei Y, Klein MI, Koo H, Advances in the microbial etiology and 
+
+pathogenesis of early childhood caries, Mol Oral Microbiol 32 (2017) 24–34. doi:10.1111/omi.
+12152. [PubMed: 26714612] 
+
+[108]. Holliday R, Preshaw PM, Bowen L, Jakubovics NS, The ultrastructure of subgingival dental 
+plaque, revealed by high-resolution field emission scanning electron microscopy, BDJ Open 1 
+(2015) 15003. doi:10.1038/bdjopen.2015.3. [PubMed: 29607057] 
+
+J Mol Biol. Author manuscript; available in PMC 2020 July 26.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Valm
+
+Page 17
+
+•
+
+•
+
+•
+
+•
+
+•
+
+Research Highlights
+
+Dental caries and periodontal disease are the most prevalent microbially 
+mediated diseases that afflict humans.
+
+Dental plaque has a highly ordered structure mediated by intercellular 
+interactions, environmental and host inputs.
+
+Periodontal disease is associated with shifts in microbial community 
+structure, i.e., taxonomic membership and abundance.
+
+Periodontal disease is thought to be mediated by synergist interactions 
+between subgingival microbial communities and host.
+
+Spatial structure of intact supragingival and subgingival biofilms is equally 
+important as taxonomic composition for understanding microbiome changes 
+in health and disease.
+
+J Mol Biol. Author manuscript; available in PMC 2020 July 26.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Valm
+
+Page 18
+
+Figure 1. Observed changes in dental plaque structure between states of health and sites of active 
+caries.
+DNA sequencing provides a description of community structure in the form of taxonomic 
+membership and abundance. Supragingival plaque communities from patients with dental 
+caries experience shifts in community composition, marked by a general decrease in 
+community diversity. The shift in microbial community structure is mediated by frequent 
+dietary consumption of fermentable carbohydrates and synergistic interactions between 
+increasingly abundant acidogenic and aciduric organisms. (See refs. [13],[106] and [29]). 
+The spatial structure of caries-associated communities also undergoes specific 
+developmental changes during the transition to dysbiosis. The structure of caries associated 
+biofilms is mediated by the increased production of extrapolymeric substances (EPS) by 
+Mutans Streptococci, including on the surface of C. albicans hyphae as seen in early 
+childhood caries and by synergistic interactions among bacteria that create a highly localized 
+low pH microenvironment mediated by secretion of lactic acid and its sequestration within 
+
+J Mol Biol. Author manuscript; available in PMC 2020 July 26.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Valm
+
+Page 19
+
+dense EPS meshworks. Unknown bacterium and Other acidogenic/aciduric organisms 
+represent species that have been identified in molecular surveys but which have not been 
+identified with taxonomic resolution in biofilm images. Small question marks in the diagram 
+reflect recommended caution in drawing conclusions about inter-taxon associations because 
+caries-associated supragingival biofilms have yet to be imaged after labeling with more than 
+a few probes simultaneously. (See refs. [107], [29] and [80]).
+
+J Mol Biol. Author manuscript; available in PMC 2020 July 26.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Valm
+
+Page 20
+
+Figure 2. Observed changes in dental plaque structure between states of health and periodontal 
+disease.
+Subgingival plaque communities from patients with periodontal disease have increased 
+bacterial load and shifts in community composition that reflect a process of ecological 
+succession. Importantly, the shift in community structure involves the expansion of a subset 
+of organisms that are present in states of health without the displacement of other health-
+associated taxa. (See refs. [16] and [5]). The highly ordered physical structure of dental 
+plaque communities has been probed with taxonomic resolution using FISH. In states of 
+health, supragingival plaque biofilms have taxonomic distributions that reflect host and 
+environmental inputs including oxygen concentration and salivary components as well as 
+within-community interactions such as H2O2 production and oxygen sequestration to create 
+anaerobic niches. Cells of the genus Corynebacterium were observed to play a central role in 
+structuring the system. The spatial structure of subgingival plaque biofilms in states of 
+health is not well studied due to the inaccessibility of these biofilms for imaging and is 
+
+J Mol Biol. Author manuscript; available in PMC 2020 July 26.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Valm
+
+Page 21
+
+reflected in the graphic as a large question mark. FISH on extracted teeth from patients with 
+periodontal disease revealed the spatial distribution of organisms with respect to the basal 
+(tooth-associated) and apical (facing the gingival pocket) surfaces. Gingivitis is a reversible 
+form of periodontal disease that is mediated by increased bacterial load at the gingival 
+margin, characterized by a unique community structure not shown in this diagram. In 
+susceptible hosts, gingivitis may progress to chronic periodontitis. Small question marks in 
+the diagram reflect recommended caution in drawing conclusions about inter-taxon 
+associations because subgingival biofilms have yet to be imaged after labeling with more 
+than a few probes simultaneously. GCF = gingivo crevicular fluid. (See refs. [29], [95] and 
+[108]).
+
+J Mol Biol. Author manuscript; available in PMC 2020 July 26.
+
+ 
+ 
+ 
+ 
+

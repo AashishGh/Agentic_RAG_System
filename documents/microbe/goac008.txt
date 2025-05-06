@@ -1,0 +1,1821 @@
+Gastroenterology Report, 2022, 1–15
+
+https://doi.org/10.1093/gastro/goac008
+Review Article
+
+R E V I E W A R T I C L E
+
+Rewiring host–microbe interactions and barrier
+function during gastrointestinal inflammation
+Sune K. Jensen †, Simone I. Pærregaard†, Emma P. Brandum,
+Astrid S. Jørgensen, Gertrud M. Hjortø and Benjamin A. H. Jensen *
+
+Department of Biomedical Sciences, Faculty of Health and Medical Sciences, University of Copenhagen,
+Copenhagen, Denmark
+
+*Corresponding author. Department of Biomedical Sciences, Faculty of Health and Medical Sciences, University of Copenhagen, Blegdamsvej 3, Build.
+22.5.39, Copenhagen N 2200, Denmark. Tel: þ45-35330188; Email: Benjamin.jensen@sund.ku.dk
+†These authors contributed equally to this work.
+
+Abstract
+
+Organismal survival depends on a well-balanced immune system and maintenance of host–microbe mutualism. The ﬁne-
+tuned relationship between the gut microbiota and host immunity is constantly challenged by opportunistic bacteria
+testing the integrity of gastrointestinal (GI) barrier defenses. Barrier dysfunction reduces immunological tolerance towards
+otherwise innocuous microbes; it is a process that may instigate chronic inﬂammation. Paradoxically, sustained inﬂamma-
+tion further diminishes barrier function, enabling bacterial translocation to extra-intestinal tissues. Once translocated,
+these bacteria stimulate systemic inﬂammation, thereby compromising organ function. While genetic risk alleles associate
+with barrier dysfunction, environmental stressors are key triggers of GI inﬂammation and associated breakdown in immune
+tolerance towards resident gut microbes. As dietary components dictate substrate availability, they also orchestrate
+microbiota composition and function, including migratory and pro-inﬂammatory potential, thus holding the capacity to
+fuel both GI and extra-intestinal inﬂammation. Additionally, Western diet consumption may weaken barrier defenses via
+curbed Paneth cell function and diminished host-defense peptide secretion. This review focuses on intervenable niches of
+host–microbe interactions and mucosal immunity with the ambition to provide a framework of plausible strategies to
+improve barrier function and regain tolerance in the inﬂamed mucosa via nutritional intervention.
+
+Key words: host-defense peptides; mucosal barrier defects; IBD; nutritional immunology; bacterial translocation
+
+Introduction
+
+The gastrointestinal (GI) tract represents the largest surface
+area of the body exposed to an external environment. The in-
+trinsic challenge on whether to respond or not respond to for-
+eign antigens [1]
+immune
+system. Regionalized specialization is required to meet these
+demands in a swiftly changing landscape from the proximal
+
+is orchestrated by the mucosal
+
+duodenum to the distal colon. Change of scenery relates to dif-
+ferent exposures to both food antigens and resident microbes.
+To facilitate homeostasis, the mucosal immune system should
+remain tolerant while preserving immunoreactivity towards in-
+vading pathogens. The colonization of amutualistic microbes is
+gradually increasing from the upper to the lower part of the in-
+testine. Rapid transit time of luminal contents and low pH value
+as well as high concentrations of bile acids, digestive enzymes,
+
+Submitted: 4 December 2021; Revised: 7 January 2022; Accepted: 16 February 2022
+
+VC The Author(s) 2022. Published by Oxford University Press and Sixth Afﬁliated Hospital of Sun Yat-sen University
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (https://creativecommons.org/licenses/by/4.0/),
+which permits unrestricted reuse, distribution, and reproduction in any medium, provided the original work is properly cited.
+
+1
+
+2 | S.K. Jensen et al.
+
+host-defense peptides (HDPs) and immunoglobulin A (IgA)
+make the duodenum, jejunum, and proximal ileum unfavorable
+environments for bacterial growth [2]. Thus, relatively few bac-
+teria can colonize these parts of the intestine, which are largely
+dominated by facultative anaerobes and acid-tolerant bacteria
+including Helicobacteriaceae, Streptococcus, Enterobacteriaceae, and
+Lactobacillaceae [3–5]. Additionally, in these regions, most simple
+carbohydrates, proteins, fats, and other nutrients are digested
+by host enzymes and absorbed. The environment of the distal
+ileum is characterized by a pH value close to neutral, lower con-
+centrations of antimicrobial molecules, and increased load of
+dietary fibers, ultimately resulting in augmented microbial load
+and diversity [2, 4] (Figure 1).
+
+The colon harbors by far the highest density of microorgan-
+isms due to a greatly reduced transit rate, low concentrations of
+HDPs and oxygen, as well as a scarcity of simple carbon sources,
+resulting in dense growth of anaerobic bacteria capable of fer-
+menting complex dietary fibers. These microbes, primarily
+Bacteroidaceae,
+Proteobacteria, Actinobacteria,
+members
+Prevotellaceae, Lachnospiraceae, and Clostridium, engage in prime
+examples of host–microbe mutualism, where the host provides
+a warm and nutrient-rich environment for the microbes to
+thrive in, while the microbiota in turn carries the enzymes
+needed for fiber fermentation and thereby aid in metabolizing
+otherwise indigestible nutrients [2, 4, 5].
+
+of
+
+Besides alterations in microbial distribution along the length of
+the gut, differences are also seen from the intestinal epithelial sur-
+face through the mucus layer towards the lumen [6, 7]. Colonic
+mucus is composed of an outer loose layer populated by bacteria
+and an inner more compact layer largely devoid of bacteria. The
+colonic outer mucus layer serves as a nutrient source for muco-
+lytic bacteria such as Akkermansia muciniphila and certain mem-
+bers of the Bacteroides, Lactobacilli, and Bifidobacteria genera, while
+the lumen is home to members of the Prevotellaceae, Bacteroidaceae,
+and Rikanellaceae families [4, 7]. Both mucus-associated and lumi-
+nal bacteria interact with the host through diffusion of microbial-
+produced metabolites or direct host immune interaction mediated
+through sampling of microbe-associated molecular patterns
+(MAMPs) such as lipopolysaccharide (LPS), lipid A, peptidoglycans,
+flagella, and microbial nucleic acids. MAMPs are recognized by
+pattern recognition receptors (PRRs) including Toll-like receptors
+(TLRs) and nuclear oligomerization domain-like receptors
+expressed by intestinal epithelial cells and the underlying im-
+mune cells of the lamina propria (LP). Tolerance towards luminal
+antigens is mounted by several means such as homeostatic cross-
+epithelial sampling by CX3CR1þ macrophages and subsequent de-
+livery to migratory CD103þ dendritic cells (DCs) through gap junc-
+tions, ultimately driving differentiation of regulatory T-cells
+(Tregs) [8, 9]. The mucosal immune system further gauge micro-
+bial activity via direct transfer across the epithelial barrier by small
+intestinal Microfold-cells (M-cells) or Goblet cell-associated anti-
+gen passages (GAPs) [10]. Additionally, IgA coating of luminal bac-
+teria facilitates transport via the polymeric Ig receptor across the
+epithelium. The near vicinity of the intestinal barrier to trillions of
+microorganisms accentuates the intimate relationship between
+host and microbe, and emphasizes the necessity for a well-
+balanced immune system to ensure tolerance against friendly res-
+idents while preserving proper immune reaction towards patho-
+gens and opportunists [11, 12].
+
+This review presents key aspects of host–microbe mutual-
+ism, highlights its context dependency, and describes how the
+mucosal
+immune system orchestrates appropriate immune
+responses towards gut microbes, be they mutualistic or patho-
+genic, to sustain whole-body homeostasis. Finally, we discuss
+
+promising strategies to rewire host–microbe interactions and
+reinstate barrier function during GI inflammation.
+
+Regionalized barrier defenses
+
+The intestinal epithelium displays a high degree of heterogene-
+ity tailored to meet the regionalized physiological requirements
+[13, 14]. The epithelial lining additionally functions as a protec-
+tive barrier separating the internal body from foreign encoun-
+ters, including innocuous antigens derived from the diet and/or
+the gut microbiota, as well as potentially harmful pathogens
+utilizing the intestines as an entry site. Accordingly, barrier
+defects compromise immunological tolerance facilitating exces-
+sive immune activation towards the gut microbiota, thereby
+fueling inflammation. To avoid this harmful trait, intestinal ho-
+meostasis is maintained by specialized barrier protective cell
+types. Paneth and goblet cells belong to the secretory epithelial
+lineage responsible for HDP and mucus production, respec-
+tively. In health, Paneth cells are restricted to the small intes-
+tine and inversely associated with microbial loads based on
+their HDP secretion [15], whereas the mucus-producing goblet
+cells are quantitatively mirrored by microbial density [16]. This
+trait is also reflected in regionalized mucus discrepancies be-
+tween the small and large intestines (Figure 1). As such, the up-
+per intestinal tract is covered by a single discontinuous mucus
+layer, allowing nutrient uptake, whereas the mucus organiza-
+tion in the colon is far denser. Additionally, colonic mucus con-
+sists of both an inner layer impenetrable for the gut microbiota
+under homeostatic conditions and an outer layer nurturing the
+mucus-associated bacteria, while maintaining a healthy dis-
+tance between host and microbes, and likewise protecting the
+epithelium from mechanical damage imposed by passing stool
+[14, 17]. Apart from mucus secretion, small intestinal goblet
+cells partake in maintaining immune tolerance, in particular to-
+wards dietary antigens, through GAPs, where luminal antigens
+are passively sampled and delivered to the underlying migra-
+tory CD103þ DCs in the LP [8, 10]. Moreover, a rare sentinel gob-
+let cell subtype residing around the colonic crypt entrance
+participates in barrier protection through TLR/MyD88-signaling
+and NACHT, leucine-rich repeat, pyrin domain-containing 6
+(NLRP6) inflammasome activation towards crypt intruders by
+inducing compound exocytosis, thereby expelling potentially
+infected goblet cells and mucus, shielding the crypts from mi-
+crobial colonization and invasion in mice [18]. The relevance of
+this mechanism is evident from NLRP6-knockout mice where
+generational segregation nourishes an inflammatory-prone
+microbiota, thus ultimately increasing the risk of intestinal in-
+flammation and susceptibility to chemically induced colitis [19].
+Subsequent studies did, however, point towards a certain de-
+gree of redundancy in this barrier protective system, as lifetime
+separation of littermate-controlled mice failed to develop a sim-
+ilar phenotype in two geographically separated cohorts [20],
+suggesting that multiple generations—and not maternal inheri-
+tance per se—are needed to support the gradual development of
+inflammation-prone microbes. As an added advantage to the
+NLRP6-signaling, the mentioned sentinel goblet cells further
+communicate through intercellular gap junctions to upper crypt
+goblet cells promoting enhanced mucus production, thus bol-
+stering barrier integrity [18].
+
+Maintaining tolerance at the mucosal barrier
+
+The abundant exposure to foreign antigens necessitates im-
+mune tolerance of the intestinal environment to prevent
+
+Micromanaging the gut during GI inflammation | 3
+
+Figure 1. Host–microbe mutualism in the gastrointestinal tract. (A) Gastric ﬂuid emptying into the duodenum provides an acidic environment in the proximal small in-
+
+testine. pH increases along the length until it reaches neutrality in the distal ileum. High concentrations of BAs and HDPs is mirrored by low microbial load in the prox-
+
+imal small intestine. Dietary antigens, transit rate, BAs, and HDPs gradually decrease through the segments, thus inversely correlating with loads of indigestible ﬁbers
+as well as microbial density and diversity. (B) MAMPs and metabolites are recognized by different IECs through distinct PRRs with altered expression patterns on the
+
+basolateral and the apical surface of the IEC. Broadly, MAMPs can stimulate epithelial cytokine production, promote upregulation of TJs, increase mucus production,
+
+epithelial fucosylation, HDP secretion, and maintenance of Paneth cell functions. The increased mucus production ensure that the mutualistic bacteria are conﬁned to
+
+the mucosa, while simultaneously providing these mucolytic species with nutritional substrates for consumption. (C) HDPs protect the IECs by ensuring that the inner-
+most layer of mucus closest to the epithelium is devoid of bacteria. (D) In mouse ileum, SFB penetrate the mucus layer and attach to the IECs. This attachment drives
+
+epithelial cytokine production and downstream increased differentiation of Th17 cells important for barrier protection. (E) Host indigestible ﬁbers are fermented by co-
+
+lonic microbes and generate host-beneﬁcial metabolites, such as SCFAs. SCFAs, along with other microbial metabolites, help strengthening the intestinal barrier
+
+through several means; increased mucus production, promotion of IEC renewal, increased production of HDPs, upregulation of TJs, and promoting regulatory T-cell dif-
+ferentiation. In addition, SCFAs contribute to the maintenance of whole-body homeostasis through regulation of glucose and lipid metabolism. Created with
+
+BioRender.com. SI, small intestine; LI, large intestine; HDPs, host-defense peptides; PRRs, pattern recognition receptors; MAMPs, microbe-associated molecular pat-
+
+terns; SFB, segmented ﬁlamentous bacteria; SCFA, short-chain fatty acids; TJs, tight junctions; BAs, bile acids; IECs, intestinal epithelial cells.
+
+chronic inflammation [16, 21]. This is orchestrated at the induc-
+tive sites of the intestinal immune system and maintained at
+the effector sites [22, 23]. The inductive sites comprise the mes-
+enteric lymph nodes (mLNs) and gut-associated lymphoid tis-
+sues (GALT), where the latter include Peyer’s patches, the cecal
+patch, colonic patches, isolated lymphoid follicles, and imma-
+ture cryptopatches (in the mouse) [24]. The different lymphoid
+tissues of the gut perform specialized but overlapping functions
+in relation to regulating tolerance vs immune activation [25].
+While numerous checkpoints are in place to ensure well-
+balanced immunity, a key effector arm relates to the substantial
+amounts of transforming growth factor b (TGFb) produced by
+the epithelium. TGFb imprints newly recruited monocytes from
+the bloodstream to obtain an immune-suppressive phenotype
+within the tissue, hallmarked by interleukin (IL)-10-responsive
+
+macrophages [22, 23]. Supportive mononuclear phagocytes in-
+clude conventional DC1 (cDC1) and cDC2, phenotypically de-
+fined by expression of CD103þCD11b– and CD103–CD11bþ/
+CD103þCD11bþ, respectively. cDC1 and cDC2 link the innate and
+adaptive immune systems with discrete abilities to drive appro-
+priate effector responses [26–28]. In the steady state, migratory
+CD103þ DCs acquire antigen from the lumen and subsequently
+upregulate C–C chemokine receptor type 7 (CCR7) to facilitate
+antigen-probed DC migration from the mucosa to the mLNs fol-
+lowing gradients of chemokine (C–C motif) ligand 19 (CCL19)
+and CCL21 into the afferent lymphatics [29, 30]. Both these che-
+mokines are expressed by lymphoid-tissue-associated stromal
+cells [31] and secreted or transcytosed into the lumen of high
+endothelial venules (HEVs)
+[32, 33], whereas only CCL21 is
+expressed by lymphatic endothelial cells [33]. Thus, CCL21
+
+4 | S.K. Jensen et al.
+
+primarily guides the migrating DCs to the lymph nodes,
+whereas both chemokines partake in guiding naive T-cells into
+the lymphoid tissue through HEVs, increasing the likelihood of
+T-cell recognition of cognate antigen [34]. CD103þ DCs are po-
+tent inducers of Forkhead box P3þ (FoxP3þ) Tregs, as well as the
+expression of gut-homing molecules (CCR9 and a4b7) through
+their locally imprinted ability to produce retinoic acid (RA) [21,
+35]. RA is derived from vitamin A metabolism, pointing towards
+the modulating effect of diet on intestinal immune homeosta-
+sis. This is further corroborated by a seminal report showing
+that depletion of vitamin A in obese mice affects T-cell traffick-
+ing, thereby aggravating obesity-induced barrier deficiencies,
+gut-microbiota dysbiosis, and metabolic co-morbidities [36].
+
+The mentioned tolerogenic immune traits are compromised
+by barrier dysfunction, where gut-microbiota stimulation of
+PRRs on DCs, epithelium, mesenchymal stromal cells, and other
+local cell types induces pro-inflammatory cytokine expression
+and leukocyte recruitment, perpetuating a pro-inflammatory
+response and ultimately compromises the immune-suppressive
+state [23, 37]. Additionally, the inflammatory milieu promotes
+expression of co-stimulatory molecules on cDCs, enabling them
+to initiate an appropriately focused non-tolerogenic adaptive
+immune response in the draining mLN [37]. Activated antigen-
+specific effector T- and B-cells subsequently leave the mLN
+through efferent lymphatics to the thoracic duct and circulate
+back to the mucosa to exert their effects locally [38]. Conversely,
+in the absence of barrier breach and inflammation, migrating
+antigen-probed DCs would not express co-stimulatory mole-
+cules and thereby not orchestrate an effector response. Instead,
+interaction between migrating DCs and their cognate naive
+T-cells would, combined with RA production and the TGFb-
+enriched environment, lead to the induction of Foxp3 and gut-
+homing molecules, increasing the amount of intestinal Tregs
+[39], thus maintaining tolerance. Strategies to affect DC matura-
+tion status and/or Treg induction may therefore be actively
+exploited to regain tolerance in chronic inflammatory diseases.
+
+Host–microbe communication at the mucosal
+surface
+
+Of further importance in maintaining and promoting tolerance
+is the presence of innocuous microbes. Here, the gut microbiota
+confers colonization resistance by limiting the growth of poten-
+tial intruders via niche occupation, nutrient competition, and
+bacteriocin secretion [4, 40]. Although certain species in the in-
+terpersonal gut microbiota exhibit pathogenic potential under
+aberrant circumstances and are thus referred to as pathobionts,
+we coexist with most of our GI inhabitants in a mutually benefi-
+cial relationship. Host–microbe mutualism can, among other
+niches, be found at the intersection of the intestinal epithelium
+and mucus layer. In both humans and rodents, some bacteria
+such as Bifidobacterium and A. muciniphila can penetrate the mu-
+cus layer and consume its constituents [7, 41], while other bac-
+teria, such as segmented filamentous bacteria (SFB), can
+directly attach to the murine epithelial cell surface of the ileum
+[42–44]. This interaction is essential
+induction of LP
+CD4þRORctþ T-helper 17 (Th17) cells in mice [43, 44] and such
+gut-specific Th17 cells are instrumental for metabolic homeo-
+stasis [36], supporting the mutualistic relationship between
+host and SFB. Both SFB and MAMPs from mucus-associated bac-
+teria, recognized by PRRs, are part of a signaling circuit stimulat-
+IL-22 from group 3 innate
+ing downstream production of
+[5, 45]. Rather than regulating the
+lymphoid cells (ILC3s)
+
+for
+
+function of bona fide immune cells, IL-22 predominantly acts
+on epithelial cells located at host–environment interfaces where
+the target cells constitute a protective barrier as seen in the
+skin, liver, kidneys, and respiratory and GI tracts [46, 47]. IL-22
+has been shown to alleviate high-fat diet (HFD)-induced intesti-
+nal epithelial cell stress in mice [48, 49], is important for Paneth
+cell function and induction of HDP expression in different tis-
+sues [47, 50–52], stimulates mucus production of murine and
+human goblet cells [53–55], mediates epithelial barrier fortifica-
+tion [45, 53], and at least in mice promotes intestinal epithelial
+glycan fucosylation to facilitate the growth of mutualistic
+mucus-associated species [56, 57]. Fucose can be used by muco-
+lytic Bacteroides spp. and A. muciniphila as nutrient sources [58–
+60]. In return, these bacteria generate short-chain fatty acid
+(SCFA) metabolites [56, 61] exerting a wide range of beneficial
+effects on host physiology and homeostasis, as reviewed in de-
+tail elsewhere [62]. Interestingly, while A. muciniphila has re-
+ceived much attention as a proposed probiotic [63], emerging
+evidence also links this microbe to inflammatory-prone GI dis-
+eases, including graft vs host disease [64], colitis [65], and small
+intestinal injury [66], pointing towards context-dependent host–
+microbe
+apparent dichotomous host
+responses to the same microbe also highlight why it might be
+more advantageous to administer either lysed bacteria or bacte-
+rial products, as effectively done with A. muciniphila [67, 68],
+Methylococcus capsulatus Bath (McB) [69], and Bifidobacterium bifi-
+dum [70], all of which curb GI inflammation by microbe-specific
+immune imprinting.
+
+interactions. The
+
+Shaping the gut microbiota
+
+Diet
+
+As briefly touched upon above, a prime example of host–mi-
+crobe mutualism is the ability of gut microbes to metabolize in-
+digestible dietary components such as complex fibers, for
+which the host lacks the necessary metabolic enzymes. The
+breakdown of fibers liberates carbon sources for the microor-
+ganisms to feast on and provides the host with key metabolites
+affecting pivotal processes of host physiology [62, 71, 72]. Diet
+composition is therefore one of the most prominent determi-
+nants of gut-microbiota composition and function. Disparate
+diets exert distinct selection pressures due to variances in sub-
+strates available for bacterial metabolism, ultimately selecting for
+bacteria best capable of utilizing the particular diet [73]. Human
+populations consuming a diet rich in fibers, such as the Hadza
+hunter-gatherers from Tanzania or secluded Amerindians of
+South America, have increased overall microbial diversity with
+specific enrichment of Prevotella compared with consumers of a
+Western diet (WD) that is low in fiber but high in proteins and fats
+[74–76]. Enrichment of Prevotella, particularly Prevotella copri, is also
+predictive for Western individuals responding favorably to a high-
+fiber, barley-kernel-based diet
+[77]. Paradoxically, numerous
+reports additionally implicate P. copri in inflammatory and meta-
+bolic disorders [78–80], e.g. by causally enhancing branch chain
+amino acid (BCAA) transport over the gut epithelium, fueling
+mouse and human insulin resistance [78], signifying opportunistic
+behaviorism of this bacterium. Although potential strain differen-
+ces cannot be excluded in the above-mentioned human studies
+(for both A. muciniphila and P. copri), it is worth noting that the pre-
+clinical mouse studies referred to were indeed conducted with
+commercially available strains, matched between the diverging
+reports. Observed dichotomy thus corroborates microbial plastic-
+ity and presents a notable testimony of context dependency that
+
+should be carefully considered when applying live microbes, such
+as probiotic formulas, to human subjects [81]. Supporting this no-
+tion, a fascinating proof-of-concept study of how diet and probiot-
+ics affect the gut microbiota and clinical outcomes of melanoma
+checkpoint-inhibitor immunotherapy convincingly demonstrated
+that while high-fiber diet intake, known to diversify microbial
+community structures, improved treatment efficacy, patients tak-
+ing over-the-counter probiotics conversely exhibited significantly
+poorer clinical outcomes than their none-probiotic-using counter-
+parts [82].
+
+The host-benefitted significance of bacterial breakdown of di-
+etary components becomes evident considering that up to 10% of
+the human daily energy requirement is provided by colonic fer-
+mentation [83]. The major end-products of bacterial fermenta-
+tion are SCFAs, in particular acetate, butyrate, and propionate,
+exhibiting beneficial effects on host health and physiology [62]
+including increased mucus production [84] and tight-junction as-
+sembly [85] of human colonic epithelial cells, B-cell IgA class
+switching through DC interactions in mice [86], and stimulating
+HDP expression in mice and human intestinal epithelial cells
+[87–89] as well as facilitating murine Treg generation through
+epigenetic stabilization of Foxp3 [90–92]. When complex fibers are
+scarce, typical SCFA producers adapt to ferment amino acids
+that escaped digestion in the small intestine. This feature is
+particularly pronounced during WD intake, where excess pro-
+teins are metabolized by gut bacteria to BCAA and branched-
+chain fatty acids (BCFA), associated with insulin resistance and
+colonic inflammation [62, 78, 93, 94]. BCFA production is
+protein-specific. Accordingly, changing the protein source from
+casein to a protein mix resembling a typical WD for human con-
+sumption altered the murine gut microbiota to enhance the
+generation of BCFAs exacerbating diet-induced obesity and he-
+patic insulin resistance through the mTORC1/S6K1 signaling
+pathway [95]. Conversely, substituting the protein source in WDs
+from casein to whole-cell lysates of the methanotrophic soil
+bacterium, McB, reversed WD-induced pathogenic traits in mice
+[69]. The McB diet normalized the composition and functional
+landscape of the murine gut microbiota along with reduced fat
+mass, enhanced colonic mucus production, and improved glu-
+cose regulation, and promoted a consistent upregulation of
+FoxP3þRORctþIL-17þ peripherally induced Tregs (described in
+further detail in the dedicated section below) [69]. Similar to
+changing the protein source, adding fermentable (inulin) but
+not insoluble (cellulose) fibers to HFDs markedly restored intes-
+tinal homeostasis in mice. In short, HFDs diminish both micro-
+biota diversity
+and density, which curbed enterocyte
+proliferation and suppressed HDP secretion, thus enabling bac-
+terial encroachment. Fiber enrichment ameliorated these traits
+in a microbiota-dependent, yet SCFA-independent, manner.
+Specifically, inulin-mediated microbiota-dependent restoration
+of IL-22 expression facilitated enhanced HDP expression, pre-
+venting microbiota encroachment and metabolic inflammation
+[48]. Another hallmark example of diet–microbe–host interactions
+relates to the intake of dietary emulsifiers—a frequently used ad-
+ditive smoothing visual appearances. Dietary emulsifiers have
+been shown to potentiate intestinal disturbances of both mice and
+man, including increased risk of colitis and key features of meta-
+bolic syndrome as well as intensifying the pro-inflammatory po-
+tential of gut microbes. Emulsifier-mediated alterations in the
+murine gut microbiota were both necessary and sufficient to drive
+the above-mentioned pathologies [96]. These pioneering observa-
+tions have recently been confirmed in a randomized human
+controlled-feeding study [97], emphasizing that diet composition
+
+Micromanaging the gut during GI inflammation | 5
+
+powerfully influences the gut-microbiota composition and func-
+tion, and thus the nature of host–microbe interactions.
+
+HDPs
+
+Aside from diet, the host itself has developed several mecha-
+nisms to regulate the magnitude and composition of microor-
+ganisms, populating its epithelial surfaces to maintain whole-
+body homeostasis. The gut microbiota and host immune sys-
+tem constantly crosstalk, where the host’s specific goal is to al-
+low beneficial microorganisms to flourish yet confining them to
+the external environment, i.e. the intestinal lumen and outer
+mucus layer (Figure 1). HDPs, formerly known as antimicrobial
+peptides, are one of the evolutionarily oldest representations of
+innate immunity, found in essentially all branches of the phylo-
+genetic tree of life [40, 98], and are central players in keeping the
+gut microbiota at arm’s length. They are small cationic peptides,
+typically <100 amino acids, and characterized by six highly con-
+served cysteine residues forming three disulfide bonds [99, 100].
+In the gut, synthesis of HDPs is largely, but not exclusively, han-
+dled by Paneth cells at the bottom of the small intestinal crypts
+of Lieberku¨ hn. In humans, Paneth cells are responsible for the
+production and secretion of human a-defensin 5 (HD5) and HD6,
+lysozyme, group 2A phospholipase A2 (PLA2G2A), and the
+C-type lectin Regenerating islet-derived protein 3a (REG3a),
+whereas other intestinal epithelial cells generally produce hu-
+man b-defensin 1 (hBD1) and -2 (hBD2) [99, 101]. HDPs are
+largely kept within the mucus layer due to electrostatic interac-
+tions with mucin glycoconjugates, thus forming a decreasing
+gradient outward with higher concentrations close to the intes-
+tinal epithelium [101, 102]. This gradient protects against invad-
+ing pathogens that are due to the resulting hostile environment
+of the inner mucus layer, while being sufficiently diluted at the
+outer mucus layer to maintain a symbiotic relationship with
+mutualistic bacteria, underscoring the important role of HDPs
+in controlling host–microbe interactions. While some HDPs,
+such as REG3a [103] and lysozyme [104, 105], confer their bacte-
+ricidal properties by disrupting bacterial membrane integrity,
+others interfere with bacterial membrane synthesis [101] or
+even self-assemble into large nanonets to capture and immobi-
+lize microbes, as is the case with HD6 [106]. The host is generally
+protected against the deadly properties of its own HDPs, due to
+the cationic nature of HDPs, resulting in strong electrostatic
+attractions towards the negatively charged bacterial membrane
+and weak attractions towards the less negative eukaryotic host
+cell [107, 108].
+
+The crucial role of Paneth-cell-derived HDPs in keeping mu-
+tualistic microbes in check and in regulating their composition
+is corroborated by studies in transgenic mouse models with ab-
+errant Paneth cell function. Here, the gut-microbiota composi-
+tion, particularly the mucus-associated microbiota, was
+significantly altered compared to wild-type mice [109–111].
+Similarly, both genetic and diet-induced Paneth cell dysfunc-
+tions promote increased inflammatory reactions towards mutu-
+alistic bacteria, enhancing bacterial translocation and mucosal
+inflammation [101, 109, 112, 113]. Further supporting the rele-
+vance of HDPs in maintaining and even re-establishing homeo-
+stasis, oral administration of fungal lysozyme enhances the
+bacterial
+lysis zone near the epithelium in HFD-fed mice,
+thereby shielding the mucosal immune system from microbial
+exposure [114]. Intriguingly, microbial lysis is not exclusively
+beneficial and the phenotypic trait of mammalian lysozyme
+
+6 | S.K. Jensen et al.
+
+activity is vastly influenced by the inflammatory tone and ana-
+tomical compartment. Thus, during relapsing inflammation, as
+seen in inflammatory bowel disease (IBD), Paneth cells emerge
+in the large intestine providing increased HDP production in
+this compartment. Evolutionarily, such a mechanism is likely a
+result of colonic mucus deterioration followed by microbial in-
+vasion instigating a potent HDP response. Yet, as the microbial
+community structure is fundamentally different in the colon
+compared with the small intestine, lysozyme-mediated micro-
+bial lysis in the former might potentiate inflammatory flares. A
+prime example is Ruminococcus gnavus, a prominent member of
+the colonic but not the small intestinal community and there-
+fore not affected by small intestinal Paneth-cell-secreted lyso-
+zyme in a steady state. However, during chronic inflammation,
+ectopic Paneth cell formation in the lower intestine exposes
+R. gnavus to endogenous lysozyme [115]. Rather than protecting
+the host from microbial invasion akin to the role of lysozyme
+in the small intestine [101], this context-dependent lysis of
+R. gnavus liberates intracellular pro-inflammatory molecules,
+thereby aggravating colonic disease activity [116]. This feature
+may be circumvented by using fungal lysozyme belonging to
+the glycoside hydrolase family (GH) 25 instead of the function-
+ally distinct (GH22 family) mammalian lysozyme. Fungal lyso-
+zyme appears capable of leveraging the gut microbiota to dose-
+dependently alleviate experimental colitis. Diminished colitis
+was followed by increased colonic R. gnavus abundances in two
+genotypes, both sexes, and across three geographically and
+inter-continent separated facilities, pointing towards a mark-
+edly different microbiota imprinting ability of GH25 family lyso-
+zymes compared to GH22 family lysozymes [114].
+
+One may wonder how HDPs can be one of the evolutionarily
+oldest and conserved systems of innate immunity yet remain
+highly efficient with few known mechanisms of stable antimi-
+crobial resistance, given the highly adaptive nature of microor-
+ganisms [117, 118]. The answer may lie in the substantially
+complex nature of HDPs. There are currently >2,600 known va-
+rieties of HDPs [119] and this complexity can be further ex-
+panded by HDP fragmentation [120–122]. A low redox potential
+and naturally occurring redox enzymes create a reducing envi-
+ronment in the gut, known to alter the tertiary structure of
+HDPs by opening the disulfide bonds [123–125]. In contrast to
+folded oxidized peptides, such linearized forms of HDPs can be
+cleaved by naturally occurring proteases in the duodenal fluid
+[126] or by bacterial proteases [127]. Cleavage of reduced HDPs
+was previously believed to facilitate antimicrobial inactivation
+[126, 127]. A novel biological concept was therefore fostered
+when recent reports demonstrated how proteases present in
+human duodenal fluid cleaved reduced hBD1 into an active an-
+timicrobial octapeptide [122], as well as HD5, but not HD6, into
+bioactive molecules with an antimicrobial repertoire exceeding
+that of the full-length peptide [120]. Supporting these findings,
+reduced human neutrophil peptide-4 (HNP-4) was similarly
+shown to undergo proteolytic digestion by trypsin (found in
+pancreatic secretions) into active antimicrobial peptide frag-
+ments capable of combating multidrug-resistant bacteria [121].
+HDP fragmentation may therefore represent an evolutionary re-
+finement meant to fine-tune the gut-microbiota composition in
+a changing environment.
+
+Rewiring gastrointestinal immunity by HDPs
+
+Accumulating evidence further repositions HDPs as prominent
+immune regulators [128] both within [129] and outside [130–132]
+the GI tract. A recent study by Liang and colleagues [133]
+
+elegantly demonstrated that non-obese diabetic (NOD) mice
+exhibited diminished abundances of the HDP, cathelicidin-
+related antimicrobial peptide (CRAMP), associating with gut-
+microbiota dysbiosis. Intracolonic supplementation of CRAMP
+rescued colonic microbiota and immune alterations in NOD
+mice, thereby protecting against pancreatic autoimmunity-
+related diabetes [133]. While the complexity and versatile mode
+of action of these fascinating peptides remains under intense
+investigation, much of the current research points towards al-
+tered immune chemotaxis. As an example, hBD2 has repeatedly
+been shown to interact with chemokine receptors CCR2 [134]
+and CCR6 [135], thereby impacting immune cell trafficking.
+Direct binding to CCR2 on in vitro generated DCs further curbed
+TLR-mediated inflammation and lowered the expression of co-
+stimulatory molecules on responding DCs [129], suggesting that
+hBD2 may be used as a novel biological tool to curb DC-primed
+T-cell activation; it could potentially be exploited to re-establish
+tolerance in GI disorders. Another testimony to this potential
+relates to the observation that CCR2 enhances CD25 expression
+on FoxP3þ Tregs, increasing their abundance in mice indepen-
+dently of chemotaxis and CCR2þ myeloid cells (including DCs)
+[136]. It is therefore worth speculating that CCR2 agonists, such
+as hBD2, would be able to promote Treg generation or mainte-
+nance by elevated CD25 expression in FoxP3þ T-cells and simul-
+taneously lower the number of effector T-cells (via diminished
+expression of co-stimulatory molecules on migrating DCs), col-
+lectively favoring tolerogenic immunity.
+
+Instead of competing with endogenous ligands, it was re-
+cently shown that a short linear, basic peptide (proteolytically
+cleaved CCL21, termed C21TP) interacts directly with the N-ter-
+minus of the chemokine receptor CCR7 and substantially
+increases the potency of the two endogenous ligands, CCL19
+and CCL21 [137]. Considering the structure of these peptides, it
+is reasonable to think that short alkaline peptides shield the
+electrostatic charges of CCR7, allowing enhanced docking of
+their agonists. To corroborate this hypothesis and considering
+the structural similarity between C21TP and hBD2, in line with
+the fact that most endogenous HDPs become linearized in a re-
+duced environment as mentioned above, we assessed whether
+the presence or absence of linearized hBD2 would alter the che-
+motactic activity of CCL19 and/or CCL21 against the DC-
+expressed chemokine receptor, CCR7. Indeed, while C21TP uni-
+formly boosts CCL19 and CCL21 potency,
+linearized hBD2
+appeared to exclusively enhance CCL19-mediated chemotaxis
+(Figure 2). Combined, these data suggest that linearized alkaline
+peptides may regulate chemotaxis and migratory pace, adding
+yet another piece to the puzzle on how HDPs may orchestrate
+GI immunity.
+
+HDPs and barrier dysfunction in
+gastrointestinal inflammation
+
+As pointed out above, the maintenance of host–microbe mutu-
+alism is essential for upholding whole-body homeostasis. An
+unbalanced relationship may increase contact between the host
+and its microbial inhabitants, enhancing the risk of bacterial
+translocation and susceptibility to inflammatory GI diseases.
+This is supported by mounting evidence linking susceptibility
+genes of IBD, a general umbrella term for ileal and colonic
+Crohn’s diseases (CD) and ulcerative colitis (UC), that encode
+proteins involved in maintaining a healthy epithelial barrier
+function and host-defense responses towards its microbiota [12,
+138, 139]. The first genetic links associated with CD were those
+
+Micromanaging the gut during GI inflammation | 7
+
+Figure 2. hBD2 treatment curbs gastrointestinal inﬂammation. (A) In steady state, the intestinal microbiota is highly diverse and largely kept in the lumen. The small
+
+intestinal crypts of Lieberku¨ hn are kept sterile by the high concentrations of locally secreted HDPs by crypt-resident Paneth cells. Luminal antigens are sampled
+through several means; local CX3CR1þ macrophages send extensions into the mucus and lumen to sample microbes. Subsequently, sampled antigens are delivered to
+CD103þ DCs, which migrate to the mLNs to present antigen to naive T-cells. In the absence of danger signals, such interaction induces the differentiation of cognate
+T-cells to gut-homing Tregs. Similarly, antigens transported through M-cells in the follicle-associated epithelium covering Peyer’s patches is taken up by local underly-
+
+ing DCs. The DCs subsequently migrate into the T-cell zone of Peyer’s patches and induce differentiation of T-cells to Tregs in a similar manner as in mLNs. (B) During
+
+severe gastrointestinal inﬂammation, as seen in IBD or infectious diseases, the microbial diversity drops drastically and is largely dominated by opportunistic and
+pathogenic species. Paneth cell dysfunction, as can be seen in both Crohn’s disease and during HFD feeding, reduced tight-junction expression and deterioration of the
+
+mucus layer further impairs barrier integrity. Together, this allows encroachment of bacteria and increases the risk for bacterial translocation. The inﬂammatory envi-
+
+ronment with increased microbial-derived antigens and thus PRR stimulation induces the expression of co-stimulatory molecules and cytokine production of DCs, ren-
+
+dering them able to induce non-regulatory effector T-cells. (C) Administration of physiologically relevant amounts of exogenous hBD2 partially restores barrier
+function by promoting epithelial fortiﬁcation, thereby lowering the inﬂammatory burden and ultimately restoring microbial diversity. Due to the low redox environ-
+
+ment of the gut, which is exacerbated during inﬂammation owing to increased generation of nitrate and reactive oxygen species (ROS), HDPs are reduced and cleaved
+
+into novel antimicrobial fragments, expanding the antimicrobial repertoire. HDP—thereby also hBD2—linearization may further affect their potential to boost chemo-
+
+kine signaling (Panel D). Additionally, folded hBD2 have been shown to act through CCR2 and CCR6, expressed on DCs, thus facilitating chemotaxis and further partake
+in immune regulation. Finally, CCR2 stimulation of FoxP3þ Tregs boosts Treg abundances via CD25 upregulation, lending credence to the hypothesis that alternative
+CCR2 ligands, such as exogenously administered hBD2, can be used to as a therapeutic tool to regain tolerance. (D) Linearized hBD2 selectively enhances the activity of
+
+CCL19 over CCL21, both acting through the chemokine receptor CCR7, thereby precision editing immune chemotaxis. Experimentally, we measured CCR7 activity
+through Gai as the ability to inhibit a forskolin-induced increase in intracellular cAMP. CHO cells transfected with a CCR7 plasmid and the cAMP BRET sensor CAMYEL
+were stimulated with various concentrations of chemokines in the presence of C21TP, hBD2 (both 10mM), or phosphate buffered saline. C21TP is a C-terminal fragment
+of CCL21 that boosts the activity of both CCL19 and CCL21 through CCR7 [135]. hBD2 selectively boosts CCL19, not CCL21, signaling virtually identical to C21TP. Created
+
+in BioRender.com. DC, dendritic cell; IBD, inﬂammatory bowel disease; HFD, high-fat diet; mLN, mesenteric lymph node; APCs, antigen presenting cells; ROS, reactive
+
+oxygen species; cAMP, cyclic adenosine monophosphate.
+
+8 | S.K. Jensen et al.
+
+of the nucleotide-binding oligomerization domain 2 (NOD2) re-
+ceptor [140, 141], an intracellular PRR recognizing bacterial pep-
+tidoglycans [141]. NOD2 is expressed by both human and
+murine Paneth cells and plays a crucial role in regulating gut-
+microbiota composition by controlling the expression and se-
+cretion of HDPs [111, 142, 143]. NOD2 gene variants remain the
+strongest known risk factors for development of ileal CD [140,
+141], supporting that impaired Paneth cell function and HDP
+production are highly implicated in at least small intestinal CD
+pathology [144]. These observations indicate a pivotal role for
+Paneth cells and their HDPs in intestinal health and that the col-
+lapse of host defenses, and thus host–microbe mutualism, plays
+an important role in GI inflammatory disorders. This is addi-
+tionally supported by observations that loss-of-function muta-
+tions in the autophagy-related 16-like 1 (ATG16L1) protein,
+another CD-associated risk gene, result in impaired exocytosis
+of secretory granules in Paneth cells [145] and dysregulate IL-22
+signaling, resulting in aggravated inflammatory responses and
+necrosis of intestinal epithelial cells in mice [146].
+
+Although dysbiosis appears to be an integrated, and often
+necessary, part of GI inflammation, it remains debated whether
+gut dysbiosis is causally implicated in these multifactorial pa-
+thologies. Transfer of microbiota from human CD and UC
+patients to germ-free mice reduced abundances of RORctþ Tregs
+compared with transfer from healthy controls [147], demon-
+strating that inflammatory proficient microbes affect host im-
+munity. Still, immunological rewiring depended on the genetic
+susceptibility of the epithelial barrier dysfunction to precipitate
+spontaneous inflammation [147], pointing towards barrier
+defects as a primary cause of IBD. Along these lines, gut bacteria
+have been shown to translocate from the intestinal barrier into
+mLNs, blood, and adipose tissues following induced colitis and
+ileitis [148, 149]. Creeping fat is characterized by the migration
+and subsequent accumulation of mesenteric adipocytes cluster-
+ing around inflamed and fibrotic intestinal tissues observed in
+patients with ileal CD [150] and is suggested to occur as a re-
+sponse to gut-barrier dysfunction and bacterial translocation
+[151], possibly serving as a protective mechanism deployed to
+limit the systemic distribution of potentially harmful microbes
+and associated molecules. This is further supported by a recent
+study demonstrating that bacteria isolated from creeping fat in
+patients with CD were able to translocate to mesenteric adipose
+tissue. Additionally, these bacteria were able to exacerbate coli-
+tis upon transfer to antibiotic-treated mice [152], thus lending
+credence to the hypothesis of creeping fat being a defense
+mechanism confining invading bacteria, thereby limiting sys-
+temic dissemination.
+
+Bacterial translocation as a function of
+diet-induced barrier defects
+
+Bacterial translocation not only occurs in classical IBDs, but
+also in obesity [153, 154], fatty liver disease [155, 156], and
+other metabolic conditions characterized by a leaky gut [11,
+157, 158]. It remains debated whether gut leakiness is primarily
+microbiota-, diet-, or disease-mediated. While gut microbes
+can both translocate and promote barrier breach, these are—to
+the best of our knowledge—often secondary hits caused by
+physiological disturbances, as exemplified above with dietary
+emulsifiers facilitating microbiota invasion [159]. Diet compo-
+sition may also alter the intestinal landscape compromising
+host defenses. Murine WD feeding induces Paneth cell defects
+
+[112] associated with lower HDP secretion. Conversely, thera-
+peutic treatment with physiologically relevant levels of the
+hallmark human Paneth cell HDPs, particularly HD5, mitigated
+insulin resistance and dyslipidemia in diet-induced obese
+mice [160], highlighting the importance of intact host-defense
+mechanisms in maintaining organismal homeostasis. Obesity
+and WD consumption predispose to hyperglycemia—a condi-
+tion that independently drives barrier dysfunction, thereby en-
+hancing colitis susceptibility and risk of enteric infections
+through transcriptional reprogramming of intestinal epithelial
+cells and tight-junction integrity [161]. Although leaky gut is
+associated with chronic low-grade inflammation often seen in
+individuals with metabolic diseases [162], reports of microbial
+signatures in extra-intestinal tissues have often been discred-
+ited as a result of environmental contamination. Challenging
+the previous dogma of sterile internal organs, multiple recent
+studies have used strict contamination-aware approaches to
+substantiate that bacteria and/or bacterial products can indeed
+be found in our internal organs during disease [153, 154] and
+even postprandial in healthy young men [155]. Corroborating
+biological relevance and not merely a tale of wishful thinking,
+bacterial abundance followed the expected anatomical route
+and the composition discriminated between disease states
+[154]. Predominantly members of the opportunistic phylum
+Proteobacteria can be found in adipose tissues [153, 154] and liv-
+ers [154] of individuals with morbid obesity and type 2 diabe-
+tes. Mechanistically, microbiota-derived products from an
+impaired gut barrier can be transported to distal tissues by gut
+microbial DNA-containing extracellular vesicles (mEVs) [163].
+Extracellular vesicles are normally filtered by liver CRIgþ mac-
+rophages and the adoptive transfer of mEVs to CRIg–/– mice po-
+tentiated microbial-derived product transport to distal tissues
+contributing to obesity-associated tissue inflammation and in-
+sulin resistance [163]. As macrophage function is generally
+hampered by obesity [164] and because insulin resistance pro-
+motes hyperglycemia, it is foreseeable that this condition pro-
+vides the perfect storm for initial barrier breach followed by
+bacterial and/or bacterial product translocation. In support,
+Cani and colleagues [165] originally defined metabolic endo-
+toxemia as unusual levels of circulating bacterial endotoxins,
+in particular LPS, fueling obesity and insulin resistance, thus
+initiating a vicious immunometabolic cycle from the gut to ex-
+tra-intestinal tissues. Elevated levels of LPS can be detected in
+the plasma of humans showing features of metabolic syn-
+drome, including obesity, insulin resistance, dyslipidemia, and
+chronic low-grade inflammation [166], which is exacerbated
+upon high fat intake [167]. Still, as LPS is a complex molecule
+found in different acetylation forms affecting molecular struc-
+ture [168] and thereby binding capacity, not all types of LPS are
+metabolically detrimental to the host. Comparing the meta-
+bolic effects of Escherichia coli-derived and Rhodobacter sphaer-
+oides-derived LPS, it was recently demonstrated that only E. coli
+LPS mediated intestinal barrier disruption, dysglycemia, and
+low-grade inflammation of adipose tissue [169]. Interestingly,
+rather than being a biologically neutral LPS form, R. sphaeroides
+LPS counteracted E. coli LPS-induced metabolic dysregulations
+and improved glucose metabolism in obese mice [169]. This
+study is therefore an elegant demonstration of the incredible
+context-dependent nature of host–microbe interactions and a
+testimony to the importance of distinguishing between LPS
+composition and characteristics when discussing metabolic
+endotoxemia.
+
+Micromanaging the gut during GI inflammation | 9
+
+Figure 3. McB feeding rescues WD-induced gastrointestinal malfunctions. Small intestines (left panels) and colons (right panels) from casein- or McB-supplemented
+WD-fed mice. Small intestines from WD-McB-fed mice exhibited increased amounts of FoxP3þRORctþ iTregs and augmented total amounts of IL-17-expressing iTregs
+compared to WD-casein-fed mice. Colons from WD-casein-fed mice (right panels) harbored considerably more Desulfovibrio compared to WD-McB-fed mice, which in-
+stead boosted the abundance of the health-associated Parabacteroides, as well as an overall decrease in the Firmicutes/Bacteroides (F/B) ratio, likewise associated with a
+healthy phenotype. Additionally, the middle segment of the colons from WD-McB-fed mice showed goblet cell hyperplasia and increased mucus production, speciﬁ-
+
+cally of neutral mucins and sulfomucins, compared to WD-casein-fed mice, suggesting improved barrier function in WD-McB-fed mice. Furthermore, the middle seg-
+
+ment of colons from McB-fed mice had increased crypt depth and these colons also had an overall increased length, which is reciprocally associated with
+inﬂammation. Created in BioRender.com. McB, Methylococcus capsulatus Bath; WD, Western diet.
+
+Rewiring gastrointestinal immunity by
+nutritional imprinting
+
+As barrier defects promote unwarranted immunity towards
+otherwise mutualistic and thus harmless microbes, it is key to
+understand how we can regain immunological tolerance, to-
+wards the gut microbiota, but equally importantly toward die-
+tary antigens. Here, acquired immunity, and most notably
+Tregs, is of immense importance. Two major types of FoxP3þ
+thymic-derived FoxP3þRORct–Heliosþ
+Tregs exist: natural
+(nTregs) and peripherally induced FoxP3þRORct–Helios– and
+FoxP3þRORctþHelios– (iTregs) [170]. FoxP3þRORctþ iTregs are
+microbially induced, primarily in the large intestine, and have
+been shown to exhibit superior immune-suppressive capacity
+compared with anTregs, and are therefore essential for pe-
+ripheral immune homeostasis [171, 172]. A key factor in pe-
+ripheral induction of iTregs is RA stimulation upon antigen
+recognition by migratory CD103þ DCs in GALT and mLN [39].
+During this process, other environmental factors might addi-
+tionally enhance the induced FoxP3 phenotype, such as micro-
+bial bile acid metabolites [173], SCFAs [92], MyD88-signaling
+
+[174], TGFb [39], and supportive cytokines [175–177]. While
+nTregs dominate the small intestinal LP, a compartment char-
+acterized by low microbial loads, FoxP3þRORctþ iTregs are
+more abundant in LP of the more densely microbially popu-
+lated large intestine [171]. Interestingly, tolerance was recently
+shown to anatomically compartmentalize, as proximal murine
+mLNs provided a superior tolerogenic environment compared
+with more distal mLNs (ileal and colonic), potentially as a con-
+sequence of the larger RA production in the upper small intes-
+tine due to higher exposure to diet-derived vitamin A [178].
+This elegantly demonstrates alternative ways of compartmen-
+talizing and maintaining intestinal tolerance in diverse intes-
+tinal environments, where proximal draining mLNs are
+generally associated with tolerance induction towards dietary
+antigens and distally draining mLNs towards the microbiota,
+albeit with a skewing towards easier induction of inflamma-
+tion in the latter [176, 178]. Instant transition between tolero-
+genic
+immunity and inflammation may represent an
+evolutionary conserved trait installed to empower the host to
+swiftly mount a protective immune response upon barrier dis-
+ruption in the more densely populated lower intestine.
+
+10 | S.K. Jensen et al.
+
+Specific bacterial components can induce tolerogenic
+responses and mitigate metabolic and GI diseases. This notion
+is supported by findings showing that colonic, but not small in-
+testinal, FoxP3þRORctþ iTregs can be effectively induced by cell
+surface polysaccharides of B. bifidum via TLR2-expressing DCs
+[70]. Likewise, both lysed A. muciniphila and a purified cell-wall
+component of the bacterium can mitigate metabolic dysregula-
+tion, reduce fat mass, and improve dyslipidemia in mice more
+potently than the live bacterium [67]. Additionally, supplemen-
+tation of lysed A. muciniphila in human subjects improved insu-
+lin sensitivity and reduced total plasma cholesterol and fat
+mass compared with placebo controls in a randomized, double-
+blinded human study [68], thus suggesting that microbial com-
+ponents rather than live microbes can be exploited as novel
+tools to curb microbial dysbiosis associated with metabolic and
+inflammatory GI disorders. In agreement with both this notion
+and the previous studies mentioned above, bacterial lysates of
+McB used as a protein source in a high-fat/high-sugar WD in-
+creased the FoxP3þRORctþ iTreg pool in both murine small and
+large intestines [69]. To the best of our knowledge, McB feeding
+represents a unique dietary intervention to promote small in-
+testinal FoxP3þRORctþ iTreg induction and thus holds great po-
+tential as a therapeutic strategy targeting small
+intestinal
+diseases, including ileal CD and food allergies. A large fraction
+of these FoxP3þRORctþ iTregs additionally exhibited increased
+IL-17 production in the large intestine compared with non-McB-
+supplemented WD and low-fat diet (LFD)-fed mice; it is a trait
+that tended to persist in the small intestine [69]. The involve-
+ment and importance of Tregs to maintain intestinal immune
+homeostasis and the apparent importance of IL-17 in maintain-
+ing a healthy microbiota and proper barrier defense could spur
+the idea that augmented IL-17-producing FoxP3þRORctþ iTregs
+represent a safe path to enhanced IL-17 production without ad-
+ditionally increasing the risk of Th17-mediated inflammation-
+associated pathology. Induction of FoxP3þRORytþ Tregs in the
+setting of McB feeding was further associated with a remarkable
+change in the gut microbiota towards that of LFD-fed reference
+mice, despite the McB-fed mice being maintained on a high-fat/
+high-sugar WD [69]. Although most changes reflected those ob-
+served in LFD-fed mice, two genera appeared to be unequally af-
+fected, namely a notable increase in Parabacteroides mirrored by
+an equally dramatic decrease in Desulfovibrio. A reciprocal rela-
+tionship was seen in WD-fed mice (standard protein source).
+WD-McB-induced Parabacteroides bloom depended on adaptive
+immunity. Accordingly, Rag–/– mice exhibited negligible and
+uniform loads of
+Interestingly,
+Parabacteroides distasonis both alleviates obesity and metabolic
+dysfunction [179] as well as chemically induced inflammation
+[180], akin to the effects of McB feeding [69, 181]. Conversely,
+Desulfovibrio is often increased in human colitis [182]. It pro-
+motes obesity in mice following T-cell impairments [183] and
+disrupts barrier function via sulfate-reducing activities [184],
+thereby degrading health promoting sulfomucins [185]. The
+sulfate-reducing activities are further proposed to be directly in-
+volved in the pathogenesis of UC by hydrogen sulfide formation
+[186]. WD-McB feeding significantly abrogated these traits
+(Figure 3).
+
+this genus between diets.
+
+disorders is steadily increasing, hence representing a signifi-
+cant—and escalating—challenge to healthcare systems, and
+negatively impacting life quality across socioeconomic statuses.
+Novel therapies targeting barrier defects are thus urgently
+needed. While oral administration of live microorganisms holds
+the potential for re-establishing GI homeostasis when being tai-
+lored to specific dietary regimens, they also come with a risk of
+potential side effects in subjects either not adhering to provided
+dietary guidelines or with increased susceptibility to specific
+diseases and/or microbiota-dependent treatment modalities.
+An alternative and more controllable path forward may there-
+fore lay in the use of microbially derived products and/or natu-
+rally occurring HDPs being tailored to regain tolerance.
+However, as the barrier defect must be repaired to maintain tol-
+erogenic immunity, we still need innovative strategies to iden-
+tify intestinotrophic drug candidates. Lastly, therapies aiming
+at unarming opportunistic bacteria via precision editing of the
+gut microbiota may be of particular interest enabling the main-
+tenance of mutualistic microbes while exclusively targeting po-
+tential invaders, thereby mitigating bacterial translocation.
+
+Authors’ Contributions
+
+B.A.H.J. conceived of the idea for the manuscript. S.K.J. and S.I.P.
+drafted the first version with input from E.F.B., A.S.J. and G.M.H.
+E.P.B. and A.S.J. performed the experiments for Figure 2D under
+the supervision of G.M.H. S.K.J. and S.I.P. designed the figures.
+B.A.H.J. supervised all parts of the process. All authors read,
+edited, and approved the final manuscript.
+
+Funding
+
+This study was supported by the Novo Nordisk Foundation
+[grant number: NNF17OC0026698].
+
+Conflict of interest
+
+B.A.H.J. is co-inventor of International (PCT) Patent Application
+jointly owned by University of
+(No. PCT/EP2018/071076)
+Copenhagen, Denmark, and Norwegian University of Life
+Sciences, Norway, based on data related to Methylococcus capsu-
+latus Bath. The remaining authors declare no competing
+interests.
+
+References
+
+1. Mowat AM. To respond or not to respond—a personal per-
+spective of intestinal tolerance. Nat Rev Immunol 2018;18:
+405–15.
+
+3.
+
+2. Donaldson GP, Lee SM, Mazmanian SK. Gut biogeography of
+the bacterial microbiota. Nat Rev Microbiol 2016;14:20–32.
+Seedorf H, Grifﬁn NW, Ridaura VK et al. Bacteria from diverse
+habitats colonize and compete in the mouse gut. Cell 2014;
+159:253–66.
+Parker A, Lawson MAEE, Vaux L et al. Host-microbe interac-
+tion in the gastrointestinal tract. Environ Microbiol. 2018;20:
+2337–53.
+
+4.
+
+Concluding remarks
+
+Dietary components and opportunistic members of the gut
+microbiota can both individually and synergistically exploit the
+intestinal
+immune system to overcome GI host defenses
+compromising barrier function. The global prevalence of GI
+
+5. Brown EM, Sadarangani M, Finlay BB. The role of the im-
+mune system in governing host-microbe interactions in the
+intestine. Nat Immunol. 14: 2013; 660–7.
+
+6. Daniel N, Lecuyer E, Chassaing B. Host/microbiota interac-
+tions in health and diseases—time for mucosal microbiol-
+ogy! Mucosal Immunol. 2021;14:1006–16.
+
+7.
+
+Li H, Limenitakis JP, Fuhrer T et al. The outer mucus layer
+hosts a distinct intestinal microbial niche. Nat Commun.
+2015;6:8292.
+
+8. Mazzini E, Massimiliano L, Penna G et al. Oral tolerance can
+be established via gap junction transfer of fed antigens from
+CX3CR1þ macrophages to CD103þ dendritic cells. Immunity
+2014;40:248–61.
+Schulz O, Jaensson E, Persson EK et al. Intestinal CD103þ, but
+not CX3CR1þ, antigen sampling cells migrate in lymph and
+serve classical dendritic cell functions. J Exp Med 2009;206:
+3101–14.
+
+9.
+
+10. McDole JR, Wheeler LW, McDonald KG et al. Goblet cells de-
+liver luminal antigen to CD103þ dendritic cells in the small
+intestine. Nature 2012;483:345–9.
+
+11. Zheng D, Liwinski T, Elinav E. Interaction between micro-
+biota and immunity in health and disease. Cell Res 2020;30:
+492–506.
+
+12. Caruso R, Lo BC, Nunez G. Host-microbiota interactions in in-
+ﬂammatory bowel disease. Nat Rev Immunol 2020;20:411–26.
+13. Parikh K, Antanaviciute A, Fawkner-Corbett D et al. Colonic
+epithelial cell diversity in health and inﬂammatory bowel
+disease. Nature 2019;567:49–55.
+
+14. Barker N. Adult intestinal stem cells: critical drivers of epi-
+thelial homeostasis and regeneration. Nat Rev Mol Cell
+Biol 2013;15:19–33.
+
+15. Ostaff MJ, Stange EF, Wehkamp J. Antimicrobial peptides
+and gut microbiota in homeostasis and pathology. EMBO
+Mol Med 2013;5:1465–83.
+
+17.
+
+16. Mowat AM, Agace WW. Regional specialization within the
+intestinal immune system. Nat Rev Immunol 2014;14:667–85.
+Johansson M. E V, Hansson GC. Immunological aspects of in-
+testinal mucus and mucins. Nat Rev Immunol 2016;16:639–49.
+18. Birchenough GMH, Nystro¨ m EEL, Johansson M. E V, Hansson
+GC. A sentinel goblet cell guards the colonic crypt by trigger-
+ing Nlrp6-dependent Muc2 secretion. https://www.science.
+org (2 March 2022, date last accessed).
+
+Micromanaging the gut during GI inflammation | 11
+
+28. Persson EK, Uronen-Hansson H, Semmrich M et al. IRF4
+transcription-factor-dependent CD103þCD11bþ dendritic
+cells drive mucosal T helper 17 cell differentiation. Immunity
+2013;38:958–69.
+
+29. Bekiaris V, Persson EK, Agace WW. Intestinal dendritic cells
+in the regulation of mucosal immunity. Immunol Rev 2014;
+260:86–101.
+
+30. Girard J-P, Moussion C, Fo¨ rster R. HEVs, lymphatics and ho-
+meostatic immune cell trafﬁcking in lymph nodes. Nat Rev
+Immunol 2012;12:762–73.
+
+31. Luther SA, Tang HL, Hyman PL et al. Coexpression of the che-
+mokines ELC and SLC by T zone stromal cells and deletion of
+the ELC gene in the plt/plt mouse. Proc Natl Acad Sci USA
+2000;97:12694–9.
+
+32. Carlsen HS, Haraldsen G, Brandtzaeg P et al. Disparate lym-
+phoid chemokine expression in mice and men: no evidence
+of CCL21 synthesis by human high endothelial venules.
+Blood 2005;106:444–6.
+
+33. Gunn MD, Tangemann K, Tam C et al. A chemokine
+expressed in lymphoid high endothelial venules promotes
+the adhesion and chemotaxis of naive T lymphocytes. Proc
+Natl Acad Sci USA 1998;95:258–63.
+
+34. Fo¨ rster R, Davalos-Misslitz AC, Rot A. CCR7 and its ligands:
+balancing immunity and tolerance. Nat Rev Immunol 2008;8:
+362–71.
+Iwata M, Hirakiyama A, Eshima Y et al. Retinoic acid
+imprints gut-homing speciﬁcity on T cells. Immunity 2004;21:
+527–38.
+
+35.
+
+36. Hong C-P, Park A, Yang B-G et al. Gut-speciﬁc delivery of T-
+helper 17 cells reduces obesity and insulin resistance in
+mice. Gastroenterology 2017;152:1998–2010.
+Joeris T, Mu¨ ller-Luda K, Agace WW et al. Diversity and func-
+intestinal mononuclear phagocytes. Mucosal
+tions of
+Immunol 2017;10:845–64.
+
+37.
+
+38. Mowat AM. Anatomical basis of tolerance and immunity to
+
+intestinal antigens. Nat Rev Immunol 2003;3:331–41.
+
+19. Elinav E, Strowig T, Kau AL et al. NLRP6 inﬂammasome regu-
+lates colonic microbial ecology and risk for colitis. Cell 2011;
+145:745–57.
+
+39. Mucida D, Park Y, Kim G et al. Reciprocal T H 17 and regula-
+tory T cell differentiation mediated by retinoic acid. Science
+2007;317:256–60.
+
+20. Mamantopoulos M, Ronchi F, Van Hauwermeiren F et al.
+Nlrp6- and ASC-dependent inﬂammasomes do not shape
+the commensal gut microbiota composition. Immunity 2017;
+47:339–48.e4.
+
+21. Pabst O, Mowat AM. Oral tolerance to food protein. Mucosal
+
+Immunol 2012;5:232–9.
+
+22. Zigmond E, Bernshtein B, Friedlander G et al. Macrophage-
+restricted interleukin-10 receptor deﬁciency, but not IL-10
+Immunity
+deﬁciency, causes severe spontaneous colitis.
+2014;40:720–33.
+
+23. Mowat AM, Scott CL, Bain CC. Barrier-tissue macrophages:
+functional adaptation to environmental challenges. Nat Med
+2017;23:1258–70.
+
+24. Brandtzaeg P, Kiyono H, Pabst R et al. Terminology: nomen-
+clature of mucosa-associated lymphoid tissue. Mucosal
+Immunol 2008;1:31–7.
+
+25. Luciani C, Hager FT, Cerovic V et al. Dendritic cell functions
+in the inductive and effector sites of intestinal immunity.
+Mucosal Immunol 2022;15:40–50.
+
+26. Luda KM, Joeris T, Persson EK et al. IRF8 transcription-factor-
+dependent classical dendritic cells are essential for intesti-
+nal T cell homeostasis. Immunity 2016;44:860–74.
+
+27. Mayer JU, Demiri M, Agace WW et al. Different populations
+of CD11bþ dendritic cells drive Th2 responses in the small
+intestine and colon. Nat Commun 2017;8:15820.
+
+40. Hassan M, Kjos M, Nes IF et al. Natural antimicrobial pepti-
+des from bacteria: characteristics and potential applications
+to ﬁght against antibiotic resistance. J Appl Microbiol 2012;
+113:723–36.
+
+42.
+
+41. Fang J, Wang H, Zhou Y et al. Slimy partners: the mucus bar-
+rier and gut microbiome in ulcerative colitis. Exp Mol Med
+2021;53:772–87.
+Jonsson H, Hugerth LW, Sundh J et al. Genome sequence of
+segmented ﬁlamentous bacteria present in the human in-
+testine. Commun Biol 2020;3:485.
+Ivanov II, Atarashi K, Manel N et al. Induction of intestinal Th17
+cells by segmented ﬁlamentous bacteria. Cell 2009;139:485–98.
+
+43.
+
+44. Wang Y, Yin Y, Chen X et al. Induction of intestinal Th17
+cells by Flagellins from segmented ﬁlamentous bacteria.
+Front Immunol 2019;10:2750.
+
+45. Keir M, Yi Y, Lu T et al. The role of IL-22 in intestinal health
+
+and disease. J Exp Med 2020;217:e20192195.
+
+46. Sabat R, Ouyang W, Wolk K. Therapeutic opportunities of
+the IL-22-IL-22R1 system. Nat Rev Drug Discov 2014;13:21–38.
+47. Wolk K, Kunz S, Witte E et al. IL-22 increases the innate im-
+
+munity of tissues. Immunity 2004;21:241–54.
+
+48. Zou J, Chassaing B, Singh V et al. Fiber-mediated nourish-
+ment of gut microbiota protects against diet-induced obe-
+sity by restoring IL-22-mediated colonic health. Cell Host
+Microbe 2018;23:41–53.e4.
+
+12 | S.K. Jensen et al.
+
+49. Gulhane M, Murray L, Lourie R et al. High fat diets induce co-
+lonic epithelial cell stress and inﬂammation that is reversed
+by IL-22. Sci Rep 2016;6:28990.
+
+50. Brand S, Beigel F, Olszak T et al. IL-22 is increased in active
+Crohn’s disease and promotes proinﬂammatory gene ex-
+pression and intestinal epithelial cell migration. Am J Physiol
+Gastrointest Liver Physiol 2006;290:G827–38.
+
+51. Zheng Y, Valdez PA, Danilenko DM et al. Interleukin-22
+mediates early host defense against attaching and effacing
+bacterial pathogens. Nat Med 2008;14:282–9.
+
+52. Gaudino SJ, Beaupre M, Lin X et al. IL-22 receptor signaling in
+Paneth cells is critical for their maturation, microbiota colo-
+nization, Th17-related immune responses, and anti-
+Salmonella immunity. Mucosal Immunol 2021;14:389–401.
+53. Laursen MF, Sakanaka M, von Burg N et al. Biﬁdobacterium
+species associated with breastfeeding produce aromatic lac-
+tic acids in the infant gut. Nat Microbiol 2021;6:1367–82.
+54. Sugimoto K, Ogawa A, Mizoguchi et al. IL-22 ameliorates in-
+testinal inﬂammation in a mouse model of ulcerative colitis.
+J Clin Invest 2008;118:534–44.
+
+55. Turner JE, Stockinger B, Helmby H. IL-22 mediates goblet cell
+hyperplasia and worm expulsion in intestinal helminth in-
+fection. PLoS Pathog 2013;9:e1003698.
+
+56. Pickard JM, Maurice CF, Kinnebrew MA et al. Rapid fucosyla-
+tion of intestinal epithelium sustains host-commensal sym-
+biosis in sickness. Nature 2014;514:638–41.
+
+57. Sonnenberg GF, Monticelli LA, Alenghat T et al. Innate lym-
+phoid cells promote anatomical containment of lymphoid-
+resident commensal bacteria. Science 2012;336:1321–5.
+
+58. Ottman N, Davids M, Suarez-Diez M et al. Genome-scale
+model and omics analysis of metabolic capacities of
+Akkermansia muciniphila reveal a preferential mucin-
+degrading lifestyle. Appl Environ Microbiol 2017;83:e01014–17.
+59. Reichardt N, Duncan SH, Young P et al. Phylogenetic distri-
+bution of three pathways for propionate production within
+the human gut microbiota. ISME J 2014;8:1323–35.
+
+60. Hooper L. V, Xu J, Falk PG et al. A molecular sensor that allows
+a gut commensal to control its nutrient foundation in a com-
+petitive ecosystem. Proc Natl Acad Sci USA 1999;96:9833–8.
+61. Venegas DP, De la Fuente MK, Landskron G et al. Short chain
+fatty acids (SCFAs)-mediated gut epithelial and immune
+regulation and its relevance for inﬂammatory bowel dis-
+eases. Front Immunol 2019;10:277.
+
+62. Koh A, de Vadder F, Kovatcheva-Datchary P et al. From die-
+tary ﬁber to host physiology: short-chain fatty acids as key
+bacterial metabolites. Cell 2016;165:1332–45.
+
+63. Cani PD. Human gut microbiome: hopes, threats and prom-
+
+ises. Gut 2018;67:1716–25.
+
+64. Shono Y, Docampo MD, Peled JU et al. Increased GVHD-
+related mortality with broad-spectrum antibiotic use after
+allogeneic hematopoietic stem cell transplantation in hu-
+man patients and mice. Sci Transl Med 2016;8:339ra71.
+
+65. Seregin SS, Golovchenko N, Schaf B et al. NLRP6 protects
+Il10(–/–) mice from colitis by limiting colonization of
+Akkermansia muciniphila. Cell Rep 2017;19:733–45.
+
+66. Yoshihara T, Oikawa Y, Kato T et al. The protective effect of
+Biﬁdobacterium biﬁdum G9-1 against mucus degradation by
+Akkermansia muciniphila following small intestine injury
+caused by a proton pump inhibitor and aspirin. Gut Microbes
+2020;11:1385–404.
+
+67. Plovier H, Everard A, Druart C et al. A puriﬁed membrane pro-
+tein from Akkermansia muciniphila or the pasteurized bac-
+terium improves metabolism in obese and diabetic mice.
+Nat Med 2017;23:107–13.
+
+68. Depommier C, Everard A, Druart C et al. Supplementation
+with Akkermansia muciniphila in overweight and obese hu-
+man volunteers: a proof-of-concept exploratory study. Nat
+Med 2019;25:1096–103.
+Jensen BAH, Holm JB, Larsen IS et al. Lysates of
+Methylococcus capsulatus Bath induce a lean-like micro-
+biota, intestinal FoxP3(þ)RORgammat(þ)IL-17(þ) Tregs and
+improve metabolism. Nat Commun 2021;12:1093.
+
+69.
+
+70. Verma R, Lee C, Jeun E-J et al. Cell surface polysaccharides of
+Biﬁdobacterium biﬁdum induce the generation of Foxp3 þ
+regulatory T cells. Sci Immunol 2018;3:eaat6975.
+
+71. Wu Y, Wan J, Choe U et al. Interactions between food and gut
+microbiota: impact on human health. Annu Rev Food Sci
+Technol 2019;10:389–408.
+
+72. Gentile CL, Weir TL. The gut microbiota at the intersection
+
+of diet and human health. Science 2018;362:776–80.
+
+73. Ecklu-Mensah G, Gilbert J, Devkota S. Dietary selection pres-
+sures and their impact on the gut microbiome. Cell Mol
+Gastroenterol Hepatol 13: 2022;7–18.
+
+74. Clemente JC, Pehrsson EC, Blaser MJ et al. The microbiome of
+
+uncontacted Amerindians. Sci Adv 2015;1:e1500183.
+
+75. Yatsunenko T, Rey FE, Manary MJ et al. Human gut micro-
+biome viewed across age and geography. Nature 2012;486:
+222–7.
+
+76. Schnorr SL, Candela M, Rampelli S et al. Gut microbiome of
+
+the Hadza hunter-gatherers. Nat Commun 2014;5:3654.
+
+77. Kovatcheva-Datchary P, Nilsson A, Akrami R et al. Dietary
+ﬁber-induced improvement in glucose metabolism is asso-
+ciated with increased abundance of prevotella. Cell Metab
+2015;22:971–82.
+
+78. Pedersen HK, Gudmundsdottir V, Nielsen HB et al.; MetaHIT
+Consortium. Human gut microbes impact host serum
+metabolome and insulin sensitivity. Nature 2016;535:376–81.
+79. Scher JU, Sczesnak A, Longman RS et al. Expansion of intesti-
+nal Prevotella copri correlates with enhanced susceptibility
+to arthritis. Elife 2013;2:e01202.
+
+80. Moreno J. Prevotella copri and the microbial pathogenesis of
+
+rheumatoid arthritis. Reumatol Clin 2015;11:61–3.
+
+81. The Lancet Gastroenterology Hepatology. Probiotics: elixir
+or empty promise? Lancet Gastroenterol Hepatol 2019;4:81.
+82. Spencer CN, McQuade JL, Gopalakrishnan V et al. Dietary ﬁ-
+ber and probiotics inﬂuence the gut microbiome and mela-
+noma immunotherapy response. Science 2021;374:1632–40.
+
+83. Marchesi JR, Adams DH, Fava F et al. The gut microbiota and
+
+84.
+
+host health: a new clinical frontier. Gut 2016;65:330–9.
+Jung TH, Park JH, Jeon WM et al. Butyrate modulates bacterial
+adherence on LS174T human colorectal cells by stimulating
+mucin secretion and MAPK signaling pathway. Nutr Res Pract
+2015;9:343–9.
+
+85. Peng L, Li ZR, Green RS et al. Butyrate enhances the intestinal
+barrier by facilitating tight junction assembly via activation
+of AMP-activated protein kinase in Caco-2 cell monolayers.
+J Nutr 2009;139:1619–25.
+
+86. Wu W, Sun M, Chen F et al. Microbiota metabolite short-
+chain fatty acid acetate promotes intestinal IgA response to
+microbiota which is mediated by GPR43. Mucosal Immunol
+2017;10:946–56.
+
+87. Liu P, Wang Y, Yang G et al. The role of short-chain fatty acids
+in intestinal barrier function, inﬂammation, oxidative stress,
+and colonic carcinogenesis. Pharmacol Res 2021;165:105420.
+88. Schauber J, Svanholm C, Term(cid:2)en S et al. Expression of the
+cathelicidin LL-37 is modulated by short chain fatty acids in
+colonocytes: relevance of signalling pathways. Gut 2003;52:
+735–41.
+
+89. Zhao Y, Chen F, Wu W et al. GPR43 mediates microbiota me-
+tabolite SCFA regulation of antimicrobial peptide expression
+in intestinal epithelial cells via activation of mTOR and
+STAT3. Mucosal Immunol 2018;11:752–62.
+
+90. Smith PM, Howitt MR, Panikov N et al. The microbial metabo-
+lites, short-chain fatty acids, regulate colonic Treg cell
+homeostasis. Science 2013;341:569–73.
+
+91. Furusawa Y, Obata Y, Fukuda S et al. Commensal microbe-
+derived butyrate induces the differentiation of colonic regu-
+latory T cells. Nature 2013;504:446–50.
+
+92. Arpaia N, Campbell C, Fan X et al. Metabolites produced by
+commensal bacteria promote peripheral regulatory T-cell
+generation. Nature 2013;504:451–5.
+
+93. Russell WR, Gratz SW, Duncan SH et al. High-protein,
+reduced-carbohydrate weight-loss diets promote metabolite
+proﬁles likely to be detrimental to colonic health. Am J Clin
+Nutr 2011;93:1062–72.
+
+94. Newgard CB, An J, Bain JR et al. A branched-chain amino
+acid-related metabolic signature that differentiates obese
+and lean humans and contributes to insulin resistance. Cell
+Metab 2009;9:311–26.
+
+95. Choi BS-Y, Daniel N, Houde VP et al. Feeding diversiﬁed pro-
+tein sources exacerbates hepatic insulin resistance via in-
+creased gut microbial branched-chain fatty acids and
+mTORC1 signaling in obese mice. Nat Commun 2021;12:3377.
+96. Chassaing B, Koren O, Goodrich JK et al. Dietary emulsiﬁers
+impact the mouse gut microbiota promoting colitis and
+metabolic syndrome. Nature 2015;519:92–6.
+
+97. Chassaing B, Compher C, Bonhomme B et al. Randomized
+controlled-feeding study of dietary emulsiﬁer carboxymethyl-
+cellulose reveals detrimental impacts on the gut microbiota and
+metabolome. Gastroenterology 2021;162:743–56.
+
+98. Hancock RE, Haney EF, Gill EE. The immunology of host de-
+fence peptides: beyond antimicrobial activity. Nat Rev
+Immunol 2016;16:321–34.
+
+99. Selsted ME, Ouellette AJ. Mammalian defensins in the anti-
+microbial immune response. Nat Immunol 2005;6:551–7.
+100. White SH, Wimley WC, Selsted ME. Structure, function, and
+membrane integration of defensins. Curr Opin Struct Biol
+1995;5:521–7.
+
+101. Bevins CL, Salzman NH. Paneth cells, antimicrobial peptides
+intestinal homeostasis. Nat Rev
+
+and maintenance of
+Microbiol 2011;9:356–68.
+
+102. Antoni L, Nuding S, Weller D et al. Human colonic mucus is a
+reservoir for antimicrobial peptides. J Crohns Colitis 2013;7:
+e652–64.
+
+103. Mukherjee S, Zheng H, Derebe MG et al. Antibacterial mem-
+brane attack by a pore-forming intestinal C-type lectin.
+Nature 2014;505:103–7.
+
+104. Wohlko¨ nig A, Huet J, Looze Y et al. Structural relationships
+in the lysozyme superfamily: signiﬁcant evidence for glyco-
+side hydrolase signature motifs. PLoS One 2010;5:e15388.
+105. Primo ED, Otero LH, Ruiz F et al. The disruptive effect of lyso-
+zyme on the bacterial cell wall explored by an in-silico struc-
+tural outlook. Biochem Mol Biol Educ 2018;46:83–90.
+
+106. Chu H, Pazgier M, Jung G et al. Human alpha-defensin 6 pro-
+motes mucosal innate immunity through self-assembled
+peptide nanonets. Science 2012;337:477–81.
+
+107. Ebenhan T, Gheysens O, Kruger HG et al. Antimicrobial pep-
+tides: their role as infection-selective tracers for molecular
+imaging. Biomed Res Int 2014;2014:867381.
+
+108. Yeaman MR, Yount NY. Mechanisms of antimicrobial pep-
+tide action and resistance. Pharmacol Rev 2003;55:27–55.
+
+Micromanaging the gut during GI inflammation | 13
+
+109. Salzman NH, Bevins CL. Dysbiosis-a consequence of Paneth
+
+cell dysfunction. Semin Immunol 2013;25:334–41.
+
+110. Salzman NH, Hung K, Haribhai D et al. Enteric defensins are
+essential regulators of intestinal microbial ecology. Nat
+Immunol 2010;11:76–82.
+
+111. Petnicki-Ocwieja T, Hrncir T, Liu Y-J et al. Nod2 is required
+for the regulation of commensal microbiota in the intestine.
+Proc Natl Acad Sci USA 2009;106:15813–8.
+
+112. Liu T-C, Kern JT, Jain U et al. Western diet induces Paneth
+cell defects through microbiome alterations and farnesoid X
+receptor and type I interferon activation. Cell Host Microbe
+2021;29:988–1001.e6.
+
+113. Vaishnava S, Behrendt CL, Ismail AS et al. Paneth cells di-
+rectly sense gut commensals and maintain homeostasis at
+the intestinal host-microbial interface. Proc Natl Acad Sci USA
+2008;105:20858–63.
+
+114. Larsen IS, Jensen BAH, Bonazzi E et al. Fungal lysozyme lev-
+erages the gut microbiota to curb DSS-induced colitis. Gut
+Microbes 2021;13:1988836.
+
+115. Zigdon M, Bel S. Lysozyme: a double-edged sword in the in-
+
+testine. Trends Immunol 2020;41:1054–6.
+
+116. Yu S, Balasubramanian I, Laubitz D et al. Paneth cell-derived
+lysozyme deﬁnes the composition of mucolytic microbiota
+and the inﬂammatory tone of the intestine. Immunity 2020;
+53:398–416.e8.
+
+117. Mookherjee N, Anderson MA, Haagsman HP et al.
+Antimicrobial host defence peptides: functions and clinical
+potential. Nat Rev Drug Discov 2020;19:311–32.
+
+118. Andersson DI, Hughes D, Kubicek-Sutherland JZ. Mechanisms
+and consequences of bacterial resistance to antimicrobial pep-
+tides. Drug Resist Updat 2016;26:43–57.
+
+119. Wang G, Li X, Wang Z. APD3: the antimicrobial peptide data-
+base as a tool for research and education. Nucleic Acids Res
+2016;44:D1087–93.
+
+120. Ehmann D, Wendler J, Koeninger L et al. Paneth cell a-defen-
+sins HD-5 and HD-6 display differential degradation into ac-
+tive antimicrobial fragments. Proc Natl Acad Sci USA 2019;
+116:3746–51.
+
+121. Ehmann D, Koeninger L, Wendler J et al. Fragmentation of
+human neutrophil alpha-defensin 4 to combat multidrug re-
+sistant bacteria. Front Microbiol 2020;11:1147.
+
+122. Wendler J, Schroeder BO, Ehmann D et al. Proteolytic degra-
+dation of reduced human beta defensin 1 generates a novel
+antibiotic octapeptide. Sci Rep 2019;9:3640.
+
+123. Zhang Y, Cougnon FB, Wanniarachchi YA et al. Reduction of
+human defensin 5 affords a high-afﬁnity zinc-chelating pep-
+tide. ACS Chem Biol 2013;8:1907–11.
+
+124. Jaeger SU, Schroeder BO, Meyer-Hoffert U et al. Cell-medi-
+ated reduction of human beta-defensin 1: a major role for
+mucosal thioredoxin. Mucosal Immunol 2013;6:1179–90.
+125. Schroeder BO, Wu Z, Nuding S et al. Reduction of disulphide
+bonds unmasks potent antimicrobial activity of human
+beta-defensin 1. Nature469:419–23. 2011;
+
+126. Schroeder BO, Stange EF, Wehkamp J. Waking the wimp:
+redox-modulation activates human beta-defensin 1. Gut
+Microbes 2011;2:262–6.
+
+127. Schmidtchen A, Frick IM, Andersson E et al. Proteinases of
+common pathogenic bacteria degrade and inactivate the
+antibacterial peptide LL-37. Mol Microbiol 2002;46:157–68.
+128. Phan TK, Bevins CL, Hulett MD. Editorial: Advances in the
+immunology of host defense peptide: mechanisms and
+applications of antimicrobial functions and beyond. Front
+Immunol 2021;12:637641.
+
+14 | S.K. Jensen et al.
+
+129. Koeninger L, Armbruster NS, Brinch KS et al. Human b-defensin
+2 mediated immune modulation as treatment for experimental
+colitis. Front Immunol 2020;11:93.
+
+130. Pinkerton JW, Kim RY, Koeninger L et al. Human b-defensin-
+2 suppresses key features of asthma in murine models of al-
+lergic airways disease. Clin Exp Allergy 2021;51:120–31.
+
+131. Borchers NS, Santos-Valente E, Toncheva AA et al. Human
+b-defensin 2 mutations are associated with asthma and at-
+opy in children and its application prevents atopic asthma
+in a mouse model. Front Immunol 2021;12:636061.
+
+132. Ghosh SK, Weinberg A. Ramping up antimicrobial peptides
+against severe acute respiratory syndrome coronavirus-2.
+Front Mol Biosci 2021;8:620806.
+
+133. Liang W, En(cid:2)ee E, Andre-Vallee C et al. Intestinal cathelicidin
+antimicrobial peptide shapes a protective neonatal gut micro-
+biota against pancreatic autoimmunity. Gastroenterology 2021,
+10.1053/j.gastro.2021.12.272.
+
+134. Ro¨ hrl J, Yang D, Oppenheim JJ et al. Human b-defensin 2 and
+3 and their mouse orthologs induce chemotaxis through in-
+teraction with CCR2. J Immunol 2010;184:6688–94.
+
+135. Ro¨ hrl J, Yang D, Oppenheim JJ et al. Speciﬁc binding and
+chemotactic activity of mBD4 and its functional ortho-
+logue hBD2 to CCR6-expressing cells. J Biol Chem 2010;285:
+7028–34.
+
+136. Zhan Y, Wang N, Vasanthakumar A et al. CCR2 enhances
+CD25 expression by FoxP3þ regulatory T cells and regulates
+their abundance independently of chemotaxis and CCR2þ
+myeloid cells. Cell Mol Immunol 2020;17:123–32.
+
+137. Jørgensen AS, Brandum EP, Mikkelsen JM et al. The C-termi-
+nal peptide of CCL21 drastically augments CCL21 activity
+through the dendritic cell lymph node homing receptor
+CCR7 by interaction with the receptor N-terminus. Cell Mol
+Life Sci 2021;78:6963–78.
+
+138. Loddo I, Romano C. Inﬂammatory bowel disease: genetics,
+epigenetics, and pathogenesis. Front Immunol 2015;6:551.
+139. Caruso R, Mathes T, Martens EC et al. A speciﬁc gene-
+microbe interaction drives the development of Crohn’s
+disease-like colitis in mice. Sci Immunol 2019;4:eaaw4341.
+140. Hugot JP, Chamaillard M, Zouali H et al. Association of NOD2
+leucine-rich repeat variants with susceptibility to Crohn’s
+disease. Nature 2001;411:599–603.
+
+141. Ogura Y, Bonen DK, Inohara N et al. A frameshift mutation in
+NOD2 associated with susceptibility to Crohn’s disease.
+Nature 2001;411:603–6.
+
+142. Kobayashi KS, Chamaillard M, Ogura Y et al. Nod2-depen-
+dent regulation of innate and adaptive immunity in the in-
+testinal tract. Science 2005;307:731–4.
+
+143. Ogura Y, Lala S, Xin W et al. Expression of NOD2 in Paneth
+cells: a possible link to Crohn’s ileitis. Gut 2003;52:1591–7.
+144. Wehkamp J, Stange EF. An update review on the Paneth cell
+
+as key to ileal Crohn’s. Front Immunol 2020;11:646.
+
+145. Cadwell K, Liu JY, Brown SL et al. A key role for autophagy
+and the autophagy gene Atg16l1 in mouse and human intes-
+tinal Paneth cells. Nature 2008;456:259–63.
+
+146. Aden K, Tran F, Ito G et al. ATG16L1 orchestrates interleukin-
+22 signaling in the intestinal epithelium via cGAS-STING.
+J Exp Med 2018;215:2868–86.
+
+147. Britton GJ, Contijoch EJ, Mogno I et al. Microbiotas from
+humans with inﬂammatory bowel disease alter the balance
+of Gut Th17 and RORctþ regulatory T cells and exacerbate
+colitis in Mice. Immunity 2019;50:212–24.e4.
+
+148. Zeng MY, Cisalpino D, Varadarajan S et al. Gut microbiota-
+induced immunoglobulin G controls systemic infection by
+symbiotic bacteria and pathogens. Immunity 2016;44:647–58.
+
+149. Peyrin-Biroulet L, Gonzalez F, Dubuquoy L et al. Mesenteric
+fat as a source of C reactive protein and as a target for bacte-
+rial translocation in Crohn’s disease. Gut 2012;61:78–85.
+150. Atreya R, Siegmund B. Location is important: differentia-
+tion between ileal and colonic Crohn’s disease. Nat Rev
+Gastroenterol Hepatol 2021;18:544–58.
+
+151. Ha CWY, Martin A, Sepich-Poore GD et al. Translocation of
+viable gut microbiota to mesenteric adipose drives forma-
+tion of creeping fat in humans. Cell 2020;183:666–83.e17.
+152. He Z, Wu J, Gong J et al. Microbiota in mesenteric adipose tis-
+sue from Crohn’s disease promote colitis in mice. Microbiome
+2021;9:228.
+
+153. Massier L, Chakaroun R, Tabei S et al. Adipose tissue derived
+bacteria are associated with inﬂammation in obesity and
+type 2 diabetes. Gut 2020;69:1796–806.
+
+154. Anheˆ FF, Jensen BAH, Varin TV et al. Type 2 diabetes inﬂuen-
+ces bacterial tissue compartmentalisation in human obe-
+sity. Nature Metabol 2020;2:233–42.
+
+155. Suppli MP, Bagger JI, Lelouvier B et al. Hepatic microbiome in
+healthy lean and obese humans. JHEP Rep 2021;3:100299.
+156. Sookoian S, Salatino A, Casta~no GO et al. Intrahepatic bacte-
+rial metataxonomic signature in non-alcoholic fatty liver
+disease. Gut 2020;69:1483–91.
+
+157. Jensen BAH, Marette A. Microbial translocation in type 2 dia-
+betes: when bacterial invaders overcome host defence in
+human obesity. Gut 2020;69:1724–6.
+
+158. Massier L, Blu¨ her M, Kovacs P et al. Impaired intestinal bar-
+rier and tissue bacteria: pathomechanisms for metabolic
+diseases. Front Endocrinol (Lausanne) 2021;12:616506.
+
+159. Viennois E, Chassaing B. First victim, later aggressor: how
+the intestinal microbiota drives the pro-inﬂammatory
+effects of dietary emulsiﬁers? Gut Microbes 2018;9:289–91.
+160. Larsen IS, Fritzen AM, Carl CS et al. Human Paneth cell
+alpha-defensin-5 treatment
+reverses dyslipidemia and
+improves glucoregulatory capacity in diet-induced obese
+mice. Am J Physiol Endocrinol Metab 2019;317:E42–52.
+
+161. Thaiss CA, Levy M, Grosheva I et al. Hyperglycemia drives in-
+testinal barrier dysfunction and risk for enteric infection.
+Science 2018;359:1376–83.
+
+162. Chakaroun RM, Massier L, Kovacs P. Gut microbiome, intes-
+tinal permeability, and tissue bacteria in metabolic disease:
+perpetrators or bystanders? Nutrients 2020;12:1082.
+
+163. Luo Z, Ji Y, Gao H et al. CRIgþ macrophages prevent gut mi-
+crobial DNA-containing extracellular vesicle-induced tissue
+inﬂammation and insulin resistance. Gastroenterology 2021;
+160:863–74.
+
+164. Boulenouar S, Michelet X, Duquette D et al. Adipose type one
+innate lymphoid cells regulate macrophage homeostasis
+through targeted cytotoxicity. Immunity 2017;46:273–86.
+165. Cani PD, Amar J, Iglesias MA et al. Metabolic endotoxemia
+initiates obesity and insulin resistance. Diabetes 2007;56:
+1761–72.
+
+166. Lassenius MI, Pietila¨ inen KH, Kaartinen K et al.; on behalf of
+the FinnDiane Study Group. Bacterial endotoxin activity in
+human serum is associated with dyslipidemia, insulin resis-
+tance, obesity, and chronic inﬂammation. Diabetes Care
+2011;34:1809–15.
+
+167. Harte AL, Varma MC, Tripathi G et al. High fat intake leads to
+acute postprandial exposure to circulating endotoxin in
+type 2 diabetic subjects. Diabetes Care 2012;35:375–82.
+
+168. Pearson CR, Tindall SN, Herman R et al. Acetylation of surface
+carbohydrates in bacterial pathogens requires coordinated ac-
+tion of a two-domain membrane-bound acyltransferase. mBio
+2020;11:e01364–20.
+
+169. Anheˆ FF, Barra NG, Cavallari JF et al. Metabolic endotoxemia
+is dictated by the type of lipopolysaccharide. Cell Rep 2021;
+36:109691.
+
+170. Ohnmacht C, Park J-H, Cording S et al. Mucosal immunology:
+the microbiota regulates type 2 immunity through RORctþ T
+cells. Science 2015;349:989–93.
+
+171. Yang B-H, Hagemann S, Mamareli P et al. Foxp3þ T cells
+expressing RORct represent a stable regulatory T-cell effec-
+tor lineage with enhanced suppressive capacity during in-
+testinal inﬂammation. Mucosal Immunol 2016;9:444–57.
+172. Seﬁk E, Geva-Zatorsky N, Oh S et al. Mucosal immunology:
+individual intestinal symbionts induce a distinct population
+of RORcþ regulatory T cells. Science 2015;349:993–7.
+
+173. Song X, Sun X, Oh SF et al. Microbial bile acid metabolites
+modulate gut RORcþregulatory T cell homeostasis. Nature
+2020;577:410–5.
+
+174. Wang S, Charbonnier L-M, Noval Rivas M et al. MyD88
+adaptor-dependent microbial sensing by regulatory T cells
+promotes mucosal tolerance and enforces commensalism.
+Immunity 2015;43:289–303.
+
+175. Ohnmacht C, Park JH, Cording S et al. The microbiota regu-
+lates type 2 immunity through RORctþ T cells. Science 2015;
+349:989–93.
+
+176. Agace WW, McCoy KD. Regionalized development and
+maintenance of the intestinal adaptive immune landscape.
+Immunity 2017;46:532–48.
+
+177. Tanoue T, Atarashi K, Honda K. Development and mainte-
+nance of intestinal regulatory T cells. Nat Rev Immunol 2016;
+16:295–309.
+
+178. Esterha´zy D, Canesso MCC, Mesin L et al. Compartmentalized
+gut lymph node drainage dictates adaptive immune responses.
+Nature 2019;569:126–30.
+
+Micromanaging the gut during GI inflammation | 15
+
+179. Wang K, Liao M, Zhou N et al. Parabacteroides distasonis
+alleviates obesity and metabolic dysfunctions via produc-
+tion of succinate and secondary bile acids. Cell Rep 2019;26:
+222–35.e5.
+
+181. Kleiveland CR, Hult
+
+180. Kverka M, Zakostelska Z, Klimesova K et al. Oral administra-
+tion of Parabacteroides distasonis antigens attenuates experi-
+mental murine colitis through modulation of immunity and
+microbiota composition. Clin Exp Immunol 2011;163:250–9.
+LTO,
+
+al. The
+Noncommensal Bacterium Methylococcus capsulatus (Bath)
+ameliorates dextran sulfate (sodium salt)-induced ulcera-
+tive colitis by inﬂuencing mechanisms essential for mainte-
+nance of the colonic barrier function. Appl Environ Microbiol
+2013;79:48–56.
+
+Spetalen S
+
+et
+
+182. Rowan F, Docherty NG, Murphy M et al. Desulfovibrio bacte-
+rial species are increased in ulcerative colitis. Dis Colon
+Rectum 2010;53:1530–6.
+
+183. Petersen C, Bell R, Klag KA et al. T cell-mediated regulation of
+the microbiota protects against obesity. Science 2019;365:
+eaat9351.
+
+184. Heidelberg JF, Seshadri R, Haveman SA et al. The genome
+sequence of the anaerobic, sulfate-reducing bacterium
+Desulfovibrio vulgaris Hildenborough. Nat Biotechnol 2004;
+22:554–9.
+
+185. Lennon G, Balfe A´ , Bambury N et al. Correlations between co-
+inﬂammatory grade and
+lonic crypt mucin chemotype,
+Desulfovibrio species in ulcerative colitis. Colorectal Dis 2014;
+16:O161–9.
+
+186. Dordevi(cid:2)c D, Jan(cid:3)c(cid:2)ıkova´ S, V(cid:2)ıt(cid:3)ezova´ M et al. Hydrogen sulﬁde
+toxicity in the gut environment: meta-analysis of sulfate-
+reducing and lactic acid bacteria in inﬂammatory processes.
+J Adv Res 2021;27:55–69.
+
+

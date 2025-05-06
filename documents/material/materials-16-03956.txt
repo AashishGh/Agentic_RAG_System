@@ -1,0 +1,1122 @@
+Article
+Test and Analysis of High-Permeability Material’s
+Microstructure in Magnetic Shielding Device
+
+Weiyong Zhou 1,2,3
+
+, Jinji Sun 1,2,3,4, Bangcheng Han 1,2,3,4,*, Jianyi Ren 1,* and Yifei Li 5
+
+1
+
+School of Instrumentation and Optoelectronic Engineering, Beihang University, Beijing 100191, China;
+weiyong_zhou@buaa.edu.cn (W.Z.); sunjinji@buaa.edu.cn (J.S.)
+
+2 Hangzhou Innovation Institute, Beihang University, Hangzhou 310051, China
+3 Zhejiang Provincial Key Laboratory of Ultra-Weak Magnetic-Field Space and Applied Technology,
+
+Hangzhou 310051, China
+
+4 Hefei National Laboratory, Hefei 230088, China
+5 Ningbo Institute of Materials Technology and Engineering, Chinese Academy of Sciences,
+
+Ningbo 315201, China; liyifei@nimte.ac.cn
+
+* Correspondence: han-bangcheng@buaa.edu.cn (B.H.); renjianyi@buaa.edu.cn (J.R.)
+
+Abstract: The magnetic shielding device is used to provide an extreme weak magnetic ﬁeld, which
+plays a key role in variety of ﬁelds. Since the high-permeability material constituting the magnetic
+shielding device determines the magnetic shielding performance, it is important to evaluate the
+property of the high-permeability material. In this paper, the relationship between the microstructure
+and the magnetic properties of the high-permeability material is analyzed using minimum free energy
+principle based on magnetic domain theory, and the test method of the material’s microstructure
+including the material composition, the texture and the grain structure to reﬂect the magnetic
+properties is put forward. The test result shows that the grain structure is closely related to the initial
+permeability and the coercivity, which is highly consistent with the theory. As a result, it provides
+a more efﬁcient way to evaluate the property of the high-permeability material. The test method
+proposed in the paper has important signiﬁcance in the high efﬁciency sampling inspection of the
+high-permeability material.
+
+Keywords: high-permeability material; microstructure; magnetic shield device; magnetic property
+
+Citation: Zhou, W.; Sun, J.; Han, B.;
+
+Ren, J.; Li, Y. Test and Analysis of
+
+High-Permeability Material’s
+
+Microstructure in Magnetic Shielding
+
+Device. Materials 2023, 16, 3956.
+
+https://doi.org/10.3390/ma16113956
+
+Academic Editor: Israel Felner
+
+Received: 19 April 2023
+
+Revised: 19 May 2023
+
+Accepted: 22 May 2023
+
+Published: 25 May 2023
+
+Copyright: © 2023 by the authors.
+
+Licensee MDPI, Basel, Switzerland.
+
+This article is an open access article
+
+distributed under
+
+the terms and
+
+conditions of the Creative Commons
+
+Attribution (CC BY) license (https://
+
+creativecommons.org/licenses/by/
+
+4.0/).
+
+1. Introduction
+
+The magnetic shielding device is used to reduce the ambient magnetic interfering
+signals (including the geomagnetic ﬁeld and the ambient magnetic ﬁeld ﬂuctuations)
+signiﬁcantly, by which, an extreme weak, high uniform, small time drifts, and low noisy
+magnetic ﬁeld could be obtained [1–3]. The demands for the magnetic shielding device
+come from a variety of ﬁelds such as fundamental physics [4,5], biomedical science [6,7],
+underground survey [8], space research [9], and industrial applications [10]. One typical
+application of a magnetic shielding device in industry is the high sensitivity magnetic
+detection based on the effect of spin change relaxation free (SERF). With the advantages of
+non-radiation, non-contact, high sensitivity, small volume, and low cost [11,12], the high
+sensitivity magnetic detection brings broad application prospect and high commercial
+value, especially in the areas of magnetocardiogram (MCG) and magnetoencephalography
+(MEG) [13]. The magnetic shielding device plays a key role to ensure the accuracy and
+sensitivity of the magnetic detection.
+
+Magnetic shielding device is usually constructed by the high-permeability materials
+based on the effect of ﬂux shunting [14], and high-conductivity materials based on the
+effect of eddy current [15]. Among them, the property of the high-permeability materials
+(a kind of soft magnetic material) always determines the performance of the magnetic
+shielding device in most applications [16,17]. In order to achieve a better magnetic shielding
+
+Materials 2023, 16, 3956. https://doi.org/10.3390/ma16113956
+
+https://www.mdpi.com/journal/materials
+
+materialsMaterials 2023, 16, 3956
+
+2 of 14
+
+performance, it is important to obtain the complete property of the high-permeability
+material before the construction of the magnetic shielding device.
+
+The most concerned magnetic properties of the high-permeability material related to
+magnetic shielding performance are the initial permeability, the coercivity, the maximal
+permeability, the saturation magnetic induction, and the remanence [18], which could be ob-
+tained by a standard soft magnetic testing instrument such as MATS-3000S. The measuring
+principle by a standard soft magnetic testing instrument is based on the electromagnetic in-
+duction, and the magnetic properties could be obtained by the hysteresis loop [19]. The test
+ring needs to be wound evenly by coils to generate the excitation magnetic ﬁeld and obtain
+induced voltage for the calculation of magnetic induction intensity [20], which brings the
+testing process inconvenience and low efﬁciency. In some recent studies, the probe and
+H-coil without winding were used to obtain the magnetic induction intensity and magnetic
+ﬁeld intensity, respectively [17,21]. However, the structure used to form the closed magnetic
+loop is still complex and the accuracy in low magnetic ﬁeld intensity is hard to maintain.
+According to the research on the soft magnetic materials, the magnetic properties could
+be explained by the magnetic domain theory [22–25]. The minimum free energy principle
+(MFE) [26] based on magnetic domain theory is usually used to calculate the magnetic
+properties of soft magnetic materials, such as the initial permeability and the coercivity.
+The initial permeability and the coercivity could be reﬂected by the anisotropy and the
+magnetostriction (related to the material composition and texture), the grain structure,
+the defect, the stress, etc. [18,27]. The MFE method is already used to calculate the inﬂuence
+of stress and defects, but rarely used to analyze the pinning effect of the grain boundary.
+Since the measurement of the microstructure is more direct and efﬁcient, we are motivated
+to explain the mechanism of microstructure in theory and explore a new test method for
+the high-permeability material focusing on the microstructure.
+
+In this paper, a test method of high-permeability material’s microstructure including
+the material composition, the texture, and the grain structure is proposed, and the rela-
+tionship between the microstructure and the magnetic properties of the high-permeability
+material is analyzed and calculated through the magnetic domain theory, which is veriﬁed
+by the experiment. The main contributions are listed as follows: (1) a novel test method of
+the high-permeability material’s microstructure to reﬂect the high-permeability material’s
+magnetic properties is proposed for the ﬁrst time. (2) MFE based on magnetic domain
+theory to explain the pinning effect of the grain boundary is ﬁrstly introduced to analyze
+the relationship between the microstructure and the magnetic properties. (3) An effective
+formulation of etchant for permalloy corrosion is obtained. (4) Compared with typical
+magnetic testing methods, the proposed method of microstructure to obtain the magnetic
+properties will promote the detection efﬁciency and reduce the detection complexity.
+
+This paper is organized as follows. The theory reﬂecting the relationship between the
+microstructure and the magnetic properties of the high-permeability material is described
+in Section 2. The test of magnetic properties and microstructure of the high-permeability
+material is recorded in Section 3. The discussion of the test results when compared with the
+theory is arranged in Section 4. Through the experiment results, the relationship between
+the microstructure and the magnetic properties is proved to be clear and credible, which
+provides a new approach to evaluate the property of the high permeability material.
+
+2. Theory of Microstructure’s Magnetic Properties
+
+The magnetic domain theory is widely applied to explain the magnetic properties’
+mechanism of the high-permeability material [24,28,29], which follows the minimum free
+energy principle. For a ferromagnet with unit volume, the total free energy FT could be
+described as follows:
+
+FT = FH + Fσ + Fw
+
+(1)
+
+where FH is the external magnetic ﬁeld energy, Fσ is the magnetoelastic energy and Fw
+is the domain wall energy. The most commonly used high-permeability material in the
+magnetic shielding device is the large-grained material such as permalloy, and the grain
+
+Materials 2023, 16, 3956
+
+3 of 14
+
+size D follows the relation D (cid:29) Lex, where Lex =
+A/K1 is the ferromagnetic exchange
+length, A is the exchange energy constant and K1 is the anisotropy constant. The magnetic
+properties of large-grained material could be explained by the domain wall extension
+theory. During the process of domain wall expansion, the change of domain distribution
+follows the minimum free energy principle:
+
+√
+
+δFT = δFH + δFσ + δFw = 0
+
+(2)
+
+Ignoring the change of magnetoelastic energy near the domain wall, the magnetization
+
+equation could be written as:
+
+−δFH = δFw
+
+(3)
+
+For the typical 180° domain wall, the variation of the external magnetic ﬁeld driving
+
+energy δFH and the domain wall energy δFw could be expressed as:
+
+δFH = −µ0 Ms Hcos0◦ − (−µ0 Ms Hcos180◦) = −2µ0 Ms H
+
+δFw =
+
+∂rw
+∂x
+
+(4)
+
+(5)
+
+where µ0 represents the permeability of vacuum, MS is the saturated magnetization and H
+is the external magnetic ﬁeld intensity, rw is the domain wall energy and x is the displace-
+ment of domain wall expansion in one dimension. Then, the displacement equilibrium
+equation for the 180° domain wall could be obtained from Equation (2) as follows:
+
+2µ0 Ms H =
+
+∂rw
+∂x
+
+The differential of the 180° domain wall energy ∂rw
+
+∂x could be expressed as [29]:
+
+∂rw
+∂x
+
+= A(
+
+dφ
+dx
+
+)2 + K1sin2φ, x ∈ (−∞, +∞)
+
+where φ is the rotation angle of the domain and
+
+φ = 2arctan(e
+
+x
+Lex )
+
+(6)
+
+(7)
+
+(8)
+
+The typical parameters to evaluate the magnetic properties of the magnetic shielding
+device include the coercivity and the initial permeability. The coercivity is produced
+when the variation of the domain wall energy exceeds the peak value, which makes the
+magnetization process irreversible. The coercivity in the domain wall extension model Hc0
+from Equation (6) could be expressed as follows:
+
+Hc0 =
+
+1
+2µ0 Ms
+
+(
+
+∂rw
+∂x
+
+)max =
+
+K1
+µ0 Ms
+
+(9)
+
+For material with large grains, the magnetization process is determined by domain wall
+pinning at the grain boundaries, so the coercivity for material with large grains Hc is
+obtained as follows:
+
+Hc = PH
+
+Hc0 = PH
+
+Lex
+D
+
+√
+
+AK1
+µ0 MsD
+
+(10)
+
+where D is the grain size and PH is the correction factor for the domain size and the rotation
+angle of the adjacent magnetic domains.
+
+The initial permeability is related to the magnetic susceptibility of the material. When
+the external magnetic ﬁeld intensity varies δH, domain wall moves a distance of δx. Ac-
+cording to Equation (6), the relationship of ∆H and ∆x in the 180° domain wall could be
+written as:
+
+2µ0 Ms∆H =
+
+|x=x0
+
+∆x
+
+(11)
+
+∂2rw
+∂x2
+
+Materials 2023, 16, 3956
+
+4 of 14
+
+where x0 is the initial position of the domain wall, and the magnetization varies along with
+the domain wall displacement as:
+
+∆M = 2MsS∆x
+
+(12)
+
+where ∆H represents the variation of the magnetization and S is the area of the domain
+wall. Then, the initial susceptibility χi0 could be obtained as:
+
+χi0 =
+
+∆M
+∆H
+
+= 4µ0 M2
+
+s S/(
+
+∂2rw
+∂x2
+
+|x=x0 )
+
+(13)
+
+It is not easy to determine the initial position in a domain, so the average variation rate is
+used as the approximate substitution as follows:
+
+∂2rw
+∂x2
+
+|x=x0 ≈ ((
+
+∂rw
+∂x
+
+)max − 0)/(ld/2) =
+
+4K1
+ld
+
+(14)
+
+where ld is the width of the domain. In the unit volume, the area of domain wall could be
+expressed as S = 1/ld. According to Equation (13), the initial permeability of the domain
+µi0 could be written as:
+
+µi0 ≈ χi0 ≈ µ0 M2
+
+s /K1
+
+(15)
+
+Considering the material with large grains pinning at the grain boundaries, the initial
+
+permeability µi could be obtained as follows:
+
+µi = Pµ
+
+D
+Lex
+
+µi0 = Pµ
+
+µ0 M2
+s D
+√
+AK1
+
+(16)
+
+where Pµ is the correction factor for the domain size and the rotation angle of the adjacent
+magnetic domains.
+
+The relationship between the magnetic properties and the microstructure is established
+according to Equations (10) and (16), where the parameters A, K1, and Ms are related to the
+material composition and the texture, and D is related to the grain structure.
+
+3. Test and Results
+
+There is a clear correlation between the magnetic properties and the microstructure of
+large grains’ material in theory. This section introduces the testing method of the microstruc-
+ture and explores the relation between the magnetic properties and the microstructure
+by experiments. The permalloy used in the magnetic shielding device is chosen as the
+material of the test samples with different annealing processes by different manufacturers.
+The information of the test samples are arranged in Table 1.
+
+Table 1. The information of the test samples.
+
+Sample No.
+
+Sample Brand
+
+Sample State
+
+Manufacturer
+
+Sample 1
+Sample 2
+Sample 3
+Sample 4
+Sample 5
+
+1J85
+1J85
+1J85
+1J85
+Mumetal
+
+unannealed
+annealed *
+annealed *
+annealed *
+annealed *
+
+Shanghai (DaiXin)
+Shanghai (DaiXin)
+Beijing (BeiYe)
+Beijing (BeiYe)
+Germany (VAC)
+
+* Different annealing processes are tried by different manufacturers.
+
+3.1. Magnetic Properties Test
+
+In order to obtain the magnetic properties, the test samples are processed into a circular
+shape to match the standard soft magnetic testing device (MATS-3000S). The measuring
+principle by the standard soft magnetic testing instrument is based on the electromagnetic
+induction, and the magnetic properties could be obtained by the hysteresis loop from
+
+Materials 2023, 16, 3956
+
+5 of 14
+
+the device. The test samples were wound evenly by the excitation coil to generate the
+excitation magnetic ﬁeld and the induction coil to obtain induced voltage for the calculation
+of magnetic induction intensity, which is shown in Figure 1. The test sample, the excitation
+coil, and the induction coil are separated by the insulation ﬁlm to avoid short circuiting.
+During the test, laminations are used to increase the signal strength of the induction coil.
+The test parameters for each sample is arranged in Table 2.
+
+Figure 1. The schematic diagram of the test sample.
+
+Table 2. The test parameters of the test samples for magnetic properties measurement.
+
+Sample No.
+
+Sample 1
+Sample 2
+Sample 3
+Sample 4
+Sample 5
+
+Thickness—
+One Piece
+(mm)
+
+Thickness—
+Laminations
+C (mm)
+
+Outer
+Diameter A
+(mm)
+
+Inner
+Diameter B
+(mm)
+
+Weight (g)
+
+2.5
+1
+1
+2
+0.75
+
+5.07
+2.83
+2.90
+6.24
+6.11
+
+39.98
+40.00
+39.95
+40.04
+28.50
+
+31.90
+32.05
+31.57
+31.98
+19.96
+
+19.6
+10.4
+11.8
+23.8
+16.7
+
+The test results including the initial permeability (µi), the maximum permeability
+(µm), the coercivity (Hc), the remanence (Br), and the saturation magnetic induction (Bs) for
+each test sample are listed in Table 3 and the magnetization processes (B-H curve) for test
+samples in one measurement is are shown in Figure 2.
+
+Table 3. The test results of magnetic properties.
+
+Sample No.
+
+Sample 1
+Sample 2
+Sample 3
+Sample 4
+Sample 5
+
+Initial
+Permeability µi
+(k)
+
+0.134 ± 0.011
+12.130 ± 0.269
+83.395 ± 0.045
+26.675 ± 1.571
+79.505 ± 0.037
+
+Maximum
+Permeability µm
+(k)
+
+0.430 ± 0.008
+43.745 ± 0.829
+108.350 ± 0.367
+59.395 ± 13.615
+124.250 ± 2.572
+
+Saturation
+Magnetic
+Induction Bs (T)
+
+0.314 ± 0.006
+0.536 ± 0.001
+0.775 ± 0.001
+0.741 ± 0.009
+0.809 ± 0.031
+
+Remanence Br (T)
+
+0.182 ± 0.003
+0.264 ±0.002
+0.134 ± 0.010
+0.264 ± 0.048
+0.242 ± 0.008
+
+Coercivity Hc
+(A/m)
+
+203.550 ± 0.531
+2.516 ±0.047
+0.757 ± 0.008
+2.347 ± 0.683
+1.038 ± 0.013
+
+Materials 2023, 16, 3956
+
+6 of 14
+
+Figure 2. B-H curve of the test samples.
+
+3.2. Microstructure Test
+
+To verify the relation between the magnetic properties and the microstructure, the
+measurement of the material composition, the texture, and the grain structure is described in
+this section. The material compositions of samples were analyzed using a scanning electron
+microscope with energy dispersive spectroscopy (NOVA NANO SEM 200). The textures
+of samples were measured by an X-ray diffractomer (XRD-7000, Shimadzu, Kyoto, Japan)
+using CuKα radiation with a voltage of 40 kV and a current of 30 mA. The step size is 0.02°,
+the scanning speed is 2°/min, and the scanning range is 20∼90°. The grain structure is
+observed by a confocal laser scanning microscope(LEXT OLS5100, Olympus, Tokyo, Japan).
+
+3.2.1. Material Composition Test
+
+The compositions of the test samples in Table 1 were tested using the scanning electron
+
+microscope (SEM). The testing procedures of material composition are listed as follows:
+
+•
+
+•
+•
+
+•
+
+Cut the test samples into appropriately sized pieces, then wash and dry the pieces for
+later use;
+Polish the surface of the sample pieces until they are smooth as a mirror;
+Place the test pieces in the SEM and observe them at magniﬁcation of 200 and 1600,
+respectively;
+Take photos in back scattered electron (BSE) mode and secondary electron detect (SED)
+mode in the typical area;
+
+• Obtain the main constituent elements and their proportion using energy dispersive
+
+spectroscopy (EDS) at the detection location.
+
+In the measurement of SEM, the BSE mode was used to obtain the phase distribution
+and the SED mode was used to observe the surface topography. Through the comparison of
+the pictures taken in BSE mode and in SED mode, the phase composition of the test sample
+could be obtained. Figure 3 shows the pictures in BSE mode and SED mode of Sample 1 in
+the same detection scope with magniﬁcation of 1600.
+
+From Figure 3a, it could be seen that there are three types of contrast in Sample 1,
+including light gray, dark gray (red circles), and black (blue circles). From Figure 3b, it
+could be seen that the black contrast represents the surface pits of the sample. So there are
+two phases in Sample 1, which are matrix phase and impurity phase. Then EDS is used to
+analyze the phases by scanning the chosen points, which is shown in Figure 4.
+
+Materials 2023, 16, 3956
+
+7 of 14
+
+Figure 3. Pictures of SEM in the same detection scope with magniﬁcation of 1600 in Sample 1: (a) BSE
+mode. (b) SED mode.
+
+Figure 4. Phase distribution in Sample 1: (a) Pictures taken in BSE mode and the scanning points’
+position. (b) Elemental spectrum.
+
+The element contents of the matrix phase and the impurity phase in Sample 1 are
+arranged in Table 4. It could be seen the main elements of the matrix phase in Sample 1
+include Ni, Fe, and Mo, with the proportion of 80wt%, 15wt%, and 5wt%, respectively.
+Compared with the matrix phase, the impurity phase is clearly mixed with elements
+including C, O, and Si. It is inferred that the impurity phase should be a mixture of Ni/Fe
+carbide and SiO2, and SiO2 may originate from the abrasive in the polishing process. Since
+the relative content of impurity phase is quite low, the inﬂuence of the impurity phase
+could be ignored.
+
+Materials 2023, 16, 3956
+
+8 of 14
+
+Table 4. The element contents of the matrix phase and the impurity phase in Sample 1.
+
+Phase
+
+Ni (wt%)
+
+Fe (wt%) Mo (wt%) Mn (wt%)
+
+Al (wt%)
+
+Si (wt%)
+
+C (wt%)
+
+O (wt%)
+
+Matrix phase
+Impurity phase
+
+78.21
+53.56
+
+14.73
+10.43
+
+5.70
+3.54
+
+0.50
+0.50
+
+0.58
+0.19
+
+0.27
+1.16
+
+0
+26.81
+
+0
+3.81
+
+The BSE pictures of all test samples are shown in Figure 5, and the analyzed com-
+positions for the matrix phase of the samples are arranged in Table 5. It could be seen
+that the element type and content of each sample is essentially same except Sample 2,
+which contains a lot of Nb. Since Sample 2 and Sample 1 were provided by the same
+manufacturer, among which Sample 1 contains little Nb, the element of Nb may come from
+the annealing process. Despite this, the compositions of all samples are still similar, so the
+material composition is not the main reason on the difference in magnetic properties of the
+test samples.
+
+Figure 5. Pictures by SEM in BSE mode of all samples: (a) Sample 1. (b) Sample 2. (c) Sample 3.
+(d) Sample 4. (e) Sample 5.
+
+Table 5. The element contents of the matrix phase in each test sample.
+
+Samp No.
+
+Ni (wt%)
+
+Fe (wt%)
+
+Mo (wt%)
+
+Mn (wt%)
+
+Al (wt%)
+
+Si (wt%)
+
+Nb (wt%)
+
+Sample 1
+Sample 2
+Sample 3
+Sample 4
+Sample 5
+
+78.21
+78.14
+78.89
+78.39
+78.34
+
+14.73
+11.02
+14.58
+14.34
+15.91
+
+5.70
+2.82
+5.60
+5.67
+4.16
+
+0.50
+0.69
+0.46
+0.53
+0.64
+
+0.58
+0.69
+0.23
+0.61
+0.46
+
+0.27
+0.52
+0.24
+0.46
+0.48
+
+0
+6.12
+0
+0
+0
+
+3.2.2. Texture Test
+
+The testing procedure of the texture by the X-ray diffractomer (XRD) is listed as follows:
+
+•
+
+Cut the test samples into appropriately sized pieces;
+
+Materials 2023, 16, 3956
+
+9 of 14
+
+•
+
+•
+
+•
+
+Remove surface impurities of the sample pieces through polishing until the surface
+appears to be metallic luster;
+Fix the sample pieces using rubber putty as the sample holder and place the samples
+in XRD for detection;
+Analyze the XRD data and obtain the textures of the samples.
+
+The normalized test results of all samples are arranged in Figure 6.
+
+Figure 6. The test results of XRD.
+
+It could be seen that all samples show high-intensity peaks in texture orientation (111),
+(200), and (220), which are consistent with the standard powder diffraction ﬁle (PDF) card of
+permalloy (No. 65-3244). Therefore, the samples by different manufacturers show similarity
+in texture. However, from Figure 6, it could be seen that there are some intensity peaks not
+containing in PDF card No. 65-3244 which are marked with diamond symbol. Comparing
+with the related PDF card, the intensity peaks marked with white diamond symbol came
+from the sample holder (calcium carbonate, PDF card No. 88-1807). The intensity peaks
+marked with black diamond symbol came from the impurities unable to ﬁnd corresponding
+PDF card, which might be the sosoloid of Fe and Mo or Ni and Mo. Considering that the
+textures of all samples are similar, the texture contributes little on the difference in magnetic
+properties of the test samples.
+
+3.2.3. Grain Structure Test
+
+The testing procedures of the grain structure by the confocal laser scanning microscope
+
+(CLSM) are listed as follows:
+
+Cut the test samples into appropriately sized pieces;
+Polish the surface of the sample pieces;
+
+•
+•
+• Make chemical corrosion on samples’ surface to present grain morphology;
+• Observe the grain morphology of each sample and calculate the size of grain.
+
+Based on corrosion experience of steel materials and high-temperature alloy materials [30,31],
+three kinds of etchant were prepared for corrosion testing including 4% nitric acid alco-
+hol solution, 4:10:20 copper sulfate/hydrochloric acid/water solution, and 1.8:10:20 iron
+chloride/hydrochloric acid/water solution.
+
+A 4% nitric acid alcohol solution is usually used in the metallographic corrosion of
+steel materials. During the test, the permalloy was soaked in the 4% nitric acid alcohol
+solution for 5 min; there were no obvious signs of corrosion on the permalloy’s surface,
+which shows that the corrosion solution could not corrode the permalloy.
+
+Materials 2023, 16, 3956
+
+10 of 14
+
+A 4:10:20 copper sulfate/hydrochloric acid/water solution is usually used in Ni-base
+superalloy. During the test, it was found that the 4:10:20 copper sulfate/hydrochloric
+acid/water solution was easy to form an oxide ﬁlm on the surface of permalloy, which
+made it hard to distinguishing the grain structure, as shown in Figure 7.
+
+Figure 7. The SEM picture of permalloy surface corroded by 4:10:20 copper sulfate/hydrochloric
+acid/water solution: (a) magniﬁcation of 200. (b) magniﬁcation of 1600.
+
+A 1.8:10:20 iron chloride/hydrochloric acid/water solution is another etchant for
+Ni-base alloy. During the test, the grain structure of permalloy was clearly presented after
+corrosion for about 1.5 min. So the 1.8:10:20 iron chloride/hydrochloric acid/water solution
+was chosen as the etchant for the test samples. The grain structure of the test samples after
+corrosion are observed by CLSM, which are shown in Figure 8.
+
+It could be seen that the grain size of the test samples varies greatly, for the samples
+came from different manufacturers with different annealing processes. The grain size of
+each sample was measured by the intersection point method according to the measurement
+standard GB/T 6394-2017 [32].
+
+The procedures are listed as follows:
+
+•
+•
+
+Prepare the representative picture taken by CLSM for grain size calculation;
+Draw three circles with Radius R1, R2, and R3 on the picture (the biggest circle should
+be as large as possible within the scope of the picture);
+Calculate the intersection points’ number of the grains and the circles Ni;
+
+•
+• Obtain the average grain size L according to the equation below:
+
+L =
+
+L
+M · Ni
+
+(17)
+
+where L is the sum of circumference of the three circles and M is the magniﬁcation.
+
+The grain size of each sample is arranged in Table 6 and the relation between the grain
+size and the magnetic properties from the test results is shown in Figure 9. The test result
+shows that the grain size is closely related to the initial permeability and the coercivity,
+which is consistent with the theory.
+
+Materials 2023, 16, 3956
+
+11 of 14
+
+Figure 8. The grain structure of the test samples after corrosion by CLSM at magniﬁcation of 10:
+(a) Sample 1. (b) Sample 2. (c) Sample 3. (d) Sample 4. (e) Sample 5.
+
+Figure 9. The test results of the grain size and the magnetic properties: (a) Grain size and initial
+permeability. (b) Grain size and coercivity. (c) Grain size and saturation magnetic induction. (d) Grain
+size and maximum permeability. (e) Grain size and remanence.
+
+Materials 2023, 16, 3956
+
+12 of 14
+
+Table 6. The grain size of the test samples.
+
+Sample No.
+
+Sample 1
+Sample 2
+Sample 3
+Sample 4
+Sample 5
+
+Grain Size (µm)
+
+26.2
+132.4
+618.4
+141.6
+437.7
+
+4. Discussion
+
+The test method of permalloy including the material composition, the texture, and the
+grain structure is proposed are described in the previous section of this paper. According to
+the test result of different samples, the grain structures are closely related to the magnetic
+properties. The theory shows that the initial permeability is proportional to the grain size
+(µi∼D) and the coercivity is inversely proportional to the grain size (Hc∼1/D) according to
+Equations (10) and (16). To explore the relation between the theory and the experiments,
+the D ﬁtting curve and 1/D ﬁtting curve are introduced for comparison, which are shown
+in Figure 10. Considering the saturation magnetic induction for each sample is different,
+which is proportional to the saturated magnetization (Bs∼Ms), the saturated magnetization
+correction for the ﬁtting curve is also drawn in Figure 10.
+
+Figure 10. The comparison the test results, the ﬁtting curve and the saturated magnetization correction
+for the ﬁtting curve: (a) Grain size and initial permeability. (b) Grain size and coercivity.
+
+It could be seen that the ﬁtting curve could clearly describe the variation trend of the
+grain size with the initial permeability and the coercivity from test results, which proves
+the consistency between theory and experiment. Meanwhile, after saturated magnetization
+correction, the ﬁtting points are closer to the test data, which veriﬁes the correctness of
+Equations (10) and (16). Other magnetic properties such as the saturation magnetic induc-
+tion, the maximum permeability and the remanence are related to the inherent attributes of
+the material, which are comprehensive and hard to observe. So the change patterns of the
+other magnetic properties are difﬁcult to obtain, which are not discussed in the manuscript.
+Since the initial permeability and the coercivity could directly reﬂect the performance
+of the permalloy, which could be observed directly from the grain size, the method of
+evaluating the property of the high-permeability material has been broadened. Meanwhile,
+the procedure of polishing and chemical corrosion could be easily completed by automated
+devices, which brings the promotion of the efﬁciency comparing with the soft magnetic
+testing instruments.
+
+5. Conclusions
+
+This paper proposes a novel test method of high-permeability material’s microstruc-
+ture including the material composition, the texture and the grain structure to reﬂect
+
+Materials 2023, 16, 3956
+
+13 of 14
+
+the high-permeability material’s magnetic properties. The relationship between the mi-
+crostructure and the magnetic properties of the high-permeability material is derived and
+calculated through the magnetic domain theory using MFE to explain the pinning effect for
+the ﬁrst time. Through the experiment, the relationship between the microstructure and the
+magnetic properties is proved to be clear and credible, which provides a new approach of
+evaluating the property of the high-permeability material. Compared with typical magnetic
+testing methods, the proposed method of microstructure to obtain the magnetic proper-
+ties will promote the detection efﬁciency and reduce the detection complexity in some
+detection cases. It has important signiﬁcance in the high efﬁciency sampling inspection for
+industrial applications.
+
+Author Contributions: Conceptualization, W.Z. and B.H.; methodology, W.Z. and J.S.; software, W.Z.;
+validation, W.Z. and Y.L.; formal analysis, W.Z. and Y.L.; investigation, W.Z. and J.R.; resources, B.H.
+and J.S.; data curation, W.Z. and J.R.; writing—original draft preparation, W.Z.; writing—review and
+editing, J.S. and J.R.; visualization, W.Z.; supervision, B.H.; project administration, B.H. All authors
+have read and agreed to the published version of the manuscript.
+
+Funding: This project is supported by National Natural Science Foundation of China (Grant No.
+51925501) and Innovation Program for Quantum Science and Technology (Grant No. 2021ZD0300501).
+
+Institutional Review Board Statement: Not applicable.
+
+Informed Consent Statement: Not applicable.
+
+Data Availability Statement: Not applicable.
+
+Conﬂicts of Interest: The authors declare no conﬂict of interest.
+
+References
+
+1.
+
+2.
+
+3.
+
+4.
+
+Pan, D.; Li, J.; Jin, C.; Liu, T.; Lin, S.; Li, L. A New Calibration Method for Triaxial Fluxgate Magnetometer Based on Magnetic
+Shielding Room. IEEE Trans. Ind. Electron. 2020, 67, 4183–4192. [CrossRef]
+Sun, Z.; Fierlinger, P.; Han, J.; Li, L.; Liu, T.; Schnabel, A.; Stuiber, S.; Voigt, J. Limits of Low Magnetic Field Environments in
+Magnetic Shields. IEEE Trans. Ind. Electron. 2021, 68, 5385–5395. [CrossRef]
+Liu, Y.; Gao, H.; Ma, L.; Quan, J.; Fan, W.; Xu, X.; Fu, Y.; Duan, L.; Quan, W. Study on the Magnetic Noise Characteristics of
+Amorphous and Nanocrystalline Inner Magnetic Shield Layers of SERF Co-Magnetometer. Materials 2022, 15, 8267. [CrossRef]
+[PubMed]
+Sakamoto, Y.; Bidinosti, C.P.; Ichikawa, Y.; Sato, T.; Ohtomo, Y.; Kojima, S.; Funayama, C.; Suzuki, T.; Tsuchiya, M.;
+Furukawa, T.; et al. Development of high-homogeneity magnetic ﬁeld coil for Xe-129 EDM experiment. Hyperﬁne Interact. 2015,
+231, 141–146. [CrossRef]
+
+5. Moric, I.; Laurent, P.; Chatard, P.; de Graeve, C.M.; Thomin, S.; Christophe, V.; Grosjean, O. Magnetic shielding of the cold atom
+
+6.
+
+space clock PHARAO. Acta Astronaut. 2014, 102, 287–294. [CrossRef]
+He, K.; Wan, S.; Sheng, J.; Liu, D.; Wang, C.; Li, D.; Qin, L.; Luo, S.; Qin, J.; Gao, J.H. A high-performance compact magnetic shield
+for optically pumped magnetometer-based magnetoencephalography. Rev. Sci. Instrum. 2019, 90, 064102. [CrossRef]
+Baillet, S. Magnetoencephalography for brain electrophysiology and imaging. Nat. Neurosci. 2017, 20, 327–339. [CrossRef]
+7.
+8. Walker, T.G.; Larsen, M.S. Spin-Exchange-Pumped NMR Gyros. In Advances in Atomic, Molecular, and Optical Physics; Arimondo,
+
+E., Lin, C., Yelin, S., Eds.; Elsevier: Amsterdam, The Netherlands, 2016; Volume 65, pp. 373–401. [CrossRef]
+
+9. Nikolopoulos, C.D. Electromagnetic Compatibility for Space Systems Design; IGI Global: Hershey, PA, USA, 2018. [CrossRef]
+10. Cheng, Y.; Luo, Y.; Shen, R.; Kong, D.; Zhou, W. Testing and Analysis Method of Low Remanence Materials for Magnetic
+
+11.
+
+Shielding Device. Materials 2023, 16, 681. [CrossRef]
+Fang, X.; Ma, D.; Sun, B.; Xu, X.; Quan, W.; Xiao, Z.; Zhai, Y. A High-Performance Magnetic Shield with MnZn Ferrite and
+Mu-Metal Film Combination for Atomic Sensors. Materials 2022, 15, 6680. [CrossRef]
+
+12. Ma, D.; Fang, X.; Lu, J.; Wang, K.; Sun, B.; Gao, Y.; Xu, X.; Han, B. Analysis and Measurement of Differential-Mode Magnetic
+
+Noise in Mn-Zn Soft Ferrite Shield for Ultra-Sensitive Sensors. Materials 2022, 15, 8704. [CrossRef]
+
+13. Pizzo, F.; Roehri, N.; Villalon, S.M.; Trebuchon, A.; Chen, S.; Lagarde, S.; Carron, R.; Gavaret, M.; Giusiano, B.; McGonigal, A.; et al.
+Deep brain activities can be detected with magnetoencephalography. Nat. Commun. 2019, 10, 971; Erratum in Nat. Commun. 2021,
+12, 2566. [CrossRef]
+
+14. Kvitkovic, J.; Patel, S.; Pamidi, S. Magnetic Shielding Characteristics of Hybrid High-Temperature Superconductor/Ferromagnetic
+
+Material Multilayer Shields. IEEE Trans. Appl. Supercond. 2017, 27, 4700705. [CrossRef]
+
+15. Ates, K.; Carlak, H.F.; Ozen, S. Dosimetry analysis of the magnetic ﬁeld of underground power cables and magnetic ﬁeld
+
+mitigation using an electromagnetic shielding technique. Int. J. Occup. Saf. Ergon. 2022, 28, 1672–1682. [CrossRef]
+
+Materials 2023, 16, 3956
+
+14 of 14
+
+16.
+
+17.
+
+Satpute, N.; Dhoka, P.; Iwaniec, M.; Jabade, S.; Karande, P. Manufacturing of Pure Iron by Cold Rolling and Investigation for
+Application in Magnetic Flux Shielding. Materials 2022, 15, 2630. [CrossRef]
+Shi, M.; Zhang, X.; Yang, J.; Yuan, S.; Wang, L. An Optimized Measurement Method for Magnetic Properties of Permalloy Sheet
+Under Demagnetization. IEEE Trans. Instrum. Meas. 2022, 71, 6003509. [CrossRef]
+
+18. Ghosh, N.C.; Das, H.N.; Gafur, M.A.; Hossain, A.K.M.A. Formation and magnetic properties of nanocrystalline 78.5-permalloy
+
+19.
+
+20.
+
+by mechanical alloying. Procedia Eng. 2014, 90, 136–139. [CrossRef]
+Sakakibara, M.; Uehara, G.; Adachi, Y. Prediction of Cylindrical Magnetic Shielding Performance by Considering the Magnetic
+Field Strength Inside the Material. IEEE Trans. Magn. 2022, 58, 6500404. [CrossRef]
+Fathabad, S.M.; Shahri, F. BH hysteresis measurement system for thin soft magnetic materials. Measurement 2021, 172, 108896.
+[CrossRef]
+
+21. De La Barriere, O.; Ragusa, C.; Khan, M.; Appino, C.; Fiorillo, F.; Mazaleyrat, F. A Simple Compensation Method for the Accurate
+
+Measurement of Magnetic Losses With a Single Strip Tester. IEEE Trans. Magn. 2016, 52, 2001204. [CrossRef]
+
+22. Cheng, R.; Rosenberg, A.; McIlroy, D.N.; Holman, Z.; Zhang, D.; Kranov, Y. The domain formation in Fe/Ni/Fe nanoscale
+
+magnetic antidot arrays. J. Appl. Phys. 2012, 111, 063902. [CrossRef]
+
+23. Zhang, Y.; Ren, Z.; Fu, Y.; Yuan, X.; Zhai, Y.; Huang, H.; Zhai, H. An investigation on the behavior of ﬁne-grained magnetite
+
+particles as a function of size and surface modiﬁcation. J. Phys. Chem. Solids 2009, 70, 505–509. [CrossRef]
+24. Herzer, G. Grain size dependence of coercivity and permeability in nanocrystalline ferromagnets.
+
+IEEE Trans. Magn.
+
+1990, 26, 1397–1402. [CrossRef]
+
+25. Herzer, G. Soft magnetic nanocrystalline materials. Scr. Metall. Et Mater. 1995, 33, 1741–1756. [CrossRef]
+26.
+
+Schryer, N.L.; Walker, L.R. The motion of 180° domain walls in uniform dc magnetic ﬁelds. J. Appl. Phys. 1974, 45, 5406–5421.
+[CrossRef]
+Sablik, M.J.; Burkhardt, G.L.; Kwun, H.; Jiles, D.C. A model for the effect of stress on the low-frequency harmonic content of the
+magnetic induction in ferromagnetic materials. J. Appl. Phys. 1988, 63, 3930–3932. [CrossRef]
+
+27.
+
+28. Perkins, R.S.; Bernasconi, J.; Wiesmann, H.J. Magnetic properties of Sm(Co,Cu) alloys. II. Coercivity mechanism. J. Appl. Phys.
+
+1976, 47, 2679–2687. [CrossRef]
+
+29. Tebble, R.S.; Craik, D.J. Magnetic Materials; Wiley-Interscience: Hoboken, NJ, USA, 1969.
+30. Li, Y.; Shang, X.; Zhai, M.; Yu, L.; Wang, L.; Zhao, S. Surface characteristics and microstructure evolution of a nickel-base single
+
+crystal superalloy treated by ultrasonic shot peening. J. Alloys Compd. 2022, 919, 165761. [CrossRef]
+
+31. Wu, J.; Jiang, X.; Wang, Y.; Dong, J.; Lou, L. Effects of Ta on microstructural stability and mechanical properties of hot corrosion
+resistant Ni-based single crystal superalloys during long-term thermal exposure. Mater. Sci. Eng. A 2021, 806, 140829. [CrossRef]
+32. GBT 6394-2017; Determination of Estimating the Average Grain Size of Metal. National Standard of the People’s Republic of
+
+China: Beijing, China, 2017.
+
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual
+author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to
+people or property resulting from any ideas, methods, instructions or products referred to in the content.
+
+

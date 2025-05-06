@@ -1,0 +1,1736 @@
+Contents lists available at ScienceDirect 
+
+Microbiological Research 
+
+journal homepage: www.elsevier.com/locate/micres 
+
+Deciphering plant-microbe crosstalk through proteomics studies 
+
+Akansha Jain a, Harikesh Bahadur Singh b, Sampa Das a,* 
+a Division of Plant Biology, Bose Institute Centenary Campus, P 1/12, CIT Scheme, VII-M, Kankurgachi, Kolkata, 700054, West Bengal, India 
+b Department of Mycology and Plant Pathology, Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, 221005, India   
+
+A R T I C L E  I N F O    
+
+A B S T R A C T    
+
+Keywords: 
+Beneficial microbes 
+2D gel electrophoresis 
+Plant defense 
+Plant-microbe interaction 
+Proteome 
+
+Proteomic  approaches  are  being  used  to  elucidate  a  better  discretion  of  interactions  occurring  between  host, 
+pathogen, and/or beneficial microorganisms at the molecular level. Application of proteomic techniques, unravel 
+pathogenicity, stress-related, and antioxidant proteins expressed amid plant-microbe interactions and good in-
+formation have been generated. It is being perceived that a fine regulation of protein expression takes place for 
+effective  pathogen  recognition,  induction  of  resistance,  and  maintenance  of  host  integrity.  However,  our 
+knowledge of molecular plant-microbe interactions is still incomplete and inconsequential. This review aims to 
+provide insight into numerous ways used for proteomic investigation including peptide/protein identification, 
+separation, and quantification during host defense response. Here, we highlight the current progress in prote-
+omics  of  defense  responses  elicited  by  bacterial,  fungal,  and  viral  pathogens  in  plants  along  with  which  the 
+proteome level changes induced by beneficial microorganisms are also discussed.   
+
+1. Introduction 
+
+Biotic factors influence plant growth, reproduction, and yield. Plants 
+are surrounded by a large number of microorganisms, some are bene-
+ficial for them while others cause diseases. Phytopathogens cause a large 
+number  of  serious  diseases  and  huge  yield  losses  in  crops.  Plants  are 
+somewhat equipped with a broad range of defense mechanisms either at 
+the  constitutive  level  or  induced  upon  pathogenic  contact  or  even 
+modulated  by  beneficial  rhizospheric  or  endophytic  microbes  (Jain 
+et al., 2012). The study of host plants interacting with these pathogenic 
+or  beneficial  microorganisms  has  experienced  potential  advancement 
+due to the development of omics techniques. The advent of the microbe 
+in close contact with plants reprogram plants’ defense response and here 
+the  importance  of  proteins  in  the  plant-microbe  interaction  becomes 
+pivotal because: (1) they maintain cellular homeostasis 2). They are key 
+regulators of signaling networks and cellular processes. Plant immune 
+response is a function of composite networks of proteins with diverse 
+roles in executing crosstalk between signals and other proteins. 
+
+Plants  exhibit  a  variety  of  responses  against  biotic  stresses  that 
+enable them to escape or  survive under adverse conditions.  Plant de-
+fense  mechanism  involves  perception,  recognition  of  pathogen  and  a 
+large  number  of  signaling  events  in  response  to  the  upcoming  patho-
+genic ingress (Fig. 1). These response pathways need to be quick and 
+specific  in  order  to  endure  with  the  damage  generated  due  to  stress. 
+
+Perception of the pathogens is linked to sensing of pathogen-associated 
+molecular  patterns  (PAMPs),  viz.,  lipo-oligosaccharides  and  chitin  by 
+pattern recognition receptors (PRRs), is the first step in plant’s innate 
+immune  response  (Jones  and  Dangl,  2006).  The  perception  of  PAMP 
+leads to the establishment of PAMP- triggered immunity (PTI) (Boller 
+and  Felix,  2009).  Successful  phytopathogens  can  suppress  PTI  by 
+releasing  effector  proteins  that  suppress  PTI  reaction,  resulting  in 
+effector-triggered  susceptibility  (ETS)  alternatively,  they  may  also 
+manipulate the host’s secretion system (Kaffarnik et al., 2009). These 
+effector molecules target a spectrum of cellular systems in the plant’s 
+cell, stimulating expression of mitogen-activated protein (MAP) kinases 
+(Zhang  et  al.,  2007),  aspects  of  RNA  processes  (Fu  et  al.,  2007),  and 
+protein secretion (Nomura et al., 2006). The explicit or oblique recog-
+nition  of  effectors  (called  then  avirulence-avr-factors)  by  plant  resis-
+tance (R) proteins causes activation of effector-triggered immunity (ETI) 
+(Pel  and  Pieterse,  2013).  ETI  is  customarily  connected  with  greater 
+uninterrupted and stronger immune reaction inclusive of programmed 
+cell death, which is referred to as hypersensitive response and systemic 
+acquired resistance (SAR) in the host (Jones and Dangl, 2006). 
+
+Defense strategy of plant involves the production of phytohormones 
+like salicylic acid (SA), jasmonic acid (JA), and ethylene (ET) that have 
+essential  roles  in  the  signaling  pathways  (Robert-Seilaniantz  et  al., 
+2011).  Additionally,  auxin,  abscisic  acid,  cytokinins,  and  brassinoste-
+roids work for fine-tuning of the defense response and are also reported 
+
+* Corresponding author. 
+
+E-mail addresses: akansha007@rediffmail.com (A. Jain), hbs1@rediffmail.com (H.B. Singh), sampa@jcbose.ac.in (S. Das).  
+
+https://doi.org/10.1016/j.micres.2020.126590 
+Received 19 April 2020; Received in revised form 21 August 2020; Accepted 21 August 2020   
+
+MicrobiologicalResearch242(2021)126590Availableonline28September20200944-5013/©2020PublishedbyElsevierGmbH.ThisarticleismadeavailableundertheElsevierlicense(http://www.elsevier.com/open-access/userlicense/1.0/).A. Jain et al.                                                                                                                                                                                                                                     
+
+to be manipulated by beneficial rhizospheric microbes (Pieterse et al., 
+2012;  Jain  et  al.,  2015,  2020).  Reactive  oxygen  species  (ROS)  and 
+reactive nitrogen species (RNS) along with different kinases including 
+MAP  kinase  (MAPK)  are  produced  within  a  few  minutes  of  pathogen 
+perception (Scheler et al., 2013). Activation of MAPK cascade by het-
+erotrimeric, Guanine nucleotide binding proteins or ‘G-proteins’ has also 
+been  investigated  for  necrotrophic  and  hemi-biotrophic  pathogens 
+(Patel et al., 2016). ROS work in providing toughness by cross-linking of 
+cell wall polymers and have antimicrobial activity (Torres, 2010; Jain 
+et al., 2013a). 
+
+The nature of such interaction not only depends upon the life cycle of 
+the invading pathogen (Doehlemann and Hemetsberger, 2013), the ge-
+netic makeup of the host plant (Gimenez-Ibanez and Solano, 2013) but 
+also upon the interacting beneficial microbes (Jain et al., 2013b). During 
+the course of defense adequate mRNA does not necessarily correlate to 
+the  corresponding  protein  to  be  active  or  abundant  in  the  plant  cells 
+(Jones et al., 2004). Proteins are the real workhorses in the living cell, 
+constantly responding to their surrounding environment, denoting the 
+active state of the cell. Large numbers of studies have been performed to 
+unravel  plant-microbe  interactions.  Proteomic  is  used  to  understand 
+intensive knowledge of lots of elements of the plant defense to cope up 
+with the pathogenic challenge (Chatterjee et al., 2014). The differential 
+abundance  of  proteins,  post-transcriptional,  post-translational  modifi-
+cations,  protein  stimulation/repression,  and  turnover  are  now  been 
+studied using this approach (Zimaro et al., 2011). The advent of new 
+techniques and software have made the study and identification process 
+relatively easier. A large number of proteins responsive to pathogenic 
+challenges have been recognized but very less knowledge is accessible 
+about  proteins  involved  in  biological  management  of  the  disease. 
+Studies at proteome level will help us to get insights into protein func-
+tion, expression, interactions, and localization giving a clear depiction of 
+this complex interaction. 
+
+The  proteomic  approach  can  help  in  analyzing  the  wide  range  of 
+
+protein profiles that could, in turn, provide insights to understand the 
+defense  responses  of  the  plant  as  the  outcome  of  the  host-pathogen 
+interaction  and  such  interaction  in  the  presence  of  beneficial  mi-
+crobes. Relatively quicker tools and techniques not only provide easy 
+identification,  predictions  of  structure  and  functions  but  also  help  in 
+predicting  more  accurate  localization  of  these  proteins  in  cells. 
+Increasing information on full genome sequences of various plant spe-
+cies  will  speed  up  the  identification  of  defense  responsive  genes  and 
+their categorized function. While going deeper into gene regulation it 
+has  been  realized  that  questions  arising  regarding  epigenetic  control, 
+interactions  with  pre-existing  proteins,  non-  coding  RNAs,  post- 
+translational  modifications  can  only  be  answered  through  experi-
+mental data based on proteomic approach (Quirino et al., 2010). A new 
+era of science is open, coupling proteomics with genomics and metab-
+olomics, together giving a better portrayal of how the cell works. This 
+review will briefly discuss the current progress in the proteomic research 
+with special emphasis on biotic stress-responsive host proteins induced 
+upon interaction with pathogens and/or biocontrol agents. We feature 
+the important results obtained from the proteome profiles of different 
+plant-microbe association. 
+
+2. Techniques involved in proteomics 
+
+Proteomics  has  come  out  as  an  influential  means  for  the  study  of 
+complex plant-pathogen interactions (Jain et al., 2015). Analysis of a 
+group of proteins under definitive plant-microbe association specifies a 
+more  clear-cut  view  of  physiological  and  cellular  mechanisms  than 
+analyzing DNA or RNA. Study at proteome level allows the concurrent 
+study  of  the  total  proteome  that  is  present  in  a  particular  organism, 
+together with its cataloguing, its qualitative presence and quantitative 
+abundance, localization, and variation within a population. Application 
+of proteomics may also help in deciphering role of different proteins in 
+development and growth, changes induced at proteome level by biotic 
+
+Fig.  1. Schematic  depiction  of  the  plant  immune  system  upon  challenge  with  pathogen,  pathogen-associated  molecular  patterns  (PAMPs)  stimulate  pattern- 
+recognition receptors (PRRs) in the plants, resulting in PAMP-triggered immunity (PTI). This may lead to two possibilities, 1) pathogens may, in turn, acquire ef-
+fectors (E) proteins (blue triangles) to overcome PTI, resulting in effector-triggered susceptibility (ETS) leading to disease and 2) plants may acquire resistance (R) 
+proteins (orange) that recognize these effectors, resulting in effector-triggered immunity (ETI) leading to resistance. 
+
+MicrobiologicalResearch242(2021)1265902A. Jain et al.                                                                                                                                                                                                                                     
+
+and abiotic factors, post-translational alterations and associations with 
+other proteins and molecules (Fern´andez and Novo, 2011). 
+
+a 
+
+biphasic  micro-capillary 
+
+A large number of proteomic studies are based on employing simple 
+gel-based resolution, as separated proteins can be easily recognized and 
+defined  applying mass spectrometry  (MS). Most  popular among them 
+being  two-dimensional  gel  electrophoresis  (2DE)  resolving  proteins 
+based on isoelectric point (pI) and their molecular weight. Differential 
+gel  electrophoresis  (DIGE)  is  a  protein  quantification  technique 
+resolving  protein  in  complex  mixtures  combining  gel  electrophoresis 
+with  the  exemplary  protein  spectra  gained  by  fluorescent  tagging  of 
+samples  (Granlund  et  al.,  2009).  This  method  regulates  gel-to-gel 
+alteration as differently labeled proteins can be resolved on the same 
+gel, but  the concerns  of  spot overlap still  remains unsolved  (Roe and 
+Griffin, 2006). Gel-free methods utilizing liquid chromatography (LC) 
+can overcome the issues of overlapping of spots by resolving peptides 
+after  sequence-specific  digestion  significantly  increasing  inclusion  of 
+proteins  with  MS-based  sequencing  (Fig.  2)  (Roe  and  Griffin,  2006). 
+Later  multidimensional  protein  identification  technology  (MudPIT) 
+(Washburn  et  al.,  2001)  came  out  as  a  impressive  approach  for 
+large-scale proteomic studies. It involves loading of the peptide mixture 
+on 
+with 
+strong-cation-exchange and reversed-phase matter (Knief et al., 2011). 
+Nearly  all  peptide-based  quantitative  studies  are  correlative  or 
+analogous. Recent developments include the isotope-coded affinity tag 
+(ICAT),  isobaric  tag  for  relative  and  absolute  quantification  (iTRAQ), 
+18O.  Absolute  quantification  of 
+and  tryptic  digestion  of  samples  in  H2
+peptides  (AQUA)  depends  on  the  construction  of  isotopically  labeled 
+peptide internal controls (Agrawal et al., 2013). Stable isotope labeling 
+of amino acids in cell culture (SILAC), involves growing them in media 
+amended  with  heavy  isotope-containing  amino  acids  thus  permitting 
+labeling  of  generated  proteins  (Ong  et  al.,  2002).  Proteomic  studies 
+involving metabolic labeling can be accomplished using stable isotope of 
+nitrogen (15N inorganic salts) as a sole nitrogen source (Mcllwain et al., 
+2008).  MS/MS-based 
+includes 
+sequential  windowed  acquisition  of  all  theoretical  fragment  ion  mass 
+spectra  (SWATH).  SWATH™  permits  the  differentiation  of  isobaric 
+peptides, followed by data mining of unpredicted species (Sidoli et al., 
+2015). The cost is an important consideration while quantification as 
+labeling  techniques  are  costlier  in  comparison  to  label-free  methods, 
+where the later is time taking. Newly coming up proteomics techniques 
+for  subcellular  studies  include  organelle-locatable  reactive  molecules 
+
+label-free  quantification  strategy 
+
+column 
+
+loaded 
+
+Fig. 2. Schematic overview of approaches used in proteomic studies.  
+
+(ORMs) (Yasueda et al., 2016), and proximity-dependent biotin identi-
+fication  (BioID)  (Le  Sage  et  al.,  2016).  It  is  difficult  to  characterize 
+subcellular proteomes based on abundance, nature or localization (Liu 
+et al., 2019). Therefore, this area of research offers enormous possibility 
+for an increased number of future explorations. 
+
+Many acquisition approaches have also been created for MS analysis, 
+the  most  extensively  used  being  the  shotgun  or  discovery  proteomics 
+which is the data-dependent acquisition (DDA) method. DDA chooses 
+precursor ions that can be discovered at the full scan accordingly from 
+the  strongest  ones  to  perform  MS/MS  fragmentation  (Aebersold  and 
+Mann,  2003).  Data-independent  acquisition  (DIA)  on  the  other  hand, 
+has  come  up  as  a  sensitive,  effective  mode  for  large-scale  proteome 
+analysis, as a substitute to DDA (Di et al., 2017). A mass defect-based 
+four-plex DIA hybrid method  (MdFDIA) using cell cultures developed 
+in media amended with the isotopes 13C15
+6N2-lysine and D8-lysine was 
+studied (Di et al., 2017). After the labelling, the protein specimens were 
+digested with Lys-C and peptides were further allowed to grow in vitro 
+with  light  (213CD2H+34.06312  Da)  and  heavy  (2CD3+34.06896  Da) 
+dimethyl  groups.  The  exquisite  mass  variation  between  the  equally 
+mixed labeled samples in MS2  scans are analyzed with high-resolution 
+instrument to permit relative analysis. 
+
+The  identification of  protein  is  the  most  crucial  step  in  proteomic 
+studies. Mass spectrometry is the most comprehensive technique to do so 
+and involves three steps namely, protein and/or peptide ionization, ion 
+resolving  and  ion  detection.  Ionization  involves  two  main  techniques 
+matrix-assisted  laser  desorption  ionization  (MALDI)  (Karas  and  Hill-
+enkamp,  1988)  and  electrospray  ionization  (ESI)  (Fenn  et  al.,  1989). 
+Surface-enhanced laser desorption/ionization (SELDI), a modification of 
+MALDI (Merchant and Weinberger, 2000) introduces surface affinity for 
+numerous  proteins  and  peptides.  ESI  technique  has  also  observed 
+improved sensitivity with the advancement of micro and nano-ESI, with 
+decreased  flow  rates  to  nanoliter-per-minute  (Griffin  et  al.,  1991; 
+Emmett and Caprioli, 1994). Mass analyzers are broadly grouped into 
+the scanning and ion-beam mass spectrometers viz., time-of-flight (TOF) 
+and quadrupole, and the trapping mass spectrometers, such as ion trap, 
+orbitrap, and fourier transform ion cyclotron resonance (FT-ICR) (Mann 
+et al., 2001; Chait, 2011). MS/MS involves forerunner ions in the pri-
+mary MS scan (MS1) to be exposed to fragmentation, followed by suc-
+cessive  MS  scans  (MS2)  (Gygi  and  Aebersold,  2000).  Fragmenting 
+proteins  can  be  achieved  by  either  subjecting  the  peptides  to 
+collision-activated  dissociation  (CAD  or  CID)  (Yates  et  al.,  2009)  or 
+electron-based viz., electron capture dissociation (ECD) (Zubarev et al., 
+1998) and electron transfer dissociation (ETD) (Syka et al., 2004). 
+
+Bioinformatics  tools  have  aided  in  proteomic  data  analysis,  with 
+simple assignment of protein and peptides to databases and their easy 
+retrieval.  Search  algorithms  like  SEQUEST,  Mascot,  and  OMSSA  can 
+correlate observed MS/MS spectra to datasets with known proteins to 
+search for peptides (Kav et al., 2007; Jayaraman et al., 2012). Programs 
+like PeptideProphet (Keller et al., 2002) and ProteinProphet (Nesvizh-
+skii  et  al.,  2003)  are  created  to  upgrade  the  efficacy  of  peptide  and 
+protein identification using statistics, while DBParser (Yang et al., 2004) 
+is used to build-up redundant protein assignments. However, a few voids 
+demand to be filled for high-throughput data analysis. A big concern in 
+protein recognition is that the sequence databases does not assign sub-
+stitute splice isoforms a particular entry or give them space only in the 
+comments, thereby, declining to identify them as the aimed sequence, 
+making it appear absent in the database explored (Huang et al., 2007). 
+This may cause erroneous peptide and protein identification because of 
+the availability of degenerate peptides comparable to various proteins in 
+the algorithm. To solve such issues, iProXpress, has been build-up by The 
+Protein Information Resource (Wu et al., 2003) has a broad sequence 
+library consisting of available proteins and isoforms from the UniProt. 
+Its application along with other software eases protein functional and 
+pathway analysis for profiling (Huang et al., 2007). Proteins identified 
+using different database are summarized along with the PIR ID mapping 
+service, using protein and gene IDs from nearly thirty data resources to 
+
+MicrobiologicalResearch242(2021)1265903A. Jain et al.                                                                                                                                                                                                                                     
+
+UniProt. The raw proteomic data needs to be analyzed, structurally and 
+functionally annotated, to present their biological significance (Fig. 3). 
+The proteomic result can further be used for functional and structural 
+annotation New approaches in proteomic studies in consolidation with 
+bioinformatics  tools  will  further  improve  data  analysis  and  pathway 
+revelation,  thereby,  aiding  improved  knowledge  acquisition  from 
+genome-wide studies. 
+
+3. Analysing post translational modifications 
+
+Post-translational  modifications  (PTMs)  are  brisk,  reversible,  and 
+definitive  chemical  modulation  affecting  protein  structure,  which  in 
+turn  can  alter  protein  activity,  localization,  turnover,  and  interaction 
+with  other  proteins  (Narayanan  and  Jacobson,  2009).  Several  PTMs 
+such  as  phosphorylation,  acetylation,  ubiquitination,  glycosylation, 
+methylation  and  sumoylation,  propel  transcriptional  regulation  and 
+metabolism (Fig. 4). Plenty of reports highlight the importance of PTMs 
+in  plant  resistance  with  phosphorylation  showing  utmost  significance 
+(Park  et  al.,  2012;  Jones  et  al.,  2013).  Phosphoproteins  may  also  be 
+isolated using a phosphoprotein affinity matrix. The resin holds phos-
+phoproteins and other related proteins from cell fractions which may be 
+separated further (Kristjansdottir et al., 2008). Phosphoproteins can be 
+identified using 2DE, either by observing low pI isoforms, by phospho-
+specific staining (e.g., ProQ®Diamond, carbocyanine dye), 32P-labeling, 
+or  by  application  of  phosphospecific  antibodies  (Bindschedler  and 
+Cramer, 2011; Bond et al., 2011). ProQ Diamond can be used in com-
+bination  with  protein  stains,  such  as  SYPRO  Ruby,  allowing  protein 
+phosphorylation  and  expression  to  be  monitored  at  the  same  time. 
+ProQ®Diamond staining with subsequent MALDI-TOF MS/MS analysis 
+was used to study differential expression of phosphorylated proteins in 
+Nicotiana tabacum BY2 cells upon elicitation with lipopolysaccharides 
+from Burkholderia cepacia (Gerber et al., 2006, 2008). It has also been 
+reported  that  rapid  oxidative  burst  upon  pathogen  infection  leads  to 
+PTMs  such  as  the  increment  in  protein  carbonylation  (Zhang  et  al., 
+2007). 
+
+Sumoylation  is  prerequisite  for  normal  cellular  processes,  defense 
+response, and for pathogenic progress, conidia production and patho-
+genic  virulence  (Liu  et  al.,  2019).  Proteomic  analysis  of  the  deletion 
+
+Fig.  4. Proteins  are  edited  by  post-translational  modification  (PTMs)  which 
+alter protein structure, function and stability, five types of PTMs are presented 
+in  the  figure  (phosphorylation,  acetylation,  ubiquitination,  glycosylation, 
+sumoylation). 
+
+mutants for genes AOS1 and UBA2 (belonging to E1) and UBC9 (E2) and 
+SIZ1 (E3) involved in the sumoylation pathway were studied in rice–-
+Magnaporthe oryzae interaction (Liu et al., 2018). Out of 940 anticipated 
+
+Fig. 3. Schematic experimental representation for proteomic data analysis during plant-microbe interaction.  
+
+MicrobiologicalResearch242(2021)1265904A. Jain et al.                                                                                                                                                                                                                                     
+
+sumoylated proteins, most of them were linked to conidium accumula-
+tion and mobility, defense response, ROS detoxification, and signalling 
+pathways.  PTMs  like  S-nitrosylation  and  sulfenylation,  have  gained 
+increasing  importance  in  modulation  of  plant  immune  responses 
+(Withers and Dong, 2017). In a previous study, biotin-switch approach 
+along with MALDI-TOF was used to search for S-nitrosylated proteins in 
+Arabidopsis  upon  challenge  with  Pseudomonas  syringae  pv.  tomato 
+DC3000. The study implicated the role of S-nitrosylation of AtSABP3 in 
+modulating the plant immune response (Wang et al., 2009). N-Glyco-
+sylation of receptors is also involved in regulating the plant’s immune 
+response. Studies using MALDI-TOF MS reported a ten-gene assemble of 
+gigX genes of Xanthomonas oryzae pv. oryzae, to be involved in flagellin 
+glycosylation,  which  in  turn  regulated  mobility  and  pathogenicity  of 
+X.  oryzae  (Yu  et  al.,  2018).  Proteomic  studies  have  also  helped  us  in 
+understanding 
+between 
+communication 
+chloroplast-nucleus, and its association with the plant immune response 
+(Sperschneider et al., 2017). Development of bioinformatics tools has 
+allowed  us  to  predict  a  large  number  of  genes  and  gene  products 
+involved in plant-microbe interaction at initial dialogue or at different 
+stages  of  disease  progression  or  those  involved  in  disease  resistance. 
+Large-scale  proteomics  and  new  methods  can  be  implemented  to 
+generate  important  discernment  into  signalling  pathways  and  the 
+involvement of PTMs in and plant-microbe association (Table 1). 
+
+occurring 
+
+the 
+
+4. Deciphering plant-microbe interactions 
+
+Plants interact with a large number of microbes; some interactions 
+give beneficial outcomes while other results being harmful. Plant dis-
+eases cause huge crop losses every year around the world. On the other 
+hand, beneficial plant-microbe interactions result in disease reduction as 
+well as improved plant growth (Fig. 5). Studies at proteome level can 
+thus be used to elucidate various cellular processes occurring during the 
+perception of pathogens by plants in both compatible and incompatible 
+interactions and those events induced by interacting microbes which are 
+beneficial.  Studies  in  this  direction  can  not  only  help  us  to  identify 
+proteins  but  can  also  provide  information  regarding  corresponding 
+genes that may be applied to produce genetically engineered plants for 
+biotic stress management and/or improving plant growth. Here we will 
+discuss on proteomics approaches that have been studied previously to 
+unravel plant-microbe interactions (Table 2). 
+
+4.1. Plant-bacteria associations 
+
+Plant-bacteria associations are highly composite and involve various 
+signaling  molecules  that  influence  gene  expression  within  the  host 
+plants, which finally defines whether the outcome of the interaction is 
+
+Table 1 
+New technologies and techniques applied for analysis of PTMs of proteins.  
+
+PTMs 
+
+Technique for analysis 
+
+References 
+
+Phosphorylation 
+
+Acetylation 
+
+Ubiquitination 
+
+Glycosylation 
+
+Sumoylation 
+
+Sequential elution from Immobilized 
+Metal ion Affinity Chromatography 
+(SIMAC) 
+In vivo affinity capture of a 
+phosphorylated protein with antibiotic 
+resistant cells 
+Peptide prefractionation, immunoaffinity 
+enrichment with LC-MS/MS and affinity 
+purification for studying acetylome 
+Ubiquitination site mapping using 
+ubiquitin combined fractional diagonal 
+chromatography 
+Large scale glycopeptide profiling by 
+activated ion electron dissociation 
+SUMOylated proteins enriched via 
+SUMO1 isoform from mutants plants with 
+variation in ligases 
+
+Thingholm and 
+Larsen (2016) 
+
+Meksiriporn et al. 
+(2019) 
+
+Jiang et al. (2018) 
+
+Walton et al. 
+(2016) 
+
+Riley et al. (2019) 
+
+Rytz et al. (2018)  
+
+Fig. 5. Model for the systemic acquired resistance (SAR) and induced systemic 
+resistance  (ISR)  pathways  induced  upon  interaction  with  pathogenic  and 
+beneficial  microbes where  salicylic acid, jasmonic  acid  and ethylene  are  pre-
+sented as SA, JA, and ET, respectively. 
+
+beneficial or harmful. Bacteria have emerged with a huge array of spe-
+cifically  designed  macromolecular  nanomachines  that  release  various 
+virulence  factors.  Secretion  structures  (types  I–VI)  of  Gram-negative 
+bacteria,  the  mycobacterial  type  VII,  the  chaperone–usher  pathway 
+and  the  curli  secretion  system  are  elucidated  in  bacteria,  which  are 
+differentiated  by  the  structural  proteins  building  them  (Costa  et  al., 
+2015).  Type  II  machinery,  secretes  hydrolyzing  proteins,  toxins  and 
+pathogenicity  elements.  Pathogenic  bacteria  mainly  use  the  type  III 
+secretion  system  during  infection  which  enables  bacteria  to  straight 
+forward  introduce  effector  proteins,  into  the  target  cell  and  sabotage 
+cellular processes. (Mehta et al., 2008). 
+
+The  proteome-based  analysis  of  plant-bacterial  association, 
+involving  the  symbiotic  associations  between  N2-fixing  bacteria  and 
+legumes has been elucidated in enormous detail. The important model 
+legume Medicago truncatula is found to establish a symbiotic association 
+with  Sinorhizobium  meliloti  for  nodulation.  Proteomic  approach  on 
+M. truncatula nodules led to identification of a total of 377 plant-related 
+proteins using 2D-LC/MS/MS (Larrainzar et al., 2007). Proteins identi-
+fied belonged mainly to the functional groups linked to amino acid and 
+protein  synthesis,  and  degradation.  Also,  proteins  with  role  in  N2 
+assimilation  in  nodules  and  those  involved  in  the  pathway  of 
+sulfur-containing  amino  acids  synthesis  were  observed.  Comparative 
+proteomic analysis in different tissues of rice (root, leaf sheath and leaf) 
+treated  with  S.  meliloti  showed  differential  proteins  with  function  in 
+nine  different  categories  (Chi  et  al.,  2010).  The  interaction  caused 
+up-regulation of photosynthesis-related proteins in the leaf sheath and 
+leaf,  while  the  defense-related  proteins  were  upregulated  in  root, 
+causing  an  overall  increase  in  rice  plant  growth.  In  another  previous 
+report, the proteome of Bradyrhizobium japonicum bacteroids associating 
+with soybean was analysed between 7 and 49 days after treatment to 
+evaluate time-dependant modulation in the proteome content (Nomura 
+et  al.,  2010).  Similarly,  comparison  of  root  phosphoproteome  of  the 
+legume Lotus japonicus a few minutes after perception with symbiotic 
+signaling  molecule 
+conserved 
+pathogen-associated peptide motif (flagellin flg 22) revealed not only 
+signal  specific  but  also  large  overlapping  patterns  (Serna-Sanz  et  al., 
+2011). 
+
+(nodulation 
+
+factor) 
+
+and 
+
+a 
+
+Proteomic approach was also  adopted to study the interaction  be-
+tween Arabidopsis thaliana and P. syringae DC3000 using distinct near- 
+isogenic  lines  of  the  pathogen  (the  avirulence  gene  avrRpm1  and 
+
+MicrobiologicalResearch242(2021)1265905A. Jain et al.                                                                                                                                                                                                                                     
+
+Table 2 
+Some of the major proteins expressed during plant-pathogenic (P) or beneficial (B) microbe interaction, identified in plants using proteomic approach.  
+
+Protein 
+
+Host Plant 
+
+Pathogen (P) or beneficial microbe (B) 
+
+Bacteria 
+Glutathione S-transferase 
+Ascorbate peroxidase 
+ATP synthase b subunit, chloroplast 
+Transketolase 
+RuBisCO large subunit 
+Oxygen-evolving complex protein 2 
+Enolase 
+Ferredoxin-NADP reductase 
+Peroxidase 
+Hypothetical protein 
+TPA: hypothetical protein 
+Heat shock 70 kDa protein 
+Glutathione S-transferase 
+
+Fungi 
+Receptor-like protein kinase 
+Pathogenesis-related class 10 
+β-1,3-glucanase 
+Rubisco large subunit 
+Thaumatin-like protein (PR-5) 
+Glyceraldehyde 3-phosphate 
+
+dehydrogenase 
+
+Resistance protein RPP8-like protein 
+Ribonuclease-like PR-10a 
+
+Malate dehydrogenase precursor 
+
+Putative isoflavone reductase 
+Short chain alcohol dehydrogenase 
+Mannose-specific lectin 
+GST 
+Pathogenesis-related protein P2 
+Defensin protein   
+Peroxidase   
+Chitinase   
+Trypsin protein inhibitor 2 
+Thioredoxin 
+Pyruvate dehydrogenase 
+Aconitate hydratase 
+Adenosylhomocysteinase 
+Phosphoglucomutase 
+
+Virus 
+
+PsbO 
+
+Phenylalanine ammonia-lyase 
+Mitochondrial chaperonin-60 
+Aldolase C-1 
+Mrna-binding protein 
+Rab11 GTPase 
+Ubiquitin extension protein 
+Polyphenol oxidase precursor 
+phosphoglycerate mutase 
+thioredoxin peroxidase 
+
+Lycopersicon 
+hirsutum 
+
+Clavibacter michiganensis ssp. michiganensis (P) 
+
+Oryza sativa 
+
+Xanthomaonas oryzae pv. oryzae(P) 
+
+Solanum 
+lycopersicum 
+
+Ralstonia solanacearum(P) 
+
+Zea mays 
+
+Azospirillum brasilense(B) 
+
+Arabidopsis 
+
+Kosakonia radicincitans(B) 
+
+O. sativa 
+
+Magnaporthe grisea (P) 
+
+O. sativa 
+
+Rhizoctonia solani (P) 
+
+Triticum aestivum 
+
+Fusarium graminearum (P) 
+
+Phaseolus vulgaris 
+
+Trichoderma atroviride (B) and R. solani (P) 
+
+Pisum sativum 
+Messire 
+P. sativum JI2480 
+
+Gossypium 
+barbadense 
+
+Erysiphe pisi(P) 
+
+Verticillium dahlia (P) 
+
+Capsicum annum 
+
+Phytophthora capsici (P) 
+
+Cicer arietinum 
+
+Fusarium oxysporum f.sp. ciceri Race 1 (FOC1)(P) 
+
+P. sativum 
+
+Bacillus subtilis + Trichoderma harzianum + Pseudomonas aeruginosa 
+(B) and Sclerotinia sclerotiorum(P) 
+
+P. sativum 
+
+Pepper mild mottle virus (P) 
+
+O. sativa 
+
+Rice yellow mottle virus (P) 
+
+C. annum 
+
+Tobacco mosaic virus (P) 
+
+S. lycopersicum 
+
+Tomato yellow leaf curl virus (P) 
+
+Catalase isozyme 1 
+
+Cucurbito pepo 
+
+Zucchini yellow mosaic virus(P) 
+
+Accession 
+number 
+
+TC116034 
+CAB58361 
+M31464 
+AK067452 
+AB125345 
+P29795 
+P26300 
+O04397 
+Q9LWA2 
+AAL01173 
+DAA47715 
+CAA94389 
+NP_171791  
+
+AAL87185 
+AF416604 
+BAA77785 
+AAB02583 
+CAA66278 
+
+XP493811 
+
+AAP82812 
+AAK13030 
+
+AAB99755 
+
+AAL85023 
+DT463387 
+DW519682 
+ES840989 
+CAA41439 
+AAL35366 
+AAL35364 
+CAA78844 
+AT3G55440 
+AT2G17420 
+AT3G06483 
+XP_003596988 
+Q01781 
+Q9SM60  
+
+P14226 
+
+P14717 
+Q8H903 
+Q42476 
+DQ991047 
+DQ975457 
+DQ975458 
+Q08296 
+AAD24857 
+CAC84143 
+
+P48350 
+
+References 
+
+Coaker et al. (2004) 
+
+Mahmood et al. 
+(2006) 
+
+Dahal et al. (2010) 
+
+Faleiro et al. (2015) 
+
+Witzel et al. (2017) 
+
+Kim et al. (2004) 
+
+Lee et al. (2006a,b) 
+
+Zhou et al. (2006) 
+
+Marra et al. (2006) 
+
+Curto et al. (2006) 
+
+Wang et al. (2011) 
+
+Yeom et al. (2011) 
+
+Chatterjee et al. 
+(2014) 
+
+Jain et al. (2015) 
+
+Perez-Bueno et al. 
+(2004) 
+
+Delalande et al. 
+(2005) 
+
+Lee et al. (2006a,b) 
+
+Moshe and Gorovits 
+(2012) 
+
+Nov´akov´a et al. 
+(2015)  
+
+DC3000 hrpA) (Jones et al., 2004). The P. syringae hrpA mutant cannot 
+pass the effectors to the plant cells and thus fizzles in generating a hy-
+persensitive  response.  Comparitive  protein  expression  profile  among 
+treatments  along  with  control  plants  showed  consistent  variation  in 
+glutathione S-transferases and peroxiredoxins. Using iTRAQ, Kaffarnik 
+et al. (2009) observed alteration in extracellular proteins of A. thaliana 
+as a result of infection with three different strains P. syringae. De-la-Pe˜na 
+et  al.  (2008)  analysed  protein  secretion  of  symbiont  S.  meliloti  and 
+phytopathogen  P.  syringae  DC3000  under  the  effect  of  root  exudates 
+from A. thaliana  and M. sativa. It was observed that distinct group of 
+proteins  were  secreted  depending  upon  the  associating  host  plant. 
+Changes with regard to the ABC transporters were observed in both the 
+cases, whereas modulation of superoxide dismutase was observed only 
+
+in S. meliloti. 
+
+Xanthomonas oryzae pv. oryzae (Xoo) causes the second most severe 
+disease of rice, the bacterial blight. Proteomic analysis of proteins from 
+rice  leaves  inoculated  with  compatible  or  incompatible  Xoo  strains 
+revealed  twenty  differential  protein  spots,  involved  in  energy,  meta-
+bolism, defense, and protein synthesis Mahmood et al., 2006). Ten of 
+these proteins were recorded to be specific to the compatible associa-
+tion, such as ATP synthase, RuBisCO large subunit, and peroxiredoxin. 
+Yeast two-hybrid approach was also used to design an interactome to 
+discern the signaling pathway of Xa21 and other stress-linked proteins 
+(Seo et al., 2011). Analysis of rice xylem sap infected with Xoo resulted 
+in the recognition of 64 proteins which were found in all the treatments 
+consisting mainly of known virulence-involved factors (Gonz´alez et al., 
+
+MicrobiologicalResearch242(2021)1265906A. Jain et al.                                                                                                                                                                                                                                     
+
+2012).  In  a  previous  study  differential  expression  of  274  genes  in 
+resistant and susceptible genotypes of rice, as early as one hour after 
+challenge with Xoo was shown using a transcriptomic approach (Grewal 
+et al., 2012). 
+
+In a proteomic study conducted by Gourion et al. (2006) in planta and 
+in vitro cultivated cells of Methylobacterium extorquens, 45 proteins were 
+seen to be more ample when growing as commensal growing on plant 
+surfaces corresponding to cells grown on synthetic media. Out of these 
+proteins some were of unknown function, some were metabolic proteins, 
+and others were proteins playing role in stress response and the DNA 
+protection protein Dps. The results also unravelled the involvement of a 
+key regulator, PhyR, essential for phyllosphere colonization. Proteomic 
+analysis of Lycopersicon hirsutum upon interaction with bacterial canker 
+causing  pathogen  (Clavibacter  michiganensis  ssp.  michiganensis)  was 
+revealed using 2DE and ESI-MS ⁄MS at 72 and 144 h post-challenge. The 
+study reported 26 differentially regulated tomato proteins, 12 of which 
+played crucial roles in defense and stress responses (Coaker et al., 2004). 
+In  a  study  conducted  on  endophyte  Gluconacetobacter  diazo-
+trophicus–sugarcane interaction, quantitative MS-based investigation by 
+using  15N  labeling  of  host,  microbe,  and  co-cultures  were  performed 
+(Lery et al., 2011). Out of 400 proteins analyzed, 78 were differentially 
+regulated in plant-bacterium association with two distinct plant geno-
+types and control cultures. Thirty bacterial proteins were also observed 
+in the host roots; from these, nine of which were lured by plant signals. 
+Recently, 2DE and MS were also used to analyze the differential protein 
+profile of maize roots upon interaction with growth-promoting microbe 
+Azospirillum brasilense 7 days post-inoculation (Faleiro et al., 2015). 
+
+The  proteome  level  studies  not  only  provide  insights  to  comple-
+mentary  mRNA  levels  for  studying  the  crosstalk  between  plants  and 
+beneficial  microorganisms,  proteomics  together  with  metabolimics, 
+directly  represent  phenotypic  expression  of  the  response  induced 
+(Feussner and Polle, 2015). Comparative root proteome of Arabidopsis 
+inoculated  and  uninoulated  with  plant  growth  promoting  bacteria 
+Kosakonia  radicincitans  DSM  1665  was  studied  using  2D-gel  electro-
+phoresis. A total of twelve differentially ample proteins were analysed 
+by LC tandem MS, with most of them being associated to cellular stress 
+response (Witzel et al., 2017). Recently, root proteomic profiles of the 
+ethylene-insensitive  tomato  never  ripe  and  its  isogenic  wild-type  cv. 
+Pearson  lines  treated  with  Bacillus  megaterium  or  Enterobacter  sp.  C7 
+were  studied  (Ibort  et  al.,  2018).  Treatment  with  these  plant  growth 
+promoting  bacteria  modified  amount  of  stress-linked  and  interaction 
+proteins,  indicating  that  bacterial  treatment  can  affect  antioxidant 
+content and phosphorus acquisition extent. Ethylene sensing is required 
+for  proper  identification  of  B.  megaterium  and  growth  increment, 
+whereas, Enterobacter C7 treatment enhanced phosphorus nutrition in 
+both  the  lines,  independent  of  ethylene  responsiveness  (Ibort  et  al., 
+2018). 
+
+4.2. Plant-fungus associations 
+
+While a large number of bacteria cause plant disease, the larger part 
+of crop loss is caused by fungi. Proteomic approach has been used to 
+delineate  the  interaction  between  plants  and  fungi  appertaining  to 
+biotrophic and necrotrophic groups. Elucidating -mechanisms underly-
+ing  resistance  using  proteome  approach  could  provide  deeper  under-
+standing  into  the  plant-fungus  relationship  both  at  qualitative  and 
+quantitative level and influence the application of these knowledge to 
+produce  resistant  cultivars.  The  interaction  between  tomato  plants 
+challenged  with  wilt  causing  fungi  Fusarium  oxysporum  was  studied 
+using plant xylem sap. PR-5 protein was induced in both compatible and 
+incompatible association, whereas, remaining PR proteins were found to 
+be only regulated in compatible interplay (Rep et al., 2002). In a pre-
+vious report on chickpea- F. oxysporum f.sp. ciceri Race1 (Foc1) inter-
+action,  induction  of  redox  responsive  transcripts  was  observed  in 
+controlling  downstream  defense  pathway  (Gupta  et  al.,  2013). 
+Comparative chickpea root proteomics using 2D gel electrophoresis of 
+
+susceptible and resistant varieties inoculated with Foc1 resulted in the 
+identification  of  100  differentially  or  uniquely  expressed  proteins 
+(Chatterjee et al., 2014). The function of numerous important proteins 
+involved in metabolism, transport, signalling and defense was reported 
+and their discrete expression in susceptible and resistant varieties was 
+investigated. 
+
+In another study involving interaction between A. thaliana-Plasmo-
+diophora brassicae, protein from roots and stems of plants was inspected 
+(Devos et al., 2006). Proteins with functions in cellular processes such as 
+defense, metabolism, and differentiation displayed altered expression in 
+challenged  plants  compared  to  unchallenged  controls.  Combined 
+application of 2-D gel electrophoresis with LC and ESI-tandem MS were 
+applied to analyze comparative proteome modulations in the needles of 
+susceptible and resistant Pinus strobes in presence of Cronartium ribicola. 
+Functional homologs of the leucine-rich repeat group in P. strobes were 
+identified as possible molecular indicative for a hypersensitive response 
+(Smith et al., 2006). Similarly, the association of Alternaria brassicae and 
+different  cultivars  of  Brassica  napus  showed  modulation  in  proteins 
+involved 
+in  ROS  production  and  detoxification,  along  with 
+auxin-signaling  responsive  protein,  indicating  the  possible  role  of  an 
+auxin-mediated  ROS  signaling  involved  in  intervening  a  moderate 
+resistance  in  a  resistant  variety  compared  to  the  susceptible  variety 
+(Sharma et al., 2007). 
+
+(cid:0)
+
++
+
++
+
+The  proteomic  approach  revealed  a  resistance  response  of  pea  to 
+biotrophic  fungi  Erysiphe  pisi  (Curto  et  al.,  2006).  MALDI-TOF/TOF 
+study and database exploration showed 19 and 12 differential proteins 
+in  infected  and  uninfected  Messire  leaves  and  JI2480  leaves,  respec-
+tively. Proteins with role in photosynthesis, metabolism, energy gener-
+ation,  stress  tolerance,  and  signalling  were  identified.  Zhang  et  al. 
+(2013)  analyzed comparative  protein expression  among  near-isogenic 
+lines  in  wheat  for  alleles  of  Fhb1,  an  important  FHB  resistance  gene, 
+to find proteins pointing Fusarium graminearum tolerance of Fhb1, 72 h 
+post-challenge.  Eight  proteins  were  observed  to  be  induced  or 
+up-regulated in infected Fhb1
+near-isogenic lines when compared with 
+uninoculated  Fhb1
+near-isogenic  line  whereas  nine  proteins  were 
++
+either  induced  or  up-regulated  in  the  Fusarium-infected  Fhb1
+near-isogenic  line  when  compared  with  Fusarium-inoculated  Fhb1
+near-isogenic  line.  Differentially  expressed  proteins  were  mainly 
+involved  in  avoiding  pathogenic  penetration,  photosynthesis,  and  en-
+ergy  metabolism.  Phytophthora  sojae  is  an  agriculturally  important 
+oomycete causing soybean root and stem rot. In a study conducted using 
+2DE with subsequent MALDI-TOF-MS on soybean and this oomycete, 26 
+proteins  were  found  to  be  significantly  altered  in  a  resistant  soybean 
+genotype and 20 in a sensitive genotype (Zhang et al., 2011). Cochlio-
+bolus  miyabeanus  is  a  causative  agent  of  brown–spot  disease  in  rice 
+leaves.  A  proteomic  approach  was  employed  to  study  comparative 
+proteomes of total and secreted proteins from the infected rice leaves 
+using  2-DE  technique  after  PEG-fractionation  conjugated  with 
+MALDI-TOF/TOF and nESI-LC–MS/MS leading to the recognition of 49 
+differential proteins (Kim et al., 2014). The abundance of the proteins 
+involved  in  the  Calvin  cycle  and  glycolysis  decreased  whereas  those 
+involved in the TCA cycle, amino acids, and ethylene biosynthesis were 
+found  to  increase.  Recently,  a  conserved  wall-associated  kinase  -like 
+protein (Stb6) was reported to be involved in perceiving the pathogen 
+effector  (AvrStb6)  and  conferring  resistance  to  Septoria  tritici(Kema 
+et  al.,  2018).  Increased  knowledge  of  the  physiological  processes 
+induced in plants upon fungal challenge may thus conceivably influence 
+in having new and improved stress tolerance strategies. 
+
+Analysis of the proteome of plant-pathogenic fungi association has 
+received ample consideration. However, there exist very less proteome- 
+based studies involving beneficial biocontrol and/or growth improving 
+fungi. The proteomic approach has been used to study complex three- 
+way association among bean plants, fungal pathogens (Botrytis cinerea, 
+Rhizoctonia solani) and a biocontrol fungi Trichoderma atroviride (Marra 
+et al., 2006). 2DE was used to compare proteomes from all the treat-
+ments  viz.,  singly  treated,  dual  or  triple-  partner  combinations. 
+
+MicrobiologicalResearch242(2021)1265907A. Jain et al.                                                                                                                                                                                                                                     
+
+Comparative  proteomics  revealed  PR-proteins  and  other  disease-liked 
+proteins  to  be  induced  upon  interplay  between  different  treatments. 
+Also, T. atroviride association proteomic analysis indicated homologies 
+with a fungal hydrophobin, ABC transporters, and other proteins. Both 
+the pathogens showed an up-regulation in virulence factors, like cyclo-
+philins  during  the  interaction  with  only  plant  or  both  plant  and 
+biocontrol  agent  T.  atroviride.  A  similar  study  involving  T.  harzianum 
+interaction in roots of maize seedlings showed changes in carbohydrate 
+metabolism using proteomics (Shoresh and Harman, 2008). A study by 
+our group used beneficial microbes viz. P. aeruginosa, T. harzianum and 
+Bacillus subtilis, which were recruited either singly or in dual or triple 
+consortia in the pea rhizosphere to study differential proteome response 
+they modulated upon necrotrophic fungi Sclerotinia sclerotiorum infec-
+tion (Jain et al., 2015). Twenty-five different proteins were recognized 
+by MALDI-TOF MS, which were involved in photosynthesis, respiration, 
+phenylpropanoid metabolism, protein synthesis, stress regulation, car-
+bohydrate  and  nitrogen  metabolism  and  disease/defense-related  pro-
+cesses.  Proteomics  can  thus  be  used  to  feature  the  role  of  beneficial 
+microbes  in  enhancing  resistance.  Even  though  there  has  been  a 
+momentous improvement in decoding the in-depth  interplay between 
+plant-fungi using proteomics, a lot of constitutional queries still remain 
+unanswered. 
+
+4.3. Plant-virus associations 
+
+Viruses are the eventual parasites as they are non-cellular organisms 
+and lifeless outside the host cell. They have small genomes encoding a 
+restricted sum of proteins (Quirino et al., 2010). Proteomic studies on 
+differential protein expression during virus infection, proteins involved 
+in host-viral protein-protein interactions, can provide knowledge on the 
+complex  and  diverse  molecular  interactions  between  host  plants  and 
+attacking  viruses  (Alexander  and  Cilia,  2016).  Numerous  techniques 
+have  been  applied  to  study  the  objective  of  virus-encoded  proteins, 
+protein lured by virus challenge in plant and plant-virus associations. 
+
+In a proteomic study conducted on maize and sugarcane mosaic virus 
+(SCMV) interaction, quantitative 2D- DIGE from resistant and suscep-
+tible varieties from SCMV challenged plants revealed 93 protein spots 
+which  were  found  to  show  significant  expression  change.  Functional 
+characterization of SCMV-induced proteins indicated proteins with role 
+in  energy  and  carbon  metabolism,  stress  and  defense  responses,  and 
+photosynthetic pathway (Wu et al., 2013). In a similar work, proteome 
+analysis using 2DE coupled to DIGE was carried out to unravel expres-
+sion  pattern  during  compatible  plant-cucumber  mosaic  virus  (CMV) 
+association  in  wild  type  and  transgenic  tomato  leaves.  Overall  50 
+differentially  regulated  proteins  were  recognized  by  nanoscale 
+LC-ESI-ion trap-tandem MS, the majority of these proteins were found to 
+be down-regulated upon CMV infection (Di Carli et al., 2010). 
+
+Comparative 2DE of asymptomatic tomato fruits infected and unin-
+fected  with  tobacco  mosaic  virus  (TMV)  reported  differential  protein 
+expression  of  PR-proteins  and  antioxidant  proteins  indicating  their 
+possible function in the protection against TMV challenge (Casado-Vela 
+et  al.,  2006).  A  prominent  spot  of  TMV  coat  protein  observed  in 
+asymptomatic fruits gels can thus be used as a crucial analysis technique 
+for virus detection and characterization in virus-challenged fruits. Dif-
+ferential 
+endoplasmic 
+reticulum-associated  molecular  chaperones  in  TMV  infected  Nicotiana 
+glutinosa was studied using 2D-DIGE with MudPIT (Caplan et al., 2009). 
+Another  study  using  proteomic  approaches  observed  modulation  of 
+antioxidative proteins in leaf apoplast of peach inoculated with plum 
+pox potyvirus (PPV) (Diaz-Vivancos et al., 2006). MALDI-TOF MS ana-
+lyses of spots on 2D gels from infected peach leaves revealed four pro-
+teins: one thaumatin-like and three mandelonitrile lyases. 
+
+cytoplasmic 
+
+regulation 
+
+and 
+
+of 
+
+Brizard  et  al.  (2006)  used  size  exclusion  chromatography  to  elute 
+virus-plant interactive protein aggregates from rice infected with Rice 
+yellow  mottle  virus  (RYMV)  at  different  infection  stages.  Proteins 
+confirmed  by  MS  were  mainly  proteins  with  role  in  plant  energy 
+
+metabolism  probably  to  supply  energy  for  viral  replication,  plant  de-
+fense and protein synthesis. Recently, the association between rice and 
+Rice stripe virus (RSV) was demonstrated using an iTRAQ. Comparative 
+protein quantification of challenged and unchallenged rice leaves was 
+done  along  with  which  qRT-PCR  and  Northern  blot  analyses  (Wang 
+et  al.,  2015).  A  total  of  681  differentially  expressed  proteins  were 
+recognized, out of which 10 were involved in chlorophyll synthesis and 
+3 in cell death. Thus, proteomics can also provide deep understanding 
+into  the  mechanisms  hidden  for  disease  development  (Wang  et  al., 
+2015). Recently, a plasmodesmata distinctive protein called NbEXPA1 
+in  N.benthamiana,  was  found  to  be  downregulated  under  influence  of 
+turnip mosaic virus infection. The study indicated the role of plasmo-
+desmata  protein  in  promoting  potyviral  infection  (Park  et  al.,  2017). 
+Application 
+and 
+high-sensitivity MS can further provide superlative understanding into 
+the  comprehensive  impact  that  plants  and  viruses  can  have  on  each 
+other. 
+
+high-resolution 
+
+electrophoresis 
+
+2D-gel 
+
+of 
+
+5. Discussion 
+
+Plant pathogens cause a huge loss to crop production worldwide, so 
+it  is  important  to  have  detail  knowledge  about  strategies  adopted  by 
+these attacking microorganisms to cause disease. They are highly ver-
+satile in their infection mechanisms as they may affect different plants 
+and different tissues. Their interaction depends on mutual recognition 
+requiring  the  release  of  pathogenicity  factors  by  the  attacking  micro-
+organism and defense mechanism used by the host. Complete knowledge 
+of pathogenic factors, disease cycle is required for effective management 
+of disease especially for using biocontrol agents. Bioinformatic tools will 
+help  us  to  know  the  gene  product  involved  in  a  particular  plant- 
+beneficial microorganism and pathogen involved. Also, if omics study 
+is coupled with targeted mutagenesis or transgenic studies that will help 
+us in better understanding the molecular basis of host-pathogen cross- 
+talks. 
+
+Proteins are structural and functional components in all living cells. 
+Studies at proteome level can ideally provide information about func-
+tional molecules in the cell and changes induced in expression patterns 
+of proteins in various states and under different stresses (Rakwal and 
+Agrawal, 2003; Jain et al., 2015). Proteomics help us to identify not only 
+the gene products  with pivotal functions as pathogenic  and virulence 
+factors in the pathogens but also the ones with a decisive role in defense 
+and  stress  regulation  in  plants  (Fern´andez  and  Novo,  2011).  This 
+approach will surely help us in searching of key crucial protein targets 
+and in the formation of disease management strategies, which will open 
+new modes for early disease detection and ensure crop safety. Taking 
+into  consideration  the  plethora  of  proteins  induced  by  beneficial  mi-
+croorganisms or modulated by biotic stresses, it becomes important to 
+consolidate this information into easily available data so that the current 
+knowledge along with the plentiful of available markers known can be 
+analyzed  for  their  role  in  symbiotic  relationships,  pathogenesis, 
+signaling, and resistance to stress. 
+
+Most  of  the  proteins  functioning  in  plant-microbe  association  are 
+those  which  are  involved  in  inducing  resistance,  enhancing  defense, 
+carbohydrate metabolism, and those providing redox homeostasis. But 
+the key players in such complex interactions are generally expressed in 
+low  abundance,  detection  of  their  presence  becomes  difficult  using 
+proteomic tools. Another drawback of proteomics is that such studies 
+need protein to be identified using peptide mass fingerprinting which 
+largely  depends  on  sequence  databases  accessible  for  public  users. 
+Therefore,  less  studied  associations  require  de  novo  sequencing  for 
+identification  making  the  analysis  part  difficult  to  perform.  These 
+technical  limitations  are  required  to  be  overcome  in  the  future  for 
+attaining deeper insights into plant-microbe interactions. 
+
+Proteomic  analysis  have  been  executed  in  order  to  unravel  plant- 
+microbe interplay, induction of induced systemic response in plants by 
+the  beneficial  microbe,  pathogenic  and  virulence  factors  involved  in 
+
+MicrobiologicalResearch242(2021)1265908A. Jain et al.                                                                                                                                                                                                                                     
+
+disease management (Mathesius, 2009; Fern´andez and Novo, 2010; Jain 
+et al., 2015). Studies reviewed in the previous section indicate compli-
+cated cellular networks that exist in numerous plant-pathogen interac-
+tion and plant-beneficial microbe interaction. System-level knowledge 
+of biotic stress reaction and the effect of applied biocontrol agents will 
+help us to pinpoint promising new targets for the improvement of dis-
+ease  tolerance.  Implementation  of  proteomics,  metaproteomics,  and 
+secretomics can also permit functional analysis of plant-associated mi-
+crobial associations (Khatabi et al., 2019). Overall, proteomics coupled 
+to bioinformatics tools can provide alluring knowledge to develop an 
+comprehensive knowledge of complicated association involved among 
+plant and microbes. 
+
+6. Conclusion 
+
+For  understanding  the  cellular  processes  underpinning  plant- 
+microbe  association  there  is  no  alternative  than  to  study  proteins  as 
+they are directly liable for all cellular action. The technical advances in 
+mass  spectrometry,  bioinformatic  tools  and  increasing  number  of 
+sequenced genome allow for comparatively simpler protein identifica-
+tion.  An  increasing  number  of  sequenced  genomes  will  have  an 
+encouraging  effect  on  protein  identification  permitting  peptide  mass 
+fingerprinting to be applied on more plants, pathogens and/or beneficial 
+microbes.  The  amalgamation  of  proteomics  with  data  produced  from 
+genomics, classical knowledge of plant pathology and advancement in 
+genetic  engineering  technique  eg.  CRISPR-Cas  system  will  ultimately 
+contribute to the development of new disease-resistant varieties or crops 
+treated with beneficial microorganisms showing enhanced resistance. In 
+the current scheme, the use of comparative proteomics to analyse plant- 
+microbe interplay will become the most popular choice for researchers 
+all over the world. 
+
+CRediT authorship contribution statement 
+
+Akansha  Jain:  Writing  -  review  &  editing.  Harikesh  Bahadur 
+Singh:  Writing  -  review  &  editing.  Sampa  Das:  Writing  -  review  & 
+editing. 
+
+Acknowledgements 
+
+AJ is grateful to Department of Science and Technology, India, for 
+financial  assistance  under  DST  Women  Scientist-WOS-A  Scheme  (SR/ 
+WOS-A/LS-377/2018).  SD  acknowledges  Indian  National  Science 
+Academy for providing Senior Scientist fellowship. 
+
+References 
+
+Aebersold, R., Mann, M., 2003. Mass spectrometry-based proteomics. Nature 422 (6928), 
+
+198–207. 
+
+Agrawal, G.K., Sarkar, A., Righetti, P.G., Pedreschi, R., Carpentier, S., Wang, T., 
+Barkla, B.J., Kohli, A., Ndimba, B.K., Bykova, N.V., Rampitsch, C., Zolla, L., 
+Rafudeen, M.F., Cramer, R., Bindschedler, L.V., Tsakirpaloglou, N., Ndimba, R.J., 
+Farrant, J.M., Renaut, J., Job, D., Kikuchi, S., Rakwal, R., 2013. A decade of plant 
+proteomics and mass spectrometry: translation of technical advancements to food 
+security and safety issues. Mass Spectrom. Rev. 32 (5), 335–365. 
+
+Alexander, M.M., Cilia, M., 2016. A molecular tug-of-war: global plant proteome changes 
+
+during viral infection. Curr. Plant Biol. 5, 13–24. 
+
+Bindschedler, L.V., Cramer, R., 2011. Quantitative plant proteomics. Proteomics 11, 
+
+756–775. https://doi.org/10.1002/pmic.201000426. 
+
+Boller, T., Felix, G., 2009. A renaissance of elicitors: perception of microbe-associated 
+
+molecular patterns and danger signals by pattern-recognition receptors. Annu. Rev. 
+Plant Biol. 60, 379–406. 
+
+Bond, A.E., Row, P.E., Dudley, E., 2011. Post-translation modification of proteins; 
+
+methodologies and applications in plant sciences. Phytochemistry 72, 975–996. 
+
+Brizard, J.P., Carapito, C., Delalande, F., Van Dorsselaer, A., Brugidou, C., 2006. 
+
+Proteome analysis of plant-virus interactome, comprehensive data for virus 
+multiplication inside their hosts. Mol. Cell Proteom. 5, 2279–2297. 
+
+Caplan, J.L., Zhu, X., Mamillapalli, P., Marathe, R., Anandalakshmi, R., Dinesh-Kumar, S. 
+P., 2009. Induced ER chaperones regulate a receptor-like kinase to mediate antiviral 
+innate immune response in plants. Cell Host Microbe 6, 457–469. https://doi.org/ 
+10.1016/j.chom.2009.10.005. 
+
+Casado-Vela, J., Sell´es, S., Martínez, R.B., 2006. Proteomic analysis of tobacco mosaic 
+virus-infected tomato (Lycopersicon esculentum M.) fruits and detection of viral coat 
+protein. Proteom. Suppl. 1, S196–206. 
+
+Chait, B.T., 2011. Mass spectrometry in the postgenomic era. Annu. Rev. Biochem. 80, 
+
+239–246. https://doi.org/10.1146/annurev-biochem-110810-095744. 
+
+Chatterjee, M., Gupta, S., Bhar, A., Chakraborto, D., Das, S., 2014. Analysis of root 
+proteome unravels differential molecular responses during compatible and 
+incompatible interaction between chickpea Cicer arietinum L. and Fusarium 
+oxysporum f. sp. ciceri Race1 Foc1. BMC Genom. 15, 949. 
+
+Chi, F.M., Yang, P., Han, F., Jing, Y., Shen, S., 2010. Proteomic analysis of rice seedlings 
+
+infected by Sinorhizobium meliloti 1021. Proteomics 109, 1861–1874. 
+
+Coaker, G.L., Willard, B., Kinter, M., Stockinger, E.J., Francis, D.M., 2004. Proteomic 
+analysis of resistance mediated by Rcm 2.0 and Rcm 5.1, two loci controlling 
+resistance to bacterial canker of tomato. Mol. Plant Microbe Interact. 17, 
+1019–1028. 
+
+Costa, T.R.D., Felisberto-Rodrigues, Meir, A., Redzej, A., Trokter, M., Waksman, G., 
+2015. Secretion systems in Gram-negative bacteria, structural and mechanistic 
+insights. Nat. Rev. Microbiol. 13, 343–359. 
+
+Curto, M., Camafeita, E., Lopez, J.A., Maldonado, A.M., Rubiales, D., Jorrín, J.V., 2006. 
+A proteomic approach to study pea Pisum sativum responses to powdery mildew 
+Erysiphe pisi. Proteomics 6, S163–174. 
+
+Dahal, D., Pich, A., Braun, H.P., Wydra, K., 2010. Analysis of cell wall proteins regulated 
+in stem of susceptible and resistant tomato species after inoculation with Ralstonia 
+solanacearum, a proteomic approach. Plant Mol. Biol. 73, 643–658. 
+
+Delalande, F., Carapito, C., Brizard, J.P., Brugidou, C., Van Dorsselaer, A., 2005. 
+
+Multigenic families and proteomics, extended protein characterization as a tool for 
+paralog gene identification. Proteomics 5, 450–460. 
+
+De-La-Pe˜na, C., Lei, Z., Watson, B.S., Sumner, L.W., Vivanco, J.M., 2008. Root-microbe 
+communication through protein secretion. J. Biol. Chem. 283, 25247–25255. 
+Devos, S., Laukens, K., Deckers, P., Van Der Straeten, D., Beeckman, T., Inze, D., Van 
+
+Onckelen, H., Witters, E., Prinsen, E., 2006. A hormone and proteome approach to 
+picturing the initial metabolic events during Plasmodiophora brassicae infection on 
+Arabidopsis. Mol. Plant Microbe Interact. 19, 1431–1443. 
+
+Di, Y., Zhang, Y., Zhang, L., Tao, T., Lu, H., 2017. MdFDIA, A mass defect based four-plex 
+data-independent acquisition strategy for proteome quantification. Anal. Chem. 919, 
+10248–10255. 
+
+Di Carli, M., Villani, M.E., Bianco, L., Lombardi, R., Perrotta, G., Benvenuto, E., 
+
+Donini, M., 2010. Proteomic analysis of the plant-virus interaction in cucumber 
+mosaic virus CMV. Resistant transgenic tomato. J. Proteome Res. 911, 5684–5697. 
+https://doi.org/10.1021/pr100487x. 
+
+Diaz-Vivancos, P., Rubio, M., Mesonero, V., Periago, P.M., Barcelo, A.R., Martinez- 
+
+Gomez, P., Hernandez, J.A., 2006. The apoplastic antioxidant system in Prunus, 
+response to long-term plum pox virus infection. J. Exp. Bot. 57, 3813–3824. 
+Doehlemann, G., Hemetsberger, C., 2013. Apoplastic immunity and its suppression by 
+
+filamentous plant pathogens. New Phytol. 198, 1001–1016. 
+
+Emmett, M.R., Caprioli, R.M., 1994. Micro-electrospray mass spectrometry, ultra-high- 
+sensitivity analysis of peptides and proteins. J. Am. Soc. Mass Spectrom. 5, 605–613. 
+Faleiro, A.C., Neto, P.A.V., de Souza, T.V., Santos, M., Arisi, A.C.M., 2015. Microscopic 
+
+and proteomic analysis of Zea mays roots P30F53 variety. Inoculated with 
+Azospirillum brasilense strain FP2. J. Crop Sci. Biotechnol. 18 (2), 63–71. https://doi. 
+org/10.1007/s12892-014-0061-x. 
+
+Fenn, J.B., Mann, M., Meng, C.K., Wong, S.F., Whitehouse, C.M., 1989. Electrospray 
+ionization for mass spectrometry of large biomolecules. Science 246, 64–71. 
+Fern´andez, R.G., Novo, J.V.J., 2010. Proteomics of fungal plant pathogens, the case of 
+Botrytis cinerea. In: Vilas, A.M. (Ed.), Current Research, Technology and Education 
+Topics in Applied Microbiology and Microbial Biotechnology, pp. 205–217. 
+Fern´andez, R.G., Novo, J.V.J., 2011. Contribution of proteomics to the study of plant 
+
+pathogenic fungi. J. Proteome Res. 111, 3–16. 
+
+Feussner, I., Polle, A., 2015. What the transcriptome does not tell - proteomics and 
+
+metabolomics are closer to the plants’ patho-phenotype. Curr. Opin. Plant Biol. 26, 
+26–31. https://doi.org/10.1016/j.pbi.2015.05.023. 
+
+Fu, Z.Q., Guo, M., Jeong, B.R., Tian, F., Elthon, T.E., Cerny, R.L., Staiger, D., Alfano, J.R., 
+2007. A type III effector ADP-ribosylates RNA-binding proteins and quells plant 
+immunity. Nature 447, 284–288. 
+
+Gerber, I.B., Laukens, K., Witters, E., Dubery, I.A., 2006. Lipopolysaccharide-responsive 
+
+phosphoproteins in Nicotiana tabacum cells. Plant Physiol. Biochem. 44, 369–379. 
+https://doi.org/10.1016/j.plaphy.2006.06.01. 
+
+Gerber, I.B., Laukens, K., De Vijlder, T., Witters, E., Dubery, I.A., 2008. Proteomic 
+
+profiling of cellular targets of lipopolysaccharide-induced signalling in Nicotiana 
+tabacum BY-2 cells. Biochem. Biophys. Acta 1784, 1750–1762. 
+
+Gimenez-Ibanez, S., Solano, R., 2013. Nuclear jasmonate and salicylate signaling and 
+crosstalk in defense against pathogens. Front. Plant Sci. 4, 72. https://doi.org/ 
+10.3389/fpls.2013.00072. 
+
+Gonz´alez, J.F., Degrassi, G.D., Devescovi, G., Vleesschauwer, D.D., H¨ofte, M., Myers, M. 
+P., Venturi, V., 2012. A proteomic study of Xanthomonas oryzae pv. oryzae in rice 
+xylem sap. J. Proteom. 75, 5911–5919. 
+
+Gourion, B., Rossignol, M., Vorholt, J.A., 2006. A proteomic study of Methylobacterium 
+extorquensreveals a novel type of response regulator essential for epiphytic growth. 
+Proc. Natl. Acad. Sci. U. S. A. 103, 13186–13191. 
+
+Granlund, I., Hall, M., Schr¨oder, W.P., 2009. Difference Gel Electrophoresis DIGE. eLS. 
+John Wiley & Sons Ltd, Chichester. https://doi.org/10.1002/9780470015902. 
+a0021881 http,//www.els.net.  
+
+Grewal, R.K., Gupta, S., Das, S., 2012. Xanthomonas oryzae pv oryzae triggers immediate 
+
+transcriptomic modulations in rice. BMC Genom. 13, 49. 
+
+MicrobiologicalResearch242(2021)1265909A. Jain et al.                                                                                                                                                                                                                                     
+
+Griffin, P.R., Coffman, J.A., Hood, L.E., Yates, J.R., 1991. Structural analysis of proteins 
+
+Lee, B.J., Kwon, S.J., Kim, S.K., Kim, K.J., Park, C.J., Kim, Y.J., Park, O.K., Paek, K.H., 
+
+by capillary HPLC electrospray tandem mass spectrometry. Int. J. Mass Spectrom. 
+Ion Process. 111, 131–149. 
+
+Gupta, S., Bhar, A., Chatterjee, M., Das, S., 2013. Fusarium oxysporum f.sp. ciceri Race 1 
+induced redox state alterations are coupled to downstream defense signaling in root 
+tissues of chickpea Cicer arietinum L. PLoS One 89, e73163. https://doi.org/10.1371/ 
+journal.pone.0073163. 
+
+Gygi, S.P., Aebersold, R., 2000. Mass spectrometry and proteomics. Curr. Opin. Chem. 
+
+Biol. 4, 489–494. https://doi.org/10.1016/S1367-593100.00121. 
+
+Huang, H., Shukla, H.D., Wu, C., Saxena, S., 2007. Challenges and solutions in 
+
+proteomics. Curr. Genom. 8, 21–28. 
+
+Ibort, P., Imai, H., Uemura, M., Aroca, R., 2018. Proteomic analysis reveals that tomato 
+interaction with plant growth promoting bacteria is highly determined by ethylene 
+perception. J. Plant Physiol. 220, 43–59. 
+
+Jain, A., Singh, S., Sarma, B.K., Singh, H.B., 2012. Microbial consortium mediated 
+
+reprogramming of defense network in pea to enhance tolerance against Sclerotinia 
+sclerotiorum. J. Appl. Microbiol. 1123, 537–550. 
+
+Jain, A., Singh, A., Singh, S., Singh, H.B., 2013a. Microbial consortium-induced changes 
+in oxidative stress markers in pea plants challenged with Sclerotinia sclerotiorum. 
+J. Plant Growth Regul. 32, 388–398. 
+
+Jain, A., Singh, A., Singh, B.N., Singh, S., Upadhyay, R.S., Sarma, B.K., Singh, H.B., 
+
+2013b. Biotic stress management in agricultural crops using microbial consortium. 
+In: Maheshwari, D.K. (Ed.), Bacteria in Agrobiology, Disease Management. Springer, 
+Verlag, Berlin Heidelberg, pp. 427–448. 
+
+Jain, A., Singh, A., Singh, S., Singh, H.B., 2015. Comparative proteomics analysis in pea 
+treated with microbial consortium of beneficial microbes reveals changes in protein 
+network to enhance resistance against Sclerotinia sclerotiorum. J. Plant Physiol. 
+https://doi.org/10.1016/j.jplph.2015.05.004. 
+
+Jain, A., Chakrobarty, J., Das, S., 2020. Underlying mechanism of plant –microbe 
+
+crosstalk in shaping microbial ecology of the rhizosphere. Acta Physiol. Plant. 42, 8. 
+https://doi.org/10.1007/s11738-019-3000-0. 
+
+Jayaraman, D., Forshey, K.L., Grimsrud, P.A., Ane, J.M., 2012. Leveraging proteomics to 
+understand plant-microbe interactions. Front. Plant Sci. 3, 44. https://doi.org/ 
+10.3389/fpls.2012.00044. 
+
+Jiang, J., Gai, Z., Wang, Y., Fan, K., Sun, L., Wang, H., Ding, Z., 2018. Comprehensive 
+proteome analyses of lysine acetylation in tea leaves by sensing nitrogen nutrition. 
+BMC Genom. 19 (1), 840. 
+
+Jones, J.D., Dangl, J.L., 2006. The plant immune system. Nature 444 (7117), 323–329. 
+Jones, A.M.E., Thomas, V., Truman, B., Lilley, K., Mansfield, J., Grant, M., 2004. Specific 
+
+changes in the Arabidopsis proteome in response to bacterial challenge, 
+differentiating basal and R-gene mediated resistance. Phytochemistry 65, 
+1805–1816. 
+
+2006b. Functional study of hot pepper 26S proteasome subunit RPN7 induced by 
+tobacco mosaic virus from nuclear proteome analysis. Biochem. Biophys. Res. 
+Commun. 351, 405–411. 
+
+Lery, L.M., Hemerly, A.S., Nogueira, E.M., von Krüger, W.M., Bisch, P.M., 2011. 
+
+Quantitative proteomic analysis of the interaction between the endophytic plant- 
+growth-promoting bacterium Gluconacetobacter diazotrophicus and sugarcane. Mol. 
+Plant Microbe Interact. 24, 562–576. 
+
+Liu, C., Li, Z., Xing, J., Yang, J., Wang, Z., Zhang, H., Chen, D., Peng, Y.L., Chen, X.L., 
+
+2018. Global analysis of sumoylation function reveals novel insights into 
+development and appressorium-mediated infection of the rice blast fungus. New 
+Phytol. 2193, 1031–1047. 
+
+Liu, Y., Lu, S., Liu, K., Wang, K., Huang, L., Guo, L., 2019. Proteomics, a powerful tool to 
+study plant responses to biotic stress. Plant Methods 15, 135. https://doi.org/ 
+10.1186/s13007-019-0515-0518. 
+
+Mahmood, T., Jan, A., Kakishima, M., Komatsu, S., 2006. Proteomic analysis of bacterial- 
+blight defense responsive proteins in rice leaf blades. Proteomics 6, 6053–6065. 
+Mann, M., Hendrickson, R.C., Pandey, A., 2001. Analysis of proteins and proteomes by 
+mass spectrometry. Annu. Rev. Biochem. 70, 437–473. https://doi.org/10.1146/ 
+annurev.biochem.70.1.437. 
+
+Marra, R., Ambrosino, P., Carbone, V., Vinale, F., Woo, S.L., Ruocco, M., Ciliento, R., 
+
+Lanzuise, S., Ferraioli, S., Soriente, I., Gigante, S., Turr`a, D., Fogliano, V., Scala, F., 
+Lorito, M., 2006. Study of the three-way interaction between Trichoderma atroviride, 
+plant and fungal pathogens by using a proteomic approach. Curr. Gene 50, 307–321. 
+https://doi.org/10.1007/s00294-006-0091-0. 
+
+Mathesius, U., 2009. Comparative proteomic studies of root-microbe interactions. 
+J. Proteom. 72, 353–366. https://doi.org/10.1016/j.jprot.2008.12.006. 
+Mcllwain, S., Page, D., Huttlin, E.L., Sussman, M.R., 2008. Matching isotopic 
+
+distributions from metabolically labelled samples. Bioinformatics 24, i339–i347. 
+https://doi.org/10.1093/bioinformatics/btn190. 
+
+Mehta, A., Brasileiro, A.C.M., Souza, D.S.L., Romano, E., Campos, M.A., Grossi-de-S´a, M. 
+
+F., Silva, M.S., Franco, O.L., Fragoso, R.R., Bevitori, R., Rocha, T.L., 2008. 
+Plant–pathogen interactions, what is proteomics telling us? FEBS J. 275 (15), 
+3731–3746. 
+
+Meksiriporn, B., Ludwicki, M.B., Stephens, E.A., Jiang, A., Lee, H.C., Waraho- 
+
+Zhmayev, D., Kummer, L., Brandl, F., Pluckthun, A., DeLisa, M.P., 2019. A survival 
+selection strategy for engineering synthetic binding proteins that specifically 
+recognize post-translationally phosphorylated proteins. Nat. Commun. 10 (1), 1830. 
+Merchant, M., Weinberger, S.R., 2000. Recent advancements in surface-enhanced laser 
+
+desorption/ionization-time of flight-mass spectrometry. Electrophoresis 21, 
+1164–1177. 
+
+Moshe, A., Gorovits, R., 2012. Virus-induced aggregates in infected cells. Viruses 4, 
+
+Jones, A.M., Monaghan, J., Ntoukakis, V., 2013. Editorial, mechanisms regulating 
+
+2218–2232. 
+
+immunity in plants. Front. Plant Sci. 4. 
+
+Kaffarnik, F.A., Jones, A.M., Rathjen, J.P., Peck, S.C., 2009. Effector proteins of the 
+
+bacterial pathogen Pseudomonas syringae alter the extracellular proteome of the host 
+plant, Arabidopsis thaliana. Mol. Cell Proteom. 8, 145–156. 
+
+Karas, M., Hillenkamp, F., 1988. Laser desorption ionization of proteins with molecular 
+
+masses exceeding 10,000 Da. Anal. Chem. 60, 2299–3011. 
+
+Kav, N., Srivastava, S., Yajima, W., Sharma, N., 2007. Application of proteomics to 
+
+investigate plant-microbe interactions. Curr. Proteom. 4, 28–43. https://doi.org/ 
+10.2174/15701640778138735. 
+
+Keller, A., Nesvizhskii, A.I., Kolker, E., Aebersold, R., 2002. Empirical statistical model to 
+estimate the accuracy of peptide identifications made by MS/MS and database 
+search. Anal. Chem. 7420, 5383–5392. 
+
+Kema, G.H.J., Mirzadi Gohari, A., Aouini, L., Gibriel, H.A.Y., Ware, S.B., van den 
+Bosch, F., Manning-Smith, R., Alonso-Chavez, V., Helps, J., Ben M’Barek, S., 
+Mehrabi, R., Diaz-Trujillo, C., Zamani, E., Schouten, H.J., van der Lee, T.A.J., 
+Waalwijk, C., de Waard, M.A., de Wit, P., Verstappen, E.C.P., Thomma, B., Meijer, H. 
+J.G., Seidl, M.F., 2018. Stress and sexual reproduction affect the dynamics of the 
+wheat pathogen effector AvrStb6 and strobilurin resistance. Nat. Genet. 503, 
+375–380. 
+
+Khatabi, B., Gharechahi, J., Ghaffari, M.R., Liu, D., Haynes, P.A., McKay, M.J., 
+
+Mirzaei, M., Salekdeh, G.H., 2019. Plant-microbe symbiosis, what has proteomics 
+taught us? Proteomics 196, e1800105. 
+
+Kim, S.T., Kim, S.G., Hwang, D.H., Kang, S.Y., Kim, H.J., Lee, B.H., Lee, J.J., Kang, K.Y., 
+2004. Proteomic analysis of pathogen-responsive proteins from rice leaves induced 
+by rice blast fungus, Magnaporthe grisea. Proteomics 4, 3569–3578. 
+
+Kim, J.K., Wu, J., Kwon, S.J., Oh, H., Lee, S.E., Kim, S.G., 2014. Proteomics of rice and 
+Cochliobolus miyabeanus fungal interaction, Insight into proteins at intracellular and 
+extracellular spaces. Proteomics 1420. https://doi.org/10.1002/pmic.201400066. 
+
+Knief, C., Delmotte, N., Vorholt, J., 2011. Bacterial adaptation to life in association with 
+plants - a proteomic perspective from culture to in situ conditions. Proteomics 11, 
+1–20. 
+
+Kristjansdottir, K., Wolfgeher, D., Lucius, N., Angulo, D.S., Kron, S.J., 2008. 
+
+Phosphoprotein profiling by PA-GeLC-MS/MS. J. Proteome Res. 77, 2812–2824. 
+Larrainzar, E., Wienkoop, S., Weckwerth, W., Ladrera, R., Arrese-Igor, C., Gonz´alez, E.M., 
+2007. Medicago truncatula root nodule proteome analysis reveals differential plant 
+and bacteroid responses to drought stress. Plant Physiol. 1443, 1495–1507. https:// 
+doi.org/10.1104/pp.107.101618. 
+
+Le Sage, V., Cinti, A., Mouland, A.J., 2016. Proximity-dependent biotinylation for 
+
+identification of interacting proteins. Curr. Protoc. Cell Biol. 73, 17191–171912. 
+Lee, J., Bricker, T.M., Lefevre, M., Pinson, S.R.M., Oard, J.H., 2006a. Proteomic and 
+
+genetic approaches to identifying defence-related proteins in rice challenged with 
+the fungal pathogen Rhizoctonia solani. Mol. Plant Pathol. 75, 405–416. 
+
+Narayanan, A., Jacobson, M.P., 2009. Computational studies of protein regulation by 
+
+post-translational phosphorylation. Curr. Opin. Struct. Biol. 19, 156–163. 
+Nesvizhskii, A.I., Keller, A., Kolker, E., Aebersold, R., 2003. A statistical model for 
+
+identifying proteins by tandem mass spectrometry. Anal. Chem. 75, 4646–4658. 
+Nomura, K., Debroy, S., Lee, Y.H., Pumplin, N., Jones, J., He, S.Y., 2006. A bacterial 
+virulence protein suppresses host innate immunity to cause plant disease. Science 
+313, 220–223. 
+
+Nomura, M., Arunothayanan, H., Dao, T.V., Le, H.T.P., Takakazu Kaneko, T., Sato, S., 
+
+Tabata, S., Tajima, S., 2010. Differential protein profiles of Bradyrhizobium japonicum 
+USDA110 bacteroid during soybean nodule development. Soil Sci. Plant Nutr. 56, 
+579–590. 
+
+Nov´akov´a, S., Flores-Ramírez, G., Glasa, M., Danchenko, M., Fiala, R., Skultety, L., 2015. 
+Partially resistant Cucurbita pepo showed late onset of the Zucchini yellow mosaic 
+virus infection due to rapid activation of defense mechanisms as compared to 
+susceptible cultivar. Front. Plant Sci. 6, 263. 
+
+Ong, S.E., Blagoev, B., Kratchmarova, I., Kristensen, D.B., Steen, H., Pandey, A., 
+
+Mann, M., 2002. Stable isotope labeling by amino acids in cell culture, SILAC, as a 
+simple and accurate approach to expression proteomics. Mol. Cell Proteom. 1, 
+376–386. https://doi.org/10.1074/mcp.M200025-MCP200. 
+
+Park, C.J., Caddell, D.F., Ronald, P.C., 2012. Protein phosphorylation in plant immunity, 
+insights into the regulation of pattern recognition receptor-mediated signaling. 
+Front. Plant Sci. 3. 
+
+Park, S.H., Li, F., Renaud, J., Shen, W., Li, Y., Guo, L., Cui, H., Sumarah, M., Wang, A., 
+2017. NbEXPA1, an alpha-expansin, is plasmodesmata-specific and a novel host 
+factor for potyviral infection. Plant J. 925, 846–861. 
+
+Patel, J.S., Sarma, B.K., Singh, H.B., Upadhyay, R.S., Kharwar, R.N., Ahmed, M., 2016. 
+Pseudomonas fluorescens and Trichoderma asperellum enhance expression of Gα 
+subunits of the pea heterotrimeric G-protein during Erysiphe pisi infection. Front. 
+Plant Sci. 6, 1206. 
+
+Pel, M.J., Pieterse, C.M., 2013. Microbial recognition and evasion of host immunity. 
+
+J. Exp. Bot. 64, 1237–1248. https://doi.org/10.1093/jxb/ers262. 
+
+Perez-Bueno, M.L., Rahoutei, J., Sajnani, C., Garcia-Luque, I., Baron, M., 2004. 
+
+Proteomic analysis of the oxygen evolving complex of photosystem II under biotic 
+stress, studies on Nicotiana benthamiana infected with tobamoviruses. Proteomics 4, 
+418–425. 
+
+Pieterse, C.M., van der Does, D., Zamioudis, C., Leon-Reyes, A., van Wees, S.C., 2012. 
+
+Hormonal modulation of plant immunity. Annu. Rev. Cell Dev. Biol. 28, 28.1–28.33. 
+Quirino, B.F., Candido, E.S., Campos, P.F., Franco, O.L., Krüger, R.H., 2010. Proteomic 
+approaches to study plant–pathogen interactions. Phytochemistry 71, 351–362. 
+Rakwal, R., Agrawal, G.K., 2003. Rice proteomics, current status and future perspectives. 
+
+Electrophoresis 24, 3378–3388. 
+
+Rep, M., Dekker, H.L., Vossen, J.H., de Boer, A.D., Houterman, P.M., Speijer, D., Back, J. 
+W., de Koster, C.G., Cornelissen, B.J., 2002. Mass spectrometric identification of 
+
+MicrobiologicalResearch242(2021)12659010A. Jain et al.                                                                                                                                                                                                                                     
+
+isoforms of PR proteins in xylem sap of fungus-infected tomato. Plant Physiol. 130, 
+904–917. 
+
+Riley, N.M., Hebert, A.S., Westphall, M.S., Coon, J.J., 2019. Capturing site-specific 
+
+heterogeneity with large-scale N-glycoproteome analysis. Nat. Commun. 10 (1), 
+1311. 
+
+Robert-Seilaniantz, A., MacLean, D., Jikumaru, Y., Hill, L., Yamaguchi, S., Kamiya, Y., 
+Jones, J.D.G., 2011. The microRNA miR393 re-directs secondary metabolite 
+biosynthesis away from camalexin and towards glucosinolates. Plant J. 67, 218–231. 
+
+Roe, M.R., Griffin, T.J., 2006. Gel-free mass spectrometry-based high throughput 
+proteomics, tools for studying biological response of proteins and proteomes. 
+Proteomics 6, 4678–4687. https://doi.org/10.1002/pmic.200500876. 
+
+Rytz, T.C., Miller, M.J., McLoughlin, F., Augustine, R.C., Marshall, R.S., Juan, Y.T., 
+Charng, Y.Y., Scalf, M., Smith, L.M., Vierstra, R.D., 2018. SUMOylome profiling 
+reveals a diverse array of nuclear targets modified by the SUMO ligase SIZ1 during 
+heat stress. Plant Cell 30 (5), 1077–1099. 
+
+Scheler, C., Durner, J., Astier, J., 2013. Nitric oxide and reactive oxygen species in plant 
+biotic interactions. Curr. Opin. Plant Biol. 16, 534–539. https://doi.org/10.1016/j. 
+pbi.2013.06.020. 
+
+Seo, Y.S., Chern, M., Bartley, L.E., Han, M., Jung, K.H., Lee, I., Walia, H., Richter, T., 
+
+Xu, X., Cao, P., 2011. Towards establishment of a rice stress response interactome. 
+PLoS Genet. 7, e1002020. 
+
+Serna-Sanz, A., Parniske, M., Peck, S.C., 2011. Phosphoproteome analysis of Lotus 
+
+japonicusroots reveals shared and distinct components of symbiosis and defense. Mol. 
+Plant Microbe Interact. 24, 932–937. https://doi.org/10.1094/MPMI-09-10-0222. 
+
+Sharma, N., Rahman, M.H., Strelkov, S., Thiagarajah, M., Bansal, V.K., Kav, N.N.V., 
+2007. Proteome-level changes in two brassica napus lines exhibiting differential 
+responses to the fungal pathogen Alternaria brassicae. Plant Sci. 172, 95–110. 
+Shoresh, M., Harman, G.E., 2008. The molecular basis of shoot responses of maize 
+seedlings to Trichoderma harzianum T22 inoculation of the root, a proteomic 
+approach. Plant Physiol. 147, 2147–2163. 
+
+Sidoli, S., Lin, S., Xiong, L., Bhanu, N.V., Karch, K.R., Johansen, E., Hunter, C., Mollah, S., 
+Garcia, B.A., 2015. Sequential Window Acquisition of all Theoretical Mass Spectra 
+SWATH. Analysis for characterization and quantification of histone post- 
+translational modifications. Mol. Cell Proteom. 149, 2420–2428. https://doi.org/ 
+10.1074/mcp.O114.046102. 
+
+Smith, J.A., Blanchette, R.A., Burnes, T.A., Jacobs, J.J., Higgins, L., Witthuhn, B.A., 
+
+David, A.J., Gillman, J.H., 2006. Proteomic comparison of needles from blister rust- 
+resistant and susceptible Pinus strobes seedlings reveals upregulation of putative 
+disease resistance proteins. Mol. Plant Microbe Interact. 19, 150–160. 
+
+Sperschneider, J., Catanzariti, A.M., DeBoer, K., Petre, B., Gardiner, D.M., Singh, K.B., 
+Dodds, P.N., Taylor, J.M., 2017. LOCALIZER, subcellular localization prediction of 
+both plant and effector proteins in the plant cell. Sci. Rep. 7, 44598. 
+
+Syka, J.E., Coon, J.J., Schroeder, M.J., Shabanowitz, J., Hunt, D.F., 2004. Peptide and 
+protein sequence analysis by electron transfer dissociation mass spectrometry. Proc. 
+Natl. Acad. Sci. U. S. A. 101, 9528–9533. 
+
+Thingholm, T.E., Larsen, M.R., 2016. Sequential elution from IMAC (SIMAC): an efficient 
+method for enrichment and separation of mono- and multi-phosphorylated peptides. 
+In: von Stechow, L. (Ed.), Phospho-Proteomics. Methods in Molecular Biology, vol. 
+1355. Springer, New York, NY. https://doi.org/10.1007/978-1-4939-3049-4_10.  
+
+Torres, M.A., 2010. ROS in biotic interactions. Physiol. Plant. 138, 414–429. 
+Walton, A., Stes, E., Cybulski, N., Van Bel, M., Inigo, S., Durand, A.N., Timmerman, E., 
+Heyman, J., Pauwels, L., De Veylder, L., Goossens, A., De Smet, I., Coppens, F., 
+Goormachtig, S., Gevaert, K., 2016. It’s time for some “site”-seeing: novel tools to 
+monitor the ubiquitin landscape in Arabidopsis thaliana. Plant Cell 28 (1), 6–16. 
+Wang, Y., Feechan, A., Yun, B., Shafiei, R., Hofmann, A., Taylor, P., Xue, P., Yang, F., 
+
+Xie, Z., Pallas, J.A., Chu, C., Loake, G.J., 2009. S-Nitrosylation of AtSABP3 
+antagonizes the expression of plant immunity. J. Biol. Chem. 284, 2131–2137. 
+https://doi.org/10.1074/jbc.M109.012617. 
+
+Wang, F.X., Ma, Y.P., Yang, C.L., Zhao, P.M., Yao, Y., Jian, G.L., Luo, Y.M., Xia, G.X., 
+2011. Proteomic analysis of the sea-island cotton roots infected by wilt pathogen 
+Verticillium dahlia. Proteomics 11, 1–14. https://doi.org/10.1002/pmic.201100062. 
+Wang, B., Hajano, J., Ren, Y., Chuantao, Lu., Wang, X., 2015. iTRAQ-based quantitative 
+proteomics analysis of rice leaves infected by Rice stripe virus reveals several 
+proteins involved in symptom formation. Virol. J. 12, 99. https://doi.org/10.1186/ 
+s12985-015-0328-y. 
+
+Washburn, M.P., Wolters, D., Yates IIIrd, J.R., 2001. Large-scale analysis of the yeast 
+proteome by multidimensional protein identification technology. Nat. Biotechnol. 
+19, 242–247. 
+
+Withers, J., Dong, X., 2017. Post-translational regulation of plant immunity. Curr. Opin. 
+
+Plant Biol. 38, 124–132. 
+
+Witzel, K., Üstün, S., Schreiner, M., Grosch, R., B¨ornke, F., Ruppel, S., 2017. A proteomic 
+approach suggests unbalanced proteasome functioning induced by the growth- 
+promoting bacterium Kosakonia radicincitans in Arabidopsis. Front. Plant Sci. https:// 
+doi.org/10.3389/fpls.2017.00661. 
+
+Wu, C.H., Yeh, A.S.L., Huang, H., Arminski, L., Castro-Alvean, J., Chen, Y., Hu, Z., 
+
+Kourtesis, P., Ledley, R.S., Suzek, B.E., Vinayaka, C.R., Zhang, J., Barker, C.W., 2003. 
+The protein information resource. Nucleic Acid Res. 31, 345–347. 
+
+Wu, L., Han, Z., Wang, S., Wang, X., Sun, A., Zu, X., Chen, Y., 2013. Comparative 
+
+proteomic analysis of the plant-virus interaction in resistant and susceptible ecotypes 
+of maize infected with sugarcane mosaic virus. J. Proteom. 26, 124–140. https://doi. 
+org/10.1016/j.jprot.2013.06.005. 
+
+Yang, X., Dondeti, V., Dezube, R., Maynard, D.M., Geer, L.Y., Epstein, J., Chen, X., 
+Markey, S.P., Kowalak, J.A., 2004. DBParser, web-based software for shotgun 
+proteomic data analyses. J. Proteome Res. 3, 1002–1008. 
+
+Yasueda, Y., Tamura, T., Fujisawa, A., Kuwata, K., Tsukiji, S., Kiyonaka, S., Hamachi, I., 
+2016. A set of organelle-localizable reactive molecules for mitochondrial chemical 
+proteomics in living cells and brain tissues. J. Am. Chem. Soc. 13824, 7592–7602. 
+
+Yates, J.R., Ruse, C.I., Nakorchevsky, A., 2009. Proteomics by mass spectrometry, 
+approaches, advances, and applications. Annu. Rev. Biomed. Eng. 11, 49–79. 
+Yeom, S.I., Baek, H.K., Oh, S.K., Kang, W.H., Lee, S.J., Lee, J.M., Seo, E., Rose, J.K.C., 
+Kim, B.D., Choi, D., 2011. Use of a secretion trap screen in pepper following 
+Phytophthora capsici infection reveals novel functions of secreted plant proteins in 
+modulating cell death. Mol. Plant Microbe Interact. 246, 671–684. https://doi.org/ 
+10.1094/MPMI -08-10-0183. 
+
+Yu, C., Chen, H., Tian, F., Yang, F., Yuan, X., Yang, C.H., He, C., 2018. A ten gene- 
+containing genomic island determines flagellin glycosylation, implication for its 
+regulatory role in motility and virulence of Xanthomonas oryzae pv. oryzae. Mol. 
+Plant Pathol. 19, 579–592. 
+
+Zhang, J., Shao, F., Li, Y., Cui, H., Chen, L., Li, H., Zou, Y., Long, C., Lan, L., Chai, J., 
+
+Chen, S., Tang, X., Zhou, J.M., 2007. Pseudomonas syringaeA effector inactivates 
+MAPKs to suppress PAMP-induced immunity in plants. Cell Host Microbe 1, 
+175–185. 
+
+Zhang, Y.M., Zhao, J.M., Xiang, Y., Bian, X.C., Zuo, Q.M., Shen, Q., Gai, J.Y., Xing, H., 
+2011. Proteomics study of changes in soybean lines resistant and sensitive to 
+Phytophthora sojae. Proteome Sci. 9, 52. https://doi.org/10.1186/1477-5956-9-52. 
+Zhang, X., Fu, J., Hiromasa, Y., Pan, H., Bai, G., 2013. Differentially expressed proteins 
+associated with Fusarium head blight resistance in wheat. PLoS One 812, e82079. 
+https://doi.org/10.1371/journal.pone.0082079. 
+
+Zhou, W., Eudes, F., Laroche, A., 2006. Identification of differentially regulated proteins 
+in response to a compatible interaction between the pathogen Fusarium graminearum 
+and its host, Triticum aestivum. Proteomics 6, 4599–4609. 
+
+Zimaro, T., Gottig, N., Garavaglia, B.S., Gehring, C., Ottado, J., 2011. Unraveling plant 
+responses to bacterial pathogens through proteomics. J. Biomed. Biotechnol., 
+354801 https://doi.org/10.1155/2011/354801. 
+
+Zubarev, R.A., Kelleher, N.L., McLafferty, F.W., 1998. Electron capture dissociation of 
+
+multiply charged protein cations. A nonergodic process. J. Am. Chem. Soc. 120, 
+3265–3266. 
+
+MicrobiologicalResearch242(2021)12659011

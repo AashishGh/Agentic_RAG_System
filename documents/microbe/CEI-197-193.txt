@@ -1,0 +1,1794 @@
+doi: 10.1111/cei.13329
+
+REVIEW SERIES: TRANSLATING IMMUNOMETABOLISM
+
+Clinical and Experimental Immunology
+
+R E V I E W  A RT I C L E 
+
+Series Editors: Sarah Dimeloe and Claudio Mauro
+
+Metabolism at the centre of the host–microbe relationship
+
+OTHER ARTICLES PUBLISHED IN THIS REVIEW SERIES
+Translating immunometabolism: towards curing human diseases by targeting metabolic processes underpinning the immune response. Clinical and Experi-
+mental Immunology 2019, 197: 141-142.
+T cell metabolism in chronic viral infection. Clinical and Experimental Immunology 2019, 197: 143-152.
+Sculpting tumor microenvironment with immune system: from immunometabolism to immunoediting. Clinical and Experimental Immunology 2019, 197: 153-160.
+Sensing between reactions – how the metabolic microenvironment shapes immunity. Clinical and Experimental Immunology 2019, 197: 161-169.
+Altered metabolic pathways regulate synovial inflammation in rheumatoid arthritis. Clinical and Experimental Immunology 2019, 197: 170-180.
+Immune cell metabolism in autoimmunity. Clinical and Experimental Immunology 2019, 197: 181-192.
+
+K. M. Maslowski
+Institute of Immunology and Immunotherapy 
+
+and Institute of Metabolism and Systems 
+
+Research, University of Birmingham, 
+
+Birmingham, UK. 
+
+Accepted for publication 16 May 2019 
+
+Correspondence: K. M. Maslowski, 
+
+University of Birmingham, Institute of 
+
+Immunology and Immunotherapy and 
+
+Institute of Metabolism and Systems 
+
+Research, Birmingham, UK.E-mail: 
+
+k.m.maslowski@bham.ac.uk 
+
+Summary
+
+Maintaining  homoeostatic  host–microbe  interactions  is  vital  for  host 
+immune function. The gut microbiota shapes the host immune system and 
+the  immune  system  reciprocally  shapes  and  modifies  the  gut  microbiota. 
+However,  our  understanding  of  how  these  microbes  are  tolerated  and  how 
+individual, or communities of, gut microbes influence host function is lim-
+ited. This review will focus on metabolites as key mediators of this complex 
+host–microbe  relationship.  It  will  look  at  the  central  role  of  epithelial  me-
+tabolism in shaping the gut microbiota, how microbial metabolites influence 
+the  epithelium  and  the  mucosal  and  peripheral  immune  system,  and  how 
+the immune system shapes microbial composition and metabolism. Finally, 
+this  review  will  look  at  how  metabolites  are  involved  in  cross-talk  between 
+different  members  of  the  microbiota  and  their  role  during  infections.
+
+Keywords:  autoimmunity,  dysbiosis,  host-pathogen  interactions,  infection, 
+inflammation, physiological hypoxia
+
+Introduction
+
+The  intestinal  tract  is  colonized  by  a  plethora  of  microbes 
+known  collectively  as  the  gut  microbiota.  From  ants  to 
+humans,  these  gut  microbes  play  important  roles  in  main-
+taining  host  physiology:  from  nutrient  acquisition  and 
+synthesis, energy homoeostasis, maintenance of colonization 
+resistance and immune development and maintenance [1,2]. 
+Dysbiosis,  meaning  a  disruption  in  the  normal  microbiota, 
+is  associated  with  a  plethora  of  immune,  metabolic  and 
+even  neurological  diseases  [3–6].  A  common  trait  in  dys-
+biosis  is  a  shift  from  obligate  anaerobes  to  facultative 
+anaerobe  or  aerobic  microorganisms  [7,8].  Causes  of  dys-
+biosis  include  environmental  factors  such  as  antibiotic  use 
+and  western-style  high-fat  diet  [3],  but  host  genetic  factors 
+that regulate gut epithelial function and oxygen metabolism, 
+or  disease  states,  may  also  underlie  dysbiosis  [3,7,8].  As 
+such,  it  is  often  uncertain  whether  dysbiosis  causes  disease 
+or is a result [9]. While the understanding of host–microbe 
+interactions has advanced enormously over the past 20 years, 
+there  is  still  much  more  yet  to  be  defined.  With  rapidly 
+advancing  multiomics  technologies  we  are  gaining  insight 
+
+into  how  metabolism,  and  metabolites,  are  key  to  support-
+ing  the  host–microbe  relationship.
+
+Colonic epithelial metabolism shapes gut microbial 
+composition and vice versa
+
+The  intestinal  epithelium  is  at  the  interface  of  host  and 
+microbe interactions. Epithelial integrity is vitally important 
+for  maintaining  host  health,  as  loss  of  barrier  integrity 
+can lead to dissemination of intestinal bacteria, disruption 
+of nutrient acquisition, water loss and activation of mucosal 
+inflammation.  Epithelial  metabolism  has  been  proposed 
+to  be  central  in  establishing  the  hypoxic  environment  of 
+the  colon  lumen  that  is  critical  to  maintaining  obligate 
+anaerobic  commensal/mutualistic  microbes  [7],  but  the 
+main energy source of colonocytes is butyrate, a metabolic 
+by-product  of  the  gut  microbiota,  suggesting  that  micro-
+biota  presence  is  the  first  most  important  step  for  estab-
+lishing the host–microbe interface. This cyclical relationship 
+between  host  epithelial  metabolism  providing  a  niche  for 
+gut microbes and gut microbes providing an energy source 
+
+© 2019 The Authors. Clinical & Experimental Immunology published by John Wiley & Sons Ltd on behalf of British Society 
+for Immunology, Clinical and Experimental Immunology, 197: 193–204
+This is an open access article under the terms of the Creat ive Commo ns Attri bution License, which permits use, distribution and 
+reproduction in any medium, provided the original work is properly cited.
+
+193
+
+for  the  epithelium,  make  it  difficult  to  dissect  the  under-
+the  basis  of  host–microbe 
+pinning  mechanisms  at 
+homoeostasis.
+
+Members  of  the  healthy  gut  microbiota  are  important 
+for  the  digestion  of  complex  plant  polysaccharides  (fibre) 
+from  the  diet  by  fermentation  and  as  such,  germ-free 
+mice  exhibit  an  enlarged  caecum,  due  to  the  build-up  of 
+undigested  dietary  fibre,  and  defects  in  energy  har-
+vest  –  particularly  in  colonocyte  energy  homoeostasis 
+[10–17].  Fermentation  of  dietary  fibre  results  in  the  pro-
+duction of short chain fatty acid (SCFA), including acetate 
+(C2),  propionate  (C3)  and  butyrate  (C4).  It  has  long  been 
+established  that  colonocytes  preferentially  utilize  butyrate 
+as  an  energy  source,  and  doing  so  utilizes  oxygen,  with 
+butyrate  metabolism  accounting  for  approximately  85% 
+of oxygen consumption by colonocytes [17–21]. Germ-free 
+mice  exhibit  decreased  epithelial  nicotinamide  adenine 
+dinucleotide  hydrogen  (NADH)/NAD+  and  ATP  levels, 
+marked  by  decreased  mRNA  and  protein  expression  of 
+various  genes  involved  in  metabolism  [17],  which  high-
+lights  the  importance  of  the  microbiota  for  epithelial 
+metabolism.  Host  colonization  starts  from  birth  (the  fetus 
+is  considered  largely  sterile)  and  during  the  first  months 
+and  years  microbes  inhabiting  the  gut  undergo  successive 
+waves of colonization. First, pioneering aerobic or faculta-
+tive anaerobes dominate before obligate anaerobes assemble 
+and  diversity  appears  [22–24].  Experiments  in  germ-free 
+mice  indicate  that  obligate  anaerobes  cannot  colonize  the 
+intestine  without  prior  colonization  with  aerobic  or  fac-
+ultative anaerobes [25], which suggests that these pioneers 
+are  involved  in  establishing  a  relationship  with  the  host.
+Several  studies  have  begun  to  unravel  the  pathways 
+involved  in  regulating  colonic  epithelial  metabolism  and 
+the  interplay  between  epithelium  and  gut  microbiota. 
+[7,17,21,26–28]. As colonic epithelial cells differentiate they 
+acquire  expression  of  peroxisome  proliferator-activated 
+receptor  gamma  (PPARγ)  [29],  which  activates  fatty  acid 
+metabolism  enabling  mitochondrial  β-oxidation  and  oxi-
+dative  phosphorylation  with  butyrate  as  the  fuel  source 
+[17,27].  This  utilizes  large  amounts  of  oxygen,  causing 
+very low levels of oxygen at the mucosal surface (<10 mm/
+Hg  =  <1%)  [30–32].  Limited  oxygen  diffusion  from  the 
+mucosal  tissue  into  the  gut  lumen  makes  the  hypoxic 
+environment  suitable  for  harbouring  obligate  anaerobic 
+microbes  [7,27].  Obligate  anaerobic  microbes  then  pref-
+erentially  occupy  this  niche,  preventing  growth  of  faculta-
+tive  anaerobes  [7].  A  further  layer  of  complexity  is  that 
+butyrate  itself  activates  PPARγ  [33],  making  a  closed 
+circuit  of  mutual  benefit,  but  also  making  it  difficult  to 
+ascertain  where  the  cycle  initially  starts  (Fig.  1).  As 
+described  above,  obligate  anaerobes  cannot  colonize  a 
+germ-free  host  without  the  prior  colonization  with  an 
+aerobic organism. This suggests that early microbial signals 
+may  be  required  to  instigate  the  transcriptional  network 
+
+that activates PPARγ and subsequent high levels of oxygen 
+utilization.
+
+Given  that  enterocytes  at  the  tip  of  the  colonic  crypt 
+exist  in  a  virtually  hypoxic  environment,  they  must  need 
+to  adapt  to  these  conditions  to  prevent  cell  death.  It  has 
+been  demonstrated  that  butyrate  metabolism  and  subse-
+quent  oxygen  utilization  is  sufficient  to  stabilize  hypoxia-
+inducible factor (HIF) in the colonic epithelium [21]. HIF 
+stabilization is important for activating a cellular signature 
+of  physiological  hypoxia,  inducing  numerous  targets  that 
+are  involved  in  maintaining  barrier  function  [34].  For 
+example,  HIF  binds  to  intestinal  trefoil  factor  (ITF),  an 
+important mediator of barrier function [26]. Thus, entero-
+cytes are adapted to function and maintain barrier integrity 
+within  this  physiological  hypoxic  environment.
+
+Together,  these  studies  suggest  that  establishment  of 
+the  transcriptional  networks  that  enable  high  oxygen 
+consumption  by  colonocytes  and  ability  to  function  in 
+physiological hypoxia is critical to establishing the host–
+microbe  relationship,  and  that  early  pioneering  gut 
+microbes may be required to initiate such transcriptional 
+networks. Perturbations in epithelial metabolism (genetic, 
+disease,  damage,  other)  or  perturbations  in  the  gut 
+microbiota  (antibiotics,  diet,  infection,  inflammation, 
+other)  could  disrupt  this  host–microbe  metabolic  inter-
+dependence.  Future  studies  looking  to  unravel  the  com-
+plex  interplay  between  host  epithelium,  microbiota  and 
+establishment  of  this  physiological  hypoxia  may  need 
+to  look  at  the  events  during  early  host  colonization  in 
+order  to  understand  more  clearly  what  the  first  signals 
+are  that  activate  this  cyclic  interaction  between  host 
+and  microbe.  These  pathways  are  less  studied  in  the 
+small  intestine,  but  physiological  hypoxia  is  also  appar-
+ent  in  the  small  intestine  [35].  Future  studies  might 
+also  look  into  the  effect  of  fluctuations  in  blood  flow 
+and  thereby  oxygen  abundance,  which  occurs  following 
+feeding.  Just  a  fraction  of  mucosal  capillaries  are  used 
+under  fasting  conditions,  whereas  in  the  fed  state  intes-
+tinal  blood  flow  can  increase  up  to  200%  [35].  An 
+interesting  question  is  whether  an  overfed  state,  such 
+as  that  which  typically  occurs  in  developed  countries 
+where  food  is  abundant,  could  lead  to  increased  oxy-
+genation  of  the  intestinal  villus  and  lumen  leading  to 
+altered  microbiomes  overserved  in  western  cultures, 
+contributing  to  dysbiosis  and  disease  development  or 
+amplification.
+
+Commensal metabolites and their effects on the 
+intestinal epithelium
+
+The  gut  microbiota  have  enormous  effects  on  the  host, 
+not  only  through  the  presence  of  microbe-associated 
+molecular patterns (MAMPs), but also through metabolites 
+they  generate.  As  discussed  above,  fermentation  of  dietary 
+
+194
+
+© 2019 The Authors. Clinical & Experimental Immunology published by John Wiley & Sons Ltd on behalf of British Society for 
+Immunology, Clinical and Experimental Immunology, 197: 193–204
+
+K. M. MaslowskiREVIEW SERIES: TRANSLATING IMMUNOMETABOLISMFig. 1. Metabolic interplay between host and gut microbes. Colonic epithelial metabolism of butyrate is central to establishing the host–microbe 
+relationship. Butyrate is a by-product of fermentation of dietary and host-derived complex carbohydrates. Certain species of the gut microbiota are 
+responsible for short-chain fatty acid (SCFA) production (acetate, propionate and butyrate); these are critical members of the community and 
+dysbiosis is often characterized by their loss. Enterocytes at the tip of the villi are main users of butyrate; they express Peroxisome proliferator-
+activated receptor gamma (PPARy) (which can be induced by butyrate) which activates β-oxidation and oxidative phosphorylation. High amounts of 
+oxygen are consumed in this process, making the top of the intestinal crypts physiologically hypoxic. This ensures limited oxygen diffusion into the 
+gut lumen, thereby creating an environment suitable for obligate anaerobes. Hypoxia induces hypoxia-inducible factor (HIF), which activates a 
+transcriptional network important for maintaining epithelial integrity. SCFA also have a variety of effects on the mucosal and peripheral immune 
+systems, largely acting in a regulatory capacity, limiting inflammatory responses. They also regulate immunoglobulin (Ig)A production via retinoic 
+acid production by dendritic cells, which in turn also modulates microbiota composition.
+
+important  for 
+
+fibre  results  in  SCFA  production,  and  butyrate  is  particu-
+larly 
+intestinal  epithelial  homoeostasis. 
+Butyrate  also  has  further  effects  on  epithelial  cells  through 
+inhibition  of  histone  deacetylases  (HDACs)  [36]  and 
+butyrate,  as  well  as  the  other  SCFAs,  acetate  and  propion-
+ate, also have roles in regulating immune functions, which 
+will  be  discussed  later.  Aside  from  SCFA,  many  other 
+metabolites  have  been  found  to  directly  influence  the 
+intestinal  epithelium,  which  will  be  discussed  more  here.
+Lactic-acid producing bacteria (LAB) are known to exert 
+a  range  of  beneficial  effects  on  gut  homoeostasis  and 
+mucosal  and  systemic  immunity  [37–40],  but  the  mecha-
+nisms  of  action  are  not  well  characterized.  A  recent  study 
+has  shown  direct  effects  of  lactate  produced  by  LAB  on 
+Paneth  cells  and  submucosal  stromal  cells  via  G-protein 
+lactate-specific 
+coupled  receptor  81  (GPR81)  [41],  a 
+
+receptor  [42–44].  Production  of  Wnt  ligands  by  Paneth 
+cells  is  important  for  the  maintenance  of  stem  cells  [45]. 
+Intestinal stromal cells and subepithelial mesenchymal cells 
+also  express  Wnt  ligands,  and  have  also  been  shown  to 
+support  intestinal  stem  cells  [46,47].  Lee  et  al.  [41]  found 
+that  GPR81  is  expressed  on  Paneth  and  submucosal  stro-
+mal  cells,  and  that  engagement  of  lactate  induced  Wnt 
+ligands  resulting  in  differentiation  of  intestinal  stem  cells 
+[41].  Functionally,  lactate  provided  by  LAB,  or  supple-
+mentation in the drinking water, improved intestinal repair 
+following  radiation  and  chemotherapy-induced  damage 
+when  given  prophylactically  [41].  LAB  deficient  in  lactate 
+dehydrogenase,  and  thereby  lactate  production,  could  not 
+exert  this  beneficial  effect,  and  Gpr81–/–  mice  have  defec-
+tive  intestinal  regeneration  due  to  impaired  Wnt3  activa-
+tion  [41].
+
+© 2019 The Authors. Clinical & Experimental Immunology published by John Wiley & Sons Ltd on behalf of British Society 
+for Immunology, Clinical and Experimental Immunology, 197: 193–204
+
+195
+
+Metabolism at the centre of the host–microbe relationshipREVIEW SERIES: TRANSLATING IMMUNOMETABOLISMAmino acid metabolism is regulated by the gut microbiota, 
+which  affects  the  amount  and  type  of  amino  acids  available 
+to  the  host  [48–50].  Tryptophan  is  an  essential  amino  acid 
+important  for  the  generation  of  a  range  of  bioactive  mol-
+ecules,  including  serotonin  and  melatonin  [51].  The  host 
+utilizes  the  majority  of  diet-derived  tryptophan,  but  the  gut 
+microbiota  also  metabolize  a  portion  resulting  in  indole-
+containing molecules [52,53]. Several of these are aryl hydro-
+carbon  receptor  ligands  and  regulate  mucosal  immunity, 
+which will be discussed in later sections, and is also discussed 
+in  detail  in  a  review  by  Roager  and  Licht  [54].
+
+One commensal, Clostridium sporogenes, metabolizes all 
+three  aromatic  amino  acids  (AAA),  including  tryptophan. 
+Analysis  of  the  metabolic  pathway  involved  revealed  that 
+there  are  12  resulting  metabolites,  nine  of  which  accu-
+mulate in host serum, including indolepropionic acid (IPA) 
+[52].  IPA  was  found  to  be  important  for  maintaining 
+barrier  integrity,  and  lack  of  IPA  and  the  other  AAA 
+metabolites  increased  intestinal  permeability  [52,55].  IPA 
+was  shown  to  bind  epithelial  pregnane  X  receptor  (PXR), 
+inducing  down-regulation  of  tumour  necrosis  factor 
+(TNF)-α and up-regulation of junctional protein-encoding 
+mRNAs  [55].  Systemic  immunity  was  affected  by  dimin-
+ished  IPA  production,  with  increased  percentage  of  neu-
+trophils  and  CD8  T  cells  and  increased  anti-C.  sporogenes 
+immunoglobulin  (Ig)A  [52].  This  work  demonstrates  that 
+active  maintenance  of  the  intestinal  barrier,  as  instructed 
+by  microbial  metabolites,  is  critical  for  maintaining  the 
+host  tolerance  of  the  gut  microbiota.
+
+Tryptamine  is  a  tryptophan-derived  monoamine,  which 
+has structural similarity to 5-hydroxytryptamine (serotonin) 
+and  is  produced  by  gut  microbes.  Bhattarai  et  al.  [56] 
+observed  that  microbial-derived  tryptamine  activates  the 
+5-HT4  receptor  (5-HT4R)  on  the  intestinal  epithelium, 
+increasing  colonic  secretion  and  decreasing  the  time  taken 
+for  gastric  emptying  (transit  time).  Thus,  this  microbial 
+derivative of tryptophan may have important roles in regu-
+lating  responses  to  infection  which  rely  on  intestinal  secre-
+tions to flush out the pathogen [56]. Tryptamine, or bacteria 
+engineered  to  produce  tryptamine,  may  also  represent  a 
+novel  treatment  for  diseases  distinguished  by  slow  transit 
+time, 
+(IBS). 
+Pharmacological  agonists  of  the  5-HT4R  have  been  trialled 
+for  IBS;  however,  significant  side  effects  can  occur  due  to 
+activation of this receptor on other cell types, such as heart 
+muscle  cells.  Thus,  specific  delivery  of  a  5-HT4R  ligand  to 
+the  gut  would  be  a  desirable  treatment  option  [56].
+
+syndrome 
+
+irritable 
+
+bowel 
+
+such 
+
+as 
+
+Effect of commensal metabolites on host immune 
+function
+
+Microbial  diversity  has  been  identified  as  an  important 
+factor in mediating immune development and maintenance 
+
+of  homoeostasis.  Many  inflammatory  and  autoimmune 
+diseases  are  associated  with  dysbiosis,  but  whether  dys-
+biosis  is  the  cause  or  consequence  of  these  diseases  is 
+difficult  to  dissect.  In  any  case,  dysbiosis  at  least  acts  to 
+amplify  inflammation  [9].  Sequencing  of  human  micro-
+biomes  has  revealed  a  wide  variation  in  species  composi-
+tion,  thus  making  it  difficult  to  ascribe  beneficial,  or 
+detrimental, effects to specific species. Instead, it is emerging 
+that  common  functional  activities  and  metabolites  are 
+conserved between individuals. Thus, it appears that func-
+tional  metabolic  niche  fulfilment  is  more  important  than 
+specific individual species within the microbiota [9,57,58]. 
+Numerous  metabolites  present  in  the  circulation  are 
+dependent  on  the  presence  of  gut  microbiota  [53];  thus, 
+it  is  not  surprising  that  the  microbiota  can  exert  effects 
+on  the  host  beyond  the  gut,  including  effects  on  host 
+metabolism,  the  endocrine  system,  brain  and  peripheral 
+immune  and  inflammatory  responses  [3,5,6,58–60].  This 
+review  will  focus  on  a  few  examples  of  microbial  metabo-
+lites  affecting  host  mucosal  and  peripheral 
+immune 
+responses.
+
+Dysbiosis  is  commonly  associated  with  a  shift  towards 
+aerobes  and  facultative  anaerobes  and  decreased  levels  of 
+SCFAs [4,7,61,62]. SCFAs, acetate, propionate and butyrate, 
+were  found  to  bind  G-protein  coupled  receptors  GPR41 
+and  43  with  varying  affinity  [63,64].  In  a  landmark  paper, 
+we  described  a  diet–microbiota–host  immune  axis  where 
+microbial  metabolism  of  dietary  fibre  resulted  in  SCFA 
+production,  and  acetate  in  particular  activated  GPR43  on 
+innate immune cells, including eosinophils and neutrophils 
+[65].  Acetate  ligation  of  GPR43  on  neutrophils  affected 
+chemotaxis, reactive oxygen species (ROS) and phagocytic 
+activity.  In  the  absence  of  microbiota,  colitis  and  arthritis 
+was  exacerbated,  and  this  could  be  rescued  by  addition 
+of  acetate  in  the  drinking  water  [65].  Mice  lacking  Gpr43 
+also  exhibited  exacerbated  colitis,  arthritis  and  allergic 
+airway  responses,  which  could  not  be  rescued  by  addition 
+of  acetate  to  the  drinking  water  [65].  Numerous  other 
+effects  of  SCFA,  whether  receptor-dependent  or  -inde-
+pendent  have  now  been  reported  [66–69].
+
+Antibiotic  treatment-induced  dysbiosis  can  have  wide-
+reaching  effects,  for  example  on  inflammation,  infection 
+and responses to vaccination [70–72]. Antibiotics have been 
+shown to affect SCFA-producing bacteria causing a decrease 
+in SCFA abundance [73,74]. In a recent study, macrophage 
+dysfunction  was  noted  following  antibiotic-induced  dys-
+biosis  causing  aberrant  activation  of  T  helper  type  1  (Th1) 
+cells,  leaving  mice  susceptible  to  Th17  and  Th2-type  infec-
+tions  [75].  The  authors  demonstrated  that  SCFA  were 
+reduced  following  antibiotics,  and  that  supplementing 
+butyrate  could  restore  macrophage  hyporesponsiveness  to 
+microbial  ligands  and  prevent  Th1  over-activation  [75], 
+thus  showing  a  wider  effect  of  antibiotics  on  the  host 
+
+196
+
+© 2019 The Authors. Clinical & Experimental Immunology published by John Wiley & Sons Ltd on behalf of British Society for 
+Immunology, Clinical and Experimental Immunology, 197: 193–204
+
+K. M. MaslowskiREVIEW SERIES: TRANSLATING IMMUNOMETABOLISMbeyond  microbial  composition  and  effects  on  colonization 
+resistance.  This  observation  is  likely  to  also  be  applicable 
+to  conditions  where  SCFA  are  known  to  have  peripheral 
+effects  and  also  suggest  that  antibiotic  treatment  would 
+affect  other  microbial-derived  metabolites.
+
+Acetate  and  butyrate  have  also  been  found  to  affect 
+IgA  responses.  In  two  separate  studies,  acetate  was  found 
+to  affect  CD103+  dendritic  cell  retinol  dehydrogenase 
+activity  resulting  in  increased  retinoic  acid  (RA)  produc-
+tion,  which  increased  intestinal  IgA  production  [66,76]. 
+Tan et al. additionally showed enhanced T follicular helper 
+cell function supporting mucosal germinal centre reactions 
+[66]. This enhanced mucosal IgA production was important 
+for  controlling  food  allergy  responses,  with  zero  fibre 
+feeding,  or  knock-outs  of  Gpr43  or  Gpr109A  (butyrate 
+receptor),  being  more  susceptible  to  food  allergy  [66].
+
+for  maintaining 
+
+Within the mucosal tissue, SCFAs, butyrate in particular, 
+immune  homoeostasis 
+important 
+is 
+through  induction  of  regulatory  T  cells  (Tregs)  [77,78]. 
+Butyrate-stimulated  Treg  expansion  in  the  lamina  propria 
+and bone marrow has been shown to promote interaction 
+between  bone  marrow  Tregs  and  CD8  T  cells,  increasing 
+production  of  Wnt10b  by  CD8  T  cells,  which  has  effects 
+on  stromal  cells  and  osteoclasts  promoting  bone  forma-
+tion [79]. Supplementation of Lactobacillus rhamnosus GG 
+(LGG)  had  previously  been  shown  to  affect  bone  forma-
+tion,  but  the  mechanisms  had  not  been  described.  In  this 
+study,  they  confirm  that  LGG  increases  bone  mass  via 
+increased  circulation  of  butyrate.  Interestingly,  LGG  itself 
+is  not  responsible  for  butyrate  production,  but  promotes 
+other  bacterial  species  that  produce  butyrate  [79],  again 
+highlighting the complex interplay between different micro-
+bial  communities  and  how  a  particular  species  may  not 
+be  the  key  dominant  factor,  but  rather  that  fulfilment  of 
+for  maintaining 
+a  metabolic  niche 
+homoeostasis.
+
+important 
+
+is 
+
+The  maternal  gut  microbial  composition  and  products, 
+particularly  SCFA,  have  been  shown  to  affect  immune 
+development  in  offspring  [80,81].  In  one  study,  high-fibre 
+feeding  or  supplementation  with  acetate  reduced  suscep-
+tibility  to  allergic  airway  disease  (AAD)  in  mice,  and 
+furthermore  could  supress  AAD  development  in  the  off-
+spring  of  mice  fed  on  a  high-fibre/acetate  diet  during 
+pregnancy  [80].  This,  they  showed,  had  an  effect  on  Treg 
+expression  of  forkhead  box  protein  3  (FoxP3)  and  block-
+ing  Tregs  ablated  the  beneficial  effects  of  acetate  on  AAD 
+development  [80].  Nakajima  et  al.  [82]  have  shown  that 
+microbial-derived  butyrate  affected  thymic  expression  of 
+Aire,  which  is  known  to  be  important  for  Treg  selection 
+in  the  thymus.  In  further  studies,  they  demonstrated  that 
+maternal  delivery  of  butyrate  increased  thymic  expression 
+of  Gpr41  and  Aire  and  increased  thymic  and  peripheral 
+Treg  numbers  [81].  This  study  did  not  determine  if  the 
+
+altered  Treg  number  had  any  effect  on  peripheral  immune 
+responses  but,  coupled  with  the  other  studies  described 
+above,  the  data  would  suggest  that  SCFA  can  affect  Treg 
+development  via  a  multitude  of  mechanisms  [77–81].
+
+dendrite 
+
+extension 
+
+While  many  studies  have  found  effects  of  SCFA,  other 
+microbial-derived  metabolites  are  also  being  discovered 
+to  affect  immune  responses.  Morita  et  al.  [83]  found  that 
+GPR31  expression  on  CX3CR1+  intestinal  dendritic  cells 
+senses  bacterial-produced  lactate  and  pyruvate  and  medi-
+sampling. 
+ates 
+Supplementation  of  lactate  or  pyruvate  enhanced  uptake 
+and immune responses to S. typhimurium infection, which 
+was  not  afforded  in  Gpr31–/–  mice.  Engagement  of  lactate 
+with its other receptor, Gpr81, on intestinal dendritic cells 
+and  macrophages  was  also  shown  to  reduce  colitis  by 
+suppressing  cytokine  production  and  Th1/Th17  cell  dif-
+ferentiation [84], but whether this was due to gut microbe-
+generated  lactate  in  particular  was  not  addressed.
+
+luminal 
+
+and 
+
+Effect of the host immune system on composition of 
+the gut microbiota
+
+IgA  plays  a  critical  role  in  controlling  the  composition 
+and  diversity  of  the  intestinal  microbiota  [85,86].  The 
+importance  of  maintaining  bacterial  composition  by  IgA 
+is  highlighted  by  the  fact  that  people  with  selective  IgA 
+deficiency  have  a  higher  predisposition  to  autoimmune 
+diseases  [9,87].  IgA  not  only  limits  enteric  pathogens 
+[88,89],  but  also  actively  promotes  beneficial  microbes. 
+For  example,  IgA  coating  enhances  Bacteroides  fragilis 
+habitation  of  the  mucous  and  mediates  intimate  interac-
+tions  with  the  intestinal  epithelium  [90].
+
+A  recent  study  showed  further  importance  of  IgA  coat-
+ing  of  a  strain  of  Bacteroidetes,  which  was  important  for 
+modulating  interphylum  bacterial  interactions  and  co-
+operation  via  shared  metabolism  [91].  Aiming  to  test 
+whether  glycan–glycan  interactions  between  IgA,  bacteria 
+and mucous are important for modulating gut microbiota, 
+Nakajima  et  al.  [91]  developed  a  highly  glycosylated  anti-
+ovalbumin IgA monoclonal antibody. This antibody bound 
+preferentially  to  metabolically  active  members  of  the 
+Bacteriodales  via  glycan-lipopolysaccharide  (LPS)  interac-
+tions.  Binding  of  this  highly  glycosylated,  antigen-inde-
+pendent  antibody  altered  microbial  expression  of 
+polysaccharide  utilization  loci  (PUL)  genes,  particularly 
+in  mucosal-associated  bacteria,  and  not  bacteria  present 
+in  the  colonic  content  [91].  Highly  expressed  PUL  genes 
+included  components  of  the  starch  utilization  system, 
+which  the  authors  propose  act  as  symbiotic  factors  ena-
+bling  bacterial  presence  in  the  mucous  environment,  and 
+have  provisionally  named  them  as  mucous-associated 
+functional  factors  (MAFFs)  [91].  A  complex  interaction 
+between  B.  thetaiotaomicron  in  the  mucous,  expression 
+
+© 2019 The Authors. Clinical & Experimental Immunology published by John Wiley & Sons Ltd on behalf of British Society 
+for Immunology, Clinical and Experimental Immunology, 197: 193–204
+
+197
+
+Metabolism at the centre of the host–microbe relationshipREVIEW SERIES: TRANSLATING IMMUNOMETABOLISMof  MAFFs  and  presence  of  other  symbiotic  partners  was 
+required for the full effect of MAFFs. IgA binding-induced 
+expression  of  MAFFs  drove  the  expansion  of  butyrate-
+producing Clostridiales and promoted colonic homoeostasis 
+protecting  in  a  model  of  colitis  [91].  IgA  has  been  known 
+for some time to be important in regulating gut microbial 
+composition  [63],  but  this  study  is  the  first  to  describe 
+such complex interplay between a host factor (IgA), micro-
+bial  selection  in  a  given  niche  and  interphylum  microbial 
+interaction,  resulting  in  metabolites  that  benefit  the  host.
+IgA has also been suggested to limit microbial metabolite 
+penetration, thus impacting on the host response to micro-
+bial  metabolites  [92].  Uchimura  et  al.  [92]  colonized 
+germ-free mice with a replication-deficient Escherichia coli 
+which  had  been  grown  in  12C-labelled  medium,  enabling 
+them  to  trace  metabolites  that  originated  from  the  bac-
+teria  within  tissues  and  urine.  Because  of  the  transient 
+colonization,  they  could  compare  between  mice  that  had 
+received  no  prior  colonization  and  those  that  had  and 
+therefore  had  IgA  induction.  They  found  that  IgA  pro-
+moted  the  clearance  of  metabolites  from  the  host  tissues 
+by  accelerating  microbial  clearance  [92].  While  this  study 
+was  able  to  show  that  IgA  affects  the  distribution  of 
+metabolites  in  this  setting,  which  would  be  in  agreement 
+with  other  studies  showing  the  importance  of  IgA  in 
+selecting  bacterial  species  and  affecting  the  time  bacteria 
+reside  in  the  gut  [85,86,89],  whether  the  same  kind  of 
+effects  would  be  applicable  in  the  more  complex  setting 
+of a colonized gut is uncertain. For example, several stud-
+ies  show  that  IgA  can  increase  the  dwell  time  of  certain 
+bacteria,  which  can  have  follow-on  effects  on  the  wider 
+microbial  composition  and  metabolite  availability  [90,91]. 
+Nevertheless, all these studies demonstrate the importance 
+of  IgA  in  the  regulation  of  the  microbiota  composition, 
+which thereby affects metabolic activity of the microbiome 
+and  metabolites  released  into  the  host  system.
+
+Metabolic interplay between host, microbiota and 
+pathogens
+
+Some  of  the  studies  discussed  above  describe  examples 
+of  interphylum  co-operation  via  metabolites.  This  section 
+expands  on  that  theme  and  will  highlight  some  examples 
+of  co-infections  relying  on  metabolic  subversion,  or  uti-
+lization of certain metabolites, to aid infection or promote 
+host  responses.
+
+A type 2 innate immune circuit between the microbiota, 
+intestinal  tuft  cells  and  group  2  innate  lymphoid  cells 
+(ILC2s)  has  been  described  by  several  groups  [93–95]. 
+Intestinal tuft cells are a population of chemosensory cells 
+that  can  be  found  in  the  airways,  trachea  and  intestinal 
+tract  [96].  In  the  small  intestine  they  have  been  described 
+to  produce  interleukin  (IL)-25  upon  helminth  infection. 
+
+This initiates IL-13 production by ILC2s, which feeds back 
+on  epithelial  progenitor  cells  and  biases  their  differentia-
+tion  into  goblet  and  tuft  cells,  thus  promoting  a  positive 
+feed-forward loop that promotes worm clearance [93–95]. 
+Recent  reports  found  that  the  tuft  cell–ILC2  circuit  could 
+be  induced  by  microbial-derived  succinate  binding  to 
+G-protein  coupled  receptor  91  (GPR91,  also  known  as 
+succinate  receptor  1,  SUCNR1)  [97–100].  SUCNR1  is 
+specifically  expressed  on  small  intestinal  tuft  cells,  and 
+ligation  with  succinate  induces  a  downstream  chemosens-
+ing  pathway  involving  α-gustducin  (Gnat3)  and  Trpm5. 
+Supplementing  succinate  in  the  drinking  water  was  suf-
+ficient  to  activate  SUCNR1  and  induce  the  IL-25–ILC2–
+IL-13-driven  expansion  of  goblet  and  tuft  cells.  Succinate 
+produced by the protist Tritrichomonas also drove a type-2 
+response  through  SUCNR1  signalling.  In  the  context  of 
+helminth infection, however, SUCNR1 signalling appeared 
+redundant  or  absent,  although  downstream  activation  of 
+Trpm5  and  IL-25  occurs  [99,100],  although  one  of  these 
+studies  showed  that  activation  of  this  type  2  circuit  by 
+Tritrichomonas-derived  succinate  protected  from  subse-
+quent  infection  with  helminths  [97].  This  would  suggest 
+that  the  expansion  of  goblet  and  tuft  cells  is  important 
+for  limiting  infection  with  helminths.  Even  though  hel-
+minths may be able to produce succinate during infection, 
+helminth-derived  succinate  does  not  induce  SUCNR1 
+signalling.  This  may  be  due  to  suppression  of  succinate 
+production,  use  of  alternative  pathways  or  perhaps  locali-
+zation  of  succinate  production.
+
+Several  studies  have  shown  the  important  effects  of 
+aryl  hydrocarbon  receptor  (AHR)  ligands  on  the  gut  epi-
+thelium,  maintaining  the  stem  cell  niche,  barrier  function 
+and  protection  from  tumorigenesis  and  infection  [101], 
+as  well  as  important  effects  on  immune  cells  and  periph-
+eral  inflammatory  responses  [102,103].  AHR  ligands  also 
+regulate  mucosal  immunity  through  induction  of  IL-22, 
+a  cytokine  important  for  epithelial  restitution,  induction 
+of  anti-microbial  peptides  and  regulation  of  inflammation 
+[104].  Zelante  et  al.  [105]  found  that  tryptophan  metabo-
+lism  by  stomach-resident  commensal  Lactobacillus  reuteri 
+resulted  in  indole-3-aldehyde  production  (IAld),  which 
+they  showed  activated  AHR  signalling  in  NKp46+  cells 
+(and  possibly  also  other  cell  types)  which  increased  IL-22 
+production by stomach epithelia. This, they demonstrated, 
+was  important  for  resistance  against  Candida  albicans 
+infection  [105].  Increasing  tryptophan  supply  by  dietary 
+supplementation, or deletion of host indolamine 2,3-dioxy-
+genase  1  (IDO1),  increased  levels  of  the  tryptophan 
+metabolite  IAld  specifically  (due  to  enzymatic  pathways 
+present  in  L.  reuteri),  which  mediated  these  effects  [105].
+Caspase  recruitment  domain-containing  protein  9 
+(CARD9)  is  a  signalling  adaptor  protein  involved  in  inte-
+grating signals from a range of innate receptors, including 
+
+198
+
+© 2019 The Authors. Clinical & Experimental Immunology published by John Wiley & Sons Ltd on behalf of British Society for 
+Immunology, Clinical and Experimental Immunology, 197: 193–204
+
+K. M. MaslowskiREVIEW SERIES: TRANSLATING IMMUNOMETABOLISMC-type 
+lectin  and  nucleotide-binding  oligomerization 
+domain-like  (NOD)  receptors,  and  is  thus  involved  in 
+bacterial, viral and fungal immune responses [106]. CARD9 
+deficiency  was  found  to  affect  gut  microbial  composition 
+and had a resultant effect on tryptophan metabolism [107]. 
+Reductions  in  certain  bacterial  populations,  including  L. 
+reuteri  and  Allobaculum  sp.,  was  associated  with  dimin-
+ished  indole-3-acetic  acid  (IAA)  production  in  the  colon 
+[107].  Accordingly,  faeces  from  CARD9–/–  mice  had 
+reduced  ability  to  activate  an  AHR  reporter,  indicating 
+the  potential  of  microbial-derived  IAA  to  signal  through 
+AHR.  CARD9–/–  mice  were  more  susceptible  to  colitis, 
+in  concordance  with  CARD9  being  a  risk  allele  for  IBD 
+in  humans.  Adding  an  AHR  agonist  rescued  IL-22  and 
+adenosine  monophosphate  (AMP)  production  and  pro-
+tected from colitis in CARD9–/–, again showing the impor-
+tance  of  AHR  ligands  in  promoting  IL-22  production 
+and  epithelial  barrier  function.  Furthermore,  IL-22  itself 
+reducing 
+alters  microbial 
+Lactobacillus  sp.  [107,108],  probably  through  the  produc-
+tion of AMPs, and thereby affects tryptophan metabolism, 
+forming  a  cyclical  relationship  between  microbial  trypto-
+phan  metabolism,  AHR  agonism,  IL-22  production  and 
+modulation  of  the  intestinal  epithelium  [107].
+
+composition,  particularly 
+
+IL-22  production  is  increased  upon  enteric  infection 
+and 
+is  protective  against  some  pathogens,  such  as 
+Citrobacter  rodentium,  and  colitis,  as  discussed  above  and 
+elsewhere  [107,109–111].  However,  IL-22  can  promote 
+colonization  by  other  pathogens  such  as  S.  typhimurium 
+by controlling growth of its niche competitor E. coli [112]. 
+In  a  study  by  Grizotte-Lake  et  al.  [113]  they  found  that 
+commensal  microbes  suppress  small  intestinal  epithelial 
+expression  of  Rdh7,  an  enzyme  required  for  retinoic  acid 
+(RA)  production,  resulting  in  reduced  RA  in  SPF  mice 
+compared to germ-free mice. This effect was due to spore-
+forming  Clostridia  sp.  The  reduction  in  RA  in  SPF  mice 
+resulted  in  diminished  IL-22  production  by  ILC3s  and 
+other  T  cell  populations.  To  understand  the  effects  of 
+Rdh7,  they  used  Rdh7–/–  mice  and  could  recapitulate  the 
+reduction  in  RA  and  IL-22.  This  resulted  in  decreased 
+production  of  AMPs  by  the  small  intestinal  epithelium 
+which  led  to  alterations  in  the  gut  microbiota,  and  pro-
+moted  host  resistance  to  S.  typhimurium  infection  (there 
+was  no  effect  on  C.  rodentium  infection).  Along  with  the 
+studies  described  above  [107,108],  this  suggests  that  a 
+degree  of  tonic  regulation  of  IL-22  mediated  by  the  gut 
+microbiota  is  important  for  modulating  gut  microbial 
+composition and also susceptibility to intestinal pathogens. 
+This highlights how these networks need to be finely tuned 
+in  order  to  promote  homoeostatic  interactions  between 
+host  and  commensals  while  limiting  pathogens.
+
+Pathogens  can  alter  the  gastrointestinal  environment 
+to  enable  them  to  thrive.  Salmonella  spp.  virulence 
+
+factors induce inflammation in the mucosa characterized 
+by  neutrophil  recruitment.  Neutrophils,  and  the  inflam-
+mation  induced,  release  a  large  amount  of  electron 
+acceptors,  such  as  tetrathionate  and  nitrate,  which  fuel 
+Salmonella  metabolism,  allowing  their  expansion  while 
+altering  the  gut  microbial  composition,  including  the 
+depletion  of  Clostridia  spp.  [114,115].  This  causes  a 
+reduction  in  butyrate  which  alters  metabolic  activity  of 
+enterocytes  which  usually  rely  on  butyrate,  as  discussed 
+above,  and  thus  leads  to  increased  oxygen  availability, 
+further  supporting  Salmonella  growth  [7].  Changes  in 
+enterocyte  metabolism  were  found  to  generate  lactate 
+which,  along  with  the  increase  in  oxygen,  Salmonella 
+could  use  as  an  energy  source  with  oxygen  as  the  final 
+electron  acceptor  [70].  Furthermore,  it  was  recently 
+reported  that  Salmonella  can  utilize  microbiota-derived 
+succinate  and  host-derived  electron  acceptors  to  enable 
+a complete oxidative tricarboxylic acid (TCA) cycle [116]. 
+Thus,  pathogens  such  as  Salmonella  spp.  can  actively 
+induce  dysbiosis,  or  dysbiosis  through  other  causes  can 
+support  the  growth  of  Salmonella.
+
+More  complex  interactions  between  host  and  microbial 
+species  can  occur  in  co-infection  settings.  Chronic  hel-
+minth  infections  are  associated  with  increased  occurrence 
+of  co-infections  with  a  range  of  bacterial  and  viral  patho-
+gens  [117–120].  Induction  of  type  2  (Th2)  immune 
+responses  and  Tregs  is  thought  to  play  a  major  role  in 
+limiting  protective  Th1  and  Th17  responses  required  to 
+clear  bacterial  and  viral  pathogens  [118–121].  Helminth 
+infections  can  alter  the  microbial  composition  and  have 
+been  shown  to  increase  SCFA  production,  which  can 
+alleviate allergic airway inflammation and colitis [122,123]. 
+Using  a  co-infection  model,  Reynolds  et  al.  [124]  found 
+that  helminth 
+infection  (Heligmosomoides  polygyrus) 
+altered  the  metabolome  of  small  intestinal  epithelial  cells, 
+which  has  a  resultant  effect  on  Salmonella  expression  of 
+invasion genes within the Salmonella pathogenicity island-1 
+(SPI-1).  Metabolites  extracted  from  naive  small  intestinal 
+epithelial  cells  could  supress  SPI-1  expression  and  reduce 
+invasion of Salmonella in an in-vitro invasion assay, whereas 
+helminth-infected  epithelial  metabolites  could  not,  and 
+thus  increased  Salmonella  invasion  was  observed  if  mice 
+were  already  infected  with  helminths  [124].  This  study 
+did not identify individual metabolites that exert this effect, 
+so  whether  individual  or  multiple  metabolites  are  respon-
+sible  is  yet  to  be  determined.  Given  that  helminths,  or 
+helminth-derived  products,  are  of  interest  as  therapeutic 
+interventions  for  allergic  airway  and  inflammatory  bowel 
+disease,  it  is  important  to  understand  possible  negative 
+impacts  they  may  have  in  promoting  co-infections  [124].
+Altogether,  these  studies  highlight  the  complex  interac-
+tions between host and microbes, as well as intermicrobial 
+interactions,  many  of  which  are  mediated  by,  or  involve 
+
+© 2019 The Authors. Clinical & Experimental Immunology published by John Wiley & Sons Ltd on behalf of British Society 
+for Immunology, Clinical and Experimental Immunology, 197: 193–204
+
+199
+
+Metabolism at the centre of the host–microbe relationshipREVIEW SERIES: TRANSLATING IMMUNOMETABOLISMsubversion  of,  metabolic  pathways  and  metabolites. 
+Epithelial metabolism and physiological hypoxia are central 
+to  the  host–microbe  relationship.  As  colonocytes  are  dif-
+ferentiated  at  the  top  of  the  crypts  they  express  PPARγ, 
+which  switches  on  β-oxidation  of  butyrate  and  oxidative 
+phosphorylation  which  consumes  oxygen.  By  the  induc-
+tion  of  physiological  hypoxia,  HIF  becomes  stabilized  and 
+then  induces  transcription  of  essential  genes  required  for 
+epithelial  barrier  function,  such  as  tight  junction  proteins, 
+anti-microbial  peptides  and  mucous  production.  The 
+hypoxic  environment  created  then  favours  obligate  anaer-
+obes  which  act  in  a  mutualistic  relationship,  providing 
+the  main  energy  source,  butyrate,  for  the  colonocytes  by 
+fermentation  of  dietary  fibre  (Fig.  1).  This  establishes 
+obligate  anaerobes  as  the  dominant  bacteria  within  the 
+colon, and further metabolites derived from the microbiota, 
+such  as  acetate,  lactate,  AHR  ligands,  indole-derived  mol-
+ecules,  etc.  are  now  appreciated  to  exert  a  broad  range 
+of effects on immune and host function, as well as feeding 
+back  to  select  the  microbiome  further  via  IgA  or  anti-
+microbial peptides. These processes, from epithelial metab-
+olism  to  maintenance  of  obligate  anaerobes,  are  disrupted 
+during  infections,  even  purposefully,  favouring  facultative 
+anaerobes  or  aerobes,  which  can  have  deleterious  effects 
+on  the  host.
+
+Future  considerations  in  this  area  would  be  to  under-
+stand more clearly the development of epithelial metabolic 
+pathways, understand any differences between small intes-
+tine  and  the  colon  and  how  fluctuations  in  oxygen  could 
+be  affecting  the  microbiome  and  therefore  host  function. 
+As  discussed  above,  constant  feeding  leading  to  increased 
+blood  flow  and  oxygenation  in  the  intestinal  tract  could 
+be  deleterious  and  one  way  by  which  a  western  lifestyle 
+may  be  causing  dysbiosis  and  increased  susceptibility  to 
+inflammatory  diseases.  It  is  also  of  interest  that  chronic 
+bowel inflammation, such as in Crohn’s disease or ulcera-
+tive  colitis,  causes  increased  angiogenesis  in  the  intestinal 
+tract,  and  thus  increased  oxygen  availability  might  be  one 
+reason  for  poor  treatment  outcomes  in  many  patients, 
+where dysbiosis and ongoing inflammation are concomitant 
+factors  [125].  In  addition  to  increased  angiogenesis,  intes-
+tinal  inflammation  is  also  associated  with  bleeding  in  to 
+the  gut  lumen,  which  also  delivers  increased  haem-bound 
+oxygen.  As  such,  targeting  oxygen  has  been  proposed  as 
+a  treatment  option  for  inflammatory  bowel  diseases  [8].
+Some  obligate  anaerobic  commensals  cope  with  oxygen 
+by  employing  mechanisms  such  as  extracellular  electron 
+shuttles,  which  add  electrons  to  oxygen.  This  relies  upon 
+flavins  and  thiols  being  present  in  the  gut;  however,  dur-
+ing  inflammation  thiols  become  depleted  [8,126].  Faecal 
+microbiota  transplant  has  been  employed  successfully  for 
+C. difficile-infected patients, and is entering use for further 
+conditions  from  inflammatory  bowel  disease  to  asthma 
+
+and  cancer  treatment.  However,  defining  ‘good’  faecal 
+donors  is  a  challenge,  and  presence  of  microbial  species 
+that  are  good  colonizers  and  have  traits  such  as  being 
+able  to  utilize  and  deplete  oxygen  may  be  an  important 
+consideration.
+
+In  summary,  metabolism  and  metabolites  are  the  basis 
+of  host–microbe  interactions.  Further  understanding  of 
+these  metabolic  interactions  will  be  important  for  devel-
+oping treatment strategies for inflammatory bowel diseases 
+as  well  as  the  wide  range  of  other  diseases  associated 
+with  dysbiosis.
+
+Acknowledgements
+
+K.  M.  M.  is  a  Birmingham  Fellow  and  is  supported  by 
+the Wellcome Trust [214087/Z/18/Z] and Cancer Research 
+UK  [C61638/A27112].
+
+Disclosures
+
+The  author  declares  no  conflict  of  interest.
+
+References
+
+1  O’Hara  AM,  Shanahan  F.  The  gut  flora  as  a  forgotten  organ. 
+
+EMBO  Rep  2006;  7:688–93.
+
+2  Engel P,  Moran NA.  The gut microbiota of  insects –  diversity 
+
+in  structure  and 
+
+function.  FEMS  Microbiol  Rev  2013; 
+
+37:699–735.
+
+3  Maslowski KM, MacKay CR. Diet, gut microbiota and immune 
+
+responses.  Nat  Immunol  2011;  12:5–9.
+
+4  Li  X,  Watanabe  K,  Gut  Kimura  I.  Microbiota  dysbiosis  drives 
+
+and  implies  novel  therapeutic  strategies  for  diabetes  mellitus 
+
+and related metabolic diseases. Front Immunol Frontiers Media 
+
+SA  2017;  8:1882.
+
+5  Scriven  M,  Dinan  TG,  Cryan  JF,  Wall  M.  Neuropsychiatric 
+
+disorders: influence of gut microbe to brain signalling. Diseases 
+
+(Basel)  2018;  6:78.
+
+6  Valles-Colomer  M,  Falony  G,  Darzi  Y  et  al.  The  neuroactive 
+
+potential  of  the  human  gut  microbiota  in  quality  of  life  and 
+
+depression.  Nat  Microbiol  2019;  4:623–32.
+
+7  Litvak  Y,  Byndloss  MX,  Bäumler  AJ.  Colonocyte  metabolism 
+
+shapes  the  gut  microbiota.  Science  2018;  362:eaat9076.
+
+8  Rigottier-Gois  L.  Dysbiosis  in  inflammatory  bowel  diseases: 
+
+the  oxygen  hypothesis  microbe–microbe  and  microbe–host 
+
+interactions.  ISME  J  2013;  7:1256–61.
+
+9  Vogelzang  A,  Guerrini  MM,  Minato  N,  Fagarasan  S. 
+
+Microbiota  –  an  amplifier  of  autoimmunity.  Curr  Opin 
+
+Immunol  2018;  55:15–21.
+
+  10  Gordon  HA,  Pesti  L.  The  gnotobiotic  animal  as  a  tool  in  the 
+
+study  of  host  microbial  relationships.  Bacteriol  Rev  1971; 
+
+35:390.
+
+  11  Wostmann  BS.  The  germfree  animal  in  nutritional  studies. 
+
+Ann  RevNutr  1981;  1:257–279.
+
+200
+
+© 2019 The Authors. Clinical & Experimental Immunology published by John Wiley & Sons Ltd on behalf of British Society for 
+Immunology, Clinical and Experimental Immunology, 197: 193–204
+
+K. M. MaslowskiREVIEW SERIES: TRANSLATING IMMUNOMETABOLISM 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  12  Backhed  F,  Ding  H,  Wang  T  et  al.  The  gut  microbiota  as 
+
+through oxygen competition. Cell Host Microbe 2019; 25:128–
+
+an  environmental  factor  that  regulates  fat  storage.  Proc  Natl 
+
+39.e5.
+
+Acad  Sci  USA  2004;  101:15718–23.
+
+  29  Lefebvre M, Paulweber B, Fajas L et al. Peroxisome proliferator-
+
+  13  Turnbaugh  PJ,  Bäckhed  F,  Fulton  L,  Gordon  JI.  Diet-induced 
+
+activated  receptor  gamma  is  induced  during  differentiation 
+
+obesity  is  linked  to  marked  but  reversible  alterations  in  the 
+
+of  colon  epithelium  cells.  J  Endocrinol  1999;  162:331–40.
+
+mouse  distal  gut  microbiome.  Cell  Host  Microbe  2008; 
+
+  30  Espey  MG.  Role  of  oxygen  gradients  in  shaping  redox 
+
+3:213–23.
+
+relationships  between  the  human  intestine  and  its  microbiota. 
+
+  14  Turnbaugh PJ, Ridaura VK, Faith JJ, Rey FE, Knight R, Gordon 
+
+Free  Rad  Biol  Med  2013;  55:130–40.
+
+JI.  The  effect  of  diet  on  the  human  gut  microbiome:  a 
+
+  31  Albenberg L, Esipova TV, Judge CP et al. Correlation between 
+
+metagenomic  analysis  in  humanized  gnotobiotic  mice.  Sci 
+
+intraluminal  oxygen  gradient  and  radial  partitioning  of 
+
+Transl  Med  2009;  1:6ra14.
+
+intestinal  microbiota.  Gastroenterology  2014;147:1055–63.e8.
+
+  15  Turnbaugh  PJ,  Ley  RE,  Mahowald  MA,  Magrini  V,  Mardis 
+
+  32  Zheng L, Kelly CJ, Colgan SP. Physiologic hypoxia and oxygen 
+
+ER,  Gordon  JI.  An  obesity-associated  gut  microbiome  with 
+
+homeostasis  in  the  healthy  intestine.  A  review  in  the  theme: 
+
+increased 
+
+capacity 
+
+for 
+
+energy  harvest.  Nature  2006; 
+
+cellular responses to hypoxia. Am J Physiol Cell Physiol 2015; 
+
+444:1027–31.
+
+309:C350–60.
+
+  16  Turnbaugh  PJ,  Hamady  M,  Yatsunenko  T  et  al.  A  core  gut 
+
+  33  Wächtershäuser  A,  Loitsch  SM,  Stein  J.  PPAR-γ  Is  selectively 
+
+microbiome 
+
+in  obese  and 
+
+lean 
+
+twins.  Nature  2009; 
+
+upregulated  in  caco-2  cells  by  butyrate.  Biochem  Biophys  Res 
+
+457:480–4.
+
+Commun  2000;  272:380–5.
+
+  17  Donohoe  DR,  Garge  N,  Zhang  X  et  al.  The  microbiome  and 
+
+34  Glover  LE,  Colgan  SP.  Epithelial  barrier  regulation  by  hypoxia-
+
+butyrate  regulate  energy  metabolism  and  autophagy  in  the 
+
+inducible  factor.  Ann  Am  Thorac  Soc  2017;  14(Suppl  3);S233–6.
+
+mammalian  colon.  Cell  Metab  2011;  13:517–26.
+
+  35  Zheng L, Kelly CJ, Colgan SP. Physiologic hypoxia and oxygen 
+
+  18  Roediger  WE.  Utilization  of  nutrients  by  isolated  epithelial 
+
+homeostasis  in  the  healthy  intestine.  A  review  in  the  theme: 
+
+cells  of  the  rat  colon.  Gastroenterology  1982;  83:424–9.
+
+cellular responses to hypoxia. Am J Physiol Cell Physiol 2015; 
+
+  19  Salleh  M,  Ardawi  M,  Newsholme  EA.  Fuel  utilization  in 
+
+309:C350–60.
+
+colonocytes  of  the  rat.  Biochem  J  1985;  231:713–19.
+
+  36  Dashwood  RH,  Myzak  MC,  Ho  E.  Dietary  HDAC  inhibitors: 
+
+  20  Roediger  WE.  Role  of  anaerobic  bacteria  in  the  metabolic 
+
+time  to  rethink  weak  ligands  in  cancer  chemoprevention? 
+
+welfare  of 
+
+the  colonic  mucosa 
+
+in  man.  Gut  1980; 
+
+Carcinogenesis  2006;  27:344–9.
+
+21:793–98.
+
+  37  Wells  JM,  Mercenier  A.  Mucosal  delivery  of  therapeutic  and 
+
+  21  Kelly  CJ,  Zheng  L,  Campbell  EL  et  al.  Crosstalk  between 
+
+prophylactic  molecules  using  lactic  acid  bacteria.  Nat  Rev 
+
+microbiota-derived  short-chain  fatty  acids  and 
+
+intestinal 
+
+Microbiol  2008;  6:349–62.
+
+epithelial  HIF  augments  tissue  barrier  function.  Cell  Host 
+
+  38  Gill  HS,  Rutherfurd  KJ,  Prasad  J,  Gopal  PK.  Enhancement 
+
+Microbe  2015;  17:662–71.
+
+of  natural and acquired immunity by Lactobacillus  rhamnosus 
+
+  22  Schaedler  RW,  Dubos  R,  Costello  R.  The  development  of  the 
+
+(HN001), 
+
+Lactobacillus 
+
+acidophilus 
+
+(HN017) 
+
+and 
+
+bacterial  flora  in  the  gastrointestinal  tract  of  mice.  J  Exp  Med 
+
+Bifidobacterium  lactis  (HN019).  Br  J  Nutr  2000;  83:167–76.
+
+1965;  122:59–66.
+
+  39  Perdigon  G,  Alvarez  S,  Rachid  M,  Agüero  G,  Gobbato  N. 
+
+  23  McAllisterv  JS,  Savage  DC.  Microbial  colonization  of  the 
+
+Immune  system  stimulation  by  probiotics.  J  Dairy  Sci  1995; 
+
+intestinal  epithelium  in  suckling  mice.  Infect  Immun  1973; 
+
+78:1597–606.
+
+7:666–72.
+
+  40  Watanabe T, Nishio H, Tanigawa T et al. Probiotic Lactobacillus 
+
+  24  Gillilland  MG,  Erb-Downward  JR,  Bassis  CM  et  al.  Ecological 
+
+casei  strain  Shirota  prevents  indomethacin-induced  small 
+
+succession of bacterial communities during conventionalization 
+
+intestinal  injury:  involvement  of  lactic  acid.  Am  J  Physiol 
+
+of 
+
+germ-free  mice.  Appl  Environ  Microbiol 
+
+2012; 
+
+Liver  Physiol  2009;  297:G506–13.
+
+78:2359–66.
+
+  41  Lee  Y-S,  Kim  T-Y,  Kim  Y  et  al.  Lactate  accelerates  intestinal 
+
+  25  Savage DC. Factors involved in colonization of the gut epithelial 
+
+stem-cell-mediated  epithelial  development  in  brief.  Cell  Host 
+
+surface.  Am  J  Clin  Nutr  1978;  31:S131–5.
+
+Microbe  2018;  24:833–46.
+
+  26  Furuta  GT,  Turner  JR,  Taylor  CT  et  al.  Hypoxia-inducible 
+
+  42  Cai  T-Q,  Ren  N,  Jin  L  et  al.  Role  of  GPR81  in  lactate-
+
+factor 1–dependent induction of intestinal trefoil factor protects 
+
+mediated reduction of adipose lipolysis. Biochem Biophys Res 
+
+barrier 
+
+function  during  Hypoxia. 
+
+J  Exp  Med  2001; 
+
+Commun  2008;  377:987–91.
+
+193:1027–34.
+
+  43  Ge  H,  Weiszmann  J,  Reagan  JD  et  al.  Elucidation  of  signaling 
+
+  27  Byndloss  MX,  Olsan  EE,  Rivera-Chávez  F  et  al.  Microbiota-
+
+and  functional  activities  of  an  orphan  GPCR,  GPR81.  J  Lipid 
+
+activated 
+
+PPAR-γ 
+
+signaling 
+
+inhibits 
+
+dysbiotic 
+
+Res  2008;  49:797–803.
+
+Enterobacteriaceae  expansion.  Science  2017;  357:570–5.
+
+  44  Liu  C,  Wu  J,  Zhu  J  et  al.  Lactate  inhibits  lipolysis  in  fat 
+
+  28  Litvak  Y,  Mon  KKZ,  Nguyen  H  et  al.  Commensal 
+
+cells  through  activation  of  an  orphan  g-protein-coupled 
+
+enterobacteriaceae  protect  against  Salmonella  colonization 
+
+receptor,  GPR81.  J  Biol  Chem  2009;  284:2811–22.
+
+© 2019 The Authors. Clinical & Experimental Immunology published by John Wiley & Sons Ltd on behalf of British Society 
+for Immunology, Clinical and Experimental Immunology, 197: 193–204
+
+201
+
+Metabolism at the centre of the host–microbe relationshipREVIEW SERIES: TRANSLATING IMMUNOMETABOLISM 
+  45  Sato  T,  van  Es  JH,  Snippert  HJ  et  al.  Paneth  cells  constitute 
+
+serum-free  fatty  acids  in  systemic  lupus  erythematosus.  Front 
+
+the niche for Lgr5 stem cells in intestinal crypts. Nature 2011; 
+
+Immunol  2017;  8:23.
+
+469:415–18.
+
+  62  Treem  WR,  Ahsan  N,  Shoup  M,  Hyams  JS.  Fecal  short-chain 
+
+  46  Gregorieff  A,  Pinto  D,  Begthel  H,  Destrée  O,  Kielman  M, 
+
+fatty  acids  in  children  with  inflammatory  bowel  disease.  J 
+
+Clevers  H.  Expression  pattern  of  Wnt  signaling  components 
+
+Pediatr  Gastroenterol  Nutr  1994;  18:159–64.
+
+in  the  adult  intestine.  Gastroenterology  2005;  129:626–38.
+
+  63  Brown  AJ,  Goldsworthy  SM,  Barnes  AA  et  al.  The  Orphan 
+
+  47  Valenta T, Degirmenci B, Moor AE et al. Wnt ligands secreted 
+
+G  protein-coupled  receptors  GPR41  and  GPR43  are  activated 
+
+by  subepithelial  mesenchymal  cells  are  essential  for  the  sur-
+
+by  propionate  and  other  short  chain  carboxylic  acids.  J  Biol 
+
+vival  of  intestinal  stem  cells  and  gut  homeostasis.  Cell  Rep 
+
+Chem  2003;  278:11312–9.
+
+2016;  15:911–18.
+
+  64  Le Poul E, Loison C, Struyf S et al. Functional characterization 
+
+  48  Mardinoglu A, Shoaie S, Bergentall M et al. The gut microbiota 
+
+of  human  receptors  for  short  chain  fatty  acids  and  their  role 
+
+modulates  host  amino  acid  and  glutathione  metabolism  in 
+
+in  polymorphonuclear  cell  activation.  J  Biol  Chem  2003; 
+
+mice.  Mol  Syst  Biol  2015;  11:834–34.
+
+278:25481–9.
+
+  49  Lin  R,  Liu  W,  Piao  M,  Zhu  H.  A  review  of  the  relationship 
+
+  65  Maslowski  KM,  Vieira  AT,  Ng  A  et  al.  Regulation  of 
+
+between the gut microbiota and amino acid metabolism. Amino 
+
+inflammatory responses by gut microbiota and chemoattractant 
+
+Acids  2017;  49:2083–90.
+
+receptor  GPR43.  Nature  2009;  461:1282–6.
+
+  50  Neis  EPJG,  Dejong  CHC,  Rensen  SS.  The  role  of  microbial 
+
+66  Tan  J,  McKenzie  C,  Vuillermin  PJ  et  al.  Dietary  fiber  and  bac-
+
+amino  acid  metabolism  in  host  metabolism.  Nutrients  2015; 
+
+terial SCFA enhance oral tolerance and protect against food allergy 
+
+7:2930–46.
+
+through  diverse  cellular  pathways.  Cell  Rep  2016;  15:2809–24.
+
+  51  Palego  L,  Betti  L,  Rossi  A,  Giannaccini  G.  Tryptophan 
+
+  67  Macia  L,  Tan  J,  Vieira  AT  et  al.  Metabolite-sensing  receptors 
+
+biochemistry:  structural,  nutritional,  metabolic,  and  medical 
+
+GPR43  and  GPR109A  facilitate  dietary  fibre-induced  gut 
+
+aspects  in  humans.  J  Amino  Acids  2016;  2016:8952520.
+
+homeostasis  through  regulation  of  the  inflammasome.  Nat 
+
+  52  Dodd  D,  Spitzer  MH,  Van  Treuren  W  et  al.  A  gut  bacterial 
+
+Commun  2015;  6:6734.
+
+pathway metabolizes aromatic amino acids into nine circulating 
+
+  68  Vieira  AT,  Macia  L,  Galvao  I  et  al.  A  role  for  gut  microbiota 
+
+metabolites.  Nature  2017;  551:648–52.
+
+and the metabolite-sensing receptor GPR43 in a murine model 
+
+  53  Wikoff  WR,  Anfora  AT,  Liu  J  et  al.  Metabolomics  analysis 
+
+of  gout.  Arthritis  Rheumatol  2015;  67:1646–56.
+
+reveals  large  effects  of  gut  microflora  on  mammalian  blood 
+
+  69  Trompette  A,  Gollwitzer  ES,  Yadava  K  et  al.  Gut  microbiota 
+
+metabolites.  Proc  Natl  Acad  Sci  USA  2009;  106:3698–703.
+
+metabolism  of  dietary  fiber  influences  allergic  airway  disease 
+
+  54  Roager  HM,  Licht  TR.  Microbial  tryptophan  catabolites  in 
+
+and  hematopoiesis.  Nat  Med  2014;  20:159–66.
+
+health  and  disease.  Nat  Commun  2018;  9:3294.
+
+  70  Gillis CC, Hughes ER, Spiga L et al. Change in host metabolism 
+
+  55  Venkatesh  M,  Mukherjee  S,  Wang  H  et  al.  Article  symbiotic 
+
+generates  lactate  to  support  salmonella  growth.  Cell  Host 
+
+bacterial  metabolites  regulate  gastrointestinal  barrier  function 
+
+Microbe  2018;  23:54–64.e6.
+
+via  the  xenobiotic  sensor  PXR  and  Toll-like  receptor  4. 
+
+  71  Lynn MA, Tumes DJ, Choo JM et al. Antibiotic-driven dysbiosis 
+
+Immunity  2014;  41:296–310.
+
+leads  to  dysregulated  vaccine  immune  responses  in  mice.  Cell 
+
+  56  Bhattarai  Y,  Williams  BB,  Battaglioli  EJ  et  al.  Microbiota-
+
+Host  Microbe  2018;  23:  653–60.e5.
+
+produced  tryptamine  activates  an  epithelial  g-protein-coupled 
+
+  72  Lazar  V,  Ditu  L-M,  Pircalabioru  GG  et  al.  Aspects  of  gut 
+
+receptor to increase colonic secretion. Cell Host Microbe 2018; 
+
+microbiota  and  immune  system  interactions  in  infectious 
+
+23:775–85.e5.
+
+diseases, immunopathology, and cancer. Front Immunol 2018; 
+
+  57  Sung J, Kim S, Cabatbat JJT et al. Global metabolic interaction 
+
+9:1830.
+
+network  of  the  human  gut  microbiota  for  context-specific 
+
+  73  Romick-Rosendale  LE,  Haslam  DB,  Lane  A  et  al.  Antibiotic 
+
+community-scale  analysis.  Nat  Commun  2017;  8:15393.
+
+exposure  and  reduced  short  chain  fatty  acid  production  after 
+
+  58  Rojo  D,  Hevia  A,  Bargiela  R  et  al.  Ranking  the  impact  of 
+
+hematopoietic  stem  cell  transplant.  Biol  Blood  Marrow 
+
+human  health  disorders  on  gut  metabolism:  systemic  lupus 
+
+Transplant  2018;  24:2418–24.
+
+erythematosus and obesity as study cases. Sci Rep 2015; 5:8310.
+
+  74  Clausen  MR,  Bonnén  H,  Tvede  M,  Brøbech  Mortensen  P. 
+
+  59  De  Vadder  F,  Kovatcheva-Datchary  P,  Zitoun  C,  Duchampt 
+
+Colonic  fermentation  to  short-chain  fatty  acids  is  decreased 
+
+A,  Bäckhed  F,  Mithieux  G.  Microbiota-produced  succinate 
+
+in  antibiotic-associated  diarrhea.  Gastroenterology  1991; 
+
+improves  glucose  homeostasis  via  intestinal  gluconeogenesis. 
+
+101:1497–504.
+
+Cell  Metab  2016;  24:151–7.
+
+  75  Scott  NA,  Andrusaite  A,  Andersen  P  et  al.  Antibiotics  induce 
+
+  60  Kranich  J,  Maslowski  KM,  Mackay  CR.  Commensal  flora  and 
+
+sustained  dysregulation  of  intestinal  T  cell  immunity  by 
+
+the  regulation  of  inflammatory  and  autoimmune  responses. 
+
+perturbing  macrophage  homeostasis.  Sci  Transl  Med 
+
+Semin  Immunol  2011;  23:139–45.
+
+2018;10:eaao4755.
+
+  61  Rodríguez-Carrio J, López P, Sánchez B et al. Intestinal dysbiosis 
+
+  76  Wu  W,  Sun  M,  Chen  F  et  al.  Microbiota  metabolite  short-
+
+is  associated  with  altered  short-chain 
+
+fatty  acids  and 
+
+chain  fatty  acid  acetate  promotes  intestinal  IgA  response  to 
+
+202
+
+© 2019 The Authors. Clinical & Experimental Immunology published by John Wiley & Sons Ltd on behalf of British Society for 
+Immunology, Clinical and Experimental Immunology, 197: 193–204
+
+K. M. MaslowskiREVIEW SERIES: TRANSLATING IMMUNOMETABOLISM 
+microbiota  which  is  mediated  by  GPR43.  Mucosal  Immunol 
+
+  93  Gerbe  F,  Sidot  E,  Smyth  DJ  et  al.  Intestinal  epithelial  tuft 
+
+2017;  10:946–56.
+
+cells  initiate  type  2  mucosal  immunity  to  helminth  parasites. 
+
+  77  Furusawa  Y,  Obata  Y,  Fukuda  S  et  al.  Commensal  microbe-
+
+Nature  2016;  529:226–30.
+
+derived  butyrate 
+
+induces 
+
+the  differentiation  of  colonic 
+
+  94  Howitt  MR,  Lavoie  S,  Michaud  M  et  al.  Tuft  cells,  taste-
+
+regulatory  T  cells.  Nature  2013;  504:446–50.
+
+chemosensory  cells,  orchestrate  parasite  type  2  immunity  in 
+
+  78  Smith  PM,  Howitt  MR,  Panikov  N  et  al.  The  microbial 
+
+the  gut.  Science  2016;  351:1329–33.
+
+metabolites,  short-chain  fatty  acids,  regulate  colonic  Treg  cell 
+
+  95  von Moltke J, Ji M, Liang H-E, Locksley RM. Tuft-cell-derived 
+
+homeostasis.  Science  2013;  341:569–73.
+
+IL-25  regulates  an  intestinal  ILC2–epithelial  response  circuit. 
+
+  79  Tyagi  AM,  Yu  M,  Darby  TM  et  al.  The  microbial  metabolite 
+
+Nature  2016;  529:221–5.
+
+butyrate  stimulates  bone  formation  via  T  regulatory  cell-
+
+  96  Sato  A.  Tuft  cells.  Anat  Sci  Int  2007;  82:187–99.
+
+mediated  regulation  of  WNT10B  expression.  Immunity  2018; 
+
+  97  Schneider  C,  O’Leary  CE,  von  Moltke  J  et  al.  Metabolite-
+
+49:1116–31.e7.
+
+triggered 
+
+tuft  cell-ILC2  circuit  drives 
+
+small 
+
+intestinal 
+
+  80  Thorburn  AN,  McKenzie  CI,  Shen  S  et  al.  Evidence  that 
+
+remodeling.  Cell  2018;  174:271–84.e14.
+
+asthma is a developmental origin disease influenced by mater-
+
+  98  Hayakawa  Y,  Wang  TC.  The  tuft  cell-ILC2  circuit  integrates 
+
+nal  diet  and  bacterial  metabolites.  Nat  Commun  2015;  
+
+intestinal  defense  and  homeostasis.  Cell  2018;  174:251–3.
+
+6:7320.
+
+  99  Nadjsombati  MS,  McGinty  JW,  Lyons-Cohen  MR  et  al. 
+
+  81  Nakajima  A,  Kaga  N,  Nakanishi  Y  et  al.  Maternal  high  fiber 
+
+Detection  of  succinate  by  intestinal  tuft  cells  triggers  a  type 
+
+diet  during  pregnancy  and  lactation  influences  regulatory  T 
+
+2  innate  immune  circuit.  Immunity  2018;  49:33–41.e7.
+
+cell  differentiation  in  offspring  in  mice.  J  Immunol  2017; 
+
+  100  Lei  W,  Ren  W,  Ohmoto  M  et  al.  Activation  of  intestinal  tuft 
+
+199:3516–24.
+
+cell-expressed  Sucnr1  triggers  type  2  immunity  in  the  mouse 
+
+  82  Nakajima  A,  Negishi  N,  Tsurui  H  et  al.  Commensal  bacteria 
+
+small  intestine.  Proc  Natl  Acad  Sci  USA  2018;  115:5552–7.
+
+regulate  thymic  Aire  expression.  PLOS  ONE  2014;  9:e105904.
+
+  101  Metidji  A,  Omenetti  S,  Crotta  S  et  al.  The  environmental 
+
+  83  Morita  N,  Umemoto  E,  Fujita  S  et  al.  GPR31-dependent 
+
+sensor  AHR  protects 
+
+from 
+
+inflammatory  damage  by 
+
+dendrite protrusion of intestinal CX3CR83 + cells by bacterial 
+
+maintaining  intestinal  stem  cell  homeostasis  and  barrier 
+
+metabolites.  Nature  2019;  566:110–14.
+
+integrity.  Immunity  2018;  49:353–62.e5.
+
+  84  Ranganathan  P,  Shanmugam  A,  Swafford  D  et  al.  GPR81,  a 
+
+  102  Rothhammer  V,  Mascanfroni  ID,  Bunse  L  et  al.  Type  I 
+
+cell-surface receptor for lactate, regulates intestinal homeostasis 
+
+interferons and microbial metabolites of tryptophan modulate 
+
+and  protects  mice  from  experimental  colitis.  J  Immunol  2018; 
+
+astrocyte  activity  and  central  nervous  system  inflammation 
+
+200:1781–9.
+
+via 
+
+the  aryl  hydrocarbon 
+
+receptor.  Nat  Med  2016; 
+
+  85  Fagarasan  S,  Muramatsu  M,  Suzuki  K,  Nagaoka  H,  Hiai  H, 
+
+22:586–97.
+
+Honjo T. Critical roles of activation-induced cytidine deaminase 
+
+  103  Gutiérrez-Vázquez C, Quintana FJ. Regulation of the immune 
+
+in  the  homeostasis  of  gut  flora.  Science  2002;  298:1424–7.
+
+response  by  the  aryl  hydrocarbon  receptor.  Immunity  2018; 
+
+  86  Fadlallah  J,  El  Kafsi  H,  Sterlin  D  et  al.  Microbial  ecology 
+
+48:19–33.
+
+perturbation  in  human  IgA  deficiency.  Sci  Transl  Med  2018; 
+
+  104  Sonnenberg GF, Fouser LA, Artis D. Border patrol: regulation 
+
+10:eaan1217.
+
+of  immunity,  inflammation  and  tissue  homeostasis  at  barrier 
+
+  87  Wang  N,  Shen  N,  Vyse  TJ  et  al.  Selective  IgA  deficiency  in 
+
+surfaces  by  IL-22.  Nat  Immunol  2011;  12:383–90.
+
+autoimmune  diseases.  Mol  Med  2011;  17:1383–96.
+
+  105  Zelante  T,  Iannitti  RG,  Cunha  C  et  al.  Article  tryptophan 
+
+  88  Mantis  NJ,  Rol  N,  Corthésy  B.  Secretory  IgA’s  complex  roles 
+
+catabolites  from  microbiota  engage  aryl  hydrocarbon  receptor 
+
+in  immunity  and  mucosal  homeostasis  in  the  gut.  Mucosal 
+
+and  balance  mucosal  reactivity  via  interleukin-22.  Immunity 
+
+Immunol  2011;  4:603–11.
+
+2013;  39:372–85.
+
+  89  Moor  K,  Diard  M,  Sellin  ME  et  al.  High-avidity  IgA  protects 
+
+  106  Drummond  RA,  Franco  LM,  Lionakis  MS.  Human  CARD9: 
+
+the  intestine  by  enchaining  growing  bacteria.  Nature  2017; 
+
+A  Critical  Molecule  of  Fungal  Immune  Surveillance.  Front 
+
+544:498–502.
+
+Immunol  2018;  9:1836.
+
+  90  Donaldson  GP,  Ladinsky  MS,  Yu  KB  et  al.  Microbiota  utilize 
+
+  107  Lamas B, Richard ML, Leducq V et al. CARD9 impacts colitis 
+
+immunoglobulin  A  for  mucosal  colonization.  Science  2018; 
+
+by  altering  gut  microbiota  metabolism  of  tryptophan  into 
+
+360:795–800.
+
+aryl  hydrocarbon 
+
+receptor 
+
+ligands.  Nat  Med  2016; 
+
+  91  Nakajima  A,  Vogelzang  A,  Maruya  M  et  al.  IgA  regulates 
+
+22:598–605.
+
+the  composition  and  metabolic  function  of  gut  microbiota 
+
+  108  Zenewicz  LA,  Yin  X,  Wang  G  et  al.  IL-22  deficiency  alters 
+
+by  promoting  symbiosis  between  bacteria.  J  Exp  Med  2018; 
+
+colonic  microbiota  to  be  transmissible  and  colitogenic.  J 
+
+215:2019–34.
+
+Immunol  2013;  190:5306–12.
+
+  92  Uchimura  Y,  Fuhrer  T,  Li  H  et  al.  Antibodies  set  boundaries 
+
+  109  Zheng  Y,  Valdez  PA,  Danilenko  DM  et  al.  Interleukin-22 
+
+limiting  microbial  metabolite  penetration  and  the  resultant 
+
+mediates  early  host  defense  against  attaching  and  effacing 
+
+mammalian  host  response.  Immunity  2018;  49:545–59.e5.
+
+bacterial  pathogens.  Nat  Med  2008;  14:282–289.
+
+© 2019 The Authors. Clinical & Experimental Immunology published by John Wiley & Sons Ltd on behalf of British Society 
+for Immunology, Clinical and Experimental Immunology, 197: 193–204
+
+203
+
+Metabolism at the centre of the host–microbe relationshipREVIEW SERIES: TRANSLATING IMMUNOMETABOLISM  110  Mizoguchi  A.  Healing  of  intestinal  inflammation  by  IL-22. 
+
+enhances  Citrobacter-induced  colitis  in  mice.  Infect  Immun 
+
+Inflamm  Bowel  Dis  2012;  18:1777–84.
+
+2005;  73:5468–81.
+
+  111  Allam  R,  Maillard  MH,  Tardivel  A  et  al.  Epithelial  NAIPs 
+
+  119  Reese  TA,  Wakeman  BS,  Choi  HS  et  al.  Helminth  infection 
+
+protect  against  colonic  tumorigenesis.  J  Exp  Med  2015; 
+
+reactivates  latent  γ-herpesvirus  via  cytokine  competition  at  a 
+
+212:369–83.
+
+viral  promoter.  Science  2014;  345:573–7.
+
+  112  Behnsen  J,  Jellbauer  S,  Wong  CP  et  al.  The  cytokine  IL-22 
+
+  120  Osborne  LC,  Monticelli  LA,  Nice  TJ  et  al.  Virus-helminth 
+
+promotes  pathogen  colonization  by  suppressing  related 
+
+coinfection  reveals  a  microbiota-independent  mechanism  of 
+
+commensal  bacteria.  Immunity  2014;  40:262–73.
+
+immunomodulation.  Science  2014;  345:578–82.
+
+  113  Grizotte-Lake  M,  Zhong  G,  Duncan  K  et  al.  Commensals 
+
+  121  Hsieh Y-J, Fu C-L, Hsieh MH. Helminth-induced interleukin-4 
+
+suppress  intestinal  epithelial  cell  retinoic  acid  synthesis  to 
+
+abrogates  invariant  natural  killer  T  cell  activation-associated 
+
+regulate interleukin-22 activity and prevent microbial dysbiosis. 
+
+clearance  of  bacterial 
+
+infection. 
+
+Infect 
+
+Immun  2014; 
+
+Immunity  2018;  49:1103–15.e6.
+
+82:2087–97.
+
+  114  Stecher  B,  Robbiani  R,  Walker  AW  et  al.  Salmonella  enterica 
+
+  122  Zaiss  MM,  Rapin  A,  Lebon  L  et  al.  The  intestinal  microbiota 
+
+serovar  Typhimurium  exploits  inflammation  to  compete  with 
+
+contributes  to  the  ability  of  helminths  to  modulate  allergic 
+
+the  intestinal  microbiota.  PLOS  Biol  2007;  5:e244.
+
+inflammation.  Immunity  2015;  43:998–1010.
+
+  115  Sekirov  I,  Gill  N,  Jogova  M  et  al.  Salmonella  SPI-1-mediated 
+
+  123  Ramanan  D,  Bowcutt  R,  Lee  SC  et  al.  Helminth  infection 
+
+neutrophil recruitment during enteric colitis is associated with 
+
+promotes colonization resistance via type 2 immunity. Science 
+
+reduction and alteration in intestinal microbiota. Gut Microbes 
+
+2016;  352:608–12.
+
+2010;  1:30–41.
+
+  124  Reynolds  LA,  Redpath  SA,  Yurist-Doutsch  S  et  al.  Enteric 
+
+  116  Spiga  L,  Winter  MG,  Furtado  de  Carvalho  T  et  al.  Oxidative 
+
+helminths  promote  salmonella  coinfection  by  altering  the 
+
+central  metabolism  enables  salmonella  to  utilize  microbiota-
+
+intestinal  metabolome.  J  Infect  Dis  2017;  215:1245–54.
+
+derived  succinate.  Cell  Host  Microbe  2017;  22:291–301.e6.
+
+  125  Binion  D,  Rafiee  P.  Is  inflammatory  bowel  disease  a  vascular 
+
+  117  Su L, Su C, Qi Y et al. Coinfection with an intestinal helminth 
+
+disease? Targeting angiogenesis improves chronic inflammation 
+
+impairs  host  innate  immunity  against  Salmonella  enterica 
+
+in 
+
+inflammatory  bowel  disease.  Gastroenterology  2009; 
+
+serovar  Typhimurium  and  exacerbates  intestinal  inflammation 
+
+136:400–3.
+
+in  mice.  Infect  Immun  2014;  82:3855–66.
+
+  126  Khan  MT,  Duncan  SH,  Stams  AJM,  van  Dijl  JM,  Flint  HJ, 
+
+  118  Chen  C-C,  Louie  S,  McCormick  B,  Walker  WA,  Shi  HN. 
+
+Harmsen HJM. The gut anaerobe Faecalibacterium prausnitzii 
+
+Concurrent  infection  with  an  intestinal  helminth  parasite 
+
+uses  an  extracellular  electron  shuttle  to  grow  at  oxic-anoxic 
+
+impairs  host  resistance  to  enteric  Citrobacter  rodentium  and 
+
+interphases.  ISME  J  2012;  6:1578–85.
+
+204
+
+© 2019 The Authors. Clinical & Experimental Immunology published by John Wiley & Sons Ltd on behalf of British Society for 
+Immunology, Clinical and Experimental Immunology, 197: 193–204
+
+K. M. MaslowskiREVIEW SERIES: TRANSLATING IMMUNOMETABOLISM

@@ -1,0 +1,2408 @@
+Materials Today Bio 16 (2022) 100345
+
+Contents lists available at ScienceDirect
+
+Materials Today Bio
+
+journal homepage: www.journals.elsevier.com/materials-today-bio
+
+Bioengineered Co-culture of organoids to recapitulate
+host-microbe interactions
+
+Min Beom Kim a, Soonho Hwangbo b, c, Sungho Jang d, e, f, Yun Kee Jo a, g, *
+
+a Department of Biomedical Convergence Science and Technology, School of Convergence, Kyungpook National University, Daegu 41566, South Korea
+b Department of Chemical Engineering, Gyeongsang National University, Jinju 52828, South Korea
+c Department of Materials Engineering and Convergence Technology, Gyeongsang National University, Jinju 52828, South Korea
+d Division of Bioengineering, College of Life Sciences and Bioengineering, Incheon National University, Incheon 22012, South Korea
+e Department of Bioengineering and Nano-Bioengineering, Incheon National University, Incheon 22012, South Korea
+f Research Center for Bio Materials & Process Development, Incheon National University, Incheon 22012, South Korea
+g Cell and Matrix Research Institute, Kyungpook National University, Daegu 41944, South Korea
+
+A R T I C L E I N F O
+
+A B S T R A C T
+
+Keywords:
+Organoids
+Co-culture model
+Host-microbe interaction
+Human physiology
+Pathophysiology
+
+The recent spike in the instances of complex physiological host-microbe interactions has raised the demand for
+developing in vitro models that recapitulate the microbial microenvironment in the human body. Organoids are
+steadily emerging as an in vitro culture system that closely mimics the structural, functional, and genetic features
+of complex human organs, particularly for better understanding host-microbe interactions. Recent advances in
+organoid culture technology have become new avenues for assessing the pathogenesis of symbiotic interactions,
+pathogen-induced infectious diseases, and various other diseases. The co-cultures of organoids with microbes
+have shown great promise in simulating host-microbe interactions with a high level of complexity for further
+advancement in related ﬁelds. In this review, we provide an overview of bioengineering approaches for microbe-
+co-cultured organoids. Latest developments in the applications of microbe-co-cultured organoids to study human
+physiology and pathophysiology are also highlighted. Further, an outlook on future research on bioengineered
+organoid co-cultures for various applications is presented.
+
+1. Introduction
+
+Microbes have increasingly emerged as key players in modulating
+various physiological and pathophysiological processes in a human host
+[1,2]. The majority of microbes in extensively colonized tissues,
+including those of the gastrointestinal tract and upper respiratory tract,
+aid in normal development and function of human body system. While
+they protect the host from infection and maintain host health, some
+microbial components and the resulting changes in the environment can
+cause infectious diseases such as coronavirus disease 2019 (COVID-19)
+and several types of ulcerative [1,3–6]. Despite numerous efforts in the
+last decade, research into diverse host-microbe interactions and their
+impact on the development and progression of diseases remains at
+nascent stages due to limited availability of human tissues and the lack of
+in vitro models [7].
+
+Organoids are three-dimensional (3D) multicellular tissue constructs
+derived from the self-organization of stem cells [8]. Primary stem cells or
+
+pluripotent stem cells cultured in vitro under conditions similar to the
+speciﬁc microenvironment in the human body allow the generation of
+organoids that mimic their corresponding organs, such as the small in-
+testine, brain, lung, and stomach [9–12]. Conventional two-dimensional
+(2D) culture systems are relatively simple but pose challenges in reca-
+pitulating the composition of differentiated cells and tissue function [13].
+The use of in vivo models can overcome these problems and permit the
+execution of more complex studies in the presence of interconnected cells
+and tissues. Among these, in vivo mouse models have been successfully
+adopted to study the host-microbe interactions owing to their genetic and
+taxonomic similarities to the human microbiome [14,15]. Nevertheless,
+animal models are associated with ethical issues, greater time and
+ﬁnancial costs, and species-associated variance [16]. Organoids mimic
+the gene and protein expression, metabolic function, and microstructure
+of in vivo tissues of animal models, offering a promising in vitro system to
+address the gap between 2D cultures and in vivo animal experiments [17].
+For example, upon infection with microorganism, the organoid models
+
+* Corresponding author. Department of Biomedical Convergence Science and Technology, School of Convergence, Kyungpook National University, Daegu 41566,
+
+South Korea.
+
+E-mail address: ykjo@knu.ac.kr (Y.K. Jo).
+
+https://doi.org/10.1016/j.mtbio.2022.100345
+Received 25 April 2022; Received in revised form 26 June 2022; Accepted 27 June 2022
+Available online 1 July 2022
+2590-0064/© 2022 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/).
+
+M.B. Kim et al.
+
+Materials Today Bio 16 (2022) 100345
+
+have shown higher microbial-associated proteins than the 2D culture
+model, directly highlighting the suitability and superiority of organoids
+In particular,
+for modeling of host-microbe interactions [18,19].
+patient-derived organoids allow for the pathophysiological studies of the
+cellular mechanism and diversity, from the of host-microbe interactions
+viewpoint [20].
+
+To the best of our knowledge, this is the ﬁrst review that provides a
+comprehensive overview of development in the bioengineering of orga-
+noids to study the host commensal/pathogenic microbial interactions, in
+an organ-speciﬁc manner (Fig. 1). We have summarized the experimental
+techniques and key features of organoid co-cultures. Next, we describe
+recent breakthroughs in organoids co-cultures to recapitulate several
+target organs in the gastrointestinal, respiratory, nervous, reproductive,
+and urinary systems. Finally, we discuss the practical limitations of co-
+cultured organoids and offer some perspectives and outlook for the
+future.
+
+2. Preparation of organoids-microbial co-culture models
+
+To understand the interactions between organoids and microbes in
+greater depth, it is imperative to simulate an environment that mimics
+that of the human body harboring resident microbes. Particularly, most
+organoid culture models have an enclosed architecture surrounded by
+cells, thus limiting access and hindering the interaction between the
+inner apical epithelial cells and microorganisms. To overcome these
+limitations in 2D and 3D cultures, different approaches, such as the
+microinjection technique, generation of apical-out organoids and
+monolayer cultures, have been adopted (Fig. 2). In this section, we
+discuss methods for effectively exposing microbes to organoids.
+
+2.1. Microinjection into the organoids
+
+Microinjection has been widely used to mechanically deliver DNA,
+RNA, protein, peptide, sperms, and drugs to single cells [21]. Addition-
+ally, infectious diseases have been modeled through and intracellular
+injection of various microbes, such as Salmonella [22], Clostridium difﬁcile
+[23], Escherichia coli [24], and viruses [25], to obtain mechanistic
+
+Fig. 2. Overview of methods for constructing microbe-co-cultured organo-
+ids model.
+
+insights. Microinjection into the lumen of organoids facilitates the
+interaction of the microbes with the apical side of organoids and has been
+considered an accurate, efﬁcient, and practical method of delivering
+microbes, with low cytotoxicity for the organoid-microbe co-culture [21,
+26]. In particular, since organoids have a lower oxygen concentration
+compared to the external environment,
+intra-organoid
+microinjection in the co-culture of anaerobic microbes can help mini-
+mize their exposure to oxygen [27]. Microscale device capable of highly
+efﬁcient and reproducible microinjection of microbes into the lumen of
+organoids has been developed [28]. Moreover, a double-barrel perfusion
+system has shown to provide constant luminal access and allow regula-
+tion of luminal contents and luminal mixing, thereby enabling the
+increased success rate of perfusion with a higher gastrointestinal motility
+
+the use of
+
+Fig. 1. Schematic illustration for microbe-co-cultured organoid models and various applications.
+
+2
+
+M.B. Kim et al.
+
+Materials Today Bio 16 (2022) 100345
+
+and microbiome stability. However, manual microinjection restricts
+high-throughput experiments and often leads to variation in the
+co-cultured organoids generated [20,29,30]. The injection of varying
+number of microbial cells into the lumen can further exacerbate the
+non-uniformity in multiplicity of infection of organoids caused by
+different sizes and cell composition ratios [28,29]. In addition, the
+maintenance of oxygen/nutrient levels suitable for the symbiosis of
+organoids and microbes is a challenge that still remains to be solved [27,
+29,31].
+
+2.2. Suspension on the outside of the organoids
+
+Most organoids are generated as basal-out structures and can be
+facilely co-cultured with microbes in a simple suspension [32–36].
+However, this approach limits the access of microbes to the apical side of
+organoids mainly due to their closed conformation. A simple suspension
+of microbes in the medium for the culture of apical-out organoids, in
+which the luminal and basal structures are inverted, can be an alternative
+method that maintains barrier integrity and functional properties by
+modulating extracellular matrix (ECM) proteins during cultivation
+[37–40]. In particular, the apical-out organoids could address the limi-
+tations of
+such as
+multi-equipment requirement, labor-intensive process, and vulnerability
+to the inﬂux of epithelial cells into the lumen. Nevertheless, on
+comparing with common basolateral-out organoids,
+the apical-out
+organoids still pose challenges due to their low proliferation, poorly
+controlled differentiation, and uncertainty in the complete reversal of
+inner and outer cavities [27,39].
+
+intra-organoid microinjection,
+
+conventional
+
+2.3. Culture with organoids-derived monolayers
+
+Organoid-derived monolayer cultures can be established by incu-
+bating single cells or organoid fragments dissociated enzymatically from
+3D organoids on a Transwell or ﬂat culture surface in a medium con-
+taining microbes, supplemented with several types of nutrients [41–47].
+During the diffusion of the microbe-containing medium through the
+dome of complex matrices (i.e., Matrigel or Basement Membrane
+Extract), organoids located at the edge of the dome are more difﬁcult to
+access by microbes than those located in the center of the dome. How-
+ever, single cell monolayers derived from organoids can increase the
+access rate of microbes toward the cell
+lumen with an additional
+advantage of allowing easy sample collection at various time points [42].
+In addition, organoid-derived monolayers can be employed as a powerful
+model for co-culture with aerobic bacteria, since the Transwell has a
+larger area in contact with oxygen than those with anaerobic bacteria
+[27,42]. To generate organoids with resident anaerobes, an anaerobic
+environment needs to be maintained with a continuous provision of
+nutrients; failure to do so shortens the lifespan of the organoids and
+microbes are induced to overgrow, making it difﬁcult to achieve a stable,
+long-term culture.
+
+To overcome the limitations of the different levels of oxygen re-
+quirements between epithelial cells and microbes in Transwell co-
+cultures, a 2D culture system for human colonic epithelium called the
+intestinal hemi-anaerobic co-culture system (IHACS) consisting of a
+hypoxic apical chamber and normoxic basal chamber has been developed
+[27,48,49]. A hypoxic environment is essential for anaerobic microbes,
+while a normoxic condition is critical for the survival of epithelial cells.
+Therefore, the IHACS system can complement the environmental gap
+between organoids and microbes to ensure their survival [48]. Besides, a
+variety of culture methods,
+including organoids-on-chip and a
+microﬂuidics-based human microbial crosstalk (HuMiX) model, have
+been extensively used to address the limitations of Transwell cultures
+[50–52].
+
+3
+
+3. Microbe-co-cultured organoids of different organs
+
+Research into microbes and the physiological/pathological under-
+standing of various organs that have characteristics similar to those of
+tissues and organoids of the human body is steadily progressing through
+the use of organoid models (Table 1). In this section, we discuss organ-
+speciﬁc co-culture systems with pathogens and symbionts to under-
+stand interactions and molecular mechanisms in the human body.
+
+3.1. Digestive system
+
+3.1.1. Intestine
+
+Intestinal organoids are composed of various intestinal cell types,
+including epithelial cells, goblet cells, enteroendocrine cells, and Paneth
+cells, in addition to stem cells, and have been utilized as a 3D in vitro
+model to study the development and diseases of the intestinal epithelium
+[53]. The structural and functional similarities to real intestinal tissue
+render intestinal organoids ideal to model disease of the small intestinal,
+such as inﬂammatory bowel disease and colorectal cancer [54,55]. In
+addition, co-cultures of intestinal organoids with various pathogenic
+microbes, including C. difﬁcile, Salmonella, and viruses, have been uti-
+lized as a research model for understanding viral pathogenesis and
+host-microbial dynamics. As the gut is more densely populated with
+microbes than other organs, many studies have previously focused on the
+co-culture of intestinal organoids with microbes [56,57].
+
+Viruses are infectious microorganisms that need to penetrate living
+host cells for replication and proliferation [58]. Co-cultures of organoids
+and viruses have emerged as in vitro models for studying the patho-
+physiology of viruses and development of therapeutics. Many studies
+have demonstrated that viruses can multiply within intestinal organoids
+and successfully infect intestinal cells (Fig. 3A) [19,59–61]. Currently, no
+available therapeutic modalities, such as speciﬁc treatment method,
+antibiotics/antiviral drug regimens, or intestinal motility inhibitors, exist
+to treat infections by rotavirus, the most common viral pathogen that
+causes diarrhea and enteritis, or norovirus, the virus that induces acute
+gastroenteritis. Up to 50% cells of differentiated intestinal organoids,
+which exhibit a “villi-like” epithelial phenotype, were infected with
+rotavirus, whereas a signiﬁcantly lower proportion of undifferentiated
+“crypt-like” immature organoids were infected by the same pathogen
+(Fig. 3B and C) [60]. The administration of antiviral agents inhibits
+rotavirus in infected intestinal organoids, indicating that virus-infected
+organoids recapitulate the in vivo environment more closely than the
+cell line model [19]. Further, the necessity of bile for the replication of
+human norovirus in organoids and the enhancement of norovirus repli-
+cation in the intestinal epithelium lacking an interferon response have
+been conﬁrmed using genetically modiﬁed intestinal organoids [61].
+Similarly, in a reovirus-infected intestinal organoid model, the genetic
+manipulation of type I and type III interferon receptors inhibited reovirus
+infection responsible for gastrointestinal disorders; and the antiviral ac-
+tivity induced by type III interferon was highly dependent on the
+mitogen-activated protein kinases (MAPK) signaling pathway, unlike
+type I interferon [62].
+
+Salmonella is an enterobacterial pathogen that invades the intestinal
+mucosal surface, causing massive damage, along with gastrointestinal
+infections and typhoid outbreaks, resulting in thousands of deaths
+worldwide [63]. Microbial interactions of Salmonella with the gut have
+been analyzed using a microinjection into the lumen of intestinal orga-
+noids [22,64–66]. Salmonella-infected organoids exhibited inﬂammatory
+responses and the disruption of the epithelial tight junction via the
+expression of multiple genes and activation of the NF-κB pathway
+(Fig. 3D) [67]. The pretreatment of intestinal epithelial cells with IL-22
+cell priming in patient-derived organoids carrying an IL10RB gene mu-
+tation that inactivates the IL-22 receptor inhibited early viral invasion
+
+M.B. Kim et al.
+
+Materials Today Bio 16 (2022) 100345
+
+Table 1
+Summary of co-cultured organoids developed for the study of host-microbe interactions in various organs. Abbreviation: Severe acute respiratory syndrom-coronavirus-
+2, SARS-CoV-2.
+
+Organ
+
+Intestine
+
+Origin
+
+Mouse
+
+Model
+
+Microinjection
+
+Suspension
+
+Monolayer
+
+Human
+
+Microinjection
+
+Suspension
+
+Monolayer
+
+Microinjection
+Suspension
+Monolayer
+
+Suspension
+Monolayer
+Microinjection
+Microinjection
+Suspension
+Monolayer
+
+Suspension
+Monolayer
+Microinjection
+
+Suspension
+
+Monolayer
+
+Suspension
+
+Suspension
+Monolayer
+Suspension
+Suspension
+
+Monolayer
+Suspension
+Suspension
+Suspension
+Suspension
+
+Colon
+
+Liver
+
+Stomach
+
+Gallbladder
+
+Lung
+
+Mouse
+Human
+
+Human
+
+Mouse
+Human
+
+Mouse
+
+Human
+
+Brain
+
+Human
+
+Fallopian tube
+
+Cervix
+Kidney
+
+Blood vessel
+Tonsil
+Eye
+Oral
+
+Mouse
+Human
+Human
+Human
+
+Human
+Human
+Human
+Human
+
+Microbe
+
+Ref
+
+Salmonella
+Cryptosporidium parvum
+Rotavirus
+Inﬂuenza virus
+Salmonella
+Lactobacillus
+Toxoplasma gondii
+Giardia duodenalis
+Salmonella
+Clostridium difﬁcile
+Escherichia coli
+Lactobacillus
+Rotavirus
+Reovirus
+Lactobacillus
+Escherichia coli
+Salmonella
+Norovirus
+Escherichia coli
+Salmonella
+Lactobacillus
+Bacteroides thetaiotaomicron
+Escherichia coli
+Biﬁdobacterium adolescentis
+Bacteroides fragilis
+Clostridium butyricum
+Akkermansia muciniphila
+Hepatitis B virus
+Hepatitis E virus
+Helicobacter pylori
+Helicobacter pylori
+Helicobacter pylori
+SARS-CoV-2
+Epstein-Barr virus
+Salmonella
+Salmonella
+Mycobacterium tuberculosis
+Mycobacterium abscessus
+Human parainﬂuenza virus type 3
+Respiratory syncytial virus
+Aspergillus fumigatus
+Cryptosporidium parvum
+Respiratory syncytial virus
+SARS-CoV-2
+Inﬂuenza A virus
+SARS-CoV-2
+Zika virus
+Human immunodeﬁciency virus
+Herpes simplex virus
+Toxoplasma gondii
+Chlamydia trachomatis
+Chlamydia trachomatis
+Chlamydia trachomatis
+SARS-CoV-2
+BK-virus
+SARS-CoV-2
+SARS-CoV-2
+SARS-CoV-2
+SARS-CoV-2
+Herpes simplex virus
+Human papillomavirus
+
+[64]
+[164]
+[19]
+[33]
+[67]
+[73,76,77]
+[84]
+[84]
+[22,65,66]
+[23,68]
+[24,28,74,78]
+[72]
+[59,60]
+[62]
+[75]
+[75]
+[44]
+[61]
+[79]
+[85]
+[89]
+[42]
+[43,47]
+[48]
+[48]
+[48]
+[48]
+[94,95]
+[92]
+[100,101,103]
+[98,99]
+[102]
+[45]
+[46]
+[35]
+[105]
+[108]
+[108]
+[111]
+[113]
+[126]
+[163,164]
+[115]
+[118,119,122]
+[117]
+[120]
+[25,34,128,129,131,132,135]
+[136]
+[137]
+[139]
+[145]
+[140]
+[149]
+[18,36,155]
+[152]
+[154]
+[155]
+[166]
+[167]
+[150]
+[150]
+
+and induced a barrier phenotype for more effective control of Salmonella
+infection (Fig. 3E) [65]. In addition, the activation of naturally secreted
+α-defensin in the complex environment of the intestinal lumen protected
+the organoid epithelium; gene expression proﬁling and biochemical as-
+says showed that interleukin-22 (IL-22) induced the release of antimi-
+crobial peptides and chemokines and aided in the maintenance of the
+defensive intestinal epithelial barrier in response to infection.
+
+Intestinal organoids infected with pathogens have also been used to
+conﬁrm that intestinal epithelial cells play a key role in regulating
+
+intestinal homeostasis and restraining pathogens. Patients infected with
+C. difﬁcile, an enterobacterial pathogen, show a decrease in the expres-
+sion of MUC2, a major indicator of a defect in the protective mucosal
+barrier against pathogen invasion. Intestinal organoids decrease the
+production of MUC2 when infected with C. difﬁcile, and the pathogen
+binds to MUC1 to deliver the toxin (Fig. 3F) [68]. In addition, the cell line
+model showed only a higher toxicity of C. difﬁcile toxin TcdB than
+another toxin TcdA, whereas organoids demonstrated that TcdA exhibi-
+ted more potent toxicity than TcdB, causing a disruption of the intestinal
+
+4
+
+M.B. Kim et al.
+
+Materials Today Bio 16 (2022) 100345
+
+Fig. 3. Pathogenic microbe-infected small intestinal organoids. (A) Immunoﬂuorescence images of human rotavirus (HRV; strains Ito)-infected (right) organoids [60].
+(B) The presence of intracellular rotavirus antigen in single cells from undifferentiated and differentiated organoids analyzed by ﬂow cytometry [60]. (C) The amount
+of infectious virus in undifferentiated and differentiated organoids [60]. (D) Western blot analysis of tight junction proteins (Zo-1, Occludin, Claudin-2, and Claudin-7)
+in Salmonella-infected organoids [67]. (E) Gentamicin protection assays of IL-22-treated Salmonella-infected organoids [65]. (F) Confocal images of organoids injected
+with healthy stool and C. difﬁcile. Scale bar, 50 μm [68]. (G) Representative images of ﬂuorescein isothiocyanate (FITC, green)-dextran leakage from the lumen of
+organoids treated with C. difﬁcile toxin tcdA and tcdB [23].
+
+epithelial barrier function (Fig. 3G) [23,69,70]. This result is consistent
+with those reported in previous studies on the inactivation of the GTPase
+Rap that regulates cell-cell junctions through TcdA [71].
+
+Lactobacilli, probiotic symbiotic bacterial species residing in the
+human small intestine, have been extensively used to maintain the
+integrity of the intestinal epithelial barrier and treat a variety of intestinal
+disorders. Despite their ability to exert health-promoting effects and
+beneﬁcially modulate gut immunity, the limited access to human small
+intestine has made it difﬁcult to establish research models for their study.
+Recently, a co-culture system of intestinal organoids and symbiotic
+bacteria Lactobacillus reuteri and Lactobacillus plantarum has been devel-
+oped to demonstrate higher proliferation and viability when Lactobacilli
+were microinjected into the lumen of mature intestinal organoids rather
+than immature organoids (Fig. 4A) [72]. In addition, a co-culture of
+Lactobacilli-infected intestinal organoids with intestinal lymphocytes has
+shown that the colonization of lactobacilli promotes the proliferation of
+intestinal epithelium and repairs damaged intestinal mucosa by
+increasing the number of Lgr5
+cells (Fig. 4B) [73]. It also
+stimulates the secretion of IL-22 from the lymphocytes eventually
+inducing the phosphorylation of the signal transducer and activator of
+transcription 3 (STAT3) protein (Fig. 4C) [74]. The co-culture of Lacto-
+bacillus rhanmosus in small intestine organoids led to increase the degree
+of Paneth cell differentiation and the expression level of Ki-67, indicating
+the potential of the application of microorganisms to enhance the growth
+and differentiation of intestinal stem cells [75]. To study how Lactoba-
+cillus affects infection of Salmonella, which has shown to cause villi
+annihilation and collapse of intestinal organoids [22,64–67], the small
+intestine organoids were infected with Salmonella after pre-treatment
+
+and lysozyme
+
+þ
+
+þ
+
+þ
+
+with Lactobacillus acidophilus [76]. L. acidophilus inhibited Salmonella
+invasion, as well as showed the ability to protect the intestinal mucosa
+from pathogen infection. L. acidophilus pre-treatment increased the
+expression of MUC2 to protect the invasion of Salmonella, and reduced
+the damage of intestinal organoids by tumor necrosis factor-α and the
+ratio of apoptotic cells, thereby positively affecting the formation of in-
+testinal organoids. In addition, L. acidophilus suppressed the excessive
+proliferation of goblet cells and Paneth cells induced by Salmonella, and
+ameliorated overactivation of the Wnt/β-catenin pathway upon contact
+with toll-like receptor 2. Similarly, another organoid co-culture model
+conﬁrmed that L. reuteri D8 increase the mRNA expression of R-spondin,
+Wnt3 and Lrp5 to activate the Wnt/β-catenin pathway and to increase
+Lgr5 protein levels and Lgr
+cell numbers [77]. The surface area of in-
+testinal organoids was signiﬁcantly increased in L. reuteri D8 co-culture,
+while stimulating intestinal epithelial proliferation through the increases
+in expression of c-Myc, cyclin and Ki-67. Also, the recovery function of
+L. reuteri D8 was conﬁrmed in pathological conditions such as intestinal
+organoid damage and destruction induced by tumor necrosis factor
+(TNF), where L. reuteri D8 improved the expression of Lgr5, Olfm4, and
+Ascl2 which were inhibited by TNF by decreasing TNF expression. These
+results veriﬁed that commensal bacteria are effective in restoring intes-
+tinal damage and maintaining homeostasis after infection and patho-
+logical damage caused by exogenous bacteria, suggesting potential as a
+In another study,
+promising therapeutic technique in the future.
+co-culture with E. coli, a non-pathogenic commensal bacteria common in
+the intestine, prevented the loss of E-cadherin expression in intestinal
+organoids, increased production of reactive oxygen species, and pro-
+moted apoptosis [78]. The intestinal organoid model has also been
+
+5
+
+M.B. Kim et al.
+
+Materials Today Bio 16 (2022) 100345
+
+Fig. 4. Symbiotic bacteria-co-cultured small intestinal organoids. (A) Time-lapse images of immature and mature organoids after microinjection with red ﬂuorescence
+protein (RFP)-expressing L. plantarum. Scale bar, 200 μm [72]. (B) Immunoﬂuorescence images of control (Ctrl), L. reuteri D8 (D8)-infected and heat killed D8 (HK-D8)
+organoids with (top) or without (bottom) the treatment of TNF-α [73]. (C) Histological images of periodic acid-Schiff (PAS)- and Alcian blue-stained organoids
+microinjected with E. coli [74].
+
+shown to be a comparative analytical model for non-pathogenic and
+pathogenic microbes; the colonization of intestinal organoids with
+non-pathogenic E. coli activates antimicrobial defense pathways,
+including mucus production and genes related to toll-like receptor,
+cytokine, and NF-κB signaling. It also leads to an upregulated the genes
+associated with intestinal maturation and a loss of intestinal epithelial
+barrier function [24,74,79]. Taken together, the co-culture of intestinal
+organoids with various bacteria and viruses can serve as a useful tool that
+aids in understanding host-microbe interactions.
+
+Toxoplasma gondii and Giardia duodenalis are the two most common
+parasites associated with protozoan diseases in humans and animals
+[80–83]. Both parasites are zoonotic pathogens that mainly infect to the
+hosts through the small intestine. However, the interactions between
+parasites and small intestinal tissues are still elusive, and current ap-
+proaches for studying the host-pathogen interactions depend mainly on
+the immortalized cell line-based 2D models [80]. To understand the
+mechanism of parasite infection, single and simultaneous infection of
+T. gondii and G. duodenalis was performed on organoid-derived mono-
+layers (ODMs) [84]. From the measurement of transepithelial-electric
+resistance to conﬁrm the disturbance of intestinal barrier function, no
+signiﬁcant effect on barrier function was observed in ODM infected with
+T. gondii, whereas G. duodenalis-infected ODM exhibited a loss of barrier
+function through a decrease in epithelial resistance. In addition, unlike
+T. gondii infection that shows no clear change in the expression of tight
+junction proteins such as zonula occluden 1 (ZO-1) and occludin, there
+was signiﬁcant changes in tight junction proteins in G. duodenalis infec-
+tion and co-infection of T. gondii and G. duodenalis.
+
+3.1.2. Colon
+
+Enterohemorrhagic E. coli (EHEC) is a ﬂesh-eating pathogen that
+causes various complications, such as hemorrhagic colitis and hemolytic
+uremic syndrome [6]. Few studies exist on the interaction between the
+colon and EHEC before the onset of complications, due to a lack of
+appropriate animal models and the presence of asymptomatic conditions
+upon immediate EHEC infection. Human colon organoids co-cultured
+with EHEC can therefore be a sophisticated pathophysiological model
+that enables molecular-level studies, facilitating the analysis of colon
+disease during the early phase (0–8 h) of EHEC infection. The differen-
+tiated organoids demonstrated a higher degree of EHEC colonization
+than their undifferentiated counterparts
+[43]. The
+EHEC-infected organoids revealed that the thickness of the MUC2 mucus
+layer, a protective barrier between commensal bacteria and colonic
+epithelium, was rapidly reduced (< 6 h) after infection (Fig. 5B). Another
+þ
+study conﬁrmed that DNA damage was induced via co-culture with pks
+E. coli that produces colibactin, a genetic toxin (Fig. 5C) [85].
+
+(Fig. 5A)
+
+Biﬁdobacterium adolescentis is an anaerobic bacterium that colonizes
+the intestinal mucus layer and provides many health beneﬁts to the host
+in a symbiotic-like relationship such as mucus production [86].
+B. adolescentis was co-cultured on a monolayer derived from colon
+organoids to determine how B. adolescentis supports colon homeostasis
+and function through interaction with the colon [48]. B. adolescentis
+upregulated the expressions of MUC2 in colon epithelium and stem cell
+marker genes such as LGR5, AXIN2, and PTK7, which demonstrates the
+stem cell-promoting effects of B. adolescentis. In addition, successful
+colony formation was also observed thorough co-cultures with obligate
+anaerobic bacteria such as Bactericides fragilis and Clostridium butyricum.
+
+6
+
+M.B. Kim et al.
+
+Materials Today Bio 16 (2022) 100345
+
+Fig. 5. E. coli-infected colon organoids. (A) Quantiﬁcation of enterohemorrhagic E. coli (EHEC) or EHECΔespA bacteria associated with organoids [43]. (B) MUC2
+þ
+expression in EHEC-infected organoids [43]. (C) Immunoﬂuorescence images for DNA damage induction (γH2AX) of pks
+E. coli-co-cultured colon organoids [85].
+
+In particular, the co-culture with Akkermansia muciniphila revealed that
+A. muciniphila grew by decomposing the mucin layer without adding
+exogeneous mucin,
+thereby demonstrating the biological effect of
+epithelium on intestinal bacteria.
+
+One of the most widely used probiotic strains, Lactobacillus rhamnosus
+GG (LGG), has been known to improve symptoms of irritable bowel
+syndrome (IBS); however, the mechanism has not been clearly elucidated
+[87,88]. The LGG-co-cultured-organoid model analyzed how LGG affects
+the intestinal epithelial barrier lost by interferon-γ, a major cytokine in
+IBS that disrupts intestinal barrier homeostasis [89]. Upon injection of
+interferon-γ into the organoids without LGG infection, the function of
+intestinal epithelial barrier was disrupted, resulting in decreased gene
+expression of tight junction ZO-1 and occludin, and rapid loss of barrier
+integrity. However, in LGG-co-cultured organoids, the expression of ZO-1
+and occluding was shown similar to that of normal organoids, while
+exhibiting normalization of the epithelial barrier function.
+
+3.1.3. Liver
+
+Hepatotropic viruses are representative microorganisms that pose
+signiﬁcant public health problems with a great impact on global mor-
+tality, and thus the models to understand the host-virus interactions and
+the mechanisms of viral pathogenicity are urgently needed [90]. Among
+these hepatotropic viruses, hepatitis E virus (HEV) is one of the most
+common causes of acute hepatitis and acute liver failure [91]. To un-
+derstand the mechanism of HEV, the intrahepatic cholangiocyte orga-
+noids derived from the intrahepatic biliary compartment were
+co-cultured with the HEVs (Fig. 6A) [92]. HEV has been known to be
+replicated from hepatocytes and transported across the apical membrane
+into
+organoid model,
+hepatocyte-secreted albumin is directed basolaterally, whereas HEV
+particles were mostly emitted toward the apex (Fig. 6B and C). The
+intrahepatic cholangiocyte organoids
+in
+response to the treatment of ribavirin and mycophenolic acid. HEV
+replication stimulated robust type I interferon responses, indicating the
+potential for interferon α-based HEV suppression therapy.
+
+showed anti-HEV effects
+
+the HEV-infected
+
+ducts;
+
+bile
+
+the
+
+in
+
+Similar to HEV, hepatitis B virus (HBV) is a type of hepatotropic virus
+and can cause persistent and chronic infections in humans [93]. The liver
+organoids infected with HBV showed a decrease in membrane microvilli,
+a hallmark of ﬁbrosing liver disease, and upregulation of epithelial
+to organoid hepatic
+mesenchymal
+
+transition markers,
+
+leading
+
+dysfunction [94].
+In another study, HBV-infected liver organoids
+exhibited an upregulation of mRNA expression of the organoid-derived
+signature genes, and differentiated organoids showed higher HBV
+infection efﬁciency than immature organoids in expansion medium due
+to overexpression of sodium taurocholate co-transporting polypeptide
+[95]. The HBV infection early gene signatures and biomarkers could be
+identiﬁed through comparative transcriptome analysis of healthy orga-
+noids and HBV-infected patients-derived organoids. In particular, by
+identifying the gene signatures of hepatocellular carcinoma and early
+liver cancer, the organoid infection model could be utilized as a prom-
+ising model to predict development of the carcinoma and to understand
+the molecular mechanisms underlying HBV replication in primary cells.
+
+3.1.4. Stomach
+
+Helicobacter pylori, a microaerobic spiral-shaped bacterium found in
+the human stomach, can cause gastric adenocarcinoma and various
+stomach disorders [96,97]. In vitro studies of H. pylori have mainly relied
+on the use of transformed cell lines as infection models; however, this
+approach is particularly inadequate for understanding the mechanisms of
+cancer development due to their artiﬁcial physiological features. When
+H. pylori is microinjected into the lumen of gastric organoids to study its
+interactions with the gastric epithelium [98–101], metabolites released
+from gastric organoids by a bacterial chemoreceptor (TlpB) rapidly
+attract bacterial cells (Fig. 7A) [102]. In addition, the co-culture of
+organoids with H. pylori lacking the virulence factor CagA has been
+employed to conﬁrm that CagA forms a complex with the C-Met receptor
+after translocation to gastric epithelial cells, disrupting the epithelial
+layer [99,103]. In another study, the suppression of the differentiation
+cluster gene CD44 in H. pylori-infected gastric organoids led to a decrease
+in H. pylori-induced hyperproliferation and cancer induction (Fig. 7B and
+C) [100]. NF-κB activation led to the H. pylori
+infection-induced
+expression of sonic hedgehog (Shh) [101]. Collectively, the gastric
+organoid model can be used to elucidate potential mechanisms of
+H. pylori infection as well as to study various gastric pathologies.
+
+3.1.5. Gallbladder
+
+Salmonella infection has been reported as a main risk factor for gall-
+bladder carcinoma; however, the direct association and mechanism are
+not precisely known yet [104]. Infected gallbladder organoids show a
+loss of cohesion and polarity and irregular nuclear morphology [35].
+
+7
+
+M.B. Kim et al.
+
+Materials Today Bio 16 (2022) 100345
+
+Fig. 6. HEV-infected liver organoids. (A) Immuno-
+ﬂuorescence staining for HEV ORF2 protein in intra-
+hepatic cholangiocyte organoids on day 3 after
+infectious HEV particles [92]. (B) Quantiﬁcation of
+released viruses from polarized cells inoculated with
+HEV particles. Scale bar, 20 μM [92]. (C) Release of
+albumin into apical and basolateral compartments
+from polarized cells cultured in expansion medium
+(EM) with cholangiocyte phenotype or differentiation
+medium (DM) with hepatocyte phenotype (n ¼ 3)
+[92].
+
+Fig. 7. H. pylori-infected gastric organoids. (A) Motility tracings of H. pylori's response to organoid-conditioned media (top) and non-conditioned media (bottom) at 1 s
+þ
+and 30 s post-injection [102]. (B) Immunoﬂuorescence images and (C) western blot analysis of EdU
+cells in control (CON), H. pylori (HP)-infected, CD44v6
+neutralizing antibody-treated (CD44v6), and CD44v6 neutralizing antibody-treated HP-infected (CD44v6þHP) organoids [100].
+
+the overexpression of c-MYC and inactivation of
+
+Meanwhile,
+the
+Arf/TP53 pathway induce the transformation of Salmonella-infected cell.
+Moreover, Salmonella promotes cell division and phenotypic transition of
+infected cells by activating the MAPK and protein kinase B (AKT) path-
+ways (Fig. 8A). In addition, the prolonged maintenance of gallbladder
+organoid culture was shown to be dependent on R-spondin that mediates
+activation of the Wnt/β-catenin signaling pathway and regeneration of
+gallbladder epithelium by Lgr5
+cells [105]. In addition, the role of
+Salmonella toxin ΔcdtB that induces typhoid was demonstrated through
+NF-κB target gene analyses. These gallbladder organoid-based studies
+have opened new avenues to understand the direct relationship of bac-
+teria with oncogenesis (Fig. 8B).
+
+þ
+
+3.2. Respiratory system
+
+Lung is the main route of Mycobacteria, and its infection causes severe
+morbidity and mortality. Mycobacterium tuberculosis, the main cause of
+tuberculosis, has been extensively shown to be associated with diseases
+such as pulmonary complications and autoimmune diseases [106].
+Meanwhile, Mycobacterium abscessus, does not cause tuberculosis but can
+cause immunosuppression and a wide range of diseases [107]. The
+airway organoids infected with M. tuberculosis and M. abscessus were
+constructed via microinjection [108]. Upon mycobacteria infection,
+downregulation of NF-Κb regulatory genes led to low expression of
+In addition, co-culture of
+mucins
+showed that
+mycobacteria-infected organoids with macrophages
+
+such as MUC5B and MUC4.
+
+8
+
+M.B. Kim et al.
+
+Materials Today Bio 16 (2022) 100345
+
+Fig. 8. Salmonella-infected gallbladder organoids. (A) Histological images of H&E (top)- and E-cadherin (bottom)-stained gallbladder organoids. Scale bar, 20 μm
+[35]. (B) Heat map for manually selected NF-κB target genes, with a comparison of wild type (w.t.) Salmonella and SalmonellaΔcdtB infections at 2 and 7 days
+post-infection [105].
+
+macrophages migrated to the basal edge of the organoid to capture and
+ingest bacteria, thus conﬁrming that macrophages are essential for
+tuberculosis diseases.
+
+Human parainﬂuenza virus type 3 (HPIV3) infects lower respiratory
+tract epithelial cells and causes childhood bronchiolitis and pneumonia,
+however, its effect on the lung has not been precisely known [109]. Most
+current studies on HPIV3 rely on immortalized cell lines; a realistic
+lung-like model is necessary to understand the interaction of the lung
+with vial surface glycoproteins that mediate the entry of viruses into host
+cells [109,110]. HPIV infection was performed either by depositing an
+inoculum under Matrigel adjacent to the lung organoid tissue or by
+microinjection, both of which conﬁrmed that HPIV3 targeted the alveoli
+[111]. The infected cells exhibited viral entry without syncytium for-
+mation, and particles released by the virus diffused to adjacent locations
+within the alveolar structure.
+
+Respiratory syncytial virus (RSV) is a virus that causes acute lower
+respiratory tract infection in infants; despite extensive research efforts,
+there is no licensed vaccine or effective antiviral agent yet, and little is
+known about the immunobiology of RSV infection [112]. In the human
+lung organoids, RSV infection was conﬁrmed in smooth muscle
+actin-positive and vimentin-positive expressing cells, but not
+in
+tubulin-positive expressing cells [113]. Similar to cilia formation known
+as a cytopathic effect of the virus in mature airways, RSV infection
+reduced the population of FoxJ1-positive ciliated cells and altered
+organoid structures such as E-cadherin destruction. In addition, by
+comparing RSV-infected and non-infected organoids, high expression of
+proteins belonging to the category of neutrophil degranulation, which
+the pathogenesis of RSV-induced inﬂammation, was
+inﬂuence
+conﬁrmed. The RSV-infected cells have shown to swell and ﬂow into the
+lumen of organoid branching structure, which is similar to archival pa-
+thology [114,115].
+
+Inﬂuenza A virus is a pathogenic virus that can infect a variety of
+hosts, such as birds and mammals, including humans [116]. However,
+the model to predict cross-species virus transmission potential and
+inﬂuenza infectivity remains still lacking. The human airway organoids
+model replicates the avian inﬂuenza H7N6/Ah virus with high human
+infectivity more strongly than the avian inﬂuenza H7N2 virus with low
+human infectivity,
+the possibility of distinguished
+cross-species virus transmission [117]. A comparative analysis of
+H1N1pdm and H1N1sw in the airway monolayer derived from organoids
+also revealed a very high virus transmission potential. Even though the
+viral titer of the basolateral medium was relatively low due to the
+
+conﬁrming
+
+epithelial barrier formed in the 2D monolayer and the preferential
+release of virus from the apical side of cells, the human airway organoids
+demonstrated differences in the replication capacity between viruses on
+both the apical and basal sides.
+
+COVID-19 is a contagious respiratory disease caused by infection with
+a novel coronavirus, severe acute respiratory syndrome coronavirus 2
+(SARS-CoV-2). It can lead to fatal disorders, including severe pneumonia
+[5]. To overcome the COVID-19 pandemic, a robust and practical in vitro
+model system for SARS-CoV-2 virus etiology is necessary. Since
+SARS-CoV-2 mainly infects the respiratory tract, lung organoids have
+[118–122].
+been most
+extensively developed in recent years
+SARS-CoV-2-infected lung organoids demonstrated that the expression of
+serine protease 2 (TMPRSS2) is essential for priming the spike (S) protein
+of angiotensin converting enzyme-2 (ACE2) of coronavirus. The entry
+and replication of coronaviruses are effectively inhibited through pre-
+treatment with Camostat, a serine protease inhibitor, conﬁrming
+TMPRSS2 as the main entry route in vivo (Fig. 9A and B) [120]. In
+addition, the high-throughput screening of lung organoids has enabled
+the identiﬁcation of drugs inhibiting the entry of various coronaviruses
+(Fig. 9C) [118]. In addition to the respiratory system, studies on
+organoid-based coronavirus infections have been conducted for various
+organs, including the stomach [45], small intestine [123,124], and ce-
+rebrum [118], to develop models for understanding the pathogenesis of
+COVID-19 and testing new therapeutic drugs.
+
+Aspergillus fumigatus is the most important pathogenic fungus in
+humans causing various lung diseases including allergic broncho-
+pulmonary aspergillosis, chronic pulmonary aspergillosis and invasive
+aspergillosis [125]. The infection of A. fumigatus led to upregulation of
+stimulatory inﬂammatory cytokine expression through pathogen recog-
+nition receptor in lung organoids, with expressions of tissue inﬂamma-
+tion markers such as cyclooxygenase, matrix metalloproteinase 9, and the
+acute-phase protein C-reactive proteins [126]. These results suggest that
+the potential of microbe-co-cultured organoids models to mimic the
+immune function and immunocompetent tissue microenvironment of
+organs.
+
+3.3. Nervous system
+
+Zika virus, a mosquito-borne ﬂavivirus, causes birth defects including
+microcephaly and is associated with meningitis and myelitis [34]. Zika
+virus has been demonstrated to preferentially target neural progenitor
+cells (NPCs) across the placenta [127,128], leading to cell death via
+
+9
+
+M.B. Kim et al.
+
+Materials Today Bio 16 (2022) 100345
+
+Fig. 9. SARS-CoV-2-infected lung organoids. Immunoﬂuorescence images of (A) bronchiolar and (B) bronchial organoids pretreated with Camostat [120]. (C) In-
+hibition of SARS-CoV-2 infection by treatment with viral entry inhibitors [118].
+
+apoptosis or autophagy by inducing the depletion of progenitors due to
+premature differentiation of NPCs causing centromere perturbation.
+Microcephaly results from ventricular region destruction, cortical dam-
+age, and neurogenesis disorders [34,128,129]. Though the AXL receptor
+has been increasingly considered as a major attachment factor for the
+entry of Zika virus and NPC death, the role of AXL still remains elusive.
+To understand the effect of AXL on Zika virus pathogenesis, a cerebral
+organoid model capable of expressing AXL has been developed (Fig. 10A
+and B) [130]. Nevertheless, another study described that AXL is not
+essential for Zika virus infection in NPCs and organoids with genetically
+excised AXL (Fig. 10C–E) [131]. As these results indicate, the inhibition
+of AXL alone does not seem to be enough to ameliorate Zika virus
+infection during brain tissue development. In addition, the inhibition of
+the innate immune receptor toll-like receptor 3 reduced the phenotypic
+effects of Zika virus infection [132]. Though preclinical studies on Zika
+virus have not precisely identiﬁed drugs to treat or prevent the infection
+[133,134], a screening using approximately 6000 compounds on brain
+organoid models has identiﬁed the caspase-3 activity inhibitors,
+
+Emricasan and Niclosamide, to be effective in inhibiting the death of
+NPCs and proliferation of Zika virus [25]. Besides, a multi-well rotating
+bioreactor SpinΩ was developed for the easy and cost-effective estab-
+that allows brain
+lishment of a Zika-infected organoid model
+region-speciﬁc analysis [135]. In addition to Zika virus, pathogenic
+mechanisms of various microbes, such as human immunodeﬁciency virus
+and herpes simplex virus, have been studied using brain organoids [136,
+137].
+
+Toxoplasmosis is a parasitic disease that results from T. gondii infec-
+tion; upon infection with T. gondii, it can penetrate to circulating cells
+such as macrophages and cross the blood-brain-barrier [81,82]. It has
+been reported that humans infected with T. gondii develop abnormal
+neurocognitive behaviors and mental disorders. However, no drug has
+been approved for Toxoplasmosis yet, and the study of T. gondii infection
+in 2D models showed non-physiological pressures and tensions that can
+alter processes of Toxoplasma infection [138]. To overcome these limi-
+tations, T. gondii-infected cerebral organoids model was developed;
+T. gondii formed a cyst-like structure within the organoid, and tachyzolite
+
+Fig. 10. Zika virus-infected brain organoids. (A) Schematic illustration for generation of induced pluripotent stem cell-based cerebral organoids [130]. (B) Immu-
+nohistochemistry image of AXL expression in the lumen of organoids after 70 weeks of culture [130]. (C) Bright-ﬁeld image of ZIKA-infected organoids for wild type
+AXL (AXLWT) and transmembrane domain knocked-out AXL (AXLKO(cid:2)Tm) [131]. Quantiﬁed size of cross-sectional organoids at (D) 72 h and (E) 144 h
+post-infection [131].
+
+10
+
+M.B. Kim et al.
+
+Materials Today Bio 16 (2022) 100345
+
+was differentiated into bradyzolite; thereby proving that it summarizes
+the life cycle stages of the parasite [139]. In addition, in the cerebral
+organoids, differentiated neuronal cells exhibited a higher priority than
+radial glial cells for the infection of T. gondii.
+
+3.4. Reproductive system
+
+the mechanism still
+
+Chlamydia trachomatis not only induces sexually transmitted diseases
+but also causes chronic infections, fallopian tube scarring, and possible
+infertility [140,141]. C. trachomatis has been shown to disrupt host cell
+metabolism and cause DNA damage in vitro [142,143]. Several studies
+have reported structural damage to the C. trachomatis-infection fallopian
+[144]. The
+tubes but
+C.
+trachomatis-infected fallopian tube organoids models have been
+established to study the pathological relationship of C. trachomatis and
+salpingitis [140,145]. In this model, C. trachomatis was mainly found in
+the lumen of organoids, and the infection induced a change in the cell
+composition of the organoid monolayer (Fig. 11A) [140]. In addition, the
+adsorption of glutamine is critical for the synthesis of peptidoglycans that
+play important roles in the proliferation of C. trachomatis; their prolif-
+eration was inhibited in fallopian tube organoids, in which SLC1A5, a
+glutamine transporter, was knocked out (Fig. 11B) [145].
+
+remains unclear
+
+Human papillomavirus (HPV) is one of the major causes of cervical
+carcinogenesis [146–148]. Upon HPV infection, co-factors like immune
+status, hormones, and co-infections are known to inﬂuence the devel-
+opment of cervical cancer. To understand the interaction between HPV
+and bacterial pathogen C. trachomatis, a co-infection model was devel-
+oped via infection of C. trachomatis to the ectocervix organoid induced by
+integration of E6E7 oncogene into the host genome [149]. The HPV E6E7
+inhibited the redifferentiation of reticulate bodies into elementary
+bodies, as well as interfered with C.
+trachomatis development and
+reduced persistence. The C. trachomatis suppressed mismatch repair gene
+expression by proteasomal degradation of transcription factor E2F1.
+
+These results suggest that the co-existence of HPV and C. trachomatis in
+stem cells can promote cervical carcinogenesis and tumor progression.
+Nevertheless, direct infection of HPV into organoids, not through direct
+method such as genetic manipulation, has progressed only with oral
+mucosal organoids [150]; no studies have been performed on repro-
+ductive system organoids. Taken together, these approaches could be
+potentially useful to elucidate the pathogenesis of various diseases of the
+reproductive system, including serous ovarian cancer, the long-term ef-
+fects of Chlamydial
+infection, and co-infections with pathogenic
+microbes.
+
+3.5. Urinary system
+
+Infection with BK virus, a tubule-speciﬁc virus, has no speciﬁc
+treatment and is one of main causes of nephropathy and disability in
+kidney transplant recipients [151]. Renal organoids infected with BK
+virus demonstrated an infection pattern similar to that of nephrotic tis-
+sue, and the nuclei of infected tubular cells double in size due to intra-
+nuclear basophilic viral inclusions [152]. In addition, the expression of
+an early gene of the BK virus, SV40/large T antigen, and a late gene VP-1
+were detected in the BK virus-infected renal organoids (Fig. 12A).
+
+SARS-CoV-2 infects and damages the cells of the kidney, an important
+target organ for COVID-19, but the mechanism remains unclear [153].
+Coronavirus-infected renal organoids models have been constructed to
+identify the pathophysiological relevance; coronaviruses have been re-
+ported to infect renal tubular epithelial cells and induce acute injury and
+ﬁbrotic remodeling, leading to renal failure and chronic kidney disease
+[154]. The SARS-CoV-2-infected renal organoids exhibited an upregu-
+lation in the expression of ﬁbrosis-inducing collagen type I, and this
+upregulation could be reduced by blocking TGF-β receptor I (Fig. 12B).
+Further,
+the administration of human recombinant soluble ACE2
+(hrsACE2) to renal organoids suppressed viral infection and attenuated
+the spread of the coronavirus (Fig. 12C) [155].
+
+4. Concluding remarks
+
+organoid co-cultures with pathogens
+
+In this review, we have discussed the current advances in organoid co-
+cultures for studying host-microbe interactions. Organoid models more
+accurately mimic the human in vivo environment than previous con-
+ventional culture systems, offering innovative and effective in vitro ap-
+proaches. Therefore,
+or
+commensals, such as Salmonella, C. difﬁcile and viruses, have contributed
+to a better understanding of previously inaccessible interactions between
+tissues/cells and microbes [156,157]. However, the development of
+organoids co-cultured with archaea, fungi, and protists are still relatively
+elusive, compared to the counterpart of bacteria and viruses;
+organoids-based co-culture studies on a wider range of microbe species
+should be conducted.
+the current
+microbe-co-cultured organoids research focused on pathophysiological
+studies, it is necessary to understand the physiological mechanism such
+as immunity, metabolism, and hormone secretion in the human body and
+the interaction with symbiotic bacteria through the organoid symbiosis
+model. Further, the co-culture of organoids with helminth such as Nip-
+postrongylus brasiliensism and Trichinella spirails can derive an in vitro
+model for parasitism [158,159].
+
+since most of
+
+In addition,
+
+When co-culturing organoids and microbes, a dedicate medium
+recipe to address the requirement of both is necessary to establish the
+microbe-co-cultured organoids due to the difference in optimal medium
+composition for growth and maintenance between two counterparts, in
+addition to an adequate selection of the co-culture architecture for
+providing an environment similar to the microenvironment in the cor-
+responding organs in vivo [29]. For example, most commensal bacteria in
+intestine and colon are facultative or obligate anaerobes and can only
+survive in an environment with minimal oxygen [160–162]. In order to
+
+11
+
+Fig. 11. C. trachomatis-infected fallopian tube organoids. (A) Whole-mount 3D
+images for the localization of bacteria in acute C. trachomatis-infected organoids.
+(C. trachomatis, red; β-catenin, green; nuclei, blue). Scale bar, 50 μm [140]. (B)
+Immunoﬂuorescence images of C. trachomatis-infected organoids derived from
+SLC1A5
+
+and SLC1A5
+
+mice [145].
+
+þ/þ
+
+(cid:2)/(cid:2)
+
+M.B. Kim et al.
+
+Materials Today Bio 16 (2022) 100345
+
+Fig. 12. Virus-infected kidney organoids. (A) Histological images of periodic acid-Schiff (PAS)-, SV40 T antigen (early gene of BK virus)- and VP-1 (late gene of BK
+virus)-stained BK virus-infected tubuloids at 10 days post-infection. Black arrows indicate larger blue nuclei (intracellular basophilic viral inclusions) [152]. (B) Kidney
+organoids without any treatment (R, mock-infected) or with treatment using SB431542 (S), SARS-CoV-2 (T) and SARS-CoV-2 þ SB431542 (U). Scale bar, 20 μm [154].
+(C) Effect of human recombinant soluble ACE2 (hrsACE2) on SARS-CoV-2-infected kidney organoids [155].
+
+provide speciﬁc culture conditions for these microbes, a culture system
+equipped with a hypoxia gradient could make it possible to reproduce the
+oxygen gradient in vivo [48]. In addition, the control for the number of
+microbes per single organoid and the timing of microbe inoculation to
+from
+organoids
+microbes-co-cultured organoids system-based applications.
+
+could enable to obtain more uniform results
+
+In addition to the studies of the organs mentioned above [35,43,64,
+99,128,140,152,163,164], co-cultured organoids for other organs,
+including the esophagus, eye, and blood vessel are increasingly being
+studied [155,165–167]. Nevertheless, a reconceptualization of
+the
+principles of organoid design is required to maximize the applicability of
+the organoid model [168]. In general, organoids are mostly composed of
+epithelial and mesenchymal cells, which allows the advantageous feature
+in obtaining data less relevant from the disturbance or interaction of
+surrounding cells. However, though organoids grown in vitro are more
+physiologically similar to human than 2D cell cultures, they exhibit
+fetal-level maturity and function acceptably at various stages of devel-
+opment in physiological studies [169,170]; they also failed to recapitu-
+late in vivo tissue condition and organ systems due to a lack of immune
+
+12
+
+composition of Basement Membrane Extract
+
+cells and vascular structures [170]. Moreover, access to the supply and
+demand of primary tissues obtained through surgery or biopsy has been
+becoming increasingly difﬁcult, restricting practical applications of
+human tissue-derived organoids. Currently available commercial
+induced pluripotent stem cells not only take a long time to generate
+mature organoids, but also use enormous media and growth factors; more
+basic research to identify the optimal conditions for organoid formation
+is necessary to solve these problems. Meanwhile, the complex and un-
+a
+clear
+tumor-derived ECM material used for the culture of most organoids, can
+lead to uncertainty and errors in reproducibility in cell biology [171].
+Several types of biopolymers, such as collagen, hyaluronic acid, and poly
+(ethylene glycol), have been utilized as hydrogel formulations to replace
+the BME, with the aim of reproducibly generating organoids [171–174].
+Nevertheless, more advanced engineering approaches for the polymeric
+hydrogels for controlling the stiffness, cell viability and bioactivity of the
+environment required for microbial-host growth is highly needed.
+Despite these limitations, organoids have been established as standard
+their
+tools
+
+host-microbial
+
+interactions
+
+studying
+
+(BME),
+
+and
+
+for
+
+M.B. Kim et al.
+
+Materials Today Bio 16 (2022) 100345
+
+physiology/pathology [175]. Based on advances in organoid techniques,
+such as organoids-on-a-chip [176]and assembloids [177], organoids
+could become an unprecedented model for improving human health in
+the future.
+
+Credit author statement
+
+Min Beom Kim: Conceptualization, Methodology,
+
+Investigation,
+Writing – original draft, Writing – review & editing. Soonho Hwangbo:
+Writing – review & editing. Sung Ho Jang: Writing – review & editing.
+Yun Kee Jo: Conceptualization, Writing – review & editing, Supervision.
+
+Declaration of competing interest
+
+The authors declare that they have no known competing ﬁnancial
+interests or personal relationships that could have appeared to inﬂuence
+the work reported in this paper.
+
+Acknowledgements
+
+This research was supported by Basic Science Research Program
+through the National Research Foundation of Korea (NRF)grant funded
+by the Korea government, Ministry of Science and ICT (NRF-
+2021R1C1C1008560).
+
+References
+
+[1] R. Knight, C. Callewaert, C. Marotz, E.R. Hyde, J.W. Debelius, D. McDonald,
+
+M.L. Sogin, The microbiome and human biology, Annu. Rev. Genom. Hum. Genet.
+18 (2017) 65–86, https://doi.org/10.1146/annurev-genom-083115-022438.
+
+[2] T. Nih, Human microbiome portfolio analysis, A review of 10 years of human
+
+microbiome research activities at the US National Institutes of health, Fiscal Years
+2007-2016, Microbiome 7 (2019) 31, https://doi.org/10.1186/s40168-019-0620-
+y.
+
+[3] M.A. Malla, A. Dubey, A. Kumar, S. Yadav, A. Hashem, E.F.A. Allah, Exploring the
+human microbiome: the potential future role of next-generation sequencing in
+disease diagnosis and treatment, Front. Immunol. 10 (2019) 2868, https://
+doi.org/10.3389/ﬁmmu.2018.02868.
+
+[4] A. Casadevall, L.A. Pirofski, Host-pathogen interactions: basic concepts of
+
+microbial commensalism, colonization, infection, and disease, Infect. Immun. 68
+(2000) 6511–6518, https://doi.org/10.1128/IAI.68.12.6511-6518.2000.
+
+[5] T. Singhal, A review of coronavirus disease-2019 (COVID-19), Indian J. Pediatr.
+
+87 (2020) 281–286, https://doi.org/10.1007/s12098-020-03263-6.
+
+[6] M. Campieri, P. Gionchetti, Bacteria as the cause of ulcerative colitis, Gut 48
+
+(2001) 132–135, https://doi.org/10.1136/gut.48.1.132.
+
+[7] C.J. Ramírez-Flores, L.J. Knoll, Breakthroughs in microbiology made possible with
+
+organoids, PLoS Pathog. 17 (2021), e1010080, https://doi.org/10.1371/
+journal.ppat.1010080.
+
+[8] R. Lehmann, C.M. Lee, E.C. Shugart, M. Benedetti, R.A. Charo, Z. Gartner,
+B. Hogan, J. Knoblich, C.M. Nelson, K.M. Wilson, Human organoids: a new
+dimension in cell biology, Mol. Biol. Cell 30 (2019) 1129–1137, https://doi.org/
+10.1091/mbc.E19-03-0135.
+
+[9] A. Mithal, A. Capilla, D. Heinze, A. Berical, C. Villacorta-Martin, M. Vedaie,
+
+A. Jacob, K. Abo, A. Szymaniak, M. Peasley, A. Stuffer, J. Mahoney, D.N. Kotton,
+F. Hawkins, G. Mostoslavsky, Generation of mesenchyme free intestinal organoids
+from human induced pluripotent stem cells, Nat. Commun. 11 (2020) 215,
+https://doi.org/10.1038/s41467-019-13916-6.
+
+[10] F. Liu, J. Huang, Z. Liu, Vincristine impairs microtubules and causes neurotoxicity
+in cerebral organoids, Neuroscience 404 (2019) 530–540, https://doi.org/
+10.1016/j.neuroscience.2018.12.047.
+
+[11] A.J. Miller, B.R. Dye, D. Ferrer-Torres, D.R. Hill, A.W. Overeem, L.D. Shea,
+
+J.R. Spence, Generation of lung organoids from human pluripotent stem cells in
+vitro, Nat. Protoc. 14 (2019) 518–540, https://doi.org/10.1038/s41596-018-
+0104-8.
+
+[12] T.R. Broda, K.W. McCracken, J.M. Wells, Generation of human antral and fundic
+gastric organoids from pluripotent stem cells, Nat. Protoc. 14 (2019) 28–50,
+https://doi.org/10.1038/s41596-018-0080-z.
+
+[13] K. Duval, H. Grover, L.H. Han, Y. Mou, A.F. Pegoraro, J. Fredberg, Z. Chen,
+
+Modeling physiological events in 2D vs. 3D cell culture, Physiology 32 (2017)
+266–277, https://doi.org/10.1152/physiol.00036.2016.
+
+[14] P.V. Turner, The role of the gut microbiota on animal model reproducibility,
+Anim. Model. Exp. Med. 1 (2018) 109–115, https://doi.org/10.1002/
+ame2.12022.
+
+[15] A.D. Kostic, M.R. Howitt, W.S. Garrett, Exploring host-microbiota interactions in
+animal models and humans, Genes Dev. 27 (2013) 701–718, https://doi.org/
+10.1101/gad.212522.112.
+
+[16] T. Hartung, Thoughts on limitations of animal models, Park. Relat. Disord. 14
+
+(2008) 83–85, https://doi.org/10.1016/j.parkreldis.2008.04.003.
+
+13
+
+[17] J. Barrila, A. Crabb(cid:1)e, J. Yang, K. Franco, S.D. Nydam, R.J. Forsyth, R.R. Davis,
+
+S. Gangaraju, C. Mark Ott, C.B. Coyne, M.J. Bissell, C.A. Nickerson, Modeling host-
+pathogen interactions in the context of the microenvironment: three-dimensional
+cell culture comes of age, Infect. Immun. 86 (2018), e00282, https://doi.org/
+10.1128/IAI.00282-18.
+
+[18] S. Xia, M. Wu, S. Chen, T. Zhang, L. Ye, J. Liu, H. Li, Long term culture of human
+kidney proximal tubule epithelial cells maintains lineage functions and serves as
+an Ex vivo model for coronavirus associated kidney injury, Virol. Sin. 35 (2020)
+311–320, https://doi.org/10.1007/s12250-020-00253-y.
+
+[19] Y. Yin, M. Bijvelds, W. Dang, L. Xu, A.A. Van Der Eijk, K. Knipping, N. Tuysuz,
+J.F. Dekkers, Y. Wang, J. De Jonge, D. Sprengers, L.J.W. Van Der Laan,
+J.M. Beekman, D. Ten Berge, H.J. Metselaar, H. De Jonge, M.P.G. Koopmans,
+M.P. Peppelenbosch, Q. Pan, Modeling rotavirus infection and antiviral therapy
+using primary intestinal organoids, Antivir. Res. 123 (2015) 120–131, https://
+doi.org/10.1016/j.antiviral.2015.09.010.
+
+[20] D. Dutta, I. Heo, H. Clevers, Disease modeling in stem cell-derived 3D organoid
+systems, Trends Mol. Med. 23 (2017) 393–410, https://doi.org/10.1016/
+j.molmed.2017.02.007.
+
+[21] P. Tiefenboeck, J.A. Kim, J.C. Leroux, Intracellular delivery of colloids: past and
+future contributions from microinjection, Adv. Drug Deliv. Rev. 132 (2018) 3–15,
+https://doi.org/10.1016/j.addr.2018.06.013.
+
+[22] J.L. Forbester, D. Goulding, L. Vallier, N. Hannan, C. Hale, D. Pickard,
+
+S. Mukhopadhyay, G. Dougan, Interaction of salmonella enterica serovar
+Typhimurium with intestinal organoids derived from human induced pluripotent
+stem cells, Infect. Immun. 83 (2015) 2926–2934, https://doi.org/10.1128/
+IAI.00161-15.
+
+[23] J.L. Leslie, S. Huang, J.S. Opp, M.S. Nagy, M. Kobayashi, V.B. Young, J.R. Spence,
+Persistence and toxin production by Clostridium difﬁcile within human intestinal
+organoids result in disruption of epithelial paracellular barrier function, Infect.
+Immun. 83 (2015) 138–145, https://doi.org/10.1128/IAI.02561-14.
+
+[24] S.S. Karve, S. Pradhan, D.V. Ward, A.A. Weiss, Intestinal organoids model human
+responses to infection by commensal and Shiga toxin producing Escherichia coli,
+PLoS One 12 (2017) 1–20, https://doi.org/10.1371/journal.pone.0178966.
+[25] M. Xu, E.M. Lee, Z. Wen, Y. Cheng, W.K. Huang, X. Qian, J. Tcw, J. Kouznetsova,
+
+S.C. Ogden, C. Hammack, F. Jacob, H.N. Nguyen, M. Itkin, C. Hanna, P. Shinn,
+C. Allen, S.G. Michael, A. Simeonov, W. Huang, K.M. Christian, A. Goate,
+K.J. Brennand, R. Huang, M. Xia, G.L. Ming, W. Zheng, H. Song, H. Tang,
+Identiﬁcation of small-molecule inhibitors of Zika virus infection and induced
+neural cell death via a drug repurposing screen, Nat. Med. 22 (2016) 1101–1107,
+https://doi.org/10.1038/nm.4184.
+
+[26] Y. Zhang, L.C. Yu, Microinjection as a tool of mechanical delivery, Curr. Opin.
+Biotechnol. 19 (2008) 506–510, https://doi.org/10.1016/j.copbio.2008.07.005.
+
+[27] M. Poletti, K. Arnauts, M. Ferrante, T. Korcsmaros, Organoid-based models to
+
+study the role of host-microbiota interactions in IBD, J. Crohn’s Colitis. 15 (2021)
+1222–1235, https://doi.org/10.1093/ecco-jcc/jjaa257.
+
+[28] N.J. Ginga, R. Slyman, G.A. Kim, E. Parigoris, S. Huang, V.K. Yadagiri, V.B. Young,
+J.R. Spence, S. Takayama, Perfusion system for modiﬁcation of luminal contents of
+human intestinal organoids and realtime imaging analysis of microbial
+populations, Micromachines 13 (2022) 131, https://doi.org/10.3390/
+mi13010131.
+
+[29] J. Puschhof, C. Pleguezuelos-Manzano, A. Martinez-Silgado, N. Akkerman,
+
+A. Saftien, C. Boot, A. de Waal, J. Beumer, D. Dutta, I. Heo, H. Clevers, Intestinal
+organoid cocultures with microbes, Nat. Protoc. 16 (2021) 4633–4649, https://
+doi.org/10.1038/s41596-021-00589-z.
+
+[30] L.N. Chen, X.Y. Fan, Y.T. Liu, S.Q. Chen, F.Y. Xie, L. Zeng, J. Wen, J. Li, J.Y. Ma,
+X.H. Ou, S.M. Luo, L. Guo, High-survival rate after microinjection of mouse
+oocytes and early embryos with mRNA by combining a tip pipette and
+piezoelectric-assisted micromanipulator, Front. Cell Dev. Biol. 9 (2021) 1–9,
+https://doi.org/10.3389/fcell.2021.735971.
+
+[31] I.A. Williamson, J.W. Arnold, L.A. Samsa, L. Gaynor, M. DiSalvo, J.L. Cocchiaro,
+I. Carroll, M.A. Azcarate-Peril, J.F. Rawls, N.L. Allbritton, S.T. Magness, A high-
+throughput organoid microinjection platform to study gastrointestinal microbiota
+and luminal physiology, Cell. Mol. Gastroenterol. Hepatol. 6 (2018) 301–319,
+https://doi.org/10.1016/j.jcmgh.2018.05.004.
+
+[32] H.F. Farin, W.R. Karthaus, P. Kujala, M. Rakhshandehroo, G. Schwank,
+
+R.G.J. Vries, E. Kalkhoven, E.E.S. Nieuwenhuis, H. Clevers, Paneth cell extrusion
+and release of antimicrobial products is directly controlled by immune cell-
+derived IFN-γ, J. Exp. Med. 211 (2014) 1393–1405, https://doi.org/10.1084/
+jem.20130753.
+
+[33] L. Huang, Q. Hou, L. Ye, Q. Yang, Q. Yu, Crosstalk between H9N2 avian inﬂuenza
+virus and crypt-derived intestinal organoids, Vet. Res. 48 (2017) 71, https://
+doi.org/10.1186/s13567-017-0478-6.
+
+[34] E. Gabriel, A. Ramani, U. Karow, M. Gottardo, K. Natarajan, L.M. Gooi, G. Goranci-
+Buzhala, O. Krut, F. Peters, M. Nikolic, S. Kuivanen, E. Korhonen, T. Smura,
+O. Vapalahti, A. Papantonis, J. Schmidt-Chanasit, M. Riparbelli, G. Callaini,
+M. Kr€onke, O. Uterm€ohlen, J. Gopalakrishnan, Recent zika virus isolates induce
+premature differentiation of neural progenitors in human brain organoids, Cell
+Stem Cell 20 (2017) 397–406, https://doi.org/10.1016/j.stem.2016.12.005, e5.
+[35] T. Scanu, R.M. Spaapen, J.M. Bakker, C.B. Pratap, L. en Wu, I. Hoﬂand, A. Broeks,
+V.K. Shukla, M. Kumar, H. Janssen, J.Y. Song, E.A. Neefjes-Borst, H. te Riele,
+D.W. Holden, G. Nath, J. Neefjes, Salmonella manipulation of host signaling
+pathways provokes cellular transformation associated with gallbladder carcinoma,
+Cell Host Microbe 17 (2015) 763–774, https://doi.org/10.1016/
+j.chom.2015.05.002.
+
+[36] L. Helms, S. Marchiano, I.B. Stanaway, T.Y. Hsiang, B.A. Juliar, S. Saini, Y.T. Zhao,
+A. Khanna, R. Menon, F. Alakwaa, C. Mikacenic, E.D. Morrell, M.M. Wurfel,
+
+M.B. Kim et al.
+
+Materials Today Bio 16 (2022) 100345
+
+M. Kretzler, J.L. Harder, C.E. Murry, J. Himmelfarb, H. Ruohola-Baker,
+P.K. Bhatraju, M. Gale, B.S. Freedman, Cross-validation of SARS-CoV-2 responses
+in kidney organoids and clinical populations, JCI Insight 6 (2021), e154882,
+https://doi.org/10.1172/jci.insight.154882.
+
+[37] J.Y. Co, M. Margalef-Catal(cid:3)a, X. Li, A.T. Mah, C.J. Kuo, D.M. Monack, M.R. Amieva,
+Controlling epithelial polarity: a Human enteroid model for host-pathogen
+interactions, Cell Rep. 26 (2019) 2509–2520, https://doi.org/10.1016/
+j.celrep.2019.01.108, e4.
+
+[38] R. Dheer, V.B. Young, Stem-cell-derived models: tools for studying role of
+
+microbiota in intestinal homeostasis and disease, Curr. Opin. Gastroenterol. 37
+(2021) 15–22, https://doi.org/10.1097/MOG.0000000000000691.
+
+[39] J.Y. Co, M. Margalef-Catal(cid:3)a, D.M. Monack, M.R. Amieva, Controlling the polarity
+of human gastrointestinal organoids to investigate epithelial biology and
+infectious diseases, Nat. Protoc. 16 (2021) 5171–5192, https://doi.org/10.1038/
+s41596-021-00607-0.
+
+[40] J.E. Wosen, A. Ilstad-Minnihan, J.Y. Co, W. Jiang, D. Mukhopadhyay,
+
+N.Q. Fernandez-Becker, C.J. Kuo, M.R. Amieva, E.D. Mellins, Human intestinal
+enteroids model MHC-II in the gut epithelium, Front. Immunol. 10 (2019) 1–8,
+https://doi.org/10.3389/ﬁmmu.2019.01970.
+
+[56] D.R. Hill, J.R. Spence, Gastrointestinal organoids: understanding the molecular
+basis of the host–microbe interface, Cell. Mol. Gastroenterol. Hepatol. 3 (2017)
+138–149, https://doi.org/10.1016/j.jcmgh.2016.11.007.
+
+[57] J. Rubert, P.J. Schweiger, F. Mattivi, K. Tuohy, K.B. Jensen, A. Lunardi, Intestinal
+organoids: a tool for modelling diet–microbiome–host interactions, Trends
+Endocrinol. Metabol. 31 (2020) 848–858, https://doi.org/10.1016/
+j.tem.2020.02.004.
+
+[58] M. Breitbart, F. Rohwer, Here a virus, there a virus, everywhere the same virus?
+
+Trends Microbiol. 13 (2005) 278–284, https://doi.org/10.1016/
+j.tim.2005.04.003.
+
+[59] S.R. Finkbeiner, X.L. Zeng, B. Utama, R.L. Atmar, N.F. Shroyer, M.K. Estesa, Stem
+
+cell-derived human intestinal organoids as an infection model for rotaviruses,
+mBio 3 (2012), e00159-12, https://doi.org/10.1128/mBio.00159-12.
+[60] K. Saxena, S.E. Blutt, K. Ettayebi, X.-L. Zeng, J.R. Broughman, S.E. Crawford,
+
+U.C. Karandikar, N.P. Sastri, M.E. Conner, A.R. Opekun, D.Y. Graham, W. Qureshi,
+V. Sherman, J. Foulke-Abel, J. In, O. Kovbasnjuk, N.C. Zachos, M. Donowitz,
+M.K. Estes, Human intestinal enteroids: a new model to study human rotavirus
+infection, host restriction, and pathophysiology, J. Virol. 90 (2016) 43–56,
+https://doi.org/10.1128/jvi.01930-15.
+
+[41] Y. Wang, M. DiSalvo, D.B. Gunasekara, J. Dutton, A. Proctor, M.S. Lebhar,
+
+[61] P.V.A. Fine, R.H. Ree, J.X. Becerra, R.J. Burnham, N.L. Carranco, M.N. De
+
+I.A. Williamson, J. Speer, R.L. Howard, N.M. Smiddy, S.J. Bultman, C.E. Sims,
+S.T. Magness, N.L. Allbritton, Self-renewing monolayer of primary colonic or
+rectal epithelial cells, Cmgh 4 (2017) 165–182, https://doi.org/10.1016/
+j.jcmgh.2017.02.011, e7.
+
+[42] J. Zhang, V. Hernandez-Gordillo, M. Trapecar, C. Wright, M. Taketani,
+
+K. Schneider, W.L.K. Chen, E. Stas, D.T. Breault, R.L. Carrier, C.A. Voigt,
+L.G. Grifﬁth, Coculture of primary human colon monolayer with human gut
+bacteria, Nat. Protoc. 16 (2021) 3874–3900, https://doi.org/10.1038/s41596-
+021-00562-w.
+
+[43] J. In, J. Foulke-Abel, N.C. Zachos, A.M. Hansen, J.B. Kaper, H.D. Bernstein,
+
+M. Halushka, S. Blutt, M.K. Estes, M. Donowitz, O. Kovbasnjuk,
+Enterohemorrhagic Escherichia coli reduces mucus and intermicrovillar bridges in
+human stem cell-derived colonoids, Cell. Mol. Gastroenterol. Hepatol. 2 (2016)
+48–62, https://doi.org/10.1016/j.jcmgh.2015.10.001, e3.
+
+[44] J.M. van Rijn, J. Eriksson, J. Grüttner, M. Sundbom, D.-L. Webb, P.M. Hellstr€om,
+S.G. Sv€ard, M.E. Sellin, High-deﬁnition DIC imaging uncovers transient stages of
+pathogen infection cycles on the surface of human adult stem cell-derived
+intestinal epithelium, mBio 13 (2022), e0002222, https://doi.org/10.1128/
+mbio.00022-22.
+
+[45] G.G. Giobbe, F. Bonfante, B.C. Jones, O. Gagliano, C. Luni, E. Zambaiti, S. Perin,
+C. Laterza, G. Busslinger, H. Stuart, M. Pagliari, A. Bortolami, E. Mazzetto,
+A. Manfredi, C. Colantuono, L. Di Filippo, A.F. Pellegata, V. Panzarin, N. Thapar,
+V.S.W. Li, S. Eaton, D. Cacchiarelli, H. Clevers, N. Elvassore, P. De Coppi, SARS-
+CoV-2 infection and replication in human gastric organoids, Nat. Commun. 12
+(2021) 6610, https://doi.org/10.1038/s41467-021-26762-2.
+
+[46] N. Wallaschek, S. Reuter, S. Silkenat, K. Wolf, C. Niklas, €O. Kayisoglu, C. Aguilar,
+A. Wiegering, C.T. Germer, S. Kircher, A. Rosenwald, C. Shannon-Lowe,
+S. Bartfeld, Ephrin receptor A2, the epithelial receptor for Epstein-Barr virus entry,
+is not available for efﬁcient infection in human gastric organoids, PLoS Pathog. 17
+(2021), e1009210, https://doi.org/10.1371/JOURNAL.PPAT.1009210.
+[47] A. Iftekhar, H. Berger, N. Bouznad, J. Heuberger, F. Boccellato, U. Dobrindt,
+
+H. Hermeking, M. Sigal, T.F. Meyer, Genomic aberrations after short-term
+exposure to colibactin-producing E. coli transform primary colon epithelial cells,
+Nat. Commun. 12 (2021) 1003, https://doi.org/10.1038/s41467-021-21162-y.
+
+[48] N. Sasaki, K. Miyamoto, K.M. Maslowski, H. Ohno, T. Kanai, T. Sato, Development
+
+of a scalable coculture system for gut anaerobes and human colon epithelium,
+Gastroenterology 159 (2020) 388–390, https://doi.org/10.1053/
+j.gastro.2020.03.021, e5.
+
+[49] R. Kim, P.J. Attayek, Y. Wang, K.L. Furtado, R. Tamayo, C.E. Sims, N.L. Allbritton,
+An in vitro intestinal platform with a self-sustaining oxygen gradient to study the
+human gut/microbiome interface, Biofabrication 12 (2020), 015006, https://
+doi.org/10.1088/1758-5090/ab446e.
+
+[50] H.J. Kim, H. Li, J.J. Collins, D.E. Ingber, Contributions of microbiome and
+
+mechanical deformation to intestinal bacterial overgrowth and inﬂammation in a
+human gut-on-a-chip, Proc. Natl. Acad. Sci. U.S.A. 113 (2016), https://doi.org/
+10.1073/pnas.1522193112. E7–E15.
+
+[51] H.J. Kim, D. Huh, G. Hamilton, D.E. Ingber, Human gut-on-a-chip inhabited by
+microbial ﬂora that experiences intestinal peristalsis-like motions and ﬂow, Lab
+Chip 12 (2012) 2165–2174, https://doi.org/10.1039/c2lc40074j.
+
+[52] M. Kasendra, A. Tovaglieri, A. Sontheimer-Phelps, S. Jalili-Firoozinezhad, A. Bein,
+
+A. Chalkiadaki, W. Scholl, C. Zhang, H. Rickner, C.A. Richmond, H. Li,
+D.T. Breault, D.E. Ingber, Development of a primary human small Intestine-on-a-
+chip using biopsy-derived organoids, Sci. Rep. 8 (2018) 2871, https://doi.org/
+10.1038/s41598-018-21201-7.
+
+[53] J.R. Spence, C.N. Mayhew, S.A. Rankin, M.F. Kuhar, J.E. Vallance, K. Tolle,
+
+E.E. Hoskins, V.V. Kalinichenko, S.I. Wells, A.M. Zorn, N.F. Shroyer, J.M. Wells,
+Directed differentiation of human pluripotent stem cells into intestinal tissue in
+vitro, Nature 470 (2011) 105–110, https://doi.org/10.1038/nature09691.
+[54] H.C.K. Angus, A.G. Butt, M. Schultz, R.A. Kemp, Intestinal organoids as a tool for
+inﬂammatory bowel disease research, Front. Med. 6 (2020) 1–9, https://doi.org/
+10.3389/fmed.2019.00334.
+
+[55] M. Idris, M.M. Alves, R.M.W. Hofstra, M.M. Mahe, V. Melotte, Intestinal
+
+multicellular organoids to study colorectal cancer, Biochim. Biophys. Acta Rev.
+Canc (2021), 188586, https://doi.org/10.1016/j.bbcan.2021.188586, 1876.
+
+Cobertura, L.P. De Queiroz, S. Dry, R.T. Pennington, G.P. Lewis, J.A. Ratter,
+B. Raton, J. Rzedowski, G.C. De Rzedowski, R.T. Pennington, G.P. Lewis,
+J.A. Ratter, B. Raton, C.E. Hughes, R.T. Pennington, A. Antonelli, I. Trejo, R. Dirzo,
+S. Bridgewater, J.A. Ratter, J.F. Ribeiro, D.M. Neves, K.G. Dexter, R.T. Pennington,
+M.L. Bueno, L. Joppa, C. Seasonally, S. Programme, C.N. De Investigaciones,
+I. Huamantupa, C. Reynel, S. Palacios, N. Agraria, L. Molina, A. La Molina,
+B. Horizonte, M. Gerais, S. Isidro, S. National, W.L. Dock, C. Avenue, L. Hechicera,
+Replication of human noroviruses in stem cell–derived human enteroids, Science
+353 (2016) 1387–1394, https://doi.org/10.1126/science.aaf5211.
+
+[62] K. Pervolaraki, M.L. Stanifer, S. Münchau, L.A. Renn, D. Albrecht, S. Kurzhals,
+
+E. Senís, D. Grimm, J. Schr€oder-Braunstein, R.L. Rabin, S. Boulant, Type I and type
+III interferons display different dependency on mitogen-activated protein kinases
+to mount an antiviral state in the human gut, Front. Immunol. 8 (2017) 459,
+https://doi.org/10.3389/ﬁmmu.2017.00459.
+
+[63] M.E. Ohl, S.I. Miller, Salmonella: a model for bacterial pathogenesis, Annu. Rev.
+Med. 52 (2001) 259–274, https://doi.org/10.1146/annurev.med.52.1.259.
+
+[64] S.S. Wilson, A. Tocchi, M.K. Holly, W.C. Parks, J.G. Smith, A small intestinal
+organoid model of non-invasive enteric pathogen–epithelial cell interactions,
+Mucosal Immunol. 8 (2015) 352–361, https://doi.org/10.1038/mi.2014.72.
+
+[65] J.L. Forbester, E.A. Lees, D. Goulding, S. Forrest, A. Yeung, A. Speak, S. Clare,
+E.L. Coomber, S. Mukhopadhyay, J. Kraiczy, F. Schreiber, T.D. Lawley,
+R.E.W. Hancock, H.H. Uhlig, M. Zilbauer, F. Powrie, G. Dougan, Interleukin-22
+promotes phagolysosomal fusion to induce protection against Salmonella enterica
+Typhimurium in human epithelial cells, Proc. Natl. Acad. Sci. U.S.A. 115 (2018)
+10118–10123, https://doi.org/10.1073/pnas.1811866115.
+
+[66] E.A. Lees, J.L. Forbester, S. Forrest, L. Kane, D. Goulding, G. Dougan, Using human
+
+induced pluripotent stem cell-derived intestinal organoids to study and modify
+epithelial cell protection against Salmonella and other pathogens, JoVE 2019
+(2019), https://doi.org/10.3791/59478.
+
+[67] Y.G. Zhang, S. Wu, Y. Xia, J. Sun, Salmonella-infected crypt-derived intestinal
+organoid culture system for host–bacterial interactions, Phys. Rep. 2 (2014),
+e12147, https://doi.org/10.14814/phy2.12147.
+
+[68] M.A. Engevik, M.B. Yacyshyn, K.A. Engevik, J. Wang, B. Darien, D.J. Hassett,
+
+B.R. Yacyshyn, R.T. Worrell, Human Clostridium difﬁcile infection: altered mucus
+production and composition, Am. J. Physiol. Gastrointest. Liver Physiol. 308
+(2014) G510–G524, https://doi.org/10.1152/ajpgi.00091.2014.
+
+[69] E. Chaves-Olarte, M. Weidmann, C. Von Eichel-Streiber, M. Thelestam, Toxins A
+and B from Clostridium difﬁcile differ with respect to enzymatic potencies, cellular
+substrate speciﬁcities, and surface binding to cultured cells, J. Clin. Invest. 100
+(1997) 1734–1741, https://doi.org/10.1172/JCI119698.
+
+[70] M. Riegler, R. Sedivy, C. Pothoulakis, G. Hamilton, J. Zacherl, G. Bischof,
+
+E. Cosentini, W. Feil, R. Schiessel, J.T. LaMont, E. Wenzl, Clostridium difﬁcile toxin
+B is more potent than toxin A in damaging human colonic epithelium in vitro,
+J. Clin. Invest. 95 (1995) 2004–2011, https://doi.org/10.1172/JCI117885.
+[71] R.N. Pruitt, N.M. Chumbler, S.A. Rutherford, M.A. Farrow, D.B. Friedman,
+B. Spiller, D.B. Lacy, Structural determinants of Clostridium difﬁcile toxin a
+glucosyltransferase activity, J. Biol. Chem. 287 (2012) 8013–8020, https://
+doi.org/10.1074/jbc.M111.298414.
+
+[72] Y.S. Son, S.J. Ki, R. Thanavel, J.J. Kim, M.O. Lee, J. Kim, C.R. Jung, T.S. Han,
+
+H.S. Cho, C.M. Ryu, S.H. Kim, D.S. Park, M.Y. Son, Maturation of human intestinal
+organoids in vitro facilitates colonization by commensal lactobacilli by reinforcing
+the mucus layer, Faseb. J. 34 (2020) 9899–9910, https://doi.org/10.1096/
+fj.202000063R.
+
+[73] Q. Hou, L. Ye, H. Liu, L. Huang, Q. Yang, J. Turner, Q. Yu, Lactobacillus accelerates
+ISCs regeneration to protect the integrity of intestinal mucosa through activation
+of STAT3 signaling pathway induced by LPLs secretion of IL-22, Cell Death Differ.
+25 (2018) 1657–1670, https://doi.org/10.1038/s41418-018-0070-2.
+
+[74] D.R. Hill, S. Huang, M.S. Nagy, V.K. Yadagiri, C. Fields, D. Mukherjee, B. Bons,
+
+P.H. Dedhia, A.M. Chin, Y.H. Tsai, S. Thodla, T.M. Schmidt, S. Walk, V.B. Young,
+J.R. Spence, Bacterial colonization stimulates a complex physiological response in
+the immature human intestinal epithelium, Elife 6 (2017), e29132, https://
+doi.org/10.7554/eLife.29132.
+
+[75] S.A. Shafﬁey, H. Jia, T. Keane, C. Costello, D. Wasserman, M. Quidgley, J. Dziki,
+S. Badylak, C.P. Sodhi, J.C. March, D.J. Hackam, Intestinal stem cell growth and
+differentiation on a tubular scaffold with evaluation in small and large animals,
+Regen. Med. 11 (2016) 45–61, https://doi.org/10.2217/rme.15.70.
+
+14
+
+M.B. Kim et al.
+
+Materials Today Bio 16 (2022) 100345
+
+[76] X. Lu, S. Xie, L. Ye, L. Zhu, Q. Yu, Lactobacillus protects against
+
+[93] M.F. Yuen, D.S. Chen, G.M. Dusheiko, H.L.A. Janssen, D.T.Y. Lau, S.A. Locarnini,
+
+S. Typhimurium–Induced intestinal inﬂammation by determining the fate of
+epithelial proliferation and differentiation, Mol. Nutr. Food Res. 64 (2020),
+e1900655, https://doi.org/10.1002/mnfr.201900655.
+
+[77] H. Wu, S. Xie, J. Miao, Y. Li, Z. Wang, M. Wang, Q. Yu, Lactobacillus reuteri
+maintains intestinal epithelial regeneration and repairs damaged intestinal
+mucosa, Gut Microb. 11 (2020) 997–1014, https://doi.org/10.1080/
+19490976.2020.1734423.
+
+[78] S. Pradhan, A.A. Weiss, Probiotic properties of Escherichia coli nissle in human
+
+intestinal organoids, mBio 11 (2020), e01470-20, https://doi.org/10.1128/
+mBio.01470-20.
+
+[79] K.L. VanDussen, J.M. Marinshaw, N. Shaikh, H. Miyoshi, C. Moon, P.I. Tarr,
+M.A. Ciorba, T.S. Stappenbeck, Development of an enhanced human
+gastrointestinal epithelial culture system to facilitate patient-based assays, Gut 64
+(2015) 911–920, https://doi.org/10.1136/gutjnl-2013-306651.
+
+[80] C. Klotz, T. Aebischer, F. Seeber, Stem cell-derived cell cultures and organoids for
+protozoan parasite propagation and studying host-parasite interaction, Int. J. Med.
+Microbiol. 302 (2012) 203–209, https://doi.org/10.1016/j.ijmm.2012.07.010.
+
+[81] J. Flegr, Inﬂuence of latent Toxoplasma infection on human personality,
+
+physiology and morphology: pros and cons of the Toxoplasma-human model in
+studying the manipulation hypothesis, J. Exp. Biol. 216 (2013) 127–133, https://
+doi.org/10.1242/jeb.073635.
+
+[82] S.K. Matta, N. Rinkenberger, I.R. Dunay, L.D. Sibley, Toxoplasma gondii infection
+
+and its implications within the central nervous system, Nat. Rev. Microbiol. 19
+(2021) 467–480, https://doi.org/10.1038/s41579-021-00518-7.
+
+[83] J. Kunstler, Giardia lamblia: review of current diagnostic strategies, Population
+
+(Paris) 12 (2019), https://doi.org/10.22037/ghfbb.0i0.1414, 3–12.
+
+[84] D. Holthaus, E. Delgado-Betancourt, T. Aebischer, F. Seeber, C. Klotz,
+
+Harmonization of protocols for multi-species organoid platforms to study the
+intestinal biology of Toxoplasma gondii and other Protozoan infections, Front. Cell.
+Infect. Microbiol. 10 (2021), 610368, https://doi.org/10.3389/
+fcimb.2020.610368.
+
+[85] C. Pleguezuelos-Manzano, J. Puschhof, A. Rosendahl Huber, A. van Hoeck,
+
+H.M. Wood, J. Nomburg, C. Gurjao, F. Manders, G. Dalmasso, P.B. Stege,
+F.L. Paganelli, M.H. Geurts, J. Beumer, T. Mizutani, Y. Miao, R. van der Linden,
+S. van der Elst, J.C. Ambrose, P. Arumugam, E.L. Baple, M. Bleda, F. Boardman-
+Pretty, J.M. Boissiere, C.R. Boustred, H. Brittain, M.J. Caulﬁeld, G.C. Chan,
+C.E.H. Craig, L.C. Daugherty, A. de Burca, A. Devereau, G. Elgar, R.E. Foulger,
+T. Fowler, P. Furi(cid:1)o-Tarí, J.M. Hackett, D. Halai, A. Hamblin, S. Henderson,
+J.E. Holman, T.J.P. Hubbard, K. Ib(cid:1)a~nez, R. Jackson, L.J. Jones, D. Kasperaviciute,
+M. Kayikci, L. Lahnstein, L. Lawson, S.E.A. Leigh, I.U.S. Leong, F.J. Lopez,
+F. Maleady-Crowe, J. Mason, E.M. McDonagh, L. Moutsianas, M. Mueller,
+N. Murugaesu, A.C. Need, C.A. Odhams, C. Patch, D. Perez-Gil,
+D. Polychronopoulos, J. Pullinger, T. Rahim, A. Rendon, P. Riesgo-Ferreiro,
+T. Rogers, M. Ryten, K. Savage, K. Sawant, R.H. Scott, A. Siddiq, A. Sieghart,
+D. Smedley, K.R. Smith, A. Sosinsky, W. Spooner, H.E. Stevens, A. Stuckey,
+R. Sultana, E.R.A. Thomas, S.R. Thompson, C. Tregidgo, A. Tucci, E. Walsh,
+S.A. Watters, M.J. Welland, E. Williams, K. Witkowska, S.M. Wood, M. Zarowiecki,
+K.C. Garcia, J. Top, R.J.L. Willems, M. Giannakis, R. Bonnet, P. Quirke,
+M. Meyerson, E. Cuppen, R. van Boxtel, H. Clevers, Mutational signature in
+colorectal cancer caused by genotoxic pks þ E. coli, Nature 580 (2020) 269–273,
+https://doi.org/10.1038/s41586-020-2080-8.
+
+[86] A. Klijn, A. Mercenier, F. Arigoni, Lessons from the genomes of biﬁdobacteria,
+
+FEMS Microbiol. Rev. 29 (2005) 491–509, https://doi.org/10.1016/
+j.femsre.2005.04.010.
+
+[87] L.B. Eltayeb, D. Shams, N. Babikr, M. Madani, S. Abdelghani, H.A. Waggiallah,
+
+Serum levels of interferon gamma INF-γ and interleukin 10 il-10: an
+immunological aspect among irritable bowel syndrome patients, Pakistan J. Biol.
+Sci. 23 (2020) 898–903, https://doi.org/10.3923/pjbs.2020.898.903.
+[88] V. Langer, E. Vivi, D. Regensburger, T.H. Winkler, M.J. Waldner, T. Rath,
+
+B. Schmid, L. Skottke, S. Lee, N.L. Jeon, T. Wohlfahrt, V. Kramer, P. Tripal,
+M. Schumann, S. Kersting, C. Handtrack, C.I. Geppert, K. Suchowski, R.H. Adams,
+C. Becker, A. Ramming, E. Naschberger, N. Britzen-Laurent, M. Stürzl, IFN-γ drives
+inﬂammatory bowel disease pathogenesis through VE-cadherin–directed vascular
+barrier disruption, J. Clin. Invest. 129 (2019) 4691–4707, https://doi.org/
+10.1172/JCI124884.
+
+[89] X. Han, A. Lee, S. Huang, J. Gao, J.R. Spence, C. Owyang, Lactobacillus rhamnosus
+GG prevents epithelial barrier dysfunction induced by interferon-gamma and fecal
+supernatants from irritable bowel syndrome patients in human intestinal enteroids
+and colonoids, Gut Microb. 10 (2019) 59–76, https://doi.org/10.1080/
+19490976.2018.1479625.
+
+[90] K.A.A. Caetano, F.P.R. Bergamaschi, M.A.S. Carneiro, R.S. Pinheiro, L.A. Araújo,
+M.A. Matos, P.M.R.S. Carvalho, M.M. De Souza, M.A.D. De Matos, N.H.A. Del-Rios,
+R.M.B. Martins, A.R.C. Motta-Castro, C.C. Soares, R.L. Cook, S.A. Teles,
+Hepatotropic viruses (hepatitis A, B, C, D and E) in a rural Brazilian population:
+prevalence, genotypes, risk factors and vaccination, Trans. R. Soc. Trop. Med. Hyg.
+114 (2020) 91–98, https://doi.org/10.1093/trstmh/trz080.
+
+[91] P. Kar, R. Karna, A review of the diagnosis and management of hepatitis E, Curr.
+Treat. Options Infect. Dis. 12 (2020) 310–320, https://doi.org/10.1007/s40506-
+020-00235-4, 10.1007/s40506-020-00235-4.
+
+[92] P. Li, Y. Li, Y. Wang, J. Liu, M. Lavrijsen, Y. Li, R. Zhang, M.M.A. Verstegen,
+
+Y. Wang, T.C. Li, Z. Ma, D.E. Kainov, M.J. Bruno, R.A. de Man, L.J.W. van der
+Laan, M.P. Peppelenbosch, Q. Pan, Recapitulating hepatitis E virus-host
+interactions and facilitating antiviral drug discovery in human liver-derived
+organoids, Sci. Adv. 8 (2022), eabj5308, https://doi.org/10.1126/sciadv.abj5908.
+
+M.G. Peters, C.L. Lai, Hepatitis B virus infection, Nat. Rev. Dis. Prim. 4 (2018),
+18036, https://doi.org/10.1038/nrdp.2018.35.
+
+[94] Y.Z. Nie, Y.W. Zheng, K. Miyakawa, S. Murata, R.R. Zhang, K. Sekine, Y. Ueno,
+T. Takebe, T. Wakita, A. Ryo, H. Taniguchi, Recapitulation of hepatitis B
+virus–host interactions in liver organoids from human induced pluripotent stem
+cells, EBioMedicine 35 (2018) 114–123, https://doi.org/10.1016/
+j.ebiom.2018.08.014.
+
+[95] E. De Crignis, F. Caroﬁglio, P. Moulos, M.M.A. Verstegen, S. Romal, M.M. Khalid,
+F. Pourfarzad, C. Koutsothanassis, H. Gehart, T.W. Kan, R.J. Palstra, C. Boucher,
+J.M.N. Ijzermans, M. Huch, S.F. Boj, R. Vries, H. Clevers, L. van der Laan,
+P. Hatzis, T. Mahmoudi, Application of human liver organoids as a patient-derived
+primary model for HBV infection and related hepatocellular carcinoma, bioRxiv
+10 (2019), e60747, https://doi.org/10.7554/eLife.60747.
+
+[96] S. Wen, S.F. Moss, Helicobacter pylori virulence factors in gastric carcinogenesis,
+Cancer Lett. 282 (2009) 1–8, https://doi.org/10.1016/j.canlet.2008.11.016.
+
+[97] R.M. Peek, M.J. Blaser, Pathophysiology of Helicobacter pylori-induced gastritis
+
+and peptic ulcer disease, Am. J. Med. 102 (1997) 200–207, https://doi.org/
+10.1016/S0002-9343(96)00273-2.
+
+[98] S. Bartfeld, T. Bayram, M. Van De Wetering, M. Huch, H. Begthel, P. Kujala,
+
+R. Vries, P.J. Peters, H. Clevers, In vitro expansion of human gastric epithelial stem
+cells and their responses to bacterial infection, Gastroenterology 148 (2015)
+126–136, https://doi.org/10.1053/j.gastro.2014.09.042, e6.
+
+[99] K.W. McCracken, E.M. Cat(cid:1)a, C.M. Crawford, K.L. Sinagoga, M. Schumacher,
+
+B.E. Rockich, Y.H. Tsai, C.N. Mayhew, J.R. Spence, Y. Zavros, J.M. Wells,
+Modelling human development and disease in pluripotent stem-cell-derived
+gastric organoids, Nature 516 (2014) 400–404, https://doi.org/10.1038/
+nature13863.
+
+[100] N. Bertaux-Skeirik, R. Feng, M.A. Schumacher, J. Li, M.M. Mahe, A.C. Engevik,
+
+J.E. Javier, R.M. Peek, K. Ottemann, V. Orian-Rousseau, G.P. Boivin,
+M.A. Helmrath, Y. Zavros, CD44 Plays a Functional role in Helicobacter pylori-
+induced epithelial cell proliferation, PLoS Pathog. 11 (2015) 1–24, https://
+doi.org/10.1371/journal.ppat.1004663.
+
+[101] M.A. Schumacher, R. Feng, E. Aihara, A.C. Engevik, M.H. Montrose,
+
+K.M. Ottemann, Y. Zavros, Helicobacter pylori-induced sonic hedgehog expression
+is regulated by NFjB pathway activation: the use of a novel in vitro model to study
+epithelial response to infection, Helicobacter 20 (2015) 19–28, https://doi.org/
+10.1111/hel.12152.
+
+[102] J.Y. Huang, E.G. Sweeney, M. Sigal, H.C. Zhang, S.J. Remington, M.A. Cantrell,
+
+C.J. Kuo, K. Guillemin, M.R. Amieva, Chemodetection and destruction of host urea
+allows Helicobacter pylori to locate the epithelium, Cell Host Microbe 18 (2015)
+147–156, https://doi.org/10.1016/j.chom.2015.07.002.
+
+[103] K. Hashi, C. Imai, K. Yahara, K. Tahmina, T. Hayashi, T. Azuma, T. Miyabe-
+
+Nishiwaki, H. Sato, M. Matsuoka, S. Niimi, M. Okamoto, M. Hatakeyama,
+Evaluating the origin and virulence of a Helicobacter pylori cagA-positive strain
+isolated from a non-human primate, Sci. Rep. 8 (2018), 15981, https://doi.org/
+10.1038/s41598-018-34425-4.
+
+[104] I.I. Wistuba, A.F. Gazdar, Gallbladder cancer: lessons from a rare tumour, Nat. Rev.
+
+Cancer 4 (2004) 695–706, https://doi.org/10.1038/nrc1429.
+
+[105] L.P. Sepe, K. Hartl, A. Lftekhar, H. Berger, N. Kumar, C. Goosmann, S. Chopra,
+
+S.C. Schmidt, R.K. Gurumurthy, T.F. Meyer, F. Boccellato, Genotoxic effect of
+Salmonella Paratyphi A infection on human primary gallbladder cells, mBio 11
+(2020) e01911–e01920, https://doi.org/10.1128/mBio.01911-20.
+
+[106] Q. Chai, Y. Zhang, C.H. Liu, Mycobacterium tuberculosis: an adaptable pathogen
+
+associated with multiple human diseases, Front. Cell. Infect. Microbiol. 8 (2018)
+158, https://doi.org/10.3389/fcimb.2018.00158.
+
+[107] K. To, R. Cao, A. Yegiazaryan, J. Owens, V. Venketaraman, General overview of
+Nontuberculous mycobacteria opportunistic pathogens: Mycobacterium avium and
+mycobacterium abscessus, J. Clin. Med. 9 (2020) 2541, https://doi.org/10.3390/
+jcm9082541.
+
+[108] N. Iakobachvili, S.A. Leon-Icaza, K. Knoops, N. Sachs, S. Maz(cid:3)eres, R. Simeone,
+
+A. Peixoto, C. Bernard, M. Murris-Espin, J. Mazi(cid:3)eres, K. Cam, C. Chalut, C. Guilhot,
+C. L(cid:1)opez-Iglesias, R.B.G. Ravelli, O. Neyrolles, E. Meunier, G. Lugo-Villarino,
+H. Clevers, C. Cougoule, P.J. Peters, Mycobacteria–host interactions in human
+bronchiolar airway organoids, Mol. Microbiol. 117 (2022) 682–692, https://
+doi.org/10.1111/mmi.14824.
+
+[109] L.M. Palermo, M. Uppal, L. Skrabanek, P. Zumbo, S. Germer, N.C. Toussaint,
+
+B.K. Rima, D. Huey, S. Niewiesk, M. Porotto, A. Moscona, Features of circulating
+parainﬂuenza virus required for growth in human airway, mBio 7 (2016), e00235,
+https://doi.org/10.1128/mBio.00235-16.
+
+[110] A. Lewandowska-Polak, M. Brauncajs, E. Paradowska, M. Jarzebska, M. Kurowski,
+
+S. Moskwa, Z.J. Lesnikowski, M.L. Kowalski, Human parainﬂuenza virus type 3
+(HPIV3) induces production of IFNγ and RANTES in human nasal epithelial cells
+(HNECs), J. Inﬂamm. 12 (2015) 16, https://doi.org/10.1186/s12950-015-0054-7.
+
+[111] M. Porotto, M. Ferren, Y.-W. Chen, Y. Siu, N. Makhsous, B. Rima, T. Briese,
+A.L. Greninger, H.-W. Snoeck, A. Mosconaa, Authentic modeling of human
+respiratory virus infection in human pluripotent stem cell-derived lung organoids,
+mBio 10 (2019), e00923-19, https://doi.org/10.1128/mBio.00723-19.
+[112] I.N. Mammas, S.B. Drysdale, B. Rath, M. Theodoridou, G. Papaioannou,
+
+A. Papatheodoropoulou, E. Koutsounaki, C. Koutsaftiki, E. Kozanidou,
+V. Achtsidis, P. Korovessi, G.P. Chrousos, D.A. Spandidos, Update on current views
+and advances on RSV infection (Review), Int. J. Mol. Med. 46 (2020) 509–520,
+https://doi.org/10.3892/ijmm.2020.4641.
+
+[113] T.J. Harford, F. Rezaee, B.R. Dye, J. Fan, J.R. Spence, G. Piedimonte, RSV-induced
+
+changes in a 3-dimensional organoid model of human fetal lungs, PLoS One 17
+(2022), e0265094, https://doi.org/10.1371/journal.pone.0265094.
+
+15
+
+M.B. Kim et al.
+
+Materials Today Bio 16 (2022) 100345
+
+[114] J.E. Johnson, R.A. Gonzales, S.J. Olson, P.F. Wright, B.S. Graham, The
+
+histopathology of fatal untreated human respiratory syncytial virus infection,
+Mod. Pathol. 20 (2007) 108–119, https://doi.org/10.1038/modpathol.3800725.
+
+[115] Y.W. Chen, S.X. Huang, A.L.R.T. De Carvalho, S.H. Ho, M.N. Islam, S. Volpi,
+L.D. Notarangelo, M. Ciancanelli, J.L. Casanova, J. Bhattacharya, A.F. Liang,
+L.M. Palermo, M. Porotto, A. Moscona, H.W. Snoeck, A three-dimensional model
+of human lung development and disease from pluripotent stem cells, Nat. Cell Biol.
+19 (2017) 542–549, https://doi.org/10.1038/ncb3510.
+
+[116] M. Zhang, M. Liu, S. Bai, C. Zhao, Z. Li, J. Xu, X. Zhang, Inﬂuenza A virus–host
+speciﬁcity: an ongoing cross-talk between viral and host factors, Front. Microbiol.
+12 (2021), 777885, https://doi.org/10.3389/fmicb.2021.777885.
+
+[117] J. Zhou, C. Li, N. Sachs, M.C. Chiu, B.H.Y. Wong, H. Chu, V.K.M. Poon, D. Wang,
+X. Zhao, L. Wen, W. Song, S. Yuan, K.K.Y. Wong, J.F.W. Chan, K.K.W. To, H. Chen,
+H. Clevers, K.Y. Yuen, Differentiated human airway organoids to assess infectivity
+of emerging inﬂuenza virus, Proc. Natl. Acad. Sci. U.S.A. 115 (2018) 6822–6827,
+https://doi.org/10.1073/pnas.1806308115.
+
+[118] S.K. Tiwari, S. Wang, D. Smith, A.F. Carlin, T.M. Rana, Revealing tissue-Speciﬁc
+SARS-CoV-2 infection and host responses using human stem cell-derived lung and
+cerebral organoids, Stem Cell Rep. 16 (2021) 437–445, https://doi.org/10.1016/
+j.stemcr.2021.02.005.
+
+[119] A.A. Salahudeen, S.S. Choi, A. Rustagi, J. Zhu, V. van Unen, S.M. de la O,
+
+R.A. Flynn, M. Margalef-Catal(cid:3)a, A.J.M. Santos, J. Ju, A. Batish, T. Usui,
+G.X.Y. Zheng, C.E. Edwards, L.E. Wagar, V. Luca, B. Anchang, M. Nagendran,
+K. Nguyen, D.J. Hart, J.M. Terry, P. Belgrader, S.B. Ziraldo, T.S. Mikkelsen,
+P.B. Harbury, J.S. Glenn, K.C. Garcia, M.M. Davis, R.S. Baric, C. Sabatti,
+M.R. Amieva, C.A. Blish, T.J. Desai, C.J. Kuo, Progenitor identiﬁcation and SARS-
+CoV-2 infection in human distal lung organoids, Nature 588 (2020) 670–675,
+https://doi.org/10.1038/s41586-020-3014-1.
+
+[120] A.Z. Mykytyn, T.I. Breugem, S. Riesebosch, D. Schipper, P.B. van den Doel,
+
+R.J. Rottier, M.M. Lamers, B.L. Haagmans, SARS-CoV-2 entry into human airway
+organoids is serine protease-mediated and facilitated by the multibasic cleavage
+site, Elife 10 (2021), e64508, https://doi.org/10.7554/ELIFE.64508.
+[121] M.M. Lamers, T.I. Breugem, A.Z. Mykytyn, Y. Wang, N. Groen, K. Knoops,
+
+D. Schipper, J. van der Vaart, C.D. Koopman, J. Zhang, D.C. Wu, P.B. van den Doel,
+T. Bestebroer, C.H. GeurtsvanKessel, P.J. Peters, M.J. Muraro, H. Clevers, N.C. Wu,
+B.L. Haagmans, Human organoid systems reveal in vitro correlates of ﬁtness for
+SARS-CoV-2 B.1.1.7, BioRxiv (2021), 2021.05.03.441080, https://www.biorxiv.
+org/content/10.1101/2021.05.03.441080v1%0Ahttps://www.biorxiv.org/conte
+nt/10.1101/2021.05.03.441080v1.abstract.
+
+[122] Y. Han, X. Duan, L. Yang, B.E. Nilsson-Payant, P. Wang, F. Duan, X. Tang,
+
+T.M. Yaron, T. Zhang, S. Uhl, Y. Bram, C. Richardson, J. Zhu, Z. Zhao,
+D. Redmond, S. Houghton, D.H.T. Nguyen, D. Xu, X. Wang, J. Jessurun,
+A. Borczuk, Y. Huang, J.L. Johnson, Y. Liu, J. Xiang, H. Wang, L.C. Cantley,
+B.R. tenOever, D.D. Ho, F.C. Pan, T. Evans, H.J. Chen, R.E. Schwartz, S. Chen,
+Identiﬁcation of SARS-CoV-2 inhibitors using lung and colonic organoids, Nature
+589 (2021) 270–275, https://doi.org/10.1038/s41586-020-2901-9.
+
+[123] J. Zhou, C. Li, X. Liu, M.C. Chiu, X. Zhao, D. Wang, Y. Wei, A. Lee, A.J. Zhang,
+H. Chu, J.P. Cai, C.C.Y. Yip, I.H.Y. Chan, K.K.Y. Wong, O.T.Y. Tsang, K.H. Chan,
+J.F.W. Chan, K.K.W. To, H. Chen, K.Y. Yuen, Infection of bat and human intestinal
+organoids by SARS-CoV-2, Nat. Med. 26 (2020) 1077–1083, https://doi.org/
+10.1038/s41591-020-0912-6.
+
+[124] J. Krüger, R. Groß, C. Conzelmann, J.A. Müller, L. Koepke, K.M.J. Sparrer, T. Weil,
+D. Schütz, T. Seufferlein, T.F.E. Barth, S. Stenger, S. Heller, J. Münch, A. Kleger,
+Drug inhibition of SARS-CoV-2 replication in human pluripotent stem cell–derived
+intestinal organoids, Cell. Mol. Gastroenterol. Hepatol. 11 (2021) 935–948,
+https://doi.org/10.1016/j.jcmgh.2020.11.003.
+
+[125] F. Lamoth, Aspergillus fumigatus-related species in clinical practice, Front.
+
+Microbiol. 7 (2016) 638, https://doi.org/10.3389/fmicb.2016.00683.
+[126] S.S. Jose, M. De Zuani, F. Tidu, M. Hortov(cid:1)a Kohoutkov(cid:1)a, L. Pazzagli, G. Forte,
+
+R. Spaccapelo, T. Zelante, J. Fri(cid:4)c, Comparison of two human organoid models of
+lung and intestinal inﬂammation reveals Toll-like receptor signalling activation
+and monocyte recruitment, Clin. Transl. Immunol. 9 (2020) e1131, https://
+doi.org/10.1002/cti2.1131.
+
+[127] H. Tang, C. Hammack, S.C. Ogden, Z. Wen, X. Qian, Y. Li, B. Yao, J. Shin, F. Zhang,
+E.M. Lee, K.M. Christian, R.A. Didier, P. Jin, H. Song, G.L. Ming, Zika virus infects
+human cortical neural progenitors and attenuates their growth, Cell Stem Cell 18
+(2016) 587–590, https://doi.org/10.1016/j.stem.2016.02.016.
+
+[128] F.R. Cugola, I.R. Fernandes, F.B. Russo, B.C. Freitas, J.L.M. Dias, K.P. Guimar~aes,
+
+C. Benazzato, N. Almeida, G.C. Pignatari, S. Romero, C.M. Polonio, I. Cunha,
+C.L. Freitas, W.N. Branda~o, C. Rossato, D.G. Andrade, D.D.P. Faria, A.T. Garcez,
+C.A. Buchpigel, C.T. Braconi, E. Mendes, A.A. Sall, P.M.D.A. Zanotto, J.P.S. Peron,
+A.R. Muotri, P.C.B.B. Beltrao-Braga, The Brazilian zika virus strain causes birth
+defects in experimental models, Nature 534 (2016) 267–271, https://doi.org/
+10.1038/nature18296.
+
+[129] P.P. Garcez, E.C. Loiola, R.M. Da Costa, L.M. Higa, P. Trindade, R. Delvecchio,
+
+J.M. Nascimento, R. Brindeiro, A. Tanuri, S.K. Rehen, Zika virus: zika virus impairs
+growth in human neurospheres and brain organoids, Science (80-.) 352 (2016)
+816–818, https://doi.org/10.1126/science.aaf6116.
+
+[130] T.J. Nowakowski, A.A. Pollen, E. Di Lullo, C. Sandoval-Espinosa, M. Bershteyn,
+
+A.R. Kriegstein, Expression analysis highlights AXL as a candidate zika virus entry
+receptor in neural stem cells, Cell Stem Cell 18 (2016) 591–596, https://doi.org/
+10.1016/j.stem.2016.03.012.
+
+[131] M.F. Wells, M.R. Salick, O. Wiskow, D.J. Ho, K.A. Worringer, R.J. Ihry,
+
+S. Kommineni, B. Bilican, J.R. Klim, E.J. Hill, L.T. Kane, C. Ye, A. Kaykas, K. Eggan,
+Genetic ablation of AXL does not protect human neural progenitor cells and
+
+cerebral organoids from zika virus infection, Cell Stem Cell 19 (2016) 703–708,
+https://doi.org/10.1016/j.stem.2016.11.011.
+
+[132] J. Dang, S.K. Tiwari, G. Lichinchi, Y. Qin, V.S. Patil, A.M. Eroshkin, T.M. Rana,
+
+Zika virus depletes neural progenitors in human cerebral organoids through
+activation of the innate immune receptor TLR3, Cell Stem Cell 19 (2016) 258–265,
+https://doi.org/10.1016/j.stem.2016.04.014.
+
+[133] R.A. Larocca, P. Abbink, J.P.S. Peron, P.M.D.A. Zanotto, M.J. Iampietro,
+A. Badamchi-Zadeh, M. Boyd, D. Ng’ang’a, M. Kirilova, R. Nityanandam,
+N.B. Mercado, Z. Li, E.T. Moseley, C.A. Bricault, E.N. Borducchi, P.B. Giglio,
+D. Jetton, G. Neubauer, J.P. Nkolola, L.F. Maxﬁeld, R.A. De La Barrera,
+R.G. Jarman, K.H. Eckels, N.L. Michael, S.J. Thomas, D.H. Barouch, Vaccine
+protection against Zika virus from Brazil, Nature 536 (2016) 474–478, https://
+doi.org/10.1038/nature18952.
+
+[134] P. Abbink, R.A. Larocca, R.A. De La Barrera, C.A. Bricault, E.T. Moseley, M. Boyd,
+M. Kirilova, Z. Li, D. Ng’ang’a, O. Nanayakkara, R. Nityanandam, N.B. Mercado,
+E.N. Borducchi, A. Agarwal, A.L. Brinkman, C. Cabral, A. Chandrashekar,
+P.B. Giglio, D. Jetton, J. Jimenez, B.C. Lee, S. Mojta, K. Molloy, M. Shetty,
+G.H. Neubauer, K.E. Stephenson, J.P.S. Peron, P.M.A. De Zanotto, J. Misamore,
+B. Finneyfrock, M.G. Lewis, G. Alter, K. Modjarrad, R.G. Jarman, K.H. Eckels,
+N.L. Michael, S.J. Thomas, D.H. Barouch, Protective efﬁcacy of multiple vaccine
+platforms against Zika virus challenge in rhesus monkeys, Science (80-) 353
+(2016) 1129–1132, https://doi.org/10.1126/science.aah6157.
+
+[135] X. Qian, H.N. Nguyen, M.M. Song, C. Hadiono, S.C. Ogden, C. Hammack, B. Yao,
+G.R. Hamersky, F. Jacob, C. Zhong, K.J. Yoon, W. Jeang, L. Lin, Y. Li, J. Thakor,
+D.A. Berg, C. Zhang, E. Kang, M. Chickering, D. Nauen, C.Y. Ho, Z. Wen,
+K.M. Christian, P.Y. Shi, B.J. Maher, H. Wu, P. Jin, H. Tang, H. Song, G.L. Ming,
+Brain-region-speciﬁc organoids Using mini- bioreactors for modeling ZIKV
+Exposure, Cell 165 (2016) 1238–1254, https://doi.org/10.1016/
+j.cell.2016.04.032.
+
+[136] R.S. dos Reis, S. Sant, H. Keeney, M.C.E. Wagner, V. Ayyavoo, Modeling HIV-1
+
+neuropathogenesis using three-dimensional human brain organoids (hBORGs)
+with HIV-1 infected microglia, Sci. Rep. 10 (2020), 15209, https://doi.org/
+10.1038/s41598-020-72214-0.
+
+[137] L.D. Aiuto, D.C. Bloom, J.N. Naciri, A. Smith, T.G. Edwards, L. Mcclain, J.A. Callio,
+M. Jessup, J. Wood, K. Chowdari, M. Demers, E.E. Abrahamson, M.D. Ikonomovic,
+L. Viggiano, R. De Zio, S. Watkins, P.R. Kinchington, L. Nimgaonkar, Modeling
+herpes simplex virus 1 infections in human central nervous system neuronal cells
+using two- and three- dimensional cultures derived from induced pluripotent stem
+cells, J. Virol. 93 (2019) e00111–e00119, https://doi.org/10.1128/JVI.00111-19.
+[138] J.J. Danielson, N. Perez, J.D. Romano, I. Coppens, Modelling Toxoplasma gondii
+infection in a 3D cell culture system in vitro: comparison with infection in 2D cell
+monolayers, PLoS One 13 (2018), e0208558, https://doi.org/10.1371/
+journal.pone.0208558.
+
+[139] H.H. Seo, H.W. Han, S.E. Lee, S.H. Hong, S.H. Cho, S.C. Kim, S.K. Koo, J.H. Kim,
+Modelling Toxoplasma gondii infection in human cerebral organoids, Emerg.
+Microb. Infect. 9 (2020) 1943–1954, https://doi.org/10.1080/
+22221751.2020.1812435.
+
+[140] M. Kessler, K. Hoffmann, K. Fritsche, V. Brinkmann, H.J. Mollenkopf, O. Thieck,
+A.R. Teixeira da Costa, E.I. Braicu, J. Sehouli, M. Mangler, H. Berger, T.F. Meyer,
+Chronic Chlamydia infection in human organoids increases stemness and promotes
+age-dependent CpG methylation, Nat. Commun. 10 (2019) 1194, https://doi.org/
+10.1038/s41467-019-09144-7.
+
+[141] J.L.V. Shaw, G.S. Wills, K.F. Lee, P.J. Horner, M.O. McClure, V.M. Abrahams,
+
+N. Wheelhouse, H.N. Jabbour, H.O.D. Critchley, G. Entrican, A.W. Horne,
+Chlamydia trachomatis infection increases fallopian tube PROKR2 via TLR2 and
+NFκB activation resulting in a microenvironment predisposed to ectopic
+pregnancy, Am. J. Pathol. 178 (2011) 253–260, https://doi.org/10.1016/
+j.ajpath.2010.11.019.
+
+[142] M. Sharma, T. Rudel, Apoptosis resistance in Chlamydia-infected cells: a fate worse
+than death? FEMS Immunol. Med. Microbiol. 55 (2009) 154–161, https://doi.org/
+10.1111/j.1574-695X.2008.00515.x.
+
+[143] C. Chumduri, R.K. Gurumurthy, P.K. Zadora, Y. Mi, T.F. Meyer, Chlamydia
+
+infection promotes host DNA damage and proliferation but impairs the DNA
+damage response, Cell Host Microbe 13 (2013) 746–758, https://doi.org/
+10.1016/j.chom.2013.05.010.
+
+[144] M. Hvid, A. Baczynska, B. Deleuran, J. Fedder, H.J. Knudsen, G. Christiansen,
+S. Birkelund, Interleukin-1 is the initiator of Fallopian tube destruction during
+Chlamydia trachomatis infection, Cell Microbiol. 9 (2007) 2795–2803, https://
+doi.org/10.1111/j.1462-5822.2007.00996.x.
+
+[145] K. Rajeeve, N. Vollmuth, S. Janaki-Raman, T.F. Wulff, A. Baluapuri, F.R. Dejure,
+
+C. Huber, J. Fink, M. Schmalhofer, W. Schmitz, R. Sivadasan, E. Wolf,
+W. Eisenreich, A. Schulze, J. Seibel, T. Rudel, Reprogramming of host glutamine
+metabolism during Chlamydia trachomatis infection and its key role in
+peptidoglycan synthesis, Nat. Microbiol. 5 (2020) 1390–1402, https://doi.org/
+10.1038/s41564-020-0762-5.
+
+[146] H. zur Hausen, Papillomaviruses in the causation of human cancers - a brief
+historical account, Virology 384 (2009) 260–265, https://doi.org/10.1016/
+j.virol.2008.11.046.
+
+[147] P. Koskela, T. Anttila, T. Bjørge, A. Brunsvig, J. Dillner, M. Hakama, T. Hakulinen,
+E. Jellum, M. Lehtinen, P. Lenner, T. Luostarinen, E. Pukkala, P. Saikku,
+S. Thoresen, L. Youngman, J. Paavonen, Chlamydia trachomatis infection as a risk
+factor for invasive cervical cancer, Int. J. Cancer 85 (2000) 35–39, https://
+doi.org/10.1002/(SICI)1097-0215(20000101)85:1<35::AID-IJC6>3.0.CO;2-A.
+
+[148] S. Seraceni, G. Campisciano, C. Contini, M. Comar, HPV genotypes distribution in
+
+Chlamydia trachomatis co-infection in a large cohort of women from north-east
+
+16
+
+M.B. Kim et al.
+
+Materials Today Bio 16 (2022) 100345
+
+Italy, J. Med. Microbiol. 65 (2016) 406–413, https://doi.org/10.1099/
+jmm.0.000245.
+
+[149] S. Koster, R.K. Gurumurthy, N. Kumar, P.G. Prakash, J. Dhanraj, S. Bayer,
+H. Berger, S.M. Kurian, M. Drabkina, H.J. Mollenkopf, C. Goosmann,
+V. Brinkmann, Z. Nagel, M. Mangler, T.F. Meyer, C. Chumduri, Modelling
+Chlamydia and HPV co-infection in patient-derived ectocervix organoids reveals
+distinct cellular reprogramming, Nat. Commun. 13 (2022) 1030, https://doi.org/
+10.1038/s41467-022-28569-1.
+
+[150] E. Driehuis, S. Kolders, S. Spelier, K. L~ohmussaar, S.M. Willems, L.A. Devriese,
+
+R. de Bree, E.J. de Ruiter, J. Korving, H. Begthel, J.H. van Es, V. Geurts, G.W. He,
+R.H. van Jaarsveld, R. Oka, M.J. Muraro, J. Vivi(cid:1)e, M.M.J.M. Zandvliet,
+A.P.A. Hendrickx, N. Iakobachvili, P. Sridevi, O. Kranenburg, R. van Boxtel,
+G.J.P.L. Kops, D.A. Tuveson, P.J. Peters, A. van Oudenaarden, H. Clevers, Oral
+mucosal organoids as a potential platform for personalized cancer therapy, Cancer
+Discov. 9 (2019) 852–871, https://doi.org/10.1158/2159-8290.CD-18-1522.
+
+[151] D. Sawinski, S. Goral, BK virus infection: an update on diagnosis and treatment,
+
+Nephrol. Dial. Transplant. 30 (2015) 209–217, https://doi.org/10.1093/ndt/
+gfu023.
+
+[152] F. Schutgens, M.B. Rookmaaker, T. Margaritis, A. Rios, C. Ammerlaan, J. Jansen,
+L. Gijzen, M. Vormann, A. Vonk, M. Viveen, F.Y. Yengej, S. Derakhshan, K.M. de
+Winter-de Groot, B. Artegiani, R. van Boxtel, E. Cuppen, A.P.A. Hendrickx,
+M.M. van den Heuvel-Eibrink, E. Heitzer, H. Lanz, J. Beekman, J.L. Murk,
+R. Masereeuw, F. Holstege, J. Drost, M.C. Verhaar, H. Clevers, Tubuloids derived
+from human adult kidney and urine for personalized disease modeling, Nat.
+Biotechnol. 37 (2019) 303–313, https://doi.org/10.1038/s41587-019-0048-8.
+
+[153] F. Braun, M. Lütgehetmann, S. Pfefferle, M.N. Wong, A. Carsten,
+
+M.T. Lindenmeyer, D. N€orz, F. Heinrich, K. Meißner, D. Wichmann, S. Kluge,
+O. Gross, K. Pueschel, A.S. Schr€oder, C. Edler, M. Aepfelbacher, V.G. Puelles,
+T.B. Huber, SARS-CoV-2 renal tropism associates with acute kidney injury, Lancet
+396 (2020) 597–598, https://doi.org/10.1016/S0140-6736(20)31759-1.
+
+[158] F. Gerbe, E. Sidot, D.J. Smyth, M. Ohmoto, I. Matsumoto, V. Dardalhon, P. Cesses,
+
+L. Garnier, M. Pouzolles, B. Brulin, M. Bruschi, Y. Harcus, V.S. Zimmermann,
+N. Taylor, R.M. Maizels, P. Jay, Intestinal epithelial tuft cells initiate type 2
+mucosal immunity to helminth parasites, Nature 529 (2016) 226–230, https://
+doi.org/10.1038/nature16527.
+
+[159] X.C. Luo, Z.H. Chen, J.B. Xue, D.X. Zhao, C. Lu, Y.H. Li, S.M. Li, Y.W. Du, Q. Liu,
+P. Wang, M. Liu, L. Huang, Infection by the parasitic helminth Trichinella spiralis
+activates a Tas2r-mediated signaling pathway in intestinal tuft cells, Proc. Natl.
+Acad. Sci. U.S.A. 116 (2019) 5564–5569, https://doi.org/10.1073/
+pnas.1812901116.
+
+[160] S.P. Colgan, C.T. Taylor, Hypoxia: an alarm signal during intestinal inﬂammation,
+
+Nat. Rev. Gastroenterol. Hepatol. 7 (2014) 281–287, https://doi.org/10.1038/
+nrgastro.2010.39.
+
+[161] E.S. Friedman, K. Bittinger, T.V. Esipova, L. Hou, L. Chau, J. Jiang, C. Mesaros,
+P.J. Lund, X. Liang, G.A. FitzGerald, M. Goulian, D. Lee, B.A. Garcia, I.A. Blair,
+S.A. Vinogradov, G.D. Wu, Microbes vs. chemistry in the origin of the anaerobic
+gut lumen, Proc. Natl. Acad. Sci. U.S.A. 115 (2018) 4170–4175, https://doi.org/
+10.1073/pnas.1718635115.
+
+[162] N.E. Zeitouni, S. Chotikatum, M. von K€ockritz-Blickwede, H.Y. Naim, The impact
+
+of hypoxia on intestinal epithelial cell functions: consequences for invasion by
+bacterial pathogens, Mol. Cell. Pediatr. 3 (2016) 14, https://doi.org/10.1186/
+s40348-016-0041-y.
+
+[163] D. Dutta, I. Heo, R. O’connor, Studying Cryptosporidium infection in 3D tissue-
+derived human organoid culture systems by microinjection, JoVE 2019 (2019),
+https://doi.org/10.3791/59610.
+
+[164] I. Heo, D. Dutta, D.A. Schaefer, N. Iakobachvili, B. Artegiani, N. Sachs,
+
+K.E. Boonekamp, G. Bowden, A.P.A. Hendrickx, R.J.L. Willems, P.J. Peters,
+M.W. Riggs, R. O’Connor, H. Clevers, Modelling Cryptosporidium infection in
+human small intestinal and lung organoids, Nat. Microbiol. 3 (2018) 814–823,
+https://doi.org/10.1038/s41564-018-0177-8.
+
+[154] J. Jansen, K.C. Reimer, J.S. Nagai, F.S. Varghese, G.J. Overheul, M. de Beer,
+
+[165] S. Flashner, K.S. Yan, H. Nakagawa, 3D organoids: an untapped platform for
+
+R. Roverts, D. Daviran, L.A.S. Fermin, B. Willemsen, M. Beukenboom, S. Djudjaj,
+S. von Stillfried, L.E. van Eijk, M. Mastik, M. Bulthuis, W. den Dunnen, H. van
+Goor, J.L. Hillebrands, S.H. Triana, T. Alexandrov, M.C. Timm, B.T. van den Berge,
+M. van den Broek, Q. Nlandu, J. Heijnert, E.M.J. Bindels, R.M. Hoogenboezem,
+F. Mooren, C. Kuppe, P. Miesen, K. Grünberg, T. Ijzermans, E.J. Steenbergen,
+J. Czogalla, M.F. Schreuder, N. Sommerdijk, A. Akiva, P. Boor, V.G. Puelles,
+J. Floege, T.B. Huber, H. Achdout, A. Aimon, E. Bar-David, H. Barr, A. Ben-Shmuel,
+J. Bennett, M.L. Boby, B. Borden, G.R. Bowman, J. Brun, S. BVNBS, M. Calmiano,
+A. Carbery, E. Cattermole, E. Chernychenko, J.D. Choder, A. Clyde, J.E. Cofﬂand,
+G. Cohen, J. Cole, A. Contini, L. Cox, M. Cvitkovic, A. Dias, K. Donckers,
+D.L. Dotson, A. Douangamath, S. Duberstein, T. Dudgeon, L. Dunnett,
+P.K. Eastman, N. Erez, C.J. Eyermann, M. Fairhead, G. Fate, D. Fearon, O. Federov,
+M. Ferla, R.S. Fernandes, L. Ferrins, R. Foster, H. Foster, R. Gabizon, A. Garcia-
+Sastre, V.O. Gawriljuk, P. Gehrtz, C. Gileadi, C. Giroud, W.G. Glass, R. Glen,
+Itai glinert, A.S. Godoy, M. Gorichko, T. Gorrie-Stone, E.J. Griffen, S.H. Hart,
+J. Heer, M. Henry, M. Hill, S. Horrell, M.F.D. Hurley, T. Israely, A. Jajack, E. Jnoff,
+D. Jochmans, T. John, S. De Jonghe, A.L. Kantsadi, P.W. Kenny, J.L. Kiappes,
+L. Koekemoer, B. Kovar, T. Krojer, A.A. Lee, B.A. Lefker, H. Levy, N. London,
+P. Lukacik, H.B. Macdonald, B. Maclean, T.R. Malla, T. Matviiuk,
+W. McCorkindale, B.L. McGovern, S. Melamed, O. Michurin, H. Mikolajek,
+B.F. Milne, A. Morris, G.M. Morris, M.J. Morwitzer, D. Moustakas, A.M. Nakamura,
+J.B. Neto, J. Neyts, L. Nguyen, G.D. Noske, V. Oleinikovas, G. Oliva, D. Owen,
+V. Psenak, R. Pai, J. Pan, N. Paran, B. Perry, M. Pingle, J. Pinjari, B. Politi,
+A. Powell, R. Puni, V.L. Rangel, R.N. Reddi, S.P. Reid, E. Resnick, E.G. Ripka,
+M.C. Robinson, R.P. Robinson, J. Rodriguez-Guerra, R. Rosales, D. Rufa,
+C. Schoﬁeld, M. Shafeev, A. Shaikh, J. Shi, K. Shurrush, S. Sing, A. Sittner,
+R. Skyner, A. Smalley, M.D. Smilova, L.J. Solmesky, J. Spencer, C. Strain-Damarell,
+V. Swamy, H. Tamir, R. Tennant, W. Thompson, A. Thompson, S. Tomasia,
+A. Tumber, I. Vakonakis, R.P. van Rij, L. van Geel, M. Vaschetto, E.B. Vitner,
+V. Voelz, A. Volkamer, F. von Delft, A. von Delft, M. Walsh, W. Ward,
+C. Weatherall, S. Weiss, K.M. White, C.F. Wild, M. Wittmann, N. Wright,
+Y. Yahalom-Ronen, D. Zaidmann, H. Zidane, N. Zitzmann, I.G. Costa,
+R.K. Schneider, B. Smeets, R. Kramann, SARS-CoV-2 infects the human kidney and
+drives ﬁbrosis in kidney organoids, Cell Stem Cell 29 (2022) 217–231, https://
+doi.org/10.1016/j.stem.2021.12.010, e8.
+
+[155] V. Monteil, H. Kwon, P. Prado, A. Hagelkrüys, R.A. Wimmer, M. Stahl, A. Leopoldi,
+E. Garreta, C. Hurtado del Pozo, F. Prosper, J.P. Romero, G. Wirnsberger,
+H. Zhang, A.S. Slutsky, R. Conder, N. Montserrat, A. Mirazimi, J.M. Penninger,
+Inhibition of SARS-CoV-2 infections in engineered human tissues using clinical-
+grade soluble human ACE2, Cell 181 (2020) 905–913, https://doi.org/10.1016/
+j.cell.2020.04.004, e7.
+
+[156] D. Dutta, H. Clevers, Organoid culture systems to study host–pathogen
+
+interactions, Curr. Opin. Immunol. 48 (2017) 15–22, https://doi.org/10.1016/
+j.coi.2017.07.012.
+
+[157] C. Aguilar, M. Alves da Silva, M. Saraiva, M. Neyazi, I.A.S. Olsson, S. Bartfeld,
+
+Organoids as host models for infection biology – a review of methods, Exp. Mol.
+Med. 53 (2021) 1471–1482, https://doi.org/10.1038/s12276-021-00629-4.
+
+studying host–microbiome interactions in esophageal cancers, Microorganisms 9
+(2021) 2182, https://doi.org/10.3390/microorganisms9112182.
+
+[166] H.K. Kim, H. Kim, M.K. Lee, W.H. Choi, Y. Jang, J.S. Shin, J.Y. Park, D.H. Bae,
+S.I. Hyun, K.H. Kim, H.W. Han, B. Lim, G. Choi, M. Kim, Y. Chang Lim, J. Yoo,
+Generation of human tonsil epithelial organoids as an ex vivo model for SARS-CoV-
+2 infection, Biomaterials 283 (2022), 121460, https://doi.org/10.1016/
+j.biomaterials.2022.121460.
+
+[167] B. Makovoz, R. Moeller, A. Zebitz Eriksen, B.R. TenOever, T.A. Blenkinsop, SARS-
+CoV-2 infection of ocular cells from human adult donor eyes and hESC-derived eye
+organoids, SSRN Electron. J. (2020), 3650574, https://doi.org/10.2139/
+ssrn.3650574.
+
+[168] M. Hofer, M.P. Lutolf, Engineering organoids, Nat. Rev. Mater. 6 (2021) 402–420,
+
+https://doi.org/10.1038/s41578-021-00279-y.
+
+[169] B.R. Dye, D.R. Hill, M.A. Ferguson, Y.H. Tsai, M.S. Nagy, R. Dyal, J.M. Wells,
+
+C.N. Mayhew, R. Nattiv, O.D. Klein, E.S. White, G.H. Deutsch, J.R. Spence, In vitro
+generation of human pluripotent stem cell derived lung organoids, Elife 2015
+(2015) 1–25, https://doi.org/10.7554/eLife.05098.
+
+[170] J. Kim, B.K. Koo, J.A. Knoblich, Human organoids: model systems for human
+biology and medicine, Nat. Rev. Mol. Cell Biol. 21 (2020) 571–584, https://
+doi.org/10.1038/s41580-020-0259-3.
+
+[171] E.A. Aisenbrey, W.L. Murphy, Synthetic alternatives to Matrigel, Nat. Rev. Mater.
+
+5 (2020) 539–551, https://doi.org/10.1038/s41578-020-0199-8.
+
+[172] R. Cruz-Acu~na, M. Quir(cid:1)os, A.E. Farkas, P.H. Dedhia, S. Huang, D. Siuda, V. García-
+Hern(cid:1)andez, A.J. Miller, J.R. Spence, A. Nusrat, A.J. García, Synthetic hydrogels for
+human intestinal organoid generation and colonic wound repair, Nat. Cell Biol. 19
+(2017) 1326–1335, https://doi.org/10.1038/ncb3632.
+
+[173] A.E.G. Baker, L.C. Bahlmann, C. Xue, Y.H. Lu (John), A.A. Chin, J. Cruickshank,
+
+D.W. Cescon, M.S. Shoichet, Chemically and mechanically deﬁned hyaluronan
+hydrogels emulate the extracellular matrix for unbiased in vivo and in vitro
+organoid formation and drug testing in cancer, Mater, Today Off. 56 (2022)
+96–113, https://doi.org/10.1016/j.mattod.2022.01.023.
+
+[174] R. Curvello, D. Alves, H.E. Abud, G. Garnier, A thermo-responsive collagen-
+
+nanocellulose hydrogel for the growth of intestinal organoids, Mater. Sci. Eng. C
+124 (2021), 112051, https://doi.org/10.1016/j.msec.2021.112051.
+
+[175] L. Shariati, Y. Esmaeili, S. Haghjooy Javanmard, E. Bidram, A. Amini, Organoid
+technology: current standing and future perspectives, Stem Cell. 39 (2021)
+1625–1649, https://doi.org/10.1002/stem.3379.
+
+[176] S.E. Park, A. Georgescu, D. Huh, Organoids-on-a-chip, Science 965 (2019)
+
+960–965, https://doi.org/10.1126/science.aaw7894.
+
+[177] E. Kim, S. Choi, B. Kang, J.H. Kong, Y. Kim, W.H. Yoon, H.R. Lee, S.E. Kim,
+
+H.M. Kim, H.S. Lee, C. Yang, Y.J. Lee, M. Kang, T.Y. Roh, S. Jung, S. Kim, J.H. Ku,
+K. Shin, Creation of bladder assembloids mimicking tissue regeneration and
+cancer, Nature 588 (2020) 664–669, https://doi.org/10.1038/s41586-020-3034-
+x.
+
+17
+
+

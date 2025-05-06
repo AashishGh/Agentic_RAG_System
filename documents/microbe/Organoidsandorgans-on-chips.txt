@@ -1,0 +1,1983 @@
+ll
+
+Review
+Organoids and organs-on-chips: Insights
+into human gut-microbe interactions
+
+Jens Puschhof,1,2,4 Cayetano Pleguezuelos-Manzano,1,2,4 and Hans Clevers1,2,3,*
+1Hubrecht Institute, Royal Netherlands Academy of Arts and Sciences (KNAW) and UMC Utrecht, 3584 CT Utrecht, the Netherlands
+2Oncode Institute, Hubrecht Institute, 3584 CT Utrecht, the Netherlands
+3The Princess Ma´ xima Center for Pediatric Oncology, Utrecht, The Netherlands
+4These authors contributed equally
+*Correspondence: h.clevers@hubrecht.eu
+https://doi.org/10.1016/j.chom.2021.04.002
+
+SUMMARY
+
+The important and diverse roles of the gut microbiota in human health and disease are increasingly recognized.
+The difﬁculty of inferring causation from metagenomic microbiome sequencing studies and from mouse-hu-
+man interspecies differences has prompted the development of sophisticated in vitro models of human gut-
+microbe interactions. Here, we review recent advances in the co-culture of microbes with intestinal and colonic
+epithelia, comparing the rapidly developing ﬁelds of organoids and organs-on-chips with other standard
+models. We describe how speciﬁc individual processes by which microbes and epithelia interact can be reca-
+pitulated in vitro. Using examples of bacterial, viral, and parasitic infections, we highlight the advantages of
+each culture model and discuss current trends and future possibilities to build more complex co-cultures.
+
+INTRODUCTION
+
+The human intestinal tract is inhabited by a multitude of microor-
+ganisms, collectively referred to as the gut microbiota. This
+diverse community of bacteria, fungi, protozoans, viruses, and
+bacteriophages is essential to maintaining healthy gut physi-
+ology. Infection with pathogenic species like Clostridium difﬁcile
+or norovirus, as well as gut microbiota disbalances have been
+linked to a variety of disease conditions, ranging from infectious
+diseases to complex chronic diseases like inﬂammatory bowel
+disease, metabolic syndrome, and colorectal cancer.
+
+The advent of sophisticated sequencing technologies has
+enabled detailed metagenomic studies on the gut microbiome
+(referring to the genetic information of the gut microbiota) in
+health and disease. The resulting datasets reveal numerous as-
+sociations between individual microbial species or communities
+and speciﬁc diseases. However, moving from association to
+causation through mechanistic insights represents a major chal-
+lenge due to the complexity of these relationships and the limita-
+tions of ‘‘holistic’’ model systems for human gut-microbe inter-
+actions. Mouse models remain the gold standard for modeling
+and studying mammalian host-microbe interactions at high
+complexity. Nevertheless, these models have substantial draw-
+backs with regard to experimental control, scalability, and reca-
+pitulation of human intestinal interactions with its host-speciﬁc
+commensals and pathogens (Ettayebi et al., 2016; Lamers
+et al., 2020; Walter et al., 2020). These factors have called into
+question how human-microbe interactions can be transferred
+to mouse models (Walter et al., 2020). In recent years, a number
+of more reductionist in vitro approaches have been developed
+that represent an opportunity for closing the gap between micro-
+bial association with disease and mechanistic insight. Human
+tissue-derived organoids (Kim et al., 2020) and organs-on-chips
+
+(Bein et al., 2018) allow clonal expansion (Blokzijl et al., 2016),
+genetic engineering (Fujii et al., 2015), and modeling of human-
+speciﬁc processes (Yin et al., 2015).
+
+In this review, we introduce intestinal organoids and organ-on-
+a-chip platforms and describe how they have been used in the
+study of host-microbiota interactions (Figure 1). We systemati-
+cally discuss which aspects of the microbiota and the human in-
+testinal epithelium can be modeled using these new platforms.
+We compare the two approaches with each other and to related
+models such as colorectal cancer cell
+lines and organotypic
+explant cultures, for which we only discuss individual studies
+to showcase key differences. An evaluation of each model’s suit-
+ability for recapitulating the individual interaction processes is
+provided in Table 1. In the ﬁnal section, we highlight which fea-
+tures of this complex interplay remain difﬁcult to assess in vitro
+and how future developments may yield more sophisticated
+co-culture systems.
+
+THE MODEL SYSTEMS
+
+research. Their
+
+Cancer cell lines
+Since their advent in the 1950s, cell lines derived from tumors
+and grown as monolayers have become a central workhorse of
+biomedical
+robust growth, often indeﬁnite
+expansion capacity, ease of use, and favorable cost proﬁle
+have facilitated their wide use to this day. A panoply of colo-
+rectal-cancer-derived cell
+lines allow the recapitulation of
+diverse features of this disease (Wilding and Bodmer, 2014).
+Caco-2 is the most frequently used cell line for modeling healthy
+intestinal interactions, as it shares some features with small in-
+testinal enterocytes despite being derived from a colon carci-
+noma (Sambuy et al., 2005).
+
+Cell Host & Microbe 29, June 9, 2021 ª 2021 Elsevier Inc. 867
+
+ll
+
+Review
+
+Co-culture
+duration
+
+s
+e
+r
+u
+t
+a
+e
+F
+
+ASC intestinal
+organoids
+
+iPSC intestinal
+orgnaoids
+
+Intestinal cell
+lines
+
+Explants
+
+Cell representation
+
+3D
+Microinjection
+
+ Organoid shearing
+
+2D co-culture
+
+Organ-on-a-chip co-culture
+
+Explant co-culture
+
+e
+c
+r
+u
+o
+s
+
+l
+
+a
+
+i
+l
+
+e
+h
+t
+i
+p
+E
+
+y
+g
+e
+t
+a
+r
+t
+s
+
+e
+r
+u
+t
+l
+u
+c
+-
+o
+C
+
+Figure 1. Gut epithelium co-culture models
+Top left: overview of sources for intestinal epithelial cells. Organoids can be derived from both ASCs and PSCs. Cancer-derived cell lines and organotypic
+explants represent alternative sources of epithelial cells. Top right: main features of in vitro co-culture models. Representation of cell types, generation of an
+oxygen gradient from epithelium to lumen, and co-culture duration are depicted. Bottom: co-culture strategies for the different models. Microbes can be mi-
+croinjected into organoids, added during organoid shearing, or added to monolayers grown from cell lines, organoids, or explants. Intestines-on-chip provide an
+apical chamber for microbe exposure.
+
+Yet, cell
+
+lines possess substantial drawbacks. Their trans-
+formed character and genomic instability, growth in an unphy-
+siological architecture, and failure to recapitulate the cellular het-
+erogeneity of the original organ limit the research questions they
+can address when co-cultured with microbes. Nevertheless, co-
+cultures of colorectal cancer cell lines with microbes in mono-
+layer cultures (or more recently in intestine-on-chip formats)
+recapitulate some aspects of their interactions.
+
+Adult stem cell-derived organoids
+Organoids of the human small intestine and colon have recently
+emerged as tools to study human gut physiology in vitro (Sato
+et al., 2011). Starting from adult stem cells (ASCs), which are
+located at the bottom of the intestinal crypts, healthy and
+cancerous intestinal epithelium can be grown in a gelatinous
+mixture of basement membrane extract (BME, also known as
+Matrigel(cid:2)). These reductionist models allow unlimited propaga-
+tion of all intestinal epithelial cell types in a self-assembling 3D
+architecture resembling their in vivo organization and composi-
+tional characteristics of the gut region from which they are
+derived (Beumer et al., 2020; Kayisoglu et al., 2021).
+
+Human intestinal organoids consist of a polarized monolayer
+epithelium with a ﬂuid-ﬁlled central space representing the orig-
+inal organ’s lumen. Because of this, 3D intestinal organoids
+require microinjection of bacteria into their lumen for an accurate
+representation of their in vivo spatial relationship (Bartfeld, 2016;
+Heo et al., 2018). As an alternative to microinjections, organoids
+can be replated as 2D monolayers on transwell plates as is used
+for stomach (Boccellato et al., 2019) and colon (Sasaki et al.,
+
+868 Cell Host & Microbe 29, June 9, 2021
+
+2020) organoids to enable co-cultures including a more mature
+mucus layer. Different exposure routes have also been used
+for viral co-cultures, including 2D layers (Ettayebi et al., 2016)
+and sheared 3D organoids (Fakhiri et al., 2019).
+
+Pluripotent stem cell-derived organoids
+Similar to ASCs, pluripotent stem cells (PSCs) can give rise to or-
+ganoids. Starting from either embryonic stem cells (ESCs) or
+induced pluripotent stem cells (iPSCs), the differentiation toward
+a speciﬁc organ type is recapitulated over a time frame of weeks
+to months by sequential exposure to external growth factors
+guiding tissue-speciﬁc developmental routes (Spence et al.,
+2011). The resulting product is, in contrast to ASC-derived orga-
+noids, not limited to intestinal epithelial cell types but can also
+contain mesenchymal cells. Once the intended organ speciﬁca-
+tion is achieved, the organoids can be further expanded under
+the conditions deﬁned for ASC-derived intestinal organoids. As
+for ASC-based organoids, the main co-culture method to date
+has been microinjection of microbes into the lumen of iPSC-
+based organoids (Forbester et al., 2015; Holokai et al., 2019).
+
+Organs-on-a-chip systems
+The term ‘‘organ-on-a-chip’’ describes a microﬂuidic device con-
+taining the cell types of interest in close recapitulation of the original
+tissue structure, function, and physiology (Bein et al., 2018). In
+comparison with organoids, intestine-on-a-chip platforms offer
+greater experimental control through multiple connected micro-
+ﬂuidic channels. Most intestine-chips today rely on hollow chan-
+nels with a smooth surface, while recent approaches enable the
+
+ 
+ 
+Review
+
+ll
+
+Table 1. Comparison of in vitro gut-microbe co-culture models
+
+Model comparison
+
+ASC
+organoids
+
+ASC
+chips
+
+PSC
+organoids
+
+2D organoids
+
+Cell line
+chips
+
+2D cell
+lines
+
+Explants
+
+Features
+
+Oxygen gradient (endogenous)
+
+Oxygen gradient (engineered)
+
+Co-culture duration
+
+Flow & Peristalsis
+
+Cell type representation
+
+Regional identity
+
+Processes
+
+Mutagenesis
+
+Epithelial turnover
+
+Intestinal cell fate
+
+Epigenetics
+
+Epithelial damage & Barrier integrity
+
+Pattern recognition & Inﬂammation
+
+Adhesion & Invasion
+
+Pathogen replication & Life cycle
+
+Perspectives
+
+Inclusion of microenvironment
+
+Complex architecture
+
+Microbial community dynamics
+
+Drug screens
+
+++
+
+-
+
+++
+
+-
+
++++
+
++++
+
++++
+
++++
+
++++
+
++++
+
+++
+
++++
+
+++
+
++++
+
+++
+
+++
+
++
+
+++
+
+-
+
++++
+
++++
+
++++
+
+++
+
+++
+
+++*
+
+++
+
+++
+
++++*
+
++++
+
++++
+
++++
+
++++
+
++++
+
++++
+
++++
+
+++
+
+++
+
+-
+
++
+
+-
+
+++
+
++
+
++
+
+++
+
+++
+
+++
+
+++
+
++++
+
++++
+
++++
+
++++
+
+++
+
++
+
+++
+
+-
+
+++
+
+++
+
++
+
+++*
+
++++*
+
++
+
+++
+
++
+
++++*
+
++++
+
++++
+
++++
+
++++
+
+++
+
+-
+
++
+
++
+
+-
+
++++
+
++++
+
++++
+
+-
+
+-
+
++
+
++
+
+-
+
++
+
++++
+
++
+
++
+
++
+
++++
+
++
+
+++
+
++
+
+-
+
+++*
+
+-
+
++
+
+-
+
+-
+
++
+
++
+
+-
+
++
+
++
+
++
+
++
+
++
+
+++
+
+-
+
++
+
++
+
+-
+
+-
+
+-
+
+-
+
++++
+
++++
+
+-
+
+-
+
+-
+
+-
+
++
+
++++
+
++++
+
++
+
++++
+
++++
+
++
+
++
+
+Adult stem-cell (ASC)-, pluripotent stem-cell (PSC)-derived organoid, and chip models are compared with monolayer cultures and organotypic ex-
+plants. *platform potential, which remains to be demonstrated.
+
+generation of crypt-villus-like structures through the induction of
+ﬂow (Kim et al, 2016) or using a scaffold surface (Nikolaev et al.,
+2020). The cell types used to populate chip devices are diverse,
+ranging from immortalized cell lines (Beaurivage et al., 2019; Kim
+et al., 2012) to primary tissue (Hinman et al., 2019; Jalili-Firoozinez-
+had et al., 2019), PSC-derived intestinal organoid cells (Naumov-
+ska et al., 2020; Workman et al., 2018), or adult stem-cell-derived
+organoids (Nikolaev et al., 2020). Intestines-on-a-chip can be
+ﬂushed with liquids to alter luminal versus basal conditions or to
+create gradients of growth factors or oxygen (Kim et al., 2019;
+Shah et al., 2016) allowing recapitulation of the spatial cell-type
+compartmentalization that is typical of the crypt architecture (Hin-
+man et al., 2019). This mediates ﬁne-tuning of the culture environ-
+ment for bacteria in the intestinal lumen and allows repeated expo-
+sure to, and harvesting of, microbes (Grassart et al., 2019; Jalili-
+Firoozinezhad et al., 2019; Shah et al., 2016). Furthermore, features
+such as luminal ﬂow and even peristalsis can be incorporated as
+another advantage of intestines-on-a-chip over static organoids
+(Kim et al., 2012).
+
+including stromal cells and a mucus layer (Gustafsson et al.,
+2012). Explants are cultured in medium that does not support the
+expansion of intestinal stem cells and suffer from decay of the
+structures within days of culturing. Consequently, they are not
+suited for longer-term studies or for applications where genetic en-
+gineering of tissue components is required. Colonic explant cul-
+tures have proven useful for the study of viral diseases such as
+HIV, where the presence of CD4+ T cells has enabled infection
+modeling (Fletcher et al., 2006). As explant models normally retain
+part of their microbiota, the addition of further bacterial species for
+deﬁned co-cultures is not routinely performed. However, a proto-
+col for eradicating the endogenous microbiota and repopulating
+human colonic explants with a donor microbial suspension has
+recently been described (Sarrabayrouse et al., 2020).
+
+MODEL FEATURES
+
+These in vitro models differ in how accurately they can recapitu-
+late crucial features for representative co-culture. Below, we
+compare their suitability to assess distinct host features.
+
+Organotypic explant cultures
+Whereas the previously mentioned culture systems are based on
+recreating the intestinal tissue architecture in vitro, organotypic
+explant cultures rely on transferring intact pieces of the intestinal
+mucosa to an ex vivo culture system. These systems, ﬁrst
+described in the 1960s, recapitulate the mucosal architecture,
+
+Oxygen gradient
+The intestinal vascular network ensures ample oxygen supply for
+the epithelial cells, but the levels of oxygen steeply drop over
+one-cell-diameter toward the intestinal lumen, reaching a PO2
+below 10 mmHg (Zheng et al., 2015). Most gut microbes inhabit
+
+Cell Host & Microbe 29, June 9, 2021 869
+
+ll
+
+the central gut lumen and are excluded from the mucus layer that
+covers the villus epithelium, in line with their requirement of low
+oxygen conditions. A major hurdle for in vitro systems is the reca-
+pitulation of this oxygen gradient, providing sufﬁcient oxygen for
+epithelial cells to survive while also creating a compartment with
+low oxygen as required for most intestinal bacterial species.
+
+Classical 2D cultures exhibit homogeneous oxygen levels, al-
+lowing merely short-term co-cultures with most gut dwelling bac-
+teria (Rubinstein et al., 2013). Recently, two groups developed
+co-culture systems with an integrated oxygen gradient as a solu-
+tion to this challenge (Kim et al., 2019; Sasaki et al., 2020): Human
+colon organoids can be grown as a monolayer on a transwell
+insert, which is subsequently ﬂushed with an anoxic gas mix
+and sealed with a rubber plug. These approaches provide sufﬁ-
+cient oxygen supply for epithelial cells from the basolateral me-
+dium reservoir while allowing the culture of anaerobic species
+in the hypoxic apical chamber (Sasaki et al., 2020). 3D organoids
+can exhibit an oxygen gradient (DiMarco et al., 2014) and in our
+experience, most anaerobic bacterial species can survive in the
+hypoxic lumen of human intestinal organoids for up to a week.
+The precise levels of oxygen within organoids are not known.
+Novel approaches such as phosphorescent oxygen sensors
+may facilitate more detailed studies on the microbial niche within
+organoids in the future (Okkelman et al., 2020). Intestines-on-a-
+chip represent the most controlled and scalable solution for
+creating this oxygen gradient in vitro (Jalili-Firoozinezhad et al.,
+2019; Marzorati et al., 2014). In a recently developed model, per-
+fusable channels coupled to oxygen sensors offer opportunities
+to ﬁne-tune oxygen levels at the basolateral and apical side of
+layer and enable extended co-cultures under
+the epithelial
+controlled conditions (Jalili-Firoozinezhad et al., 2019).
+
+Duration of co-culture
+The gut microbiota colonizes the intestinal tract from birth and
+forms a stable mutualistic relationship in the healthy state.
+Several chronic disease states are linked with a lasting change
+in microbial composition. Most epithelial co-cultures are per-
+formed on a timescale of hours to days and do not model such
+chronic states well.
+
+Bacterial invasion studies in 2D cell lines are typically performed
+over a time frame of hours (Rubinstein et al., 2013). The closed
+lumen of 3D organoids enables the stable co-culture of most intes-
+tinal microbes without bacterial death or overgrowth, but the
+intrinsic need for organoids to be passaged every 7–14 days pro-
+hibits any stable co-culture beyond this time frame. Nevertheless,
+we have recently demonstrated the feasibility of repeatedly inject-
+ing organoids with a single bacterial species over a time frame of
+5 months with mutation accumulation in the epithelial cells as a
+long-term readout (Pleguezuelos-Manzano et al., 2020). As an
+alternative, 2D gastric cultures have been shown to allow co-cul-
+ture of Helicobacter pylori for weeks (Boccellato et al., 2019), an
+approach that should also work for small intestinal and colon orga-
+noids. Intestine-on-a-chip systems have enabled co-cultures of
+complex bacterial communities (Jalili-Firoozinezhad et al., 2019)
+and individual species (Kim et al., 2016) for time frames of days
+to weeks, respectively. The newest generation of intestines-on-
+a-chip may enable month-long co-cultures on hollow tubes faith-
+fully recapitulating the intestinal cell-type composition (Nikolaev
+et al., 2020), but the potential of this technology to allow insights
+
+870 Cell Host & Microbe 29, June 9, 2021
+
+Review
+
+into complex long-term relationships between microbes and
+host cells remains to be demonstrated. For the aerobic eukaryotic
+parasite Cryptosporidium parvum, cultures as long as four weeks
+could be achieved both in adult stem cell-derived organoids
+(Heo et al., 2018), monolayers, cultures (Wilke et al., 2019) and in-
+testines-on-a-chip (Nikolaev et al., 2020).
+
+Cellular representation
+In vitro models based on primary tissue uniquely allow represen-
+tation of diverse human cell types. Recent years have seen sub-
+stantial improvements in differentiation strategies, especially for
+organoids, by the incorporation of new media components and
+transcription factors (Beumer et al.,
+the overexpression of
+2020). Adult stem-cell-based organoids offer opportunities to
+grow tissue of a deﬁned region of the intestinal tract with its spe-
+ciﬁc cellular subtypes (Beumer et al., 2020; Ranganathan et al.,
+2019). Similarly, intestine-on-a-chip approaches allow the simul-
+taneous acquisition of populations of proliferating and differenti-
+ated cells along engineered crypts (Hinman et al., 2019; Kim et al.,
+2019). Additionally, a recent study showed promising cell hetero-
+geneity in a murine intestine-on-a-chip setup and the possibility
+of using human primary cells on the same platform (Nikolaev
+et al., 2020). Among the most thoroughly characterized intes-
+tines-on-a-chip is an iPSC-based model, which allows genera-
+tion of stem cells, paneth cells, transit-amplifying cells, entero-
+cytes, goblet cells, and enteroendocrine cells (Workman et al.,
+2018). Nevertheless, the vast majority of cells on this chip is in a
+proliferative state and is difﬁcult to control for subspeciﬁcation
+along the crypt-villus axis and regional identity, highlighting the
+need for further developments that are currently being pursued
+for iPSC-derived organoids (Mu´ nera et al., 2017). These efforts
+to achieve proper cell-type representation are crucial for the
+modeling of several interaction processes discussed below.
+
+EPITHELIAL CONSEQUENCES OF MICROBIAL
+INTERACTIONS
+
+Microbes interact with the intestinal epithelium in a plethora of ways.
+Co-cultures model several of these processes, allowing the study of
+interdependence of multiple host-microbe interactions. Neverthe-
+less, even recapitulating a single feature of microbe-epithelium
+interaction can make for a useful model system. In this section,
+we review the numerous ways by which commensal species and
+pathogens can interact with the human gut epithelium (Figure 2)
+and discuss to what extent the aforementioned models allow reca-
+pitulation of these processes in vitro (Table 1).
+
+DNA damage, mutagenesis, and cancer
+The ability of pathogenic bacteria to induce epithelial transfor-
+mation has been subject to much investigation since the ﬁrst
+studies on Helicobacter pylori’s role in gastric tumorigenesis.
+For colorectal cancer, several
+large microbiome sequencing
+studies have revealed associations with species such as Fuso-
+bacterium nucleatum, enterotoxigenic Bacteroides fragilis, and
+genotoxic Escherichia coli (E. coli). Despite these numerous as-
+sociations, few—if any—causal relationships between bacterial
+species and colorectal cancer have been demonstrated in vitro.
+One process for which organoids provide an ideally suited
+long-term
+
+is mutagenesis, as they allow the clonal,
+
+model
+
+Review
+
+Mutagenesis
+
+Cell proliferation
+
+Barrier integrity disruption
+
+ll
+
+Figure 2. Microbe-epithelium interaction
+processes
+Top: epithelial processes in response to microbial
+exposure. Top panel: epithelial mutation accumu-
+lation, proliferation effects, and barrier
+integrity
+disruption. Middle panel: sensing of bacterial com-
+ponents by TLRs and subsequent cytokine release
+and immune cell recruitment; epigenetic and gene
+fate
+expression modulation by microbes; cell
+changes induced by microbes. Bottom: microbial
+interactions with the epithelium. Bacterial adhesion
+to and invasion into epithelial cells; completion of
+complex life cycles of pathogens (such as of eu-
+karyotic parasites) in target cells; viral entry, repli-
+cation, and release in epithelial cells.
+
+s
+e
+s
+s
+e
+c
+o
+r
+p
+
+l
+
+a
+
+i
+l
+
+e
+h
+
+t
+i
+
+p
+E
+
+s
+e
+s
+s
+e
+c
+o
+r
+p
+
+a
+
+t
+
+i
+
+o
+b
+o
+r
+c
+M
+
+i
+
+TLR
+
+Immune activation 
+and inflammation
+
+Epigenetics
+and gene regulation
+
+Bacterial adhesion 
+and invasion
+
+Eukaryotic parasite 
+life cycle
+
+expansion of genetically stable epithelium. Recently, a long-term
+co-culture of genotoxic E. coli with human intestinal organoids
+was employed to identify mutational signatures caused by the
+bacterial genotoxin, colibactin (Pleguezuelos-Manzano et al.,
+2020). In this study, a month-long co-culture protocol allowed
+the detection of mutations caused by the DNA-damaging activity
+lines and mouse
+of colibactin. Of note, in studies using cell
+models, colibactin had been described to cause double-strand
+DNA breaks (Bossuet-Greif et al., 2018; Dejea et al., 2018; Dziu-
+ba(cid:1)nska-Kusibab et al., 2020; Nougayre` de, 2006). The mutational
+patterns discovered in the organoids were enriched in samples
+from CRC origin, indicating the role of genotoxic E. coli in colonic
+mutagenesis (Pleguezuelos-Manzano et al., 2020). More recently,
+the exposure of mouse small intestinal organoids to genotoxic
+E. coli was linked to epithelial transformation (Iftekhar et al., 2021).
+Many studies focus on ways by which bacteria can contribute
+to colorectal cancer initiation and progression beyond the induc-
+tion of mutations. Several non-intestinal organoid systems have
+been used to pinpoint bacterially driven activation of cancer-
+associated pathways, aberrant proliferation, and replication
+stress (Bauer et al., 2020; McCracken et al., 2014; Scanu et al.,
+2015). We anticipate that applying these methods to colorectal
+cancer organoids will reveal further causal relationships.
+
+Viral entry and 
+replication
+
+Cell fate
+
+features most easily assessed in vitro. A
+seminal study (Kaiko et al., 2016) demon-
+strated that butyrate, a short-chain fatty
+acid (SCFA) and key metabolite of many
+gut bacteria,
+inhibits proliferation of
+colonic stem cells. Intriguingly, differenti-
+ated colonocytes can metabolize butyrate
+thereby
+without
+this inhibiting effect,
+providing a protected environment
+for
+stem cells in the colonic crypts. This study
+highlights the potential of organoids to
+disentangle responses of
+individual cell
+types to microbial stimuli. Two other
+studies used murine colon organoids to
+study the role of lipopolysaccharide (LPS)
+on proliferation on the intestinal epithelium.
+Using qPCR (Neal et al., 2012) and ﬂow cytometric (Naito et al.,
+2017) analysis of the proliferation markers, PCNA and Ki67,
+respectively, a Toll-like receptor (TLR)-4-mediated inhibition of
+proliferation was identiﬁed. The co-culture of iPSC-derived in-
+testinal organoids with non-pathogenic strains of E. coli aided
+the investigation of epithelial proliferation dynamics upon bacte-
+ria challenge (Hill et al., 2017). Following exposure to bacteria,
+organoids showed an initial wave of increased proliferation at
+24 h post exposure followed by a decrease compared with un-
+treated controls. We expect that the recent development of in-
+testines-on-a-chip models with representative crypt-villus archi-
+tecture and cell-type distribution (Jalili-Firoozinezhad et al.,
+2019; Nikolaev et al., 2020) will enable further representative
+studies on this topic in the future. For now, the experimental trac-
+tability of organoids offers a versatile platform to study the ef-
+fects of microbes and their metabolites on intestinal cell prolif-
+eration.
+
+Cell function and fate
+The gut microbiota changes the function and differentiation of
+host cells in various ways to cater to the microbes’ needs.
+Many of these changes can be detected as altered host-cell
+gene expression. Organoids and organs-on-chips are well suited
+to disentangle these interactions, as transcriptomic data can be
+attributed to either microbe or epithelial cells.
+
+Epithelial cell turnover
+Intestinal cell turnover can have important implications in wound
+healing and colorectal cancer development. It is also one of the
+
+As one example, Bacteroides thetaiotaomicron was shown to
+directly induce fut2 expression and mucus fucosylation by epithe-
+lial cells in organoids and mice, offering an energy source for the
+
+Cell Host & Microbe 29, June 9, 2021 871
+
+ll
+
+bacterium (Engevik et al., 2013). Non-pathogenic E. coli co-
+cultured with iPSC-derived intestinal organoids induce a hypoxic
+response as a consequence of local oxygen depletion by the bac-
+teria, showcasing another mechanism by which bacteria can
+change host-cell behavior (Hill et al., 2017). The ability of organo-
+ids to differentiate into all intestinal epithelial cell types makes
+them a well-suited model system to study microbial control over
+epithelial regeneration, nutrient uptake, and hormone secretion.
+Thus, increased goblet cell differentiation has been observed in
+response to LPS derived from various bacterial species enriched
+in colonic crypts (Naito et al., 2017). A challenge to this approach
+is the difﬁculty of telling apart changes in differentiated cell num-
+ber and expression levels in individual cells. Fluorescent reporters
+for cell-type marker genes could overcome this hurdle. Using this
+approach, Salmonella has been shown to reduce the number of
+Lgr5+ stem cells in adult stem-cell-derived mouse intestinal orga-
+noids (Zhang et al., 2014). We anticipate that recent work on
+knockin reporters for intestinal cell types in human organoids
+(Beumer et al., 2020) will contribute to larger-scale assessment
+of cell (sub)type speciﬁcation by microbes in the future. Another
+way to assess cell fate and function changes involves single cell
+RNA sequencing, which allows the detailed characterization of or-
+ganoid compositions (Gr€un et al., 2015). While this technique may
+enable studies at greater detail than the aforementioned ap-
+proaches, to the best of our knowledge, it has not been combined
+with microbial in vitro co-cultures.
+
+Gut microbes may directly modify the epigenetic proﬁle of host
+cells (Qin and Wade, 2018). The tight experimental control pro-
+vided by organoids can enable studies of such epigenetic effects
+of microbe or metabolite exposure. In a pioneering study (Luko-
+vac et al., 2014), the effects of Akkermansia muciniphila, Faeca-
+libacterium prausnitzii, and their short-chain fatty acid products
+were shown to affect, among others, histone deacetylases and
+the consequent epigenetic marks in murine ileal organoids.
+The observed induction of a marked transcriptional lipid meta-
+bolism response by Akkermansia muciniphila adds to a growing
+body of evidence of microbial
+impact in metabolic diseases.
+Despite this early promise, modeling the epigenetic effects of mi-
+crobes in vitro is still in its infancy.
+
+Epithelial damage and barrier integrity
+The intestinal epithelial and mucus layers constitute the key bar-
+rier separating food components and microbiota in the intestinal
+lumen from the bloodstream. Several diseases such as inﬂam-
+matory bowel disease (IBD) have been implicated with
+decreased barrier function of the intestine, while a microbial
+contribution to intestinal barrier integrity has been suggested
+by numerous studies (Martini et al., 2017).
+
+The structure of tight junctions between epithelial cells and bac-
+terial effects on these junctions can readily be visualized in orga-
+noids. This has been shown, among others, for pathogenic Sal-
+monella enterica serovar Typhimurium (S. Typhimurium) by
+staining for the tight junction protein, ZO-1, in mouse small intes-
+tinal organoids (Zhang et al., 2014). In another study, the same
+type of organoids was used to show a protective effect of the pro-
+biotic Lactobacillus acidophilus against S. Typhimurium-induced
+tissue damage (Lu et al., 2020). Using a different co-culture setup,
+enterohemorrhagic E. coli (EHEC) strains were shown to disrupt
+the mucus layer, microvilli structure, and tight junctions when
+
+872 Cell Host & Microbe 29, June 9, 2021
+
+Review
+
+co-cultured with differentiated human colonocytes on a 2D mono-
+layer setup (In et al., 2016). One straightforward way to assess
+barrier integrity in vitro is by tracking ﬂuorescently labeled mole-
+cules of high molecular weight from the apical to the basolateral
+side of organoids (Leslie et al., 2015) or organs-on-chips (Jalili-Fir-
+oozinezhad et al., 2019). Organoids can be used to assess barrier
+integrity effects of individual species and the responsible com-
+pounds in a highly controlled way. This has been demonstrated
+using, among others, different strains of Clostridium difﬁcile and
+the responsible toxin TcdA (Tao et al., 2016). Even without the
+use of a ﬂuorescent dye, the induction of pores in an organoid
+monolayer can be assessed by microscopy. This has recently
+been demonstrated for Klebsiella pneumoniae, which causes
+such pore formation by inducing caspase-3-mediated cell death
+in colon organoid monolayers (Nakamoto et al., 2019). Another
+often-used method to assess epithelial barrier integrity is the mea-
+surement of trans-epithelial electrical resistance (TEER), which
+can be readily implemented on monolayer cultures and organs-
+on-chips (Henry et al., 2017; In et al., 2016; Naumovska et al.,
+2020; Sasaki et al., 2020), but not easily in 3D organoids. Using in-
+testine-chips, both barrier-protective and -disruptive bacterial ef-
+fects can be studied in a scalable and robust manner (Kim et al.,
+2016; Shin and Kim, 2018). Taken together, these features give in-
+testines-on-a-chip an edge over other in vitro models for system-
+atic studies on barrier integrity.
+
+Pattern recognition and inﬂammation
+One of the most intensely studied microbial interactions in the
+human intestine is the crosstalk with the mucosal immune sys-
+tem (Round and Mazmanian, 2009). The recognition of patho-
+gens by epithelial cells and subsequent induction of an inﬂam-
+matory response is a crucial step in this process. Basolateral
+exposure to bacterial components such as LPS, frequently
+occurring in case of disrupted barrier function of the epithelium,
+can trigger the release of pro-inﬂammatory cytokines by epithe-
+lial cells.
+
+Epithelial in vitro models are well suited to uncover the pro-
+and anti-inﬂammatory effects of bacterial species and their com-
+ponents in intact or disrupted gut architecture. Transcriptional
+readouts such as qPCR and RNA sequencing is the most acces-
+sible means by which to proﬁle the nature of inﬂammatory re-
+sponses in any in vitro model system. Especially, the compre-
+hensiveness of RNA sequencing can permit detailed insights
+into the type of immune response, which is induced in organoids
+by triggers such as viral infection (Chang-Graham et al., 2020;
+Drummond et al., 2017; Lamers et al., 2020).
+
+A key advantage of adult stem-cell-derived organoids is their
+recapitulation of regional identity, which can play an important
+role in the kind of innate inﬂammatory response triggered upon
+bacterial exposure (Kayisoglu et al., 2021).
+Intestines-on-a-
+chip have proven well suited to studying inﬂammatory processes
+(Naumovska et al., 2020; Shin and Kim, 2018). Thus, the secre-
+tion of pro-inﬂammatory cytokines by a DSS-pretreated intesti-
+nal
+layer in response to E. coli and LPS exposure could be
+measured, as well as the protective effect of a pretreatment
+with probiotic bacteria (Shin and Kim, 2018). Human organotypic
+explant cultures were employed to study the prohibitive effects
+of initial bacterial load on fecal microbial transplant engraftment
+in the context of IBD (Sarrabayrouse et al., 2020). In this study,
+
+Review
+
+the mucosal layer was exposed ex vivo to microbial donor mate-
+rial. This setup demonstrated reduced engraftment of anti-in-
+ﬂammatory microbial transplants and consequently higher levels
+of pro-inﬂammatory cytokine secretion in recipients with a high
+initial mucosal bacterial
+load. In a separate study, ileal and
+colonic explants of mice treated with the probiotic Lactobacillus
+keﬁri showed a decreased inﬂammatory response upon LPS
+stimulation, highlighting the utility of explant models to investi-
+gate anti-inﬂammatory effects of in vivo treatments using an
+ex vivo system (Carasi et al., 2015).
+
+A recently published virology study showed that the infection
+of intestinal organoids with rotavirus induced a paracrine ADP/
+calcium signal through P2Y1 receptors that led to a deleterious
+inﬂammatory response (Chang-Graham et al., 2020). The suit-
+ability of an in vitro system for inﬂammation studies is therefore
+highly context dependent, with an advantage for organs-on-
+chips where spatial control is important.
+
+MICROBIAL INTERACTIONS WITH THE EPITHELIUM
+
+Adhesion & invasion
+The adhesion to and invasion of epithelial cells by viruses, bacte-
+ria, and eukaryotic parasites constitutes an important step in the
+life cycle and pathogenic mechanisms of these microbes. By faith-
+ful representation of cellular heterogeneity, entry receptor expres-
+sion patterns, and the possibility to rapidly generate genetically
+engineered lines, organoids are emerging as a key model for dis-
+entangling pathogen invasion mechanisms.
+
+Invasion assays using organoids rely on standard protocols es-
+tablished for 2D cell line invasion studies, most notably the genta-
+micin protection assay (Koestler et al., 2019; Rubinstein et al.,
+2013). In this assay, a short-term treatment with the non-perme-
+able antibiotic gentamicin kills extracellular bacteria while intracel-
+lular microbes are protected. In elegant studies on 2D cultures of
+human colon organoids, the invasion processes of pathogenic
+Shigella ﬂexneri could be studied (Koestler et al., 2019). The polar-
+ized monolayer allowed detailed studies on the basolateral inva-
+sion preference of Shigella, as well as apical translocations through
+disrupted tight junctions. In another study, the importance of M-
+cell representation and regional identity of human organoid mono-
+layers for Shigella infection was demonstrated (Ranganathan et al.,
+2019). Similarly, the invasion of EHEC could be studied in a 2D co-
+lonocyte model based on ASCs (In et al., 2016). Modiﬁed versions
+of the gentamicin protection assay have been developed for 3D or-
+ganoid co-culture assays. These include freeing the organoids
+from BME and the mechanical disruption of their 3D structure,
+exposing the otherwise protected organoid apical surface before
+gentamicin treatment (Forbester et al., 2015). As a result, PSC-
+derived human intestinal organoids enabled studies on the inva-
+sion mechanism of S. Typhimurium (Forbester et al., 2015). While
+less commonly applied than organoids,
+intestines-on-a-chip
+have also been used for detailed invasion studies. Using ﬂuores-
+cently labeled Shigella, apical invasion into the crypt compartment
+of Caco-2 cells grown on a chip device was detected (Grassart
+et al., 2019). The dependence on peristalsis of the intestinal layer
+for this invasion highlights a key advantage of intestines-on-a-
+chip for host-microbe studies and underlines the potential for
+further developments of organ-on-chip technology in the area of
+microbial invasion. A key obstacle for microbes to attach to the
+
+ll
+
+epithelium is the mucus layer, a difﬁcult feature to faithfully repre-
+sent in cell lines and some organoid models. Murine organotypic
+explants were used to study this process in detail, showing how
+S. Typhimurium can access the cecal epithelium through holes in
+the mucus layer, which are absent in other gut regions (Furter
+et al., 2019).
+
+Pathogen replication and life cycle
+To date, organoids provide the most faithful recapitulation of in-
+testinal cell types and have enabled pioneering studies on
+in vitro propagation and the study of several pathogens. Such
+cell-type representation can be crucial in case of speciﬁc tro-
+pisms by pathogens. As one example, human noroviruses
+have been notoriously hard to study, as they require entero-
+cytes and bile for entry and replication. Human intestinal orga-
+noids, grown as a 2D layer and differentiated toward entero-
+cytes, enabled, for the ﬁrst time, the propagation of this virus
+in vitro, laying the groundwork for future studies on noroviruses
+(Ettayebi et al., 2016). As another example, an adult stem-cell-
+based human small intestinal organoid model exhibited better
+infection rates of echovirus 11 when differentiation was driven
+toward cells of the secretory lineage, in particular enteroendo-
+crine cells (Drummond et al., 2017). In case of unknown tropism
+of a pathogen, the ability to grow organoids from almost every
+epithelial human tissue enables sophisticated comparative
+studies. This has been done, for example, in case of the human
+bocavirus, which, using organoids, was demonstrated to infect
+both human airway and intestinal epithelial cells (Fakhiri et al.,
+2019). More recently, human intestinal organoids enabled the
+identiﬁcation of enterocytes and their progenitors as intestinal
+target cells of the novel SARS-CoV-2 virus (Lamers et al.,
+2020). This study highlights the rapid pace at which viral target
+cells, the epithelial response, and other features can be as-
+sessed using organoids. For SARS-CoV-2 virus, organoids
+even enabled comparative studies between species such as
+bats and humans (Zhou et al., 2020).
+
+PSC-based organoids enabled the detection of both epithelial
+and non-epithelial target cell types for rotaviruses (Finkbeiner
+et al., 2012). A comprehensive study on the infection of human
+small intestinal explants and organoids revealed that the MERS
+coronavirus could infect several intestinal cell types and repli-
+cate in these (Zhou et al., 2017).
+
+Target cell-type identiﬁcation for pathogen propagation is of
+particular importance for virus infections studies, but not limited
+to them. Recent work has demonstrated the possibility to reca-
+pitulate complex life cycles of eukaryotic parasites. This is the
+case for Cryptosporidium parvum and Trichuris muris, which
+were studied using adult stem-cell-derived human and mouse
+intestinal organoids, respectively, grown in 3D (Heo et al.,
+2018; Duque-Correa et al., 2020). Cryptosporidium parvum
+could also be studied on intestinal monolayers at an air-liquid
+interface (Wilke et al., 2019) and had recently been transferred
+to an intestine-on-a-chip device, paving the way for long-term
+studies (Nikolaev et al., 2020).
+
+CURRENT TRENDS AND CHALLENGES
+
+Beyond the signiﬁcant progress in modeling these numerous
+interaction processes in vitro, important hurdles still need to be
+
+Cell Host & Microbe 29, June 9, 2021 873
+
+ll
+
+Review
+
+Complex comunity dynamics
+
+Chronic infection model
+
+Immune
+cells
+
+Mesenchymal 
+cells
+
+ Enteric
+neurons
+
+Diff.
+
+SC
+
+Bacterial effect on drug sensitivity
+
+Different intestinal cell types
+
+Complex tissue architecture
+
+Figure 3. Trends and future perspectives for in vitro gut-microbe co-cultures
+Top left: bacterial community interactions with each other and the epithelium. Bottom left: Drug metabolization and epithelial response modulation by microbes.
+Middle: incorporation of further microenvironmental components into organoids and intestines-on-chip. Top right: extended cultures for chronic infection
+modeling in organoids. Bottom right: increasing architectural complexity by organizing the relevant cell types in a crypt-villus architecture.
+
+overcome to recapitulate gut-microbe relationships at even
+greater detail. In this section, we discuss recent efforts to add
+further complexity and highlight remaining challenges for epithe-
+lial co-cultures (Figure 3).
+
+Other microenvironment components
+Despite the many beneﬁts of modeling direct epithelium-
+microbe interactions in vitro, most current approaches are not
+suited to including additional components of the microenviron-
+ment. The immune effects of gut microbiota have especially
+been the subject of intense study (Round and Mazmanian,
+2009) and remain hard to disentangle in vitro. Intestinal organo-
+ids have proven adequate model systems for studying the inﬂu-
+ences of the immune environment on epithelial behavior (Linde-
+mans et al., 2015). The addition of microbes to this equation
+in vitro is still relatively new but early examples highlight the po-
+tential of co-cultures incorporating all three components. For
+example, the protective effect of the probiotic Lactobacillus
+intestinal organoids challenged with
+reuteri on mouse small
+TNF-a could be demonstrated (Hou et al., 2018), as well as a
+role of Klebsiella pneumoniae in TH17-mediated inﬂammatory
+liver injuries (Nakamoto et al., 2019). Furthermore, gastric orga-
+noids were used to assess PD-L1 expression and autologous
+cytotoxic T lymphocyte activity upon H. pylori infection and im-
+mune-checkpoint
+inhibition (Holokai et al., 2019). As an
+example of viral effects on immune cell interactions, the recruit-
+ment of neutrophils in response to respiratory syncytial virus
+infection could be studied in airway organoids (Sachs
+et al., 2019).
+
+Intestines-on-a-chip are becoming increasingly useful
+for
+these studies, as demonstrated by their recent use to study
+the recruitment of leukocytes upon luminal stimulation with
+LPS (Maurer et al., 2019), recapitulating a key process of IBD
+pathogenesis. The role of mesenchymal cell populations in
+shaping the gut microﬂora through induction of M-cell differen-
+tiation and IgA production has become apparent (Nagashima
+et al., 2017), and faithful in vitro models are wanting in order
+to study the precise nature of these interactions. Organoid
+co-cultures have been successfully established with CD8+
+
+874 Cell Host & Microbe 29, June 9, 2021
+
+T cells (Dijkstra et al., 2018), subepithelial myoﬁbroblasts (Grei-
+cius et al., 2018), and macrophages (Noel et al., 2017). New
+generations of
+intestines-on-chips additionally incorporate
+blood vessels in a basolateral channel, contributing a controlled
+oxygen gradient across the epithelial layer (Jalili-Firoozinezhad
+et al., 2019).
+
+Complex architecture
+The intestinal architecture varies greatly along its rostral-caudal
+axis with regard to crypt-villus unit organization, cell-type
+composition, luminal oxygen levels, and protection by heteroge-
+neous mucus layers. Together with other factors, this results in
+divergent microbiotas inhabiting various niches in each section
+of the gut (Donaldson et al., 2016). The organization of microbes
+in bioﬁlms and other spatially deﬁned communities is another
+feature not yet
+represented in current models (Domingue
+et al., 2020).
+
+The Caco-2 cell line, derived from a colorectal adenocarci-
+noma and recapitulating some features of enterocytes, has
+served as a gold standard for many monolayer and
+intestine-on-chip studies (Sambuy et al., 2005). While Caco-
+2 cells can generate crypt-villus-like structures under ﬂow
+conditions (Kim et al., 2016), they inevitably have limitations
+in recapitulating the regional and architectural nuances of
+epithelium-microbiota interactions. Organoids have enabled
+the culture of all segments of the gastrointestinal tract and
+have contributed to the understanding of microbial effects be-
+tween the various cell types of crypt and villus compartments
+(Kaiko et al., 2016).
+
+Microbial community dynamics
+The gut microbiota represents an immensely complex
+ecosystem. Intestinal microbes are intricately connected by
+resource interdependencies and extensive metabolic networks,
+leading to competitive, mutualistic, or symbiotic behaviors
+(Stubbendieck et al., 2016). In contrast, simplistic models of sin-
+gle-microbe effects can easily exaggerate the impact of individ-
+ual gut microbiota (Walter et al., 2020), underscoring the beneﬁt
+of investigating microbial communities.
+
+Review
+
+Growing complex intestinal bacterial communities in vitro is
+feasible (Oliphant et al., 2020; Van den Abbeele et al., 2010),
+but establishing media and oxygen conditions, under which
+both epithelial cells and bacteria with diverse requirements
+thrive, presents a formidable challenge. Consequently, the sta-
+ble culture of complex microbial communities in lumen organo-
+ids has not been achieved to date. However, different groups
+have pioneered the use of intestine-on-a-chip platforms for
+maintaining deﬁned bacterial communities of several species
+over the time frame of days to weeks (Kim et al., 2016; Marzorati
+et al., 2014). More recent studies on novel chip models demon-
+strate the possibility to maintain a diverse community of more
+than 200 operational taxonomic units over several days in culture
+(Jalili-Firoozinezhad et al., 2019).
+In this study, an oxygen
+gradient from the basal to the luminal side of an intestine-on-a-
+chip channel allowed the culture of both aerobes and obligate
+anaerobes and the assessment of parameters such as barrier
+integrity. These models will likely facilitate future work on micro-
+bial relationships in the context of the gut epithelium (Lu et al.,
+2020). Currently, the protective effect of Lactobacillus rhamno-
+sus on Candida albicans infections could be modeled on an in-
+testine chip (Maurer et al., 2019).
+
+Drug screens
+Organoids and organs-on-chips have reached a scalability
+which allows screening of therapeutic compounds. The current
+COVID-19 pandemic underscores the need for rapid develop-
+ment and testing of therapeutics targeted at microbial infection
+of and replication within host epithelial cells. Recent work high-
+lights the feasibility of these efforts (Lamers et al., 2020; Yin
+et al., 2015) and we expect
+that standardized and high-
+throughput (Williamson et al., 2018) organoid-microbe co-cul-
+ture workﬂows will enable systematic screening for infectious
+disease drugs, in the near future. Considering other diseases
+such as cancer, the importance of the gut microbiota for drug
+metabolization (Geller et al., 2017; Zimmermann et al., 2019)
+and host response to drugs (Yu et al., 2017) have been the sub-
+ject of pioneering studies. We anticipate that the combination of
+organoids and microbes will open up new avenues for host-
+microbe co-metabolism studies and help understand microbially
+modiﬁed treatment responses. Finally, organs-on-chips are
+rapidly being adopted for drug screening in diverse settings
+(Beaurivage et al., 2019), including processes important for mi-
+crobial interactions such as barrier integrity (Bhatt et al., 2018).
+
+FUTURE OUTLOOK
+
+Our understanding of the important role that the microbiota plays
+in the maintenance of intestinal homeostasis and in the develop-
+ment of disease has been transformed in the last century. How-
+ever, it remains difﬁcult to move from the associations uncov-
+ered by metagenomic studies to insights into the mechanistic
+roles of the microbiota. The development of human intestinal or-
+ganoids and their incorporation into more elaborate organ-on-a-
+chip setups have led to innovative avenues for evaluating the
+relationship between the intestinal mucosa and its microbiota.
+Although still in its infancy, this ﬁeld has already yielded some
+key discoveries into how the microbiota contributes to health
+and disease, recapitulating several human-speciﬁc features in
+
+ll
+
+processes like viral
+infection and replication (Ettayebi et al.,
+2016; Lamers et al., 2020). As a result, several biotechnology
+companies have developed or adopted organoids and organs-
+on-a-chip for their preclinical testing. In particular, companies
+such as Emulate, MIMETAS, or Altis Biosystems have pioneered
+intestine-on-a-chip models well suited for scalable microbe co-
+cultures. A comprehensive overview of the commercial activity
+in the ﬁelds of organoids and organs-on-chips can be found in
+two recent reviews (Allwardt et al., 2020; Choudhury et al., 2020).
+Choosing the right in vitro model for host-microbe studies de-
+pends on the microbe but even more so on the envisioned read-
+outs. As viruses are dependent on a host cell for replication, gen-
+eration of the right target cell type(s) is of paramount importance.
+For bacterial co-cultures, the divergent requirements regarding
+oxygen levels, nutrients, and spatial organization pose the
+incorporates all
+main challenges. No current in vitro model
+potentially relevant microenvironmental components, which
+would allow a complete recapitulation of the in vivo situation,
+instead, each current model is suitable for modeling only some
+interactions. The studies highlighted in this review and summa-
+rized in Table 1 showcase the advantages of each in vitro intes-
+tine model. Cell lines remain useful in standardized and scalable
+assays, both as monolayers and on chip architectures. However,
+the increasing availability of adult stem-cell-derived organoids
+for growth in these formats will likely replace cell lines in many
+assays. Organotypic explant cultures are the most straightfor-
+ward way to retain the tissue architecture ex vivo for short time
+frames and can be a crucial technology when this feature is of
+importance. The lack of experimental control and the repeated
+requirement for biopsy material limit their application. We antic-
+ipate a continuous move toward adult stem-cell-based systems,
+both as organoids and intestines-on-a-chip because of their
+incorporation of diverse and mature intestinal cell types. In
+recent years, intestines-on-a-chip have improved dramatically
+in the control of gradients and of cellular representation, being
+the model of choice when spatial control of exposure, architec-
+ture, ﬂow, and movement are of importance. iPSC-derived orga-
+noids allow complex mixtures of cells to be cultured and have
+proven suitable for infection studies and on organ-on-chip de-
+vices. ASC-based organoids are most suitable to studies where
+faithful representation of cell-type composition and regional
+identity is needed or when interindividual differences need to
+be studied with reasonable scalability. Their comparative ease-
+of-derivation and -use and experimental tractability make them
+a ﬂexible in vitro model for co-culture studies.
+
+The ﬁeld is rapidly moving from the most reductionist ap-
+proaches, where the effect of a single microbial species on the
+epithelium is studied, to more elaborate setups. These will
+include complex bacterial communities from healthy or diseased
+individuals as well as other components of the intestinal mucosa
+like immune cells, the mesenchyme, or enteric neurons. We
+anticipate that these approaches will allow the establishment
+of chronic models of microbial co-cultures for studying diseases
+like IBD or colorectal cancer.
+
+Finally, the intestinal microenvironment is an immensely com-
+plex system, and in vivo models remain the only option to study
+systemic effects at this moment. Nevertheless, there is no con-
+ceptual boundary that would prevent the stepwise reassembly
+of this system based on a growing understanding of cell types’
+
+Cell Host & Microbe 29, June 9, 2021 875
+
+ll
+
+Review
+
+requirements and their interplay. As a result, organoids and or-
+gans-on-chips are set to play a growing role in disentangling
+host-microbe interactions in vitro.
+
+ACKNOWLEDGMENTS
+
+This work was supported by a CRUK grant OPTIMISTIC (C10674/A27140), the
+Netherlands Organ-on-Chip Initiative (024.003.001) from the Netherlands Or-
+ganization for Scientiﬁc Research (NWO), Culture and Science of the Govern-
+ment of the Netherlands, the Oncode Institute (partly ﬁnanced by the Dutch
+Cancer Society) the European Research Council under ERC Advanced grant
+agreement no. 67013.
+
+DECLARATION OF INTERESTS
+
+H.C. is an inventor on multiple patents held by the Dutch Royal Netherlands
+Academy of Arts and Sciences that cover organoid technology. H.C. is a mem-
+ber of the board of directors of Roche. H.C.’s full disclosure is given at https://
+www.uu.nl/staff/JCClevers/. J.P. and C.P.-M. declare no competing interests.
+
+REFERENCES
+
+Allwardt, V., Ainscough, A.J., Viswanathan, P., Sherrod, S.D., McLean, J.A.,
+Haddrick, M., and Pensabene, V. (2020). Translational roadmap for the or-
+gans-on-a-chip industry toward broad adoption. Bioengineering (Basel)
+7, 112.
+
+Bartfeld, S. (2016). Modeling infectious diseases and host-microbe interac-
+tions in gastrointestinal organoids. Dev. Biol. 420, 262–270.
+
+Choudhury, D., Ashok, A., and Naing, M.W. (2020). Commercialization of orga-
+noids. Trends Mol. Med. 26, 245–249.
+
+Dejea, C.M., Fathi, P., Craig, J.M., Boleij, A., Taddese, R., Geis, A.L., Wu, X.,
+DeStefano Shields, C.E., Hechenbleikner, E.M., Huso, D.L., et al. (2018). Pa-
+tients with familial adenomatous polyposis harbor colonic bioﬁlms containing
+tumorigenic bacteria. Science 359, 592–597.
+
+Dijkstra, K.K., Cattaneo, C.M., Weeber, F., Chalabi, M., van de Haar, J., Fan-
+chi, L.F., Slagter, M., van der Velden, D.L., Kaing, S., Kelderman, S., et al.
+(2018). Generation of tumor-reactive T cells by co-culture of peripheral blood
+lymphocytes and tumor organoids. Cell 174, 1586–1598.e12.
+
+DiMarco, R.L., Su, J., Yan, K.S., Dewi, R., Kuo, C.J., and Heilshorn, S.C.
+(2014). Engineering of three-dimensional microenvironments to promote con-
+tractile behavior in primary intestinal organoids.
+(Camb) 6,
+127–142.
+
+Integr. Biol.
+
+Domingue, J.C., Drewes, J.L., Merlo, C.A., Housseau, F., and Sears, C.L.
+(2020). Host responses to mucosal bioﬁlms in the lung and gut. Mucosal Im-
+munol 13, 413–422.
+
+Donaldson, G.P., Lee, S.M., and Mazmanian, S.K. (2016). Gut biogeography of
+the bacterial microbiota. Nat. Rev. Microbiol. 14, 20–32.
+
+Drummond, C.G., Bolock, A.M., Ma, C., Luke, C.J., Good, M., and Coyne, C.B.
+(2017). Enteroviruses infect human enteroids and induce antiviral signaling in a
+cell lineage-speciﬁc manner. Proc. Natl. Acad. Sci. USA 114, 1672–1677.
+
+Duque-Correa, M.A., Schreiber, F., Rodgers, F.H., Goulding, D., Forrest, S.,
+White, R., Buck, A., Grencis, R.K., and Berriman, M. (2020). Development of
+caecaloids to study host–pathogen interactions: new insights into immunoreg-
+ulatory functions of Trichuris muris extracellular vesicles in the caecum. Int. J.
+Parasitol. 50, 707–718.
+
+Bauer, M., Nascakova, Z., Mihai, A.I., Cheng, P.F., Levesque, M.P., Lampart,
+S., Hurwitz, R., Pfannkuch, L., Dobrovolna, J., Jacobs, M., et al. (2020). The
+ALPK1/TIFA/NF-kB axis links a bacterial carcinogen to R-loop-induced repli-
+cation stress. Nat. Commun. 11, 5117.
+
+Dziuba(cid:1)nska-Kusibab, P.J., Berger, H., Battistini, F., Bouwman, B.A.M., Ifte-
+khar, A., Katainen, R., Cajuso, T., Crosetto, N., Orozco, M., Aaltonen, L.A.,
+and Meyer, T.F. (2020). Colibactin DNA-damage signature indicates muta-
+tional impact in colorectal cancer. Nat. Med. 26, 1063–1069.
+
+Beaurivage, C., Naumovska, E., Chang, Y.X., Elstak, E.D., Nicolas, A.,
+Wouters, H., van Moolenbroek, G., Lanz, H.L., Trietsch, S.J., Joore, J., et al.
+(2019). Development of a gut-on-a-chip model for high throughput disease
+modeling and drug discovery. Int. J. Mol. Sci. 20, 5661.
+
+Engevik, M.A., Aihara, E., Montrose, M.H., Shull, G.E., Hassett, D.J., and Wor-
+rell, R.T. (2013). Loss of NHE3 alters gut microbiota composition and inﬂu-
+ences Bacteroides thetaiotaomicron growth. Am. J. Physiol. Gastrointest.
+Liver Physiol. 305, G697–G711.
+
+Bein, A., Shin, W., Jalili-Firoozinezhad, S., Park, M.H., Sontheimer-Phelps, A.,
+Tovaglieri, A., Chalkiadaki, A., Kim, H.J., and Ingber, D.E. (2018). Microﬂuidic
+Organ-on-a-chip models of human intestine. Cell. Mol. Gastroenterol. Hepa-
+tol. 5, 659–668.
+
+Ettayebi, K., Crawford, S.E., Murakami, K., Broughman, J.R., Karandikar, U.,
+Tenge, V.R., Neill, F.H., Blutt, S.E., Zeng, X.L., Qu, L., et al. (2016). Replication
+of human noroviruses in stem cell-derived human enteroids. Science 353,
+1387–1393.
+
+Beumer, J., Puschhof, J., Bauza´ -Martinez, J., Martı´nez-Silgado, A., Elmen-
+taite, R., James, K.R., Ross, A., Hendriks, D., Artegiani, B., Busslinger, G.A.,
+et al. (2020). High-resolution mRNA and secretome atlas of human enteroen-
+docrine cells. Cell 181, 1291–1306, e19.
+
+Fakhiri, J., Schneider, M.A., Puschhof, J., Stanifer, M., Schildgen, V., Holder-
+bach, S., Voss, Y., El Andari, J., Schildgen, O., Boulant, S., et al. (2019). Novel
+chimeric gene therapy vectors based on adeno-associated virus and four
+different mammalian bocaviruses. Mol. Ther. Methods Clin. Dev. 12, 202–222.
+
+Bhatt, A.P., Gunasekara, D.B., Speer, J., Reed, M.I., Pen˜ a, A.N., Midkiff, B.R.,
+Magness, S.T., Bultman, S.J., Allbritton, N.L., and Redinbo, M.R. (2018).
+Nonsteroidal anti-inﬂammatory drug-induced leaky gut modeled using polar-
+ized monolayers of primary human intestinal epithelial cells. ACS Infect. Dis.
+4, 46–52.
+
+Blokzijl, F., de Ligt, J., Jager, M., Sasselli, V., Roerink, S., Sasaki, N., Huch, M.,
+Boymans, S., Kuijk, E., Prins, P., et al. (2016). Tissue-speciﬁc mutation accu-
+mulation in human adult stem cells during life. Nature 538, 260–264.
+
+Boccellato, F., Woelfﬂing, S., Imai-Matsushima, A., Sanchez, G., Goosmann,
+C., Schmid, M., Berger, H., Morey, P., Denecke, C., Ordemann, J., and Meyer,
+T.F. (2019). Polarised epithelial monolayers of the gastric mucosa reveal in-
+sights into mucosal homeostasis and defence against infection. Gut 68,
+400–413.
+
+Bossuet-Greif, N., Vignard, J., Taieb, F., Mirey, G., Dubois, D., Petit, C., Os-
+wald, E., and Nougayre` de, J.P. (2018). The colibactin genotoxin generates
+DNA interstrand cross-links in infected cells. mBio 9, e02393–17.
+
+Carasi, P., Racedo, S.M., Jacquot, C., Romanin, D.E., Serradell, M.A., and Ur-
+daci, M.C. (2015). Impact of keﬁr derived Lactobacillus keﬁri on the mucosal
+immune response and gut microbiota. J. Immunol. Res. 2015, 361604.
+
+Chang-Graham, A.L., Perry, J.L., Engevik, M.A., Engevik, K.A., Scribano, F.J.,
+Gebert, J.T., Danhof, H.A., Nelson, J.C., Kellen, J.S., Strtak, A.C., et al. (2020).
+Rotavirus induces intercellular calcium waves through ADP signaling. Sci-
+ence 370.
+
+Finkbeiner, S.R., Zeng, X.L., Utama, B., Atmar, R.L., Shroyer, N.F., and Estes,
+M.K. (2012). Stem cell-derived human intestinal organoids as an infection
+model for rotaviruses. mBio 3, e00159–e00112.
+
+Fletcher, P.S., Elliott, J., Grivel, J.C., Margolis, L., Anton, P., McGowan, I., and
+Shattock, R.J. (2006). Ex vivo culture of human colorectal tissue for the evalu-
+ation of candidate microbicides. AIDS Lond. Engl. 20, 1237–1245.
+
+Forbester, J.L., Goulding, D., Vallier, L., Hannan, N., Hale, C., Pickard, D., Mu-
+khopadhyay, S., and Dougan, G. (2015). Interaction of Salmonella enterica se-
+rovar Typhimurium with intestinal organoids derived from human induced
+pluripotent stem cells. Infect. Immun. 83, 2926–2934.
+
+Fujii, M., Matano, M., Nanki, K., and Sato, T. (2015). Efﬁcient genetic engineer-
+ing of human intestinal organoids using electroporation. Nat. Protoc. 10,
+1474–1485.
+
+Furter, M., Sellin, M.E., Hansson, G.C., and Hardt, W.D. (2019). Mucus archi-
+tecture and near-surface swimming affect distinct Salmonella typhimurium
+infection patterns along the murine intestinal tract. Cell Rep 27, 2665–2678.e3.
+
+Geller, L.T., Barzily-Rokni, M., Danino, T., Jonas, O.H., Shental, N., Nejman,
+D., Gavert, N., Zwang, Y., Cooper, Z.A., Shee, K., et al. (2017). Potential role
+of intratumor bacteria in mediating tumor resistance to the chemotherapeutic
+drug gemcitabine. Science 357, 1156–1160.
+
+Grassart, A., Malarde´ , V., Gobaa, S., Sartori-Rupp, A., Kerns, J., Karalis, K.,
+Marteyn, B., Sansonetti, P., and Sauvonnet, N. (2019). Bioengineered human
+
+876 Cell Host & Microbe 29, June 9, 2021
+
+Review
+
+Organ-on-chip reveals intestinal microenvironment and mechanical forces im-
+pacting Shigella infection. Cell Host Microbe 26, 565.
+
+Greicius, G., Kabiri, Z., Sigmundsson, K., Liang, C., Bunte, R., Singh, M.K., and
+Virshup, D.M. (2018). PDGFRa+ pericryptal stromal cells are the critical source
+of Wnts and RSPO3 for murine intestinal stem cells in vivo. Proc. Natl. Acad.
+Sci. USA 115, E3173–E3181.
+
+Gr€un, D., Lyubimova, A., Kester, L., Wiebrands, K., Basak, O., Sasaki, N.,
+Clevers, H., and van Oudenaarden, A. (2015). Single-cell messenger RNA
+sequencing reveals rare intestinal cell types. Nature 525, 251–255.
+
+Gustafsson, J.K., Ermund, A., Johansson, M.E.V., Sch€utte, A., Hansson, G.C.,
+and Sjo¨ vall, H. (2012). An ex vivo method for studying mucus formation, prop-
+erties, and thickness in human colonic biopsies and mouse small and large in-
+testinal explants. Am. J. Physiol. Gastrointest. Liver Physiol. 302, G430–G438.
+
+Henry, O.Y.F., Villenave, R., Cronce, M.J., Leineweber, W.D., Benz, M.A., and
+Ingber, D.E. (2017). Organs-on-Chips with integrated electrodes for Trans-
+Epithelial Electrical Resistance (TEER) measurements of human epithelial bar-
+rier function. Lab Chip 17, 2264–2271.
+
+Heo, I., Dutta, D., Schaefer, D.A., Iakobachvili, N., Artegiani, B., Sachs, N.,
+Boonekamp, K.E., Bowden, G., Hendrickx, A.P.A., Willems, R.J.L., et al.
+(2018). Modelling Cryptosporidium infection in human small
+intestinal and
+lung organoids. Nat. Microbiol. 3, 814–823.
+
+Hill, D.R., Huang, S., Nagy, M.S., Yadagiri, V.K., Fields, C., Mukherjee, D.,
+Bons, B., Dedhia, P.H., Chin, A.M., Tsai, Y.-H., et al. (2017). Bacterial coloni-
+zation stimulates a complex physiological response in the immature human in-
+testinal epithelium. eLife 6, e29132.
+
+Hinman, S.S., Wang, Y., and Allbritton, N.L. (2019). Photopatterned mem-
+branes and chemical gradients enable scalable phenotypic organization of pri-
+mary human colon epithelial models. Anal. Chem. 91, 15240–15247.
+
+Holokai, L., Chakrabarti, J., Broda, T., Chang, J., Hawkins, J.A., Sundaram, N.,
+Wroblewski, L.E., Peek, R.M., Wang, J., Helmrath, M., et al. (2019). Increased
+programmed death-ligand 1 is an early epithelial cell response to Helicobacter
+pylori infection. PLoS Pathog 15, e1007468.
+
+Hou, Q., Ye, L., Liu, H., Huang, L., Yang, Q., Turner, J.R., and Yu, Q. (2018).
+Lactobacillus accelerates ISCs regeneration to protect the integrity of intesti-
+nal mucosa through activation of STAT3 signaling pathway induced by LPLs
+secretion of IL-22. Cell Death Differ 25, 1657–1670.
+
+Iftekhar, A., Berger, H., Bouznad, N., Heuberger, J., Boccellato, F., Dobrindt,
+U., Hermeking, H., Sigal, M., and Meyer, T.F. (2021). Genomic aberrations after
+short-term exposure to colibactin-producing E. coli transform primary colon
+epithelial cells. Nat. Commun. 12, 1003.
+
+In, J., Foulke-Abel, J., Zachos, N.C., Hansen, A.M., Kaper, J.B., Bernstein,
+H.D., Halushka, M., Blutt, S., Estes, M.K., Donowitz, M., and Kovbasnjuk, O.
+(2016). Enterohemorrhagic Escherichia coli reduce mucus and intermicrovillar
+bridges in human stem cell-derived colonoids. Cell. Mol. Gastroenterol. Hep-
+atol. 2, 48–62.e3.
+
+Jalili-Firoozinezhad, S., Gazzaniga, F.S., Calamari, E.L., Camacho, D.M., Fa-
+del, C.W., Bein, A., Swenor, B., Nestor, B., Cronce, M.J., Tovaglieri, A., et al.
+(2019). A complex human gut microbiome cultured in an anaerobic intestine-
+on-a-chip. Nat. Biomed. Eng. 3, 520–531.
+
+Kaiko, G.E., Ryu, S.H., Koues, O.I., Collins, P.L., Solnica-Krezel, L., Pearce,
+E.J., Pearce, E.L., Oltz, E.M., and Stappenbeck, T.S. (2016). The colonic crypt
+protects stem cells from microbiota-derived metabolites. Cell 165, 1708–1720.
+
+Kayisoglu, O., Weiss, F., Niklas, C., Pierotti, I., Pompaiah, M., Wallaschek, N.,
+Germer, C.T., Wiegering, A., and Bartfeld, S. (2021). Location-speciﬁc cell
+identity rather than exposure to GI microbiota deﬁnes many innate immune
+signalling cascades in the gut epithelium. Gut 70, 687–697.
+
+Kim, H.J., Huh, D., Hamilton, G., and Ingber, D.E. (2012). Human gut-on-a-chip
+inhabited by microbial ﬂora that experiences intestinal peristalsis-like motions
+and ﬂow. Lab Chip 12, 2165–2174.
+
+Kim, H.J., Li, H., Collins, J.J., and Ingber, D.E. (2016). Contributions of micro-
+biome and mechanical deformation to intestinal bacterial overgrowth and
+inﬂammation in a human gut-on-a-chip. Proc. Natl. Acad. Sci. USA 113,
+E7–E15.
+
+Kim, J., Koo, B.K., and Knoblich, J.A. (2020). Human organoids: model sys-
+tems for human biology and medicine. Nat. Rev. Mol. Cell Biol. 21, 571–584.
+
+ll
+
+Kim, R., Attayek, P.J., Wang, Y., Furtado, K.L., Tamayo, R., Sims, C.E., and All-
+britton, N.L. (2019). An in vitro intestinal platform with a self-sustaining oxygen
+gradient to study the human gut/microbiome interface. Biofabrication 12,
+015006.
+
+Koestler, B.J., Ward, C.M., Fisher, C.R., Rajan, A., Maresso, A.W., and Payne,
+S.M. (2019). Human intestinal enteroids as a model system of Shigella patho-
+genesis. Infect. Immun. 87, e00733–18.
+
+Lamers, M.M., Beumer, J., Vaart, J. van der, Knoops, K., Puschhof, J., Breu-
+gem, T.I., Ravelli, R.B.G., Paul van Schayck, J.P. van, Mykytyn, A.Z., Duimel,
+H.Q., et al. (2020). SARS-CoV-2 productively infects human gut enterocytes.
+Science 369, 50–54.
+
+Leslie, J.L., Huang, S., Opp, J.S., Nagy, M.S., Kobayashi, M., Young, V.B., and
+Spence, J.R. (2015). Persistence and toxin production by Clostridium difﬁcile
+within human intestinal organoids result in disruption of epithelial paracellular
+barrier function. Infect. Immun. 83, 138–145.
+
+Lindemans, C.A., Calaﬁore, M., Mertelsmann, A.M., O’Connor, M.H., Duda-
+kov, J.A., Jenq, R.R., Velardi, E., Young, L.F., Smith, O.M., Lawrence, G.,
+et al. (2015). Interleukin-22 promotes intestinal-stem-cell-mediated epithelial
+regeneration. Nature 528, 560–564.
+
+Lu, X., Xie, S., Ye, L., Zhu, L., and Yu, Q. (2020). Lactobacillus protects Against
+S. Typhimurium–induced intestinal inﬂammation by determining the fate of
+epithelial proliferation and differentiation. Mol. Nutr. Food Res. 64, e1900655.
+
+Lukovac, S., Belzer, C., Pellis, L., Keijser, B.J., de Vos, W.M., Montijn, R.C.,
+and Roeselers, G. (2014). Differential modulation by Akkermansia muciniphila
+and Faecalibacterium prausnitzii of host peripheral lipid metabolism and his-
+tone acetylation in mouse gut organoids. mBio 5, e01438-–14.
+
+Martini, E., Krug, S.M., Siegmund, B., Neurath, M.F., and Becker, C. (2017).
+Mend your fences: the epithelial barrier and its relationship with mucosal im-
+munity in inﬂammatory bowel disease. Cell. Mol. Gastroenterol. Hepatol.
+4, 33–46.
+
+Marzorati, M., Vanhoecke, B., De Ryck, T., Sadaghian Sadabad, M., Pinheiro,
+I., Possemiers, S., Van den Abbeele, P., Derycke, L., Bracke, M., Pieters, J.,
+et al. (2014). The HMITM module: a new tool to study the host-microbiota inter-
+action in the human gastrointestinal tract in vitro. BMC Microbiol 14, 133.
+
+Maurer, M., Gresnigt, M.S., Last, A., Wollny, T., Berlinghof, F., Pospich, R.,
+Cseresnyes, Z., Medyukhina, A., Graf, K., Gro¨ ger, M., et al. (2019). A three-
+dimensional immunocompetent intestine-on-chip model as in vitro platform
+for functional and microbial interaction studies. Biomaterials 220, 119396.
+
+McCracken, K.W., Cata´ , E.M., Crawford, C.M., Sinagoga, K.L., Schumacher,
+M., Rockich, B.E., Tsai, Y.H., Mayhew, C.N., Spence, J.R., Zavros, Y., and
+Wells, J.M. (2014). Modelling human development and disease in pluripotent
+stem-cell-derived gastric organoids. Nature 516, 400–404.
+
+Mu´ nera, J.O., Sundaram, N., Rankin, S.A., Hill, D., Watson, C., Mahe, M., Val-
+lance, J.E., Shroyer, N.F., Sinagoga, K.L., Zarzoso-Lacoste, A., et al. (2017).
+Differentiation of human pluripotent stem cells into colonic organoids via tran-
+sient activation of BMP signaling. Cell Stem Cell 21, 51–64.e6.
+
+Nagashima, K., Sawa, S., Nitta, T., Tsutsumi, M., Okamura, T., Penninger,
+J.M., Nakashima, T., and Takayanagi, H. (2017). Identiﬁcation of subepithelial
+mesenchymal cells that induce IgA and diversify gut microbiota. Nat. Immunol.
+18, 675–682.
+
+Naito, T., Mulet, C., De Castro, C.D., Molinaro, A., Saffarian, A., Nigro, G., Be´ -
+rard, M., Clerc, M., Pedersen, A.B., Sansonetti, P.J., and Pe´ dron, T. (2017).
+Lipopolysaccharide from crypt-speciﬁc core microbiota modulates the colonic
+epithelial proliferation-to-differentiation balance. mBio 8, e01680–17.
+
+Nakamoto, N., Sasaki, N., Aoki, R., Miyamoto, K., Suda, W., Teratani, T., Su-
+zuki, T., Koda, Y., Chu, P.S., Taniki, N., et al. (2019). Gut pathobionts underlie
+intestinal barrier dysfunction and liver T helper 17 cell immune response in pri-
+mary sclerosing cholangitis. Nat. Microbiol. 4, 492–503.
+
+Naumovska, E., Aalderink, G., Wong Valencia, C., Kosim, K., Nicolas, A.,
+Brown, S., Vulto, P., Erdmann, K.S., and Kurek, D. (2020). Direct on-chip dif-
+ferentiation of intestinal tubules from induced pluripotent stem cells. Int. J.
+Mol. Sci. 21, 4964.
+
+Neal, M.D., Sodhi, C.P., Jia, H., Dyer, M., Egan, C.E., Yazji, I., Good, M., Afrazi,
+A., Marino, R., Slagle, D., et al. (2012). Toll-like receptor 4 is expressed on in-
+testinal stem cells and regulates their proliferation and apoptosis via the p53
+up-regulated modulator of apoptosis. J. Biol. Chem. 287, 37296–37308.
+
+Cell Host & Microbe 29, June 9, 2021 877
+
+ll
+
+Nikolaev, M., Mitrofanova, O., Broguiere, N., Geraldo, S., Dutta, D., Tabata, Y.,
+Elci, B., Brandenberg, N., Kolotuev, I., Gjorevski, N., et al. (2020). Homeostatic
+mini-intestines through scaffold-guided organoid morphogenesis. Nature 585,
+574–578.
+
+Noel, G., Baetz, N.W., Staab, J.F., Donowitz, M., Kovbasnjuk, O., Pasetti, M.F.,
+and Zachos, N.C. (2017). A primary human macrophage-enteroid co-culture
+model to investigate mucosal gut physiology and host-pathogen interactions.
+Sci. Rep. 7, 45270.
+
+Nougayre` de, J.P., Homburg, S., Taieb, F., Boury, M., Brzuszkiewicz, E., Gott-
+schalk, G., Buchrieser, C., Hacker, J., Dobrindt, U., and Oswald, E. (2006). Es-
+cherichia coli Induces DNA double-strand breaks in eukaryotic cells. Science
+313, 848–851.
+
+Okkelman, I.A., Neto, N., Papkovsky, D.B., Monaghan, M.G., and Dmitriev, R.I.
+(2020). A deeper understanding of intestinal organoid metabolism revealed by
+combining ﬂuorescence lifetime imaging microscopy (FLIM) and extracellular
+ﬂux analyses. Redox Biol 30, 101420.
+
+Oliphant, K., Cochrane, K., Schroeter, K., Daigneault, M.C., Yen, S., Verdu,
+E.F., and Allen-Vercoe, E. (2020). Effects of antibiotic pretreatment of an ulcer-
+ative colitis-derived fecal microbial community on the integration of therapeu-
+tic bacteria in vitro. mSystems 5.
+
+Pleguezuelos-Manzano, C., Puschhof, J., Rosendahl Huber, A., van Hoeck, A.,
+Wood, H.M., Nomburg, J., Gurjao, C., Manders, F., Dalmasso, G., Stege, P.B.,
+et al. (2020). Mutational signature in colorectal cancer caused by genotoxic
+pks+ E. coli. Nature 580, 269–273.
+
+Qin, Y., and Wade, P.A. (2018). Crosstalk between the microbiome and epige-
+nome: messages from bugs. J. Biochem. 163, 105–112.
+
+Ranganathan, S., Doucet, M., Grassel, C.L., Delaine-Elias, B., Zachos, N.C.,
+and Barry, E.M. (2019). Evaluating Shigella ﬂexneri pathogenesis in the human
+enteroid model. Infect. Immun. 87, e00740–18.
+
+Round, J.L., and Mazmanian, S.K. (2009). The gut microbiota shapes intestinal
+immune responses during health and disease. Nat. Rev. Immunol. 9, 313–323.
+
+Rubinstein, M.R., Wang, X., Liu, W., Hao, Y., Cai, G., and Han, Y.W. (2013). Fu-
+sobacterium nucleatum promotes colorectal carcinogenesis by modulating E-
+cadherin/b-catenin signaling via its FadA adhesin. Cell Host Microbe 14,
+195–206.
+
+Sachs, N., Papaspyropoulos, A., Zomer-van Ommen, D.D., Heo, I., Bo¨ ttinger,
+L., Klay, D., Weeber, F., Huelsz-Prince, G., Iakobachvili, N., Amatngalim, G.D.,
+et al. (2019). Long-term expanding human airway organoids for disease
+modeling. EMBO J 38.
+
+Sambuy, Y., De Angelis, I., Ranaldi, G., Scarino, M.L., Stammati, A., and
+Zucco, F. (2005). The Caco-2 cell line as a model of the intestinal barrier: inﬂu-
+ence of cell and culture-related factors on Caco-2 cell functional characteris-
+tics. Cell Biol. Toxicol. 21, 1–26.
+
+Sarrabayrouse, G., Landolﬁ, S., Pozuelo, M., Willamil, J., Varela, E., Clark, A.,
+Campos, D., Herrera, C., Santiago, A., Machiels, K., et al. (2020). Mucosal mi-
+crobial load in Crohn’s disease: a potential predictor of response to faecal mi-
+crobiota transplantation. EBiomedicine 51, 102611.
+
+Sasaki, N., Miyamoto, K., Maslowski, K.M., Ohno, H., Kanai, T., and Sato, T.
+(2020). Development of a scalable coculture system for gut anaerobes and hu-
+man colon epithelium. Gastroenterology 159, 388–390.e5.
+
+Sato, T., Stange, D.E., Ferrante, M., Vries, R.G.J., Van Es, J.H., Van Den Brink,
+S., Van Houdt, W.J., Pronk, A., Van Gorp, J., Siersema, P.D., and Clevers, H.
+(2011). Long-term expansion of epithelial organoids from human colon, ade-
+noma, adenocarcinoma, and Barrett’s epithelium. Gastroenterology 141,
+1762–1772.
+
+Scanu, T., Spaapen, R.M., Bakker, J.M., Pratap, C.B., Wu, L.E., Hoﬂand, I.,
+Broeks, A., Shukla, V.K., Kumar, M., Janssen, H., et al. (2015). Salmonella
+manipulation of host signaling pathways provokes cellular transformation
+associated with gallbladder carcinoma. Cell Host Microbe 17, 763–774.
+
+Shah, P., Fritz, J.V., Glaab, E., Desai, M.S., Greenhalgh, K., Frachet, A., Nie-
+gowska, M., Estes, M., J€ager, C., Seguin-Devaux, C., et al. (2016). A microﬂui-
+dics-based in vitro model of the gastrointestinal human–microbe interface.
+Nat. Commun. 7, 11535.
+
+878 Cell Host & Microbe 29, June 9, 2021
+
+Review
+
+Shin, W., and Kim, H.J. (2018). Intestinal barrier dysfunction orchestrates the
+onset of inﬂammatory host–microbiome cross-talk in a human gut inﬂamma-
+tion-on-a-chip. Proc. Natl. Acad. Sci. USA 115, E10539–E10547.
+
+Spence, J.R., Mayhew, C.N., Rankin, S.A., Kuhar, M.F., Vallance, J.E., Tolle,
+K., Hoskins, E.E., Kalinichenko, V.V., Wells, S.I., Zorn, A.M., et al. (2011).
+Directed differentiation of human pluripotent stem cells into intestinal tissue
+in vitro. Nature 470, 105–109.
+
+Stubbendieck, R.M., Vargas-Bautista, C., and Straight, P.D. (2016). Bacterial
+communities: interactions to scale. Front. Microbiol. 7, 1234.
+
+Tao, L., Zhang, J., Meraner, P., Tovaglieri, A., Wu, X., Gerhard, R., Zhang, X.,
+Stallcup, W.B., Miao, J., He, X., et al. (2016). Frizzled protiens are colonic
+epithelial receptors for Clostridium difﬁcile toxin B. Nature 538, 350–355.
+
+Van den Abbeele, P., Grootaert, C., Marzorati, M., Possemiers, S., Verstraete,
+W., Ge´ rard, P., Rabot, S., Bruneau, A., El Aidy, S., Derrien, M., et al. (2010). Mi-
+crobial community development in a dynamic gut model is reproducible, colon
+region speciﬁc, and selective for Bacteroidetes and Clostridium Cluster IX.
+Appl. Environ. Microbiol. 76, 5237–5246.
+
+Walter, J., Armet, A.M., Finlay, B.B., and Shanahan, F. (2020). Establishing or
+exaggerating causality for the gut microbiome: lessons from human micro-
+biota-associated rodents. Cell 180, 221–232.
+
+Wilding, J.L., and Bodmer, W.F. (2014). Cancer cell lines for drug discovery
+and development. Cancer Res 74, 2377–2384.
+
+Wilke, G., Funkhouser-Jones, L.J., Wang, Y., Ravindran, S., Wang, Q., Beatty,
+W.L., Baldridge, M.T., VanDussen, K.L., Shen, B., Kuhlenschmidt, M.S., et al.
+(2019). A stem-cell-derived platform enables complete Cryptosporidium
+development
+in vitro and genetic tractability. Cell Host Microbe 26,
+123–134.e8.
+
+Williamson, I.A., Arnold, J.W., Samsa, L.A., Gaynor, L., DiSalvo, M., Cocchiaro,
+J.L., Carroll, I., Azcarate-Peril, M.A., Rawls, J.F., Allbritton, N.L., and Magness,
+S.T. (2018). A high-throughput organoid microinjection platform to study
+gastrointestinal microbiota and luminal physiology. Cell. Mol. Gastroenterol.
+Hepatol. 6, 301–319.
+
+Workman, M.J., Gleeson, J.P., Troisi, E.J., Estrada, H.Q., Kerns, S.J., Hino-
+josa, C.D., Hamilton, G.A., Targan, S.R., Svendsen, C.N., and Barrett, R.J.
+(2018). Enhanced utilization of induced pluripotent stem cell-derived human in-
+testinal organoids using microengineered chips. Cell. Mol. Gastroenterol. Hep-
+atol. 5, 669–677.e2.
+
+Yin, Y., Bijvelds, M., Dang, W., Xu, L., van der Eijk, A.A., Knipping, K., Tuysuz,
+N., Dekkers, J.F., Wang, Y., de Jonge, J., et al. (2015). Modeling rotavirus
+infection and antiviral therapy using primary intestinal organoids. Antiviral
+Res 123, 120–131.
+
+Yu, T.C., Guo, F., Yu, Y., Sun, T., Ma, D., Han, J., Qian, Y., Kryczek, I., Sun, D.,
+Nagarsheth, N., et al. (2017). Fusobacterium nucleatum promotes chemore-
+sistance to colorectal cancer by modulating autophagy. Cell 170, 548–
+563.e16.
+
+Zhang, Y.G., Wu, S., Xia, Y., and Sun, J.
+crypt-derived intestinal organoid culture system for host–bacterial
+tions. Physiol. Rep. 2.
+
+(2014). Salmonella-infected
+interac-
+
+Zheng, L., Kelly, C.J., and Colgan, S.P. (2015). Physiologic hypoxia and oxy-
+gen homeostasis in the healthy intestine. A Review in the theme: cellular Re-
+sponses to Hypoxia. Am. J. Physiol. Cell Physiol. 309, C350–C360.
+
+Zhou, J., Li, C., Liu, X., Chiu, M.C., Zhao, X., Wang, D., Wei, Y., Lee, A., Zhang,
+A.J., Chu, H., et al. (2020). Infection of bat and human intestinal organoids by
+SARS-CoV-2. Nat. Med. 26, 1077–1083.
+
+Zhou, J., Li, C., Zhao, G., Chu, H., Wang, D., Yan, H.H.-N., Poon, V.K.-M., Wen,
+L., Wong, B.H.-Y., Zhao, X., et al. (2017). Human intestinal tract serves as an
+alternative infection route for Middle East respiratory syndrome coronavirus.
+Sci. Adv. 3, eaao4966.
+
+Zimmermann, M., Zimmermann-Kogadeeva, M., Wegmann, R., and
+Goodman, A.L. (2019). Mapping human microbiome drug metabolism by gut
+bacteria and their genes. Nature 570, 462–467.
+
+

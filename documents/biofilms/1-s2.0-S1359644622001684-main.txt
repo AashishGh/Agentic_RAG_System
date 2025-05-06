@@ -1,0 +1,2047 @@
+Drug Discovery Today d Volume 27, Number 8 d August 2022
+
+REVIEWS
+
+Pharmaceutical strategies for the
+treatment of bacterial bioﬁlms in chronic
+wounds
+Karan Razdan a,b, Jorge Garcia-Lara c,d,e, V.R. Sinha b,⇑,
+Kamalinder K. Singh a,d,e,⇑
+
+)
+
+N
+E
+E
+R
+G
+
+(
+
+E
+T
+O
+N
+Y
+E
+K
+
+a School of Pharmacy and Biomedical Sciences, Faculty of Clinical and Biomedical Sciences,
+University of Central Lancashire, Preston PR1 2HE, UK
+b Pharmaceutics Division, University Institute of Pharmaceutical Sciences,
+UGC-Centre of Advanced Study, Panjab University, Chandigarh 160014, India
+c School of Medicine, Faculty of Clinical and Biomedical Sciences,
+University of Central Lancashire, Preston PR1 2HE, UK
+d UCLan Research Centre for Smart Materials, University of Central Lancashire,
+Preston PR1 2HE, UK
+e UCLan Research Centre for Translational Biosciences and Behavior,
+University of Central Lancashire, Preston PR1 2HE, UK
+
+are
+
+Bioﬁlms are sessile communities of microorganisms, mainly
+bacteria, that grow on biotic and abiotic surfaces. These
+microorganisms
+embedded within an extracellular
+polymeric substance that provides enhanced protection from
+antimicrobials. Chronic wounds provide an ideal habitat for
+bioﬁlm formation. Bacteria can easily attach to wound debris
+and can infect the wound due to an impaired host immune
+response. This review highlights the mechanism of bioﬁlm
+formation and the role of bioﬁlms in the pathophysiology of
+chronic wounds. Our major focus is on various formulation
+strategies and delivery systems that are employed to eradicate
+or disperse bioﬁlms, thereby effectively managing acute and
+chronic wounds. We also discuss clinical research that has
+studied or is studying the treatment of bioﬁlm-infected chronic
+wounds.
+
+Keywords: Bioﬁlms; Chronic wounds; Antibioﬁlm agents;
+Antimicrobial resistance; Bacterial infections; Drug delivery systems;
+Nanomaterials
+
+Karan Razdan is a B.Pharm and M.
+from Guru
+Pharm gold medalist
+Nanak Dev University, Amritsar, India.
+He is pursuing his Ph.D. in Pharma-
+ceutics from the University Institute
+of Pharmaceutical Sciences, Panjab
+University,
+India under the supervi-
+sion of Dr. V.R. Sinha. Karan was
+awarded the prestigious Common-
+wealth split site (PhD) scholarship
+(2019–2020) to study at the Univer-
+sity of Central Lancashire, Preston, UK
+under the guidance of Prof. Kamalinder K. Singh. His research
+focuses on the development of nano-formulations containing anti-
+bioﬁlm agents for the treatment of bioﬁlms in wound infections. He
+has 2 research papers, 4 review articles and 2 book chapters to his
+credit.
+
+Jorge Garcia-Lara is Senior lecturer
+in Microbiology and Director of MRes
+in Medical Sciences at the School of
+Medicine, University of Central Lan-
+cashire, Preston. His expertise is in
+the ﬁeld of infectious diseases, from
+the molecular
+intimate aspects of
+and cellular biology of bacterial
+pathogens to translation into novel
+prophylactics and therapies. With
+more than 40 publications and 6
+patents, he is an internationally rec-
+ognized ﬁgure in the ﬁeld, with extensive experience in academic
+and industry research developed in prestigious universities and
+research institutes in Europe and the USA.
+
+Sciences,
+
+V.R. Sinha is Professor of Pharma-
+ceutics at the University Institute of
+Pharmaceutical
+Panjab
+University,
+India. He has more than
+100 publications and one patent to
+his credit. He was also awarded a
+Cited
+Thomson
+Researcher award in 2014 in recog-
+nition of his ranking among the top
+1% of researchers in their speciﬁed
+ﬁelds. His area of research includes
+solid oral dosage forms, long-acting
+parenterals, and topical and trans-
+dermal drug delivery.
+
+Reuters Highly
+
+⇑ Corresponding authors at: School of Pharmacy and Biomedical Sciences, Faculty of Clinical and Biomedical Sciences, University of Central Lancashire, Preston PR1 2HE, UK (K.K. Singh)
+Sinha, V.R.
+and Pharmaceutics Division, University Institute of Pharmaceutical Sciences, UGC-Centre of Advanced Study, Panjab University, Chandigarh 160014, India (V.R. Sinha).
+(vrsinha@pu.ac.in), Singh, K.K. (ksingh1@uclan.ac.uk).
+
+1359-6446/(cid:1) 2022 The Authors. Published by Elsevier Ltd.
+https://doi.org/10.1016/j.drudis.2022.04.020This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/).
+
+www.drugdiscoverytoday.com 2137
+
+K
+E
+Y
+N
+O
+T
+E
+
+(
+
+G
+R
+E
+E
+N
+
+)
+
+KEYNOTE (GREEN)
+
+Drug Discovery Today d Volume 27, Number 8 d August 2022
+
+of
+
+School
+
+Pharmacy
+
+Kamalinder K. Singh is Professor of
+Pharmaceutical technology and drug
+delivery and School Research Lead at
+and
+the
+Biomedical Sciences, University of
+Central Lancashire, UK. She heads the
+Nanomedicine research group and is
+healthcare lead for the UCLan Centre
+of Smart Materials. With more than
+35 years of experience in academia,
+Prof. Singh has contributed signiﬁ-
+cantly to the ﬁelds of pharmaceutical
+technology, drug delivery and nanomedicine, authoring more than
+100 research articles, 18 patents, 12 book chapters and 60 mono-
+graphs. Her pioneering research has led to the development of
+many biocompatible nanoparticle-based platform technologies,
+which are exploited to deliver drugs across various biological bar-
+riers, with applications in human health and diseases.
+
+Introduction
+The serendipitous discovery of penicillin by Sir Alexander Flem-
+ing in 19281 transformed medicine and spearheaded the era of
+antibiotic discovery. The average life expectancy in the U.S.A
+alone rose from 47 years to around 78 years.2 Nevertheless, bac-
+teria have developed resistance to antimicrobials as a natural cop-
+ing mechanism that enables their survival, and thus, the menace
+of antimicrobial resistance (AMR) threatens to return human
+beings to a time when infectious diseases could again become
+the leading cause of mortality. The rise of AMR has been inﬂu-
+enced by the overuse and misuse of antibiotics. It is estimated
+that, by 2050, 10 million people may die from diseases caused
+by AMR strains alone, with an accompanying economic burden
+that could amount to US$100 trillion.3 The formation of bioﬁlms
+by bacteria is a signiﬁcant contributor to the development of
+AMR. According to the National Institutes of Health and the
+Center for Disease and Prevention, it is estimated that 65–80%
+of human infections are caused by bioﬁlms.4 A bioﬁlm is an orga-
+nized community of microorganisms, most commonly bacteria,
+attached to an abiotic or biotic surface. The community develops
+embedded within an extracellular polymeric substance (EPS)
+made of polysaccharides, proteins and DNAs that are secreted
+by the microorganisms themselves. The EPS accounts for 90%
+of the biomass of a bioﬁlm.5
+
+Infections that result from bioﬁlm formation are a serious
+threat to patients globally. Bioﬁlm formation mediates a diverse
+range of diseases, such as cystic ﬁbrosis, wound infections, otitis
+media, pneumonia, and osteomyelitis, that are formed on tissues
+and implanted devices.6 Chronic wounds, such as diabetic foot
+and pressure ulcers, are hotspots for bioﬁlm growth because
+necrotic tissue and debris permit the attachment of bacteria. This
+impairs the healing process and exacerbates the patient’s condi-
+tion.7 The treatment of all bioﬁlm-dependent clinical presenta-
+tions is particularly problematic because bacteria that are
+encased within a bioﬁlm may be 1000-fold more resistant to
+antibiotics than their planktonic counterparts.8
+
+Various antibiotics, such as fusidic acid, mupirocin and silver
+sulfadiazine, have been used to treat wound infections, but bio-
+ﬁlm formation hampers their antibacterial activity.
+In this
+regard, antibioﬁlm agents can offer exceptional advantages as
+they can be useful in disrupting the bioﬁlm matrix and in
+enhancing the efﬁcacy of antibiotics. The formulation of efﬁ-
+cient delivery systems that incorporate antibioﬁlm agents can
+
+2138 www.drugdiscoverytoday.com
+
+provide appropriate control of wound infections with better clin-
+ical outcomes. Following a brief introduction to the processes of
+wound healing and bioﬁlm formation and to the interplay
+between them, this review focuses on antibioﬁlm agents, drug
+delivery strategies, and clinical trials relating to the treatment
+of bioﬁlm-infected chronic wounds.
+
+Chronic wound pathophysiology
+A wound is any break or damage in the surface of the skin. It can
+range from a small cut to a large surgical or burn wound. Wound
+healing is a process that commences naturally and immediately
+in response to an injury. It is a well-coordinated and a complex
+process that involves a cascade of physiological responses elicited
+by various cell types.9 Acute wounds undergo uninterrupted
+repair, whereas ‘chronic wounds’ fail to heal due to interference
+in the orderly process that result from an infection or an under-
+lying serious illness. The wound healing process is summarized
+schematically in Fig. 1.
+
+When a wound fails to heal in the normal timeframe due to
+various factors such as vascular insufﬁciency, diabetes, ageing
+or infection, it is said to have become chronic.10 Chronic wounds
+are stuck in a vicious loop of hyperinﬂammation, evidenced by a
+2–3-fold increase in the accumulation of neutrophils and macro-
+phages and in the expression of tumor necrosis factor alpha
+(TNF-a), interleukin 1 beta (IL1-b) and other pro-inﬂammatory
+cytokines.11 An excess of neutrophils stimulates the overproduc-
+tion of reactive oxygen species (ROS), leading to direct damage to
+the extracellular matrix (ECM) and, eventually, to premature cell
+death.12 Moreover, the release of proteases such as elastase and
+matrix metalloproteinases (MMPs) such as neutrophil collage-
+nase (MMP-8) by neutrophils is enhanced in response to pro-
+longed inﬂammation signals.13 This results in the degradation
+of ECM components and growth factors, and impairs the action
+of antimicrobial peptides such as cathelicidins.13 The production
+of pro-inﬂammatory cytokines such as IL-1b and TNF-a by neu-
+trophils and activated macrophages also leads to a reduction in
+the accumulation of tissue inhibitors of MMPs (TIMPs). This
+exacerbates further degradation of the ECM and decreases ﬁbrob-
+last proliferation and collagen synthesis. Such an exhaustive and
+undesirable inﬂammatory response, combined with an impaired
+host response, perpetuates a deleterious cycle that prevents the
+healing of chronic wounds.
+
+Drug Discovery Today d Volume 27, Number 8 d August 2022
+
+KEYNOTE (GREEN)
+
+)
+
+N
+E
+E
+R
+G
+
+(
+
+E
+T
+O
+N
+Y
+E
+K
+
+FIG. 1
+Schematic description of the sequence of events in acute and chronic wound healing. ECM, extracellular matrix; EGF, Epidermal growth factor; FGF,
+Fibroblast growth factor; IL-1, Interleukin 1; MMP, matrix metalloproteinase; PDGF, Platelet-derived growth factor; TGF-b, Transforming growth factor b; TNF-a,
+Tumor necrosis factor a; VEGF, Vascular endothelial growth factor.
+
+Drug Discovery Today
+
+Vasculopathies such as venous hypertension, atherosclero-
+sis or periwound ﬁbrosis lead to local tissue hypoxia, which
+contributes to the perpetuation of chronic wounds. Enhanced
+expression of endothelial adhesion molecules in hypoxic tis-
+sue leads to extravasation of neutrophils and macrophages,
+which further promotes the synthesis of pro-inﬂammatory
+cytokines such as IL-1a, IL-1b, TNF-a. Moreover, the produc-
+tion of nitric oxide (NO), an antioxidant, is reduced in the
+hypoxic state, hindering the regulation of ROS formation.14
+re-epithelialization and ﬁbroblast
+Hypoxia
+proliferation.
+
+also impairs
+
+Types of chronic wounds
+Pressure (decubitus) ulcers
+Patients who have lost sensory perception or who are immobile
+(unconscious or paralyzed) cannot respond in a timely way to
+the need for repositioning. Therefore, their skin tissue may be
+susceptible to compression, particularly over bony prominences
+such as the hips and sacrum.15 This may lead to tissue necrosis
+as the result of localized ischemia and reperfusion, sustained cell
+deformation, and impaired interstitial ﬂuid ﬂow and lymphatic
+drainage.15 The skin breakdown is followed by bacterial coloniza-
+tion, which further interferes with angiogenesis, the deposition
+of ECM and other wound-healing processes, and chronic ulcers
+persist.16.
+
+Venous stasis ulcers
+More than half of lower-limb chronic wounds are venous stasis
+ulcers, which have higher prevalence in the elderly and in
+women.17 These ulcers manifest secondary to venous hyperten-
+sion as a result of venous thrombosis or damage in the valves
+of leg veins.18 An increase in the venous backpressure causes
+leakage of plasma macromolecules and ﬁbrin into the perivascu-
+lar space. Fibrin accumulation impairs collagen synthesis and
+disrupts the normal function of the vessel by forming peri-
+capillary ﬁbrin cuffs.19 The ﬁbrosis and oedema retard the circu-
+lation of oxygen and nutrients into the wound tissue, creating a
+hypoxic environment. All of these events lead to skin breakdown
+and eventually to chronic ulcers.
+
+Arterial ulcers
+Arterial ulcers occur due to hypoxic and ischemic damage to dis-
+tal tissues that results from the narrowing of the arterial lumen
+due to atherosclerosis and/or embolism.20 Major risk factors for
+the peripheral occlusion of arteries in the legs include smoking,
+hypertension, diabetes and hypercholesterolemia. Ulcers can
+result from minor trauma to an affected area.
+
+Diabetic foot ulcers
+Diabetic ulcers are a grave complication of diabetes that result
+from the pathogenic triad of ischemia, neuropathy and trauma.
+Loss of sensation in the feet due to diabetes-associated peripheral
+
+www.drugdiscoverytoday.com 2139
+
+KEYNOTE (GREEN)
+
+Drug Discovery Today d Volume 27, Number 8 d August 2022
+
+neuropathy, augmented by disrupted perfusion, enhances the
+risk of ulceration from recurrent mechanical strain.21 Moreover,
+the accumulation of advanced glycation end-products (AGEs)
+due to metabolic disarray, induces oxidative stress and escalates
+ECM stiffness.22 A chronic inﬂammatory state perpetuates,
+which most often leads to limb amputations.
+
+Mechanism of bacterial bioﬁlm formation
+Within the complex architecture of bioﬁlms, bacteria are
+shielded and develop adaptive responses to hostile environmen-
+tal conditions that enable them to endure desiccation or starva-
+tion, evade the host immune system, or develop increased
+resistance to antibiotics.23 The bioﬁlm matrix that acts as a
+cocoon for bacteria is composed of exopolysaccharides, proteins
+and extracellular DNA (eDNA). The polysaccharide composition
+varies across species, for instance, Pseudomonas aeruginosa pro-
+duces three types of exopolysaccharides: alginate, Pel and Psl.
+Alginate is responsible for providing mechanical stability to
+mature bioﬁlms, whereas Pel and Psl take part in the early stages
+of
+Poly-N-
+acetylglucosamine (PNAG) provides structural integrity to bio-
+ﬁlms of Staphylococcus epidermidis.5
+
+bioﬁlm formation by non-mucoid
+
+strains.
+
+K
+E
+Y
+N
+O
+T
+E
+
+(
+
+G
+R
+E
+E
+N
+
+)
+
+Cell-surface-associated
+
+extracellular
+carbohydrate-binding proteins (lectins) are a few of the many
+
+proteins
+
+and
+
+proteins found among the EPS. The galactose-speciﬁc lectin LecA
+and the fucose-speciﬁc lectin Lecb of P. aeruginosa, as well as
+glucan-binding proteins of Streptococcus mutans, have been
+linked to bioﬁlm formation.
+
+Another signiﬁcant and integral component of the EPS is
+eDNA, which serves various roles in bioﬁlm formation in differ-
+ent bacterial species. eDNA serves as an intercellular connector
+in P. aeruginosa bioﬁlms, whereas it provides structural integrity
+to Staphylococcus aureus bioﬁlms. In Bacillus cereus bioﬁlms, eDNA
+acts as an adhesion molecule.5 The signiﬁcance of eDNA for
+structural stability is typically shown by the DNase-mediated dis-
+integration of bioﬁlms.24
+
+The formation of a bioﬁlm is a multistep dynamic process
+comprising of four stages: (i) attachment of bacteria to a surface,
+(ii) microcolony formation, (iii) bioﬁlm maturation, and (iv)
+detachment or dispersal (Fig. 2).25
+
+The initial attachment of bacteria consists of reversible and
+irreversible stages. The free-ﬂoating planktonic bacteria loosely
+adhere to the substratum through the weak van der Waals,
+hydrophobic and/or electrostatic forces.26–27 Bacteria that utilize
+ﬂagella to overcome the hydrodynamic and repulsive forces that
+may act against attachment have a competitive advantage. Adhe-
+sins secreted by bacteria, which are present at the tips of extracel-
+lular appendages (pili, ﬂagella and ﬁmbriae), mediate adherence
+
+FIG. 2
+Stages of biofilm formation on the wound surface, and antibiofilm agents and strategies for biofilm inhibition and/or dispersal. C-di-GMP, cyclic
+dimeric guanosine monophosphate; EPS, extracellular polymeric substance.
+
+2140 www.drugdiscoverytoday.com
+
+Drug Discovery Today
+
+)
+
+N
+E
+E
+R
+G
+
+(
+
+E
+T
+O
+N
+Y
+E
+K
+
+Drug Discovery Today d Volume 27, Number 8 d August 2022
+
+KEYNOTE (GREEN)
+
+to the surface.28 Once the attachment is secured, signals for a
+change in gene expression are triggered, leading to the upregula-
+tion of factors that are implicated in the formation of EPS. Bacte-
+ria begin to produce EPS, which further strengthen their
+attachment to each other and to the substratum. They start to
+divide and form microcolonies in response to cell–cell communi-
+cation. This cellular crosstalk is referred to as quorum sensing
+(QS). The QS mechanism involves signaling molecules that bind
+to response regulators and lead to the regulation of many genes,
+including those encoding for bacterial virulence factors.29 QS
+molecules are called autoinducers (AIs). Gram-negative bacteria
+produce N-acyl-homoserine lactones (AHLs) as AIs, whereas
+Gram-positive bacteria use autoinducing peptide (AIP), and both
+bacteria also use AI-2-based signaling.30–31 With the inception of
+colonization, the microcolonies further enlarge and enhance the
+production of EPS.5 Further recruitment of microbial cells, along
+with deposition of organic and inorganic solutes, results in the
+bioﬁlm maturation.
+
+After complete establishment of a bioﬁlm, detachment and
+dispersal take place to allow the colonization of new niches by
+the bacteria. The dispersal process, which can be active or pas-
+sive, involves environmental signals, signal transduction path-
+ways and effectors. Active dispersal is mediated by the bacteria
+themselves, whereas passive dispersal is mediated by the external
+forces such as ﬂuid shear.32 Bacteria produce matrix-degrading
+enzymes, such as glycosidases and proteases, that support the
+active dispersal of the bioﬁlm. One of the most-studied intracel-
+lular signaling molecules is cyclic-diguanyl monophosphate (c-
+di-GMP), reduced levels of which induce bioﬁlm dispersal.33
+Daughter cells may detach individually or as clumps containing
+thousands of bacteria due to the shearing of surrounding ﬂuids
+or changes in the surface properties of substratum. The released
+cells carry and retain the characteristics of the parent bioﬁlm
+and reform on a new or existing substratum.34 In this way, the
+process of new bioﬁlm formation begins, and the cycle
+continues.
+
+Bioﬁlms in chronic wounds
+Many factors which can delay wound healing, but bioﬁlm forma-
+tion is of utmost importance. In 2008, James et al.7 identiﬁed bio-
+ﬁlms in clinical specimens from chronic and acute wounds using
+both light microscopy and scanning electron microscopy (SEM).
+Evidence of the presence of bioﬁlms in ulcerated burn wound
+areas was found by Kennedy et al.35 in 2010 using electron and
+light microscopy. In 2011, Neut et al.36 found dense aggregates
+of bacterial colonies surrounded by EPS in patients with diabetic
+ulcers. Chronic wounds provide an ideal habitat for bioﬁlm for-
+mation. Bacteria can easily attach to wound debris and infect
+the wound due to impaired host immune response.37 The pres-
+ence of bioﬁlm affects the function of cutaneous-cellular and
+immune cells. It acts as a physical barrier to neutrophil and
+macrophage penetration and prevents the active killing of bacte-
+ria. P. aeruginosa bacteria have been reported to lyse the neu-
+trophils that come into close contact with them via QS system
+factors.38 In addition, rhamnolipids that are produced by bacte-
+ria have been reported to prevent the phagocytosis of bacteria
+by neutrophils.39 Ciszek-Lenda et al.40 demonstrated that P.
+
+aeruginosa (PAR5 strain) bioﬁlm contained high concentrations
+of extracellular DNA and lipo-polysaccharide (LPS), and that
+phagocytes (neutrophils and macrophages) that were exposed
+to this microenvironment secreted inﬂammatory mediators such
+as TNF-a, IL-6 and PGE2, thereby inducing a hyperinﬂammatory
+state that caused tissue damage.
+
+Wound repair depends on a ﬁne balance between the activi-
+ties of proteases and their inhibitors. MMPs are zinc-dependent
+proteases that digest ECM and mediate the inﬂux of reparative
+ﬁbroblasts, called keratinocytes.41 TIMPs keep the level of MMPs
+in check by downregulating the levels of proinﬂammatory cyto-
+kines. In chronic wounds, however, this balanced regulatory sys-
+tem goes awry and excessive cleavage of unintended targets, such
+as growth factors and cytokines, ensues.42 This signiﬁcantly
+hampers the repair process. The presence of bioﬁlm has been
+shown to augment the production of MMP-1 and MMP-3 by ker-
+atinocytes.43 Concentrations of MMP-1 and MMP-8 have been
+demonstrated to be increased in chronic venous ulcers that are
+infected with S. aureus and P. aeruginosa.44 Thermolysin protease
+secreted by P. aeruginosa activates MMP-1, MMP-8 and MMP-9.45
+
+Antibioﬁlm agents
+Bioﬁlms at the wound sites can be addressed in two ways: either
+by preventing their formation or by the disruption of already
+established bioﬁlms. Bioﬁlm formation can be prevented by
+modifying either the surface or the microbial cells themselves
+to inhibit the attachment of bacteria. Pre-conditioning of the
+surface with surfactants or conferring surface hydrophobicity
+can help to inhibit the bioﬁlm formation.46–47 Pre-formed bio-
+ﬁlms can be damaged by disruption of the bioﬁlm matrix and
+its subsequent detachment. Bioﬁlms can be detached by three
+approaches: sloughing, erosion or seeding dispersal.48 Sloughing
+involves the removal of lumps of bioﬁlm from the surfaces by
+stripping-off bioﬁlm mass, whereas erosion is the slow and con-
+tinuous detachment of small portions of the bioﬁlm. Seeding dis-
+persal is an active process in which single bacterial cells from the
+central bioﬁlm region are discharged rapidly.48 Herein, we focus
+on agents that destroy pre-formed bioﬁlms, with their targets
+and modes of action listed in Table 1.
+
+Delivery systems for antibioﬁlm agents to promote
+wound healing
+The main aim of wound treatment is to maintain a moist and
+clean environment, to manage pain and to address comorbidities
+that aggravate the wound. The systemic treatment of infection
+faces complexities such as drug interactions, systemic adverse
+effects, and insufﬁcient drug concentrations at the local wound
+site. Moreover, the use of systemic antibiotics to treat certain
+types of chronic wounds, such as diabetic ulcers or wounds that
+involve the presence of a bioﬁlm, is not preferred because it is not
+supported by adequate evidence.49–50 Topical delivery of antibi-
+otics has been used extensively for wound infections. This deliv-
+ery strategy provides higher local drug concentrations and avoids
+the need for high-dose systemic exposure by reducing the
+amount of antibiotic required to kill the bacteria.51 Nevertheless,
+the presence of bioﬁlm in chronic wounds limits the effective-
+ness of topical antibiotic treatment. The EPS in bioﬁlms act as
+
+www.drugdiscoverytoday.com 2141
+
+Drug Discovery Today d Volume 27, Number 8 d August 2022
+
+KEYNOTE (GREEN)
+
+TABLE 1
+
+Antibiofilm agents and their modes of action.
+
+Antibioﬁlm agents
+
+Mode of action
+
+K
+E
+Y
+N
+O
+T
+E
+
+(
+
+G
+R
+E
+E
+N
+
+)
+
+Quorum sensing (QS)
+
+inhibitors
+
+Extracellular polymeric
+substance (EPS)-
+degrading enzymes
+
+Surfactants
+
+Fatty acids (FAs)
+
+Metal chelators
+
+Nitric oxide (NO)
+
+Antimicrobial peptides
+
+(AMPs)
+
+QS signaling can be dampened by the quorum quenching (QQ) of
+enzymes and molecules. QQ can be achieved by the degradation of
+QS signals, which in turn would suppress QS-regulated phenotypes
+such as virulence and bioﬁlm formation.
+Dispersin B (DspB), a bacterial glycoside hydrolase produced by
+Actinobacillus actinomycetemcomitans, cleaves poly-b 1,6-N-
+acetylglucosamine (PNAG), a major polysaccharide of EPS that is
+involved in the surface attachment, bioﬁlm establishment and
+antimicrobial resistance (AMR). Deoxyribonuclease I (DNase I)
+degrades eDNA present in the EPS and cell-surface-associated nucleic
+acids that function as surface adhesins and that inhibit the initial
+attachment of bacterial cells.
+Rhamnolipids that are produced by Pseudomonas aeruginosa have
+been reported to induce the dispersal of bioﬁlm through the
+formation of central hollow cavities.
+FAs can control bioﬁlm formation by functioning as signal molecules.
+For example, cis-11-methyl-2-dodecenoic acid, a diffusible signal
+factor (DSF) produced by Xanthomonas campestris, is capable of
+causing bioﬁlm dispersion by endoglucanase synthesis leading to EPS
+degradation.
+Ethylenediaminetetraacetic acid (EDTA) chelates Mg2+ and Ca2+ from
+the outer cell wall of Gram-negative bacteria and destabilizes the
+negative charge of lipopolysaccharides (LPS).
+NO-generating agents, such as sodium nitroprusside (SNP), have been
+shown to trigger bioﬁlm dispersal by shifting bacterial growth from
+bioﬁlm mode to planktonic state. This shift is induced by a reduction
+in the intracellular levels of cyclic dimeric guanosine monophosphate
+(c-di-GMP).
+These are small molecules (10–100 amino acids) produced by all living
+beings that play an important role in innate immunity. AMPs
+permeabilize microbial membranes mainly because of their cationic
+nature, which affects the transmembrane potential, resulting in cell
+death. AMPs can also downregulate QS systems, Las and Rhl.
+
+Examples
+
+Azithromycin, bergamottin, usnic
+acid, quercetin, ellagic acid
+
+References
+80–83
+
+Dispersin B, Deoxyribonuclease I
+
+84–85
+
+Poloxamer-188, Tween 20, sodium
+dodecyl sulfate, rhamnolipids
+
+Caprylic acid, palmitic acid,
+myristoleic acid
+
+EDTA
+
+Sodium nitroprusside, S-nitroso-L-
+glutathione, S-nitroso-N-acetyl
+penicillamine
+
+Nisin A, human cathelicidin LL-37,
+human b-defensin 3, hepcidin 20
+
+86–87
+
+88–90
+
+91–92
+
+93–94
+
+95–97
+
+a physical barrier to antibiotics and immune cells. Furthermore,
+the bacterial cells that reside within bioﬁlm are in a dormant
+metabolic state and antibiotics are ineffective against them as
+these agents only target metabolically active cells.7 Therefore,
+the topical delivery of antibioﬁlm agents alone and/or in combi-
+nation with antibiotics can be of great therapeutic value in the
+treatment of chronic wound infections. The presence of antibio-
+ﬁlm agents in the delivery system will disperse the bioﬁlm while
+simultaneously allowing the antibiotics to target the previously
+unexposed bacterial cells (Fig. 3). In this section, we highlight
+various delivery systems containing different bioactive agents
+for the treatment of chronic wound infections. The delivery sys-
+tems are classiﬁed primarily into hydrogels, nanoﬁbers, ﬁlms,
+and nanoscale materials.
+
+Hydrogels
+Hydrogels are a popular choice as wound dressings because of
+their biocompatibility, ﬂexibility, and high-water content
+(96%). Polymers such as polyvinyl alcohol, poloxamers, chi-
+tosan, gelatin, and carbomers are commonly used to prepare
+hydrogels.52 These hydrogels do not dissolve in water because
+of the physical and chemical cross-linking that causes their
+constituents to form a polymeric network.53 Hydrogels keep
+the wound moist, absorb wound exudate and have a soothing
+
+2142 www.drugdiscoverytoday.com
+
+effect on painful chronic ulcers.54 Thus, hydrogels are suitable
+for the delivery of antibiotics and antibioﬁlm agents for manag-
+ing bioﬁlms in chronic wounds. The release of the bioactive
+agents can be prolonged by modulating the polymeric compo-
+sition of the hydrogel. This can achieve a sustained effect that
+could reduce the frequency of dressing change and could regu-
+late the exposure of the bacteria to sub-inhibitory concentra-
+tions of antibiotics. Antibioﬁlm agents can be incorporated
+directly into the hydrogel or can be delivered via incorporation
+that are embedded into the
+into other delivery systems
+hydrogels.
+
+Thapa et al.55 formulated a hybrid hydrogel called ‘GarKS gel’,
+which was composed of Pluronic F127 (PF127) liposomes loaded
+with ethylenediaminetetraacetic acid (EDTA), glutathione (GSH),
+and the bacteriocin Garvicin KS (GarKS). Bacteriocins are antimi-
+crobial peptides (AMPs) that are synthesized by bacteria. The gel
+was found to inhibit (cid:1) 82% of S. aureus bioﬁlm in vitro, as deter-
+mined by crystal violet assay, in comparison to just (cid:1) 18% inhi-
+bition by a blank gel. The S. aureus Xen-31 infected mouse
+wound model was subsequently used for in vivo evaluation of
+the hydrogel, with the antibacterial effects being assessed using
+an IVIS Lumina II imaging system to measure the luminescence
+of bacteria present in the wound site. A single treatment with the
+GarKS gel showed an (cid:1) 12-fold reduction in bacterial lumines-
+
+Drug Discovery Today d Volume 27, Number 8 d August 2022
+
+KEYNOTE (GREEN)
+
+)
+
+N
+E
+E
+R
+G
+
+(
+
+E
+T
+O
+N
+Y
+E
+K
+
+FIG. 3
+Antibiofilm agents and antibiotics, alone or incorporated within nanoparticles (NPs), are released from topical carriers such as nanofibers,
+hydrogels or films. The initial interactions with the biofilm matrix can be electrostatic or hydrophobic. NPs have a large surface area because of their small
+size, which faclitates their penetration into the biofilm matrix. The transport of the active agents including nanoscale materials can be affected by the
+viscosity, flow and density of the extracellular polymeric substance (EPS). The antibiofilm agents disrupt the matrix structure and break the biofilm apart.
+Once within the matrix, the NPs interact with bacterial cells and act upon various targets as determined by their composition.
+
+Drug Discovery Today
+
+cence at day 1 post-treatment when treated and untreated groups
+were compared.55
+
+Neff et al.56 assessed the activity of two synthetically engi-
+neered cationic AMPs (ASP-1 and ASP-2) loaded in a chitosan
+matrix against bioﬁlms of P. aeruginosa and methicillin-
+resistant S. aureus (MRSA), which were grown on polyethylene
+terepthalate (PET) mesh and porcine skin for 24 h and 72 h,
+respectively. The ASP-1 gel eradicated P. aeruginosa bioﬁlm and
+both AMP gels eradicated MRSA bioﬁlms from the PET mesh sub-
+strate within one day. Both gels decreased MRSA counts in the
+porcine skin by 4–7 log10 within the ﬁrst day of treatment, and
+similar results were obtained over days 2 and 3 of treatment.
+By comparison, the commercially available silver gel Opticell
+Ag showed < 1 log10 reduction over a 3-day period. This can be
+attributed to the sustained release of AMPs from the chitosan
+matrix and the maintenance of AMP stability.56
+
+Chhibber et al.57 prepared a novel topical gel containing the
+antibiotic moxiﬂoxacin, as well as the antibioﬁlm agents chi-
+tosan and EDTA, and evaluated its efﬁcacy in MRSA-infected
+
+burn wounds in mice in comparison to a conventional gel con-
+taining moxiﬂoxacin only. The novel gel caused a 3.5 log10
+reduction in bacterial count at 24 h post-infection (compared
+with a 2.8 log10 reduction for the conventional gel) and demon-
+strated better wound-healing potential.57
+
+Deoxyribonuclease-I (DNase-I) has been proven to be an efﬁ-
+cacious antibioﬁlm agent as it hydrolyzes the extracellular DNA
+found in bioﬁlms. Patel et al.58 prepared silver-sulfadiazine-
+loaded solid lipid nanoparticles (SSD-SLNs) and incorporated
+them into a DNase-I-containing chitosan gel. When compared
+to pure SSD, this combined formulation had reduced ﬁbroblast
+toxicity in human dermal ﬁbroblast (HDF) cell lines. When used
+in combination with DNase-I, SSD-SLNs produced 96.8% inhibi-
+tion of P. aeruginosa bioﬁlm, whereas a combination of SSD and
+DNase-I produced 82.9% inhibition. Confocal microscopic anal-
+ysis revealed a reduction in the thickness of the bioﬁlm treated
+with the SSD-SLNs DNase formulation. The incorporation of
+DNase in the SSD-SLN gel resulted in complete wound healing
+after 21 days when tested on burn wounds in rats.58
+
+www.drugdiscoverytoday.com 2143
+
+KEYNOTE (GREEN)
+
+Drug Discovery Today d Volume 27, Number 8 d August 2022
+
+K
+E
+Y
+N
+O
+T
+E
+
+(
+
+G
+R
+E
+E
+N
+
+)
+
+Silver nanoparticles (AgNPs) have been reported to have anti-
+bioﬁlm properties, but their success has been constrained by
+their toxicity and susceptibility to aggregation in the wound
+environment. To overcome these shortcomings, Haidari et al.59
+developed a biocompatible hydrogel that was loaded with ultra-
+small AgNPs that provided favorable controlled-release character-
+istics. They evaluated this hydrogel using a S. aureus Xen-29
+infected full-thickness mature bioﬁlm mouse wound model.
+Xenogen IVIS bioluminescent live animal imaging was used to
+image the infected wounds. The AgNPs were found to
+be < 3 nm in size and the AgNP hydrogel showed sustained
+release of silver ions for up to 24 h. The treatment of infected
+wounds with the AgNP hydrogel resulted in quicker wound clo-
+sure (46% vs. 20% for SSD) and accelerated wound re-
+epithelization (60%) as determined by the histological analysis.
+Furthermore, the AgNP hydrogel treatment signiﬁcantly reduced
+the S. aureus bacterial load on day 10 ((cid:1)5 (cid:3) 106 photons/s for the
+AgNP hydrogel in comparison to (cid:1) 2 (cid:3) 107 photons/s for SSD or
+blank hydrogel treatment).59
+
+In another excellent study, Wang et al.60 developed an inno-
+vative pH-switchable supramolecular hydrogel system using an
+amphipathic synthetic octapeptide (IKFQFHFD). The octapep-
+tide formed a hydrogel at the neutral pH of 7.4 owing to inter-
+molecular electrostatic interactions between the lysine (K) and
+aspartate (D) residues at opposite ends of the octapeptide, and
+p-p stacking conferred by the three phenylalanines (F). In a
+wound environment, with an acidic pH of 5.5, the network
+was destabilized by the protonation of aspartate. This led to an
+antimicrobial effect as a result of the release of IKFQFHFD, which
+has an AMP-like structure. The hydrogel was able to prevent the
+formation of MRSA bioﬁlm, as conﬁrmed by crystal violet assay,
+although it was unable to eradicate pre-formed MRSA bioﬁlm.
+Complete eradication of pre-formed MRSA bioﬁlm was observed
+when the hydrogel was loaded with cypate, a cyanine dye that
+possesses photothermal properties when under near-infrared
+irradiation. Irradiation of the hydrogel system loaded with
+cypate and proline (hydrogel-Cy-Pro) eradicated the MRSA bio-
+ﬁlm and resulted in complete healing of MRSA-bioﬁlm-infected
+full-thickness wounds in diabetic mice within 20 days, as demon-
+strated by the Gram-staining of the wound tissues and a reduc-
+tion in the TNF-a expression. Complete re-epithelialization and
+enhanced collagen deposition was observed in the infected
+wounds treated with hydrogel-Cy-Pro, thus showing the poten-
+tial of this treatment as a future therapy for MRSA-bioﬁlm-
+infected chronic wounds.60
+
+Waite et al.61 evaluated the antibioﬁlm activity of an
+advanced device (NOx) for chronic wound treatment. This
+device comprised a primary mesh layer and secondary hydrogel
+layer that were capable of generating 3 mmol/cm2 of nitric oxide
+when placed in contact with each other for a period of 48 h. The
+NOx dressing was able to prevent the formation of P. aeruginosa
+and S. aureus bioﬁlms on nitrocellulose ﬁlters, with bioﬁlm cell
+densities reduced signiﬁcantly from 4 (cid:3) 108 CFU/ﬁlter for the
+placebo dressing to 50 CFU/ﬁlter for the NOx dressing. The
+NOx dressing was also able to disrupt pre-formed bioﬁlms and
+reduced the bacterial population to levels that were not detect-
+able. When compared to untreated and placebo-treated polymi-
+crobial bioﬁlms, NOx also reduced both MRSA and P.
+
+2144 www.drugdiscoverytoday.com
+
+aeruginosa populations by 5.3 log10 and 4.1 log10, respectively,
+at 24 h post-inoculation. In the same comparison, the pyocyanin
+and elastase activities of P. aeruginosa PA5 were also reduced 1.9-
+and 3.2-fold, respectively. The clinical signiﬁcance of the reduc-
+tion in these virulence factors could have signiﬁcant therapeutic
+implications for wound healing because these factors promote
+tissue damage.61
+
+Richter et al.62 prepared chitosan-dextran hydrogels contain-
+ing deferiprone (Def) (an iron chelator) and the heme analog
+gallium-protoporphyrin (GaPP), either alone or in combination
+with the antibiotic ciproﬂoxacin (Cip), and evaluated their activ-
+ity against bioﬁlms of S. aureus, P. aeruginosa and a clinical MRSA
+isolate grown on an artiﬁcial wound model. The artiﬁcial wounds
+were composed of hyaluronic acid (HA), collagen, bovine
+plasma, Bolton broth and horse blood. Reductions of up to 0.5
+log10 and 0.2 log10 were observed with the Def gel and the GaPP
+gel, respectively, at a concentration of 500 mg/ml. When com-
+pared to a blank gel, a gel containing a combination of Def, GaPP
+and Cip showed signiﬁcant antibioﬁlm activity, with a 0.7 log10
+reduction in both S. aureus and MRSA bioﬁlms, as well as a 1.9
+log10 reduction in a P. aeruginosa bioﬁlm. Thus, a combination
+therapy involving an antibioﬁlm agent with an antibiotic holds
+promise for future therapies against chronic wounds.62
+
+Mupirocin is a topical antibiotic that is active against Gram-
+positive bacteria, including MRSA. Hurler et al.63 prepared liposo-
+mal mupirocin, which has been reported to possess antibioﬁlm
+activity against S. aureus, and enhanced the penetration of the
+drug through the bacterial bioﬁlm. The liposomal formulation
+was further incorporated into a chitosan hydrogel, which func-
+tioned as a vehicle and also to provide additional wound-
+healing effect. The liposomal mupirocin was not toxic to HaCaT
+cells at the highest investigated concentration of 100 mg/ml, and
+it was able to prevent the formation of bioﬁlm by S. aureus as
+determined by resazurin and crystal violet assay. Nevertheless,
+liposomal mupirocin was only able to cause a 50% reduction in
+viability when applied 18 h post bioﬁlm establishment at a con-
+centration of 405 mM. The liposomal mupirocin hydrogel
+showed faster healing in comparison to a marketed formulation
+(Bactroban), albeit with similar efﬁcacy. This study shows that
+chitosan hydrogel embedded with liposomal mupirocin is effec-
+tive in preventing the formation of bioﬁlms and in enhancing
+the wound healing process.63
+
+Nanoﬁbers
+Nanoﬁbers are nanometer-scale ﬁbers that are prepared using
+various techniques, such as self-assembly, solution blowing and
+electrospinning.64 They show promise in wound healing due to
+their enhanced cell attachment, which is related to their high
+surface-to-volume ratio and high porosity. Nanoﬁber scaffolds
+also aid in cell proliferation as they mimic the structure of the
+ECM and promote re-epithelialization and wound closure. More-
+over, the porous nature of nanoﬁbers allows them to adsorb the
+wound exudate and provide exchange of the nutrients.65 They
+also have the beneﬁt of improved drug loading. A wide range
+of biodegradable polymers, such as chitosan, polycaprolactone,
+poly(lactic-co-glycolic acid), polyvinyl alcohol, cellulose and
+non-biodegradable polymers such as poly(acrylates), have been
+used to synthesize nanoﬁbers.
+
+)
+
+N
+E
+E
+R
+G
+
+(
+
+E
+T
+O
+N
+Y
+E
+K
+
+Drug Discovery Today d Volume 27, Number 8 d August 2022
+
+KEYNOTE (GREEN)
+
+Su et al.66 fabricated Pluronic F127-polycaprolactone (PCL)
+core–shell nanoﬁbers encapsulating engineered human catheli-
+cidin peptide 17BIPHE2. As this peptide is water soluble, co-
+axial spinning was used to encapsulate it within the core. The
+core–shell structure allowed the peptide to retain its biological
+activity when present in the wound environment. The ﬁbers pro-
+vided an initial burst and subsequent sustained release of the
+peptide over a period of 28 days. When full-thickness excision
+wounds infected with MRSA in type 2 diabetic mice were treated
+on a daily basis with peptide-loaded ﬁber dressings for a period of
+7 days, there was a 5.01 log10 reduction in bacterial count with-
+out debridement as compared to placebo dressings. With
+debridement prior to administration of the dressing, no colonies
+were detected in the wounds (10.24 log10 reduction). Similarly,
+mice infected with P. aeruginosa bioﬁlms showed a 3.61 log10
+reduction in bacterial count as compared to placebo dressing
+after daily treatment for a period of 3 days without debridement.
+With debridement prior to administration of the dressing, no
+colonies were detected in wounds (10.75 log10 reduction). More-
+over, the level of inﬂammation was substantially reduced, as evi-
+denced by the wound tissue histology. This
+study thus
+demonstrated the antibioﬁlm efﬁcacy and wound-healing poten-
+tial of nanoﬁber dressings loaded with an AMP.66
+
+An electrospun zein–PCL triple layered (3L) ﬁbrous dressing
+encapsulating tetracycline (Tet) was developed by Alhusein
+et al.67 These authors evaluated the dressing against preformed
+bioﬁlms of MRSA in vitro and ex vivo using a pig skin model.
+The triple layer was developed to reduce the burst release
+observed with single layer matrices. The outer layers act as a dif-
+fusion barrier to prolong the drug release. The zein–PCL blend
+aided in conferring stability to the ﬁbres, as zein ﬁbres on their
+own lost ﬁbre structure upon coming in contact with the buffer
+medium. The zein–PCL 3L nanoﬁbres had released 50% of their
+encapsulated Tet after 24 h and were able to release up to 60% of
+the Tet after 15 days. The 3L matrix was able to reduce the bio-
+mass of the MRSA bioﬁlm in vitro by 90% after 24 h of incuba-
+tion, as determined using a crystal violet assay. When treated
+with zein–PCL 3L nanoﬁbres for 24 h, pig skin harboring an
+MRSA bioﬁlm that had been grown for over 5 days demonstrated
+reduction from 100% (untreated sample) to 19 % of CFU/skin
+sample. These nanoﬁbres were also found to be non-toxic to
+FEK4 ﬁbroblast cells.
+
+Films
+Films are commonly used as dressings for low exudative and
+postoperative wounds. They are made semi-permeable so as to
+allow ventilation of the wound. Gaseous exchange across ﬁlms
+is measured in terms of moisture vapor transmission rate
+(MVTR). This exchange avoids the accumulation of moisture
+under the dressing and prevents tissue maceration at wound
+sites. Most ﬁlms are designed to have a high MVTR. Films have
+the advantages of being transparent and conforming to the con-
+tours of ﬂexible body parts such as knees and elbows due to their
+elasticity. Nevertheless, they are only well suited for shallow
+wounds as they are too thin to be applied to the deep wounds.68
+Choi et al.69 evaluated the antibioﬁlm and wound-healing
+efﬁcacy of a nitric oxide (NO)-releasing chitosan ﬁlm (CS–NO
+ﬁlm) in MRSA bioﬁlm-infected full-thickness wounds in diabetic
+
+mice. The CS–NO ﬁlm demonstrated 3-fold higher antibioﬁlm
+activity in vitro in comparison to control and chitosan ﬁlms. Fur-
+thermore, the CS–NO ﬁlm produced faster dispersal of bioﬁlm (at
+day 12 post-injury) in vivo as compared to control (bioﬁlm
+growth visible on day 15 post-injury) and CS ﬁlm-treated groups
+(at day 15 post-injury). The percentage of initial wound area
+remaining at day 15 post-injury was 5.8% and 40.6% for CS–
+NO ﬁlm and CS ﬁlm, respectively. This indicates the importance
+of bioﬁlm dispersal in escalating the wound-healing process.69
+
+In another study, Yang et al.70 formulated a benzalkonium
+chloride (BZL)-loaded novel nanoscale liquid ﬁlm-forming sys-
+tem (LFFS) using polyvinyl alcohol (PVA) and chitosan (CS). A
+LFFS formulated using 5% PVA and 1% CS loaded with 5 mg/
+ml of BZL was able to decrease the minimal inhibitory concentra-
+tion (MIC) from 5 mg/ml to 1.43 mg/ml. The viable bacteria were
+reduced by 81%, as compared to 60% by BZL solution, on day 7
+of treatment of full-thickness wounds in mice infected with
+MRSA. Complete wound healing was observed with LFFS on
+day 14. Moreover, LFFS–BZL treatment markedly damaged the
+MRSA bioﬁlm, whereas BZL treatment mildly affected the bioﬁlm
+structure, as determined by crystal violet assay, electron micro-
+scopy and confocal microscopy analysis. After treatment with
+LFFS, 45.33% of live bacteria were found within bioﬁlm, in com-
+parison to 85.82% after BZL treatment, when observed under a
+confocal microscope using the LIVE/DEAD Baclight kit.70
+
+Nanoscale materials
+Owing to their size (1–100 nm), nanoscale materials (NMs) can
+penetrate and deliver antibioﬁlm agents
+into tissues and
+bioﬁlms.71 Moreover, NMs that bear a positive charge can inter-
+act more efﬁciently with negatively charged bacterial cells. They
+can be synthesized from wide array of materials such as poly-
+mers, metals and metal oxides. NMs can include inorganic
+nanocomposites, dendrimers, silica nanoparticles, and polymeric
+micelles. Silver (Ag)-based NMs possess inherent antibacterial
+properties. NMs can induce DNA damage and membrane disrup-
+tion through the production of ROS. Metabolic pathways have
+been reported to be disrupted by interactions between NMs
+and the thiol groups of proteins.72
+
+Metal oxides
+Ghaseminezhad et al.73 fabricated Ag–Fe3O4 nanocomposites
+(NCs) that can penetrate and eradicate bioﬁlms upon application
+of a magnetic ﬁeld. Ag–Fe3O4 NCs were synthesized using starch
+as a stabilizer and a linker between Ag and Fe3O4 NPs that
+enhances their antibacterial properties and reduces their cytotox-
+icity. The NCs had a particle size of < 20 nm. As analyzed under a
+confocal microscope by Live/Dead staining, Ag–Fe3O4 NCs erad-
+icated > 90% of bioﬁlm bacteria in vitro when a magnetic ﬁeld
+was applied. Upon application of a magnetic ﬁeld, NCs were also
+able to kill S. aureus bacteria and eradicate a S. aureus bioﬁlm
+grown within collagen matrix containing calf serum, which
+mimicked the chronic wound bed. The magnetic ﬁeld allows
+the penetration of NCs within the collagen and bioﬁlm matrix,
+thus enhancing their efﬁcacy. Ag–Fe3O4 NCs were found to be
+less cytotoxic to human ﬁbroblast cells than Ag-NPs, and thus
+demonstrate better safety.73
+
+www.drugdiscoverytoday.com 2145
+
+KEYNOTE (GREEN)
+
+Dendrimers
+
+K
+E
+Y
+N
+O
+T
+E
+
+(
+
+G
+R
+E
+E
+N
+
+)
+
+Dendrimers are synthetic molecules that have a highly branched
+and star-shaped structure. They have a narrow size distribution
+and antimicrobial peptides can be used to prepare dendrimers.
+Dendrimerization of AMPs enhances their activity by protecting
+the AMPs against proteases and providing a high local concentra-
+tion of bioactive units. Grassi et al.74 evaluated a dendrimeric
+derivative of
+the semi-synthetic antimicrobial peptide lin-
+SB056-1 [(lin-SB056-1)2-K] against bioﬁlms of P. aeruginosa
+PAO1 and of two clinical burn wound isolates (2091 and
+2549). This evaluation was performed using an in vitro wound
+model composed of a dermis-like scaffold embedded with blood
+components at physiological levels. Dendrimerization of the
+AMP maintained its activity at a high physiological salt concen-
+tration, which would otherwise be a limiting factor for the AMP
+activity. The scaffold was composed of two layers: the upper layer
+consisting of high-molecular-weight (HWA) HA and the lower
+layer made up of HMW HA, low-molecular-weight (LMW) HA
+and collagen. The dendrimeric derivative exhibited remarkable
+antibioﬁlm activity against both P. aeruginosa PAO1 and 2091
+strains at a concentration of 19.25 mM, decreasing the number
+of viable bacteria by up to 1 log-unit after 16 h of incubation.74
+Graphene oxide
+
+Graphene-based nanomaterials have limited water solubility and
+are usually applied as contact-killing coatings on surfaces. Di
+Giulio et al.75 evaluated the antibioﬁlm effect of graphene oxide
+(GO) dispersion on bioﬁlms formed by clinical isolates of S. aur-
+eus and P. aeruginosa obtained from the wounds of patients suf-
+fering from chronic venous leg ulcers. A signiﬁcant reduction
+
+Drug Discovery Today d Volume 27, Number 8 d August 2022
+
+in biomass was observed in viable counts for S. aureus, which
+decreased from 8.63 to 6.89 log10 CFU/ml. The bioﬁlms became
+detached from the walls of the plate, illustrating the penetrative
+capacity of GO.75
+Nanoscale emulsions
+‘Nanoscale emulsion’ (NE) is an umbrella term for emulsions that
+have globule size in the nanometer range, which include both
+micro- and nano-emulsions. Microemulsions have been reported
+to possess antibioﬁlm activity even without the incorporation of
+other antibioﬁlm agents. Razdan et al.76 developed a levoﬂoxacin
+(LFX)-incorporated clove oil nanoscale emulsion (LFX-NE) and
+demonstrated its in vitro antibioﬁlm activity against P. aeruginosa
+bioﬁlm. Clove oil was selected for its antibioﬁlm activity and as
+the oil phase of the NE. The particle size of the LFX-NE was found
+to be 18.84 ± 0.5 nm. It showed high antibacterial activity, and
+ﬁeld emission scanning electron microscopy and confocal micro-
+scopy revealed the destruction of a pre-formed mature bioﬁlm of
+P. aeruginosa by LFX-NE at its MIC and minimum bactericidal
+concentration (MBC).76
+
+Clinical studies
+Clinical studies of two of the patented antimicrobial dressings
+developed by ConvaTec Ltd. UK, which are based on
+HydroﬁberTM technology, have shown very high efﬁcacy in
+bioﬁlm-harboring chronic wounds.77 The efﬁcacy of the AQUA-
+CEL Ag + dressing was evaluated for bioﬁlm eradication and
+wound healing in patients across the UK and Ireland. AQUACEL
+Ag + is used to manage the exudate and employs ionic silver and
+antibioﬁlm agents to control the infection and bioﬁlm. The
+
+TABLE 2
+
+Clinical trials of antibiofilm agents for the management of chronic wounds.
+
+ClinicalTrials.gov
+identiﬁer
+
+Status
+
+Year
+
+Study details
+
+NCT02228122
+
+Completed
+
+2014
+
+The main aim of this pilot study was to assess the effect of the Aquacel Ag + Extra
+dressing on bioﬁlms in chronic wounds for a period of 4 weeks in comparison to a non-
+treatment group.
+
+NCT04079998
+
+Completed
+
+NCT03686904
+
+Active, not
+recruiting
+
+NCT03248154
+
+Withdrawn (did not
+receive funding)
+
+NCT03461783
+
+Completed
+
+2019
+
+2146 www.drugdiscoverytoday.com
+
+2020 A parallel, randomized, controlled clinical study aimed at evaluating the antibioﬁlm
+
+efﬁcacy of the FDA-approved wound dressing Procellera(cid:3) in comparison to the
+standard treatment for acute trauma and burn wounds. The dressing contains a silver-
+zinc electro-couple that generates a weak electrical ﬁeld upon being activated by a
+moist wound environment. The efﬁcacy is assessed by determining the bacterial load
+(colony forming units (CFU)) and by visualization of the bioﬁlm using scanning electron
+microscopy (SEM) of tissue biopsies taken after a week of treatment.
+
+2018 A parallel, randomized, controlled clinical study designed to examine the effect of
+
+benzalkonium irrigation solution and benzalkonium gel (BlastXTM) on bioﬁlms in
+chronic wounds, in comparison to saline irrigation and standard hydrocolloid gel
+following debridement. The study will be carried out for 12 weeks with at least four
+follow-up visits, and wounds will be assessed for size and signs of infection (by
+measurement of CFUs).
+
+2022 A parallel, open label, randomized, controlled clinical study that will determine the
+
+implications of bioﬁlm infections in burn wounds. A total of 300 subjects will be
+enrolled and divided into three age groups: 2–18 years old, 18–49 years old
+and (cid:4) 50 years. There will be three arms, and subjects in arm 2 will receive standard
+dressing or Procellera(cid:3). At days 0, 3, 7, 14, 21 and 28, burn wound size, blood cytokine
+levels and laser doppler imaging determination will be carried out on tissue biopsies.
+This parallel, open label, randomized, controlled clinical study aimed to assess the
+effect of the Zorﬂex(cid:3) activated carbon cloth dressing on bioﬁlms in wounds of the
+lower extremities and feet. The dressing conforms to the contours of the wound and
+provides an antimicrobial effect for a minimum of 7 days per dressing. (Results not yet
+available.)
+
+Reference
+
+98
+
+99
+
+100
+
+101
+
+102
+
+)
+
+N
+E
+E
+R
+G
+
+(
+
+E
+T
+O
+N
+Y
+E
+K
+
+Drug Discovery Today d Volume 27, Number 8 d August 2022
+
+KEYNOTE (GREEN)
+
+HydroﬁberTM dressing consists of two layers of sodium car-
+boxymethylcellulose strengthened by regenerated cellulose ﬁber.
+The Hydroﬁber transforms into a gel upon coming into contact
+with the wound ﬂuid. The dressing incorporates a metal-
+chelating component (EDTA) and a surfactant component (ben-
+zethonium chloride) as antibioﬁlm agents, allowing ionic silver
+to access bacteria that are embedded within the bioﬁlm matrix.78
+The study involved a total of 29 patients (19 males and 9
+females) selected from eight healthcare facilities across the UK
+and Ireland, who were suffering from chronic wounds such as
+leg ulcers and diabetic foot ulcers. The clinicians were advised
+to replace the primary dressing with AQUACEL Ag + dressings
+for up to 4 weeks. At baseline, seven wounds (24%) were found
+to be deteriorating and 21 wounds (72%) were stagnant. After a
+median period of 4.5 weeks, the wound status changed from
+deteriorating/stagnant to improved, and the tissue type of the
+wound bed improved to mainly granulation tissue (53%) from
+previously bioﬁlm/sloughy tissue (76%). Out of 29 wounds, 26
+reduced in size or healed completely. Hence, the AQUACEL
+Ag + dressing was found to be highly effective because of the
+absorption of wound exudate and the subsequent immobiliza-
+tion of bacteria by the gelling of sodium carboxymethylcellulose,
+coupled with a reduction in wound bioburden caused by ionic
+silver. Moreover, disruption of bioﬁlm, due to the detergent-
+like action of benzethonium chloride and metal chelation by
+EDTA, signiﬁcantly enhanced the effectiveness of the dressing.
+In another study by Metcalf and Bowler,79 the AQUACEL
+Ag + ExtraTM dressing was evaluated in 65 patients suffering from
+chronic wounds that were previously managed unsuccessfully
+using conventional silver- or iodine-containing dressings. This
+dressing is 9 times stronger and has 50% more absorbing capacity
+than the AQUACEL Ag + dressing. The wounds ranged in dura-
+tion from 1 week to 20 years, with median wound duration of
+12 months. Of the 65 chronic wounds, 47 (72%) were stagnant
+and 15 (23%) were deteriorating at baseline. Bioﬁlm was associ-
+ated with 57% (n = 37) of the chronic wounds. The clinicians
+were advised to replace the primary dressing with the AQUACEL
+Ag + ExtraTM dressing. After an average of 4.2 weeks, 11 wounds
+(17%) healed completely, 40 wounds (62%) improved, while 9
+wounds (14%) remained as they were and 5 wounds (8%) deteri-
+orated.79 These studies demonstrate that chronic wounds that
+harbor bioﬁlms can be managed successfully with the proper
+use of appropriate novel dressings that are designed to deliver
+antibioﬁlm and antimicrobial agents in combination. Other clin-
+ical studies related to the treatment of bioﬁlms related chronic
+wounds that are either completed or still underway or recruiting
+are summarized in Table 2.
+
+Concluding remarks
+It has been a little over a decade since bioﬁlms were found to be
+present in the clinical wound specimens. Since then, extensive
+
+References
+
+1. Fleming A. On the antibacterial action of cultures of a penicillium, with special
+J Exp Pathol
+
+inﬂuenzae. Br
+
+reference to their use in the isolation of B.
+1929;10:226.
+
+research has been undertaken to reveal the mechanism of bioﬁlm
+formation and to ﬁnd treatment strategies for bioﬁlm-infected
+wounds. Bioﬁlms are particularly important in the context of
+public health, as conventional antibiotics and treatment strate-
+gies are unable to treat such infections. This contributes to the
+burden on patients, both ﬁnancially and emotionally. The treat-
+ment of chronic wounds constitutes a major part of healthcare
+budgets, and bioﬁlms are a major obstacle in the progression of
+non-healing wounds. In addition to debridement, the current
+approach for treating chronic wounds involves the systemic or
+topical administration of antibiotics for long periods. Therefore,
+it is imperative that effective ways are found to ﬁght bioﬁlms and
+to promote wound healing. Various studies have explored versa-
+tile antibioﬁlm agents, ranging from the simple sugar xylitol to
+complex natural compounds. Some of these, such as such as xyl-
+itol, EDTA and Dispersin B, have been found to be highly
+effective.
+
+Antibioﬁlm agents have been reported to be very efﬁcacious
+when used in conjunction with antibiotics. Even the best of
+molecule is ineffective, without a proper delivery system. Various
+pharmaceutical drug delivery strategies have been developed to
+treat bioﬁlm-infected non-healing wounds. These delivery sys-
+tems have therapeutic potential to provide a platform for altering
+the wound care paradigm in the near future. A range of delivery
+systems, including hydrogels, nanoﬁbers and ﬁlms, have shown
+a lot of promise in co-delivering the antibiotic along with an
+antibioﬁlm agent. Owing to their prolonged contact and sus-
+tained delivery of the drugs, these systems also aid in promoting
+wound healing by alleviating the impaired host
+immune
+response as the bioﬁlm infection starts to get cleared. Some
+recent clinical trials have shown better management of chronic
+wounds with these novel dressings. Furthermore, nanoparticle-
+based systems have shown an enhanced ability to penetrate
+the bioﬁlms and to eradicate them effectively. Bioactive-loaded
+nanoparticles that are embedded in hydrogels or nanoﬁbers hold
+promise as future therapies. Further research and clinical trials
+should be carried out in this area of unmet clinical need, which
+continues to pose a signiﬁcant challenge to healthcare systems.
+Continually emerging novel wound dressing technologies, com-
+bined with nanomaterial-based drug delivery systems, have the
+potential to improve treatment outcomes in patients who have
+bioﬁlm-infected chronic wounds.
+
+Conflict of interest
+The authors declare that they have no conﬂict of interest.
+
+Acknowledgements
+
+One of the authors, Karan Razdan, acknowledges the ﬁnancial
+assistance provided by the Department of Science and Technol-
+ogy, New Delhi, India (DST INSPIRE JRF (IF170172). Authors
+are grateful to the Commonwealth Scholarship Commission,
+UK (INCN-2019-380) for their ﬁnancial support.
+
+2. Centers for Disease Control and Prevention (CDC). National Centre for Health
+Statistics. Life Expectancy. https://www.cdc.gov/nchs/fastats/life-expectancy.
+htm. Accessed February 5, 2022.
+
+www.drugdiscoverytoday.com 2147
+
+K
+E
+Y
+N
+O
+T
+E
+
+(
+
+G
+R
+E
+E
+N
+
+)
+
+KEYNOTE (GREEN)
+
+Drug Discovery Today d Volume 27, Number 8 d August 2022
+
+3. O’Neill J. Review on antimicrobial resistance, tackling drug-resistant infections
+globally: ﬁnal report and recommendations. London: Wellcome Trust and UK
+Government. https://wellcomecollection.org/works/thvwsuba/items. Published
+May, 2016. Accessed January 27, 2022.
+
+4. D. Sharma, L. Misba, A. Khan, Antibiotics versus bioﬁlm: an emerging
+battleground in microbial communities, Antimicrob Resist Infect Control 8
+(2019) 76, https://doi.org/10.1186/s13756-019-0533-3.
+
+5. H.C. Flemming, J. Wingender, The bioﬁlm matrix, Nat Rev Microbiol 8 (2010)
+
+623–633, https://doi.org/10.1038/nrmicro2415.
+
+6. M.R. Parsek, P.K. Singh, Bacterial bioﬁlms: an emerging link to disease
+pathogenesis, Annu Rev Microbiol 57 (2003) 677–701, https://doi.org/
+10.1146/annurev.micro.57.030502.090720.
+
+30. S.P. Diggle, K. Winzer, A. Lazdunski, P. Williams, M. Cámara, Advancing the
+quorum in Pseudomonas aeruginosa: MvaT and the regulation of N-
+acylhomoserine lactone production and virulence gene expression, J Bacteriol
+184 (2002) 2576–2586.
+
+31. M. Kleerebezem, L.E. Quadri, O.P. Kuipers, W.M. de Vos, Quorum sensing by
+peptide pheromones and two-component signal-transduction systems in Gram-
+positive bacteria, Mol Microbiol 24 (1997) 895–904, https://doi.org/10.1046/
+j.1365-2958.1997.4251782.x.
+
+32. C. Solano, M. Echeverz, I. Lasa, Bioﬁlm dispersion and quorum sensing, Curr
+Opin Microbiol 18 (2014) 96–104, https://doi.org/10.1016/j.mib.2014.02.008.
+33. J.B. Kaplan, Bioﬁlm dispersal: mechanisms, clinical implications, and potential
+
+therapeutic uses, J Dent Res 89 (2010) 205–218.
+
+7. G.A. James, E. Swogger, R. Wolcott, E.L. Pulcini, P. Secor, J. Sestrich, et al.,
+Bioﬁlms in chronic wounds, Wound Repair Regen 16 (2008) 37–44, https://doi.
+org/10.1111/j.1524-475X.2007.00321.x.
+
+34. T. Romeo, When the party is over: a signal for dispersal of Pseudomonas
+aeruginosa bioﬁlms, J Bacteriol 188 (2006) 7325–7327, https://doi.org/10.1128/
+JB.01317-06.
+
+8. S.L. Percival, K.E. Hill, S. Malic, D.W. Thomas, D.W. Williams, Antimicrobial
+tolerance and the signiﬁcance of persister cells in recalcitrant chronic wound
+bioﬁlms, Wound Repair Regen 19 (2011) 1–9, https://doi.org/10.1111/j.1524-
+475X.2010.00651.x.
+
+9. T. Velnar, T. Bailey, V. Smrkolj, The wound healing process: an overview of the
+
+cellular and molecular mechanisms, J Int Med Res 37 (2009) 1528–1542.
+10. R. Nunan, K.G. Harding, P. Martin, Clinical challenges of chronic wounds:
+searching for an optimal animal model to recapitulate their complexity, Dis
+Models Mech 7 (2014) 1205–1213.
+
+11. S.A. Eming, T. Krieg, J.M. Davidson, Inﬂammation in wound repair: molecular
+
+and cellular mechanisms, J Invest Dermatol 127 (2007) 514–525.
+
+12. T.N. Demidova-Rice, M.R. Hamblin, I.M. Herman, Acute and impaired wound
+healing: pathophysiology and current methods for drug delivery, part 1: normal
+and chronic wounds: biology, causes, and approaches to care, Adv Skin Wound
+Care 25 (2012) 304–314.
+
+13. T.A. Wilgus, S. Roy, J.C. McDaniel, Neutrophils and wound repair: positive
+
+actions and negative reactions, Adv Wound Care 2 (2013) 379–388.
+
+14. A. Soneja, M. Drews, T. Malinski, Role of nitric oxide, nitroxidative and
+
+oxidative stress in wound healing, Pharmacol Rep 57 (2005) 108–119.
+
+15. C. Bansal, R. Scott, D. Stewart, C.J. Cockerell, Decubitus ulcers: a review of the
+
+literature, Int J Dermatol 44 (2005) 805–810.
+
+16. F. Liao, S. Burns, Y.K. Jan, Skin blood ﬂow dynamics and its role in pressure
+
+ulcers, J Tissue Viability 22 (2013) 25–26.
+
+17. M.A. Fonder, G.S. Lazarus, D.A. Cowan, B. Aronson-Cook, A.R. Kohli, A.J.
+Mamelak, Treating the chronic wound: a practical approach to the care of
+nonhealing wounds and wound care dressings, J Am Acad Dermatol 58 (2008)
+185–206, https://doi.org/10.1016/j.jaad.2007.08.048.
+
+18. M. Wlaschek, K. Scharffetter-Kochanek, Oxidative stress in chronic venous leg
+
+ulcers, Wound Repair Regen 13 (2005) 452–461.
+
+19. J.T. Trent, A. Falabella, W.H. Eaglstein, R.S. Kirsner, Venous ulcers: pathophys-
+
+iology and treatment options, Ostomy Wound Manag 51 (2005) 38–54.
+
+20. P.A. Bonham, Assessment and management of patients with venous, arterial,
+and diabetic/neuropathic lower extremity wounds, AACN Clin Issues 14 (2003)
+442–456.
+
+21. R. Gary Sibbald, K.Y. Woo, The biology of chronic foot ulcers in persons with
+
+diabetes, Diabetes Metab Res Rev 24 (2008) S25–S30.
+
+22. M. Peppa, P. Stavroulakis, S.A. Raptis, Advanced glycoxidation products and
+impaired diabetic wound healing, Wound Repair Regen 17 (2009) 461–472.
+23. J.W. Costerton, A short history of the development of the bioﬁlm concept, in:
+M. Ghannoum, G. O’Toole (Eds.), Microbial bioﬁlms, ASM Press, Washington,
+DC, 2004, pp. 4–19.
+
+24. C.B. Whitchurch, T. Tolker-Nielsen, P.C. Ragas, J.S. Mattick, Extracellular DNA
+
+required for bacterial bioﬁlm formation, Science 295 (2002) 1487.
+
+25. M. Kostakioti, M. Hadjifrangiskou,
+
+development, dispersal, and therapeutic strategies in the dawn of
+postantibiotic era, Cold Spring Harb Perspect Med 3 (2013) a010306.
+
+S.J. Hultgren, Bacterial bioﬁlms:
+the
+
+26. R. Briandet, J.M. Herry, M.N. Bellon-Fontaine, Determination of the van der
+Waals, electron donor and electron acceptor surface tension components of
+static Gram-positive microbial bioﬁlms, Colloids Surf B Biointerfaces 21 (2001)
+299–310, https://doi.org/10.1016/s0927-7765(00)00213-7.
+
+27. H. Takahashi, T. Suda, Y. Tanaka, B. Kimura, Cellular hydrophobicity of Listeria
+monocytogenes involves initial attachment and bioﬁlm formation on the
+surface of polyvinyl chloride, Lett Appl Microbiol 50 (2010) 618–625.
+
+28. O.E. Petrova, K. Sauer, Sticky situations: key components that control bacterial
+
+surface attachment, J Bacteriol 194 (2012) 2413–2425.
+
+29. W.C. Fuqua, S.C. Winans, E.P. Greenberg, Quorum sensing in bacteria: the
+J
+family of cell density-responsive transcriptional
+
+regulators,
+
+LuxR-LuxI
+Bacteriol 176 (1994) 269–275.
+
+2148 www.drugdiscoverytoday.com
+
+35. P. Kennedy, S. Brammah, E. Wills, Burns, bioﬁlm and a new appraisal of burn
+https://doi.org/10.1016/j.
+(2010)
+
+49–56,
+
+sepsis,
+
+Burns
+
+36
+
+wound
+burns.2009.02.017.
+
+36. D. Neut, E.J. Tijdens-Creusen, S.K. Bulstra, H.C. van der Mei, H.J. Busscher,
+Bioﬁlms in chronic diabetic foot ulcers-a study of 2 cases, Acta Orthop 82 (2011)
+383–385, https://doi.org/10.3109/17453674.2011.581265.
+
+37. R.D. Wolcott, D.D. Rhoads, S.E. Dowd, Bioﬁlms and chronic wound
+
+inﬂammation, J Wound Care 17 (2008) 333–341.
+
+38. P. Martin, S.J. Leibovich, Inﬂammatory cells during wound repair: the good, the
+bad and the ugly, Trends Cell Biol 15 (2005) 599–607, https://doi.org/10.1016/j.
+tcb.2005.09.002.
+
+39. A.K. Seth, M.R. Geringer, A.N. Gurjala, J.A. Abercrombie, P. Chen, T. You, et al.,
+Understanding the host inﬂammatory response to wound infection: an in vivo
+study of Klebsiella pneumoniae in a rabbit ear wound model, Wound Repair
+Regen 20 (2012) 214–225.
+
+40. M. Ciszek-Lenda, M. Strus, M. Walczewska, G. Majka, A. Machul-
+
+_
+Zwirbla, D.
+Mikołajczyk, et al., Pseudomonas aeruginosa bioﬁlm is a potent inducer of
+phagocyte hyperinﬂammation, Inﬂamm Res 68 (2019) 397–413, https://doi.
+org/10.1007/s00011-019-01227-x.
+
+41. N.J. Trengove, M.C. Stacey, S. Macauley, N. Bennett, J. Gibson, F. Burslem, et al.,
+Analysis of the acute and chronic wound environments: the role of proteases
+and their inhibitors, Wound Repair Regen 7 (1999) 442–452.
+
+42. D.G. Armstrong, E.B. Jude, The role of matrix metalloproteinases in wound
+
+healing, J Am Podiatr Med Assoc 92 (2002) 12–18.
+
+43. G. Zhao, M.L. Usui, R.A. Underwood, P.K. Singh, G.A. James, P.S. Stewart, et al.,
+Time course study of delayed wound healing in a bioﬁlm-challenged diabetic
+mouse model, Wound Repair Regen 20 (2012) 342–352.
+
+44. R. Serra, R. Grande, G. Buffone, V. Molinari, P. Perri, A. Perri, et al., Extracellular
+matrix assessment of
+role of
+infected chronic venous
+metalloproteinases and inﬂammatory cytokines, Int Wound J 13 (2016) 53–58.
+45. T. Okamoto, T. Akaike, M. Suga, S. Tanase, H. Horie, S. Miyajima, et al.,
+Activation of human matrix metalloproteinases by various bacterial
+proteinases, J Biol Chem 272 (1997) 6059–6066.
+
+leg ulcers:
+
+46. Tang P, Zhang W, Wang Y, Zhang B, Wang H, Lin C, et al. Effect of
+superhydrophobic surface of titanium on Staphylococcus aureus adhesion. J
+Nanomater 2011;178921. doi:10.1155/2011/178921.
+
+47. S. Kim, U.T. Jung, S.K. Kim, J.H. Lee, H.S. Choi, C.S. Kim, et al., Nanostructured
+multifunctional surface with antireﬂective and antimicrobial characteristics,
+ACS Appl Mater Interfaces 7 (2015) 326–331.
+
+48. S.K. Kim, J.H. Lee, Bioﬁlm dispersion in Pseudomonas aeruginosa, J Microbiol 54
+
+(2016) 71–75.
+
+49. G.R. Seabrook, C.E. Edmiston, D.D. Schmitt, C. Krepel, D.F. Bandyk, J.B. Towne,
+Comparison of serum and tissue antibiotic levels in diabetes-related foot
+infections, Surgery 110 (1991) 671–676.
+
+50. S. O’Meara, N. Cullum, M. Majid, T. Sheldon, Systematic reviews of wound care
+management: (3) antimicrobial agents for chronic wounds; (4) diabetic foot
+ulceration, Health Technol Assess 4 (2000) 1–237.
+
+51. K. Razdan, V.R. Sinha, K.K. Singh, New paradigms in the treatment of skin
+infections: lipid nanocarriers to the rescue, in: M. Rahman, S. Beg, V. Kumar, F.
+J. Ahmad (Eds.), Nanomedicine for bioactives, Springer, Singapore, 2020:317–
+39., https://doi.org/10.1007/978-981-15-1664-1_11.
+
+52. N.A. Peppas, J.Z. Hilt, A. Khademhosseini, R. Langer, Hydrogels in biology and
+medicine: from molecular principles to bionanotechnology, Adv Mater 18
+(2006) 1345–1360.
+
+53. S.J. Rinehart, T. Campbell, K.J. Burke, B. Garcia, A. Mlynarski, S.J. Brain,
+Synthesis and characterization of a chitosan/PVA antimicrobial hydrogel
+J Microb
+nanocomposite for
+Biochem Technol 8 (2016) 65–67.
+
+responsive wound management materials,
+
+)
+
+N
+E
+E
+R
+G
+
+(
+
+E
+T
+O
+N
+Y
+E
+K
+
+Drug Discovery Today d Volume 27, Number 8 d August 2022
+
+KEYNOTE (GREEN)
+
+54. J. Boateng, O. Catanzano, Advanced therapeutic dressings for effective wound
+
+healing—a review, J Pharm Sci 104 (2015) 3653–3680.
+
+55. R.K. Thapa, H.C. Winther-Larsen, K. Ovchinnikov, H. Carlsen, D.B. Diep, H.H.
+Tønnesen, Hybrid hydrogels for bacteriocin delivery to infected wounds, Eur J
+Pharm Sci 166 (2021), https://doi.org/10.1016/j.ejps.2021.105990 105990.
+56. J.A. Neff, D.F. Bayramov, E.A. Patel, J. Miao, Novel antimicrobial peptides
+formulated in chitosan matrices are effective against bioﬁlms of multidrug-
+resistant wound pathogens, Mil Med 185 (2020) 637–643.
+
+57. T. Chhibber, V.S. Gondil, V.R. Sinha, Development of chitosan-based hydrogel
+containing antibioﬁlm agents for the treatment of Staphylococcus aureus-
+infected burn wound in mice, AAPS PharmSciTech 21 (2020) 43, https://doi.
+org/10.1208/s12249-019-1537-2.
+
+58. K.K. Patel, D.B. Surekha, M. Tripathi, M.M. Anjum, M.S. Muthu, R. Tilak, et al.,
+Antibioﬁlm potential of silver sulfadiazine-loaded nanoparticle formulations: a
+study on the effect of DNase-I on microbial bioﬁlm and wound healing activity,
+Mol Pharm 16 (2019) 3916–3925.
+
+59. H. Haidari, R. Bright, S. Garg, K. Vasilev, A.J. Cowin, Z. Kopecki, Eradication of
+mature bacterial bioﬁlms with concurrent improvement in chronic wound
+healing using silver nanoparticle hydrogel treatment, Biomedicines 9 (2021)
+1182.
+
+60. J. Wang, X.Y. Chen, Y. Zhao, Y. Yang, W. Wang, C. Wu, et al., pH-Switchable
+antimicrobial nanoﬁber networks of hydrogel eradicate bioﬁlm and rescue
+stalled healing in chronic wounds, ACS Nano 13 (2019) 11686–11697, https://
+doi.org/10.1021/acsnano.9b05608.
+
+61. R.D. Waite, J.E. Stewart, A.S. Stephen, R.P. Allaker, Activity of a nitric oxide-
+generating wound treatment system against wound pathogen bioﬁlms, Int J
+Antimicrob Agents 52 (2018) 338–343.
+
+62. K. Richter, N. Thomas, J. Claeys, J. McGuane, C.A. Prestidge, T. Coenye, A
+topical hydrogel with deferiprone and gallium-protoporphyrin targets bacterial
+iron metabolism and has antibioﬁlm activity, Antimicrob Agents Chemother 61
+(2017) e00481–e517, https://doi.org/10.1128/AAC.00481-17.
+
+63. J. Hurler, K.K. Sørensen, A. Fallarero, P. Vuorela, N.
+
+(cid:2)
+Skalko-Basnet, Liposomes-
+in-hydrogel delivery system with mupirocin: in vitro antibioﬁlm studies and
+in vivo evaluation in mice burn model, BioMed Res Int 2013 (2013), https://doi.
+org/10.1155/2013/498485 498485.
+
+chronic infections, Front Microbiol 10 (2019) 198, https://doi.org/10.3389/
+fmicb.2019.00198.
+
+75. M. Di Giulio, R. Zappacosta, S. Di Lodovico, E. Di Campli, G. Siani, A. Fontana,
+L. Cellini, Antimicrobial and antibioﬁlm efﬁcacy of graphene oxide against
+chronic wound microorganisms, Antimicrob Agents Chemother 62 (2018)
+e00547–e618, https://doi.org/10.1128/AAC.00547-18.
+
+76. K. Razdan, V.S. Gondil, S. Chhibber, K.K. Singh, V.R. Sinha, Levoﬂoxacin
+loaded clove essential oil nanoscale emulsion as an efﬁcient system against
+Pseudomonas aeruginosa bioﬁlm, J Drug Deliv Sci Technol 68 (2022), https://doi.
+org/10.1016/j.jddst.2021.103039 103039.
+
+77. D. Metcalf, D. Parsons, P. Bowler, A next-generation antimicrobial wound
+dressing: a real-life clinical evaluation in the UK and Ireland, J Wound Care 25
+(2016) 132–138.
+
+novel anti-bioﬁlm Hydroﬁber
+
+78. P.G. Bowler, D. Parsons, Combatting wound bioﬁlm and recalcitrance with a
+wound dressing, Wound Med 14 (2016) 6–11.
+79. Metcalf DG, Bowler PG. Clinical impact of an anti-bioﬁlm Hydroﬁber dressing
+in hard-to-heal wounds previously managed with traditional antimicrobial
+products and systemic antibiotics. Burns Trauma 2020;8:tkaa004. doi:10.1093/
+burnst/tkaa004.
+
+(cid:3)
+
+80. K. Tang, X.H. Zhang, Quorum quenching agents: resources for antivirulence
+
+therapy, Mar Drugs 12 (2014) 3245–3282.
+
+81. S. Favre-Bonté, T. Köhler, C. Van Delden, Bioﬁlm formation by Pseudomonas
+aeruginosa: role of the C4-HSL cell-to-cell signal and inhibition by azithromycin,
+J Antimicrob Chemother 52 (2003) 598–604, https://doi.org/10.1093/jac/
+dkg397.
+
+82. I. Francolini, P. Norris, A. Piozzi, G. Donelli, P. Stoodley, Usnic acid, a natural
+antimicrobial agent able to inhibit bacterial bioﬁlm formation on polymer
+surfaces, Antimicrob Agents Chemother 48 (2004) 4360–4365.
+
+83. C. Kim, J. Kim, H.Y. Park, H.J. Park, J.H. Lee, C.K. Kim, et al., Furanone
+derivatives as quorum-sensing antagonists of Pseudomonas aeruginosa, Appl
+Microbiol Biotechnol 80 (2008) 37–47.
+
+84. N. Ramasubbu, L.M. Thomas, C. Ragunath, J.B. Kaplan, Structural analysis of
+from the
+J Mol Biol 349
+
+bioﬁlm-releasing
+dispersin
+periodontopathogen Actinobacillus actinomycetemcomitans,
+(2005) 475–486.
+
+hydrolase
+
+glycoside
+
+B,
+
+a
+
+64. T.T. Yuan, A.M. Foushee, M.C. Johnson, A.R. Jockheck-Clark, J.M. Stahl,
+oxide/ﬁbrinogen
+Development
+biocomposite for potential wound healing applications, Nanoscale Res Lett 13
+(2018) 88, https://doi.org/10.1186/s11671-018-2491-8.
+
+chitosan-polyethylene
+
+electrospun
+
+of
+
+85. Z. Qin, Y. Ou, L. Yang, Y. Zhu, T. Tolker-Nielsen, S. Molin, et al., Role of
+autolysin-mediated DNA release in bioﬁlm formation of Staphylococcus
+epidermidis, Microbiology 153 (2007) 2083–2092.
+
+86. M.O. Pereira, I. Machado, M. Simoes, M.J. Vieira, Preventing bioﬁlm formation
+
+65. D.W.C. Chen, S.J. Liu, Nanoﬁbers used for delivery of antimicrobial agents,
+
+using surfactants, Bioﬁlm Club (2007) 167–174.
+
+Nanomedicine 10 (2015) 1959–1971.
+
+66. Y. Su, H. Wang, B. Mishra, J. Lakshmaiah Narayana, J. Jiang, D.A. Reilly,
+Nanoﬁber dressings
+topically delivering molecularly engineered human
+cathelicidin peptides for the treatment of bioﬁlms in chronic wounds, Mol
+Pharm 16 (2019) 2011–2020.
+
+67. N. Alhusein, I.S. Blagbrough, M.L. Beeton, A. Bolhuis, A. Paul, Electrospun Zein/
+PCL ﬁbrous matrices release tetracycline in a controlled manner, killing
+Staphylococcus aureus both in bioﬁlms and ex vivo on pig skin, and are
+compatible with human skin cells, Pharm Res 33 (2016) 237–246.
+
+68. J.S. Boateng, K.H. Matthews, H.N. Stevens, G.M. Eccleston, Wound healing
+dressings and drug delivery systems: a review, J Pharm Sci 97 (2008) 2892–2923,
+https://doi.org/10.1002/jps.21210.
+
+69. M. Choi, N. Hasan, J. Cao, J. Lee, S.P. Hlaing, J.W. Yoo, Chitosan-based nitric
+oxide-releasing dressing for anti-bioﬁlm and in vivo healing activities in MRSA
+bioﬁlm-infected wounds, Int J Biol Macromol 142 (2020) 680–692.
+
+70. S. Yang, Y. Yang, S. Cui, Z. Feng, Y. Du, Z. Song, et al., Chitosan-polyvinyl
+alcohol nanoscale liquid ﬁlm-forming system facilitates MRSA-infected wound
+healing by enhancing antibacterial and antibioﬁlm properties,
+J
+Int
+Nanomedicine 13 (2018) 4987–5002, https://doi.org/10.2147/IJN.S161680.
+71. Y.H. Choi, H.K. Han, Nanomedicines: current status and future perspectives in
+aspect of drug delivery and pharmacokinetics, J Pharm Investig 48 (2018) 43–
+60.
+
+72. M.A. Ansari, H.M. Khan, A.A. Khan, S.S. Cameotra, M.A. Alzohairy, Anti-bioﬁlm
+efﬁcacy of silver nanoparticles against MRSA and MRSE isolated from wounds in
+a tertiary care hospital, Indian J Med Microbiol 33 (2015) 101–109, https://doi.
+org/10.4103/0255-0857.148402.
+
+87. J. Coronel-León, A.M. Marqués,
+
+J. Bastida, A. Manresa, Optimizing the
+production of the biosurfactant lichenysin and its application in bioﬁlm
+control, J Appl Microbiol 120 (2016) 99–111.
+
+88. J.M. Dow, L. Crossman, K. Findlay, Y.Q. He, J.X. Feng, J.L. Tang, Bioﬁlm
+dispersal in Xanthomonas campestris is controlled by cell-cell signaling and is
+required for full virulence to plants, Proc Natl Acad Sci U S A 100 (2003) 10995–
+11000.
+
+89. S. Santhakumari, N.M. Nilofernisha, J.G. Ponraj, S.K. Pandian, A.V. Ravi, In vitro
+and in vivo exploration of palmitic acid from Synechococcus elongatus as an
+antibioﬁlm agent on the survival of Artemia franciscana against virulent vibrios,
+J Invertebr Pathol 150 (2017) 21–31, https://doi.org/10.1016/j.jip.2017.09.001.
+90. M. Nicol, S. Alexandre, J.B. Luizet, M. Skogman, T. Jouenne, S.P. Salcedo, et al.,
+Unsaturated fatty acids affect quorum sensing communication system and
+inhibit motility and bioﬁlm formation of Acinetobacter baumannii, Int J Mol Sci
+19 (2018) 214, https://doi.org/10.3390/ijms19010214.
+
+91. S.L. Percival, P. Kite, K. Eastwood, R. Murga, J. Carr, M.J. Arduino, et al.,
+Tetrasodium EDTA as a novel central venous catheter lock solution against
+bioﬁlm, Infect Control Hosp Epidemiol 26 (2005) 515–519.
+
+92. I. Raad, I. Chatzinikolaou, G. Chaiban, H. Hanna, R. Hachem, T. Dvorak, et al.,
+In vitro and ex vivo activities of minocycline and EDTA against microorganisms
+embedded in bioﬁlm on catheter surfaces, Antimicrob Agents Chemother 7
+(2003) 3580–3585.
+
+93. N. Barraud, D. Schleheck, J. Klebensberger, J.S. Webb, D.J. Hassett, S.A. Rice,
+et al., Nitric oxide signaling in Pseudomonas aeruginosa bioﬁlms mediates
+phosphodiesterase activity, decreased cyclic di-GMP levels, and enhanced
+dispersal, J Bacteriol 191 (2009) 7333–7342.
+
+73. S.M. Ghaseminezhad, S.A. Shojaosadati, R.L. Meyer, Ag/Fe3O4 nanocomposites
+penetrate and eradicate S. aureus bioﬁlm in an in vitro chronic wound model,
+Colloids Surf B Biointerfaces 163 (2018) 192–200, https://doi.org/10.1016/
+j.colsurfb.2017.12.035.
+
+94. R.P. Howlin, K. Cathie, L. Hall-Stoodley, V. Cornelius, C. Duignan, R.N. Allan,
+et al., Low-dose nitric oxide as targeted anti-bioﬁlm adjunctive therapy to treat
+chronic Pseudomonas aeruginosa infection in cystic ﬁbrosis, Mol Ther 25 (2017)
+2104–2116.
+
+74. L. Grassi, G. Batoni, L. Ostyn, P. Rigole, S. Van den Bossche, A.C. Rinaldi, et al.,
+The antimicrobial peptide lin-SB056-1 and its dendrimeric derivative prevent
+Pseudomonas aeruginosa bioﬁlm formation in physiologically relevant models of
+
+95. M. Yasir, M.D. Willcox, D. Dutta, Action of antimicrobial peptides against
+https://doi.org/
+
+bioﬁlms, Materials
+
+(2018)
+
+2468,
+
+11
+
+bacterial
+10.3390/ma11122468.
+
+www.drugdiscoverytoday.com 2149
+
+KEYNOTE (GREEN)
+
+Drug Discovery Today d Volume 27, Number 8 d August 2022
+
+96. A. Di Somma, A. Moretta, C. Canè, A. Cirillo, A. Duilio, Antimicrobial and
+
+antibioﬁlm peptides. Biomolecules 10 (2020) 652.
+
+97. Y. Luo, Y. Song, Mechanism of antimicrobial peptides: antimicrobial, anti-
+
+98. Oates A. The effect of aquacel
+
+inﬂammatory and antibioﬁlm activities, Int J Mol Sci 22 (2021) 11401.
+(cid:3)
+
+Ag+ extra dressing on wound bioﬁlms
+(NCT02228122). https://clinicaltrials.gov/ct2/show/NCT02228122. Published
+August 28, 2014. Updated December 2, 2015. Accessed February 5, 2022.
+
+99. The Metis Foundation. Procellera
+
+compared to standard of care treatment in
+mitigating
+and burn wounds
+(NCT04079998). https://clinicaltrials.gov/ct2/show/NCT04079998. Published
+September 6, 2014. Updated January 22, 2021. Accessed February 5, 2022.
+
+bioﬁlm formation in acute
+
+trauma
+
+(cid:3)
+
+100. Georgetown University. Investigation of a novel wound gel to improve wound
+healing in chronic wounds (NCT03686904). https://clinicaltrials.gov/ct2/
+show/NCT03686904. Published September 27, 2018. Updated February 5,
+2020. Accessed February 5, 2022.
+
+101. Gordillo G. Bioﬁlm infection in adults
+
+and children burn injury
+(NCT03248154). https://clinicaltrials.gov/ct2/show/NCT03248154. Published
+August 14, 2017. Updated January 4, 2022. Accessed February 5, 2022.
+102. Brock Liden, DPM. Activated carbon interphase effect on bioﬁlm and total
+bacterial
+https://clinicaltrials.gov/ct2/show/
+NCT03461783. Published March 12, 2018. Updated February 27, 2019.
+Accessed February 5, 2022.
+
+(NCT03461783).
+
+load
+
+K
+E
+Y
+N
+O
+T
+E
+
+(
+
+G
+R
+E
+E
+N
+
+)
+
+2150 www.drugdiscoverytoday.com
+
+

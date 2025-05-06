@@ -1,0 +1,690 @@
+SPECIALTY GRAND CHALLENGE
+published: 22 February 2021
+doi: 10.3389/fcimb.2021.632429
+
+Speciality Grand Challenge
+for “Bioﬁlms”
+
+Christophe Beloin 1* and Diane McDougald 2,3*
+
+1 Genetics of Bioﬁlms Laboratory, Institut Pasteur, UMR CNRS2001, Paris, France, 2 iîhree lnstitute, University of Technology
+Sydney, Sydney, NSW, Australia, 3 Singapore Centre for Environmental Life Sciences Engineering, Nanyang Technological
+University, Singapore, Singapore
+
+Keywords: bioﬁlm infections, multi-species bioﬁlm,
+bioﬁlm heterogeneity
+
+infection models, bioﬁlm detection methods,
+
+INTRODUCTION TO BIOFILMS - PROPERTIES OF BIOFILMS
+
+The idea that most bacteria in nature are attached to surfaces was recognized as early as 1933 when
+Henrici stated after investigating fresh-water bacteria that “it is quite evident that for the most part
+water bacteria are not free ﬂoating organisms, but grow attached upon submerged surfaces”
+(Henrici, 1933). Zobell followed up with work that demonstrated seawater bioﬁlms precede the
+attachment of other macro-fouling organisms (Zobell and Allen, 1935). Thus, began this ﬁeld of
+research which was furthered by work on bioﬁlms occurring in nature and the growing realization
+that a number of infections are bioﬁlm-related (Costerton et al., 1999; Hall-Stoodley et al., 2004).
+
+Bioﬁlm Life Cycle
+Bioﬁlms are structurally diverse and dynamic (Hall-Stoodley et al., 2004). Bioﬁlm formation occurs
+in stages beginning with the attachment of a cell on the surface, followed by division and secretion of
+extracellular polymeric substances (EPS) and formation of microcolonies (Costerton et al., 1987).
+There are channels that allow for exchange of nutrients and cellular waste between the
+microcolonies. The ﬁnal stage of the bioﬁlm lifecycle is dispersal which is driven by, but not
+limited to environmental cues and bacterially derived signals (reviewed in (McDougald et al., 2011).
+These signals include the second messenger cyclic-di-GMP (Jenal et al., 2017), nitric oxide (Barraud
+et al., 2009) and quorum sensing (Rice et al., 2005).
+
+Increased Resistance to Antimicrobials and Matrix Properties
+Bioﬁlms are more resistant to a variety of stresses than their planktonic counterparts. For example,
+bioﬁlms have been reported to be up to 1000-fold more resistant to antibiotics than planktonic cells
+(Costerton et al., 1999) as well as showing increased resistance to other environmental stresses and
+predation by protists (Matz et al., 2005). This increased resistance is due to changes in cellular
+metabolism of bioﬁlm cells compared to planktonic cells (Lebeaux et al., 2014; Crabbé et al., 2019).
+It is also due to the physical protection provided by the extracellular matrix (Flemming and
+Wingender, 2010).
+
+The bioﬁlm matrix is composed of a variety of biopolymers, including polysaccharides, proteins,
+nucleic acids, lipids, and other biopolymers such as humic substances (Flemming and Wingender,
+2010). These components can vary widely between different bacterial species. The polysaccharides
+and proteins help to protect bioﬁlm cells from antimicrobials by acting as a barrier to their
+penetration into the bioﬁlm. Pseudomonas aeruginosa requires extracellular DNA or eDNA to form
+a bioﬁlm and for motility within the bioﬁlm (Whitchurch et al., 2002; Gloag et al., 2013). It is this
+matrix that lends stability to the bioﬁlm making them difﬁcult to remove. The matrix can also bind
+
+Edited and Reviewed by:
+
+Yousef Abu Kwaik,
+University of Louisville, United States
+
+*Correspondence:
+
+Christophe Beloin
+cbeloin@pasteur.fr
+Diane McDougald
+Diane.McDougald@uts.edu.au
+
+Specialty section:
+
+This article was submitted to
+Bioﬁlms,
+a section of the journal
+Frontiers in Cellular and
+Infection Microbiology
+
+Received: 23 November 2020
+Accepted: 28 January 2021
+Published: 22 February 2021
+
+Citation:
+
+Beloin C and McDougald D (2021)
+Speciality Grand
+Challenge for “Bioﬁlms”.
+Front. Cell. Infect. Microbiol. 11:632429.
+doi: 10.3389/fcimb.2021.632429
+
+Frontiers in Cellular and Infection Microbiology | www.frontiersin.org
+
+1
+
+February 2021 | Volume 11 | Article 632429
+
+Beloin and McDougald
+
+Bioﬁlm Grand Challenges
+
+extracellular enzymes making them available to bioﬁlm cells and
+sequester other damaging compounds.
+
+CHALLENGES IN METHODS FOR
+INVESTIGATING BIOFILMS
+
+From Monospecies to
+Polymicrobial Bioﬁlms
+Since the early observation of bioﬁlms in their natural
+environments, notably in rivers, researchers have realized the
+heterogeneity and complexity of bioﬁlm composition and
+structure. After a long period during which monospecies bioﬁlms
+have been studied with success we have moved towards the study
+of polymicrobial bioﬁlms, which are also relevant in multiple
+bioﬁlm-associated infections in animals and humans and often at
+the origin of chronic infections (Peters et al., 2012; Wolcott et al.,
+2013). Among the multitude of in vitro and in vivo models of
+bioﬁlm formation and infection models that have been developed
+(Coenye and Nelis, 2010; Lebeaux et al., 2013; Brackman and
+Coenye, 2016) some speciﬁc models are dedicated to polymicrobial
+bioﬁlms (Gabrilska and Rumbaugh, 2015; Tay et al., 2016). The
+relevance of studying polymicrobial bioﬁlms was demonstrated by
+the importance of the interactions of micro-organisms for the
+development of bioﬁlms in the context of infection, notably
+through the cross-talk between species and their impact on
+mechanisms of antimicrobial recalcitrance (Kragh et al., 2016;
+Liu et al., 2016; Orazi and O’Toole, 2019; Ibberson and Whiteley,
+2020). Further developments of such models are essential to
+uncover the molecular mechanisms beyond the speciﬁc behavior
+of micro-organisms during such polymicrobial bioﬁlms.
+
+Tackling the Heterogeneity of Bioﬁlms
+In addition to the complexity of polymicrobial bioﬁlms, one
+hallmark of bioﬁlms in general is their heterogeneity in terms of
+local environmental conditions that translates into a heterogeneity
+of physiology of bioﬁlm cells. While studies using technologies
+such as transcriptomics, proteomics and metabolomics have been
+successfully applied to image the global physiology or responses to
+stress of bioﬁlms cells (Seneviratne et al., 2020), there is a clear
+need to think singularity and to develop technologies that would
+allow for the study of the physiology of individual bioﬁlm cells and
+to understand the social interactions within bioﬁlms (Rode et al.,
+2020). These studies can be performed with the improvement of
+methods such as single-cell RNA transcriptomics (Blattman et al.,
+2020; Imdahl et al., 2020) and technologies used to isolate cells
+from bioﬁlms (Ma et al., 2019). Such recently developed
+technologies have been successfully applied to image the
+physiology of S. aureus persister cells within macrophages and
+should be applied hopefully to bioﬁlms. Imaging technologies have
+also recently improved to locate and trace individual cells within
+bioﬁlms. Multiplex FISH technology has been applied to
+characterize the biogeography of the oral microbiota (Valm
+et al., 2012; Valm, 2019) while recent microscopy imaging and
+analyzing technologies allowing for dynamically tracking single
+bioﬁlm bacteria (Hartmann et al., 2019), for example upon
+antibiotic stress in V. cholerae (Dı́az-Pascual et al., 2019).
+
+Additionally, some very promising tools have been recently
+adapted to metabolite identiﬁcation at the single cell level in
+bioﬁlm,
+for instance using Raman spectroscopy, Mass
+spectrometry or electro-chemical chip/ﬂuorophores (Baig et al.,
+2016; Bellin et al., 2016; Bodelón et al., 2016; Schiessl et al., 2019;
+Geier et al., 2020; Yang et al., 2020). The upcoming challenge will
+be, in addition to further development of these technologies, to
+adapt them to direct observation or characterization of in situ
+bioﬁlms and to models, whether in vitro, ex vivo, or in vivo, that
+better feature real in situ bioﬁlms.
+
+Going Toward a Better Understanding of
+In Vivo Bioﬁlms: Improving Detection and
+Observation of In Situ Bioﬁlms and
+Developing Novel Models?
+Today there is absolutely no doubt that bioﬁlms occur in vivo,
+especially in compromised hosts, with almost 80% of human
+infections now recognized to be bioﬁlm-related (NIH, 2002).
+Bioﬁlms form in body compartments as well as attached to cells
+and indwelling devices (Bjarnsholt et al., 2013). One well-studied
+example of this is the infection of cystic ﬁbrosis (CF) patients’ lungs
+by P. aeruginosa. These bioﬁlms are extremely resistant to
+antimicrobials for reasons discussed above but also due to their
+ability to resist host defenses. For example, in both in vitro and in
+vivo CF models, P. aeruginosa was shown to respond to the
+presence of host immune cells by upregulating a number of
+quorum-sensing regulated virulence factors such as rhamnolipids
+which are known to kill immune cells (Alhede et al., 2009). Other
+common chronic infections include chronic otitis media and
+chronic wounds that tend to be caused by multispecies infections
+(Burmølle et al., 2010). Other major sources of in vivo bioﬁlms are
+indwelling medical devices such as intravenous or urinary catheters,
+pacemakers, endotracheal tubes and artiﬁcial joints (Lebeaux et al.,
+2014; Stewart and Bjarnsholt, 2020). Microorganisms commonly
+associated with medical devices are Staphylococcus epidermidis,
+Staphylococcus aureus, and P. aeruginosa (Hall-Stoodley et al.,
+2004). These bioﬁlms often result in replacement of the device,
+which for artiﬁcial joints is a signiﬁcant task. The dispersal of these
+bioﬁlms has been discussed as a potential treatment, however a
+large number of planktonic cells entering the blood stream may be
+more dangerous than other treatments. Numerous infections are
+also related to bioﬁlms in animals, for example in bovine mastitis,
+pneumonia, liver abscess, enteritis, urinary tract infection, otitis,
+wound infection, etc. (Abdullahi et al., 2016) and in plants where
+bacterial and fungal pathogens colonization can be at the origin of
+different diseases (Bogino et al., 2013; Castiblanco and Sundin,
+2016; Motaung et al., 2020).
+
+For decades our vision of how bioﬁlms look has been governed
+by our knowledge developed from the use of in vitro bioﬁlms
+models. As stated above, the increasing number of bioﬁlms
+isolated from real
+infection situations have brought into
+question this conventional thinking with the recognition that,
+with some exception, in vivo bioﬁlms rather correspond to patches
+or cell aggregates that rarely exceed 200 µm (Bjarnsholt et al.,
+2013) with important consequences on how bioﬁlms ﬁnally
+interact with the host (Alhede et al., 2020). These observations
+have led to several important statements: in most cases, in vitro,
+
+Frontiers in Cellular and Infection Microbiology | www.frontiersin.org
+
+2
+
+February 2021 | Volume 11 | Article 632429
+
+Beloin and McDougald
+
+Bioﬁlm Grand Challenges
+
+and sometimes in vivo bioﬁlms models do not relevantly
+recapitulate bioﬁlms in their real
+infectious context; the
+diagnosis of the presence of bioﬁlms linked to infection cannot
+be made a posteriori if we want clinicians to adapt their treatment
+to the presence of a bioﬁlm. With these statements come potential
+actions: on one side the necessity to improve detection methods
+that could, for some of them, allow early detection of bioﬁlms in
+the host and, for others, give a better characterization of the
+environment of infectious bioﬁlms. Thus, the need to implement
+some of the in situ information into the current in vitro and in vivo
+models, and to develop novel models is paramount. It is clear that
+to this day some effort has been made in these directions, but we
+will have to do much more to reach these objectives.
+
+We are still trying to identify bioﬁlm biomarkers that could be
+used not only for detection but also for vaccine development.
+Important work has been done in the laboratory of the late Prof.
+Mark Shirliff in this direction notably with a recent demonstration
+that S. aureus orthopedic implant infections could be detected in
+human sinuvial ﬂuids using an antibody against the manganese
+transporter MntC (Harro et al., 2019; Harro et al., 2020). Peptide-
+ﬂuorescently labeled probes have been recently identiﬁed and used
+to speciﬁcally label P. aeruginosa bioﬁlms in vivo (Locke et al.,
+2020). Additionally, numerous other detection methods are under
+development and efforts should be made to allow these
+technologies to translate into the clinic (Achinas et al., 2020;
+Parlak and Richter-Dahlfors, 2020). Among them, recently there
+has been the successful use of imaging technologies using
+bioluminescence (Chauhan et al., 2016; Hoffmann et al., 2019;
+Maiden et al., 2019; Gordon et al., 2020; Kreth et al., 2020; Redman
+et al., 2020; Van Dyck et al., 2020) or intravital
+imaging
+(Thanabalasuriar et al., 2019; Abdul Hamid et al., 2020; Gries
+et al., 2020; Tian et al., 2020) to study the effect of antimicrobial
+agents on bioﬁlms or the behavior of immune cells in contact with
+bioﬁlms in various in vivo models of bioﬁlm-related infections.
+
+The concept of the micro-environment of bioﬁlm cells during
+infection has been well conceptualized in a recent perspective
+article on chronic wounds where several deﬁned zones can be
+identiﬁed and on which information should be gathered in order to
+access to a global view of the bioﬁlm infectious micro-environment
+(Kirketerp-Møller et al., 2020). Ideally, non-destructive methods to
+sample and analyze this micro-environment using micro-dialysis,
+micro-probes or electrochemical probes should be adapted to in
+vivo measurement as recently explained in (Røder et al., 2020),
+however, some of these methods also have applications for
+bioﬁlm detection.
+
+Improving the models for a better understanding of bioﬁlm
+formation and bioﬁlm cells behavior is also a major objective that
+should be reached by researchers in the ﬁeld. Initiatives to evaluate
+the available models are welcome and should provide a better view
+
+of the current more relevant models with some clues on how to
+improve them (Cornforth et al., 2020). With the increased
+pressure to restrict the use of animals in research there is also a
+dire need to identify surrogate models. While there is some utility
+to pursue the development of non-mammalian models of bioﬁlm-
+infection such as Drosophila melanogaster, Galleria mellonella or
+Danio rerio (Zebraﬁsh) (Lebeaux et al., 2013), identiﬁcation of ex
+vivo models that recreate the infectious environment should be
+encouraged. Among recently developed ex vivo models are, for
+example, an ex vivo pig lung bioﬁlm model used for understanding
+antibiotic tolerance of P. aeruginosa bioﬁlms (Hassan et al., 2020)
+or an ex vivo murine skin biopsy model to characterize B.
+burgdoferi bioﬁlms, the etiological agent of Lyme disease (Torres
+et al., 2020). Last but not least with the development of
+reconstituted organs such as organoids or organ-on-a-chip, one
+could anticipate that adaptations of these models to the
+understanding of the physiopathology of bioﬁlm infections,
+interactions of bioﬁlms with the immune response or bioﬁlm
+behaviors in the presence of antimicrobials would provide
+important information relevant to bioﬁlms in infectious contexts
+(Jimi et al., 2017; Choi et al., 2020; Yuan et al., 2020).
+
+Major Challenges
+As described above, the ﬁeld of bioﬁlms and interactions with
+higher organisms has clear challenges for future research. 1) The
+development of new and improved multi-species bioﬁlm models
+will allow us to investigate interactions that occur in these
+bioﬁlms, as most in vivo bioﬁlms are multispecies bioﬁlms.
+This is clearly the next step in understanding bioﬁlms in
+nature and in disease contexts, and this should come with the
+use of technologies that would allow probing the infectious
+micro-environment of bioﬁlms. 2) The development of more
+relevant models, whether in vitro, ex vivo, or in vivo, to elucidate
+interactions of bioﬁlms with the host in more detail. These
+models will be necessary not only for understanding bioﬁlm
+host interactions but also for the investigation of eradication
+methods or compounds in a more real setting. 3) The
+development of imaging and detection technologies that could
+be used to better visualize and detect bioﬁlms in situ and should
+allow when necessary to access the physiology on individual cells
+within bioﬁlms. As new methods are developed, using these for
+bioﬁlm research will generate new knowledge and lead to new
+areas of bioﬁlm research.
+
+AUTHOR CONTRIBUTIONS
+
+CB and DM wrote the manuscript. All authors contributed to the
+article and approved the submitted version.
+
+REFERENCES
+
+Abdul Hamid, A. I., Nakusi, L., Givskov, M., Chang, Y. T., Marquès, C., and
+Gueirard, P. (2020). A mouse ear skin model to study the dynamics of innate
+immune responses against Staphylococcus aureus bioﬁlms. BMC Microbiol. 20,
+22. doi: 10.1186/s12866-019-1635-z
+
+Abdullahi, U. F., Igwenagu, E., Mu’azu, A., Aliyu, S., and Umar, M. I. (2016).
+Intrigues of bioﬁlm: A perspective in veterinary medicine. Vet. World 9, 12–18.
+doi: 10.14202/vetworld.2016.12-18
+
+Achinas, S., Yska, S. K., Charalampogiannis, N., Krooneman, J., and Euverink, G. J. W.
+(2020). A Technological Understanding of Bioﬁlm Detection Techniques:
+A Review. Mater. (Basel) 13(14):3417. doi: 10.3390/ma13143147
+
+Frontiers in Cellular and Infection Microbiology | www.frontiersin.org
+
+3
+
+February 2021 | Volume 11 | Article 632429
+
+Beloin and McDougald
+
+Bioﬁlm Grand Challenges
+
+Alhede, M., Bjarnsholt, T., Jensen, P., Phipps, R. K., Moser, C., Christophersen, L.,
+et al. (2009). Pseudomonas aeruginosa recognizes and responds aggressively to
+the presence of polymorphonuclear leukocytes. Microbiol. (Reading) 155,
+3500–3508. doi: 10.1099/mic.0.031443-0
+
+Alhede, M., Alhede, M., Qvortrup, K., Kragh, K. N., Jensen, P., Stewart, P. S., et al.
+(2020). The origin of extracellular DNA in bacterial bioﬁlm infections in vivo.
+Pathog. Dis. 78(2):ftaa018. doi: 10.1093/femspd/ftaa018
+
+Baig, N., Polisetti, S., Morales-Soto, N., Dunham, S. J. B., Sweedler, J. V., Shrout, J.
+D., et al. (2016). Label-free molecular imaging of bacterial communities of the
+opportunistic pathogen Pseudomonas aeruginosa. Proc. SPIE Int. Soc. Opt.
+Eng. 9930:993004. doi: 10.1117/12.2236695
+
+Barraud, N., Storey, M. V., Moore, Z. P., Webb, J. S., Rice, S. A., and Kjelleberg, S.
+(2009). Nitric oxide-mediated dispersal in single- and multi-species bioﬁlms of
+clinically and industrially relevant microorganisms. Microb. Biotechnol. 2, 370–
+378. doi: 10.1111/j.1751-7915.2009.00098.x
+
+Bellin, D. L., Sakhtah, H., Zhang, Y., Price-Whelan, A., Dietrich, L. E., and Shepard, K. L.
+(2016). Electrochemical camera chip for simultaneous imaging of multiple
+metabolites in bioﬁlms. Nat. Commun. 7, 10535. doi: 10.1038/ncomms10535
+Bjarnsholt, T., Alhede, M., Alhede, M., Eickhardt-Sørensen, S. R., Moser, C., Kühl,
+M., et al. (2013). The in vivo bioﬁlm. Trends Microbiol. 21, 466–474. doi:
+10.1016/j.tim.2013.06.002
+
+Blattman, S. B., Jiang, W., Oikonomou, P., and Tavazoie, S. (2020). Prokaryotic
+single-cell RNA sequencing by in situ combinatorial indexing. Nat. Microbiol.
+5, 1192–1201. doi: 10.1038/s41564-020-0729-6
+
+Bodelón, G., Montes-Garcı́a, V., López-Puente, V., Hill, E. H., Hamon, C., Sanz-
+Ortiz, M. N., et al. (2016). Detection and imaging of quorum sensing in
+Pseudomonas aeruginosa bioﬁlm communities by surface-enhanced resonance
+Raman scattering. Nat. Mater. 15, 1203–1211. doi: 10.1038/nmat4720
+
+Bogino, P. C., Oliva Mde, L., Sorroche, F. G., and Giordano, W. (2013). The role of
+bacterial bioﬁlms and surface components in plant-bacterial associations. Int. J.
+Mol. Sci. 14, 15838–15859. doi: 10.3390/ijms140815838
+
+Brackman, G., and Coenye, T. (2016). In Vitro and In Vivo Bioﬁlm Wound
+Models and Their Application. Adv. Exp. Med. Biol. 897, 15–32. doi: 10.1007/
+5584_2015_5002
+
+Burmølle, M., Thomsen, T. R., Fazli, M., Dige, I., Christensen, L., Homøe, P., et al.
+(2010). Bioﬁlms in chronic infections - a matter of opportunity - monospecies
+bioﬁlms in multispecies infections. FEMS Immunol. Med. Microbiol. 59, 324–
+336. doi: 10.1111/j.1574-695X.2010.00714.x
+
+Castiblanco, L. F., and Sundin, G. W. (2016). New insights on molecular regulation
+of bioﬁlm formation in plant-associated bacteria. J. Integr. Plant Biol. 58, 362–
+372. doi: 10.1111/jipb.12428
+
+Chauhan, A., Ghigo, J. M., and Beloin, C. (2016). Study of in vivo catheter bioﬁlm
+infections using pediatric central venous catheter implanted in rat. Nat. Protoc.
+11, 525–541. doi: 10.1038/nprot.2016.033
+
+Choi, K. G., Wu, B. C., Lee, A. H., Baquir, B., and Hancock, R. E. W. (2020).
+Utilizing Organoid and Air-Liquid Interface Models as a Screening Method in
+the Development of New Host Defense Peptides. Front. Cell Infect. Microbiol.
+10, 228. doi: 10.3389/fcimb.2020.00228
+
+Coenye, T., and Nelis, H. J. (2010). In vitro and in vivo model systems to study
+microbial bioﬁlm formation. J. Microbiol. Methods 83, 89–105. doi: 10.1016/
+j.mimet.2010.08.018
+
+Cornforth, D. M., Diggle, F. L., Melvin, J. A., Bomberger, J. M., and Whiteley, M.
+(2020). Quantitative Framework for Model Evaluation in Microbiology
+Research Using Pseudomonas aeruginosa and Cystic Fibrosis Infection as a
+Test Case. mBio 11(1):e03042-19. doi: 10.1128/mBio.03042-19
+
+Costerton, J. W., Cheng, K. J., Geesey, G. G., Ladd, T. I., Nickel, J. C., Dasgupta, M.,
+et al. (1987). Bacterial bioﬁlms in nature and disease. Annu. Rev. Microbiol. 41,
+435–464. doi: 10.1146/annurev.mi.41.100187.002251
+
+Costerton, J. W., Stewart, P. S., and Greenberg, E. P. (1999). Bacterial bioﬁlms: a
+common cause of persistent infections. Science 284, 1318–1322. doi: 10.1126/
+science.284.5418.1318
+
+Crabbé, A., Jensen, P., Bjarnsholt, T., and Coenye, T. (2019). Antimicrobial
+Tolerance and Metabolic Adaptations in Microbial Bioﬁlms. Trends
+Microbiol. 27, 850–863. doi: 10.1016/j.tim.2019.05.003
+
+Dı́az-Pascual, F., Hartmann, R., Lempp, M., Vidakovic, L., Song, B., Jeckel, H.,
+et al. (2019). Breakdown of Vibrio cholerae bioﬁlm architecture induced by
+antibiotics disrupts community barrier function. Nat. Microbiol. 4, 2136–2145.
+doi: 10.1038/s41564-019-0579-2
+
+Flemming, H. C., and Wingender, J. (2010). The bioﬁlm matrix. Nat. Rev.
+
+Microbiol. 8, 623–633. doi: 10.1038/nrmicro2415
+
+Gabrilska, R. A., and Rumbaugh, K. P. (2015). Bioﬁlm models of polymicrobial
+
+infection. Future Microbiol. 10, 1997–2015. doi: 10.2217/fmb.15.109
+
+Geier, B., Sogin, E. M., Michellod, D., Janda, M., Kompauer, M., Spengler, B., et al.
+(2020). Spatial metabolomics of in situ host-microbe interactions at the
+micrometre scale. Nat. Microbiol. 5, 498–510. doi: 10.1038/s41564-019-0664-6
+Gloag, E. S., Turnbull, L., Huang, A., Vallotton, P., Wang, H., Nolan, L. M., et al.
+(2013). Self-organization of bacterial bioﬁlms is facilitated by extracellular
+DNA. Proc. Natl. Acad. Sci. U.S.A. 110, 11541–11546. doi: 10.1073/
+pnas.1218898110
+
+Gordon, O., Miller, R. J., Thompson, J. M., Ordonez, A. A., Klunk, M. H.,
+Dikeman, D. A., et al. (2020). Rabbit model of Staphylococcus aureus
+implant-associated spinal infection. Dis. Model Mech. 13(7):dmm045385.
+doi: 10.1242/dmm.045385
+
+Gries, C. M., Rivas, Z., Chen, J., and Lo, D. D. (2020). Intravital Multiphoton
+Examination of Implant-Associated Staphylococcus aureus Bioﬁlm Infection.
+Front. Cell Infect. Microbiol. 10, 574092. doi: 10.3389/fcimb.2020.574092
+Hall-Stoodley, L., Costerton, J. W., and Stoodley, P. (2004). Bacterial bioﬁlms:
+from the natural environment to infectious diseases. Nat. Rev. Microbiol. 2, 95–
+108. doi: 10.1038/nrmicro821
+
+Harro, J. M., Achermann, Y., Freiberg, J. A., Allison, D. L., Brao, K. J., Marinos, D. P.,
+et al. (2019). Clearance of Staphylococcus aureus from In Vivo Models of Chronic
+Infection by Immunization Requires Both Planktonic and Bioﬁlm Antigens.
+Infect. Immun. 88(1):e00586-19. doi: 10.1128/IAI.00586-19
+
+Harro, J. M., Shirtliff, M. E., Arnold, W., Kofonow, J. M., Dammling, C.,
+Achermann, Y., et al. (2020). Development of a Novel and Rapid Antibody-
+Based Diagnostic for Chronic Staphylococcus aureus Infections Based on
+Bioﬁlm Antigens. J. Clin. Microbiol. 58(5):e01414-19. doi: 10.1128/
+JCM.01414-19
+
+Hartmann, R., Singh, P. K., Pearce, P., Mok, R., Song, B., Dı́az-Pascual, F., et al.
+(2019). Emergence of three-dimensional order and structure in growing
+bioﬁlms. Nat. Phys. 15, 251–256. doi: 10.1038/s41567-018-0356-9
+
+Hassan, M. M., Harrington, N. E., Sweeney, E., and Harrison, F. (2020). Predicting
+Antibiotic-Associated Virulence of Pseudomonas aeruginosa Using an ex vivo
+Lung Bioﬁlm Model. Front. Microbiol. 11, 568510. doi: 10.3389/
+fmicb.2020.568510
+
+Henrici, A. T. (1933). Studies of Freshwater Bacteria: I. A Direct Microscopic
+
+Technique. J. Bacteriol. 25, 277–287. doi: 10.1128/JB.25.3.277-287.1933
+
+Hoffmann, J. P., Friedman, J. K., Wang, Y., Mclachlan, J. B., Sammarco, M. C.,
+Morici, L. A., et al. (2019). In situ Treatment With Novel Microbiocide Inhibits
+Methicillin Resistant Staphylococcus aureus in a Murine Wound Infection
+Model. Front. Microbiol. 10, 3106. doi: 10.3389/fmicb.2019.03106
+
+Ibberson, C. B., and Whiteley, M. (2020). The social life of microbes in chronic
+infection. Curr. Opin. Microbiol. 53, 44–50. doi: 10.1016/j.mib.2020.02.003
+Imdahl, F., Vafadarnejad, E., Homberger, C., Saliba, A. E., and Vogel, J. (2020).
+Single-cell RNA-sequencing reports growth-condition-speciﬁc global
+transcriptomes of individual bacteria. Nat. Microbiol. 5, 1202–1206. doi:
+10.1038/s41564-020-0774-1
+
+Jenal, U., Reinders, A., and Lori, C. (2017). Cyclic di-GMP: second messenger
+extraordinaire. Nat. Rev. Microbiol. 15, 271–284. doi: 10.1038/nrmicro.
+2016.190
+
+Jimi, S., Miyazaki, M., Takata, T., Ohjimi, H., Akita, S., and Hara, S. (2017).
+Increased drug resistance of meticillin-resistant Staphylococcus aureus
+bioﬁlms formed on a mouse dermal chip model. J. Med. Microbiol. 66, 542–
+550. doi: 10.1099/jmm.0.000461
+
+Kirketerp-Møller, K., Stewart, P. S., and Bjarnsholt, T. (2020). The zone model: A
+conceptual model for understanding the microenvironment of chronic wound
+infection. Wound Repair Regener. 28, 593–599. doi: 10.1111/wrr.12841
+
+Kragh, K. N., Hutchison, J. B., Melaugh, G., Rodesney, C., Roberts, A. E., Irie, Y.,
+et al. (2016). Role of Multicellular Aggregates in Bioﬁlm Formation. mBio 7,
+e00237. doi: 10.1128/mBio.00237-16
+
+Kreth, J., Abdelrahman, Y. M., and Merritt, J. (2020). Multiplex Imaging of
+Polymicrobial Communities-Murine Models to Study Oral Microbiome
+Interactions. Methods Mol. Biol. 2081, 107–126. doi: 10.1007/978-1-4939-9940-8_8
+Lebeaux, D., Chauhan, A., Rendueles, O., and Beloin, C. (2013). From in vitro to in
+vivo Models of Bacterial Bioﬁlm-Related Infections. Pathogens 2, 288–356. doi:
+10.3390/pathogens2020288
+
+Frontiers in Cellular and Infection Microbiology | www.frontiersin.org
+
+4
+
+February 2021 | Volume 11 | Article 632429
+
+Beloin and McDougald
+
+Bioﬁlm Grand Challenges
+
+Lebeaux, D., Ghigo, J. M., and Beloin, C. (2014). Bioﬁlm-related infections:
+bridging the gap between clinical management and fundamental aspects of
+recalcitrance toward antibiotics. Microbiol. Mol. Biol. Rev. 78, 510–543. doi:
+10.1128/MMBR.00013-14
+
+Liu, W., Røder, H. L., Madsen, J. S., Bjarnsholt, T., Sørensen, S. J., and Burmølle, M.
+(2016). Interspeciﬁc Bacterial Interactions are Reﬂected in Multispecies Bioﬁlm
+Spatial Organization. Front. Microbiol. 7, 1366. doi: 10.3389/fmicb.2016.01366
+Locke, L. W., Shankaran, K., Gong, L., Stoodley, P., Vozar, S. L., Cole, S. L., et al.
+(2020). Evaluation of Peptide-Based Probes toward In Vivo Diagnostic
+Imaging of Bacterial Bioﬁlm-Associated Infections. ACS Infect. Dis. 6, 2086–
+2098. doi: 10.1021/acsinfecdis.0c00125
+
+Ma, Q., Bücking, H., Gonzalez Hernandez, J. L., and Subramanian, S. (2019).
+Single-Cell RNA Sequencing of Plant-Associated Bacterial Communities.
+Front. Microbiol. 10, 2452. doi: 10.3389/fmicb.2019.02452
+
+Maiden, M. M., Zachos, M. P., and Waters, C. M. (2019). Hydrogels Embedded
+With Melittin and Tobramycin Are Effective Against Pseudomonas aeruginosa
+Bioﬁlms in an Animal Wound Model. Front. Microbiol. 10, 1348. doi: 10.3389/
+fmicb.2019.01348
+
+Matz, C., Mcdougald, D., Moreno, A. M., Yung, P. Y., Yildiz, F. H., and Kjelleberg,
+S. (2005). Bioﬁlm formation and phenotypic variation enhance predation-
+driven persistence of Vibrio cholerae. Proc. Natl. Acad. Sci. U.S.A. 102, 16819–
+16824. doi: 10.1073/pnas.0505350102
+
+McDougald, D., Rice, S. A., Barraud, N., Steinberg, P. D., and Kjelleberg, S. (2011).
+Should we stay or should we go: mechanisms and ecological consequences for
+bioﬁlm dispersal. Nat. Rev. Microbiol. 10, 39–50. doi: 10.1038/nrmicro2695
+Motaung, T. E., Peremore, C., Wingﬁeld, B., and Steenkamp, E. (2020). Plant-
+associated fungal bioﬁlms - knowns and unknowns. FEMS Microbiol. Ecol. 96
+(12):ﬁaa224. doi: 10.1093/femsec/ﬁaa224
+
+NIH (2002). RESEARCH ON MICROBIAL BIOFILMS. Ofﬁce of Extramural
+Research (OER), National Institutes of Health (NIH), Department of Health
+and Human Services (HHS Available at: http://grants.nih.gov/grants/guide/pa-
+ﬁles/PA-03-047.html.
+
+Orazi, G., and O’Toole, G. A. (2019). “It Takes a Village”: Mechanisms Underlying
+Antimicrobial Recalcitrance of Polymicrobial Bioﬁlms. J. Bacteriol. 202
+(1):10.1128/JB.00530-19.
+
+Parlak, O., and Richter-Dahlfors, A. (2020). Bacterial Sensing and Bioﬁlm
+Monitoring for Infection Diagnostics. Macromol. Biosci. 20, e2000129. doi:
+10.1002/mabi.202000129
+
+Peters, B. M., Jabra-Rizk, M. A., O’may, G. A., Costerton, J. W., and Shirtliff, M. E.
+impact on pathogenesis and human
+
+(2012). Polymicrobial
+disease. Clin. Microbiol. Rev. 25, 193–213. doi: 10.1128/CMR.00013-11
+
+interactions:
+
+Redman, W. K., Welch, G. S., and Rumbaugh, K. P. (2020). Differential Efﬁcacy of
+Glycoside Hydrolases to Disperse Bioﬁlms. Front. Cell Infect. Microbiol. 10,
+379. doi: 10.3389/fcimb.2020.00379
+
+Rice, S. A., Mcdougald, D., Kumar, N., and Kjelleberg, S. (2005). The use of
+quorum-sensing blockers as therapeutic agents for the control of bioﬁlm-
+associated infections. Curr. Opin. Investig. Drugs 6, 178–184.
+
+Rode, D. K. H., Singh, P. K., and Drescher, K. (2020). Multicellular and unicellular
+responses of microbial bioﬁlms to stress. Biol. Chem. 401, 1365–1374. doi:
+10.1515/hsz-2020-0213
+
+Røder, H. L., Olsen, N. M. C., Whiteley, M., and Burmølle, M. (2020). Unravelling
+interspecies interactions across heterogeneities in complex bioﬁlm
+communities. Environ. Microbiol. 22, 5–16. doi: 10.1111/1462-2920.14834
+Schiessl, K. T., Hu, F., Jo, J., Nazia, S. Z., Wang, B., Price-Whelan, A., et al. (2019).
+Phenazine production promotes antibiotic tolerance and metabolic
+heterogeneity in Pseudomonas aeruginosa bioﬁlms. Nat. Commun. 10, 762.
+doi: 10.1038/s41467-019-08733-w
+
+Seneviratne, C. J., Suriyanarayanan, T., Widyarman, A. S., Lee, L. S., Lau, M.,
+Ching, J., et al. (2020). Multi-omics tools for studying microbial bioﬁlms:
+current perspectives and future directions. Crit. Rev. Microbiol. 46, 759–778.
+doi: 10.1080/1040841X.2020.1828817
+
+Stewart, P. S., and Bjarnsholt, T. (2020). Risk factors for chronic bioﬁlm-related
+infection associated with implanted medical devices. Clin. Microbiol. Infect. 26,
+1034–1038. doi: 10.1016/j.cmi.2020.02.027
+
+Tay, W. H., Chong, K. K., and Kline, K. A. (2016). Polymicrobial-Host Interactions
+during Infection. J. Mol. Biol. 428, 3355–3371. doi: 10.1016/j.jmb.2016.05.006
+Thanabalasuriar, A., Scott, B. N. V., Peiseler, M., Willson, M. E., Zeng, Z.,
+Warrener, P., et al. (2019). Neutrophil Extracellular Traps Conﬁne
+Pseudomonas aeruginosa Ocular Bioﬁlms and Restrict Brain Invasion. Cell
+Host Microbe 25, 526–536.e524. doi: 10.1016/j.chom.2019.02.007
+
+Tian, S., Su, L., Liu, Y., Cao, J., Yang, G., Ren, Y., et al. (2020). Self-targeting,
+zwitterionic micellar dispersants enhance antibiotic killing of infectious
+bioﬁlms-An intravital imaging study in mice. Sci. Adv. 6, eabb1112. doi:
+10.1126/sciadv.abb1112
+
+Torres, J. P., Senejani, A. G., Gaur, G., Oldakowski, M., Murali, K., and Sapi, E.
+(2020). Ex Vivo Murine Skin Model for B. burgdorferi Bioﬁlm. Antibiot. (Basel)
+9(9):528. doi: 10.3390/antibiotics9090528
+
+Valm, A. M., Mark Welch, J. L., and Borisy, G. G. (2012). CLASI-FISH: principles
+of combinatorial labeling and spectral imaging. Syst. Appl. Microbiol. 35, 496–
+502. doi: 10.1016/j.syapm.2012.03.004
+
+Valm, A. M. (2019). The Structure of Dental Plaque Microbial Communities in the
+Transition from Health to Dental Caries and Periodontal Disease. J. Mol. Biol.
+431, 2957–2969. doi: 10.1016/j.jmb.2019.05.016
+
+Van Dyck, K., Van Dijck, P., and Vande Velde, G. (2020). Bioluminescence
+Imaging to Study Mature Bioﬁlm Formation by Candida spp. and Antifungal
+Activity In Vitro and In Vivo. Methods Mol. Biol. 2081, 127–143. doi: 10.1007/
+978-1-4939-9940-8_9
+
+Whitchurch, C. B., Tolker-Nielsen, T., Ragas, P. C., and Mattick, J. S. (2002).
+Extracellular DNA required for bacterial bioﬁlm formation. Science 295, 1487.
+doi: 10.1126/science.295.5559.1487
+
+Wolcott, R., Costerton, J. W., Raoult, D., and Cutler, S. J. (2013). The
+polymicrobial nature of bioﬁlm infection. Clin. Microbiol. Infect. 19, 107–
+112. doi: 10.1111/j.1469-0691.2012.04001.x
+
+Yang, C. Y., Bialecka-Fornal, M., Weatherwax, C., Larkin, J. W., Prindle, A., Liu, J.,
+et al. (2020). Encoding Membrane-Potential-Based Memory within a Microbial
+Community. Cell Syst. 10, 417–423.e413. doi: 10.1016/j.cels.2020.04.002
+Yuan, L., De Haan, P., Peterson, B. W., De Jong, E. D., Verpoorte, E., Van Der Mei,
+H. C., et al. (2020). Visualization of Bacterial Colonization and Cellular Layers
+in a Gut-on-a-Chip System Using Optical Coherence Tomography. Microsc.
+Microanal., 1–9. doi: 10.1017/S143192762002454X
+
+Zobell, C. E., and Allen, E. C. (1935). The Signiﬁcance of Marine Bacteria in the
+Fouling of Submerged Surfaces. J. Bacteriol. 29, 239–251. doi: 10.1128/
+JB.29.3.239-251.1935
+
+Conﬂict of Interest: The authors declare that the research was conducted in the
+absence of any commercial or ﬁnancial relationships that could be construed as a
+potential conﬂict of interest.
+
+Copyright © 2021 Beloin and McDougald. This is an open-access article distributed
+under the terms of the Creative Commons Attribution License (CC BY). The use,
+distribution or reproduction in other forums is permitted, provided the original author(s)
+and the copyright owner(s) are credited and that the original publication in this journal is
+cited, in accordance with accepted academic practice. No use, distribution or
+reproduction is permitted which does not comply with these terms.
+
+Frontiers in Cellular and Infection Microbiology | www.frontiersin.org
+
+5
+
+February 2021 | Volume 11 | Article 632429
+
+

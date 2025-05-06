@@ -1,0 +1,1399 @@
+A P P L I E D   S C I E N C E S   A N D   E N G I N E E R I N G
+
+Fluidic innervation sensorizes structures from a single 
+build material
+Ryan L. Truby1,2*†, Lillian Chin1†, Annan Zhang1, Daniela Rus1
+
+Multifunctional materials with distributed sensing and programmed mechanical properties are required for myriad 
+emerging technologies. However, current fabrication techniques constrain these materials’ design and sensing 
+capabilities. We address these needs with a method for sensorizing architected materials through fluidic innervation, 
+where distributed networks of empty, air-filled channels are directly embedded within an architected material’s 
+sparse geometry. By measuring pressure changes within these channels, we receive feedback regarding material 
+deformation. Thus, this technique allows for three-dimensional printing of sensorized structures from a single 
+material. With this strategy, we fabricate sensorized soft robotic actuators on the basis of handed shearing auxetics 
+and accurately predict their kinematics from the sensors’ proprioceptive feedback using supervised learning. Our 
+strategy for facilitating structural, sensing, and actuation capabilities through control of form alone simplifies 
+sensorized material design for applications spanning wearables, smart structures, and robotics.
+
+Copyright © 2022 
+The Authors, some 
+rights reserved; 
+exclusive licensee 
+American Association 
+for the Advancement 
+of Science. No claim to 
+original U.S. Government 
+Works. Distributed 
+under a Creative 
+Commons Attribution 
+License 4.0 (CC BY).
+
+INTRODUCTION
+Multifunctionality is a defining feature in the composition and forms 
+of biological systems (1, 2). For example, the xylem of vascular plants 
+participates in water and nutrient transport while directly contributing 
+to structural integrity and resiliency (3). Likewise, the hierarchical 
+structure of skeletal muscles facilitates the innervation and vascular-
+ization of densely packed muscle fibers, fulfilling the actuation, pro-
+prioception, and metabolic needs of vertebrate locomotion (4, 5). These 
+materials and structures have evolved to address multiple needs in a 
+single composite, enabling living organisms to efficiently achieve the 
+performance required for their continued survival and evolutionary 
+fitness. Inspired by these lessons, engineers have increasingly explored 
+multifunctionality in materials design as a strategy to improve the 
+performance, range of capabilities, and efficiency of a broad range 
+of new technologies (2, 6).
+
+In particular, a large subset of emerging technologies require multi-
+functional materials with programmable mechanical properties and 
+distributed sensing (6–9). Recent works have demonstrated that bio-
+inspired somatosensory materials can potentially address key per-
+formance  challenges  in  next-generation  smart  structures  (10–14), 
+wearable devices (15–18), and robots (19–24). However, the materials 
+used in these applications typically have strict mechanical require-
+ments, such as high strength-to-weight ratios, extreme stiffness or 
+compliance, and stretchability. These constraints make it difficult to 
+imbue existing optimized materials with sensing. Current approaches 
+to creating sensorized materials—and multifunctional materials in 
+general—involve the integration of multiple materials, either through 
+manual  assembly  (10,  14,  16,  18,  19,  21–24),  microfabrication 
+(15, 17, 20), or specialized three-dimensional (3D) printing methods 
+(11–13). These fabrication techniques involve specialized, low- 
+throughput, and/or complex methods or equipment that are often 
+limited in the materials they can assemble. Their limitations prevent 
+
+1Computer Science and Artificial Intelligence Laboratory, Massachusetts Institute 
+of Technology, Cambridge, MA 02139, USA. 2Departments of Materials Science and 
+Engineering  and  Mechanical  Engineering,  Northwestern  University,  Evanston,  IL 
+60208, USA.
+*Corresponding author. Email: rtruby@northwestern.edu
+†These authors contributed equally to this work.
+
+both  the  desired  mechanical  and  sensory  needs  from  being  met 
+optimally.
+
+Motivated by these challenges, we present a strategy for fabricating 
+multifunctional materials with programmable mechanical behaviors 
+and distributed sensing capabilities by controlling the form of a single 
+build material. Our strategy involves the sensorization of architected 
+materials with open fluidic networks, which we construct via 3D print-
+ing (Fig. 1) (25). Architected materials are a class of materials that 
+achieve tailorable mechanical properties entirely via geometry (26). 
+While this makes them excellent for achieving optimally programmed 
+mechanical performance, architected materials’ dependence on geo-
+metry makes them difficult to sensorize. We surmount this problem 
+by embedding empty, air-filled fluidic networks directly into an 
+architected material’s internal structure. Once sealed, the networks’ 
+internal pressures can be measured as voltage signals during deform-
+ation and can be used as sensory feedback. Similar cavity-based fluidic 
+sensors have been developed for tactile feedback in robotic grippers 
+with compliant fingertips (27, 28) and soft robotic tactile skins (29). 
+However,  all  of  these  methods  rely  on  molding-based  fabrication 
+methods, yielding relatively large sensors that only provide tactile 
+feedback. In contrast, our sensors are cocreated with the structure 
+during 3D printing, enabling our sensors to be incorporated within more 
+complex geometries and for more internal measurements. Likewise, 
+the analog electronic feedback that we receive from our sensors is 
+distinct from other types of soft fluidic sensors that provide solely 
+binary mechanical feedback (30, 31). For example, fluidic bistable 
+valves have enabled an electronics-free approach to reflexive tactile 
+sensing in soft robotic grippers that autonomously grasp upon con-
+tact with an object (30) and untethered soft robots that autonomously 
+reverse gait upon activation of the fluidic sensor with an obstruc-
+tion such as a wall (31). Sensing feedback from these fluidic sensors 
+are only compatible with fluidic logic-based controllers (30, 31), while 
+our sensors can interface with traditional electronic controllers through 
+a pressure transducer.
+
+Our methods present three key opportunities. First, fluidic inner-
+vation provides a straightforward route for placing, distributing, and 
+fabricating sensors within the sparse geometries of architected mate-
+rials. Second, our fluidic sensing strategy avoids the time-varying ef-
+fects common to current soft sensors. Soft sensors based on conductive 
+
+1 of 10
+
+Truby et al., Sci. Adv. 8, eabq4385 (2022)     10 August 2022SCIENCE ADVANCES | RESEARCH ARTICLEA
+
+E
+
+F
+
+B
+
+C
+
+Aspirate trapped resin
+
+Tubing
+
+Fluidic sensors
+
+Adhesive
+
+Left
+
+Middle
+
+Right
+
+D
+
+Top-left
+sensor
+
+Tubing
+
+Btm-left
+sensor
+
+Center
+sensor
+
+At rest
+
+Bend
+down
+
+Bend
+up
+
+Bend
+left
+
+Top
+
+Middle
+
+Bottom
+
+Bend
+right
+
+Top-left
+Top-mid
+Top-right
+
+Mid-left
+Center
+Mid-right
+
+Btm-left
+Btm-mid
+Btm-right
+
+Bend
+down
+
+Bend
+left
+
+Bend up and
+down 3×
+
+Bend left and
+right 3×
+
+Bend up
+
+Bend right
+
+G
+
+At rest
+
+Press left
+
+Press middle
+
+Press right
+
+Press sides
+
+Time (s)
+
+H
+
+Press left,
+middle, and
+right
+
+Press left 3×,
+middle 3×,
+and right 3×
+
+Press sides
+3×
+
+Fig. 1. Fluidically innervated architected materials. (A) A render (left) and photograph (right) of a sensorized cubic lattice. (B) Trapped resin (blue) is aspirated from the 
+printed networks via vacuum (left), and tubing is inserted into the fluidic channels after the final resin curing step (right). (C) The photograph shows the sensorized lattice 
+from behind with tubing running from each sensor. (D) The schematic shows a sensor map for the nine sensors in the lattice. (E) Photographs from movie S2 during 
+manual bending with (F) the corresponding voltage change, V, over time from all sensors. (G) Photographs from movie S2 during tactile, pressing interactions with 
+(H) the corresponding V over time for the same sensors. Scale bars, 1 cm. Mid, middle; Btm, bottom.
+
+Time (s)
+
+liquids,  piezoresistive  elastomers,  and  viscoelastic  waveguides  are 
+susceptible to drift and hysteresis because of their underlying micro-
+structures and/or physicochemical behaviors (32). Our fluidic sensing 
+strategy sidesteps these issues by directly reading pressure changes 
+of closed, deformable volumes patterned within the structure. Lastly, our 
+methods enable the creation of soft robotic systems with true so-
+matosensory capabilities by using machine learning to associate sensor 
+feedback with deformation for proprioception. Building off our re-
+cent efforts to develop compliant materials for motorized soft ro-
+bots  (33–35),  we  use  our  methods  to  sensorize  a  range  of  structures, 
+including  a  group  of  materials  called  handed  shearing  auxetics 
+(HSAs) that our group has previously introduced (33). This combi-
+nation  of  motors  and  fluidic  sensing  yields  a  soft  robotic  system 
+with robust actuation and perception capabilities. Our system is not 
+
+susceptible to failure by overpressurization or leakage as is common in 
+fluidically actuated soft robots, allowing us to operate the device for 
+extensive periods of time. We collect large sensorimotor datasets and 
+develop a deep neural network to proprioceptively predict the multi–
+degree-of-freedom (DOF) actuator’s kinematics. Fluidic innervation 
+of the HSAs’ complex, sparse geometry represents an embodiment of 
+a multifunctional construct that enables integrated structural, sens-
+ing, and actuation capabilities achieved from a single build material.
+
+RESULTS
+3D printing sensorized architected materials
+We  first  demonstrate our approach by 3D  printing sensorized 
+versions of common lattice architectures (Fig. 1A). As outlined in 
+
+2 of 10
+
+Truby et al., Sci. Adv. 8, eabq4385 (2022)     10 August 2022SCIENCE ADVANCES | RESEARCH ARTICLEFig. 1B, lattices with distributed fluidic networks are 3D printed from 
+photopolymer resins using digital light processing (DLP). Non-
+polymerized resin trapped within the fluidic networks during the 
+printing process is aspirated by vacuum (movie S1), and channels 
+are flushed with solvent and left empty. After parts are completely 
+cured, fluidic sensor networks are connected to differential pressure 
+transducers via elastomeric tubing (Fig. 1C) and sealed with adhe-
+sives. The fluidic channels are therefore filled with air only, and we 
+use the perceivable pressure changes of the closed volumes as the 
+basis of our fluidic sensors. While DLP affords the patterning reso-
+lution required to create our complex structures, the overall green 
+body  strength  and  printing  resin’s  viscosity  and  pot  life  limit  the 
+overall dimensions of fluidic features that we can pattern. We inves-
+tigate the fabricable sensor geometries for multiple printing resins 
+and find that the dimensions of successfully fabricated fluidic net-
+works are resin dependent (fig. S1; see Materials and Methods).
+
+According to Boyle’s law, deformation of the fluidically inner-
+vated materials results in changes of the internal pressure of the net-
+works, P, inversely proportional to volume changes (i.e., decreases 
+via compression and increases via extension). P is measured using 
+in-line differential pressure transducers, which report P-dependent 
+voltages, V. We demonstrate these operating principles in Fig. 1 using 
+the simple cubic lattice printed from an elastomeric resin (EPU 40, 
+Carbon). The lattice has nine straight fluidic sensors running along 
+its length (Fig. 1D). The “top” and “bottom” (Btm) sensors lie on 
+the top and bottom row of struts in the beam, respectively. The 
+“middle” (Mid) sensors lie in the center row of struts, at the approximate 
+neutral plane of the beam during downward and upward bending. 
+“Left,” “middle,” and “right” sensors fall in the leftmost, middle, 
+and rightmost columns of struts. Thus, left and right sensors lie on 
+opposite sides of the neutral plane when the beam undergoes left-
+ward and rightward bends. As the cubic lattice undergoes manual 
+bending (Fig. 1, E and F, and movie S2), we observe decreases in P 
+for the sensors lying above the neutral plane (V < 0), while sensors 
+below it report an increase in P (V > 0). Notably, middle sensors 
+lying in the neutral plane only produce a small voltage increase, 
+likely due to compression by the solid struts parallel to the direction 
+of  bending.  In  Fig.  1  (G  and  H)  and  movie  S2,  we  explore  tactile 
+sensor response by pressing on individual columns of sensors. In all 
+instances, we observe increases in P during compression (V > 0), 
+which  are  consistent  with  our  results  from  manual  bending.  We 
+also observe a depth-dependent response, with sensors closer to the 
+contact point providing greater V than those further from it. 
+Importantly, in both sets of experiments, we observe clear, highly 
+responsive feedback from all sensors during lattice deformation. Any 
+instances  where  V  does  not  return  to  V  =  0  after  deformation 
+result from either the lack of precise motion in manual deforma-
+tions or the intrinsic creep and stress relaxation of the proprietary 
+viscoelastic resins (35). Over a 12-hour thermal drift study, we ob-
+served stable sensing (fig. S3 and Supplementary Text). Figures S4 
+and S5 provide details of the data in Fig. 1 (E to H).
+
+Mechanical characterization of sensorized lattices
+We quantitatively study fluidic sensing with elastomeric, fluidically 
+innervated body-centered cubic (BCC) and octahedral lattices under-
+going compression (Fig. 2). Figure 2 (A and B) shows schematics of 
+the BCC and octahedral lattices with five fluidic sensors of approxi-
+mately equal volume (see table S1). We selected BCC (M = −13) and 
+octahedral lattices (M = 0) for their similar architecture yet different 
+
+bending- and stretching-dominated mechanical behaviors, respec-
+tively, according to Maxwell’s stability criterion, M. Figure S6 and 
+movie S3 demonstrate the individual sensitivity of the sensors, named 
+S1 to S5, through a tactile demonstration, where sensor responses 
+are recorded from the octahedral lattice as the lattice is manually 
+pressed directly onto or nearby the sensors.
+
+During compression testing (Fig. 2, C and D), we observe that 
+the octahedral lattice is stiffer than the BCC lattice (Fig. 2, E and G). 
+This stiffness is reflected in the higher V measured in the octahe-
+dral lattice’s sensors (Fig. 2, F and H), corresponding to higher forces 
+required for compression. In these experiments, we observe that the 
+five sensors in each lattice behave similarly for compressive forces 
+below approximately 100 N. Above 100 N, sensors in the octahedral 
+lattice show greater variability with increased compression on account 
+of the lattices’ extreme, heterogeneous deformation in this regime.
+
+To understand the dynamic response of the fluidic sensors under 
+step compressions, we recorded sensor responses for sensorized BCC 
+and octahedral lattices compressed to fixed distances (Fig. 3 and fig. 
+S7). Figure 3 provides the dynamic sensor responses of the BCC and 
+octahedral  lattices  undergoing  60-s  step  compressions  of  20  mm 
+(Fig. 3, Ai and Bi) and 1 mm (Fig. 3, Aiii and Biii). The correspond-
+ing mechanical responses measured are provided in Fig. 3 (A, ii and 
+iv, and B, ii and iv). The decrease in compressive force over the 60-s 
+hold indicates stress relaxation in the lattices. For each lattice, we 
+observe that the overall magnitude in sensor response V decreases 
+with decreasing compression distance. This is in agreement with 
+Fig. 2. Even the 1-mm compressions produce a measurable V, as 
+shown in plots (iv) of Fig. 3. We also see that the magnitude in sensor 
+response for each compression distance is greater for the stiffer octa-
+hedral lattice than the BCC. Importantly, though, we observe a time- 
+varying decay in V over the 60-s compression that corresponds to 
+the stress relaxation response in Fig. 3 (A, ii and iv, and B, ii and iv). 
+Movie  S4 shows an example compression  test  at  20 mm with the 
+octahedral lattice. In this video, the octahedral lattice requires several 
+seconds to return to its initial dimensions when the compressive force 
+is removed, revealing the extent of stress relaxation in these visco-
+elastic resins. Figure S7 shows additional sensor responses during 
+step compressions at 5 and 10 mm.
+
+Data from cyclic compression experiments in figs. S8 and S9 further 
+reveal that the viscoelasticity of the cross-linked resins is responsible 
+for any time-varying behavior in the sensors. Even after 10,000 cycles 
+of compression (fig. S10), we observe largely nonhysteretic sensor 
+responses given the fluidic sensing approach (Supplementary Text). 
+Overall, the fluidic sensors’ performance during mechanical char-
+acterization suggests that our sensorization technique is practical 
+for architected structures and is a reliable alternative to soft matter–
+based conductors.
+
+Sensorized HSAs
+We next turn to the sensorization of HSAs, a recently developed class 
+of architected materials that our group has developed for the design 
+of motorized soft robots (33–35). Through a repeated joint linkage 
+design, the HSA form tightly couples twisting with linear extension, 
+enabling a single motor to drive a pair of HSAs as a compliant, soft 
+robotic actuator. As with other architected materials, HSAs are dif-
+ficult to sensorize because of their complex forms, and sensors must 
+accommodate  HSAs’  extreme  deformation  (36).  Sensorizing  via 
+fluidic innervation bypasses this issue by allowing us to embed sensors 
+within the HSA architecture. Using a flexible polyurethane resin 
+
+3 of 10
+
+Truby et al., Sci. Adv. 8, eabq4385 (2022)     10 August 2022SCIENCE ADVANCES | RESEARCH ARTICLEA
+
+S1 S2 S3 S4 S5
+
+S5 S4 S3 S2 S1
+
+B
+
+S1 S2 S3 S4 S5
+
+S5 S4 S3 S2 S1
+
+C
+
+E
+
+BCC
+lattice
+
+D
+
+Octahedral
+lattice
+
+0 mm
+
+10 mm
+
+20 mm
+
+0 mm
+
+10 mm
+10 mm
+
+20 mm
+
+F
+
+G
+
+H
+
+S1
+S2
+S3
+S4
+S5
+
+S1
+S2
+S3
+S4
+S5
+
+Loading
+Unloading
+
+Loading
+Unloading
+
+Fig. 2. Sensory feedback in sensorized BCC and octahedral lattices. (A) BCC and (B) octahedral lattices sensorized with five fluidic sensors centered within the struc-
+ture. (Left) Face-on, (right)  perspective views. (C, D) Photographs from compression tests of sensorized BCC and octahedral lattices, respectively. The force versus com-
+pression data and voltage change, DV, versus compression response from all sensors are shown in (E, F) and (G, H) for the BCC and the octahedral lattices, respectively. In 
+(E-H), data points and error bands represent mean and standard deviation (n = 3), and loading and unloading data are provided as filled and unfilled symbols, respective-
+ly. (Scale bars represent 1 cm).
+
+(FPU 50, Carbon) (35), we 3D-printed two different sensorized HSAs 
+(sHSAs), each with three embedded fluidic sensors. The first sHSA 
+is based on a straight, unconstrained variety (Fig. 4A). The straight 
+sHSAs’  “full,”  “half,”  and  “quarter”  sensors  weave  through  the 
+sHSA structure, terminating at 1×, 0.5×, and 0.25× the sHSA length, 
+respectively. The second sHSA is based on a bending, constrained va-
+riety (Fig. 4B). Adding constraint features in the HSA turns other-
+wise linear extension into out-of-plane bending (34). The bending 
+sHSAs’  sensors  are  called  “1/4,”  “3/4,”  and  “1/2.”  We  select  these 
+asymmetric  sensor  designs  to  sense  different  areas  and  modes  of 
+sHSA  deformation.  All  investigated  sHSA  design  parameters  are 
+provided in table S2.
+
+We characterized fluidic sensor responses embedded in straight 
+sHSAs via cyclic tensile extension (Fig. 4C). sHSA extension yielded 
+increasing V for the full and half sensors (with 1.5-mm diameters; 
+Fig. 4D). As the sensors’ diameters were increased, we observed in-
+creasing sensitivity from the full and half sensors (fig. S11). This is 
+expected because larger sensor volumes provide larger pressure 
+changes  during  identical  deformations  (Supplementary  Text  and 
+table S2). Similarly, the quarter sensor’s small volume leads to neg-
+ligible sensitivity during linear extension in all cases. Following an 
+
+analogous investigation, we found that a sensor diameter of 1 mm is 
+appropriate for bending sHSAs given the reduced width of their 
+widest struts (Fig. 4B). We then used two oppositely handed bend-
+ing sHSAs and constructed the soft robotic finger shown in Fig. 4E, 
+fig. S12, and movie S5. While the sensors in this device have the 
+smallest volume of all sensors presented in this work, we see agree-
+ment  between  servo  input  and  V  for  the  3/4  and  1/2  sensors  in 
+Fig. 4F. The small- volume 1/4 sensors report a noisy response be-
+cause of their placement giving either a low sensitivity to bending or 
+a minimal deformation with respect to the locations of the rigid 
+constraint features.
+
+Learning kinematics of sHSA-based soft robots
+To  demonstrate  a  sensorized  version  of  an  electrically  driven, 
+sHSA-based soft robot, we constructed the system shown in Fig. 5A 
+and fig. S13. The design of this four-DOF soft robotic platform was 
+originally introduced in (34) and is composed here of four straight 
+sHSAs with 1.5-mm-diameter full, half, and quarter sensors. Each 
+sHSA  is  actuated  by  a  different  servo  motor,  with  neighboring 
+sHSAs having opposite handedness. Thus, the overall soft robot has 
+12 fluidic sensors and four servos for actuation. Figure 5 (A and B) 
+
+4 of 10
+
+Truby et al., Sci. Adv. 8, eabq4385 (2022)     10 August 2022SCIENCE ADVANCES | RESEARCH ARTICLEA
+
+i
+
+B
+
+i
+
+20-mm step compression
+
+1-mm step compression
+
+iii
+
+iv
+
+Time (s)
+
+Time (s)
+
+Time (s)
+
+iii
+
+iv
+
+ii
+
+ii
+
+S1
+S2
+S3
+S4
+S5
+
+S1
+S2
+S3
+S4
+S5
+
+Time (s)
+
+Time (s)
+
+Time (s)
+
+Time (s)
+
+Time (s)
+
+Fig. 3. Characterizing fluidic sensor responses during step compressions. Sensor and mechanical responses are provided for sensorized (A) BCC and (B) octahedral 
+lattices undergoing step compressions. Plots (i) and (iii) provide sensor voltage change, ∆V, over time for the five fluidic sensors, S1 to S5, during 20- and 1-mm step 
+compressions, respectively. Plots (ii) and (iv) provide the corresponding force and compression data over time, as measured via Instron during 60-s step compressions of 
+20 and 1 mm, respectively. The insets in (A, iii) and (B, iii) are scaled to observe the small but measurable sensor changes in response to 1 mm of compression. ∆V = 0 is 
+indicated in the insets by the dotted black line.
+
+A
+
+Mounting hole
+
+Sensor inlets
+
+B
+
+Sensor end
+
+Constraint features
+
+Full
+sensor
+
+Half
+sensor
+
+Quarter
+sensor
+
+3/4
+sensor
+
+1/2
+sensor
+
+1/4
+sensor
+
+C
+
+D
+
+)
+
+N
+
+(
+e
+c
+r
+o
+F
+
+E
+
+40
+
+30
+
+20
+
+10
+
+0
+
+–10
+
+0 10 20 30 40 50
+
+At rest
+
+Full
+Half
+Quarter
+
+2.0
+
+1.5
+
+1.0
+
+0.5
+
+0.0
+
+)
+
+V
+
+(
+
+V
+∆
+
+0 mm
+
+50 mm
+
+0 10 20 30 40 50
+Extension (mm)
+
+Bent
+
+F
+t
+u
+p
+n
+
+i
+
+o
+v
+r
+e
+S
+
+1500
+
+1000
+
+500
+
+0
+0
+0.60
+
+0.45
+
+0.30
+
+0.15
+
+0.00
+
+)
+
+V
+
+(
+
+V
+Δ
+
+20
+
+40
+
+L:
+R:
+
+3/4 1/2 1/4
+3/4 1/2 1/4
+
+–0.15
+
+0 10 20 30 40 50
+Time (s)
+
+Fig. 4. Sensorizing electrically actuatable HSAs. (A and B) Schematics of (A) straight and (B) bending sHSAs show the overall sHSA shape (top) and internal placement 
+of the fluidic sensors (bottom). (C) The photographs show a straight sHSA at 0- and 50-mm extension. (D) Plots of extension force (top) and voltage change, V, for the 
+full, half, and quarter sensors (bottom) versus extension are provided for 1.5-mm sensor diameters. Error bands represent SD (n = 3). Triangles pointing upward and 
+downward represent data points during extension from 0 to 50 mm and from 50 to 0 mm, respectively. (E) Photographs of a soft robotic actuator composed of two bend-
+ing sHSAs of opposite handedness show at-rest and bent configurations. (F) Plots of servo input (top) and V for the 3/4, 1/2, and 1/4 sensors in the left (L)– and right 
+(R)–handed sHSAs (1-mm sensor diameters) (bottom) versus time are provided as the actuator undergoes three actuation cycles. Scale bars, 1 cm.
+
+5 of 10
+
+Truby et al., Sci. Adv. 8, eabq4385 (2022)     10 August 2022SCIENCE ADVANCES | RESEARCH ARTICLEand movie S6 show several of the maneuvers capable with the soft 
+robot and the corresponding sensor responses, while fig. S14 pro-
+vides the corresponding servo inputs.
+
+Despite an increasing focus on data-driven approaches for solv-
+ing longstanding challenges in soft robot control (21, 23, 24, 37, 38), 
+the robustness and reliability of current soft robotic actuation and 
+sensing strategies limit the size of datasets that can be acquired for 
+proprioceptively determining shape or kinematics in soft sensorized 
+robots. For example, popular pneumatically actuated soft robots are 
+
+notoriously susceptible to premature failure from overpressurization 
+with repeated actuation, making it challenging to build sufficiently 
+large datasets. To evaluate the robustness of our system in alleviat-
+ing performance challenges in data-driven approaches to soft robotic 
+perception, we drove our soft robot through varying extents of its 
+four DOFs for over 18 hours of sensorimotor experimentation, mea-
+suring sensor responses against a motion capture ground truth. This 
+long data collection period is notably large for a soft robotic system. 
+As described in the Materials and Methods, we then used this large, 
+
+At rest
+
+Elongate
+
+Contract
+
+S. bend
+
+N. bend
+
+E. bend W. bend CW twist CCW twist
+
+5 s
+
+50 s
+
+105 s
+
+114 s
+
+Time (s)
+
+Prediction
+
+Ground truth
+
+)
+
+m
+m
+
+(
+Z
+
+160
+120
+80
+40
+0
+–50
+0
+Y (mm)
+
+50
+
+160
+120
+80
+40
+0
+–50
+
+–50
+
+0
+50
+X (mm)
+
+160
+120
+80
+40
+0
+–50
+
+–50
+
+0
+
+50
+
+0
+
+50
+
+160
+120
+80
+40
+0
+–50
+
+–50
+
+0 50
+
+0
+
+50
+
+–50
+0
+
+50
+
+0
+
+50
+
+A
+
+B
+
+C
+
+D
+
+Fig. 5. Proprioception in an sHSA robotic platform. (A) Photographs of an sHSA platform in motion and (B) corresponding changes in the voltage changes, V, over 
+time from the full (top), half (middle), and quarter sensors (bottom). (C) Snapshots from animations in movie S7 of the predicted and ground truth postures of the sHSA 
+platform are provided for an actuation sequence from our test set with (D) a corresponding plot of the position (Position) and orientation (Angle) error over time. The 
+animation snapshots aid in visualizing the predicted and ground truth platform predictions at 5, 50, 105, and 114 s. Scale bars, 25 mm. S, south; N, north; E, east; W, west; 
+CW, clockwise; CCW, counterclockwise.
+
+Time (s)
+
+6 of 10
+
+Truby et al., Sci. Adv. 8, eabq4385 (2022)     10 August 2022SCIENCE ADVANCES | RESEARCH ARTICLErich dataset to train a long short-term memory (LSTM)–based deep 
+neural network capable of proprioceptively predicting the soft ro-
+bot’s kinematics solely based on the data from 12 fluidic sensors as 
+model inputs (fig. S16). Other data-driven sensing pipelines based 
+on soft sensors with time-varying, hysteretic behaviors require neu-
+ral  networks  with  large  numbers  of  hidden  layers  (21,  23).  We 
+achieve accurate pose predictions of our sHSA platform with a sim-
+ple network architecture. Figure 5 (C and D) and movie S7 show 
+animated representations of our ground truth and model-predicted 
+rigid body pose of the platform with corresponding Euclidean dis-
+tance (i.e., position) error and rotational angle error over the course 
+of  representative  time  series  (see  fig.  S18  for  error  explanation). 
+While we certainly observe outlying instances, we generally observe 
+that kinematic predictions align well with ground truth when soft 
+robot  motion  is  more  continuous  and  holding  of  a  pose  is  mini-
+mized. We suspect that this is due to the use of voltage changes as 
+model inputs, as opposed to absolute voltage values. For interpret-
+ing the prediction data shown in Fig. 5 (C and D) and movie S7, we 
+note that the rest length of the sHSA platform is 120 mm, and the 
+maximum vertical extension is approximately 40 mm. The overall 
+position error in Fig. 5D is small compared to these lengths. Thus, 
+our  motorized  sHSAs  and  fluidic  sensing  strategies  allow  us  to 
+bring robust actuation and perception capabilities to soft robotics, 
+bypassing both of these problematic issues for the field.
+
+DISCUSSION
+We  have  demonstrated  the  versatility  and  integrity  of  our  fluidic 
+sensing strategy across a wide range of passive and active architected 
+materials. Using a DLP-based printing method, we simultaneously 
+create sensorized, architected materials and innervating vascular networks 
+for fluidic sensing, bypassing the need for copatterning structural 
+materials with conductive materials that have extreme time- varying 
+behaviors. Importantly, following a bioinspired approach to multi-
+functional material design, our strategy of sensorizing structures through 
+fluidic innervation greatly simplifies how materials with self-sensing 
+and programmed mechanical behaviors can be fabricated. Through 
+the sensorization of HSAs, we also introduce a soft robotic system 
+representing the first demonstration of how a single build material 
+can be architected to simultaneously achieve tailored structural 
+properties, distributed sensing, and actuation capabilities. While many 
+future sensorized materials and structures may require multiple 
+materials for their design specifications, our method showcases a 
+single-material approach to sensorizing architected materials, an im-
+portant class of materials whose sparse, complex geometries complicate 
+conventional approaches for fabricating sensing networks through-
+out. Moreover, many of these materials are already predominantly 
+fabricated with DLP and other light-based printing methods, making 
+our approach a strong fit for empowering future material research. 
+Coupling the simplicity of our sensorization approach with other digitally 
+fabricated materials could herald fundamentally new opportunities for 
+the design and manufacturing of sensorized materials for wearable 
+devices, smart structures, autonomous bioinspired robots, and beyond.
+
+MATERIALS AND METHODS
+3D printing fluidically innervated architected materials
+Fluidically innervated architected materials are parametrically de-
+signed in Rhino 6 and Grasshopper (Robert McNeel & Associates) 
+
+with the Shortest Walk and Crystallon Grasshopper plugins. All parts 
+are 3D-printed via DLP (Carbon M1 printer, Carbon Inc.) from 
+commercially available elastomeric polyurethane (EPU 40), FPU 50, 
+and transparent resin Loctite 3D IND405 (LOCTITE) photopolymer 
+resins (all from Carbon Inc.). The sensorized lattices and sHSAs are 
+printed from EPU and FPU, respectively. All transparent models are 
+printed from Loctite 3D IND405. The resins and printed structures 
+are used and postprocessed, respectively, according to the manu-
+facturer’s protocols. Supports are printed for sHSAs only. Tables S1 
+and S2 provide design parameters for all sensorized lattices and 
+sHSAs, respectively.
+
+The fluidic networks must be emptied and cleared of residual resin 
+to prevent occlusion of the sensors before any ultraviolet or thermal 
+curing steps are taken in the postprocessing procedures. Upon re-
+moval of the part from the build platform, fluidic sensor networks 
+are aspirated by vacuum. We use a vacuum to aspirate any remain-
+ing  resin  from  printed  fluidic  networks  because  positive  pressure 
+can rupture the fluidic channels in the green body state. The chan-
+nels are flushed with pressurized air, and isopropanol (IPA) is flushed 
+into the inlet of each sensor for 5 to 15 s to verify that the channel is 
+open. Channels are flushed a second time with pressurized air and 
+IPA. Parts are dried with pressurized air and postprocessed accord-
+ing to the manufacturer’s specifications.
+
+Sensorization and readout electronics
+Sensor networks are designed with an inlet and an outlet, where inlets 
+are locations for sensor tubing and outlets are included to facilitate 
+removal of residual resin. After postprocessing, the silicone tubing 
+(outer diameter of 0.94 mm and inside diameter of 0.51 mm; 
+McMaster Carr) is glued into each sensor inlet using Sil-Poxy (Smooth-
+On). Pressurized air is used to verify successful leak-proof adhesion 
+of the tubing to the sHSA, and sensor outlets are closed by filling 
+with a small amount of Sil-Poxy, creating a closed volume. Sensor 
+tubing is then joined to differential pressure sensors by threading the 
+sensor tubing into larger diameter tubing placed over the sensors’ 
+ports. Three differential pressure sensors (Amphenol, All Sensors) 
+are used to measure pressure changes in the ranges of 0 to 0.5 in 
+H2O (0.5 INCH-D1-4V-MINI), 0 to 1 in H2O (1 INCH-D1-P4V-
+MINI), and 0 to 5 in H2O (5 INCH-D1-P4V-MINI). Range 0 to 5 in 
+H2O differential pressure sensors is used for the fluidically innervated 
+cubic, BCC, and octahedral lattices. Range 0 to 1 in H2O pressure 
+sensors is used for the full and half sensors of straight sHSAs, as well 
+as the 3/4 and 1/2 sensors of the bending sHSAs. Range 0 to 0.5 in 
+H2O pressure sensors is used for the quarter and 1/4 sensors of the 
+straight and bending sHSAs, respectively. All output voltage signals 
+from differential pressure sensors are filtered by a low-pass filter 
+(cutoff frequency of ≈30 Hz) and read by a digital acquisition unit 
+(NI USB-6212 DAQ, National Instruments). All reported sensor 
+outputs are unfiltered.
+
+The differential pressure sensors have two ports. The nominal 
+voltage at a zero differential pressure (i.e., when both ports are at 
+atmospheric pressure) is 2.25 V (specification sheet, Miniature 
+Amplified Low-Pressure Sensors, All Sensors). Therefore, one can 
+select  which  port  is  connected  to  the  fluidic  sensor  to  achieve  an 
+increasing/decreasing voltage change with respect to 2.25 V for an 
+increasing pressure in the fluidic sensor. As discussed in greater de-
+tail in Supplementary Text, we mitigate effects due to thermal drift 
+by connecting the second port of the differential pressure sensor to 
+a dummy line, which comprises identical silicone tubing that wraps 
+
+7 of 10
+
+Truby et al., Sci. Adv. 8, eabq4385 (2022)     10 August 2022SCIENCE ADVANCES | RESEARCH ARTICLEaround the tubing to the functional fluidic sensor. After all tubing 
+are sealed and connected to the differential pressure sensor, we allow 
+the sensors to reach equilibrium internal pressures for 48 hours, which 
+is the time point on which a differential pressure sensor connected 
+to a fluidic network reports a nominal voltage of approximately 2.25 V.
+
+Print parameter characterization
+The pressure drop, P, required to remove all remaining resin via 
+vacuum is dependent on the length, L, and radius, R, of the network, 
+per the Hagen-Poiseuille equation
+
+ P  =    
+
+8L
+ ─ 
+  R   4 
+
+   Q  
+
+where  is the resin viscosity and Q is the flow rate initiated by the 
+vacuum. To evaluate the fabricability of fluidic networks in archi-
+tected materials, cubic lattices innervated with straight fluidic chan-
+nels  are  printed  as  model  structures  with  which  print  parameters 
+can be screened. The lattices have a unit cell size of 5 mm, width of 
+five cells, length of five cells, and a strut diameter of 2 mm. Within 
+each lattice, there are 21 straight fluidic channels that span the height 
+of the lattice, corresponding to three replicates of seven different 
+channel diameters (i.e., 2R) 0.5, 0.75, 1.0, 1.25, 1.5, 1.75, and 2.0 mm. 
+Six different heights (i.e., L) are evaluated: 5, 10, 25, 50, 75, and 
+100 mm. Pressurized air is flushed through each channel, which are 
+noted as successful if air flows through freely and failed if air flow is 
+blocked by incomplete removal of resin.
+
+Characterization of sensorized lattices
+Nine sensor responses in the cubic lattices are characterized by manual 
+deformation in directional bending and pressing motifs. Five sensor 
+responses from BCC and octahedral lattices are characterized using 
+an Instron during cyclic, uniaxial compression. The BCC and octa-
+hedral lattices’ fluidic sensors have approximately equal volume and 
+are positioned vertically within one central row of unit cells. Sensors 
+from all sensorized lattices are measured at a sampling frequency of 
+50 Hz in all characterization experiments.
+
+BCC  and  octahedral  lattices  undergo  two  rounds  of  break-in 
+compression cycles before further characterization: 100 cycles of 
+compression to 10 mm at 1 mm/s and 100 cycles of compression to 
+20 mm at 5 mm/s. The lattices are then compressed at 2.5-mm in-
+crements from 0 to 20 mm and then decompressed from 20 to 
+0 mm. At each (de)compression interval, a force measurement is 
+recorded from the Instron, and the sensor readings are recorded for 
+10 s, over which a mean and SD output voltage is determined for 
+each sensor. This process is repeated three times.
+
+Step compressions on BCC and octahedral lattices are conducted 
+on an Instron. The lattices are compressed at 20 mm/s by 20, 10, 5, 
+and 1 mm for 60 s. These compression distances correspond to com-
+pressive strains of 0.4, 0.2, 0.1, and 0.02, respectively, as the lattice 
+structures are approximately 50 mm in height. Compressive load is 
+removed at 20 mm/s. Sensor readings are taken before, during, and 
+after the step compression.
+
+Lastly, the BCC lattice was cyclically compressed 10,000 cycles to 
+10 mm at 1 mm/s. For this study, sensor readings were recorded at 5 Hz.
+
+Characterization of sHSAs
+Sensor responses from straight sHSAs are characterized using an 
+Instron during cyclic, uniaxial extension. Straight sHSAs with fluidic 
+
+sensor  diameters  of  0.75,  1,  1.25,  1.5,  and  1.75  mm  were  studied. 
+Custom adapters are used to mount the straight sHSAs to the In-
+stron to allow for free rotation of one end of the sHSA while fixing 
+the other. Straight sHSAs are stretched in 5-mm increments from 
+0 to 50 mm and then back to 0 mm, with sensor readings recorded 
+from each sensor by measuring the mean and SD of the reading 
+over 10 s of sampling at 50 Hz. Experiments are repeated three times. 
+Before all experiments, straight sHSAs are cyclically extended 50 mm 
+at 10 mm/s for 100 cycles as break-in to remove any strain-softening 
+behaviors due to the Mullins effect. sHSAs are then cycled at 1 mm/s 
+for 10 cycles to validate that no leaks are present.
+
+Bending sHSA assemblies are actuated using Dynamixel MX-28 
+servos (ROBOTIS) and are controlled via MATLAB (MathWorks). 
+Two sHSAs, each of opposite handedness, are counterrotated against 
+each other in a geared setup with a single servo. Sensor readings are 
+collected at ≈15 Hz.
+
+sHSA soft robotic platform
+Soft robotic fingers and multi-DOF platforms are constructed [as 
+previously described in (35)] from sHSAs. Briefly, sHSA fingers and 
+platforms are based on 2 × 1 and 2 × 2 assemblies of sHSAs with 
+opposite handedness, respectively. Fingers are driven by one ser-
+vo motor, while platforms are driven by four servo motors (i.e., one 
+servo  per sHSA). All soft robotic systems are actuated using 
+Dynamixel MX-28 servos (ROBOTIS) and are controlled via MATLAB 
+(MathWorks).
+
+Data collection with sHSA platform
+Data for neural network prediction of the sHSA platform’s pose 
+were taken by driving the platform through a series of motions 
+while simultaneously recording sensor values against a motion cap-
+ture ground truth. For all experiments, the sHSA platform is actuated 
+through a sequence of motions, returning to its neutral position after 
+each one. The motions are elongation, contraction, bend forward 
+(or north bend), bend backward (or south bend), bend left (or 
+west bend), bend right (or east bend), clockwise twist, and counter- 
+clockwise twist. For each trial, all of the motions are performed, 
+but the order in which they are performed is randomized.
+
+During these experiments, output voltage signals from differ-
+ential pressure sensors are recorded by a digital acquisition unit 
+(NI USB-6212 DAQ, National Instruments) through MATLAB 
+(MathWorks). MATLAB also directly records servo position feed-
+back from Dynamixel MX-28 servos (ROBOTIS). Ground truth 
+readings are recorded through rigid body motion tracking via Motive 
+(OptiTrack). Data across software are synchronized via the inter-
+polation of UNIX time stamps associated with each measurement, 
+resulting in a final sampling frequency of 15 Hz. To normalize across 
+trials, the initial sensor measurement for each trial is recorded as 
+0 V, so further sensor readings are reported as the pressure differ-
+ence in the fluidic sensors.
+
+To add variance across trials, a specific servo velocity, extent of 
+motion range, and end-of-movement hold time are chosen from a 
+preselected list of options. This causes each trial to be of different 
+lengths, making it harder for the neural network to track spurious 
+patterns. For example, a faster servo velocity will result in the se-
+quence being completed in less time. The servo speeds studied were 5, 
+10, 20, and 40 rpm. The hold times studied were 0, 5, and 10 s. The 
+range fractions studied were 25, 50, 75, and 100% of full DOF range. For 
+each given velocity, range, and hold time, five trials were conducted.
+
+8 of 10
+
+Truby et al., Sci. Adv. 8, eabq4385 (2022)     10 August 2022SCIENCE ADVANCES | RESEARCH ARTICLE 
+In summary, 240 trials were autonomously recorded over a single 
+7-hour period. Nineteen of these trials did not have accurate syn-
+chronization between the motion capture and MATLAB recordings 
+and were omitted. Nine more of these trials were found to have 
+errors in the data concatenation process and were omitted as well. 
+These experiments formed the dataset used for the neural network 
+training, testing, and validation. A total of 11 hours of additional 
+experiments was conducted to debug the data collection script, to 
+break in and calibrate the sHSAs, and to take videos and photographs.
+
+Neural network design, training, and testing
+Learning problem
+To estimate the forward kinematics of the four-DOF sHSA platform, 
+a neural network that predicts its pose (i.e., position and orienta-
+tion) solely using analog voltage readings from the fluidic sensors as 
+input  is  developed.  Because  time-dependent  effects  such  as  stress 
+relaxation and creep are inherent to viscoelastic materials used for 
+HSAs, the input-output relation is modeled with LSTM networks, a 
+class of neural networks commonly used for learning-based proprio-
+ception in soft robotics because of their ability to capture temporal 
+relations (21, 23, 24, 37).
+Data preprocessing
+Of the 212 remaining time sequences, the last 32 are set aside as the 
+test set. Because these test data are neither used for model training 
+nor for model selection, evaluating the final LSTM on it provides an 
+unbiased estimate of the system performance in deployment. The 
+data from the remaining 180 experiments account for ≈85% of the 
+total  data  and  form  the  basis  for  the  training  and  validation  sets. 
+Because the longest of these recordings consists of 3688 time steps, 
+which is difficult to learn even for LSTMs, sequences of a more 
+manageable length are extracted by sliding a window of length 64 
+over each recording (fig. S15). To simultaneously augment the data-
+set, the window is slid with a stride of 20. The first data point in each 
+recording (zero voltage difference for input data; initial pose for out-
+put data) is duplicated until the length of the recording equals 64 plus 
+a multiple of 20. In this way, a total of 14,528 sequences with length 
+64 are generated. A total of 1453 (≈10%) are split off randomly as a 
+validation set to evaluate a particular choice of hyperparameters during 
+the model selection process. Lastly, training and validation sets are 
+shuffled, inputs are normalized to zero mean and unit variance, and 
+outputs are normalized to zero mean.
+Neural network architecture
+The neural network reads in a time sequence of 12D vectors (sensor 
+voltages) and outputs a time sequence of 7D vectors (platform pose) 
+with equal length (fig. S16). The inputs are first passed through stacked 
+LSTM layers, where the number of layers and the number of hidden 
+and cell states are tunable hyperparameters. The output of the LSTM 
+layers  are  then  passed  through  a  fully  connected  layer  with  equal 
+input and output dimensions, followed by ReLU (rectified linear unit) 
+activation. The data are passed through another fully connected layer 
+that outputs a 7D vector. Lastly, a normalization layer is applied to 
+the four values corresponding to the orientation prediction be-
+cause an orientation is given by a 4D vector that represents the co-
+efficients of a unit quaternion. To mitigate overfitting, the first fully 
+connected layer and all LSTM layers are equipped with a dropout 
+probability of 0.2.
+
+Because the coefficients of unit quaternions can be interpreted as 
+points on a 4D hypersphere, the distance between two quaternions are 
+described by the geodesic distance on the hypersphere. Furthermore, 
+
+by definition of quaternions, antipodal points on the hypersphere 
+describe the same orientation in 3D Euclidean space. However, the 
+simple mean squared error (MSE) is found to be sufficient in prac-
+tice, although it neglects both the curvature of the hypersphere and 
+the symmetry of quaternions. This choice is reasonable as long as 
+training converges, because the Euclidean distance approximates the 
+geodesic distance for quaternions close to each other. The loss be-
+tween predicted and ground truth pose is therefore computed as the 
+sum of the position MSE and the quaternion MSE, although addition-
+ally weighted by a hyperparameter that balances the relative impor-
+tance of minimizing these errors.
+Model selection
+Starting around an initial configuration found by following the best 
+practice guidelines for training LSTMs (39), a grid search over the 
+following hyperparameters is performed: quaternion weight (10, 100, 
+and 1000), initial learning rate (0.001, 0.005, and 0.01), number of 
+LSTM layers (1, 2, and 3), and number of hidden and cell states (50, 
+100, 150, and 200). Implemented in PyTorch, all models are trained 
+with the Adam optimizer and a batch size of 32 for 100 epochs. The 
+learning rate scheduler halves the learning rate when the validation 
+error does not improve for 20 epochs. To avoid overfitting, an early 
+stopping rule observing the loss on the validation set is used. In other 
+words, while training with a particular choice of hyperparameters, 
+only the model that shows the lowest validation error across all 100 
+epochs is retained. To account for randomness during neural net-
+work training, the validation loss for a particular choice of hyper-
+parameters is averaged over a total of three runs. Lastly, the model 
+with the lowest validation error across all possible choices of 
+hyperparameters is retrained for 1000 epochs. Out of three runs, 
+the run with the lowest validation loss is kept as the best model for 
+evaluation on the test set. The summary statistics of this hyperpa-
+rameter search can be found in table S1 and fig. S17.
+
+SUPPLEMENTARY MATERIALS
+Supplementary material for this article is available at https://science.org/doi/10.1126/
+sciadv.abq4385
+
+REFERENCES AND NOTES
+  1.  U. G. K. Wegst, H. Bai, E. Saiz, A. P. Tomsia, R. O. Ritchie, Bioinspired structural materials. 
+
+Nat. Mater. 14, 23–36 (2015).
+
+  2.  M. Eder, S. Amini, P. Fratzl, Biological composites–complex structures for functional diversity. 
+
+Science 362, 543–547 (2018).
+
+  3.  L. J. Gibson, The hierarchical structure and mechanics of plant materials. J. R. Soc. Interface 
+
+9, 2749–2766 (2012).
+
+  4.  W. R. Frontera, J. Ochala, Skeletal muscle: A brief review of structure and function. Calcif. 
+
+Tissue Int. 96, 183–195 (2015).
+
+  5.  J. C. Tuthill, E. Azim, Proprioception. Curr. Biol. 28, R194–R203 (2018).
+  6.  M. A. McEvoy, N. Correll, Materials that couple sensing, actuation, computation, and 
+
+communication. Science 347, 1261689 (2015).
+
+  7.  G.-Z. Yang, J. Bellingham, P. E. Dupont, P. Fischer, L. Floridi, R. Full, N. Jacobstein, V. Kumar, 
+M. McNutt, R. Merrifield, B. J. Nelson, B. Scassellati, M. Taddeo, R. Taylor, M. Veloso, Z. L. Wang, 
+Robert Wood, the grand challenges of Science Robotics. Sci. Robot. 3, eaar7650 (2018).
+  8.  C. Kaspar, B. J. Ravoo, W. G. van der Wiel, S. V. Wegner, W. H. P. Pernice, The rise of intelligent 
+
+matter. Nature 594, 345–355 (2021).
+
+  9.  M. Kaur, T.-H. Kim, W. S. Kim, New frontiers in 3D structural sensing robots. Adv. Mater. 33, 
+
+2002534 (2021).
+
+  10.  N. C. Sears, J. D. Berrigan, P. R. Buskohl, R. L. Harne, Flexible hybrid electronic material 
+
+systems with programmable strain sensing architectures. Adv. Eng. Mater. 20, 1800499 
+(2018).
+
+  11.  Y. Yang, X. Li, M. Chu, H. Sun, J. Jin, K. Yu, Q. Wang, Q. Zhou, Y. Chen, Electrically assisted 
+
+3D printing of nacre-inspired structures with self-sensing capability. Sci. Adv. 5, eaau9490 
+(2019).
+
+9 of 10
+
+Truby et al., Sci. Adv. 8, eabq4385 (2022)     10 August 2022SCIENCE ADVANCES | RESEARCH ARTICLE  12.  R. Hensleigh, H. Cui, Z. Xu, J. Massman, D. Yao, J. Berrigan, X. Zheng, Charge-programmed 
+three-dimensional printing for multi-material electronic devices. Nat. Electron. 3, 216–224 
+(2020).
+
+  13.  J. Gong, O. Seow, C. Honnet, J. Forman, S. Mueller, MetaSense: Integrating sensing 
+capabilities into mechanical metamaterial, in Proceedings of the 34th Annual ACM 
+Symposium on User Interface Software and Technology (Association for Computing 
+Machinery, 2021), pp. 1063–1073.
+
+  14.  C. El Helou, P. R. Buskohl, C. E. Tabor, R. L. Harne, Digital logic gates in soft, conductive 
+
+mechanical metamaterials. Nat. Commun. 12, 1633 (2021).
+
+  15.  D. Son, J. Lee, S. Qiao, R. Ghaffari, J. Kim, J. E. Lee, C. Song, S. J. Kim, D. J. Lee, S. W. Jun, 
+
+S. Yang, M. Park, J. Shin, K. Do, M. Lee, K. Kang, C. S. Hwang, N. Lu, T. Hyeon, D.-H. Kim, 
+Multifunctional wearable devices for diagnosis and therapy of movement disorders. 
+Nat. Nanotechnol. 9, 397–404 (2014).
+
+  16.  H. Zhao, K. O’Brien, S. Li, R. F. Shepherd, Optoelectronically innervated soft prosthetic 
+
+hand via stretchable optical waveguides. Sci. Robot. 1, eaai7529 (2016).
+
+  17.  M. Rein, V. D. Favrod, C. Hou, T. Khudiyev, A. Stolyarov, J. Cox, C.-C. Chung, C. Chhav, 
+
+M. Ellis, J. Joannopoulos, Y. Fink, Diode fibres for fabric-based optical communications. 
+Nature 560, 214–218 (2018).
+
+  18.  H. Bai, S. Li, J. Barreiros, Y. Tu, C. R. Pollock, R. F. Shepherd, Stretchable distributed 
+
+fiber-optic sensors. Science 370, 848–852 (2020).
+
+  19.  C. Larson, B. Peele, S. Li, S. Robinson, M. Totaro, L. Beccai, B. Mazzolai, R. Shepherd, Highly 
+stretchable electroluminescent skin for optical signaling and tactile sensing. Science 351, 
+1071–1074 (2016).
+
+  20.  R. L. Truby, M. Wehner, A. K. Grosskopf, D. M. Vogt, S. G. M. Uzel, R. J. Wood, J. A. Lewis, 
+Soft somatosensitive actuators via embedded 3D printing. Adv. Mater. 30, 1706383 
+(2018).
+
+  21.  T. G. Thuruthel, B. Shih, C. Laschi, M. T. Tolley, Soft robot perception using embedded soft 
+
+sensors and recurrent neural networks. Sci. Robot. 4, eaav1488 (2019).
+
+  22.  P. A. Xu, A. K. Mishra, H. Bai, C. A. Aubin, L. Zullo, R. F. Shepherd, Optical lace for synthetic 
+
+afferent neural networks. Sci. Robot. 4, eaaw6304 (2019).
+
+  23.  R. L. Truby, C. D. Santina, D. Rus, Distributed proprioception of 3D configuration in soft, 
+sensorized robots via deep learning. IEEE Robot. Autom. Lett. 5, 3299–3306 (2020).
+
+  24.  S. A. Manzano, P. Xu, K. Ly, R. Shepherd, N. Correll, High-bandwidth nonlinear control for 
+soft actuators with recursive network models. arXiv:2101.01139 [cs.RO] (4 January 
+2021).
+
+  25.  J. R. Tumbleston, D. Shirvanyants, N. Ermoshkin, R. Janusziewicz, A. R. Johnson, D. Kelly, 
+K. Chen, R. Pinschmidt, J. P. Rolland, A. Ermoshkin, E. T. Samulski, J. M. DeSimone, 
+Continuous liquid interface production of 3D objects. Science 347, 1349–1352 (2015).
+  26.  K. Bertoldi, V. Vitelli, J. Christensen, M. van Hecke, Flexible mechanical metamaterials. 
+
+Nat. Rev. Mater. 2, 17066 (2017).
+
+  27.  J. Kim, A. Alspach, K. Yamane, 3D printed soft skin for safe human-robot interaction, in 
+2015 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (IEEE, 
+2015), pp. 2419–2425.
+
+  28.  L. He, Q. Lu, S.-A. Abad, N. Rojas, T. Nanayakkara, Soft fingertips with tactile sensing 
+
+and active deformation for robust grasping of delicate objects. IEEE Robot. Autom. Lett. 5, 
+2714–2721 (2020).
+
+  29.  A. M. Gruebele, M. A. Lin, D. Brouwer, S. Yuan, A. C. Zerbe, M. R. Cutkosky, A stretchable 
+
+tactile sleeve for reaching into cluttered spaces. IEEE Robot. Autom. Lett. 6, 5308–5315 (2021).
+  30.  P. Rothemund, A. Ainla, L. Belding, D. J. Preston, S. Kurihara, Z. Suo, G. M. Whitesides, A soft, 
+bistable valve for autonomous control of soft actuators. Sci. Robot. 3, eaar7986 (2018).
+  31.  D. Drotman, S. Jadhav, D. Sharp, C. Chan, M. T. Tolley, Electronics-free pneumatic circuits 
+
+for controlling soft-legged robots. Sci. Robot. 6, eaay2627 (2021).
+
+  32.  S. Li, H. Bai, R. F. Shepherd, H. Zhao, Bio-inspired design and additive manufacturing 
+
+of soft materials, machines, robots, and haptic interfaces. Angew. Chem. Int. Ed. 58, 
+11182–11204 (2019).
+
+  33.  J. I. Lipton, R. MacCurdy, Z. Manchester, L. Chin, D. Cellucci, D. Rus, Handedness in 
+
+shearing auxetics creates rigid and compliant structures. Science 360, 632–635 (2018).
+
+  34.  L. Chin, J. Lipton, R. MacCurdy, J. Romanishin, C. Sharma, D. Rus, Compliant electric 
+
+actuators based on handed shearing auxetics, in Proceedings of the 2018 IEEE-RAS 
+International Conference on Soft Robotics (RoboSoft) (IEEE, 2018), pp. 100–107.
+  35.  R. L. Truby, L. Chin, D. Rus, A recipe for electrically-driven soft robots via 3D printed 
+
+handed shearing auxetics. IEEE Robot. Autom. Lett. 6, 795–802 (2021).
+
+  36.  L. Chin, M. C. Yuen, J. Lipton, L. H. Trueba, R. Kramer-Bottiglio, D. Rus, A simple electric soft 
+robotic gripper with high-deformation haptic feedback, in Proceedings of the 2019 
+International Conference on Robotics and Automation (ICRA) (IEEE, 2019), pp. 2765–2771.
+
+  37.  R. K. Mehta, A. P. Sabelhaus, A. T. Wertz, C. Majidi, In-situ sensing and dynamics predictions 
+
+for electrothermally-actuated soft robot limbs. arXiv:2111.04851 [cs.RO] (7 March 2022).
+
+  38.  K. Chin, T. Hellebrekers, C. Majidi, Machine learning for soft robotic sensing and control. 
+
+Adv. Intell. Syst. Comput. 2, 1900171 (2020).
+
+  39.  A. Géron, Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, 
+
+Tools, and Techniques to Build Intelligent Systems (O’Reilly Media, 2019).
+
+Acknowledgments: We would like to thank R. Hasani (MIT) for valuable discussions around 
+data augmentation techniques for LSTM training. Funding: This work was supported by 
+National Science Foundation EFRI grant 1830901; the Schmidt Science Fellows Program, in 
+partnership with the Rhodes Trust (to R.L.T.); National Science Foundation Graduate Research 
+Fellowship 1122374 (to L.C.); and the Fannie and John Hertz Foundation (to L.C.) Author 
+Contributions: R.L.T. and L.C. conceived the study. R.L.T. and D.R. supervised the project. R.L.T. 
+and L.C. planned and performed the experiments, and R.L.T., L.C., and A.Z. collected and 
+analyzed the data. All authors discussed the results and wrote the manuscript. Competing 
+interests: The authors have filed a provisional patent application related to this work: U.S. 
+application no.: 63/283,655, “Distributed proprioception in soft, architected materials via 
+fluidic innervation,” filed 29 November 2021. The authors declare that they have no other 
+competing interests. Data and materials availability: http://people.csail.mit.edu/ltchin/
+sHSA_data/ contains the data and code used to train and evaluate the neural network that 
+predicts the pose of the sHSA platform from its proprioceptive sensors, as well as the code 
+used to generate renders of the sHSA platform. All other data needed to evaluate the 
+conclusions in the paper are present in the paper and/or the Supplementary Materials.
+
+Submitted 8 April 2022
+Accepted 27 June 2022
+Published 10 August 2022
+10.1126/sciadv.abq4385
+
+10 of 10
+
+Truby et al., Sci. Adv. 8, eabq4385 (2022)     10 August 2022SCIENCE ADVANCES | RESEARCH ARTICLE

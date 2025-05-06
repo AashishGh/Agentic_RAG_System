@@ -1,0 +1,1367 @@
+Review
+Bioﬁlms: The Microbial “Protective Clothing” in
+Extreme Environments
+
+Wen Yin, Yiting Wang, Lu Liu and Jin He *
+
+State Key Laboratory of Agricultural Microbiology, College of Life Science and Technology, Huazhong
+Agricultural University, Wuhan 430070, China
+* Correspondence: hejin@mail.hzau.edu.cn; Tel.: 86-27-87280670; Fax: 86-27-87280670
+
+Received: 31 May 2019; Accepted: 11 July 2019; Published: 12 July 2019
+
+Abstract: Microbial bioﬁlms are communities of aggregated microbial cells embedded in a
+self-produced matrix of extracellular polymeric substances (EPS). Bioﬁlms are recalcitrant to extreme
+environments, and can protect microorganisms from ultraviolet (UV) radiation, extreme temperature,
+extreme pH, high salinity, high pressure, poor nutrients, antibiotics, etc., by acting as “protective
+clothing”. In recent years, research works on bioﬁlms have been mainly focused on bioﬁlm-associated
+In this review, we focus instead on
+infections and strategies for combating microbial bioﬁlms.
+the contemporary perspectives of bioﬁlm formation in extreme environments, and describe the
+fundamental roles of bioﬁlm in protecting microbial exposure to extreme environmental stresses
+and the regulatory factors involved in bioﬁlm formation. Understanding the mechanisms of bioﬁlm
+formation in extreme environments is essential for the employment of beneﬁcial microorganisms and
+prevention of harmful microorganisms.
+
+Keywords: microorganism; extreme environment; bioﬁlm; extracellular polymeric substances (EPS);
+adaptative mechanism
+
+1. Introduction
+
+In the natural world, there exist some extremely harsh environments [1,2], such as high-intensity
+ultraviolet (UV) radiation, high or low temperature, high alkalinity, high acidity, high salinity,
+high pressure, poor nutrients, plentiful antibiotics, etc. Previously, these environments are considered
+to be life prohibiting; however, after further exploration, these extreme environments are in fact
+found to contain abundant microorganisms. They are not only alive, but also thrive well in extreme
+environments that were formerly thought to be inhospitable to life [3]. Microorganisms that are able to
+survive in these extreme environments are called extremophiles [4,5], which include radiation-resistant
+extremophiles, thermophiles, psychrophiles, alkaliphiles, acidophiles, halophiles, piezophiles, etc.
+Each microorganism surviving under these extreme conditions exhibits its speciﬁc resistant mechanism,
+among which the role of bioﬁlm is considered to be crucial [6,7].
+
+Int. J. Mol. Sci. 2019, 20, 3423; doi:10.3390/ijms20143423
+
+www.mdpi.com/journal/ijms
+
+ International Journal of Molecular Sciences(cid:1)(cid:2)(cid:3)(cid:1)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:1)(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)Int. J. Mol. Sci. 2019, 20, 3423
+
+2 of 18
+
+A bioﬁlm is an organized aggregate of microorganisms living within a self-produced matrix of
+extracellular polymeric substances (EPS) that is attached to a biotic or abiotic surface [8–10]. It is
+considered to be one of the most widely distributed and successful modes of life on the Earth [11], and in
+most natural environments, a bioﬁlm is the predominating microbial lifestyle [12]. Indeed, fossilized
+bioﬁlms have been found in a 3.2 billion-year-old deep-sea volcanogenic massive sulﬁde deposit from
+the Pilbara Craton of Australia [13], and in a 3.3 to 3.4 billion-year-old hydrothermally inﬂuenced
+sediment from the Barberton greenstone belt of South Africa [14]. Similar bioﬁlm structures have also
+been identiﬁed in modern hydrothermal systems, such as deep-sea vents [15] and hot springs [16].
+These data suggest that the ability to form bioﬁlms can protect microorganisms from extreme
+environments [17,18]. Further studies have also shown that bioﬁlms can increase microbial resistances
+against UV radiation [19], extreme temperature and pH [20–22], high salinity [23], high pressure [24],
+poor nutrients [25], various antibiotics [26], etc. The resistance of bioﬁlms against extreme environments
+seems to be capable of creating a suitable habitat for microbial populations, makes the exchange of
+substances and information between microorganisms more convenient, and is thus a self-protective
+mechanism for the growth of microorganisms [27]. The morphological structures of microorganisms
+in the bioﬁlm and their sensitivity to environmental factors as well as biological characteristics
+are substantially diﬀerent to planktonic microorganisms [28]. Such a three-dimensional structure
+of bioﬁlm seems to provide a natural barrier and protective layer to microorganisms; in addition,
+the immobile microorganisms in EPS are more resistant to extreme environments than planktonic
+microorganisms [29].
+
+In the current review, we try to provide contemporary perspectives on the molecular mechanism
+of bioﬁlm formation, the roles of bioﬁlm in extreme environments, and the various signaling cascades
+involved in bioﬁlm formation.
+It aims at providing new ideas for the employment of beneﬁcial
+microorganisms, as well as the prevention and control of harmful microorganisms.
+
+2. Microbial Bioﬁlms
+
+Bioﬁlm formation is a complex and dynamic process, in which organized communities of
+microorganisms are encased in a matrix of EPS that cluster microbial cells together [30,31]. EPS are
+mainly composed of polysaccharides, proteins, lipids, and nucleic acids (RNA and extracellular DNA
+(eDNA)) [32,33], which form a highly hydrated polar mixture that contributes to the overall scaﬀold
+and three-dimensional structure of a bioﬁlm.
+
+The bioﬁlm lifestyle is an endless cycle, and the process of bioﬁlm formation can be summarized
+into the following ﬁve major stages based on the previous studies [34–36] (Figure 1): (I) Attachment:
+microorganisms are reversibly adsorbed to a surface via weak interactions (such as the van
+der Waals forces) with a biotic or abiotic surface [37]; (II) Colonization: microorganisms are
+irreversibly attached to the surface via stronger hydrophilic/hydrophobic interactions by ﬂagella,
+lipopolysaccharides, exopolysaccharides, collagen-binding adhesive proteins, etc. [38,39];
+pili,
+(III) Development: the multilayered cells are accumulated by proliferation, and EPS are produced and
+secreted [32,40]; (IV) Maturation: stable formation of a three-dimensional community that contains
+channels to eﬀectively distribute nutrients and signaling molecules within the bioﬁlm [41]; (V) Active
+dispersal: microbial cells are detached in clumps or separated, due to interactions with either intrinsic
+or extrinsic factors, with the disseminated cells subsequently colonizing on other locations [42].
+
+In this dynamic process, speciﬁc enzymes are involved in degrading and reconﬁguring bioﬁlm,
+resulting not only in partial matrix degradation, but also the active dispersal of bioﬁlm and subsequent
+surface recolonization [7]. Attachment is the beginning for a bioﬁlm formation, while active dispersal
+is not the end, but also the creation of the next round of bioﬁlm formation. The continuous recirculation
+of bioﬁlm gives the microorganisms the ability to adapt to various extreme environments.
+
+Int. J. Mol. Sci. 2019, 20, 3423
+
+3 of 18
+
+Figure 1. Model of microbial bioﬁlm formation. Bioﬁlm formation consists of ﬁve distinct stages: I.
+Attachment: microbial cells adhere to the surface reversibly. II. Colonization: microbial cells attach
+to the surface irreversibly via ﬂagella, pili, exopolysaccharides, etc. III. Development: multilayered
+cells accumulate and produce extracellular polymeric substances (EPS). IV. Mature: stable formation
+of a three-dimensional community. V. Active dispersal: microorganisms are disseminated from the
+aggregate bioﬁlm and return to a planktonic state.
+
+3. Bioﬁlms in Extreme Environments
+
+Bioﬁlm formation is a unique growth mode chosen by microorganisms in response to various
+environmental stresses, and previous studies have shown that the ability to form bioﬁlms is important
+for microorganisms to grow in various extreme environments (Figure 2).
+
+Figure 2. A schematic representation of the bioﬁlm function. Bioﬁlm formation can increase the
+resistances of microorganisms to various extreme environments.
+
+3.1. Bioﬁlm in UV Radiation
+
+The solar UV radiation comprises three types based on the range of wavelength: UV-A (320
+to 400 nm), UV-B (290 to 320 nm), and UV-C (100 to 290 nm) [43]. Besides their implication in
+damaging proteins and membranes, UV-A can damage DNA by generating reactive oxygen species
+to induce single-strand DNA breaks [44,45], while UV-B can be absorbed directly by DNA to alter or
+
+Int. J. Mol. Sci. 2019, 20, x FOR PEER REVIEW 2 of 18  microbial resistances against UV radiation [19], extreme temperature and pH [20–22], high salinity [23], high pressure [24], poor nutrients [25], various antibiotics [26], etc. The resistance of biofilms against extreme environments seems to be capable of creating a suitable habitat for microbial populations, makes the exchange of substances and information between microorganisms more convenient, and is thus a self-protective mechanism for the growth of microorganisms [27]. The morphological structures of microorganisms in the biofilm and their sensitivity to environmental factors as well as biological characteristics are substantially different to planktonic microorganisms [28]. Such a three-dimensional structure of biofilm seems to provide a natural barrier and protective layer to microorganisms; in addition, the immobile microorganisms in EPS are more resistant to extreme environments than planktonic microorganisms [29]. In the current review, we try to provide contemporary perspectives on the molecular mechanism of biofilm formation, the roles of biofilm in extreme environments, and the various signaling cascades involved in biofilm formation. It aims at providing new ideas for the employment of beneficial microorganisms, as well as the prevention and control of harmful microorganisms. 2. Microbial Biofilms Biofilm formation is a complex and dynamic process, in which organized communities of microorganisms are encased in a matrix of EPS that cluster microbial cells together [30,31]. EPS are mainly composed of polysaccharides, proteins, lipids, and nucleic acids (RNA and extracellular DNA (eDNA)) [32,33], which form a highly hydrated polar mixture that contributes to the overall scaffold and three-dimensional structure of a biofilm. The biofilm lifestyle is an endless cycle, and the process of biofilm formation can be summarized into the following five major stages based on the previous studies [34–36] (Figure 1): (I) Attachment: microorganisms are reversibly adsorbed to a surface via weak interactions (such as the van der Waals forces) with a biotic or abiotic surface [37]; (II) Colonization: microorganisms are irreversibly attached to the surface via stronger hydrophilic/hydrophobic interactions by flagella, pili, lipopolysaccharides, exopolysaccharides, collagen-binding adhesive proteins, etc. [38,39]; (III) Development: the multilayered cells are accumulated by proliferation, and EPS are produced and secreted [32,40]; (IV) Maturation: stable formation of a three-dimensional community that contains channels to effectively distribute nutrients and signaling molecules within the biofilm [41]; (V) Active dispersal: microbial cells are detached in clumps or separated, due to interactions with either intrinsic or extrinsic factors, with the disseminated cells subsequently colonizing on other locations [42]. I. AttachmentII. ColonizationIII. DevelopmentIV. MatureV. Active dispersalBiofilm formation proteinlipidnucleic acidpolysaccharidemicroorganism Figure 1. Model of microbial biofilm formation. Biofilm formation consists of five distinct stages: I. Attachment: microbial cells adhere to the surface reversibly. II. Colonization: microbial cells attach to Int. J. Mol. Sci. 2019, 20, x FOR PEER REVIEW 3 of 18  the surface irreversibly via flagella, pili, exopolysaccharides, etc. III. Development: multilayered cells accumulate and produce extracellular polymeric substances (EPS). IV. Mature: stable formation of a three-dimensional community. V. Active dispersal: microorganisms are disseminated from the aggregate biofilm and return to a planktonic state. In this dynamic process, specific enzymes are involved in degrading and reconfiguring biofilm, resulting not only in partial matrix degradation, but also the active dispersal of biofilm and subsequent surface recolonization [7]. Attachment is the beginning for a biofilm formation, while active dispersal is not the end, but also the creation of the next round of biofilm formation. The continuous recirculation of biofilm gives the microorganisms the ability to adapt to various extreme environments. 3. Biofilms in Extreme Environments Biofilm formation is a unique growth mode chosen by microorganisms in response to various environmental stresses, and previous studies have shown that the ability to form biofilms is important for microorganisms to grow in various extreme environments (Figure 2). pHtemperatureUVpressuredesiccationsalinity…O2Environmental parameters, QS, c-di-GMP, cAMP… antibiotics Figure 2. A schematic representation of the biofilm function. Biofilm formation can increase the resistances of microorganisms to various extreme environments. 3.1. Biofilm in UV Radiation The solar UV radiation comprises three types based on the range of wavelength: UV-A (320 to 400 nm), UV-B (290 to 320 nm), and UV-C (100 to 290 nm) [43]. Besides their implication in damaging proteins and membranes, UV-A can damage DNA by generating reactive oxygen species to induce single-strand DNA breaks [44,45], while UV-B can be absorbed directly by DNA to alter or mutate nucleotides [46]. On the other hand, UV-C is the most energetic source that produces more photoproducts than either UV-A or UA-B radiation [47]. RM4440 is a Pseudomonas aeruginosa FRD1 derivative that carries a plasmid-based recA-luxCDABE fusion that serves as a Pseudomonas aeruginosa whole-cell biosensor for monitoring DNA damage [48]. Elasir et al. have immobilized RM4440 in an alginate matrix to simulate the biofilm formation to study the response of biofilm to UV radiation damage [49]. The results reveal that compared to planktonic bacteria, the matrix of EPS seems to be protective in physically shielding microorganisms against UV-C, UV-B, and UV-A radiations, and transmitting only 13%, 31%, and 33% of the UV light, respectively, to the microorganisms. Thus, biofilms are effective at protecting microbial cells from UV radiation and exposure. Biofilm formation can also protect Listeria monocytogenes from UV-C radiation [50]. Listeria monocytogenes N53-1 that was isolated from salmon smoke house and allowed to form a biofilm for seven days exhibited higher UV-C resistance than that incubated for only one hour. Recently, Enyedi et al. revealed that there is a high microbial diversity in the biofilms of naturally radioactive Int. J. Mol. Sci. 2019, 20, 3423
+
+4 of 18
+
+mutate nucleotides [46]. On the other hand, UV-C is the most energetic source that produces more
+photoproducts than either UV-A or UA-B radiation [47].
+
+RM4440 is a Pseudomonas aeruginosa FRD1 derivative that carries a plasmid-based recA-luxCDABE
+fusion that serves as a Pseudomonas aeruginosa whole-cell biosensor for monitoring DNA damage [48].
+Elasir et al. have immobilized RM4440 in an alginate matrix to simulate the bioﬁlm formation to study
+the response of bioﬁlm to UV radiation damage [49]. The results reveal that compared to planktonic
+bacteria, the matrix of EPS seems to be protective in physically shielding microorganisms against UV-C,
+UV-B, and UV-A radiations, and transmitting only 13%, 31%, and 33% of the UV light, respectively,
+to the microorganisms. Thus, bioﬁlms are eﬀective at protecting microbial cells from UV radiation
+and exposure.
+
+Bioﬁlm formation can also protect Listeria monocytogenes from UV-C radiation [50]. Listeria
+monocytogenes N53-1 that was isolated from salmon smoke house and allowed to form a bioﬁlm
+for seven days exhibited higher UV-C resistance than that incubated for only one hour. Recently,
+Enyedi et al. revealed that there is a high microbial diversity in the bioﬁlms of naturally radioactive
+hydrothermal spring caves, which had been especially adapted to an environment of high radioactivity
+of the subsurface [51]. Also, they found that the higher radioactivity, the less diversity but more
+radiation-resistant microbial communities in bioﬁlms.
+
+Deinococcus geothermalis is a representative of the extremely radiation-resistant family of
+Deinococcaceae [52]. Frösler et al. demonstrated that the bioﬁlm of Deinococcus geothermalis DSM
+11300 appears to be more UV-tolerant than that of planktonic cells, and speculated that it is possibly
+due to the generation of reactive oxygen species from the photodissociation of water molecules retained
+in the cells or matrix of EPS in the bioﬁlm [53].
+
+Bioﬁlm formation is one of clever strategies for microorganisms to survive UV exposure.
+The study of mechanisms of bioﬁlm formation under UV radiation is also helpful for the control of
+harmful microorganisms. A number of studies have shown that with the protection of bioﬁlms by
+“radiation-resistant clothing”, a variety of microorganisms are more active under extreme UV radiation
+environments. Thus, a better understanding of the microbial-resistant mechanism to UV may help
+provide protection for the human aerospace industry.
+
+3.2. Bioﬁlm in Extreme Temperature
+
+Temperature exerts a signiﬁcant inﬂuence on microorganisms, and bioﬁlm can adequately
+explain the eﬀects of microorganisms against extreme temperatures. Cihan et al. studied the bioﬁlm
+formation of thermophilic bacteria in the Bacillaceae family at diﬀerent temperatures, and revealed
+that an incubation temperature at 65
+C for the
+Thermolongibacillus, Aeribacillus, Geobacillus, and Anoxybacillus thermophilic genera [54].
+
+C is more eﬀective in bioﬁlm production than at 55
+
+◦
+
+◦
+
+◦
+
+Some species in Sulfolobus genus are thermophilic acidophiles that grow optimally at 75
+
+C [55,56].
+C, and the results
+Koerdt et al. tested the bioﬁlm formation at temperatures ranging from 60 to 85
+demonstrate that the amounts of bioﬁlm in both Sulfolobus acidocaldarius (isolated from Yellowstone
+National Park, United States (USA)) and Sulfolobus solfataricus (a European isolate from Italy) are
+C, they showed a ﬁvefold and fourfold increase in bioﬁlm
+increased at 60
+formation, respectively [17].
+
+C and 85
+
+C. At 60
+
+◦
+
+◦
+
+◦
+
+◦
+
+Studies of cold-adapted bacterium Bacteriovorax showed that at temperatures below 10
+C,
+the number of bacteria is signiﬁcantly reduced in the water column, but not in the surface bioﬁlms [57].
+◦
+C, Bacteriovorax lives 50% longer in bioﬁlms than
+Further studies by Williams et al. showed that at 5
+in suspension [58]. Also, EPS in bioﬁlm from Antarctic bacteria (cold-tolerant Winogradskyella CAL384
+and CAL396, psychrophiles Colwellia GW185, and Shewanella CAL606) showed an ability to form stable
+emulsions to protect cells from freeze–thawing cycles, thus increasing the adaptability of microbial
+cells to cold environments [59].
+
+◦
+
+Therefore, bioﬁlm formation enables microorganisms in extreme environments to become more
+resistant to damage caused by temperature stress. Throughout environmental changes, bioﬁlm can
+
+Int. J. Mol. Sci. 2019, 20, 3423
+
+5 of 18
+
+act as a “protective clothing” to provide a suitable habitat for their survival and metabolism. In the
+extreme temperature environment, the bioﬁlm serves more as a “smart garment” when dealing with
+such high temperatures: it can resist the external high temperature and render the interior suitable for
+growth and reproduction. On the other hand, bioﬁlm can also stabilize the internal environment when
+it is extremely cold outside, causing no freeze of the cells and enabling them to survive.
+
+3.3. Bioﬁlm in Extreme pH Environments
+
+Bioﬁlms also help microorganisms resist the eﬀects of extreme pH, in which both acidophiles and
+
+alkaliphiles generally exist in bioﬁlms [60–62].
+
+Species abundance usually decreases under extremely acidic conditions, but a large number of
+acidophiles that are protected in bioﬁlm are still prevalent [63]. In fact, under extremely acidic pH,
+it has been found that the solubility of heavy metals increase, and therefore increasing the toxicity
+index. The combination of extremely acidic pH and heavy metals together was found to lead to a
+signiﬁcant change in the EPS composition of the bioﬁlm, which plays a vital role in the adaptation
+of microorganisms to extreme environments [3]. It can not only prevent heavy metal toxicity, but
+also capture and enrich trace elements [64]. Besides, the inositol and 3-O-methylglucose contents in
+EPS were found to positively correlate with the toxicity index. Early research showed that inositol
+polyphosphates can inhibit the formation of hydroxyl radicals by ferric iron, which can decrease its
+toxicity [65], and methylglucose-containing polysaccharides from marine microorganisms have also
+been exploited to remove heavy metals from solutions [66]. This data suggests that bioﬁlms play a
+protective eﬀect in extremely acidic environments that are mediated, at least in part, by speciﬁc sugars.
+Under alkaline conditions, the alkaliphilic communities have also been shown to form bioﬁlms to
+enclose the microorganisms in a matrix of EPS [67,68]. Charles et al. showed that under a thick EPS
+layer, Alishewanella and Dietzia are capable of growth at pH values between 11.0–11.5, and maintain
+internal pH values of 10.4 and 10.7, respectively, demonstrating that bioﬁlm formation can provide a
+shelter for alkaliphilic communities to survive hyperalkaline stress to a large extent [69].
+
+To compare the responses of bacteria in bioﬁlm or planktonic state to alkaline stress, clinical isolates
+of Enterococcus faecalis, Lactobacillus paracasei, Olsenella uli, Streptococcus anginosus, Streptococcus
+gordonii, Streptococcus oralis, and Fusobacterium nucleatum from infected root canals were placed
+under a stress at pH 10.5 for 4 h. The results showed that bacteria can survive alkaline shifts better in
+the bioﬁlm than in the planktonic state [70]. Additionally, van der Waal et al. reported that increased
+EPS production in bioﬁlm protects Enterococcus faecalis against 20 mM of Ca(OH)2 [71].
+
+In general, microorganisms shielded in bioﬁlms can resist extreme pH stress better than in a
+planktonic state. However, the exact mechanisms behind the survival of microorganisms in bioﬁlms
+exposed to acidic and alkaline challenge is worthy of further studies. As an acid-resistant and
+alkali-resistant “strong protective clothing”, it is still unclear whether the bioﬁlm is correlated with
+the biological evolution of bacteria. With further exploration, it will be interesting to discover the
+characteristic features and structure of this “protective clothing”.
+
+3.4. Bioﬁlm in High-Salinity Environments
+
+There are many halophiles on the Earth, most of which are found in high-salinity environments,
+such as salt lakes, marine environments, and inland saline soils. In these places, microbial cytoplasmic
+lysis and cell death are signiﬁcantly caused by increasing osmotic pressure [72,73]. Microorganisms
+can, in fact, form bioﬁlms that are resistant to high salt damage [74,75]. Indeed, Amjres et al. isolated a
+halophilic strain Halomonas stenophila HK30 from a saline wetland in Brikcha (Morocco) that is able
+to form bioﬁlm in a medium with 5% w/v salt [76]. Mallic et al. showed that the two halophiles of
+Kocuria ﬂava AB402 and Bacillus vietnamensis AB403, which were isolated from mangrove rhizosphere
+of Sundarban, can not only form bioﬁlms eﬀectively, but also produce a large amount of EPS under
+salt stress; they can also use EPS to develop inherent resistance and adsorb a large amount of metal
+elements, etc. [77].
+
+Int. J. Mol. Sci. 2019, 20, 3423
+
+6 of 18
+
+Many researchers have conducted a variety of salt tolerance tests of non-halophiles to study
+their resistant mechanisms. Kim et al. evaluated the eﬀects of salinity on the bioﬁlm formation of
+Vibrio sp. B2 isolated from seawater, brine, and a biofouled membrane coupon, and found that the
+salinity-stressed bacteria still maintain good cellular activity and overproduce EPS, which exhibits a
+high potential to cause biofouling and bioﬁlm formation [23]. Zhao et al. studied the composition of
+EPS from microbial bioﬁlms at diﬀerent salinity, and found that the production of both proteins and
+polysaccharides contents of soluble, loosely, or tightly bound EPS in bioﬁlm increase with increasing
+salinity [78].
+
+EPS are the main components of the bioﬁlm, which acts as a gel-like matrix that binds cells
+together to form aggregates and provide protection for microorganisms against high salt stress [79].
+Whether halophiles or non-halophiles, the bioﬁlm produced by them may thus play an important role
+in agricultural productions, because they can be used to adsorb various metal elements to help crop
+growth and promote soil bioremediation under salt stress.
+
+3.5. Bioﬁlm in High-Pressure Environments
+
+Piezophiles (barophiles) are microorganisms whose survival and reproduction is optimized to
+high pressures, such as those in deep-sea environments. Since the piezophiles are diﬃcult to separate
+and culture, and live with restrict distribution [80], there have been very few studies on their bioﬁlm
+formation. A few available studies only show that an increase in pressure leads to an increase in
+the expression of the outer membrane protein [81]. To make up for the deﬁciency of the research on
+bioﬁlm formation of piezophiles, the research on the bioﬁlm of non-piezophiles under high pressure
+is increasing.
+
+High hydrostatic pressure (HHP) can especially alter many macromolecules in microorganisms
+and also aﬀect their translation and transcription within the cells, leading to the production of
+dysfunctional proteins [82,83]. Studies on HHP bioﬁlms have shown that microorganisms in the
+bioﬁlms are more resistant to high pressure than planktonic microorganisms. Also, bioﬁlms formed by
+Gram-negative bacteria are more resistant to HHP than those of Gram-positive bacteria [82].
+
+Bioﬁlm formation can also enhance microbial tolerance to high mechanical pressure. Hou et al.
+compared the responses of bioﬁlms to mechanical pressure between an EPS-producing Staphylococcus
+aureus ATCC 12600 and a non-EPS-producing Staphylococcus aureus 5298, and found that the bioﬁlm
+of former bacterium exhibits a higher resistance to exerted mechanical force because it can yield an
+immediate increase in polysaccharide content [24].
+
+Under high-pressure stimulation, the “pressure-resistant garments” of both piezophiles and
+non-piezophiles become more “solid”. The studies of formation mechanism and structural composition
+of the “pressure-resistant garments” in high-pressure environments will thus play important roles in
+the ﬁelds of medicine, industry, and biotechnology.
+
+3.6. Bioﬁlm in Oligotrophic Conditions
+
+Under oligotrophic conditions, microbial growth may be aﬀected due to poor nutrients. However,
+during this time, bioﬁlm formation is also found to play a role in the microbial tolerance to the restricted
+of microbial growth.
+
+Bacteria can be separated into two general groups regarding the nutrient requirement in the
+living environments: copiotrophs and oligotrophs, which grow optimally in high and low nutrient
+conditions, respectively.
+
+For copiotrophs, some authors concluded that bioﬁlm production is enhanced in the poor nutrient
+medium [84,85]. For example, Cheriﬁ et al. investigated the bioﬁlm formation of copiotroph Listeria
+monocytogenes (isolated from pork slaughterhouses and cutting facilities) under a rich medium (brain
+heart infusion, BHI) or a 10-fold diluted BHI (BHI/10) [86]. They demonstrated that the bioﬁlm
+biovolume in BHI/10 is signiﬁcantly higher than that in BHI. Further investigation revealed that relative
+poor nutrients enhance cell death and release eDNA, leading to enhanced bioﬁlm formation and
+
+Int. J. Mol. Sci. 2019, 20, 3423
+
+7 of 18
+
+structural stability. Vibrio cholerae is also a special kind of copiotrophs; when placed in an environment
+lacking glucose and mannose, Vibrio cholerae A1552 seems to stimulate cyclic adenosine monophosphate
+(cAMP) synthesis, to form a cAMP–cAMP receptor protein (CRP) complex to regulate the expression of
+downstream genes related to nutrient acquisition and utilization, leading to the stimulation of bioﬁlm
+formation [87,88].
+
+Oligotrophs are the dominant strains in oligotrophic environments and are more common in
+pure water. As oligotrophs, the non-tuberculous mycobacteria are the natural inhabitants in pure
+water or engineered water systems and soils, and are able to grow at low carbon concentrations [89].
+During its growth, bioﬁlms help oligotrophs resist the oligotrophic environments. Although there are
+few available studies on oligotrophic bioﬁlms, it is not diﬃcult to speculate that under oligotrophic
+conditions, bioﬁlm formation is a good survival strategy for oligotrophs.
+
+Under oligotrophic conditions, such “protective clothing” takes a series of measures to ensure
+the normal reproduction and metabolism of microorganisms, and preferentially distributes limited
+nutrients within this “protective clothing” [90]. Thus, bioﬁlms seem to play a huge role in the survival
+of bacteria in the extreme oligotrophic conditions. Regardless of their types, bioﬁlms act as a “protective
+garment” for microorganisms, and are responsible for protecting their survival and reproduction.
+
+3.7. Tolerance and Resistance to Antibiotics in Bioﬁlms
+
+Microorganisms in bioﬁlms seem to show a strong tolerance and resistance to antibiotics. Microbial
+tolerance is generally related to the mode of bioﬁlm formation, which is a transient and nonheritable
+phenotype [91]. Microbial resistance is an acquired ability of microorganisms to resist antibiotics in an
+inheritable mode [92]. Several molecular mechanisms are involved in the bioﬁlm-speciﬁc tolerance
+and resistance.
+
+Bioﬁlms can confer microbial tolerance to antibiotics mainly through the following types [26,93].
+First, bioﬁlms can serve as physical barriers, and their thickness and chemical composition can
+prevent the perfusion of antibiotics [94]. There are many anionic and cationic molecules in the EPS
+of bioﬁlms, such as uronic acids, proteins, glycoproteins, glycolipids, eDNA, etc. They can also bind
+to charged antibiotics and form a shelter for microorganisms [40,95], in order to help microbial cells
+embedded within the bioﬁlms establish tolerance against antibiotics [96]. Singh et al. demonstrated
+that the penetration of oxacillin, cefotaxime, and vancomycin are signiﬁcantly reduced through the
+bioﬁlms of Staphylococcus aureus and Staphylococcus epidermidis [97]. The adsorption of antibiotics by
+bioﬁlm components [98] or the degradation of antibiotics by hydrolase, such as a β-lactamase [99,100],
+can also limit antibiotic penetration. Pel exopolysaccharide, which is cross-linked with negatively
+charged eDNA in the Pseudomonas aeruginosa matrix of EPS [101], can also play both structural and
+protective roles to reduce its susceptibility to aminoglycoside antibiotics [102].
+
+Second, physiological limitations including the growth rate [103–105], bioﬁlm age [106],
+starvation [107], etc., can reduce bioﬁlm susceptibility to the antibiotics. Williamson et al. demonstrated
+that the subpopulation of inactive bacteria harbored in Pseudomonas aeruginosa bioﬁlms is resistant
+to killing by tobramycin and ciproﬂoxacin, but the actively growing population remains sensitive to
+antibiotic killing [108]. Besides, a small subpopulation of bacteria in bioﬁlm and persister cells entering
+a slow-growing or starving state is also highly tolerant to killing by antibiotics [109].
+
+Microorganisms growing in bioﬁlms are more resistant to antibiotics than in planktonic
+counterparts. Several authors have also revealed an interconnection between bioﬁlm formation
+and the resistance to antibiotics [110,111].
+
+First, microbial genetic diversiﬁcation in bioﬁlms can contribute to resistances to antibiotics [112].
+Second, the bioﬁlm is considered to be a main reservoir of genetic diversity that promotes microbial
+survival in extreme environments, leading to the development of resistances to antibiotics. It is reported
+that bioﬁlm formation causes an increasing average plasmid copy number as well as the increasing
+transcription of plasmid-borne resistant genes in Enterococcus faecalis cells [113]. This ﬁnding suggested
+that bioﬁlm growth can reduce microbial susceptibility to antibiotics.
+
+Int. J. Mol. Sci. 2019, 20, 3423
+
+8 of 18
+
+Second, multidrug eﬄux pumps in bioﬁlms can transport antibiotics to prevent toxic
+accumulation [114–116]. The PA1874-1877 eﬄux pump in Pseudomonas aeruginosa is more expressed in
+the bioﬁlm state than in the planktonic state, and is involved in resistance to antibiotics [117]. Deletion
+of the PA1874 to PA1877 genes encoding this pump in Pseudomonas aeruginosa PA14 increases the
+microbial sensitivity to tobramycin, gentamicin, and ciproﬂoxacin, especially when this mutant strain
+is present in a bioﬁlm.
+
+Third, sub-minimal inhibitory concentrations (sub-MICs) of antibiotics can also induce resistances
+In clinical isolates of Staphylococcus epidermidis, sub-MICs of erythromycin [118],
+to antibiotics.
+tetracycline, and quinupristin–dalfopristin [119] seem to enhance the expression of intercellular
+adhesion gene clusters, leading to increased EPS expression and invasiveness. Sub-MICs of β-lactam
+antibiotics also stimulate a thicker bioﬁlm via the upregulated genes that are involved in glycogen
+biosynthesis in the non-typeable Haemophilus inﬂuenzae strains that were isolated from patients with
+chronic otitis and chronic bronchitis [120].
+
+Furthermore, polymicrobial bioﬁlms show enhanced resistances to antibiotics [121–123].
+For example, Candida albicans, β-1,3-glucan, can bind with oﬂoxacin, and Escherichia coli cells
+embedded within the Candida albicans bioﬁlm show increased resistance to oﬂoxacin compared to the
+monomicrobial Escherichia coli bioﬁlm [124]. Also, polymicrobial bioﬁlms formed by Staphylococcus
+albicans and Candida albicans are often found in diﬀerent types of infections, with Staphylococcus albicans
+coated in the matrix secreted by Candida albicans showing enhanced resistance to vancomycin [125–127].
+Relatively speaking, the studies of “protective clothing” of microorganisms are more thorough and
+comprehensive in the ﬁelds of tolerance and resistance to antibiotics than other resistant mechanisms,
+but people are paying more attention to learning how to destroy or take oﬀ this “protective clothing”
+to reduce the damage that it causes to humans.
+
+Together, the bioﬁlm can provide a shelter for microorganisms to survive against many kinds of
+extreme environments. In addition to those discussed above, bioﬁlms can also protect microorganisms
+from several types of acute environmental stressors such as desiccation, heavy metal pollution,
+oxidative stress, etc. [3,128] (Figure 2). For example, space habitats living in the International Space
+Station (ISS) are under extreme UV radiation, desiccation, temperature, and pressure stresses, but it
+was demonstrated that these stresses can trigger abundant EPS production and bioﬁlm formation.
+The Mir space station was found to be heavily colonized by bioﬁlms, which damaged quartz windows
+and corroded various metal surfaces [129]. As studies on environmental bioﬁlms in extreme habitats
+are rare, further investigation into the mechanisms regulating the bioﬁlm formation of microorganisms,
+especially those of the environmental isolates (and environmental isolates in situ) in response to
+diﬀerent stresses is important. Understanding the structure and protection mechanism of this versatile
+and magical “protective clothing” in extreme environments is not only a scientiﬁc study, but also
+beneﬁts human life, since it will be a good way for production services.
+
+4. Regulation of Bioﬁlms in Extreme Environments
+
+The emergence of bioﬁlms in extreme environments is the result of a series of changes in gene
+expression. It is a struggle for microbial survival to resist extreme environments by regulating the
+expression of some genes. In extreme environments, the formation, composition, and function of
+bioﬁlms seem to be inseparable from a series of regulatory systems.
+
+4.1. Quorum Sensing-Based Signaling
+
+Quorum sensing (QS) is a group behavior in which microorganisms regulate their gene expression
+proﬁle according to the changes of cell density in a population.
+It is an induction phenomenon
+that occurs when the number of microorganisms reaches a certain density threshold. The QS
+system of microorganisms is mainly involved in the diﬀerentiation of microbial bioﬁlms (Table 1),
+and is considered to be an indispensable part of microbial transmission mechanisms in extreme
+
+Int. J. Mol. Sci. 2019, 20, 3423
+
+9 of 18
+
+environments [2]. In response to various extreme conditions, QS seems to play important roles in the
+regulation of bioﬁlm formation [130,131].
+
+In extreme environmental responses, QS can regulate more than 10% of genes in Pseudomonas
+aeruginosa that are primarily implicated in the production of virulence factors, bioﬁlm formation,
+resistances to antibiotics, mortality, and the amendment of metabolic pathways [132]. In fact, QS is
+involved in the tolerance of Pseudomonas aeruginosa bioﬁlms to kanamycin, tobramycin, and hydrogen
+peroxide [133,134]. This data may be related to the role of QS in the eDNA production regulation,
+which inhibits the penetration of some antibiotics into bioﬁlm [135]. Vibrio cholerae can pass through
+the acidic stomach alive before reaching the upper intestine, by developing a thick, glutinous bioﬁlm
+mediated by the QS [136]. The Vibrio cholerae mutant that is deﬁcient in the QS regulator, HapR,
+which inhibits the expression of the Vibrio polysaccharide biosynthesis operon, seems to exhibit a
+thicker bioﬁlm [136]. However, when the Vibrio cholerae comes out of the acidic environment of the
+stomach, bioﬁlm protection is not further required, and HapR instead facilitates the disruption of the
+bioﬁlm [137].
+
+Table 1. Main aﬀecting factors in bioﬁlm formation.
+
+Factor
+
+Brief Description
+
+Strain
+
+Reference
+
+Environmental
+parameter
+
+Ultraviolet (UV)
+
+Temperature
+
+Extreme pH
+
+Salinity
+
+High pressure
+
+Poor nutrient
+
+Quorum
+sensing (QS)
+
+Autoinducer-1 (AI-1)
+
+Autoinducer-2 (AI-2)
+
+Messenger
+molecule
+
+cyclic dimeric guanosine
+3’,5’-monophosphate (c-di-GMP)
+
+Matrix of extracellular polymeric
+substances (EPS) shows a
+protective property by physical
+shielding against UV radiation
+
+Bioﬁlm formation increases at
+high temperature, and the
+composition of bioﬁlms change at
+low temperature. They both
+enhance microbial resistance
+
+At extreme pH, bioﬁlms increase
+bacterial resistance by altering
+EPS content
+
+Bacteria can withstand high salt
+damage by aggregating into
+granular bioﬁlm forms
+
+High pressure yield an immediate
+increase in the polysaccharide
+band area of bacterial bioﬁlms
+
+Under poor nutrient conditions,
+the bioﬁlm formation is enhanced
+
+AI-1 system is related to bioﬁlm
+formation, and can adjust its
+amount in extreme environments
+
+AI-2 regulates bioﬁlm formation
+against environmental stresses
+
+c-di-GMP can control bioﬁlm
+formation in response to diﬀerent
+environments
+
+Listeria monocytogenes,
+Deinococcus geothermalis
+
+[51,53]
+
+Thermolongibacillus,
+Sulfolobus, etc.
+
+Enterococcus faecalis,
+Alishewanella, etc.
+
+Halomonas stenophila,
+Kocuria ﬂava AB402, etc.
+
+[17,54]
+
+[69,70]
+
+[76,77]
+
+Staphylococcus aureus
+
+[24]
+
+Listeria monocytogenes,
+non-tuberculous
+mycobacteria
+
+[86,89]
+
+Acinetobacter baumannii,
+Pseudomonas aeruginosa
+
+[138]
+
+Biﬁdobacterium longum
+
+[139]
+
+Acidithiobacillus
+thioooxidans
+
+[140]
+
+cyclic adenosine
+3’,5’-monophosphate (cAMP)
+
+cAMP is crucial for the formation
+of pellicle bioﬁlm
+
+Pseudomonas
+aeruginosa,Vibrio cholerae
+
+[88,141]
+
+In extremophiles,
+
+there are three primary QS systems:
+
+autoinducer-1 (AI-1), AI-2,
+and peptide-based. The AI-1 system is found to be more prevalent (except in the thermophiles
+that favor AI-2), while the peptide-based system was the least abundant in extremophiles. The AI-1
+system uses N-acyl-homoserine lactones (AHLs) as signals [142], and is associated with the bioﬁlm
+formation in Acinetobacter baumannii and Pseudomonas aeruginosa [138]. AI-2, a furanosyl borate diester,
+is shared by both Gram-positive and Gram-negative bacteria. For example, AI-2 regulates the bioﬁlm
+formation in Biﬁdobacterium longum [139]; meanwhile, AI-2 not only regulates bioﬁlm formation,
+but also enhances anti-oxidative stress in Deinococcus radiodurans [143]. In acidophiles, approximately
+4.5% genes of Acidithiobacillus ferrooxidans ATCC 23270 T account for the genes involved in the QS
+
+Int. J. Mol. Sci. 2019, 20, 3423
+
+10 of 18
+
+network, of which 42.5% are used for bioﬁlm formation regulation. Thus, one may presume that QS
+regulates bioﬁlm formation in this bacteria via a complex signal system [144].
+
+4.2. Nucleotide Second Messenger-Based Signaling
+
+(cid:48)
+
+(cid:48)
+,5
+
+(cid:48)
+Nucleotides such as cyclic dimeric guanosine 3
+-monophosphate (c-di-GMP), cyclic adenosine
+,5
+3
+-monophosphate (cAMP), etc., are critical elements of the signal transduction networks,
+which link perceptions of the environment to the speciﬁc cellular behaviors of prokaryotes (Table 1).
+These molecular mechanisms are particularly crucial in microorganisms that are exposed to certain
+types of extreme environments [145].
+
+(cid:48)
+
+c-di-GMP is a novel and ubiquitous bacterial second messenger that was shown to control bioﬁlm
+formation in response to environmental inﬂuence [146–148]. It has been reported that EPS components
+such as polysaccharides, ﬂagella, pili, adhesins, and eDNA contribute to bioﬁlm formation and are
+regulated by c-di-GMP through speciﬁc receptors [149–151]. Generally, an increased concentration
+of intracellular c-di-GMP promotes surface attachment and bioﬁlm formation, while decreased
+intracellular c-di-GMP concentration induces bioﬁlm dispersal [152] (Table 1). In some acidophiles,
+c-di-GMP signaling is related to bioﬁlm formation [145]. For example, Acidithiobacillus can thrive in
+extreme environments with poor nutrients, high concentrations of heavy metals, and extreme acidity.
+Indeed, several PilZ-containing receptors of Acidithiobacillus are found to be related with Type IV
+pilus formation and twitching motility, which are implicated in the irreversible attachment to surfaces,
+microcolony grouping, and the structural development of bioﬁlms [153,154]. The pel-like operon,
+encoding the c-di-GMP receptor protein PelD, is also found in the Acidithiobacillus strains. A recent
+report demonstrated that PelD and the c-di-GMP signal pathway are involved in the bioﬁlm formation
+and structure in Acidithiobacillus thioooxidans [140].
+
+Another bacterial second messenger, cAMP, is also found in a variety of prokaryotes and seems
+to be conserved among diverse bacteria. Huynh et al. demonstrated that cAMP is involved in the
+dispersal of bioﬁlms in Pseudomonas aeruginosa [141] (Table 1). Also, cAMP concentration can control
+the bioﬁlm production of Vibrio cholerae [88] (Table 1). In addition, Paytubi et al. demonstrated that
+cAMP is involved in the spatial distribution to modulate bioﬁlm locations [155]. In a rich medium
+C and static incubation, Salmonella can form a bioﬁlm at the air–liquid
+with low osmolarity at 25–28
+interface, which is known as the pellicle, while in the minimal media, a solid–liquid interface bioﬁlm
+called bottom bioﬁlm is observed [155].
+
+◦
+
+As nucleotide second messengers, c-di-GMP and cAMP respond to various environmental signals
+and regulate bioﬁlm formation through various mechanisms [156]. The research on signal regulation
+system can help reveal the mechanism of bioﬁlm formation and provide a direct target for bioﬁlm
+prevention and control.
+
+5. Conclusions
+
+In extreme environments, microorganisms regulate the expression of a series of bioﬁlm-forming
+genes through QS, nucleotide second messenger-based signaling, etc., to endow microorganisms with
+the capability of becoming resistant to various extreme environments such as UV radiation, extreme
+temperature and pH, high salinity, high pressure, poor nutrients, antibiotics, etc.
+
+Protection by microbial bioﬁlms seems also to play an essential role in the production of
+special enzyme preparations for the pharmaceutical industry, food industry, agricultural production,
+environmental protection, energy utilization, and other ﬁelds of industry, as well as scientiﬁc research.
+Bioﬁlms have several protective advantages that may be physical, physiological, or genetic. An in-depth
+study of the protective mechanism of bioﬁlms to microorganisms in extreme environments is expected
+to resolve contradictions between the extreme environments of industrial production and the limited
+stability of enzyme proteins, allowing one to establish a high eﬃciency and low-cost bioprocessing
+technology. Further, microorganisms in bioﬁlms display diﬀerent features to those in planktonic states,
+
+Int. J. Mol. Sci. 2019, 20, 3423
+
+11 of 18
+
+and this peculiar form of development endows associated microorganisms with a high tolerance to
+extreme environments.
+
+The current review provides comprehensive information on the bioﬁlm formation, bioﬁlms in
+extreme environments, and bioﬁlm regulation, which may provoke new strategies for the utilization
+and treatment of bioﬁlms in extreme environments.
+
+Author Contributions: W.Y. wrote the manuscript and searched for references; Y.W. and L.L. coordinated to write
+the manuscript and participate in drafting the ﬁgures; J.H. developed the concept and added valuable insights
+into the manuscript. All the authors have read and approved the ﬁnal version of the manuscript.
+
+Funding: This research was funded by the National Key Research and Development Program of China (grant
+2018YFD0500204), the National Natural Science Foundation of China (grant 31770087), the Fundamental Research
+Funds for the Central Universities (grants 2662017PY112 and 2662015PY175), and the China Postdoctoral Science
+Foundation (2018M630872).
+
+Conﬂicts of Interest: The authors declare no conﬂict of interest.
+
+References
+
+1.
+
+2.
+
+3.
+
+4.
+
+Rothschild, L.J.; Mancinelli, R.L. Life in extreme environments. Nature 2001, 409, 1092–1101. [CrossRef]
+[PubMed]
+Kaur, A.; Capalash, N.; Sharma, P. Communication mechanisms in extremophiles: Exploring their existence
+and industrial applications. Microbiol. Res. 2019, 221, 15–27. [CrossRef] [PubMed]
+Blanco, Y.; Rivas, L.A.; Gonzalez-Toril, E.; Ruiz-Bermejo, M.; Moreno-Paz, M.; Parro, V.; Palacin, A.;
+Aguilera, A.; Puente-Sanchez, F. Environmental parameters, and not phylogeny, determine the composition
+of extracellular polymeric substances in microbial mats from extreme environments. Sci. Total Environ. 2019,
+650, 384–393. [CrossRef] [PubMed]
+Gabani, P.; Singh, O.V. Radiation-resistant extremophiles and their potential in biotechnology and therapeutics.
+Appl. Microbiol. Biotechnol. 2013, 97, 993–1004. [CrossRef] [PubMed]
+
+5. Wakai, S. Biochemical and thermodynamic analyses of energy conversion in extremophiles. Biosci. Biotechnol.
+
+6.
+
+7.
+
+8.
+
+Biochem. 2019, 83, 49–64. [CrossRef] [PubMed]
+Frols, S. Archaeal bioﬁlms: Widespread and complex. Biochem. Soc. Trans. 2013, 41, 393–398. [CrossRef]
+[PubMed]
+Flemming, H.C.; Wingender, J.; Szewzyk, U.; Steinberg, P.; Rice, S.A.; Kjelleberg, S. Bioﬁlms: An emergent
+form of bacterial life. Nat. Rev. Microbiol. 2016, 14, 563–575. [CrossRef]
+Huang, H.; Peng, C.; Peng, P.; Lin, Y.; Zhang, X.; Ren, H. Towards the bioﬁlm characterization and regulation
+in biological wastewater treatment. Appl. Microbiol. Biotechnol. 2018, 103, 1115–1129. [CrossRef]
+
+9. Hoiby, N. A personal history of research on microbial bioﬁlms and bioﬁlm infections. Pathog. Dis. 2014, 70,
+
+205–211. [CrossRef]
+
+10. Gupta, P.; Sarkar, S.; Das, B.; Bhattacharjee, S.; Tribedi, P. Bioﬁlm, pathogenesis and prevention—A journey
+
+11.
+
+to break the wall: A review. Arch. Microbiol. 2016, 198, 1–15. [CrossRef]
+Stoodley, P.; Sauer, K.; Davies, D.G.; Costerton, J.W. Bioﬁlms as complex diﬀerentiated communities.
+Annu. Rev. Microbiol. 2002, 56, 187–209. [CrossRef] [PubMed]
+
+12. Watnick, P.; Kolter, R. Bioﬁlm, city of microbes. J. Bacteriol. 2000, 182, 2675–2679. [CrossRef] [PubMed]
+13. Rasmussen, B. Filamentous microfossils in a 3235-million-year-old volcanogenic massive sulphide deposit.
+
+Nature 2000, 405, 676–679. [CrossRef] [PubMed]
+
+14. Westall, F.; de Wit, M.J.; Dann, J.; van der Gaast, S.; de Ronde, C.E.J.; Gerneke, D. Early Archean fossil bacteria
+and bioﬁlms in hydrothermally-inﬂuenced sediments from the Barberton greenstone belt, South Africa.
+Precambrian Res. 2001, 106, 93–116. [CrossRef]
+
+15. Taylor, C.D.; Wirsen, C.O.; Gaill, F. Rapid microbial production of ﬁlamentous sulfur mats at hydrothermal
+
+vents. Appl. Environ. Microbiol. 1999, 65, 2253–2255. [PubMed]
+
+16. Reysenbach, A.L.; Cady, S.L. Microbiology of ancient and modern hydrothermal systems. Trends Microbiol.
+
+2001, 9, 79–86. [CrossRef]
+
+17. Koerdt, A.; Godeke, J.; Berger, J.; Thormann, K.M.; Albers, S.V. Crenarchaeal bioﬁlm formation under extreme
+
+conditions. PLoS ONE 2010, 5, e14104. [CrossRef]
+
+Int. J. Mol. Sci. 2019, 20, 3423
+
+12 of 18
+
+18. Rinaudi, L.V.; Giordano, W. An integrated view of bioﬁlm formation in rhizobia. FEMS Microbiol. Lett. 2010,
+
+304, 1–11. [CrossRef]
+
+19. De Carvalho, C.C.C.R. Bioﬁlms: Microbial strategies for surviving UV exposure. Adv. Exp. Med. Biol. 2017,
+
+996, 233–239.
+
+20. Harrison, J.J.; Ceri, H.; Turner, R.J. Multimetal resistance and tolerance in microbial bioﬁlms. Nat. Rev.
+
+Microbiol. 2007, 5, 928–938. [CrossRef]
+
+21. Norwood, D.E.; Gilmour, A. The diﬀerential adherence capabilities of two Listeria monocytogenes strains in
+monoculture and multispecies bioﬁlms as a function of temperature. Lett. Appl. Microbiol. 2001, 33, 320–324.
+[CrossRef] [PubMed]
+
+22. Hostacká, A.; Ciznár, I.; Stefkovicová, M. Temperature and pH aﬀect the production of bacterial bioﬁlm.
+
+Folia Microbiol. 2010, 55, 75–78. [CrossRef] [PubMed]
+
+23. Kim, L.H.; Chong, T.H. Physiological responses of salinity-stressed Vibrio sp. and the eﬀect on the bioﬁlm
+
+formation on a nanoﬁltration membrane. Environ. Sci. Technol. 2017, 51, 1249–1258. [CrossRef]
+
+24. Hou, J.; Veeregowda, D.H.; van de Belt-Gritter, B.; Busscher, H.J.; van der Mei, H.C. Extracellular polymeric
+matrix production and relaxation under ﬂuid shear and mechanical pressure in Staphylococcus aureus bioﬁlms.
+Appl. Environ. Microbiol. 2018, 84, e01516-17. [CrossRef] [PubMed]
+
+25. Marsden, A.E.; Grudzinski, K.; Ondrey, J.M.; DeLoney-Marino, C.R.; Visick, K.L. Impact of salt and nutrient
+
+content on bioﬁlm formation by Vibrio ﬁscheri. PLoS ONE 2017, 12, e0169521. [CrossRef]
+
+26. Hathroubi, S.; Mekni, M.A.; Domenico, P.; Nguyen, D.; Jacques, M. Bioﬁlms: Microbial shelters against
+
+antibiotics. Microb. Drug Resist. 2017, 23, 147–156. [CrossRef] [PubMed]
+
+27. Chen, Y.; Yan, F.; Chai, Y.; Liu, H.; Kolter, R.; Losick, R.; Guo, J.H. Biocontrol of tomato wilt disease by
+Bacillus subtilis isolates from natural environments depends on conserved genes mediating bioﬁlm formation.
+Environ. Microbiol. 2013, 15, 848–864. [CrossRef]
+
+28. Lewis, K. Persister cells. Annu. Rev. Microbiol. 2010, 64, 357–372. [CrossRef]
+29. Van Houdt, R.; Michiels, C.W. Bioﬁlm formation and the food industry, a focus on the bacterial outer surface.
+
+J. Appl. Microbiol. 2010, 109, 1117–1131. [CrossRef]
+
+30. Donlan, R.M. Bioﬁlms: Microbial life on surfaces. Emerg. Infect. Dis. 2002, 8, 881–890. [CrossRef]
+31. Renner, L.D.; Weibel, D.B. Physicochemical regulation of bioﬁlm formation. MRS Bull. 2011, 36, 347–355.
+
+[CrossRef] [PubMed]
+Flemming, H.C.; Wingender, J. The bioﬁlm matrix. Nat. Rev. Microbiol. 2010, 8, 623–633. [CrossRef] [PubMed]
+32.
+33. Powell, L.C.; Pritchard, M.F.; Ferguson, E.L.; Powell, K.A.; Patel, S.U.; Rye, P.D.; Sakellakou, S.M.; Buurma, N.J.;
+Brilliant, C.D.; Copping, J.M.; et al. Targeted disruption of the extracellular polymeric network of Pseudomonas
+aeruginosa bioﬁlms by alginate oligosaccharides. NPJ Bioﬁlms Microbi. 2018, 4, 13. [CrossRef] [PubMed]
+Sadekuzzaman, M.; Yang, S.; Mizan, M.F.R.; Ha, S.D. Current and recent advanced strategies for combating
+bioﬁlms. Compr. Rev. Food Sci. Food Saf. 2015, 14, 491–509. [CrossRef]
+Sharahi, J.Y.; Azimi, T.; Shariati, A.; Safari, H.; Tehrani, M.K.; Hashemi, A. Advanced strategies for combating
+bacterial bioﬁlms. J. Cell Physiol. 2019, 234, 14689–14708. [CrossRef] [PubMed]
+
+34.
+
+35.
+
+36. Rasamiravaka, T.; Labtani, Q.; Duez, P.; EI Jaziri, M. The formation of bioﬁlms by Pseudomonas aeruginosa:
+A review of the natural and synthetic compounds interfering with control mechanisms. BioMed Res. Int.
+2015, 2015, 759348. [CrossRef] [PubMed]
+
+37. Bos, R.; van der Mei, H.C.; Busscher, H.J. Physico-chemistry of initial microbial adhesive interactions–its
+
+mechanisms and methods for study. FEMS Microbiol. Rev. 1999, 23, 179–230. [CrossRef]
+
+38. Laverty, G.; Gorman, S.P.; Gilmore, B.F. Biomolecular mechanisms of Pseudomonas aeruginosa and Escherichia
+
+coli bioﬁlm formation. Pathogens 2014, 3, 596–632. [CrossRef]
+
+39. Limoli, D.H.; Jones, C.J.; Wozniak, D.J. Bacterial extracellular polysaccharides in bioﬁlm formation and
+
+40.
+
+function. Microbiol. Spectr. 2015, 3, 1–19. [CrossRef]
+Flemming, H.C.; Neu, T.R.; Wozniak, D.J. The EPS matrix: The “house of bioﬁlm cells”. J. Bacteriol. 2007, 189,
+7945–7947. [CrossRef]
+
+41. Dufour, D.; Leung, V.; Lévesque, C.M. Bacterial bioﬁlm: Structure, function, and antimicrobial resistance.
+
+42.
+
+Endod. Top. 2012, 22, 2–16. [CrossRef]
+Srey, S.; Jahid, I.K.; Ha, S.D. Bioﬁlm formation in food industries: A food safety concern. Food Control 2013,
+31, 572–585. [CrossRef]
+
+Int. J. Mol. Sci. 2019, 20, 3423
+
+13 of 18
+
+43. Chatterjee, N.; Walker, G.C. Mechanisms of DNA damage, repair, and mutagenesis. Environ. Mol. Mutagen.
+
+2017, 58, 235–263. [CrossRef] [PubMed]
+
+44. Greinert, R.; Volkmer, B.; Henning, S.; Breitbart, E.W.; Greulich, K.O.; Cardoso, M.C.; Rapp, A. UVA-induced
+DNA double-strand breaks result from the repair of clustered oxidative DNA damages. Nucleic Acids Res.
+2012, 40, 10263–10273. [CrossRef] [PubMed]
+
+45. Weiss, R.S.; Graindorge, D.; Martineau, S.; Machon, C.; Arnoux, P.; Guitton, J.; Francesconi, S.; Frochot, C.;
+Sage, E.; Girard, P.M. Singlet oxygen-mediated oxidation during UVA radiation alters the dynamic of
+genomic DNA replication. PLoS ONE 2015, 10, e0140645.
+Sorg, O.; Tran, C.; Carraux, P.; Grand, D.; Hugin, A.; Didierjean, L.; Saurat, J.H. Spectral properties of
+topical retinoids prevent DNA damage and apoptosis after acute UV-B exposure in hairless mice. Photochem.
+Photobiol. 2005, 81, 830–836. [CrossRef] [PubMed]
+
+46.
+
+47. Kiefer, J. Eﬀects of ultraviolet radiation on DNA. In Chromosomal Alterations; Obe, G., Natarajan, A.T., Eds.;
+
+Springer: Berlin/Heidelberg, Germany, 2007; pp. 39–53.
+
+48. Elasri, M.O.; Miller, R.V. A Pseudomonas aeruginosa biosensor responds to exposure to ultraviolet radiation.
+
+Appl. Microbiol. Biotechnol. 1998, 50, 455–458. [CrossRef] [PubMed]
+
+49. Elasri, M.O.; Miller, R.V. Study of the response of a bioﬁlm bacterial community to UV radiation. Appl. Environ.
+
+Microb. 1999, 65, 2025–2031.
+
+50. Bernbom, N.; Vogel, B.F.; Gram, L. Listeria monocytogenes survival of UV-C radiation is enhanced by presence
+of sodium chloride, organic food material and by bacterial bioﬁlm formation. Int. J. Food Microbiol. 2011, 147,
+69–73. [CrossRef] [PubMed]
+
+51. Enyedi, N.T.; Anda, D.; Borsodi, A.K.; Szabó, A.; Pál, S.E.; Óvári, M.; Márialigeti, K.; Kovács-Bodor, P.;
+Mádl-Sz˝onyi, J.; Makk, J. Radioactive environment adapted bacterial communities constituting the bioﬁlms of
+hydrothermal spring caves (Budapest, Hungary). J. Environ. Radioact. 2019, 203, 8–17. [CrossRef] [PubMed]
+52. Makarova, K.S.; Omelchenko, M.V.; Gaidamakova, E.K.; Matrosova, V.Y.; Vasilenko, A.; Zhai, M.; Lapidus, A.;
+Copeland, A.; Kim, E.; Land, M.; et al. Deinococcus geothermalis: The pool of extreme radiation resistance
+genes shrinks. PLoS ONE 2007, 2, e955. [CrossRef] [PubMed]
+Frosler, J.; Panitz, C.; Wingender, J.; Flemming, H.C.; Rettberg, P. Survival of Deinococcus geothermalis in
+bioﬁlms under desiccation and simulated space and martian conditions. Astrobiology 2017, 17, 431–447.
+[CrossRef] [PubMed]
+
+53.
+
+54. Cihan, A.C.; Karaca, B.; Ozel, B.P.; Kilic, T. Determination of the bioﬂm production capacities and
+characteristics of members belonging to Bacillaceae family. World J. Microbiol. Biotechnol. 2017, 33, 118.
+[CrossRef] [PubMed]
+Inskeep, W.P.; Macur, R.E.; Harrison, G.; Bostick, B.C.; Fendorf, S. Biomineralization of as (V)-hydrous ferric
+oxyhydroxide in microbial mats of an acid-sulfate-chloride geothermal spring, Yellowstone National Park.
+Geochim. Cosmochim. Acta 2004, 68, 3141–3155. [CrossRef]
+
+55.
+
+56. Macur, R.E.; Langner, H.W.; Kocar, B.D.; Inskeep, W.P. Linking geochemical processes with microbial
+community analysis: Successional dynamics in an arsenic-rich, acid-sulphate-chloride geothermal spring.
+Geobiology 2004, 2, 163–177. [CrossRef]
+
+57. Kelley, J.I.; Turng, B.F.; Williams, H.N.; Baer, M.L. Eﬀects of temperature, salinity, and substrate on the
+colonization of surfaces in situ by aquatic bdellovibrios. Appl. Environ. Microbiol. 1997, 63, 84–90. [PubMed]
+58. Williams, H.N.; Turng, B.F.; Kelley, J.I. Survival response of Bacteriovorax in surface bioﬁlm versus suspension
+when stressed by extremes in environmental conditions. Microb. Ecol. 2009, 58, 474–484. [CrossRef]
+59. Caruso, C.; Rizzo, C.; Mangano, S.; Poli, A.; Donato, P.D.; Finore, I.; Nicolaus, B.; Marco, G.D.; Michaud, L.;
+Giudice, A.L. Production and biotechnological potential of extracellular polymeric substances from
+sponge-associated antarctic bacteria. Appl. Environ. Microb. 2018, 84, e01624-17. [CrossRef]
+
+60. Hujslova, M.; Bystriansky, L.; Benada, O.; Gryndler, M. Fungi, a neglected component of acidophilic bioﬁlms:
+
+Do they have a potential for biotechnology? Extremophiles 2019, 23, 267–275. [CrossRef]
+
+61. Li, T.; Sharp, C.E.; Ataeian, M.; Strous, M.; de Beer, D. Role of extracellular carbonic anhydrase in dissolved
+inorganic carbon uptake in alkaliphilic phototrophic bioﬁlm. Front. Microbiol. 2018, 9, 2490. [CrossRef]
+62. Li, X.; Kappler, U.; Jiang, G.; Bond, P.L. The ecology of acidophilic microorganisms in the corroding concrete
+
+sewer environment. Front. Microbiol. 2017, 8, 683. [CrossRef] [PubMed]
+
+Int. J. Mol. Sci. 2019, 20, 3423
+
+14 of 18
+
+63. Bellenberg, S.; Huynh, D.; Poetsch, A.; Sand, W.; Vera, M. Proteomics reveal enhanced oxidative stress
+responses and metabolic adaptation in Acidithiobacillus ferrooxidans bioﬁlm cells on pyrite. Front. Microbiol.
+2019, 10, 592. [CrossRef] [PubMed]
+
+64. Aguilera, A.; Souza-Egipsy, V.; Martín-Uriz, P.S.; Amils, R. Extracellular matrix assembly in extreme acidic
+eukaryotic bioﬁlms and their possible implications in heavy metal adsorption. Aquat. Toxicol. 2008, 88,
+257–266. [CrossRef] [PubMed]
+
+65. Hawkins, P.T.; Poyner, D.R.; Jackson, T.R.; Letcher, A.J.; Lander, D.A.; Irvine, R.F. Inhibition of iron-catalysed
+hydroxyl radical formation by inositol polyphosphates: A possible physiological function for myo-inositol
+hexakisphosphate. Biochem. J. 1993, 294, 929–934. [CrossRef] [PubMed]
+Shah, V.; Ray, A.; Garg, N.; Madamwar, D. Characterization of the extracellular polysaccharide produced
+by a marine cyanobacterium, Cyanothece sp. ATCC 51142, and its exploitation toward metal removal from
+solutions. Curr. Microbiol. 2000, 40, 274–278. [CrossRef] [PubMed]
+
+66.
+
+67. Charles, C.J.; Rout, S.P.; Garratt, E.J.; Patel, K.; Laws, A.P.; Humphreys, P.N. The enrichment of an alkaliphilic
+bioﬁlm consortia capable of the anaerobic degradation of isosaccharinic acid from cellulosic materials
+incubated within an anthropogenic, hyperalkaline environment. FEMS Microbiol. Ecol. 2015, 91, ﬁv085.
+[CrossRef] [PubMed]
+
+68. Rout, S.P.; Payne, L.; Walker, S.; Scott, T.; Heard, P.; Eccles, H.; Bond, G.; Shah, P.; Bills, P.; Jackson, B.R.; et al.
+The impact of alkaliphilic bioﬁlm formation on the release and retention of carbon isotopes from nuclear
+reactor graphite. Sci. Rep. 2018, 8, 4455. [CrossRef]
+
+69. Charles, C.J.; Rout, S.P.; Patel, K.A.; Akbar, S.; Laws, A.P.; Jackson, B.R.; Boxall, S.A.; Humphreys, P.N.
+Floc formation reduces the pH stress experienced by microorganisms living in alkaline environments.
+Appl. Environ. Microbiol. 2017, 83, e02985-16. [CrossRef]
+
+70. Chávez de Paz, L.E.; Bergenholtz, G.; Dahlén, G.; Svensäter, G. Response to alkaline stress by root canal
+
+bacteria in bioﬁlms. Int. Endod. J. 2007, 40, 344–355.
+
+71. Van der Waal, S.V.; van der Sluis, L.W.; Özok, A.R.; Exterkate, R.A.; van Marle, J.; Wesselink, P.R.; de Soet, J.J.
+The eﬀects of hyperosmosis or high pH on a dual-species bioﬁlm of Enterococcus faecalis and Pseudomonas
+aeruginosa: An in vitro study. Int. Endod. J. 2011, 44, 1110–1117. [CrossRef]
+
+72. Vyrides, I.; Stuckey, D.C. Adaptation of anaerobic biomass to saline conditions: Role of compatible solutes
+
+and extracellular polysaccharides. Enzyme Microb. Technol. 2009, 44, 46–51. [CrossRef]
+
+73. Kimata-Kino, N.; Ikeda, S.; Kurosawa, N.; Toda, T. Saline adaptation of granules in mesophilic UASB reactors.
+
+Int. Biodeter. Biodegr. 2011, 65, 65–72. [CrossRef]
+
+74. Gagliano, M.C.; Ismail, S.B.; Stams, A.J.M.; Plugge, C.M.; Temmink, H.; Van Lier, J.B. Bioﬁlm formation and
+granule properties in anaerobic digestion at high salinity. Water Res. 2017, 121, 61–71. [CrossRef] [PubMed]
+75. Adamiak, J.; Otlewska, A.; Gutarowska, B. Halophilic microbial communities in deteriorated buildings.
+
+World J. Microb. Biot. 2015, 31, 1489–1499. [CrossRef] [PubMed]
+
+76. Amjres, H.; Bejar, V.; Quesada, E.; Carranza, D.; Abrini, J.; Sinquin, C.; Ratiskol, J.; Colliec-Jouault, S.;
+Llamas, I. Characterization of haloglycan, an exopolysaccharide produced by Halomonas stenophila HK30.
+Int. J. Biol. Macromol. 2015, 72, 117–124. [CrossRef] [PubMed]
+
+77. Mallick, I.; Bhattacharyya, C.; Mukherji, S.; Dey, D.; Sarkar, S.C.; Mukhopadhyay, U.K.; Ghosh, A. Eﬀective
+rhizoinoculation and bioﬁlm formation by arsenic immobilizing halophilic plant growth promoting bacteria
+(PGPB) isolated from mangrove rhizosphere: A step towards arsenic rhizoremediation. Sci. Total Environ.
+2018, 610–611, 1239–1250. [CrossRef]
+
+78. Zhao, L.; She, Z.; Jin, C.; Yang, S.; Guo, L.; Zhao, Y.; Gao, M. Characteristics of extracellular polymeric
+substances from sludge and bioﬁlm in a simultaneous nitriﬁcation and denitriﬁcation system under high
+salinity stress. Bioprocess Biosyst. Eng. 2016, 39, 1375–1389. [CrossRef]
+
+79. You, G.; Hou, J.; Xu, Y.; Wang, C.; Wang, P.; Miao, L.; Ao, Y.; Li, Y.; Lv, B. Eﬀects of CeO2 nanoparticles
+on production and physicochemical characteristics of extracellular polymeric substances in bioﬁlms in
+sequencing batch bioﬁlm reactor. Bioresour. Technol. 2015, 194, 91–98. [CrossRef]
+
+80. Kato, C.; Qureshi, M.H. Pressure response in deep-sea piezophilic bacteria. J. Molec. Microbiol. Biotechnol.
+
+81.
+
+1999, 1, 87–92.
+Simonato, F.; Campanaro, S.; Lauro, F.M.; Vezzi, A.; D’Angelo, M.; Vitulo, N.; Valle, G.; Bartlett, D.H.
+Piezophilic adaptation: A genomic point of view. J. Biotechnol. 2006, 126, 11–25. [CrossRef]
+
+Int. J. Mol. Sci. 2019, 20, 3423
+
+15 of 18
+
+82. Masanta, W.O.; Hinz, R.; Zautner, A.E. Infectious causes of cholesteatoma and treatment of infected ossicles
+prior to reimplantation by hydrostatic high-pressure inactivation. BioMed Res. Int. 2015, 2015, 761259.
+[CrossRef] [PubMed]
+
+83. Pavlovic, M.; Hormann, S.; Vogel, R.F.; Ehrmann, M.A. Transcriptional response reveals translation machinery
+as target for high pressure in Lactobacillus sanfranciscensis. Arch. Microbiol. 2005, 184, 11–17. [CrossRef]
+[PubMed]
+
+84. Kadam, S.R.; den Besten, H.M.; van der Veen, S.; Zwietering, M.H.; Moezelaar, R.; Abee, T. Diversity
+assessment of Listeria monocytogenes bioﬁlm formation: Impact of growth condition, serotype and strain
+origin. Int. J. Food Microbiol. 2013, 165, 259–264. [CrossRef] [PubMed]
+
+85. Combrouse, T.; Sadovskaya, I.; Faille, C.; Kol, O.; Guerardel, Y.; Midelet-Bourdin, G. Quantiﬁcation of the
+extracellular matrix of the Listeria monocytogenes bioﬁlms of diﬀerent phylogenic lineages with optimization
+of culture conditions. J. Appl. Microbiol. 2013, 114, 1120–1131. [CrossRef] [PubMed]
+
+87.
+
+86. Cheriﬁ, T.; Jacques, M.; Quessy, S.; Fravalo, P. Impact of nutrient restriction on the structure of Listeria
+monocytogenes bioﬁlm grown in a microﬂuidic system. Front. Microbiol. 2017, 8, 864. [CrossRef] [PubMed]
+Smith, D.R.; Maestre-Reyna, M.; Lee, G.; Gerard, H.; Wang, A.H.; Watnick, P.I. In situ proteolysis of the
+Vibrio cholerae matrix protein RbmA promotes bioﬁlm recruitment. Proc. Natl. Acad. Sci. USA 2015, 112,
+10491–10496. [CrossRef] [PubMed]
+Fong, J.C.; Yildiz, F.H. Interplay between cyclic AMP-cyclic AMP receptor protein and cyclic di-GMP
+signaling in Vibrio cholerae bioﬁlm formation. J. Bacteriol. 2008, 190, 6646–6659. [CrossRef]
+Falkinham, J.O., 3rd. Surrounded by mycobacteria: Nontuberculous mycobacteria in the human environment.
+J. Appl. Microbiol. 2009, 107, 356–367. [CrossRef]
+
+88.
+
+89.
+
+90. Mittelman, M.W.; Jones, A.D.G. A pure life: The microbial ecology of high purity industrial waters.
+
+Microb. Ecol. 2018, 76, 9–18. [CrossRef]
+
+91. Olsen, I. Bioﬁlm-speciﬁc antibiotic tolerance and resistance. Eur. J. Clin. Microbiol. 2015, 34, 877–886.
+
+[CrossRef]
+
+92. Blair, J.M.; Webber, M.A.; Baylay, A.J.; Ogbolu, D.O.; Piddock, L.J. Molecular mechanisms of antibiotic
+
+resistance. Nat. Rev. Microbiol. 2015, 13, 42–51. [CrossRef] [PubMed]
+
+93. Anderl, J.N.; Franklin, M.J.; Stewart, P.S. Role of antibiotic penetration limitation in Klebsiella pneumoniae
+bioﬁlm resistance to ampicillin and ciproﬂoxacin. Antimicrob. Agents Chemother. 2000, 44, 1818–1824.
+[CrossRef] [PubMed]
+
+94. Dunne, W.M., Jr.; Mason, E.O., Jr.; Kplan, S.L. Diﬀusion of rifampin and vancomycin through a Staphylococcus
+
+epidermidis bioﬁlm. Antimicrob. Agents Chemother. 1993, 37, 2522–2526. [CrossRef] [PubMed]
+
+95. Nadell, C.D.; Drescher, K.; Wingreen, N.S.; Bassler, B.L. Extracellular matrix structure governs invasion
+
+resistance in bacterial bioﬁlms. ISME J. 2015, 9, 1700–1709. [CrossRef] [PubMed]
+
+97.
+
+96. De la Fuente-Núñez, C.; Reﬀuveille, F.; Fernández, L.; Hancock, R.E. Bacterial bioﬁlm development as a
+multicellular adaptation: Antibiotic resistance and new therapeutic strategies. Curr. Opin. Microbiol. 2013,
+16, 580–589. [CrossRef] [PubMed]
+Singh, R.; Ray, P.; Das, A.; Sharma, M. Penetration of antibiotics through Staphylococcus aureus and
+Staphylococcus epidermidis bioﬁlms. J. Antimicrob. Chemother. 2010, 65, 1955–1958. [CrossRef] [PubMed]
+98. Kumon, H.; Tomochika, K.; Matunaga, T.; Ogawa, M.; Ohmoril, H. A sandwich cup method for the
+penetration assay of antimicrobial agents through Pseudomonas exopolysaccharides. Microbiol. Immunol.
+1994, 38, 615–619. [CrossRef]
+
+99. Giwercman, B.; Jensen, E.T.; Høiby, N.; Kharazmi, A.; Costerton, J.W. Induction of β-lactamase production in
+
+Pseudomonas aeruginosa bioﬁlm. Antimicrob. Agents Chemother. 1991, 35, 1008–1010. [CrossRef]
+
+100. Stewart, P.S. Theoretical aspects of antibiotic diﬀusion into microbial bioﬁlms. Antimicrob. Agents Chemother.
+
+1996, 40, 2517–2522. [CrossRef]
+
+101. Jennings, L.K.; Storek, K.M.; Ledvina, H.E.; Coulon, C.; Marmont, L.S.; Sadovskaya, I.; Secor, P.R.; Tseng, B.S.;
+Scian, M.; Filloux, A.; et al. Pel is a cationic exopolysaccharide that cross-links extracellular DNA in the
+Pseudomonas aeruginosa bioﬁlm matrix. Proc. Natl. Acad. Sci. USA 2015, 112, 11353–11358. [CrossRef]
+102. Colvin, K.M.; Gordon, V.D.; Murakami, K.; Borlee, B.R.; Wozniak, D.J.; Wong, G.C.; Parsek, M.R. The Pel
+polysaccharide can serve a structural and protective role in the bioﬁlm matrix of Pseudomonas aeruginosa.
+PLoS Pathog. 2011, 7, e1001264. [CrossRef] [PubMed]
+
+Int. J. Mol. Sci. 2019, 20, 3423
+
+16 of 18
+
+103. Dogtrid, I.G.; Evans, E.; Brown, M.R.W.; Gilbert, P. Growth-rate-independent killing by ciproﬂoxacin of
+bioﬁlm-derived Staphylococcus epidermidis evidence for cell-cycle dependency. J. Antimicrob. Chemother. 1992,
+30, 791–802.
+
+104. Evans, D.J.; Allison, D.G.; Brown, M.R.W.; Gilbert, P. Susceptibility of Pseudomonas aeruginosa and Escherichia
+coli bioﬁlms towards ciproﬂoxacin: Eﬀect of speciﬁc growth rate. J. Antimicrob. Chemother. 1991, 27, 177–184.
+[CrossRef] [PubMed]
+
+105. Gilbert, P.; Collier, P.J.; Brown, M.R.W. Inﬂuence of growth rate on susceptibility to antimicrobial agents:
+Bioﬁlms, cell cycle, dormancy, and stringent response. Antimicrob. Agents Chemother. 1990, 34, 1865–1868.
+[CrossRef] [PubMed]
+
+106. Anwar, H.; Strap, J.L.; Costerton, J.W. Establishment of aging bioﬁlms: Possible mechanism of bacterial
+resistance to antimicrobial therapy. Antimicrob. Agents Chemother. 1992, 36, 1347–1351. [CrossRef] [PubMed]
+107. Mcleod, G.I.; Spector, M.P. Starvation- and stationary-phase-induced resistance to the antimicrobial peptide
+polymyxin B in Salmonella typhimurium is RpoS (σS) independent and occurs through both phoP-dependent
+and -independent pathway. J. Bacteriol. 1996, 178, 3683–3688. [CrossRef]
+
+108. Williamson, K.S.; Richards, L.A.; Perez-Osorio, A.C.; Pitts, B.; McInnerney, K.; Stewart, P.S.; Franklin, M.J.
+Heterogeneity in Pseudomonas aeruginosa bioﬁlms includes expression of ribosome hibernation factors in the
+antibiotic-tolerant subpopulation and hypoxia-induced stress response in the metabolically active population.
+J. Bacteriol. 2012, 194, 2062–2073. [CrossRef]
+
+109. Lewis, K. Persister cells: Molecular mechanisms related to antibiotic tolerance. Handb. Exp. Pharmacol. 2012,
+
+211, 121–133.
+
+110. Mah, T.F.; Pitts, B.; Pellock, B.; Walker, G.C.; Stewart, P.S.; O’Toole, G.A. A genetic basis for Pseudomonas
+
+aeruginosa bioﬁlm antibiotic resistance. Nature 2003, 426, 306–310. [CrossRef]
+
+111. Bae, J.; Oh, E.; Jeon, B. Enhanced transmission of antibiotic resistance in Campylobacter jejuni bioﬁlms by
+
+natural transformation. Antimicrob. Agents Chemother. 2014, 58, 7573–7575. [CrossRef]
+
+112. Limoli, D.H.; Rockel, A.B.; Host, K.M.; Jha, A.; Kopp, B.T.; Hollis, T.; Wozniak, D.J. Cationic antimicrobial
+peptides promote microbial mutagenesis and pathoadaptation in chronic infections. PLoS Pathog. 2014, 10,
+e1004083. [CrossRef] [PubMed]
+
+113. Cook, L.C.; Dunny, G.M. Eﬀects of bioﬁlm growth on plasmid copy number and expression of antibiotic
+resistance genes in Enterococcus faecalis. Antimicrob. Agents Chemother. 2013, 57, 1850–1856. [CrossRef]
+[PubMed]
+
+114. Poole, K. Multidrug resistance in Gram-negative bacteria. Curr. Opin. Microbiol. 2001, 4, 500–508. [CrossRef]
+115. Sun, J.; Deng, Z.; Yan, A. Bacterial multidrug eﬄux pumps: Mechanisms, physiology and pharmacological
+
+exploitations. Biochem. Biophys. Res. Commun. 2014, 453, 254–267. [CrossRef] [PubMed]
+
+116. Fraud, S.; Poole, K. Oxidative stress induction of the MexXY multidrug eﬄux genes and promotion of
+aminoglycoside resistance development in Pseudomonas aeruginosa. Antimicrob. Agents Chemother. 2011, 55,
+1068–1074. [CrossRef]
+
+117. Zhang, L.; Mah, T.F. Involvement of a novel eﬄux system in bioﬁlm-speciﬁc resistance to antibiotics.
+
+J. Bacteriol. 2008, 190, 4447–4452. [CrossRef] [PubMed]
+
+118. Wang, Q.; Sun, F.J.; Liu, Y.; Xiong, L.R.; Xie, L.L.; Xia, P.Y. Enhancement of bioﬁlm formation by subinhibitory
+concentrations of macrolides in icaADBC-positive and -negative clinical isolates of Staphylococcus epidermidis.
+Antimicrob. Agents Chemother. 2010, 54, 2707–2711. [CrossRef]
+
+119. Rachid, S.; Ohlsen, K.; Witte, W.; Hacker, J.R.; Ziebuhr, W. Eﬀect of subinhibitory antibiotic concentrations on
+polysaccharide intercellular adhesin expression in bioﬁlm-forming Staphylococcus epidermidis. Antimicrob.
+Agents Chemother. 2000, 44, 3357–3363. [CrossRef]
+
+120. Wu, S.; Li, X.; Gunawardana, M.; Maguire, K.; Guerrero-Given, D.; Schaudinn, C.; Wang, C.; Baum, M.M.;
+Webster, P. Beta-lactam antibiotics stimulate bioﬁlm formation in non-typeable Haemophilus inﬂuenzae by
+up-regulating carbohydrate metabolism. PLoS ONE 2014, 9, e99204. [CrossRef]
+
+121. Burmolle, M.; Ren, D.; Bjarnsholt, T.; Sorensen, S.J. Interactions in multispecies bioﬁlms: Do they actually
+
+matter? Trends Microbiol. 2014, 22, 84–91. [CrossRef]
+
+122. Roder, H.L.; Sorensen, S.J.; Burmolle, M. Studying bacterial multispecies bioﬁlms: Where to start?
+
+Trends Microbiol. 2016, 24, 503–513. [CrossRef] [PubMed]
+
+Int. J. Mol. Sci. 2019, 20, 3423
+
+17 of 18
+
+123. Burmolle, M.; Webb, J.S.; Rao, D.; Hansen, L.H.; Sorensen, S.J.; Kjelleberg, S. Enhanced bioﬁlm formation and
+increased resistance to antimicrobial agents and bacterial invasion are caused by synergistic interactions in
+multispecies bioﬁlms. Appl. Environ. Microbiol. 2006, 72, 3916–3923. [CrossRef] [PubMed]
+
+124. De Brucker, K.; Tan, Y.; Vints, K.; De Cremer, K.; Braem, A.; Verstraeten, N.; Michiels, J.; Vleugels, J.;
+Cammue, B.P.; Thevissen, K. Fungal beta-1,3-glucan increases oﬂoxacin tolerance of Escherichia coli in a
+polymicrobial E. coli/Candida albicans bioﬁlm. Antimicrob. Agents Chemother. 2015, 59, 3052–3058. [CrossRef]
+[PubMed]
+
+125. Shirtliﬀ, M.E.; Peters, B.M.; Jabra-Rizk, M.A. Cross-kingdom interactions: Candida albicans and bacteria.
+
+FEMS Microbiol. Lett. 2009, 299, 1–8. [CrossRef] [PubMed]
+
+126. Harriott, M.M.; Noverr, M.C. Candida albicans and Staphylococcus aureus form polymicrobial bioﬁlms: Eﬀects
+
+on antimicrobial resistance. Antimicrob. Agents Chemother. 2009, 53, 3914–3922. [CrossRef]
+
+127. Peters, B.M.; Jabra-Rizk, M.A.; Scheper, M.A.; Leid, J.G.; Costerton, J.W.; Shirtliﬀ, M.E. Microbial interactions
+and diﬀerential protein expression in Staphylococcus aureus-Candida albicans dual-species bioﬁlms. FEMS
+Immunol. Med. Microbiol. 2010, 59, 493–503. [CrossRef]
+
+128. Gambino, M.; Cappitelli, F. Mini-review: Bioﬁlm responses to oxidative stress. Biofouling 2016, 32, 167–178.
+
+[CrossRef]
+
+129. Matin, A.; Lynch, S.V. Investigating the threat of bacteria grown in space. ASM News 2005, 71, 235–240.
+130. Montgomery, K.; Charlesworth, J.C.; LeBard, R.; Visscher, P.T.; Burns, B.P. Quorum sensing in extreme
+
+environments. Life 2013, 3, 131–148. [CrossRef]
+
+131. Papenfort, K.; Bassler, B.L. Quorum sensing signal-response systems in Gram-negative bacteria. Nat. Rev.
+
+Microbiol. 2016, 14, 576–588. [CrossRef]
+
+132. Moradali, M.F.; Ghods, S.; Rehm, B.H. Pseudomonas aeruginosa Lifestyle: A paradigm for adaptation, survival,
+
+and persistence. Front. Cell Infect. Microbiol. 2017, 7, 39. [CrossRef] [PubMed]
+
+133. Shih, P.C.; Huang, C.T. Eﬀects of quorum-sensing deﬁciency on Pseudomonas aeruginosa bioﬁlm formation
+
+and antibiotic resistance. J. Antimicrob. Chemother. 2002, 49, 309–314. [CrossRef] [PubMed]
+
+134. Bjarnsholt, T.; Jensen, P.O.; Burmolle, M.; Hentzer, M.; Haagensen, J.A.; Hougen, H.P.; Calum, H.;
+Madsen, K.G.; Moser, C.; Molin, S.; et al. Pseudomonas aeruginosa tolerance to tobramycin, hydrogen
+peroxide and polymorphonuclear leukocytes is quorum-sensing dependent. Microbiol. -SGM 2005, 151,
+373–383. [CrossRef] [PubMed]
+
+135. Ciofu, O.; Tolker-Nielsen, T.; Jensen, P.O.; Wang, H.; Hoiby, N. Antimicrobial resistance, respiratory tract
+infections and role of bioﬁlms in lung infections in cystic ﬁbrosis patients. Adv. Drug Deliv. Rev. 2015, 85,
+7–23. [CrossRef] [PubMed]
+
+136. Zhu, J.; Mekalanos, J.J. Quorum sensing-dependent bioﬁlms enhance colonization in Vibrio cholerae. Dev. Cell
+
+2003, 5, 647–656. [CrossRef]
+
+137. March, J.C.; Bentley, W.E. Quorum sensing and bacterial cross-talk in biotechnology. Curr. Opin. Biotechnol.
+
+2004, 15, 495–502. [CrossRef]
+
+138. Bhargava, N.; Sharma, P.; Capalash, N. N-acyl homoserine lactone mediated interspecies interactions between
+
+A. baumannii and P. aeruginosa. Biofouling 2012, 28, 813–822. [CrossRef]
+
+139. Sun, Z.; He, X.; Brancaccio, V.F.; Yuan, J.; Riedel, C.U. Biﬁdobacteria exhibit LuxS-dependent autoinducer 2
+
+activity and bioﬁlm formation. PLoS ONE 2014, 9, e88260. [CrossRef]
+
+140. Díaz, M.; Castro, M.; Copaja, S.; Guiliani, N. Bioﬁlm formation by the acidophile bacterium Acidithiobacillus
+
+thiooxidans involves c-di-GMP pathway and Pel exopolysaccharide. Genes 2018, 9, 113. [CrossRef]
+
+141. Huynh, T.T.; McDougald, D.; Klebensberger, J.; Al Qarni, B.; Barraud, N.; Rice, S.A.; Kjelleberg, S.; Schleheck, D.
+Glucose starvation-induced dispersal of Pseudomonas aeruginosa bioﬁlms is cAMP and energy dependent.
+PLoS ONE 2012, 7, e42874. [CrossRef]
+
+142. Galloway, W.R.J.D.; Hodgkinson, J.T.; Bowden, S.D.; Welch, M.; Spring, D.R. Quorum sensing in
+Gram-negative bacteria: Small-molecule modulation of AHL and AI-2 quorum sensing pathways. Chem. Rev.
+2011, 111, 28–67. [CrossRef] [PubMed]
+
+143. Lin, L.; Dai, S.; Tian, B.; Li, T.; Yu, J.; Liu, C.; Wang, L.; Xu, H.; Zhao, Y.; Hua, Y. DqsIR quorum
+sensing-mediated gene regulation of the extremophilic bacterium Deinococcus radiodurans in response to
+oxidative stress. Mol. Microbiol. 2016, 100, 527–541. [CrossRef] [PubMed]
+
+Int. J. Mol. Sci. 2019, 20, 3423
+
+18 of 18
+
+144. Mamani, S.; Moinier, D.; Denis, Y.; Soulere, L.; Queneau, Y.; Talla, E.; Bonnefoy, V.; Guiliani, N. Insights into
+the quorum sensing regulon of the acidophilic Acidithiobacillus ferrooxidans revealed by transcriptomic in
+the presence of an Acyl homoserine lactone superagonist analog. Front. Microbiol. 2016, 7, 1365. [CrossRef]
+[PubMed]
+
+145. Moya-Beltran, A.; Rojas-Villalobos, C.; Diaz, M.; Guiliani, N.; Quatrini, R.; Castro, M. Nucleotide second
+messenger-based signaling in extreme acidophiles of the Acidithiobacillus species complex: Partition between
+the core and variable gene complements. Front. Microbiol. 2019, 10, 381. [CrossRef] [PubMed]
+
+146. Coggan, K.A.; Wolfgang, M.C. Global regulatory pathways and cross-talk control Pseudomonas aeruginosa
+
+environmental lifestyle and virulence phenotype. Curr. Issues Mol. Biol. 2012, 14, 47–70. [PubMed]
+
+147. Hengge, R. Principles of c-di-GMP signalling in bacteria. Nat. Rev. Microbiol. 2009, 7, 263–273. [CrossRef]
+
+[PubMed]
+
+148. Römling, U.; Amikam, D. Cyclic di-GMP as a second messenger. Curr. Opin. Microbiol. 2006, 9, 218–228.
+
+[CrossRef] [PubMed]
+
+149. Irie, Y.; Borlee, B.R.; O’Connor, J.R.; Hill, P.J.; Harwood, C.S.; Wozniak, D.J.; Parsek, M.R. Self-produced
+exopolysaccharide is a signal that stimulates bioﬁlm formation in Pseudomonas aeruginosa. Proc. Natl. Acad.
+Sci. USA 2012, 109, 20632–20636. [CrossRef] [PubMed]
+
+150. Jain, R.; Behrens, A.J.; Kaever, V.; Kazmierczak, B.I. Type IV pilus assembly in Pseudomonas aeruginosa over a
+broad range of cyclic di-GMP concentrations. J. Bacteriol. 2012, 194, 4285–4294. [CrossRef] [PubMed]
+151. Ueda, A.; Wood, T.K. Tyrosine phosphatase TpbA of Pseudomonas aeruginosa controls extracellular DNA via
+cyclic diguanylic acid concentrations. Environ. Microbiol. Rep. 2010, 2, 449–455. [CrossRef] [PubMed]
+152. Tischler, A.D.; Camilli, A. Cyclic diguanylate (c-di-GMP) regulates Vibrio cholerae bioﬁlm formation.
+
+Mol. Microbiol. 2004, 53, 857–869. [CrossRef] [PubMed]
+
+153. O’Toole, G.A.; Kolter, R. Flagellar and twitching motility are necessary for Pseudomonas aeruginosa bioﬁlm
+
+development. Mol. Microbiol. 1998, 30, 295–304. [CrossRef] [PubMed]
+
+154. Semmler, A.B.T.; Whitchurch, C.B.; Mattick, J.S. A re-examination of twitching motility in Pseudomonas
+
+aeruginosa. Microbiol. -SGM 1999, 145, 2863–2873. [CrossRef] [PubMed]
+
+155. Paytubi, S.; Cansado, C.; Madrid, C.; Balsalobre, C. Nutrient composition promotes switching between
+
+pellicle and bottom bioﬁlm in Salmonella. Front. Microbiol. 2017, 8, 2160. [CrossRef] [PubMed]
+
+156. Toyofuku, M.; Inaba, T.; Kiyokawa, T.; Obana, N.; Yawata, Y.; Nomura, N. Environmental factors that shape
+
+bioﬁlm formation. Biosci. Biotechnol. Biochem. 2016, 80, 7–12. [CrossRef] [PubMed]
+
+© 2019 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access
+article distributed under the terms and conditions of the Creative Commons Attribution
+(CC BY) license (http://creativecommons.org/licenses/by/4.0/).
+
+

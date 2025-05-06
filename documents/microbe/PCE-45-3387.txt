@@ -1,0 +1,2149 @@
+Received: 28 July 2022 | Revised: 23 September 2022 | Accepted: 29 September 2022
+DOI: 10.1111/pce.14455
+
+I N V I T E D R E V I E W
+
+Environmental interference of plant−microbe interactions
+
+Daniel A. Bastías1
+Pedro E. Gundel5,6
+
+| Raffaella Balestrini2
+
+| Stephan Pollmann3,4
+
+|
+
+1AgResearch Limited, Grasslands Research Centre, Palmerston North, New Zealand
+
+2National Research Council, Institute for Sustainable Plant Protection, Torino, Italy
+
+3Centro de Biotecnología y Genómica de Plantas, Universidad Politécnica de Madrid (UPM)–Instituto Nacional de Investigación y Tecnología Agraria y Alimentación
+(INIA/CSIC), Campus de Montegancedo, Madrid, Spain
+
+4Departamento de Biotecnología‐Biología Vegetal, Escuela Técnica Superior de Ingeniería Agronómica, Alimentaria y de Biosistemas, Universidad Politécnica de
+Madrid (UPM), Madrid, Spain
+
+5IFEVA, CONICET, Universidad de Buenos Aires, Facultad de Agronomía, Buenos Aires, Argentina
+
+6Centro de Ecología Integrativa, Instituto de Ciencias Biológicas, Universidad de Talca, Talca, Chile
+
+Correspondence
+
+Daniel A. Bastías, AgResearch Limited,
+Grasslands Research Centre, Palmerston North
+4442, New Zealand.
+Email: daniel.bastias@agresearch.co.nz
+
+Funding information
+
+New Zealand Ministry of Business, Innovation
+and Employment (MBIE); MCIN/AEI/
+10.13039/501100011033; PRIMA–OPTIMUS
+PRIME; European Union; ERDF A way of
+making Europe; Agencia Nacional de
+Investigaciones Argentina; European Union
+NextGenerationEU/PRTR; Fondo Nacional de
+Desarrollo Científico y Tecnológico
+
+Abstract
+
+Environmental stresses can compromise the interactions of plants with beneficial
+
+microbes.
+
+In the present review, experimental results showing that stresses
+
+negatively affect the abundance and/or functionality of plant beneficial microbes
+
+are summarized.
+interference of these
+plant−microbe interactions is explained by the stress‐mediated induction of plant
+
+It is proposed that the environmental
+
+signalling pathways associated with defence hormones and reactive oxygen species.
+
+These plant responses are recognized to regulate beneficial microbes within plants.
+
+The direct negative effect of stresses on microbes may also contribute to the
+
+environmental regulation of these plant mutualisms. It is also posited that, in stress
+
+situations, beneficial microbes harbour mechanisms that contribute to maintain the
+
+mutualistic associations. Beneficial microbes produce effector proteins and increase
+
+the antioxidant levels in plants that counteract the detrimental effects of plant stress
+responses on them. In addition, they deliver specific stress‐protective mechanisms
+
+that assist to their plant hosts to mitigate the negative effects of stresses. Our study
+contributes to understanding how environmental stresses affect plant−microbe
+
+interactions and highlights why beneficial microbes can still deliver benefits to plants
+
+in stressful environments.
+
+K E Y W O R D S
+
+abiotic and biotic stresses, antioxidants, effectors, endophytes, mycorrhizae, phytohormones,
+reactive nitrogen species, reactive oxygen species
+
+This is an open access article under the terms of the Creative Commons Attribution‐NonCommercial License, which permits use, distribution and reproduction in any
+medium, provided the original work is properly cited and is not used for commercial purposes.
+© 2022 The Authors. Plant, Cell & Environment published by John Wiley & Sons Ltd.
+
+Plant Cell Environ. 2022;45:3387–3398.
+
+wileyonlinelibrary.com/journal/pce
+
+|
+
+3387
+
+3388
+
+|
+
+1 |
+
+I N T R O D U C T I O N
+
+BASTÍAS ET AL.
+
+2 | P L A N T− M I C R O B E I N T E R A C T I O N S A R E
+COMPROM I SED I N STR ESS SIT UA TION S
+
+Plants are constantly challenged by a broad range of biotic and
+
+abiotic environmental stressors. Biotic stressors include patho-
+
+gens, herbivores and competitors, while abiotic stressors include
+
+2.1 | Environmental interference of foliar
+endophytes
+
+drought, salinity, heat and nutrient scarcity (Suzuki et al., 2014).
+
+Environmental stressors typically affect the plant physiology
+
+Environmental stress can compromise the associations between
+
+and metabolism, which can reduce the growth and reproduction
+
+plants and beneficial foliar endophytes. Within foliar tissues,
+
+of plants (Branco et al., 2022). Furthermore, stressors often
+
+endophyte fungi can be locally or systemically distributed. They
+
+compromise the association of plants with beneficial microbes,
+
+extend hyphae along intercellular spaces of plant hosts where
+
+which can also limit plant fitness (Kiers et al., 2010; Rudgers et al.,
+
+they obtain nutrients and carbohydrates from the apoplast
+
+2020). Plant beneficial microbes confer to their hosts with
+
+(Christensen et al., 2008; Christensen & Voisey, 2007). These
+
+mechanisms that efficiently mitigate the detrimental effects of
+
+endophytes are transmitted vertically via plant seed, horizontally
+
+stresses (Bastías et al., 2022). Foliar fungal endophytes of genus
+
+via contagious spread of symbionts and some species simulta-
+
+Epichloë endow to plants with specialized metabolites (mainly
+
+neously transmit both vertically and horizontally (Rodriguez et al.,
+
+alkaloids) that increase the levels of resistance against herbivores
+
+2009). Vertically transmitted endophytes form mutualistic rela-
+
+(Schardl et al., 2004). They also stimulate certain plant responses
+
+tionship with plants and generally reach high prevalence in plant
+
+that enhance the resistance/tolerance to pathogens, drought and
+
+populations. A remarkable example of this are endophytes of
+
+other stresses (Card et al., 2021; Decunta et al., 2021). Similarly,
+
+genus Epichloë that form persistent associations with grasses of
+
+root fungal endophytes trigger a wealth of molecular processes in
+
+subfamily Pooideae (Gundel et al., 2011; Schardl et al., 2004).
+
+the hosts,
+
+including calcium signalling and the production of
+
+Stresses can interfere with symbioses between plants and foliar
+
+osmolytes like proline or soluble sugars, that increase the plant
+
+endophytes by altering the magnitude of the benefits provided by
+
+tolerance to abiotic and biotic stresses (Giauque et al., 2019;
+
+symbionts (e.g., herbivory protection and plant growth promotion)
+
+Hereme et al., 2020; Lata et al., 2018; Vadassery & Oelmüller,
+
+2009). Mycorrhizal
+
+fungi enhance the host acquisition of
+
+nutrients (such as phosphorus and nitrogen) and water that
+
+results in net benefits for plants specially growing in poor soils
+
+(Bennett & Groten, 2022). Furthermore, they stimulate host
+
+immune responses that increases the resistance levels of plants
+
+against pathogens and insect herbivores (Pieterse et al., 2014;
+
+Pozo et al., 2015).
+
+Most of the research regarding stresses and plant−microbe
+
+interactions has been focused on investigating microbial
+stress‐protective traits. However, stressors can compromise the
+
+(Bastías et al., 2021; Schardl et al., 2004). Elevated ozone levels
+reduced the Epichloë endophyte‐derived resistance to insects in
+
+Lolium multiflorum plants (Ueno et al., 2016). More severe was the
+effect of UV‐B radiation on Epichloë‐derived benefits. Elevated UV‐
+B levels completely supressed the endophyte‐based herbivore
+
+resistance in Festuca pratensis plants. Even worse was the effect
+of UV‐A radiation on the endophyte‐based herbivore resistance.
+Elevated UV‐A levels made the endophyte‐symbiotic plants more
+
+susceptible to insect herbivores than their nonsymbiotic counter-
+parts (McLeod et al., 2001). Similarly to the UV‐B radiation,
+low
+temperature also suppressed the endophyte‐based resistance to
+
+associations of plants with beneficial microbes, and the mecha-
+
+insects in symbiotic L. multiflorum plants (Hennessy et al., 2016).
+
+nisms explaining this negative effect of stresses on plants have
+
+Under drought stress, Festuca arundinacea plants associated with
+
+been scantly considered in the specialized literature.
+
+In this
+
+endophytes were more susceptible to insect herbivores than their
+
+review, firstly, published results showing that environmental
+stresses compromised plant−microbe interactions were summa-
+
+nonsymbiotic counterparts in situations of water restriction (the
+
+opposite occurred under high water availability) (Bultman & Bell,
+
+rized. The study compilation was focused on distinct groups
+
+2003). Drought also supressed the disease protection conferred by
+
+of beneficial microbes of plants: foliar endophytes, root endo-
+
+endophytes against phytopathogens in Lolium perenne plants (i.e.,
+
+phytes and mycorrhizal fungi
+
+(mainly arbuscular mycorrhizae).
+
+Bipolaris sorokiniana) (Li et al., 2020). Stress can also affect plant
+
+Secondly, the potential mechanisms by which the stressors would
+interfere plant−microbe interactions were identified. It is pro-
+
+growth stimulation conferred by endophytes to their hosts (Bastías
+et al., 2021). For example, drought supressed the endophyte‐
+
+posed that beneficial microbes are affected by the plant
+
+responses triggered by the stresses (i.e., plant immunity and
+
+mediated growth promotion in L. perenne and Festuca sinensis plants
+(Marks & Clay, 2007; Xu et al., 2021). Furthermore, the endophyte‐
+
+oxidative stress) and by the stress itself. Thirdly, putative
+
+based resistance to insects was reduced by the presence of
+
+mechanisms that beneficial microbes would use to counteract
+
+mycorrhizal fungi that presumably competed for resources in L.
+
+the plant stress responses and to alleviate the negative effects of
+stresses on plants and microbes were described. These microbial‐
+
+perenne plants (Vicari et al., 2002). Interestingly, the detrimental
+effect of stresses on the endophyte‐derived benefits can be
+
+derived mechanisms may contribute to maintain the mutualism
+
+transmitted intergenerationally. Daughter symbiotic plants of L.
+
+between the plant and microbe and to enhance the performance
+
+multiflorum produced from mothers that were exposed to ozone
+
+of plants in stress situations.
+
+exhibited lower levels of resistance to insects compared to mother
+
+ENVIRONMENTAL INTERFERENCE OF PLANT SYMBIOSES
+
+|
+
+3389
+
+plants that were not exposed to the stress (Bubica Bustos
+
+negatively affected the colonization of S.
+
+indica fungi on roots of
+
+et al., 2020).
+
+The stress‐mediated compromise of Epichloë‐derived benefits may
+be explained by the reduction in concentrations of endophyte‐derived
+
+Ocimum basilicum plants, while individual treatments with either Cu
+
+or Pb showed no negative impact on the colonization (Sabra et al.,
+
+2018). Noteworthy in this context is the additional finding that
+
+antiherbivore alkaloids and alteration in fungal mycelial biomass within
+
+the simultaneous infection of O. basilicum roots with S. indica and the
+
+plant tissues. Elevated carbon dioxide levels reduced the concentrations
+
+arbuscular mycorrhiza fungus Rhizophagus irregularis reduced the
+
+of endophytic alkaloids in F. arundinacea plants (Brosi et al., 2011;
+
+colonization of plant roots by S. indica when grown in presence of
+
+Ryan, Rasmussen et al., 2014). Similarly, decreased contents of
+endophyte‐derived alkaloid were exhibited by endophyte‐symbiotic L.
+
+Pb alone. Furthermore interesting is the observation that
+the
+co‐colonization of roots with both fungi could significantly stimulate
+
+perenne plants simultaneously associated with mycorrhizal fungi. In this
+
+the mycorrhization with R. irregularis under Cu and combined Cu and
+
+experiment, the mycorrhizal treatment also reduced the mycelial biomass
+
+Pb stress, although it remains to be remarked that the abundance of
+
+of Epichloë endophytes within plant tissues (Liu et al., 2011). Certain
+
+mycorrhizae was generally low under heavy metal stress. Further-
+
+experimental results suggest that stresses inhibit the performance of
+endophyte‐symbiotic plants. Under drought conditions, endophyte‐
+
+more, a recent study provided comprehensive evidence that a
+number of climate change‐related abiotic stresses, including drought
+
+symbiotic L. perenne plants accumulated less biomass and produced less
+
+and mechanical stress (through an increased compactness of the soil),
+
+seeds than nonsymbiotic plants (Cheplick et al., 2000; Hesse et al., 2003).
+
+had a negative effect on the root colonization of S. indica on Zea mays
+
+Similarly, plants of the same species associated with endophytes
+
+plants (Hosseini et al., 2018). The study also highlighted that, plants
+
+exhibited lower biomass than nonsymbiotic plants during the recovery
+
+inoculated with this root endophyte fungus still performed better
+
+period post drought (Cheplick, 2004). Furthermore, lower regrowth rate
+
+when exposed to combined drought and mechanical stress, even
+
+following a treatment of simulated folivory was documented in certain
+
+though the fungal load was diminished. This would imply that host
+
+genotypes of L. perenne plants associated with endophytes compared to
+
+plants may possess mechanisms to maintain a necessary level of
+
+their nonsymbiotic counterparts (Cheplick, 1998).
+
+symbiosis to gain the benefits under stress, without putting their own
+
+2.2 | Environmental interference of root
+endophytes
+
+As with the foliar endophytes, environmental stresses can interfere
+
+with symbioses between plants and beneficial root endophytes. Most
+
+root endophyte fungi grow in the apoplast of epidermal and cortex
+
+cells, without entering the central cylinder of their host plants' root.
+
+survival into jeopardy. In the context of soil compactness, a recent
+
+study reported that compacted soils reduced the free diffusion of
+plant‐produced ethylene which, in turn, accumulated in the rhizo-
+
+sphere and the root tissue, where it restricted root growth (Pandey
+
+et al., 2021). Another work on the root colonization of Arabidopsis
+
+plants with S.
+indica demonstrated that ethylene signalling and
+ethylene‐targeted transcription factors were essential to establish
+the plant−fungal interaction (Camehl et al., 2010). Overall, there is
+currently very limited insights into climate change‐mediated abiotic
+
+They form loose hyphal networks that
+
+invaginate the plasma
+
+stresses in the rhizosphere (Fonseca de Lima et al., 2021), and
+
+membranes of the plant cells. In contrast to mycorrhizal fungi, most
+
+root endophyte fungi,
+
+like for instance Serendipita indica, do not
+
+much more work is needed to obtain a deeper understanding of the
+intricacies of plant−fungal interactions under these conditions.
+
+induce the formation of differentiated plant or fungal structures,
+
+Multiple experimental results suggest that distinct root endo-
+
+when penetrating and colonizing the cells of their host plants (Weiß
+
+phytes enhance the tolerance of plants to salt stress (e.g., S. indica,
+
+et al., 2016). At present, there is only very little known about the
+
+mechanisms by which plants and microbes steer their interactions
+under ever‐changing environmental conditions. However, there is
+
+Fusarium culmorum, Talaromyces minioluteus, Penicillium murcianum
+(González‐Teuber et al., 2022; Pérez‐Alonso et al., 2020;
+
+fungi)
+
+Rodriguez et al., 2008). However,
+
+there are few studies that
+
+mounting evidence that plants have to tightly control their root
+
+empirically evaluate whether salt stress exerts negative effects on
+
+microbiota to maintain their fitness (Wolinska et al., 2021). A striking
+example of this are the major changes observed in root‐associated
+
+the symbiosis between plants and fungal root endophytes. One of
+
+these studies documented a significant reduction in the colonization
+
+fungal communities in Triticum aestivum plants under drought stress
+
+rate of Oryza sativa roots by S. indica when symbiotic plants were
+
+(Salamon et al., 2020). Another study from the same group pointed
+
+subjected to salt stress (Jogawat et al., 2016).
+
+into the same direction, highlighting that drought stress indirectly
+affected the plant−fungal
+
+interactions in roots of T. aestivum
+
+Depending on the given host plant—root endophyte combination
+
+and the specific environmental stress applied, the beneficial effect of
+
+(subspecies vulgare and spelta), while still promoting plant growth
+
+and several physiological parameters,
+
+including photosynthetic
+
+the symbiont can be considerably reduced. To give just a few
+examples, severe drought stress significantly reduced the S. indica‐
+
+activity, electron transport rate and water use efficiency (Ratajczak
+
+mediated root growth promotion on Z. mays plants (Zhang et al.,
+
+et al., 2020).
+
+2018), while high salt conditions minimized the root growth
+
+Multiple studies have demonstrated that environmental stresses
+
+promoting effect of Aspergillus aculeatus endophytes on Cynodon
+
+contribute to control the colonization of roots by endophytes. For
+
+dactylon plants (Xie et al., 2017). However, there is only scarce
+
+example, soils with high levels of both cupper (Cu) and lead (Pb)
+
+information on scenarios in which the interaction of beneficial root
+
+3390
+
+|
+
+BASTÍAS ET AL.
+
+endophytes with their host plants converts into a burden for the
+
+plant, drastically hampering its fitness. In this context, it has been
+
+decrease the germination of mycorrhizal fungi (López‐Ráez, 2016;
+Wang et al., 2017). The pH is another soil aspect that control plant‐
+
+reported that several endophytes possess a considerable phenotypic
+
+mycorrhizal symbioses. Soils with acidic pH reduced the abundance
+
+plasticity, which allows them to switch between endophytic and
+
+of mycorrhizal fungal arbuscules (and impeded their development) in
+
+necrotrophic lifestyles (Delaye et al., 2013). This could possibly be
+
+roots of S.
+
+lycopersicum plants. The disrupted transfer of lipids
+
+taken as an additional
+
+indication for the intimate control of the
+
+between the plant and fungus seemed to explain the negative effect
+
+symbiotic relationship of the interacting organisms.
+
+of this stress on the symbiosis (Feng et al., 2020; Liu et al., 2020).
+
+2.3 | Environmental interference of mycorrhizal
+fungi
+
+Similar to foliar and root endophytes, most studies regarding stresses
+and plant‐mycorrhizal associations have described the stress‐
+
+Insect herbivory compromises the abundance and diversity of
+
+arbuscular mycorrhizal species in plants (Frew, 2022; Shi et al., 2022).
+The presence of the phloem‐feeding aphid Acyrthosiphon pisum
+
+decreased the colonization of mycorrhizal fungi in Vicia faba plants
+
+(Babikova et al., 2014). Similarly, a treatment of simulated folivory
+
+reduced the abundance of mycorrhizal arbuscules in Medicago sativa
+
+plants. In this experiment, the reduction in arbuscule abundance was
+
+protective traits that these fungi confer to their hosts (Balestrini
+
+associated with limited availability of photosynthates in plant tissues
+
+et al., 2018; Porcel et al., 2012; Rivero et al., 2018). However,
+
+(Saravesi et al., 2014).
+
+multiple evidence suggest that abiotic and biotic stresses compro-
+mise these plant−microbe interactions.
+
+Drought can reduce the colonization of arbuscular mycorrhizal
+
+fungi (although mycorrhizal plants generally perform better than
+
+their nonsymbiotic counterparts)
+
+(Augé, 2001; Balestrini et al.,
+
+2018; Chitarra et al., 2016). This reduction in mycorrhizal root
+
+3 | PLANT BE NEF IC IA L MIC ROBE S A RE
+AFFECTED BY ENVIRONMENTAL S TRESSES:
+MECHANIS TI C P ERSPEC TI VES
+
+colonization is explained in part by the negative effect of the stress
+
+Plants respond to environmental stresses by inducing signalling
+
+on the development of the fungus in soil and rhizosphere. For
+
+cascades that are governed by phytohormones, reactive oxygen
+
+instance, drought (and other stresses as well) inhibited the spore
+
+species (ROS) and other signalling molecules (Figure 1). The signalling
+
+germination and elongation of germinative hyphae of mycorrhizal
+fungi in soil (Lenoir et al., 2016). The stress‐mediated alteration in
+
+cascades converge in the activation and/or repression of master
+regulators that control the expression of phytohormone‐ and ROS‐
+
+the plant metabolisms and/or development (e.g., by reducing root
+
+responsive transcription factors (Devireddy et al., 2021; Zhang et al.,
+
+size) also contributes to the detrimental effect of drought on the
+
+2022). These transcription factors regulate the expression of plant
+
+mycorrhizal root colonization (Lenoir et al., 2016; Millar & Bennett,
+
+genes encoding for proteins involved in the adjustment of plant
+
+2016). For example, drought reduced the ability of mycorrhizal fungi
+
+phenotypes to stresses (Kranner et al., 2010; Pozo et al., 2015).
+
+to promote the expression of plant genes involved in the transport
+
+Although phytohormone, ROS and other signalling pathways are
+
+of nutrients between the plant and fungus in Solanum lycopersicum
+
+critical for plants to adequate their phenotypes to the environmental
+
+(e.g., transporters of phosphate, ammonium, peptides, amino acids)
+
+context, the induction of some of these signalling pathways can
+
+(Balestrini et al., 2019). The decreased expression of these plant
+
+compromise the presence and/or functionality of beneficial microbes
+
+genes may be explained by a reduced abundance of mycorrhizal
+
+(Foo et al., 2013; Xu et al., 2018) (Figure 1).
+
+arbuscules in plant roots (Chitarra et al., 2016).
+
+Soil nutrients, such as phosphorus and nitrogen, are known to be
+involved in the regulation of plant‐mycorrhizal symbioses. The
+
+addition of phosphorus and nitrogen in soil decreased the diversity
+
+(and abundance) of mycorrhizal fungal species in plants (Ma et al.,
+
+2021). This reduced diversity of fungi has been explained by a
+shortage in the allocation of carbon‐based compounds towards
+
+3.1 | Defence‐related phytohormones interfere
+plant−microbe interactions
+
+In addition to their major roles in plant stress responses, defence‐
+
+related phytohormones salicylic acid, jasmonic acid and ethylene are
+
+mycorrhizae because plant hosts apparently rely less on the fungus to
+
+master
+
+regulators of
+
+the interaction of plants with beneficial
+
+obtain nutrients from the soil (Branco et al., 2022). At physiological
+level, high nutrient contents in soil down‐regulated the expression of
+
+symbionts (Pieterse et al., 2014). These hormones are activated
+
+following the plant perception of multiple abiotic/biotic stresses and
+
+plant genes that facilitate the mycorrhizal root colonization (e.g.,
+
+also beneficial microbes (Broekaert et al., 2006; Khan et al., 2015; Per
+
+phosphate transporters) and promote the development of arbuscules
+in roots (i.e., half‐size ATP‐binding cassete transporters) (Breuillin
+
+et al., 2018; Pieterse et al., 2014). The perception is carried out by
+specific receptors located in plant cell membranes such as receptor‐
+
+et al., 2010; Wang et al., 2017). Furthermore, high phosphorus levels
+
+repressed the expression of plant genes involved in the biosynthesis
+
+of strigolactones that stimulate the growth and branching of
+
+like kinases and histidine kinases that recognize specific signals in the
+stressors (e.g., microbe‐associated molecular patterns)
+(Osakabe
+et al., 2013). During the recognition, plants increase calcium (Ca2+)
+
+mycorrhizal hyphae. Low strigolactone levels in plants normally
+
+contents in cells, accumulate ROS in the apoplast, and phosphorylate
+
+ENVIRONMENTAL INTERFERENCE OF PLANT SYMBIOSES
+
+|
+
+3391
+
+F I G U R E 1 Beneficial microbes are affected by plant stress responses. Plants are challenged by distinct abiotic and/or biotic stresses. They
+perceive stresses by cell membrane receptors including receptor like kinases (e.g., BAK1). Activated receptors coordinate multiple responses in
+plant cells, such as calcium (Ca2+) fluxes and phosphorylation of proteins, that stimulate the biosynthesis of signalling molecules including
+hormones salicylic acid (SA), jasmonic acid (JA) and ethylene (ET), reactive oxygen species (ROS) and reactive nitrogen species (RNS) (Pozo et al.,
+2015). Hormones and ROS orchestrate signalling cascades that modulate master regulators (e.g., NPR1, JAZ, EIN3) of the expression of key
+stress‐responsible transcription factors (e.g., TGA, MYC, ERF1). The activation of these transcription factors, during the processing of the stress
+signalling, leads to massive transcriptome changes that modulate the phenotype of plants in response to the stress. We propose that plant
+SA‐, JA‐, ET‐ and ROS‐associated stress responses can negatively affect beneficial microbes (e.g., foliar endophytes, root endophytes,
+mycorrhizal fungi). This is because these responses typically are associated with production of antimicrobial proteins (e.g., glucanases, chitinases),
+changes in growth of microbes within plant tissues, reinforcement of plant cell walls, oxidative stress and senescence of plant tissues
+(i.e., programmed cell death). The list of molecules is focused on defence‐related hormonal and ROS signalling pathways and is not exhaustive
+(roles of these molecules are explained in the main text). Arrows indicate positive regulation and truncated lines inhibition or negative regulation.
+Red connectors denote direct effects of stresses on plants. BAK1, BOTRYTIS‐INDUCED KINASE1; EIN3, ET‐INSENSITIVE 3; ERF1, ET
+RESPONSE FACTOR 1; JAZ, JASMONATE ZIM DOMAIN; MYC, MYC‐type basic helix‐loop‐helix transcription factor; NPR1, NONEXPRESSOR
+OF PR GENES 1; TGA, TGACG sequence‐specific binding.
+
+distinct mitogen‐associated protein kinases. These early responses
+
+expression of jasmonic acid‐related response genes (Ballaré, 2014;
+
+terminate by inducing proteins that regulate the production and
+
+accumulation of salicylic acid,
+jasmonic acid and/or ethylene
+hormones (Saijo et al., 2018). The accumulation of defence‐related
+
+phytohormones also occur in distant tissues as result of proteins that
+
+systemically distribute defence signals (e.g., pipecolic acid, methyl
+
+salicylate) (Pieterse et al., 2014). High salicylic acid levels in cells
+
+Li et al., 2019). The accumulation of ethylene in cells stimulates its
+binding with specific intracellular receptors (e.g., ethylene‐receptor
+1/2), and this binding prevents the proteosome‐mediated degrada-
+tion of ETHYLENE‐INSENSITIVE (EIN) 2/3 and EIN3‐LIKE 1 proteins.
+
+These depressed proteins activate several transcription factors that
+regulate the expression of the gene ETHYLENE‐RESPONSE FACTOR
+
+induce activities of NONEXPRESSOR OF PR GENES 1 proteins that
+in turn induce TGACG sequence‐specific binding transcription
+
+(ERF) 1 (and other genes) encoding for a protein that activates
+ethylene‐responsive genes (Broekaert et al., 2006). The ERF1
+
+factors. These transcription factors regulate the expression of
+salicylic acid‐responsive genes (Li et al., 2019). In case of jasmonic
+
+transcription factor is also activated by jasmonic acid (Lorenzo
+
+et al., 2003).
+
+acid,
+
+the accumulation of
+
+this hormone in cells triggers the
+
+Multiple lines of evidence show that the activities of defence‐
+
+conjugation with amino acids that produces the active form, the
+jasmonoyl‐isoleucine. This conjugated hormone induces the ubiqui-
+
+tination of JASMONATE ZIM DOMAIN (JAZ) proteins by the
+coronatine insensitive 1 containing the skp1‐cullin 1‐f‐box ubiquitin
+ligase complex. Ubiquitinated JAZ are degraded via 26‐S protea-
+
+somes. JAZ proteins are repressors of transcription factors that
+induce the expression of jasmonic acid‐responsive genes (e.g., MYC‐
+type basic helix‐loop‐helix transcription factor). Therefore,
+
+the
+
+related hormone signalling pathways (i.e., salicylic acid,
+
+jasmonic
+
+acid and ethylene) negatively affect plant beneficial microbes. For
+example, endophyte‐symbiotic L. multiflorum and F. arundinacea
+
+plants treated with salicylic acid or methyl jasmonate (an activator
+of jasmonic acid‐related defence responses) reduced the concen-
+tration of fungal‐derived alkaloids and promoted susceptibility of
+
+symbiotic plants against insect herbivores (Bastías et al., 2018a,
+2018b; Simons et al., 2008). Similarly, the endophyte‐mediated
+
+degradation of
+
+JAZ proteins by proteasomes promotes
+
+the
+
+growth promotion in Achnatherum sibiricum plants was erased when
+
+3392
+
+|
+
+BASTÍAS ET AL.
+
+symbiotic plants were exposed to methyl
+
+jasmonate (Qin et al.,
+
+2019). Furthermore,
+
+the colonization of
+
+roots by arbuscular
+
+regulation including phosphorylation sites, Ca2+‐binding EF‐hand
+sites and phosphatidic acid‐binding sites (Kadota et al., 2015). RBOHs
+
+mycorrhizal fungi
+
+is affected by plant defence hormones (Foo
+
+are normally induced by phosphorylation upon the perception of
+
+et al., 2013). Plants of Nicotiana tabacum with enhanced salicylic
+
+acid levels showed reduced mycorrhization (Herrera Medina et al.,
+
+2003). Reduced colonizations of arbuscular mycorrhizal fungi were
+also documented in ethylene‐exposed Pisum sativum plants and
+ethylene‐overproducing S.
+
+lycopersicum plants (Geil et al., 2001;
+
+stressors. For instance, the enzyme RBOHD is phosphorylated by the
+receptor‐like kinase receptor BOTRYTIS‐INDUCED KINASE 1 in
+presence of pathogens. This RBOHD phosphorylation causes a ROS‐
+
+mediated induction of defences in A. thaliana (Kadota et al., 2015).
+
+The plant production of ROS in response to stress may
+
+Torres de Los Santos et al., 2011; Zsögön et al., 2008). Similar
+
+compromise beneficial microbes. ROS can cause oxidate damage in
+
+outcomes have been documented in root endophytes. The over-
+
+microbial cells, potentially leading to cell death (Kadota et al., 2015).
+
+expression of the plant ERF1 transcription factor reduced the root
+
+In Z. mays, the accumulation of ROS in the cytoplasm of plant cells
+
+colonization and also eliminated the benefits of the endophyte S.
+
+containing mycorrhizal fungi apparently promoted the degradation of
+
+indica in A. thaliana plants (Camehl et al., 2010). Further experi-
+
+fungal arbuscules (Fester & Hause, 2005). Furthermore, ROS alter the
+
+mental results suggested that the activation of jasmonic acid and
+
+development of fungal hyphae within plant tissues which reduces the
+
+ethylene plant signalling pathways reduced the root colonization of
+
+fitness of their hosts (Kayano et al., 2018). Symbiotic L. perenne plants
+
+S.
+
+indica endophytes in A. thaliana and Dimocarpus longan plants
+
+with reduced ROS levels showed stunted (and sometime lethal)
+
+(Cheng et al., 2022; Khatabi et al., 2012).
+
+phenotypes due to an unrestricted growth of Epichloë endophytes
+
+Beneficial fungal microbes may be regulated by the action of
+certain proteins of response to defence‐related hormonal signalling
+pathways. These proteins include β−1,3‐glucanases, chitinases and
+pathogenesis‐related enzymes that degrade fungal cell walls via
+
+within plant tissues. This plant phenotype was associated with
+
+endophytes that exhibited mutations in the NoxA gene which
+encodes for a ROS‐producer NADPH oxidase (Tanaka et al., 2006).
+
+Moreover, stunted phenotypes have also been documented in L.
+
+hydrolysis of structural components (e.g., glucans) and callose
+
+perenne plants associated with endophytes with mutations in genes
+
+synthase enzymes that block the spread of the fungal mycelia in
+
+plants tissues via the reinforcement of plant cell walls (Dupont et al.,
+2015; Kou et al., 2021; Redkar et al., 2022). Furthermore, defence‐
+
+that regulate the activity of fungal NADPH oxidases (Kayano et al.,
+2018). Finally, ROS‐mediated responses also strengthen plant cell
+walls (via cross‐linking of glycoproteins and callose deposition) that
+
+related hormones could control the abundance of beneficial microbes
+
+could potentially restrict the mycelial dissemination of beneficial
+
+in plant tissues by activating senescence responses (= programmed
+
+fungi within plant tissues (Kadota et al., 2015).
+
+cell death)
+
+in infection sites (Bernacki et al., 2021; Brodersen
+
+et al., 2005).
+
+3.2 | ROS interfere plant−microbe interactions
+
+ROS, and other free radicals, also regulate the interaction of plants
+
+It is worth mentioning that environmental stresses can affect
+plant−microbe interactions by mechanisms not related to plant stress
+
+responses. For instance, environmental stresses directly inhibit the
+
+development of beneficial microbes in soil and reduce the plant
+production of strigolactones (e.g., Lenoir et al., 2016; López‐Ráez,
+
+2016; Ryan, Rasmussen et al., 2014). This direct effect of stresses is
+particularly relevant in those plant−microbe interactions that the
+
+with beneficial symbionts (Calcagno et al., 2012; Tanaka et al., 2006;
+
+microbe has to colonize the plant (Branco et al., 2022; Lenoir et al.,
+
+Wawra et al., 2016). ROS are normally produced in chloroplasts,
+peroxisomes and mitochondria organelles as by‐products of the
+
+metabolism (Miller et al., 2010). These molecules are formed by
+transferring electrons with high‐energy to molecular oxygen and
+
+include hydrogen peroxide, singlet oxygen and superoxide radical. At
+
+high levels, ROS cause oxidative damage to DNA, lipids and proteins
+
+that can lead to cell death (Raja et al., 2017). ROS contents in cells
+
+2016; Nivedita et al., 2021).
+
+4 | B E N E F I C I A L M I C R O B E S H A R B O U R
+M E C H A N I S M S O F P R O T E C T I O N A G A I N S T
+ENVIRONMENTAL S TRESSES
+
+rapidly augment in presence of stressors (Huang et al., 2019). This
+
+Several experimental
+
+results show that, even when stresses
+
+abrupt increment in ROS levels is due, in part, to the action of the
+
+compromise the performance of plant beneficial microbes, these
+
+enzyme nicotinamide adenine dinucleotide phosphate (NADPH)
+
+organisms still deliver benefits to their plant hosts. For instance,
+
+oxidase. NADPH oxidases belong to the respiratory burst oxidase
+homolog (RBOH) family in plants, and RBOH‐derived ROS can act as
+
+while nitrogen limitation in soil reduced the concentration of
+endophyte‐derived antiherbivore alkaloids in F. arundinacea, symbi-
+
+signalling molecules (Miller et al., 2010). RBOH enzymes are located
+
+otic plants still were more resistant to aphids than their non-
+
+in plasma membranes and transfer electrons from cytosolic NADPH
+
+symbiotic counterparts (Ryan, Rasmussen et al., 2014; Ryan, Shukla
+
+or nicotinamide adenine dinucleotide to apoplastic molecular oxygens
+
+et al., 2014). Beneficial microbes harbour mechanisms
+
+that
+
+which leads to the generation of superoxide radicals that can be
+
+counteract plant stress responses and protect hosts from stresses
+
+converted to hydrogen peroxide by the superoxide dismutase
+
+(Figure 2). These mechanisms may contribute to maintain the
+
+enzyme (Sukuzi et al., 2012). RBOHs possess several regions of
+
+mutualistic associations in stress situations.
+
+ENVIRONMENTAL INTERFERENCE OF PLANT SYMBIOSES
+
+|
+
+3393
+
+salicylic acid and jasmonic acid/ethylene plant signalling pathways
+
+(Wang et al., 2021). Additionally, crinkler (CRN) 1 is another effector
+
+produced by R. irregularis that control plant immune responses. While
+
+the specific mechanism of action of CRN1 is unknown, a reduced
+
+expression of this fungal effector decreased the size and abundance
+
+of mycorrhizal arbuscules in roots of Medicago truncatula plants
+
+(Voß et al., 2018).
+
+Plant beneficial microbes also secrete effectors that counteract
+ROS‐associated plant stress responses. The root endophyte S.
+indica inhibited ROS‐derived plant immune responses by producing
+the effector fungal glucan‐binding 1 that altered the cell wall
+
+composition of the fungus. This remodelled cell wall would bypass
+
+the plant recognition of the fungus, avoiding the plant production of
+
+ROS and the associated immune response (Wawra et al., 2016).
+
+Furthermore, beneficial microbes stimulate the formation of
+
+antioxidants in plants that efficiently neutralize ROS (Balestrini
+
+et al., 2018; Hamilton et al., 2012; Li et al., 2021; Noctor & Foyer,
+
+1998). Antioxidants with major roles in plants include catalase,
+
+flavonoids, peroxidases, proline and superoxide dismutase (Noctor
+
+et al., 2018). For instance, the presence of Epichloë endophytes
+
+promoted the growth of Elymus dahuricus plants under drought
+
+which was associated with increased antioxidant contents and
+
+reduced oxidative damage in plants (Zhang & Nan, 2007). Similarly,
+
+endophytes of the same genus in L. perenne plants challenged by
+
+distinct phytopathogens increased antioxidant concentrations (i.e.,
+
+peroxidases, proline and superoxide dismutase) and decreased the
+
+levels of oxidative damage in plants (Ma et al., 2015). The symbiosis
+
+of Colobanthus quitensis with the beneficial root endophyte fungi
+
+Penicillium brevicompactum and P. chrysogenum triggered the
+
+formation flavonoid antioxidants,
+
+including quercetin, which
+
+increased the protection of host plants against highly damaging
+UV‐B radiation (Barrera et al., 2020). The increased drought
+tolerance in mycorrhizal‐symbiotic S.
+
+lycopersicum plants was
+
+associated with enhanced concentrations of proline antioxidants
+
+and reduced accumulation of hydrogen peroxide compounds
+
+(Chitarra et al., 2016). In the same plant species, the presence of
+
+F I G U R E 2 Beneficial microbes counteract plant stress responses
+and protect hosts from stresses. Abiotic and biotic stresses induce
+stress responses in plants that are governed by signalling molecules
+including salicylic acid (SA), jasmonic acid (JA), ethylene (ET), reactive
+oxygen species (ROS) and reactive nitrogen species (RNS) (Pozo et al.,
+2015). Plant beneficial symbionts are affected directly by abiotic/
+biotic stresses or indirectly by plant stress responses (i.e., SA‐, JA‐,
+ET‐, ROS‐ and RNS‐associated responses). These symbionts protect
+themselves from plant stress responses by the production of
+antioxidants that reduce ROS‐ and RNS‐derived oxidative damage
+and fungal effectors that efficiently repress defensive hormone‐ and
+ROS‐associated host responses. Additionally, plant beneficial
+symbionts protect from stresses by producing stress‐protective
+mechanisms (e.g., antiherbivore alkaloids, osmoprotectant molecules)
+and/or inducing plant tolerance/resistance mechanisms against
+stresses (e.g., photosynthesis, priming of plant immune responses).
+The symbionts' mechanisms that counteract plant stress responses or
+protect plants from stresses are described in the main text. Arrows
+indicate positive regulation and truncated lines inhibition or negative
+regulation. Red connectors denote direct effects of stresses on plants
+and beneficial microbes. The plant regulation of beneficial microbes is
+represented with a thinner truncated line since plant stress responses
+may be attenuated by the microbial production of effectors and
+increase in antioxidant levels in plants. [Color figure can be viewed at
+wileyonlinelibrary.com]
+
+Plant beneficial microbes counteract plant stress responses by
+
+mycorrhizal fungi alleviated the negative effects of combined
+
+secreting effector proteins that reduce or prevent the induction of
+defence‐related hormonal signalling pathways (Hassing et al., 2019).
+Plant JA‐related defence responses were repressed by Laccaria
+
+drought and heat stresses by increasing the activities of antioxidant
+
+enzymes that reduced the peroxidation of lipids and accumulation
+
+of hydrogen peroxide in plant tissues (Duc et al., 2018).
+
+bicolor mycorrhizal fungi that produced the effector mycorrhizal
+
+Beneficial microbes confer to plant hosts multiple mechanisms of
+
+induced small secreted protein (MISSP) 7. The defence suppression
+
+protection against stresses. We briefly summarized some of these
+
+occurred since the fungal MISSP7 stabilized and prevented the
+
+degradation of plant JAZ proteins that are repressors of jasmonic
+acid‐responsive genes (Plett et al., 2014). Similarly, plant ethylene‐
+
+mechanisms since there are several comprehensive reviews regarding
+this topic (e.g., Branco et al., 2022; Pérez‐Alonso et al., 2020; Schardl
+
+et al., 2004). Foliar Epichloë endophytes confer bioactive alkaloids to
+
+related defence responses were inhibited by the arbuscular mycor-
+
+plant hosts that increase the plant resistance to herbivores (Bastias
+
+rhizal fungus R. irregularis that produced the effector secreted protein
+
+et al., 2017). These endophytes also produce mannitol, a sugar
+
+(SP) 7. In this case, the inhibition of the plant defence was since the
+
+alcohol with osmotic and antioxidant effects, that would increase the
+
+SP7 interfered with the plant transcription factor ERF19 (Kloppholz
+
+plant tolerance to drought (Nagabhyru et al., 2013; Rasmussen et al.,
+
+et al., 2011). Plant immune responses were also repressed by the
+
+2008). Arbuscular mycorrhizal fungi increase the plant tolerance to
+
+fungus R.
+irregularis that produced the effector nuclear localized
+effector 1 that prevented the mono‐ubiquitination of the plant
+histone 2B. Mono‐ubiquitinated histone 2B proteins regulate
+
+drought by the direct transport of water from soil to plant root via a
+
+hyphal extracytoplasmic pathway (Kakouridis et al., 2022). Root
+
+endophytes enhance the plant tolerance to salinity by the action of
+
+3394
+
+|
+
+BASTÍAS ET AL.
+
+several fungal salt transporter proteins (e.g., ENA ATPases) that
+
+interactions. For instance, mutant plants for hormone (i.e., salicylic
+
+efficiently reduce the accumulation of sodium within root cells.
+Additionally, the up‐regulation of the fungal high osmolarity glycerol
+gene, encoding a mitogen‐activated protein kinase involved in
+
+acid, jasmonic acid, ethylene) and/or ROS production are useful tools
+for altering the relationship between direct and plant‐mediated
+
+effects of stressors on beneficial microbes (e.g., Jayakannan et al.,
+
+osmoregulation, increased the salt stress tolerance in O. sativa plants
+
+2015; Nadarajah, 2020). Beneficial microbes harbour mechanisms
+
+(Jogawat et al., 2016; Nivedita et al., 2021). Beneficial microbes also
+mitigate the negative effects of stresses by promoting stress‐
+
+that counteract plant stress responses. They produced effector
+
+proteins that reduced or prevented the induction of plant hormonal
+
+protective responses in their plant hosts. For example, foliar Epichloë
+
+and ROS signalling pathways (Hassing et al., 2019; Wawra et al.,
+
+endophytes induced plant salicylic acid and jasmonic acid signalling
+
+2016). In addition, they increased the antioxidant levels in plants that
+
+pathways that were correlated with enhanced resistance of host
+
+reduced the oxidative damage caused by ROS bursts in stress
+
+plants to Blumeria graminis and Curvularia lunata phytopathogens
+
+(Kou et al., 2021; Shi et al., 2020). The fungal root endophyte
+
+Thermomyces lanuginosus was reported to improve the heat stress
+
+tolerance of Cucumis sativus plants by affecting photosynthetic
+
+situations (Hamilton et al., 2012). Beneficial microbes also confer to
+their hosts effective stress‐protective mechanisms (Figure 2). Both
+microbial counter‐defences to plant stress responses and microbial‐
+derived stress‐protective mechanisms might contribute to maintain
+
+parameters, water use efficiency and inducing antioxidant activities
+
+the mutualisms. Further research manipulating beneficial microbes
+
+(Ali et al., 2018). In addition to the direct transport of water from soil,
+
+under drought situations, arbuscular mycorrhizal fungi increased the
+
+will be essential to determine the contribution of the distinct
+microbial‐derived mechanisms of mutualism protection in stress
+
+expression of plant (and fungal) genes encoding for aquaporins in
+
+situations. For example, mutant Epichloë endophytes with disrupted
+
+roots of S. lycopersicum plants. The enhanced expression of aquaporin
+genes improved the hydraulic conductivity and cytoplasm‐to‐
+
+alkaloid production would increase the relative importance of the
+microbial mechanisms of counter‐defences over the stress‐protective
+
+cytoplasm water flow in symbiotic plants (Chitarra et al., 2016;
+
+ones in relation to the mutualism maintenance (e.g., Miller et al.,
+
+Quiroga et al., 2019). Furthermore, mycorrhizal fungi can stimulate a
+‘prime state’ of plant responses to stresses (Pozo et al., 2015). In this
+
+2022). Furthermore, considering that plant responses to stresses
+
+depend on the complexity of the environment (Song et al., 2022;
+
+state, plant responses are faster, stronger and/or more sustained
+upon the stress (Martinez‐Medina et al., 2016). For example, a
+priming of jasmonic acid‐related responses induced by the mycorrhi-
+
+Suzuki et al., 2014), it would be valuable in further investigations to
+
+determine whether the microbial mechanisms of stress protection
+
+can still maintain the mutualisms in contrasting stress scenarios (e.g.,
+
+zal fungus Funneliformis mosseae increased the level of resistance of
+
+S. lycopersicum plants against Helicoverpa arimigera caterpillars (Song
+et al., 2013). Similarly, the mycorrhizal‐based primed accumulation of
+
+chronic vs. sporadic, severe vs. mild). Our work contributes to
+understand how environmental stresses affect plant−microbe inter-
+
+actions and highlights why beneficial microbes still deliver benefits to
+
+antiherbivore compounds in the same plant species increased the
+
+plants under stressful environments.
+
+resistance of plants against Spodoptera frugiperda caterpillars (Rivero
+
+et al., 2021). Under salinity stress, S. lycopersicum plants showed a
+primed accumulation of salt‐protective compounds including plant
+
+ACKNOWL EDGEM ENTS
+We thank Qianhe Liu, Zac Beechey‐Gradwell, three anonymous
+
+catechins and B6 vitamers in presence of mycorrhizal fungi (Rivero
+
+reviewers and the journal editor for critical revision of the
+
+et al., 2018).
+
+5 | C ONC LUS I ON AN D F UT UR E
+PERSPEC TIVES
+
+In the present review, several experimental results showing that
+environmental stresses compromised plant−microbe interactions
+
+were highlighted. It was proposed that this environmental interfer-
+ence of plant−microbe interactions is explained by the stress‐
+
+mediated induction of salicylic acid,
+
+jasmonic acid, ethylene, ROS
+
+and other signalling pathways (Figure 1). These plant signalling
+
+pathways
+
+are
+
+recognized
+
+to
+
+regulate
+
+beneficial microbes
+
+(e.g., Kloppholz et al., 2011; Plett et al., 2014; Wawra et al., 2016).
+
+The direct effects of stresses on microbes may also explain the
+environmental interference of plant−microbe associations (Figure 2).
+
+Further experiments manipulating plant stress responses will be
+critical for determining the relative importance of direct and plant‐
+mediated effects of stressors in compromising plant−microbe
+
+manuscript. D. A. B. acknowledges the research support provided
+
+by the Endeavour Fund from the New Zealand Ministry of
+
+Business, Innovation and Employment (MBIE), contract number
+
+LVLX1702. R. B. acknowledges the research support provided by
+the project PRIMA–OPTIMUS PRIME (Italian MUR DD 16302/
+2021). S. P. obtained financial support by grant PID2020‐
+119441RB‐I00 funded by MCIN/AEI/10.13039/501100011033
+and, as appropriate, by ‘ERDF A way of making Europe’, by the
+‘European Union’ or by the ‘European Union NextGenerationEU/
+PRTR’. P. E. G. research activities are supported by the Agencia
+Nacional de Investigaciones Argentina (ANPCyT) PICT‐2018‐
+
+01593 and the Fondo Nacional de Desarrollo Científico y
+Tecnológico (FONDECYT‐2021‐1210908). Open access publish-
+the Wiley ‐
+
+ing facilitated by AgResearch Ltd, as part of
+
+AgResearch Ltd agreement via the Council of Australian Univer-
+
+sity Librarians.
+
+CONFLIC T OF INTEREST
+
+The authors declare no conflict of interest.
+
+ENVIRONMENTAL INTERFERENCE OF PLANT SYMBIOSES
+
+|
+
+3395
+
+D A TA A V A I L A B I L I T Y S T A T E M E N T
+
+Data sharing is not applicable to this article as no new data were
+
+created or analysed in this study.
+
+ORCID
+
+Daniel A. Bastías
+
+http://orcid.org/0000-0002-0522-5538
+
+Raffaella Balestrini
+
+https://orcid.org/0000-0001-7958-7681
+
+Stephan Pollmann
+
+http://orcid.org/0000-0002-5111-4425
+
+Pedro E. Gundel
+
+http://orcid.org/0000-0003-3246-0282
+
+REFERENCES
+Ali, A.H., Abdelrahman, M., Radwan, U., El‐Zayat, S. & El‐Sayed, M.A.
+(2018) Effect of Thermomyces fungal endophyte isolated from
+extreme hot desert‐adapted plant on heat stress tolerance of
+cucumber. Applied Soil Ecology, 124, 155–162.
+
+Augé, R.M.
+
+(2001) Water relations, drought and vesicular‐arbuscular
+
+mycorrhizal symbiosis. Mycorrhiza, 11, 3–42.
+
+Babikova, Z., Gilbert, L., Randall, K.C., Bruce, T.J.A., Pickett, J.A. & Johnson, D.
+(2014) Increasing phosphorus supply is not the mechanism by which
+arbuscular mycorrhiza increase attractiveness of bean (Vicia faba) to
+aphids. Journal of Experimental Botany, 65, 5231–5241.
+
+Balestrini, R., Chitarra, W., Antoniou, C., Ruocco, M. & Fotopoulos, V.
+(2018) Improvement of plant performance under water deficit with
+the employment of biological and chemical priming agents. The
+Journal of Agricultural Science, 156, 680–688.
+
+Balestrini, R., Rosso, L.C., Veronico, P., Melillo, M.T., De Luca, F., Fanelli, E.
+(2019) Transcriptomic responses to water deficit and
+in
+
+et al.
+nematode infection in mycorrhizal
+Microbiology, 10, 1807.
+
+tomato roots. Frontiers
+
+Ballaré, C.L. (2014) Light regulation of plant defense. Annual Review of
+
+Plant Biology, 65, 335–363.
+
+Barrera, A., Hereme, R., Ruiz‐Lara, S., Larrondo, L.F., Gundel, P.E.,
+Pollmann, S. et al. (2020) Fungal endophytes enhance the photo-
+protective mechanisms and photochemical efficiency in the Ant-
+arctic Colobanthus quitensis (Kunth) Bartl. exposed to UV‐B radiation.
+Frontiers in Ecology and Evolution, 8, 122.
+
+Bastías, D.A., Applegate, E.R., Johnson, L.J. & Card, S.D. (2022) Factors
+controlling the effects of mutualistic bacteria on plants associated
+with fungi. Ecology Letters, 25, 1879–1888.
+
+Bastías, D.A., Gianoli, E. & Gundel, P.E. (2021) Fungal endophytes can
+eliminate the plant growth–defence trade‐off. New Phytologist, 230,
+2105–2113.
+
+Bastias, D.A., Martínez‐Ghersa, M.A., Ballaré, C.L. & Gundel, P.E. (2017)
+Epichloë fungal endophytes and plant defenses: not just alkaloids.
+Trends in Plant Science, 22, 939–948.
+
+Bastías, D.A., Martínez‐Ghersa, M.A., Newman,
+
+J.A., Card, S.D.,
+Mace, W.J. & Gundel, P.E. (2018a) The plant hormone salicylic acid
+interacts with the mechanism of anti‐herbivory conferred by fungal
+endophytes in grasses. Plant, Cell & Environment, 41, 395–405.
+
+Bastías, D.A., Martínez‐Ghersa, M.A., Newman,
+
+J.A., Card, S.D.,
+Mace, W.J. & Gundel, P.E. (2018b) Jasmonic acid regulation of the
+anti‐herbivory mechanism conferred by fungal endophytes in
+grasses. Journal of Ecology, 106, 2365–2379.
+
+Bennett, A.E. & Groten, K.
+
+(2022) The costs and benefits of
+plant–arbuscular mycorrhizal fungal interactions. Annual Review of
+Plant Biology, 73, 649–672.
+
+Bernacki, M.J., Rusaczonek, A., Czarnocka, W. & Karpiński, S.
+
+Salicylic acid accumulation controlled by LSD1 is essential
+triggering cell death in response to abiotic stress. Cells, 10, 962.
+Branco, S., Schauster, A., Liao, H.‐L. & Ruytinx, J. (2022) Mechanisms of
+stress tolerance and their effects on the ecology and evolution of
+mycorrhizal fungi. New Phytologist, 235, 2158–2175.
+
+(2021)
+in
+
+Breuillin, F., Schramm, J., Hajirezaei, M., Ahkami, A., Favre, P., Druege, U.
+et al.
+(2010) Phosphate systemically inhibits development of
+arbuscular mycorrhiza in Petunia hybrida and represses genes involved
+in mycorrhizal functioning. The Plant Journal, 64, 1002–1017.
+Brodersen, P., Malinovsky, F.G., Hématy, K., Newman, M.‐A. & Mundy, J.
+(2005) The role of salicylic acid in the induction of cell death in
+Arabidopsis acd11. Plant Physiology, 138, 1037–1045.
+
+Broekaert, W.F., Delauré, S.L., De Bolle, M.F.C. & Cammue, B.P.A. (2006)
+The role of ethylene in host‐pathogen interactions. Annual Review of
+Phytopathology, 44, 393–416.
+
+Brosi, G.B., McCulley, R.L., Bush, L.P., Nelson, J.A., Classen, A.T. &
+Norby, R.J. (2011) Effects of multiple climate change factors on the
+tall fescue–fungal endophyte symbiosis:
+infection frequency and
+tissue chemistry. New Phytologist, 189, 797–805.
+
+Bubica Bustos, L.M., Ueno, A.C., Di Leo, T.D., Crocco, C.D., Martínez‐
+Ghersa, M.A., Molina‐Montenegro, M.A. et al.
+(2020) Maternal
+exposure to ozone modulates the endophyte‐conferred resistance
+to aphids in Lolium multiflorum plants. Insects, 11, 548.
+
+Bultman, T.L. & Bell, G.D. (2003) Interaction between fungal endophytes
+and environmental stressors influences plant resistance to insects.
+Oikos, 103, 182–190.
+
+Calcagno, C., Novero, M., Genre, A., Bonfante, P. & Lanfranco, L. (2012)
+The exudate from an arbuscular mycorrhizal fungus induces nitric
+oxide accumulation in Medicago truncatula roots. Mycorrhiza, 22,
+259–269.
+
+Camehl, I., Sherameti, I., Venus, Y., Bethke, G., Varma, A., Lee, J. et al.
+(2010) Ethylene signalling and ethylene‐targeted transcription
+factors are required to balance beneficial and nonbeneficial
+traits in the symbiosis between the endophytic fungus Pirifor-
+mospora indica and Arabidopsis thaliana. New Phytologist, 185,
+1062–1073.
+
+Card, S.D., Bastías, D.A. & Caradus, J.R.
+
+Cheng, C., Li, D., Wang, B., Liao, B., Qu, P., Liu, W. et al.
+
+(2021) Antagonism to plant
+pathogens by Epichloë fungal endophytes—a review. Plants, 10, 1997.
+(2022)
+Piriformospora indica colonization promotes the root growth
+of Dimocarpus longan seedlings. Scientia Horticulturae, 301,
+111137.
+
+Cheplick, G.P.
+
+(1998) Genotypic variation in the regrowth of Lolium
+perenne following clipping: effects of nutrients and endophytic fungi.
+Functional Ecology, 12, 176–184.
+
+Cheplick, G.P. (2004) Recovery from drought stress in Lolium perenne
+(Poaceae): are fungal endophytes detrimental. American Journal of
+Botany, 91, 1960–1968.
+
+Cheplick, G.P., Perera, A. & Koulouris, K. (2000) Effect of drought on the
+growth of Lolium perenne genotypes with and without fungal
+endophytes. Functional Ecology, 14, 657–667.
+
+Chitarra, W., Pagliarani, C., Maserti, B., Lumini, E., Siciliano, I., Cascone, P.
+et al.
+Insights on the impact of arbuscular mycorrhizal
+symbiosis on tomato tolerance to water stress. Plant Physiology, 171,
+1009–1023.
+
+(2016)
+
+Christensen, M.J., Bennett, R.J., Ansari, H.A., Koga, H., Johnson, R.D.,
+Bryan, G.T. et al. (2008) Epichloë endophytes grow by intercalary
+hyphal extension in elongating grass leaves. Fungal Genetics and
+Biology, 45, 84–93.
+
+Christensen, M.J. & Voisey, C.R. (2007) The biology of the endophyte/
+grass partnership. 6th International Symposium on Fungal Endophytes
+of Grasses Grasslands and Practice Series, 13, 123–133.
+
+Decunta, F.A., Pérez, L.I., Malinowski, D.P., Molina‐Montenegro, M.A. &
+Gundel, P.E. (2021) A systematic review on the effects of Epichloë
+fungal endophytes on drought tolerance in cool‐season grasses.
+Frontiers in Plant Science, 12, 644731.
+Delaye, L., García‐Guzmán, G. & Heil, M.
+
+(2013) Endophytes versus
+biotrophic and necrotrophic pathogens—are fungal lifestyles evolu-
+tionarily stable traits. Fungal Diversity, 60, 125–135.
+
+3396
+
+|
+
+BASTÍAS ET AL.
+
+Devireddy, A.R., Zandalinas, S.I., Fichman, Y. & Mittler, R.
+
+(2021)
+Integration of reactive oxygen species and hormone signaling during
+abiotic stress. The Plant Journal, 105, 459–476.
+
+Duc, N.H., Csintalan, Z. & Posta, K. (2018) Arbuscular mycorrhizal fungi
+mitigate negative effects of combined drought and heat stress on
+tomato plants. Plant Physiology and Biochemistry, 132, 297–307.
+Dupont, P.Y., Eaton, C.J., Wargent, J.J., Fechtner, S., Solomon, P.,
+Schmid, J. et al.
+(2015) Fungal endophyte infection of ryegrass
+reprograms host metabolism and alters development. New
+Phytologist, 208, 1227–1240.
+Feng, Z., Liu, X., Zhu, H. & Yao, Q.
+
+(2020) Responses of arbuscular
+mycorrhizal symbiosis to abiotic stress: a lipid‐centric perspective.
+Frontiers in Plant Science, 11, 578919.
+
+Fester, T. & Hause, G. (2005) Accumulation of reactive oxygen species in
+
+arbuscular mycorrhizal roots. Mycorrhiza, 15, 373–379.
+
+Fonseca de Lima, C.F., Kleine‐Vehn, J., De Smet, I. & Feraru, E. (2021)
+Getting to the root of belowground high temperature responses in
+plants. Journal of Experimental Botany, 72, 7404–7413.
+
+Foo, E., Ross, J.J., Jones, W.T. & Reid, J.B. (2013) Plant hormones in
+arbuscular mycorrhizal symbioses: an emerging role for gibberellins.
+Annals of Botany, 111, 769–779.
+
+Frew, A.
+
+(2022) Root herbivory reduces species richness and alters
+community structure of root‐colonising arbuscular mycorrhizal fungi.
+Soil Biology and Biochemistry, 171, 108723.
+
+Huang, H., Ullah, F., Zhou, D.‐X., Yi, M. & Zhao, Y. (2019) Mechanisms of
+ROS regulation of plant development and stress responses. Frontiers
+in Plant Science, 10, 800.
+
+Jayakannan, M., Bose, J., Babourina, O., Shabala, S., Massart, A.,
+Poschenrieder, C. et al. (2015) The NPR1‐dependent salicylic acid
+signalling pathway is pivotal for enhanced salt and oxidative stress
+Journal of Experimental Botany, 66,
+tolerance in Arabidopsis.
+1865–1875.
+
+Jogawat, A., Vadassery, J., Verma, N., Oelmüller, R., Dua, M., Nevo, E. et al.
+(2016) PiHOG1, a stress regulator MAP kinase from the root
+endophyte fungus Piriformospora indica, confers salinity stress
+tolerance in rice plants. Scientific Reports, 6, 36765.
+
+Kadota, Y., Shirasu, K. & Zipfel, C. (2015) Regulation of the NADPH
+oxidase RBOHD during plant immunity. Plant and Cell Physiology, 56,
+1472–1480.
+
+Kakouridis, A., Hagen, J.A., Kan, M.P., Mambelli, S., Feldman, L.J.,
+Herman, D.J. et al. (2022) Routes to roots: direct evidence of water
+transport by arbuscular mycorrhizal fungi to host plants. New
+Phytologist, 236, 210–221.
+
+Kayano, Y., Tanaka, A. & Takemoto, D. (2018) Two closely related Rho
+GTPases, Cdc42 and RacA, of the en‐dophytic fungus Epichloë
+festucae have contrasting roles for ROS production and symbiotic
+infection synchronized with the host plant. PLoS Pathogens, 14,
+e1006840.
+
+Geil, R.D., Peterson, L.R. & Guinel, F.C. (2001) Morphological alterations
+of pea (Pisum sativum cv. sparkle) arbuscular mycorrhizas as a result
+of exogenous ethylene treatment. Mycorrhiza, 11, 137–143.
+
+Khan, M.I.R., Fatma, M., Per, T.S., Anjum, N.A. & Khan, N.A.
+
+(2015)
+Salicylic acid‐induced abiotic stress tolerance and underlying
+mechanisms in plants. Frontiers in Plant Science, 6, 462.
+
+Giauque, H., Connor, E.W. & Hawkes, C.V.
+
+(2019) Endophyte traits
+relevant to stress tolerance, resource use and habitat of origin
+predict effects on host plants. New Phytologist, 221, 2239–2249.
+
+González‐Teuber, M., Contreras, R.A., Zúñiga, G.E., Barrera, D. &
+Bascuñán‐Godoy, L.
+(2022) Synergistic association with root
+improves morpho‐physiological and biochemical
+endophytic fungi
+responses of Chenopodium quinoa to salt stress. Frontiers in Ecology
+and Evolution, 9, 787318.
+
+Gundel, P.E., Rudgers, J.A. & Ghersa, C.M. (2011) Incorporating the process
+transmission into understanding of host–symbiont
+
+of vertical
+dynamics. Oikos, 120, 1121–1128.
+
+Hamilton, C.E., Gundel, P.E., Helander, M. & Saikkonen, K.
+
+(2012)
+Endophytic mediation of reactive oxygen species and antioxidant
+activity in plants: a review. Fungal Diversity, 54, 1–10.
+
+Hassing, B., Winter, D., Becker, Y., Mesarich, C.H., Eaton, C.J. & Scott, B.
+(2019) Analysis of Epichloë festucae small secreted proteins in the
+interaction with Lolium perenne. PLoS One, 14, e0209463.
+
+Hennessy, L.M., Popay, A.J., Finch, S.C., Clearwater, M.J. & Cave, V.M.
+(2016) Temperature and plant genotype alter alkaloid concentra-
+tions in ryegrass infected with an Epichloë endophyte and this
+affects an insect herbivore. Frontiers in Plant Science, 7, 1097.
+Hereme, R., Morales‐Navarro, S., Ballesteros, G., Barrera, A., Ramos, P.,
+Gundel, P.E. et al. (2020) Fungal endophytes exert positive effects
+on Colobanthus quitensis under water stress but neutral under a
+projected climate change scenario in Antarctic. Frontiers
+in
+Microbiology, 11, 264.
+
+Herrera Medina, M.J., Gagnon, H., Piché, Y., Ocampo,
+
+J.A.,
+Garcı́a Garrido, J.M. & Vierheilig, H. (2003) Root colonization by
+arbuscular mycorrhizal fungi is affected by the salicylic acid content
+of the plant. Plant Science, 164, 993–998.
+
+Hesse, U., Schöberlein, W., Wittenmayer, L., Förster, K., Warnstorff, K.,
+Diepenbrock, W. et al. (2003) Effects of Neotyphodium endophytes
+on growth, reproduction and drought‐stress tolerance of three
+Lolium perenne L. genotypes. Grass and Forage Science, 58, 407–415.
+Hosseini, F., Mosaddeghi, M.R., Dexter, A.R. & Sepehri, M. (2018) Maize
+water status and physiological traits as affected by root endophytic
+fungus Piriformospora indica under combined drought and mechani-
+cal stresses. Planta, 247, 1229–1245.
+
+Khatabi, B., Molitor, A., Lindermayr, C., Pfiffi, S., Durner,
+
+J.,
+von Wettstein, D. et al. (2012) Ethylene supports colonization of
+plant roots by the mutualistic fungus Piriformospora indica. PLoS One,
+7, e35502.
+
+Kiers, E.T., Palmer, T.M., Ives, A.R., Bruno, J.F. & Bronstein, J.L. (2010)
+Mutualisms in a changing world: an evolutionary perspective.
+Ecology Letters, 13, 1459–1474.
+
+Kloppholz, S., Kuhn, H. & Requena, N. (2011) A secreted fungal effector of
+Glomus intraradices promotes symbiotic biotrophy. Current Biology,
+21, 1204–1209.
+
+Kou, M.‐Z., Bastías, D.A., Christensen, M.J., Zhong, R., Nan, Z.‐B. &
+Zhang, X.‐X.
+(2021) The plant salicylic acid signalling pathway
+regulates the infection of a biotrophic pathogen in grasses
+associated with an Epichloë endophyte. Journal of Fungi, 7, 633.
+Kranner, I., Minibayeva, F.V., Beckett, R.P. & Seal, C.E. (2010) What is
+stress? Concepts, definitions and applications in seed science. New
+Phytologist, 188, 655–673.
+
+Lata, R., Chowdhury, S., Gond, S.K. & White, Jr., J.F. (2018) Induction of
+abiotic stress tolerance in plants by endophytic microbes. Letters in
+Applied Microbiology, 66, 268–276.
+
+Lenoir, I., Fontaine, J. & Lounès‐Hadj Sahraoui, A.
+
+(2016) Arbuscular
+to abiotic stresses: a review.
+
+mycorrhizal
+Phytochemistry, 123, 4–15.
+
+fungal
+
+responses
+
+Li, D., Bodjrenou, D.M., Zhang, S., Wang, B., Pan, H., Yeh, K.‐W. et al.
+(2021) The endophytic fungus Piriformospora indica reprograms
+banana to cold resistance. International Journal of Molecular Sciences,
+22, 4973.
+
+Li, F., Duan, T. & Li, Y. (2020) Effects of the fungal endophyte Epichloë
+festucae var. lolii on growth and physiological responses of perennial
+ryegrass cv. Fairway to combined drought and pathogen stresses.
+Microorganisms, 8, 1917.
+
+Li, N., Han, X., Feng, D., Yuan, D. & Huang, L.‐J. (2019) Signaling crosstalk
+between salicylic acid and ethylene/jasmonate in plant defense: do
+we understand what they are whispering. International Journal of
+Molecular Sciences, 20, 671.
+
+Liu, Q., Parsons, A.J., Xue, H., Fraser, K., Ryan, G.D., Newman, J.A. et al.
+(2011) Competition between foliar Neotyphodium lolii endophytes
+and mycorrhizal Glomus spp. fungi
+in Lolium perenne depends on
+
+ENVIRONMENTAL INTERFERENCE OF PLANT SYMBIOSES
+
+|
+
+3397
+
+resource supply and host carbohydrate content. Functional Ecology,
+25, 910–920.
+
+plant–fungus interactions to unleash hidden forces from extreme
+plant ecosystems. Journal of Experimental Botany, 71, 3865–3877.
+
+Liu, X., Feng, Z., Zhao, Z., Zhu, H. & Yao, Q. (2020) Acidic soil inhibits the
+functionality of arbuscular mycorrhizal fungi by reducing arbuscule
+formation in tomato roots. Soil Science and Plant Nutrition, 66,
+275–284.
+
+López‐Ráez, J.A.
+
+(2016) How drought and salinity affect arbuscular
+mycorrhizal symbiosis and strigolactone biosynthesis. Planta, 243,
+1375–1385.
+
+Lorenzo, O., Piqueras, R., Sánchez‐Serrano, J.J. & Solano, R.
+
+(2003)
+Ethylene response factor1 integrates signals from ethylene and
+jasmonate pathways in plant defense. The Plant Cell, 15, 165–178.
+Ma, M., Christensen, M.J. & Nan, Z. (2015) Effects of the endophyte
+Epichloë festucae var. lolii of perennial ryegrass (Lolium perenne) on
+indicators of oxidative stress from pathogenic fungi during seed
+germination and seedling growth. European Journal of Plant
+Pathology, 141, 571–583.
+
+Ma, X., Geng, Q., Zhang, H., Bian, C., Chen, H.Y.H., Jiang, D. et al. (2021)
+Global negative effects of nutrient enrichment on arbuscular
+mycorrhizal fungi, plant diversity and ecosystem multifunctionality.
+New Phytologist, 229, 2957–2969.
+
+Marks, S. & Clay, K. (2007) Low resource availability differentially affects
+the growth of host grasses infected by fungal endophytes.
+International Journal of Plant Sciences, 168, 1269–1277.
+
+Martinez‐Medina, A., Flors, V., Heil, M., Mauch‐Mani, B., Pieterse, C.M.J.,
+Pozo, M.J. et al. (2016) Recognizing plant defense priming. Trends in
+Plant Science, 21, 818–822.
+
+McLeod, A.R., Rey, A., Newsham, K.K., Lewis, G.C. & Wolferstan, P. (2001)
+Effects of elevated ultraviolet radiation and endophytic fungi on
+plant growth and insect feeding in Lolium perenne, Festuca rubra, F.
+Journal of Photochemistry and
+arundinacea and F. pratensis.
+Photobiology, 62, 97–107.
+
+Millar, N.S. & Bennett, A.E. (2016) Stressed out symbiotes: hypotheses for
+the influence of abiotic stress on arbuscular mycorrhizal fungi.
+Oecologia, 182, 625–641.
+
+Miller, G., Suzuki, N., Ciftci‐Yilmaz, S. & Mittler, R. (2010) Reactive oxygen
+species homeostasis and signalling during drought and salinity
+stresses. Plant, Cell & Environment, 33, 453–467.
+
+Miller, T.A., Hudson, D.A., Johnson, R.D., Singh, J.S., Mace, W.J.,
+Forester, N.T. et al.
+(2022) Dissection of the epoxyjanthitrem
+pathway in Epichloë sp. LpTG‐3 strain AR37 by CRISPR gene editing.
+Frontiers in Fungal Biology, 3, 944234.
+
+Nadarajah, K.K. (2020) ROS homeostasis in abiotic stress tolerance in
+
+plants. International Journal of Molecular Sciences, 21, 5208.
+
+Nagabhyru, P., Dinkins, R.D., Wood, C.L., Bacon, C.W. & Schardl, C.L.
+(2013) Tall fescue endophyte effects on tolerance to water‐deficit
+stress. BMC Plant Biology, 13, 127.
+
+Nivedita, R.A., Ramchiary, N. & Abdin, M.Z. (2021) A high‐throughput
+RNA‐Seq approach to elucidate the transcriptional response of
+Piriformospora indica to high salt stress. Scientific Reports, 11, 4129.
+Noctor, G. & Foyer, C.H. (1998) Ascorbate and glutathione: keeping active
+oxygen under control. Annual Review of Plant Physiology and Plant
+Molecular Biology, 49, 249–279.
+Noctor, G., Reichheld, J.‐P. & Foyer, C.H.
+
+(2018) ROS‐related redox
+regulation and signaling in plants. Seminars in Cell & Developmental
+Biology, 80, 3–12.
+
+Osakabe, Y., Yamaguchi‐Shinozaki, K., Shinozaki, K. & Tran, L.‐S.P. (2013)
+Sensing the environment: key roles of membrane‐localized kinases
+in plant perception and response to abiotic stress. Journal of
+Experimental Botany, 64, 445–458.
+
+Pandey, B.K., Huang, G., Bhosale, R., Hartman, S., Sturrock, C.J., Jose, L.
+et al. (2021) Plant roots sense soil compaction through restricted
+ethylene diffusion. Science, 371, 276–280.
+
+Pérez‐Alonso, M.‐M., Guerrero‐Galán, C., Scholz, S.S., Kiba, T.,
+Sakakibara, H., Ludwig‐Müller, J. et al. (2020) Harnessing symbiotic
+
+Per, T.S., Khan, M.I.R., Anjum, N.A., Masood, A., Hussain, S.J. & Khan, N.A.
+(2018) Jasmonates in plants under abiotic stresses: crosstalk with
+other phytohormones matters. Environmental and Experimental
+Botany, 145, 104–120.
+
+Pieterse, C.M.J., Zamioudis, C., Berendsen, R.L., Weller, D.M.,
+Van Wees, S.C.M. & Bakker, P.A.H.M.
+Induced systemic
+resistance by beneficial microbes. Annual Review of Phytopathology,
+52, 347–375.
+
+(2014)
+
+Plett, J.M., Daguerre, Y., Wittulsky, S., Vayssières, A., Deveau, A.,
+Melton, S.J. et al. (2014) Effector MiSSP7 of the mutualistic fungus
+Laccaria bicolor stabilizes the Populus JAZ6 protein and represses
+jasmonic acid (JA) responsive genes. Proceedings of the National
+Academy of Sciences, 111, 8299–8304.
+
+Porcel, R., Aroca, R. & Ruiz‐Lozano, J.M. (2012) Salinity stress alleviation
+fungi. A review. Agronomy for
+
+using arbuscular mycorrhizal
+Sustainable Development, 32, 181–200.
+
+Pozo, M.J., López‐Ráez, J.A., Azcón‐Aguilar, C. & García‐Garrido, J.M.
+(2015) Phytohormones as integrators of environmental signals in
+the regulation of mycorrhizal symbioses. New Phytologist, 205,
+1431–1436.
+
+Qin, J., Wu, M., Liu, H., Gao, Y. & Ren, A. (2019) Endophyte infection and
+methyl jasmonate treatment increased the resistance of Achnather-
+um sibiricum to insect herbivores independently. Toxins, 11, 7.
+Quiroga, G., Erice, G., Ding, L., Chaumont, F., Aroca, R. & Ruiz‐Lozano, J.M.
+(2019) The arbuscular mycorrhizal symbiosis regulates aquaporins
+activity and improves root cell water permeability in maize plants
+subjected to water stress. Plant, Cell & Environment, 42, 2274–2290.
+Raja, V., Majeed, U., Kang, H., Andrabi, K.I. & John, R. (2017) Abiotic
+stress: interplay between ROS, hormones and MAPKs. Environmental
+and Experimental Botany, 137, 142–157.
+
+Rasmussen, S., Parsons, A.J., Fraser, K., Xue, H. & Newman, J.A. (2008)
+Metabolic profiles of Lolium perenne are differentially affected by
+nitrogen supply, carbohydrate content, and fungal endophyte
+infection. Plant Physiology, 146, 1440–1453.
+
+Ratajczak, K., Sulewska, H., Błaszczyk, L., Basińska‐Barczak, A.,
+Mikołajczak, K., Salamon, S. et al. (2020) Growth and photosynthetic
+activity of selected spelt varieties (Triticum aestivum ssp. spelta L.)
+cultivated under drought conditions with different endophytic core
+microbiomes. International Journal of Molecular Sciences, 21, 7987.
+
+Redkar, A., Sabale, M., Zuccaro, A. & Di Pietro, A. (2022) Determinants of
+endophytic and pathogenic lifestyle in root colonizing fungi. Current
+Opinion in Plant Biology, 67, 102226.
+
+Rivero, J., Álvarez, D., Flors, V., Azcón‐Aguilar, C. & Pozo, M.J. (2018) Root
+metabolic plasticity underlies functional diversity in mycorrhiza‐
+tolerance in tomato. New Phytologist, 220,
+enhanced stress
+1322–1336.
+
+Rivero, J., Lidoy, J., Llopis‐Giménez, Á., Herrero, S., Flors, V. & Pozo, M.J.
+(2021) Mycorrhizal symbiosis primes the accumulation of antiherbi-
+vore compounds and enhances herbivore mortality in tomato.
+Journal of Experimental Botany, 72, 5038–5050.
+
+Rodriguez, R.J., Henson, J., Van Volkenburgh, E., Hoy, M., Wright, L.,
+Beckwith, F. et al. (2008) Stress tolerance in plants via habitat‐
+adapted symbiosis. The ISME journal, 2, 404–416.
+
+Rodriguez, R.J., White, J.F., Arnold, A.E. & Redman, R.S. (2009) Fungal
+endophytes: diversity and functional roles. New Phytologist, 182,
+314–330.
+
+Rudgers,
+
+J.A., Afkhami, M.E., Bell‐Dereske,
+
+L., Chung, Y.A.,
+(2020) Climate disruption of
+Crawford, K.M., Kivlin, S.N. et al.
+plant‐microbe interactions. Annual Review of Ecology, Evolution, and
+Systematics, 51, 561–586.
+
+Ryan, G.D., Rasmussen, S., Xue, H., Parsons, A.J. & Newman, J.A. (2014)
+Metabolite analysis of the effects of elevated CO2 and nitrogen
+fertilization on the association between tall fescue (Schedonorus
+
+3398
+
+|
+
+BASTÍAS ET AL.
+
+arundinaceus) and its fungal symbiont Neotyphodium coenophialum.
+Plant, Cell & Environment, 37, 204–212.
+
+Ryan, G.D., Shukla, K., Rasmussen, S., Shelp, B.J. & Newman, J.A. (2014)
+Phloem phytochemistry and aphid responses to elevated CO2,
+nitrogen fertilization and endophyte infection. Agricultural and Forest
+Entomology, 16, 273–283.
+
+Vadassery, J. & Oelmüller, R. (2009) Calcium signaling in pathogenic and
+beneficial plant microbe interactions. Plant Signaling & Behavior, 4,
+1024–1027.
+
+Vicari, M., Hatcher, P.E. & Ayres, P.G. (2002) Combined effect of foliar and
+mycorrhizal endophytes on an insect herbivore. Ecology, 83,
+2452–2464.
+
+Sabra, M., Aboulnasr, A., Franken, P., Perreca, E., Wright, L.P. & Camehl, I.
+(2018) Beneficial root endophytic fungi increase growth and quality
+parameters of sweet basil in heavy metal contaminated soil. Frontiers
+in Plant Science, 9, 1726.
+
+Voß, S., Betz, R., Heidt, S., Corradi, N. & Requena, N. (2018) RiCRN1, a
+crinkler effector from the arbuscular mycorrhizal fungus Rhizophagus
+irregularis,
+in
+functions
+Microbiology, 9, 2068.
+
+in arbuscule development. Frontiers
+
+Saijo, Y., Loo, E.P. & Yasuda, S. (2018) Pattern recognition receptors and
+signaling in plant–microbe interactions. The Plant Journal, 93,
+592–613.
+
+Salamon, S., Mikołajczak, K., Błaszczyk, L., Ratajczak, K. & Sulewska, H.
+(2020) Changes in root‐associated fungal communities in Triticum
+aestivum ssp. spelta L. and Triticum aestivum ssp. vulgare L. under
+drought stress and in various soil processing. PLoS One, 15,
+e0240037.
+
+Saravesi, K., Ruotsalainen, A.L. & Cahill, J.F. (2014) Contrasting impacts of
+defoliation on root colonization by arbuscular mycorrhizal and dark
+septate endophytic fungi of Medicago sativa. Mycorrhiza, 24,
+239–245.
+
+Schardl, C.L., Leuchtmann, A. & Spiering, M.J. (2004) Symbioses of grasses
+with seedborne fungal endophytes. Annual review of plant biology,
+55, 315–340.
+
+Shi, X., Qin, T., Liu, H., Wu, M., Li, J., Shi, Y. et al. (2020) Endophytic fungi
+activated similar defense strategies of Achnatherum sibiricum host to
+different trophic types of pathogens. Frontiers in Microbiology, 11,
+1607.
+
+Shi, Y., Zhang, K., Ma, T., Zhang, Z., Li, P., Xing, Z. et al. (2022) Foliar
+herbivory reduces rhizosphere fungal diversity and destabilizes the
+co‐occurrence network. Frontiers in Microbiology, 13, 846332.
+
+Simons, L., Bultman, T.L. & Sullivan, T.J.
+
+(2008) Effects of methyl
+jasmonate and an endophytic fungus on plant resistance to insect
+herbivores. Journal of Chemical Ecology, 34, 1511–1517.
+
+Song, Y., Sterck, F., Sass‐Klaassen, U., Li, C. & Poorter, L. (2022) Growth
+resilience of conifer species decreases with early, long‐lasting and
+intense droughts but cannot be explained by hydraulic traits. Journal
+of Ecology, 110, 2088–2104.
+
+Song, Y.Y., Ye, M., Li, C.Y., Wang, R.L., Wei, X.C., Luo, S.M. et al. (2013)
+Priming of anti‐herbivore defense in tomato by arbuscular mycor-
+rhizal fungus and involvement of the jasmonate pathway. Journal of
+Chemical Ecology, 39, 1036–1044.
+
+Sukuzi, N., Koussevitzky, S., Mittler, R. & Miller, G. (2012) ROS and redox
+signalling in the response of plants to abiotic stress. Plant, Cell &
+Environment, 35, 259–270.
+
+Suzuki, N., Rivero, R.M., Shulaev, V., Blumwald, E. & Mittler, R. (2014)
+Abiotic and biotic stress combinations. New Phytologist, 203, 32–43.
+Tanaka, A., Christensen, M.J., Takemoto, D., Park, P. & Scott, B. (2006)
+Reactive oxygen species play a role in regulating a fungus–perennial
+ryegrass mutualistic interaction. The Plant Cell Online, 18, 1052–1066.
+J.A. &
+García Garrido, J.M. (2011) Altered pattern of arbuscular mycorrhizal
+formation in tomato ethylene mutants. Plant Signaling & Behavior, 6,
+755–758.
+
+Santos, R., Vierheilig, H., Ocampo,
+
+Torres
+
+Los
+
+de
+
+Ueno, A.C., Gundel, P.E., Omacini, M., Ghersa, C.M., Bush, L.P. &
+Martínez‐Ghersa, M.A. (2016) Mutualism effectiveness of a fungal
+endophyte in an annual grass is impaired by ozone. Functional
+Ecology, 30, 226–232.
+
+Wang, P., Jiang, H., Boeren, S., Dings, H., Kulikova, O., Bisseling, T. et al.
+(2021) A nuclear‐targeted effector of Rhizophagus irregularis inter-
+feres with histone 2B mono‐ubiquitination to promote arbuscular
+mycorrhization. New Phytologist, 230, 1142–1155.
+
+Wang, W., Shi, J., Xie, Q., Jiang, Y., Yu, N. & Wang, E. (2017) Nutrient
+exchange and regulation in arbuscular mycorrhizal symbiosis.
+Molecular Plant, 10, 1147–1158.
+
+Wawra, S., Fesel, P., Widmer, H., Timm, M., Seibel, J., Leson, L. et al.
+(2016) The fungal‐specific β‐glucan‐binding lectin FGB1 alters cell‐
+wall composition and suppresses glucan‐triggered immunity in
+plants. Nature Communications, 7, 13188.
+
+Weiß, M., Waller, F., Zuccaro, A. & Selosse, M.‐A. (2016) Sebacinales—one
+thousand and one interactions with land plants. New Phytologist,
+211, 20–40.
+
+Wolinska, K.W., Vannier, N., Thiergart, T., Pickel, B., Gremmen, S.,
+(2021) Tryptophan metabolism and bacterial
+Piasecka, A. et al.
+commensals prevent
+roots.
+fungal dysbiosis
+Proceedings of the National Academy of Sciences, 118, e2111521118.
+Xie, Y., Han, S., Li, X., Amombo, E. & Fu, J. (2017) Amelioration of salt
+stress on bermudagrass by the fungus Aspergillus aculeatus.
+Molecular Plant‐Microbe Interactions, 30, 245–254.
+
+in Arabidopsis
+
+Xu, L., Wu, C., Oelmüller, R. & Zhang, W. (2018) Role of phytohormones in
+Piriformospora indica‐induced growth promotion and stress tolerance
+in plants: more questions than answers. Frontiers in Microbiology, 9,
+1646.
+
+Xu, W., Li, M., Lin, W., Nan, Z. & Tian, P. (2021) Effects of Epichloë sinensis
+endophyte and host ecotype on physiology of Festuca sinensis under
+different soil moisture conditions. Plants, 10, 1649.
+
+Zhang, H., Zhu, J., Gong, Z. & Zhu, J.‐K. (2022) Abiotic stress responses in
+
+plants. Nature Reviews Genetics, 23, 104–119.
+
+Zhang, W., Wang, J., Xu, L., Wang, A., Huang, L., Du, H. et al. (2018)
+Drought stress responses in maize are diminished by Piriformospora
+indica. Plant Signaling & Behavior, 13, e1414121.
+
+Zhang, Y.P. & Nan, Z.B.
+
+(2007) Growth and anti‐oxidative systems
+changes in Elymus dahuricus is affected by Neotyphodium endophyte
+under contrasting water availability. Journal of Agronomy and Crop
+Science, 193, 377–386.
+
+Zsögön, A., Lambais, M.R., Benedito, V.A., Figueira, A.V.D.O. &
+Peres, L.E.P. (2008) Reduced arbuscular mycorrhizal colonization in
+tomato ethylene mutants. Scientia Agricola, 65, 259–267.
+
+How to cite this article: Bastías, D.A., Balestrini, R., Pollmann,
+
+S. & Gundel, P.E. (2022) Environmental interference of
+plant−microbe interactions. Plant, Cell & Environment, 45,
+3387–3398. https://doi.org/10.1111/pce.14455
+
+

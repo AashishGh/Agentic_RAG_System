@@ -1,0 +1,2456 @@
+Review
+Microbial Bioﬁlms in the Food Industry—A
+Comprehensive Review
+
+Conrado Carrascosa 1,*, Dele Raheem 2
+
+, Fernando Ramos 3,4
+
+, Ariana Saraiva 1 and António Raposo 5,*
+
+1 Department of Animal Pathology and Production, Bromatology and Food Technology, Faculty of Veterinary,
+Universidad de Las Palmas de Gran Canaria, Trasmontaña s/n, 35413 Arucas, Spain; ariana_23@outlook.pt
+
+2 Northern Institute for Environmental and Minority Law (NIEM), Arctic Centre, University of Lapland,
+
+3
+
+96101 Rovaniemi, Finland; braheem@ulapland.ﬁ
+Pharmacy Faculty, University of Coimbra, Azinhaga de Santa Comba, 3000-548 Coimbra, Portugal;
+framos@ff.uc.pt
+
+4 REQUIMTE/LAQV, R. D. Manuel II, Apartado 55142 Oporto, Portugal
+5 CBIOS (Research Center for Biosciences and Health Technologies), Universidade Lusófona de Humanidades
+
+e Tecnologias, Campo Grande 376, 1749-024 Lisboa, Portugal
+
+* Correspondence: conrado.carrascosa@ulpgc.es (C.C.); antonio.raposo@ulusofona.pt (A.R.)
+
+Abstract: Bioﬁlms, present as microorganisms and surviving on surfaces, can increase food cross-
+contamination, leading to changes in the food industry’s cleaning and disinfection dynamics. Bioﬁlm
+is an association of microorganisms that is irreversibly linked with a surface, contained in an ex-
+tracellular polymeric substance matrix, which poses a formidable challenge for food industries. To
+avoid bioﬁlms from forming, and to eliminate them from reversible attachment and irreversible
+stages, where attached microorganisms improve surface adhesion, a strong disinfectant is required
+to eliminate bacterial attachments. This review paper tackles bioﬁlm problems from all perspec-
+tives, including bioﬁlm-forming pathogens in the food industry, disinfectant resistance of bioﬁlm,
+and identiﬁcation methods. As bioﬁlms are largely responsible for food spoilage and outbreaks,
+they are also considered responsible for damage to food processing equipment. Hence the need to
+gain good knowledge about all of the factors favouring their development or growth, such as the
+attachment surface, food matrix components, environmental conditions, the bacterial cells involved,
+and electrostatic charging of surfaces. Overall, this review study shows the real threat of bioﬁlms
+in the food industry due to the resistance of disinfectants and the mechanisms developed for their
+survival, including the intercellular signalling system, the cyclic nucleotide second messenger, and
+bioﬁlm-associated proteins.
+
+Keywords: bioﬁlms; food industry; food microbiology; food safety
+
+Citation: Carrascosa, C.; Raheem, D.;
+
+Ramos, F.; Saraiva, A.; Raposo, A.
+
+Microbial Bioﬁlms in the Food
+
+Industry—A Comprehensive Review.
+
+Int. J. Environ. Res. Public Health 2021,
+
+18, 2014. https://doi.org/10.3390/
+
+ijerph18042014
+
+Academic Editor: Paul B. Tchounwou
+
+Received: 26 December 2020
+
+Accepted: 7 February 2021
+
+Published: 19 February 2021
+
+Publisher’s Note: MDPI stays neutral
+
+1. Introduction
+
+with regard to jurisdictional claims in
+
+published maps and institutional afﬁl-
+
+iations.
+
+Copyright: © 2021 by the authors.
+
+Licensee MDPI, Basel, Switzerland.
+
+This article is an open access article
+
+distributed under
+
+the terms and
+
+conditions of the Creative Commons
+
+Attribution (CC BY) license (https://
+
+creativecommons.org/licenses/by/
+
+4.0/).
+
+Typically, bacteria bind to surfaces and form spatially structured communities inside
+a self-produced matrix, which consist of extracellular polymeric substances (EPS) known
+as bioﬁlms [1,2]. Bioﬁlms imply major challenges for the food industry because they allow
+bacteria to bind to a range of surfaces, including rubber, polypropylene, plastic, glass,
+stainless steel, and even food products, within just a few minutes, which is followed by
+mature bioﬁlms developing within a few days (or even hours) [3].
+
+Since ancient times, this sessile life form has been followed as an excellent survival
+technique for microorganisms, given the protective barrier generated and physiological
+changes made by the bioﬁlm matrix, while it ﬁghts against the adverse environmental
+circumstances faced typically by bacteria in man-made and natural settings, even in food-
+processing facilities [4,5]. Hence, bioﬁlms are believed responsible for damaged equipment,
+more expensive energy costs, outbreaks, and food spoilage [5–8]. Bioﬁlms have become
+more robust to disinfections in many wide-ranging food industries, such as processing
+
+Int. J. Environ. Res. Public Health 2021, 18, 2014. https://doi.org/10.3390/ijerph18042014
+
+https://www.mdpi.com/journal/ijerph
+
+International Journal ofEnvironmental Researchand Public Health(cid:1)(cid:2)(cid:3)(cid:1)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:1)(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)Int. J. Environ. Res. Public Health 2021, 18, 2014
+
+2 of 31
+
+seafood, brewing, dairy processing, and meat and poultry processing [9] There is com-
+pelling evidence for bioﬁlm lifestyle making them more resilient to antimicrobial agents,
+particularly compared to planktonic cells (Figures 1 and 2). This entails having to remove
+them from surfaces of food processing plants, which poses a massive task [10–12].
+
+Figure 1. Bioﬁlm formation and development stages.
+
+Microbiological surface management is relevant for assessing and making decisions
+as to whether residual microbial species are found at a suitable level, and if harmful
+microorganisms are removed. The obtained results will allow criteria to be set, such as
+how to clean surfaces and food product quality [13,14].
+
+Sensory tests that involve visually inspecting surfaces with good lighting, smelling
+unpleasant odours, and feeling encrusted or greasy surfaces are run as a process regulation
+to instantly overcome visible sanitation defects, while microbiological evaluations are often
+made to guarantee consistency with microbial standards and to make improvements to
+sanitation procedures [15]. The fact that visual inspection cannot coincide with bacterial
+counts has been well-documented [16]. The hygienic conditions of food-contact surfaces
+must be properly examined for all of the above-cited purposes. Lack of convergence
+between the various approaches followed to detect and quantify bioﬁlms does, however,
+make it more difﬁcult for the food industry to locate the most effective ones [17]. The
+Hazard Analysis and Critical Control Points (HACCP) system and good manufacturing
+practices have been developed to regulate food safety and quality. Bacterial bioﬁlms are not
+directly mentioned in the HACCP system employed on food processing facilities. Hence,
+an updated HACCP system that contemplates evaluating bioﬁlms in food environments,
+and establishes an apt sanitation plan, is expected to provide much clearer contamination
+information, and to facilitate production in the food industry’s bioﬁlm-free processing
+systems [18]. The importance and impact of bioﬁlms on the food industry have become clear
+in several works where the cross-contamination is common among these food products,
+with a wide range of pathogens, including Listeria monocytogenes, Yersinia enterocolitica,
+Campylobacter jejuni, Salmonella spp., Staphylococcus spp., Bacillus cereus, and Echerichia coli
+O157:H7 [19].
+
+Int. J. Environ. Res. Public Health 2021, 18, x FOR PEER REVIEW 2 of 32  ment, more expensive energy costs, outbreaks, and food spoilage [5–8]. Biofilms have be-come more robust to disinfections in many wide-ranging food industries, such as pro-cessing seafood, brewing, dairy processing, and meat and poultry processing [9] There is compelling evidence for biofilm lifestyle making them more resilient to antimicrobial agents, particularly compared to planktonic cells (Figures 1 and 2). This entails having to remove them from surfaces of food processing plants, which poses a massive task [10–12]. Microbiological surface management is relevant for assessing and making decisions as to whether residual microbial species are found at a suitable level, and if harmful mi-croorganisms are removed. The obtained results will allow criteria to be set, such as how to clean surfaces and food product quality [13,14].  Figure 1. Biofilm formation and development stages. Sensory tests that involve visually inspecting surfaces with good lighting, smelling unpleasant odours, and feeling encrusted or greasy surfaces are run as a process regula-tion to instantly overcome visible sanitation defects, while microbiological evaluations are often made to guarantee consistency with microbial standards and to make improvements to sanitation procedures [15]. The fact that visual inspection cannot coincide with bacterial counts has been well-documented [16]. The hygienic conditions of food-contact surfaces must be properly examined for all of the above-cited purposes. Lack of convergence be-tween the various approaches followed to detect and quantify biofilms does, however, make it more difficult for the food industry to locate the most effective ones [17]. The Hazard Analysis and Critical Control Points (HACCP) system and good manufacturing practices have been developed to regulate food safety and quality. Bacterial biofilms are not directly mentioned in the HACCP system employed on food processing facilities. Hence, an updated HACCP system that contemplates evaluating biofilms in food envi-ronments, and establishes an apt sanitation plan, is expected to provide much clearer con-tamination information, and to facilitate production in the food industry’s biofilm-free processing systems [18]. The importance and impact of biofilms on the food industry have become clear in several works where the cross-contamination is common among these food products, with a wide range of pathogens, including Listeria monocytogenes, Yersinia enterocolitica, Campylobacter jejuni, Salmonella spp., Staphylococcus spp., Bacillus cereus, and Echerichia coli O157:H7 [19].  Int. J. Environ. Res. Public Health 2021, 18, 2014
+
+3 of 31
+
+Figure 2. Bioﬁlm structure in the growth and maturation stages [20].
+
+The main objectives of this review were to identify the most important bioﬁlm exam-
+ples in the food industry and to present methods to visualise in situ bioﬁlm production,
+how to avoid this production, and methods to remove bioﬁlms. This study focused on the
+microbial bioﬁlms that affect the food industry and provides an overview of their impor-
+tance in cross-contamination when food comes into contact with surfaces. Although going
+into detail in each discipline, speciﬁc to microbiology for bioﬁlm isolation and identiﬁcation,
+is not the object of this work, it contributes new knowledge about techniques to control
+and eradicate bioﬁlms in the food industry from food safety and quality perspectives.
+
+2. Bioﬁlm Development in Food Processing Environments
+
+Modern food processing lines are a suitable environment for bioﬁlms to form on
+food contact surfaces, primarily due to manufacturing plants’ complexity, long production
+periods, mass product generation, and large bioﬁlm growth areas [21]. Many food-borne
+bacteria may, therefore, bind to the contact surfaces present in these areas, which could
+contribute to increase the risk of bacterial food-borne diseases. By way of example, 80%
+of bacterial infections in the USA are believed to be related speciﬁcally to food-borne
+pathogens in bioﬁlms [9].
+
+Mixed-species bioﬁlm production is extremely dynamic and depends on the attach-
+ment surface’s characteristics [22], food matrix components [23], environmental condi-
+tions [24], and involved bacterial cells [8,25].
+
+Attachment surface properties, such as hydrophobicity, electrostatic charging, interface
+roughness, and topography impact bioﬁlm formation and, thus, affect the overall hygiene
+status of the surface [22,26]. Nevertheless, the precise consequence of some parameters
+vastly varies under speciﬁc laboratory conditions. Some experiments have revealed that
+bacterial attachment is more likely to happen on rougher surfaces [22,27], while others
+have found no association between roughness and bacterial attachment [28]. Hydrophobic
+surfaces tend to attract more bacteria, but studies that have tested the hydrophobicity effect
+present opposing results [29,30], and other experiments indicate that hydrophilic surfaces
+enable more bacterial adherence than hydrophobic equivalents [27,28]. The fact that clear
+results are lacking might lie in the various methods and bacterial strains employed, and
+in overall attachment likely being established for several reasons. The most popular food
+contact material in the food industry is stainless steel type 304 because it is chemically
+inert, easy to clean, and extremely corrosion-resistant at a range of processing temperatures.
+Given its continuous usage, this material’s topography typically displays crevices and
+cracks that protect bacteria from sanitising treatments and mechanical cleaning methods.
+
+Int. J. Environ. Res. Public Health 2021, 18, x FOR PEER REVIEW 3 of 32   Figure 2. Biofilm structure in the growth and maturation stages [20]. The main objectives of this review were to identify the most important biofilm exam-ples in the food industry and to present methods to visualise in situ biofilm production, how to avoid this production, and methods to remove biofilms. This study focused on the microbial biofilms that affect the food industry and provides an overview of their im-portance in cross-contamination when food comes into contact with surfaces. Although going into detail in each discipline, specific to microbiology for biofilm isolation and iden-tification, is not the object of this work, it contributes new knowledge about techniques to control and eradicate biofilms in the food industry from food safety and quality perspec-tives. 2. Biofilm Development in Food Processing Environments Modern food processing lines are a suitable environment for biofilms to form on food contact surfaces, primarily due to manufacturing plants’ complexity, long production pe-riods, mass product generation, and large biofilm growth areas [21]. Many food-borne bacteria may, therefore, bind to the contact surfaces present in these areas, which could contribute to increase the risk of bacterial food-borne diseases. By way of example, 80% of bacterial infections in the USA are believed to be related specifically to food-borne patho-gens in biofilms [9]. Mixed-species biofilm production is extremely dynamic and depends on the attach-ment surface’s characteristics [22], food matrix components [23], environmental condi-tions [24], and involved bacterial cells [8,25]. Attachment surface properties, such as hydrophobicity, electrostatic charging, inter-face roughness, and topography impact biofilm formation and, thus, affect the overall hy-giene status of the surface [22,26]. Nevertheless, the precise consequence of some param-eters vastly varies under specific laboratory conditions. Some experiments have revealed that bacterial attachment is more likely to happen on rougher surfaces [22,27], while oth-ers have found no association between roughness and bacterial attachment [28]. Hydro-phobic surfaces tend to attract more bacteria, but studies that have tested the hydropho-bicity effect present opposing results [29,30], and other experiments indicate that hydro-philic surfaces enable more bacterial adherence than hydrophobic equivalents [27,28]. The fact that clear results are lacking might lie in the various methods and bacterial strains employed, and in overall attachment likely being established for several reasons. The most popular food contact material in the food industry is stainless steel type 304 because it is chemically inert, easy to clean, and extremely corrosion-resistant at a range of processing temperatures. Given its continuous usage, this material’s topography typically displays crevices and cracks that protect bacteria from sanitising treatments and mechanical clean-ing methods. Int. J. Environ. Res. Public Health 2021, 18, 2014
+
+4 of 31
+
+The food matrix components in food processing environments also inﬂuence bacterial
+attachment [31]; e.g., food waste, such as milk and meat exudates enriched in fats, pro-
+teins, and carbohydrates, facilitate microorganism growth and multiplication, and favour
+dual-species bioﬁlm development by E. Coli and Staphylococcus aureus [32]. Milk lactose
+improves bioﬁlm production by both Bacillus subtilis, by activating the LuxS-mediated
+quorum-sensing system [33], and S. aureus through intercellular polysaccharide adhesion
+development [34]. Improved bioﬁlm production by Geobacillus spp. in milk results in high
+concentrations of free Ca2+ and Mg2+ [35].
+
+Microbial cell properties, especially hydrophobicity, cellular membrane components
+(e.g., protein and lipopolysaccharide), appendages (e.g., pili, ﬂagella, ﬁmbriae) and bacteria-
+secreted EPS, also play a key role in stimulating bioﬁlm production [22]. Fluctuations in
+bioﬁlm-forming capability among species or strains of different genotypes and serotypes
+have been identiﬁed, which reveals the evolution of enhanced bioﬁlm formation from
+various genetic backgrounds [8,36]. Similar species can also impact one another in a mixed
+microbial community, which culminates in the co-colonisation of certain species.
+
+3. Examples of the Most Relevant Bioﬁlms in the Food Industry
+
+In the food industry, bioﬁlm-forming species appear in factory environments and
+can be pathogenic to humans because they develop bioﬁlm structures. The processing
+environments of the food industry, e.g., wood, glass, stainless steel, polyethylene, rubber,
+polypropylene, etc., act as artiﬁcial substrates for these pathogens [37,38]. The character-
+istics of the bacterial growth form on food in a processing environment involve different
+behaviours when considering cleaning and disinfection processes. Controlling bioﬁlm
+formations in the food industry can prove difﬁcult when having to decide the right strategy.
+Examples of these relevant bioﬁlm-forming pathogens for the food industry are brieﬂy
+
+described in Table 1.
+
+3.1. Bacillus Cereus
+
+Bacillus cereus is a Gram-positive anaerobic or facultative anaerobic spore-forming bac-
+terium that can grow in various environments at wide-ranging temperatures (4 ◦C–50 ◦C).
+It is resistant to chemicals, heat treatment, and radiation [39]. B. cereus is a frequently iso-
+lated soil inhabitant from food and food products, such as rice, dairy products, vegetables
+and meat. It secretes toxins that can cause sickness and diarrhoea symptoms in humans.
+B. cereus is responsible for bioﬁlm formation on food contact surfaces, such as stainless
+steel pipes, conveyor belts and storage tanks. It can also form ﬂoating or immersed bioﬁlms,
+which can secrete a vast array of bacteriocins, metabolites, surfactants, as well as enzymes,
+such as proteases and lipases, in bioﬁlms, which can affect food sensorial qualities [40].
+Motility by bacterial ﬂagella confers access to suitable bioﬁlm formation surfaces, and is
+required for bioﬁlms to spread on non-colonised surfaces. However, B. cereus ﬂagella have
+not been found to be directly involved in adhesion to glass surfaces, but can play a key role
+in bioﬁlm formation via their motility [55].
+
+3.2. Campylobacter Jejuni
+
+Campylobacter spp., mainly C. jejuni, are Gram-negative spiral, rod-shaped, or curved
+thermophilic and bipolar ﬂagellated motile bacteria [41]. C. jejuni, also known as an
+anaerobic bacterium, can develop bioﬁlms under both microaerophilic (5% O2 and 10%
+CO2) and aerobic (20% O2) conditions [56]. Despite it being a fastidious organism, C. jejuni
+can survive outside the avian intestinal tract before it reaches a human host. A range of
+environmental elements initiates the formation of bioﬁlms, which are then affected by a set
+of intrinsic factors [57]. The European Union One Health 2018 Zoonoses Report classiﬁes
+C. jejuni as an opportunistic pathogen that is believed to be the causative agent of most
+bacterial gastroenteritis cases, and has been regarded as a common commensal of food
+animals and poultry, with turkeys and hens in particular [42]. When the preparation and
+processing areas of food products or water become contaminated, such as unpasteurised
+
+Int. J. Environ. Res. Public Health 2021, 18, 2014
+
+5 of 31
+
+milk, C. jejuni reaches the human host by infecting and colonising the gastrointestinal tract
+to cause disease [43].
+
+Table 1. Bioﬁlm-forming pathogens in the food industry.
+
+Pathogen
+
+Characteristics
+
+Contaminated Food
+
+Examples of Harmful
+Spoilage Effects
+
+References
+
+Bacillus cereus
+
+Gram-positive,
+spore-forming,
+anaerobic, facultative
+anaerobic
+
+dairy products, rice,
+vegetables, meat
+
+diarrhoea and vomiting
+symptoms
+
+[39,40]
+
+Campylobacter jejuni
+
+Gram-negative, aerobic
+and anaerobic
+
+animals, poultry,
+unpasteurised milk
+
+Escherichia coli
+
+Gram-negative,
+rod-shaped
+
+raw milk, fresh meat, fruits
+and vegetables
+
+bloody diarrhoea, fever,
+stomach cramp, nausea
+and vomiting
+
+diarrhoea outbreaks
+and haemolytic uremic
+syndrome
+
+listeriosis in the elderly,
+pregnant women and
+immune-compromised
+patients
+
+can cause
+gastroenteritis or
+septicaemia
+
+methicillin resistance,
+can cause vomiting and
+diarrhoea
+
+produces blue
+discolouration on fresh
+cheese.
+
+production of acids or
+enzymes leading to
+off-ﬂavours
+
+[41–43]
+
+[44]
+
+[45,46]
+
+[47,48]
+
+[49,50]
+
+[17]
+
+[51,52]
+
+dairy products, meat,
+ready-to-eat products, fruit, soft
+cheeses, ice cream,
+unpasteurised milk, candied
+apples, frozen
+vegetables, poultry
+
+Poultry meat, bovine, ovine,
+porcine, ﬁsh
+
+meat products, poultry, egg
+products, dairy products, salads,
+bakery products, especially
+cream-ﬁlled pastries and cakes,
+and sandwich ﬁllings
+
+fruits, vegetables, meat surfaces
+and low-acid dairy products
+
+dried dairy products
+
+dried milk powder
+
+an indicator of poor
+hygiene
+
+[53,54]
+
+beer and brewery environment
+
+rapid cell growth
+makes beer turbid and
+smells like rotten eggs
+due to production of
+sulphur compounds
+
+[23]
+
+Listeria monocytogenes
+
+Salmonella Enterica
+
+Staphylococcus aureus
+
+Pseudomonas spp.
+
+Geobacillus
+stearothermophilus
+
+Anoxybacillus
+ﬂavithermus
+
+Pectinatus spp.
+
+Gram-positive,
+rod-shaped, facultative
+anaerobic
+
+Gram-negative,
+rod-shaped, ﬂagellate,
+facultative aerobic
+
+Gram-positive,
+non-spore forming,
+non-motile, facultative
+anaerobic
+
+psychrotrophic, motile,
+Gram-negative
+rod-shaped
+
+thermophilic,
+Gram-positive,
+spore-forming, aerobic
+or facultative anaerobic
+
+thermophilic organism,
+Gram-positive,
+spore-forming,
+facultatively anaerobic,
+non-pathogenic
+
+Gram-negative,
+non-spore-forming,
+anaerobic
+
+3.3. Enterohaemorrhagic Escherichia coli (EHEC)
+
+Escherichia coli is a Gram-negative and rod-shaped bacterium. Most E. coli strains form
+part of human intestinal microbiota and pose no health problem. However, the virulence
+types of E. coli include enterotoxigenic (ETEC), enteroinvasive (EIEC), enteropathogenic
+(EPEC), and Vero cytotoxigenic (VTEC). O157:H7 EHEC is the most frequent serotype asso-
+ciated with EHEC infections in humans in the USA [58]. Widespread E. coli dissemination
+
+Int. J. Environ. Res. Public Health 2021, 18, 2014
+
+6 of 31
+
+in natural environments is, to a great extent, due to its ability to grow as a bioﬁlm. It is
+worth considering that several E. coli strains may cause disease in humans, and that En-
+terohaemorrhagic E. coli (EHEC) strains are the most relevant for the food industry. EHEC
+serotype O157:H7 is the human pathogen responsible for bloody diarrhoea outbreaks
+and haemolytic uremic syndrome (HUS) worldwide. They can be transmitted by raw
+milk, drinking water or fresh meat, fruit, and vegetables; e.g., melons, tomatoes, parsley,
+coriander, spinach, lettuce, etc. [44].
+
+E. coli can employ pili, ﬂagella and membrane proteins to initiate attachment to
+inanimate surfaces when ﬂagella are lost after attachment and bacteria start producing
+an extracellular polymeric substance (EPS) that helps to confer bacteria better resistance
+to disinfectants [59]. There are reports indicating that although EHEC can form bioﬁlms
+on different food industry surfaces, neither an effective means to prevent EHEC bioﬁlm
+formation nor an effective treatment for its infections exists because antibiotic treatment
+tends to increase the risk of haemolytic-uremic syndrome and kidney failure [60].
+
+3.4. Listeria Monocytogenes
+
+Listeria monocytogenes is a Gram-positive bacterium and a ubiquitous food-borne
+pathogen that can appear in soil, food, and water. Its ingestion can result in abortions
+in pregnant women, and other serious complications in the elderly and children. The
+pathogen can be transmitted to several food types, such as dairy products, seafood, meat,
+fruit, ready-to-eat meals, ice cream, soft cheeses, unpasteurised milk, frozen vegetables,
+candied apples, and poultry [45,46], but it is not known to be resistant to pasteurisation
+treatments [61]. The pathogen proliferates at low temperature, and is able to form pure
+culture bioﬁlms or grow in multispecies bioﬁlms [62]. L. monocytogenes can survive under
+acidic conditions for lengthy periods and can form bioﬁlms that grow without oxygen.
+Its numbers are likely to rise or lower in bioﬁlms depending on the competing microbes
+present [63].
+
+Given the presence of pili, ﬂagella and membrane proteins, prevalent L. monocytogenes
+
+strains possess good adhesion ability in food processing environments [64].
+
+3.5. Salmonella Enterica
+
+Salmonella enterica is a Gram-negative, rod-shaped, ﬂagellate and facultative aerobic
+
+bacterium, and a species of the genus Salmonella [65].
+
+It can cause gastroenteritis or septicaemia (in some serovars) [66]. Salmonella spp.
+express proteinaceous extracellular ﬁbres known as curli, which are involved in surface
+and cell-cell contacts, and in promoting community behaviour and host colonisation [67].
+Besides curli, different ﬁmbrial adhesins have been identiﬁed with bioﬁlm formation
+implications that are serotype-dependent [40]. S. enterica serovar Enteritidis is the most
+frequent serotype to cause fever, vomiting, nausea diarrhoea, and abdominal pain as main
+symptoms [47]. Poultry meat is a frequent reservoir for these bacteria in processed food,
+whose importance as a food pathogen has been demonstrated by the fact that S. enterica
+bioﬁlm formation on food surfaces was the ﬁrst reported case in 1966 to possess complex
+multicellular structures [48].
+
+When contaminating a food pipeline bioﬁlm, S. enterica may cause massive outbreaks,
+and even death in infants and the elderly.
+It can grow on stainless steel surfaces to
+form a three-dimensional (3D) structure with several call layers of different morphologies
+depending on available nutrients, such as the reticular shaped ones generated when
+cultured on tryptic soy broth (TSB) medium [68].
+
+3.6. Staphylococcus Aureus
+
+Staphylococcus aureus is a Gram-positive, non-spore-forming, non-motile, facultative
+anaerobic bacterium capable of producing enterotoxins from 10–46 ◦C. S. aureus can multi-
+ply on the skin and mucous membranes of food handlers, and can become a major issue
+in food factories [49]. These enterotoxins are heat-stable and can be secreted during S.
+
+Int. J. Environ. Res. Public Health 2021, 18, 2014
+
+7 of 31
+
+aureus growth in foods contaminated by food handlers. The bacterium grows well in high
+salt- or sugar-content foods with little water activity. The foods frequently implicated in
+Staphylococcal food-borne disease are meat and meat products, poultry and egg products,
+milk and dairy products, bakery products, salads, and particularly cream-ﬁlled cakes and
+pastries and sandwich ﬁllings [50]. S. aureus is known for its numerous enteric toxins. These
+enterotoxins bind to class II MHC (major histocompatibility complex) in T-cells, which
+results in their activation that can lead to acute toxic shock with sickness and diarrhoea [69].
+
+3.7. Pseudomonas spp.
+
+Pseudomonas is a heterotrophic, motile, Gram-negative rod-shaped bacterium. Pseu-
+domonads are generally ubiquitous psychrotrophic spoilage organisms that are often found
+in food processing environments, including ﬂoors and drains, and also on fruit, vegetables,
+and meat surfaces, and in low-acid dairy products [17,62]. The extracellular ﬁlamentous
+appendages produced by motile microorganisms result in both the attachment process
+and the interaction with surfaces in different ways. Flagella and pili have been thoroughly
+studied [70].
+
+When bioﬁlms develop and their regulation by quorum sensing is considered, Pseu-
+domonas aeruginosa can be taken as a model organism [71], which is about 1–5 µm long and
+0.5–1.0 µm wide. A facultative aerobe grows via aerobic and anaerobic respiration with
+nitrate as the terminal electron acceptor [71].
+
+Pseudomonas spp. produce huge amounts of EPS and are known to attach and form
+bioﬁlms on stainless steel surfaces. They can co-exist with other pathogens in bioﬁlms
+to form multispecies bioﬁlms, which make them more resistant and stable [62]. These
+bioﬁlms can be accompanied by a distinct blue discolouration (pyocyanin) on fresh cheese
+produced by P. ﬂuorescens [72].
+
+3.8. Geobacillus stearothermophilus
+
+Geobacillus stearothermophilus is a Gram-positive, thermophilic, aerobic, or facultative
+anaerobic bacterium [73]. Thermophiles, such as G. Stearothermophilus, formerly known
+as Bacillus stearothermophilus, can attach to stainless steel surfaces on processing lines in
+evaporators and plate heat exchangers, which allows them to grow and produce bioﬁlms,
+which implies the potential release of single cells or aggregates of cells into the ﬁnal dry
+product [74]. B. stearothermophilus are able to form bioﬁlms on clean stainless steel surfaces
+and to release bacteria into milk during dairy industry processing [75]. The above-cited
+authors observed that the conditions for a bioﬁlm in a laminar ﬂow milk system were more
+adequate for the growth of spore-forming bacteria, which are thermophilic. Their growth
+as a culture medium in milk is quite difﬁcult [75].
+
+3.9. Anoxybacillus ﬂavithermus
+
+Anoxybacillus ﬂavithermus is another Gram-positive, thermophilic, and spore-forming
+organism that is facultatively anaerobic and non-pathogenic [76]. A. ﬂavithermus is a poten-
+tial contaminant of dairy products, and poses a problem for the milk powder processing
+industry, as high levels will reduce milk powder acceptability for both local and interna-
+tional markets [77]. A. ﬂavithermus spores are very heat-resistant and their vegetative cells
+can grow at temperatures up to 65 ◦C with a signiﬁcant increase in bacterial adhesion on
+stainless steel surfaces in the presence of skimmed milk. This indicates that milk positively
+inﬂuences these species’ bioﬁlm formation [78]. In the dairy industry, the commonest
+bioﬁlm-forming isolates are thermophilic genera [79]. In many parts of the world, A.
+ﬂavithermus and G. stearothermophilus are regarded as the most dominant thermophilic
+microbial contaminants of milk powders [78].
+
+3.10. Pectinatus spp.
+
+Pectinatus is Gram-negative, non-spore-forming, and anaerobic bacteria that have been
+linked with a high concentration of bioﬁlms in breweries due to sanitation problems [80].
+
+Int. J. Environ. Res. Public Health 2021, 18, 2014
+
+8 of 31
+
+Spoilage bacteria were ﬁrst isolated from a brewery in the USA in unpasteurised beer stored
+at 30 ◦C [81]. P. cerevisiiphilus have also been isolated from many breweries in Germany,
+Spain, Norway, Japan, the Netherlands, Sweden, and France [80].
+
+3.11. Synergistic Pathogens
+
+A combination of several pathogens can synergistically interact to form bioﬁlms in the
+food industry. In food-processing environments, bacteria are able to exist as multispecies
+bioﬁlms, from where both spoilage and pathogenic bacteria can contaminate food [82].
+For instance in the ﬁshing industry, fresh ﬁsh products can suffer from bioﬁlm formation
+by mixed pathogenic species (Aeromonas hydrophila, L. monocytogenes, S. enterica, or Vibrio
+spp.), which can imply signiﬁcant health and economic issues [83]. Synergistic interactions
+have been observed in a fresh-cut produce processing plant, where E. coli interacted with
+Burkholderia caryophylli and Ralstonia insidiosa to form mixed bioﬁlms. Acylhomoserine
+lactones (AHLs) can control bioﬁlm formation in synergistic interactions among mixed
+species. Interference of AHLs is manifested by AHL lactonases and acylases, both of which
+are present in Gram-positive and Gram-negative bacteria [60].
+
+Bacteria use quorum sensing to coordinate bioﬁlm production and dispersion, when
+bacteria attach to a biotic or abiotic surface, and cell-to-cell attachment engages in com-
+munication via a quorum sensing (QS)-based extracellular cell signalling system [84]. The
+importance of cell signalling for bacterial bioﬁlm formation has been further conﬁrmed
+by the control of exopolysaccharide synthesis by quorum-sensing signals, as in Vibrio
+cholera [85].
+
+Synergistic pathogens are found in several works, where bioﬁlm levels of the four-
+species consortia have been further examined and compared to the bioﬁlm production
+levels of each isolate under monospecies conditions. They have revealed that P. aeruginosa
+and A. junii isolated from different samples to contribute as best bioﬁlm producers, includ-
+ing poor or non-bioﬁlm-producing isolates, which increases the overall bioﬁlm formation
+in the included consortia [86]. Several authors [87] have found positive synergistics in
+other studies by investigating mixed species of bioﬁlms, such as Candida albicans.
+
+In food industries, bioﬁlm-related effects (pathogenicity, corrosion of metal surfaces,
+and alteration to organoleptic properties due to the secretion of proteases or lipases) are
+critically important. For example, in the dairy industry several processes and structures
+(pipelines, raw milk tanks, butter centrifuges, pasteurisers, cheese tanks, packing tools) can
+act as surface substrates for bioﬁlm formation at different temperatures and involve several
+mixed colonising species. Thus, it is essential that accurate methods to visualise bioﬁlms in
+situ be set up to avoid contamination and to ensure food safety in the food industry.
+
+4. Bioﬁlm Control and Elimination
+
+It is well-known that bioﬁlm bacteria present a distinct phenotype with a genotype as
+regards gene transcription and growth rates under very particular conditions that differ
+from planktonic conditions [88]. Bioﬁlms are capable of adhering to a very wide diversity of
+surfaces with distinct biotic and abiotic compositions, including human tissue and medical
+devices. Once bioﬁlms form, they are a major threat because they cause infectious diseases
+and economic loss. In the 1940s, several authors produced further research works into
+bioﬁlm evolution and surface relations for marine microorganisms [89] and seawater [90].
+Nevertheless, marked progress has been made given the incorporation of the electron
+microscope, which allows high-resolution photomicroscopy at much higher magniﬁcations
+than light microscopy [85]. Indeed, the most revealing discovery of the relation with bioﬁlm
+elimination was a description of its structure, the surrounding matrix material, and the
+cells enclosed in these bioﬁlms were polysaccharides, as by special stains revealed [85].
+Doubtlessly, disinfectants have proven more efﬁcient in ﬁghting against bioﬁlms since 1973,
+while Characklis (1973) [91] showed marked persistence and resistance to disinfectants,
+such as chlorine.
+
+Int. J. Environ. Res. Public Health 2021, 18, 2014
+
+9 of 31
+
+4.1. Bioﬁlm Elimination in the Food Industry
+
+Bioﬁlm formation has been investigated in food industry and hospital environments.
+Perhaps, in the research conducted, hospitals, to eliminate bioﬁlms, have been more
+successful, thanks to the easier applications and special surface compositions (antibioﬁlm
+activity) in medical surroundings, such as implants, prostheses, tools, and surfaces for
+operating theatres.
+
+To date, many efforts have been made to reduce bioﬁlm formation on food industry
+surfaces, but those works were based mainly on new disinfectants with different efﬁcacies.
+These results have improved in line with speciﬁc mechanisms for initial surface attachment,
+developing a group structure and ecosystem, and detachments [75] with dissimilar results.
+Nowadays, disinfectants are the best ally to eliminate bioﬁlms. However, other
+research ﬁelds, such as the composition of surfaces for materials to prevent bacterial
+adhesion and developing phages to combat bioﬁlm-forming bacteria, have obtained
+favourable results. Doubtlessly, most research works have focused on the bacteriolog-
+ical bioﬁlm, without discussing the hypothesis of ﬁlamentous fungi being responsible
+for bioﬁlm formation. Several authors [92,93] support this theory, where the presence of
+Aspergillus fumigatus has been presented as bioﬁlm-responsible. In this case, the marked
+similitude of bacteriological and ﬁlamentous fungi bioﬁlms is based on morphological
+changes, the presence of an extracellular polymeric matrix, differential gene expression,
+and distinct sensitivity to antifungal drugs compared to diffuse or loosely associated
+(planktonic) colonies [94,95].
+
+Before we go on to explain several factors that could inﬂuence bacterial adhesion and
+bioﬁlm formation, we should bear the food industry’s hygiene design in mind. In order to
+prevent microorganisms entering food production, factories, and the employed hygienic
+equipment should be designed to limit microorganisms from accessing. Aseptic equipment
+must be isolated from microorganisms and foreign particulates. To prevent microorganism
+growth, equipment should be designed to prevent any areas where microorganisms can
+harbour and grow, along with gaps, crevices, and dead areas. This is also important during
+production, when microorganisms can grow very quickly under favourable conditions [96].
+According to such premises, food companies have the capacity to apply innovation
+to design the industry and its equipment. In both the USA and the European Union (EU),
+the trend in regulations in this ﬁeld is not so much command and control by government
+regulators, but lies more in self-determination by the food industry. In particular, hazard
+analysis and critical control points (HACCP) systems provide the skills to replace detailed
+regulatory requirements with the overall goals to be fulﬁlled [97]. The Food and Drug
+Administration (FDA) and the United States Department of Agriculture (USDA) Food
+Safety Inspection Service (FSIS) share primary responsibility for regulating food safety in
+the USA. One example is the recommendation for equipment and process controls: “Seams
+on food-contact surfaces shall be smoothly bonded or maintained to reduce accumulation
+of food particles, dirt, and organic matter and thus minimise the opportunity for growth of
+microorganisms” [85].
+
+European Union (EU) statutory instruments include EC regulation no. 852/2004
+(Hygiene of Foodstuffs) and EC regulation no. 853/2004 (Speciﬁc Rules Food of Animal
+Origin), which expect food manufacturers to control food safety risks by HACCP systems.
+In short, the performance of a cleaning and disinfection programme (CDP) to avoid
+bioﬁlm formation should start by aptly designing the hygiene of equipment, surfaces, and
+devices. Today the CDP is a proven effective measure in ﬁghting against bioﬁlms.
+
+4.2. Factors Associated with Bacteria
+
+Several factors associated with surfaces or bacteria can inﬂuence adhesion from the
+
+planktonic phase and bioﬁlm evolution, such as:
+
+Surfaces:
+
+•
+
+Surface charge: the adhesion sequence can be inﬂuenced by the particle surface charge
+in combination with the electrode’s surface charge.
+
+Int. J. Environ. Res. Public Health 2021, 18, 2014
+
+10 of 31
+
+• Hydrophobicity: adsorption of surface-active organics inﬂuences the surface’s hy-
+
+•
+
+•
+
+drophobic or hydrophilic character, and changes surface tension [98].
+Temperature: temperature and contact time impact the bacterial adhesion and bioﬁlm
+formation process, and increasing the formulation of mathematical models is necessary
+to assess how both factors and their interactions inﬂuence the process [99].
+Presence of substrates: adsorption of electrolyte components and the particle surface
+are equally important. Adsorption of surface-active organics impacts the surface’s
+hydrophobic or hydrophilic character, and also changes surface tension [98].
+
+Bacterial cellular surface components:
+Hydrophobic interactions tend to increase with the enhanced non-polar nature of one
+involved surface or more, and most bacteria are negatively charged [85]. This means that
+the cell surface’s hydrophobicity is a relevant factor during adhesion.
+
+•
+
+Fimbria, pili, and ﬂagella: ﬁmbriae, non-ﬂagellar appendages other than those impli-
+cated in the transfer of viral or bacterial nucleic acids (known as pili) are responsible
+for cell surface hydrophobicity. Most investigated ﬁmbriae contain a high proportion
+of hydrophobic amino acid residues [100]. Fimbriae include adhesins that attach to
+some sort of substratum so that bacteria can withstand shear forces and obtain nutri-
+ents. Therefore, ﬁmbriae play a role in cell surface hydrophobicity and attachment,
+presumably by overcoming the initial electrostatic repulsion barrier between the cell
+and the substratum [101].
+
+Studies’ responses surface methods are used to not only develop and optimise models
+for food processing systems and operations, but also to better elucidate bacterial adhe-
+sion and bioﬁlm formation processes. The response surface method provides valuable
+information to help decision making about disinfection and cleaning procedures for the
+utensils, equipment and containers employed in the food industry [102]. Hence, surfaces
+and materials of equipment, plus ﬂoors and walls, also impact bioﬁlms, along with dead
+spaces, crevices, porous and rough material surfaces, which must be eliminated to avoid
+bioﬁlm formation [12].
+
+The most adopted strategies for controlling bioﬁlms are sanitation procedures that
+combine detergents and disinfectants. Alkaline detergent eliminates organic and inorganic
+acid detergent waste from surfaces, while disinfectants reduce spoilage microorganisms,
+and diminish or eliminate pathogens, to safe levels [12]. Enzymatic detergents have
+replaced traditional alkaline and acid detergents, because enzymes (proteases, lipases,
+amylases) can remove bioﬁlms in the food industry [102] as enzymes reduce the physical
+integrity of PS by weakening the structural bonds of the lipids, proteins, and carbohydrates
+that form its structure [103]. Other advantages over detergents include low-toxicity and
+biodegradability, but application costs and requirements (temperature, time) are higher
+than detergents. This is why several detergent manufacturers have marketed a synergetic
+combination of enzymes, chelating agents, surfactants, and solvents.
+
+4.3. Disinfectants and Bioﬁlm Resistance
+
+The most widely used disinfectants in the food industry’s disinfection programmes
+are quaternary ammonium compounds (QAC), amphoteric compounds, hypochlorites,
+peroxides (peracetic acid and hydrogen peroxide) [15], aldehydes (formaldehyde, glu-
+taraldehyde, paraformaldehyde), and phenolics. This product list remains unchanged after
+18 years. Today, alkyl amines, chlorine dioxide and quaternary ammonium blends are
+incorporated into disinfection programmes. Besides these, alcohols, phenolic compounds,
+aldehydes, and chlorhexidine are also resorted to, but mostly in health services. In the food
+processing industry, disinfectants can remain on surfaces for longer due to microorganisms’
+prolonged exposure to the employed disinfectant, which improves their efﬁcacy [104].
+
+1.
+
+Sodium hypochlorite (NaOCI):
+
+It is one of the most widespread disinfectants in the food industry despite its disadvan-
+tages and the growing use of new products on the market. Its desirable reaction produces
+
+Int. J. Environ. Res. Public Health 2021, 18, 2014
+
+11 of 31
+
+both hypochlorous acid (HOCl) and the hypochlorite ion (-OCl), which are strong oxidising
+agents that eliminate cells given their ability to cross the cell membrane, and to oxidise
+the sulfhydryl groups of certain enzymes participating on the glycolytic pathway [97]. It
+has been described to react with wide-ranging biological molecules, such as proteins [105],
+amino acids [106], lipids [107], peptides [108], and DNA [109] under physiological pH
+conditions [110].
+
+However, sodium hypochlorite may be affected by organic matter because free chlo-
+rine might react with natural organic matter and be converted into inorganic chloramines
+to generate trihalomethanes, by reducing antimicrobial activity against bioﬁlms [111], and
+it is known to be less reactive than free chlorine. Peracetic acid is reported as being the
+most effective sanitiser against bioﬁlms because it is a strong oxidising agent that does not
+interact with organic matter waste [112,113].
+
+2. Quaternary ammonium:
+
+QACs, such as benzalkonium chloride, cetrimide, didecyldimethylammonium chlo-
+ride, and cetylpyridinium chloride, are cationic detergents (surfactants or surface-active
+agents). They reduce surface tension and form micelles to lead to dispersion in a liquid.
+This property is resourceful for removing microorganisms. They are membrane-active
+agents that interact with not only the cytoplasmic membrane of bacteria, but with the
+plasma membrane of yeast. Their hydrophobic activity also makes them effective against
+lipid-containing viruses. QACs interact with intracellular targets and bind to DNA [114].
+However, their efﬁcacy is still questioned given the appearance of relatively high resistance
+to Listeria monocytogenes (10%), Staphylococcus spp. (13%), and Pseudomonas spp. (30%), and
+lower resistance to lactic acid the bacteria (1.5%) and coliforms (1%) isolated from food and
+the food processing industry [115].
+
+3.
+
+Peracetic acid:
+
+In the last decade, peracetic acid (PAA) has been widely used by the food industry
+in water and wastewater treatment, even in paper machines [116], to control bioﬁlms. Its
+antimicrobial effect is probably due to the oxidation of thiol groups in proteins, disruption
+of membranes [117], or damage to bases in DNA [118]. Its use has been shown to increase
+the sensitivity of bacterial spores to heat [119]. The efﬁcacy and environmental safety of
+peracetic acid make it an attractive disinfecting agent for industrial use.
+
+Bacterial regrowth after oxidant treatment (peracetic acid and free chlorine) depends
+on the absence or presence of organic matter. The oxidation-reduction (redox) potential
+of PAA (1.385 V vs. standard hydrogen electrode or standard hydrogen electrode (SHE)
+for the redox couple of CH3COOOH(aq)/(CH3COO−
+(aq) + H2O(l))) comes close to that of
+free chlorine (1.288 V vs. SHE for the redox couple of HOCl(aq)/Cl−
+(aq)) under biochemical
+standard state conditions (pH 7.0, 25 ◦C, 101.325 Pa) [120]. For this reason, acid peracetic
+and free chlorine may have similar efﬁciencies in preventing planktonic bacteria regrowth
+in the absence of organic matter. As PAA reacts with organic matter more slowly than free
+chlorine, its self-decomposition is slower [121].
+
+Resistance to Disinfectants
+
+Bacterial resistance to disinfectants in the planktonic phase can hardly be compared to
+bioﬁlm resistance. Yet several studies have shown contrary results to widespread belief,
+such as the existence of wide interspeciﬁc variability of resistance to disinfectants. Gram-
+positive strains generally appear to better resist than Gram-negative strains. This resistance
+is also variable among strains of the same species [122].
+
+Given the growing interest in knowing bioﬁlm resistance to chlorine, quaternary
+ammonium and peracetic acid, many studies have been conducted [123]. The bacteria
+in mature bioﬁlms are 10- to 1000-fold more resistant to antibiotics than the bacteria in
+the planktonic phase [124], and this resistance appears against biocides. However, this
+natural resistance is still unknown, and probably depends on many factors, mainly of
+structural bioﬁlm barriers and genetic factors for adaptation. To explain this resistance,
+
+Int. J. Environ. Res. Public Health 2021, 18, 2014
+
+12 of 31
+
+several authors [125] have suggested three possible causes by three hypotheses: the ﬁrst
+is based on the slow or incomplete diffusion of antibiotics into inner bioﬁlm layers. The
+second lies in the changes taking place in the bioﬁlm microenvironment as some bioﬁlm
+bacteria fall into a slow growth state due to lack of nutrients or given the accumulation of
+harmful metabolites and, therefore, survive [126]. Finally, the third hypothesis indicates a
+subpopulation of cells in the bioﬁlm whose differentiation resembles the spore formation
+process. They have a unique and highly resistant phenotype to protect them from the
+effects of antibiotics, and are a biologically programmed response to the sessile life form of
+bacteria [127].
+
+In addition, aquatic fauna is less affected by PAA than by chlorine [128]. There-
+fore, PAA is considered a green alternative to chlorine for disinfection purposes, and its
+disinfection performance is currently being investigated [120].
+
+As previously mentioned, there are two very different situations for action against
+bioﬁlm formation: the food industry and the health ﬁeld. There is still a lot to do in
+both ﬁelds, but it is true that CDP is practically the only implementation in the food
+industry. The health ﬁeld has witnessed much more progress: phages [129], aerosolisa-
+tion [130], sonication brush [131], and metal ion solutions (silver, copper, platinum, gold,
+and palladium) [132].
+
+In short, some authors [133] establish two strategies for ﬁghting bioﬁlms in the food
+industry: structural modiﬁcation of surfaces or application of antibacterial or antibioﬁlm
+coatings [134]. Thus, several alternative products to classic disinfectants (chlorine, quater-
+nary ammonium, etc.), such as, plant-derived antimicrobials (essential oils: orange-sorrel,
+lemon, lavender, chamomile, peppermint, oregano), with thymol and carvacrol being the
+compounds that display more signiﬁcant antimicrobial action in shorter action times.
+
+4.4. Alternative Methods to Eliminate Bioﬁlms
+
+Phages: bacteriophages are speciﬁc “viruses” of microbial cells that are speciﬁc to the
+different serotypes or strains of microbial species, and are obligate parasites with a genetic
+parasitism [135]. Bacteriophages inject their DNA and force the cell to produce the bacte-
+riophage genome and structures (e.g., capsid and tail). When phages are complete, they
+lyse cells, which means that bacteriophage infection can destroy the entire colony [136,137].
+In the last few years, the FDA/USA approved preparing bacteriophages (LISTEX P100) to
+combat the direct presence of L. monocytogenes in foods [138,139].
+
+Aerosolisation: a disinfection method with different disinfectants applied to working
+areas by pulverisation. Several authors [138] have shown its efﬁcacy as a bioﬁlm control
+method in the food industry and hospitals by using hydrogen peroxide [140], sodium
+hypochlorite, and peracetic acid [141].
+
+Knowledge about the resistance mechanisms associated with bioﬁlm evolution could
+be primordial to develop new actions or strategies by biocides and antibiotics [142], such as
+modiﬁed wound dressings with phyto-nanostructured coatings to prevent staphylococcal
+and pseudomonal bioﬁlm development [143].
+
+Involving bacterial adherence: in recent years, new biochemistry methods have been
+studied to prevent bioﬁlm formation. The most efﬁcient strategy would interfere with
+bacterial adherence, as this ﬁrst step is paramount in bioﬁlm formation, performed by the
+direct blockage of surface receptors [144] or by a non-speciﬁc strategy, which normally
+involves compounds with anti-adherence properties [145]. Another bioﬁlm inhibition form
+would be to impede communication processes between bacteria to enter the bioﬁlm by
+employing different natural or artiﬁcially synthesised compounds [146]. One example
+of this is P. aeruginosa, which uses quorum sensing for modular bioﬁlm evolution, and
+proposes that agents are capable of blocking quorum sensing (QS), and could be useful for
+avoiding bioﬁlm formation [144].
+
+The role of the QS in bioﬁlms includes controlling the cell-to-cell communicating sys-
+tem in response to small diffusible signal molecules, such as N-acyl-homoserine lactones
+(AHLs), produced by Gram-negative bacteria [147]. It has been shown to play crucial roles
+
+Int. J. Environ. Res. Public Health 2021, 18, 2014
+
+13 of 31
+
+in bioﬁlm formation by activating the transcription of related genes [148]. Speciﬁcally,
+different AHLs have been detected in bioﬁlm reactors and several bacterial species have
+been identiﬁed to possess the capacity to produce AHLs [149]. Thus, AHLs-based QS
+has been widely reported to regulate many microbial behaviours, including EPS expres-
+sion, nitrogen transformation, organic pollutant degradation and microbial community
+construction [150].
+
+Current advances in nanoscience nanotechnology and nanosensors [151] have emerged
+for applications to detect microorganisms and bioﬁlms [152] with high sensitivity and good
+spatial resolution on nanoscale scopes [153]. Recent works have been published on imaging
+approaches of bioﬁlm microprocesses [154], in-situ surface-enhanced Raman Scattering
+(SERS) analyses, bioﬁlm visualisation [155] and biosensors of bacteria in foods [156]. The
+enormous advantages and great potential observed in bioassays based on multifunctional
+optical nanosensors are promising to continue with a view to ensure and promote food
+safety and quality. From the detection targets perspective, QS detection might become a
+new bioﬁlm research trend based on evidence that bioﬁlm formation can be inhibited by
+blocking QS [151].
+
+5. Bioﬁlm Identiﬁcation Techniques and Methods to Visualise Bioﬁlms In Situ
+5.1. General Aspects of Bioﬁlm Study Techniques
+
+Doubtlessly, bioﬁlms can pose a major challenge in both clinical microbiology and
+hygiene food areas. In the latter area, several authors consider them a real threat. Currently,
+methods aim to analyse bioﬁlm formation and development, which have not yet been
+standardised. Different methods have been followed to qualitatively and quantitatively
+evaluate bioﬁlms, and each one is useful for estimating one peculiar bioﬁlm lifestyle
+aspect [157]. Nevertheless, research to identify and acquire knowledge of bioﬁlms has
+allowed distinct techniques to be developed and adapted from microbiology or cell histol-
+ogy. It is essential to evaluate bioﬁlm formation for a sensitive, speciﬁc and reproducible
+methodology for bioﬁlm quantiﬁcation to become available.
+
+Different approaches classify the methods followed to detection bioﬁlms on very
+distinct surfaces: (i) the simplest classiﬁcation of methods is direct or indirect [17]. (ii)
+Rapid tests of hygienic control, and methods for microscopic, biomolecular, extracellular
+polymeric, physical, or chemical substances (EPS) are another possible classiﬁcation [158].
+(iii) A recent publication [159] only refers to the technology of the referred methods being
+classiﬁed as physics, physico-chemistry or chemistry, and recommends three effective
+approaches for testing bioﬁlms: (a) observations by various microscopic methods with
+different view ﬁelds at the same point; (b) in-depth data analyses during microscopic
+image processing; (c) a combination study using atomic force microscopy (AFM) and
+chemical analysis. Perhaps this is the most advanced and appropriate methodology for
+bioﬁlm analyses, where the detailed image of the surface will help to build a relation
+among the bioﬁlm matrix, interactions and other factors like pH, surfaces [159]. However,
+there is another case in which bacterial species can help to reduce bioﬁlms, where Bacillus
+licheniformis can express hydrolytic enzymes capable of reducing detrimental bioﬁlms [160].
+Therefore, depending on the set objectives, that is, what we wish to achieve with
+the bioﬁlm, we should choose a technique according to our study. Not all techniques are
+suitable for a certain purpose, but might be compatible. Thus, some methods are suited for
+quantifying the bioﬁlm matrix, while others are able to evaluate both living and dead cells,
+or exclusively quantify viable cells in bioﬁlms.
+
+By considering the complexity and heterogeneity of the bioﬁlm structure, the exact
+research objective should be set. The amount of EPS, the total number of bacterial cells
+embedded in bioﬁlms, or the actual number of living bacteria in bioﬁlms must be consid-
+ered to be different targets that require distinct experimental approaches [157]. We should
+bear in mind that the bioﬁlm volume is constituted mainly by an extracellular matrix
+(95–65% range), which is composed mostly of proteins (>2%), and other constituents, such
+as polysaccharides (1–2%), DNA molecules (<1%), RNA (<1%), ions (bound and free),
+
+Int. J. Environ. Res. Public Health 2021, 18, 2014
+
+14 of 31
+
+and ﬁnally 97% water [161]. Thus, the bioﬁlm research methodology should address the
+identiﬁcation of bacteria and other matrix constituents.
+
+In order to obtain a fundamental understanding of the formation and presence of
+bacterial bioﬁlms, our analysis should include the detection of bacteria and the matrix.
+The most frequently followed methods to assess bioﬁlm heterogeneity are direct micro-
+scopic imaging of the local bioﬁlm morphology or microscopic measurements of local
+bioﬁlm thickness [162]. For many applications, time-lapse microscopy with Confocal Laser
+Scanning Microscopy (CLSM) is an ideal tool for monitoring at a spatial resolution in the
+order of micrometres, and it allows the non-destructive study of bioﬁlms by examining
+all layers at different depths. In this way, it is possible to reconstruct a three-dimensional
+structure [163]. Matrix detection can be achieved by a double-staining technique combined
+with CLSM, which allows the simultaneous imaging of bacterial cells and glycocalyx in
+bioﬁlms [164].
+
+5.2. Colorimetric Methods
+5.2.1. Evaluating the Bioﬁlm Matrix
+
+Staining the bioﬁlms grown in microtiter plates wells is widely utilised by researchers
+to screen and compare bioﬁlm formation by different bacteria or under various condi-
+tions [165]. Of the methods described in the literature, crystal violet (CAS number 931418
+92 7) [166] is the most widespread for bioﬁlm biomass quantiﬁcation [167,168]. This basic
+dye binds negatively charged molecules and, thus, stains are able to dye both bacteria and
+the surrounding bioﬁlm matrix. Acetic acid can be used as the extraction solvent and be
+measured by absorbance at 700–600 nm. Safranin staining can also be employed for bioﬁlm
+biomass quantiﬁcation [165,169], but results in lower optical densities than crystal violet
+staining and, therefore, may not be as sensitive to detect small amounts of bioﬁlm [165].
+
+Crystal violet staining tests the concentration of the dye incorporated into bacterial
+cell walls, and depends on cells’ integrity, but not on viability. However, other methods like
+ATP bioluminescence report the cell’s metabolic status and drops to undetectable limits
+within minutes after cell death. Resorting to both methods can provide supplementary
+information on the cell exposed to disinfectant. The results can indicate that, despite the
+drastic drop in viable cell numbers in the bioﬁlm after disinfectant treatment, a signiﬁcant
+number of intact cells, or cellular debris, may still be capable of retaining the dye. This
+observation leads to the question about the reliability of crystal violet staining as a method
+to monitor bioﬁlm disinfection [170].
+
+Another colorimetric method for living cells is ﬂuorescein diacetate (CAS number
+596 09 8), which employs a useful live-cell ﬂuorescent stain that is hydrolysed to ﬂuorescent
+ﬂuorescein in live cells. The signal can be spectrophotometrically measured. This is suitable
+for cell viability assays with intact membranes as dead cells are unable to metabolise
+ﬂuorescein diacetate. Thus, there is no ﬂuorescent signal [157].
+
+5.2.2. Cell Staining
+
+Visualising a cell with ﬂuorescent compounds provides a wide variety of information
+to analyse cell functions. Various activities and cell structures can be targeted for staining
+with ﬂuorescent compounds [171]. These cell components are mostly cell membranes,
+nucleotides, and proteins. The stain can pass to cells depending on the molecule charge,
+hydrophobicity, or reactivity. Thus, small neutral and positively charged ﬂuorescent
+compounds can normally reach mitochondria for dyeing. Negatively charged molecules
+cannot pass through viable cell membranes. Ester is a suitable functional group for staining
+viable cells because it can pass through viable cell membranes, where it is hydrolysed by
+cellular esterases into a negatively charged compound [171].
+
+Other complementary techniques can be run to examine the performances of advanced
+microscopic techniques employed to study microbial bioﬁlms (i.e., confocal laser scanning
+microscopy, mass spectrometry, electron microscopy, Raman spectroscopy) [157].
+
+Int. J. Environ. Res. Public Health 2021, 18, 2014
+
+15 of 31
+
+Spectroﬂuorometric assays for the quantiﬁcation of bioﬁlms of gram-negative and
+gram-positive bacteria is a method that utilises the speciﬁc binding of the wheat germ
+agglutinin-Alexa Fluor 488 conjugate (WGA) to N-acetylglucosamine in bioﬁlms [172].
+This lectin conjugate also binds to N-acetylneuraminic acid on the peptidoglycan layer
+of gram-positive bacteria. WGA speciﬁcally binds to polysaccharide adhesin (poly N-
+acetylglucosamine), which is involved in bioﬁlm formation by both gram-positive and
+gram-negative bacteria. Burton et al. [172] compared the colorimetric assay with the
+spectroﬂuorometric assay, whose results revealed that WGA staining may be a more
+speciﬁc means of E. coli and Staphylococcus epidermidis bioﬁlm detection and quantiﬁcation.
+
+5.2.3. LIVE/DEAD
+
+This method is based on employing two different nucleic acid binding stains. The
+ﬁrst dye is green ﬂuorescent (Syto9, λex 486 nm and λem 501 nm), which is able to cross
+all bacterial membranes and bind to the DNA of both Gram-positive and Gram-negative
+bacteria. The second dye is red-ﬂuorescent (propidium-iodide (PI), CAS number 25535-16-4,
+λex 530 nm and λem 620 nm), which crosses only damaged bacterial membranes. Stained
+samples are observed under a ﬂuorescent optical microscopy to evaluate live and dead
+bacterial populations (see Figures 3–5). In fact, live bacteria ﬂuoresce in green and dead
+bacteria ﬂuoresce in orange/red [173]. The efﬁciency of both stains is conditioned by some
+factors, such as the reagent’s binding afﬁnity to cells [169], physiological cell state [174],
+reagent concentration [175], and temperature and incubation time [176].
+
+Both stains are suitable for use in ﬂuorescence microscopy, confocal laser scanning mi-
+croscopy, ﬂuorometry ﬂow and cytometry, and can be employed as a nuclear counterstain.
+LIVE/DEAD staining cannot be performed for the direct staining of bioﬁlms on surfaces
+because of interference between the stain and polysaccharides of the bioﬁlm matrix and
+slime [177].
+
+This method’s main downside involves having to observe a statistically relevant
+portion of the sample, which is representative of the whole population. Overall, the
+method provides only semiquantitative results because the total count of bacterial cells
+is not possible [178]. Nevertheless, this inconvenience can be prevented by employing
+imaging software, such as cellSens®, which can count and measure cells depending on the
+staining cell.
+
+Figure 3. Planktonic state of Pseudomonas ﬂuorescens stained with LIVE/DEAD (SYTO 9 and propid-
+ium iodine) after treatment with sodium hypochlorite (500 ppm) for 15 min. Viable bacteria (green)
+and damaged bacteria (red). Magniﬁcation ×100.
+
+Int. J. Environ. Res. Public Health 2021, 18, x FOR PEER REVIEW 16 of 32   Figure 3. Planktonic state of Pseudomonas fluorescens stained with LIVE/DEAD (SYTO 9 and propid-ium iodine) after treatment with sodium hypochlorite (500 ppm) for 15 minutes. Viable bacteria (green) and damaged bacteria (red). Magnification ×100.  Figure 4. Planktonic state of Pseudomonas fluorescens stained with LIVE/DEAD (SYTO 9 and propid-ium iodine) after treatment with peracetic acid (250 ppm) for 15 min. Viable bacteria (green) and damaged bacteria (red). Magnification ×100. Int. J. Environ. Res. Public Health 2021, 18, 2014
+
+16 of 31
+
+Figure 4. Planktonic state of Pseudomonas ﬂuorescens stained with LIVE/DEAD (SYTO 9 and propid-
+ium iodine) after treatment with peracetic acid (250 ppm) for 15 min. Viable bacteria (green) and
+damaged bacteria (red). Magniﬁcation ×100.
+
+Figure 5. Planktonic state of Pseudomonas ﬂuorescens stained with LIVE/DEAD (SYTO 9 and propid-
+ium iodine) after treatment with Sodium hypochlorite (350 ppm) for 15 min. Viable bacteria (green)
+and damaged bacteria (red). Magniﬁcation ×100.
+
+5.2.4. Different Fluorescents Stainings
+
+The application of ﬂuorescent stains to cells and food soil can be useful for the quantita-
+tive analysis of surface cleanability. Thus, the stain combination and working concentration
+are essential for assessing the hygienic conditions of surfaces [179] or testing disinfectant
+efﬁcacy against bacteria. Different methods can be followed to visualise and differentiate
+cells and organic matter. The staining techniques to measure surface coverage by the two
+
+Int. J. Environ. Res. Public Health 2021, 18, x FOR PEER REVIEW 16 of 32   Figure 3. Planktonic state of Pseudomonas fluorescens stained with LIVE/DEAD (SYTO 9 and propid-ium iodine) after treatment with sodium hypochlorite (500 ppm) for 15 minutes. Viable bacteria (green) and damaged bacteria (red). Magnification ×100.  Figure 4. Planktonic state of Pseudomonas fluorescens stained with LIVE/DEAD (SYTO 9 and propid-ium iodine) after treatment with peracetic acid (250 ppm) for 15 min. Viable bacteria (green) and damaged bacteria (red). Magnification ×100. Int. J. Environ. Res. Public Health 2021, 18, x FOR PEER REVIEW 17 of 32   Figure 5. Planktonic state of Pseudomonas fluorescens stained with LIVE/DEAD (SYTO 9 and propid-ium iodine) after treatment with Sodium hypochlorite (350 ppm) for 15 min. Viable bacteria (green) and damaged bacteria (red). Magnification ×100. Both stains are suitable for use in fluorescence microscopy, confocal laser scanning microscopy, fluorometry flow and cytometry, and can be employed as a nuclear counter-stain. LIVE/DEAD staining cannot be performed for the direct staining of biofilms on sur-faces because of interference between the stain and polysaccharides of the biofilm matrix and slime [177]. This method’s main downside involves having to observe a statistically relevant por-tion of the sample, which is representative of the whole population. Overall, the method provides only semiquantitative results because the total count of bacterial cells is not pos-sible [178]. Nevertheless, this inconvenience can be prevented by employing imaging soft-ware, such as cellSens®, which can count and measure cells depending on the staining cell.  5.2.4. Different Fluorescents Stainings The application of fluorescent stains to cells and food soil can be useful for the quan-titative analysis of surface cleanability. Thus, the stain combination and working concen-tration are essential for assessing the hygienic conditions of surfaces [179] or testing dis-infectant efficacy against bacteria. Different methods can be followed to visualise and dif-ferentiate cells and organic matter. The staining techniques to measure surface coverage by the two stains by image analysis are highlighted [180] using DAPI and Rhodamine B, DAPI and Fluorescein, or non-specific stains, such as acridine orange, and are also avail-able and specific for particular organic matter [180], and/or for microorganisms [181].  The use of different staining types can be explained by the results obtained in each study after checking the best biofilm and cells staining. These results depend on bacterial species, residual organic matter on surfaces, pH, disinfectant, etc. Whitehead et al. [182] conducted a large study with different dyeing, and concluded that the best combination was DAPI (CAS no. 28718-90-3, λex 340 nm, λem 488 nm, blue) and Rhodamine B (CAS no. 81-88-9, λex 553 nm, λem 627 nm, red), as it allowed the quantitative determination of L. monocytogenes and whey on a surface with fluorescent staining under epifluorescence mi-croscopy. It is also useful for demonstrating the hygienic status of surfaces (Figures 7 and 8). The other tested staining procedures were unsatisfactory, or only slightly so, for dis-tinguishing between viable and dead cells [182].  DAPI staining is suitable for studying cell viability in planktonic situations (initial attachment) and biofilms attached to surfaces (proliferation and growth–maturation) (Fi-gure 6). Nevertheless, coculture biofilm studies need to spatially discriminate between Int. J. Environ. Res. Public Health 2021, 18, 2014
+
+17 of 31
+
+stains by image analysis are highlighted [180] using DAPI and Rhodamine B, DAPI and
+Fluorescein, or non-speciﬁc stains, such as acridine orange, and are also available and
+speciﬁc for particular organic matter [180], and/or for microorganisms [181].
+
+The use of different staining types can be explained by the results obtained in each
+study after checking the best bioﬁlm and cells staining. These results depend on bacterial
+species, residual organic matter on surfaces, pH, disinfectant, etc. Whitehead et al. [182]
+conducted a large study with different dyeing, and concluded that the best combination
+was DAPI (CAS no. 28718-90-3, λex 340 nm, λem 488 nm, blue) and Rhodamine B (CAS no.
+81-88-9, λex 553 nm, λem 627 nm, red), as it allowed the quantitative determination of L.
+monocytogenes and whey on a surface with ﬂuorescent staining under epiﬂuorescence mi-
+croscopy. It is also useful for demonstrating the hygienic status of surfaces (Figures 7 and 8).
+The other tested staining procedures were unsatisfactory, or only slightly so, for distin-
+guishing between viable and dead cells [182].
+
+DAPI staining is suitable for studying cell viability in planktonic situations (ini-
+tial attachment) and bioﬁlms attached to surfaces (proliferation and growth–maturation)
+(Figure 6). Nevertheless, coculture bioﬁlm studies need to spatially discriminate between
+species, and classic methods, such as crystal violet (CV), SYTO9/propidium iodide, and
+DAPI staining are insufﬁcient given their non-speciﬁc nature [183], and selectively bind
+to each species. This burden can be overcome by applications, such as mutants express-
+ing green ﬂuorescent protein (GFP) [182,184], ﬂuorescently labelled antibodies [185], and
+ﬂuorescence in situ hybridisation (FISH).
+
+The DAPI/Rhodamine B combination in bioﬁlms offers the best resolution and quan-
+tiﬁcation power between cells and organic matter (Figures 6–8). Several authors, such as
+Almeida et al. [183], have applied peptide nucleic acid ﬂuorescence in situ hybridization
+(PNA FISH) combined with DAPI as a steady method to evaluate, validate, quantify, and
+characterise the initial adhesion and bioﬁlm formation of three microorganisms: Salmonella
+enterica, Listeria monocytogenes and Escherichia coli.
+
+Figure 6. Pseudomonas aeruginosa bioﬁlm on the stainless steel coupons. Stained with DAPI
+(0.1 mg/mL; 10 µL) (Magniﬁcation ×100).
+
+Int. J. Environ. Res. Public Health 2021, 18, x FOR PEER REVIEW 18 of 32  species, and classic methods, such as crystal violet (CV), SYTO9/propidium iodide, and DAPI staining are insufficient given their non-specific nature [183], and selectively bind to each species. This burden can be overcome by applications, such as mutants expressing green fluorescent protein (GFP) [182,184], fluorescently labelled antibodies [185], and flu-orescence in situ hybridisation (FISH).  The DAPI/Rhodamine B combination in biofilms offers the best resolution and quan-tification power between cells and organic matter (Figures 6–8). Several authors, such as Almeida et al. [183], have applied peptide nucleic acid fluorescence in situ hybridization (PNA FISH) combined with DAPI as a steady method to evaluate, validate, quantify, and characterise the initial adhesion and biofilm formation of three microorganisms: Salmo-nella enterica, Listeria monocytogenes and Escherichia coli.  Figure 6. Pseudomonas aeruginosa biofilm on the stainless steel coupons. Stained with DAPI (0.1 mg/mL; 10 µL) (Magnification ×100).  Figure 7. Pseudomonas fluorescens biofilm (24 h) on the stainless steel. Coupons stained with DAPI (0.1 mg/mL; 10 µL) and Rhodamine B (0.1mg/mL; 10 µL) (Magnification × 100). Int. J. Environ. Res. Public Health 2021, 18, 2014
+
+18 of 31
+
+Figure 7. Pseudomonas ﬂuorescens bioﬁlm (24 h) on the stainless steel. Coupons stained with DAPI
+(0.1 mg/mL; 10 µL) and Rhodamine B (0.1 mg/mL; 10 µL) (Magniﬁcation ×100).
+
+Figure 8. Pseudomonas ﬂuorescens bioﬁlm (7 days) on the stainless steel. Coupons stained with DAPI
+(0.1 mg/mL; 10 µL) and Rhodamine B (0.1 mg/mL; 10 µL) (Magniﬁcation ×100).
+
+5.2.5. Confocal Laser Scanning Microscopy (CLSM)
+
+Confocal laser scanning microscopy (CLSM) is an optical microscope equipped with a
+laser beam that is particularly useful for examining thick samples like microbial bioﬁlms.
+Samples are stained with speciﬁc ﬂuorescent dye insofar as the ﬂuorescent light from
+
+Int. J. Environ. Res. Public Health 2021, 18, x FOR PEER REVIEW 18 of 32  species, and classic methods, such as crystal violet (CV), SYTO9/propidium iodide, and DAPI staining are insufficient given their non-specific nature [183], and selectively bind to each species. This burden can be overcome by applications, such as mutants expressing green fluorescent protein (GFP) [182,184], fluorescently labelled antibodies [185], and flu-orescence in situ hybridisation (FISH).  The DAPI/Rhodamine B combination in biofilms offers the best resolution and quan-tification power between cells and organic matter (Figures 6–8). Several authors, such as Almeida et al. [183], have applied peptide nucleic acid fluorescence in situ hybridization (PNA FISH) combined with DAPI as a steady method to evaluate, validate, quantify, and characterise the initial adhesion and biofilm formation of three microorganisms: Salmo-nella enterica, Listeria monocytogenes and Escherichia coli.  Figure 6. Pseudomonas aeruginosa biofilm on the stainless steel coupons. Stained with DAPI (0.1 mg/mL; 10 µL) (Magnification ×100).  Figure 7. Pseudomonas fluorescens biofilm (24 h) on the stainless steel. Coupons stained with DAPI (0.1 mg/mL; 10 µL) and Rhodamine B (0.1mg/mL; 10 µL) (Magnification × 100). Int. J. Environ. Res. Public Health 2021, 18, x FOR PEER REVIEW 19 of 32   Figure 8. Pseudomonas fluorescens biofilm (7 days) on the stainless steel. Coupons stained with DAPI (0.1 mg/mL; 10 µL) and Rhodamine B (0.1mg/mL; 10 µL) (Magnification × 100). 5.2.5. Confocal Laser Scanning Microscopy (CLSM) Confocal laser scanning microscopy (CLSM) is an optical microscope equipped with a laser beam that is particularly useful for examining thick samples like microbial biofilms. Samples are stained with specific fluorescent dye insofar as the fluorescent light from the illuminated spot is collected on the objective and transformed by a photodiode into an electrical signal to be computer-processed [160] given the complexity of the microbial bio-film’s extracellular matrix formed by heterogeneous compounds: polysaccharide, lipids, enzymes, extracellular DNA, and proteins [186].  However, no fluorescence labelling method is currently available for visualising the whole biofilm matrix owing to its different compositions, which depend on each bacte-rium and environmental condition, which means that each matrix component must be individually stained. Unfortunately, however, a general stain for polysaccharides does not exist because the chemical structure of matrix polysaccharides differs between distinct bacteria: Gram + and Gram− [186]. Extracellular DNA has been related to bacterial attachment and early biofilm for-mation stages in many species across the phylogenetic tree. These findings were discov-ered by employing combined stains, such as PicoGreen® and SYTOX®, PI, 1,3-dichloro-7-hydroxy-9,9-dimethyl-2(9H)-acridinone (DDAO), TOTO®-1, TO-PRO® 3. Most reports employed DDAO for staining eDNA in biofilms after the first publications by Allesen-Holm et al. [187] and Conover et al. [188]. Excellent efficacy has been reported for TOTO®-1, SYTOX® Green, while PI provides the most reliable results. TO-PRO®-3 and DDAO are not completely cell-impermeant [189]. With biofilm proteins, which may sometimes be more important than polysaccha-rides, this occurs in cell wall-anchored proteins in Staphylococcus aureus and S. epidermidis, and contributes to aggregation by homophilic interactions [190], or interacts with matrix components that originate from the host, such as fibronectin, collagen, or fibrin [191]. These biofilm proteins can be visualised with strains FilmTracer™ SyPro® [192]. Several proteins also play a key role in the P. aeruginosa biofilm matrix, such as CdrA and others, perform functions that range from nutrient acquisition to protection from oxidative stress [193]. Moreover, serine-protease inhibitor ecotin has been identified as a matrix protein that binds to Psl [194]. Int. J. Environ. Res. Public Health 2021, 18, 2014
+
+19 of 31
+
+the illuminated spot is collected on the objective and transformed by a photodiode into
+an electrical signal to be computer-processed [160] given the complexity of the microbial
+bioﬁlm’s extracellular matrix formed by heterogeneous compounds: polysaccharide, lipids,
+enzymes, extracellular DNA, and proteins [186].
+
+However, no ﬂuorescence labelling method is currently available for visualising
+the whole bioﬁlm matrix owing to its different compositions, which depend on each
+bacterium and environmental condition, which means that each matrix component must
+be individually stained. Unfortunately, however, a general stain for polysaccharides does
+not exist because the chemical structure of matrix polysaccharides differs between distinct
+bacteria: Gram + and Gram− [186].
+
+Extracellular DNA has been related to bacterial attachment and early bioﬁlm formation
+stages in many species across the phylogenetic tree. These ﬁndings were discovered by
+employing combined stains, such as PicoGreen® and SYTOX®, PI, 1,3-dichloro-7-hydroxy-
+9,9-dimethyl-2(9H)-acridinone (DDAO), TOTO®-1, TO-PRO® 3. Most reports employed
+DDAO for staining eDNA in bioﬁlms after the ﬁrst publications by Allesen-Holm et al. [187]
+and Conover et al. [188]. Excellent efﬁcacy has been reported for TOTO®-1, SYTOX® Green,
+while PI provides the most reliable results. TO-PRO®-3 and DDAO are not completely
+cell-impermeant [189].
+
+With bioﬁlm proteins, which may sometimes be more important than polysaccharides,
+this occurs in cell wall-anchored proteins in Staphylococcus aureus and S. epidermidis, and
+contributes to aggregation by homophilic interactions [190], or interacts with matrix com-
+ponents that originate from the host, such as ﬁbronectin, collagen, or ﬁbrin [191]. These
+bioﬁlm proteins can be visualised with strains FilmTracer™ SyPro® [192]. Several proteins
+also play a key role in the P. aeruginosa bioﬁlm matrix, such as CdrA and others, perform
+functions that range from nutrient acquisition to protection from oxidative stress [193].
+Moreover, serine-protease inhibitor ecotin has been identiﬁed as a matrix protein that binds
+to Psl [194].
+
+Nowadays, confocal microscopy is a relevant tool for studying the structure of bioﬁlms
+thanks to its excellent real-time visualisation capability of fully hydrated living samples.
+The limitation of light microscopy’s spatial resolution is improved by a ﬂuorescence tech-
+nique and by coupling CLSM with other imaging techniques [157]. The PNA FISH and
+CLSM combination allows the spatial organisation of and changes in speciﬁc members
+of complex microbial populations to be studied without disturbing the bioﬁlm struc-
+ture [195,196].
+
+5.3. Raman Microscopy (RM)
+
+This non-destructive analytical technique provides ﬁngerprint spectra with the spatial
+resolution of an optical microscope [197]. This original technique permits the quantitative,
+label-free, non-invasive, and rapid monitoring of biochemical changes in complex bioﬁlm
+matrices with high sensitivity and speciﬁcity [198]. Raman spectra studies are characterised
+by high speciﬁcity, and by usually revealing sharper clearer bands than IR spectra, and
+a small water background. Compared to IR microscopy, excitation with visible light
+can be employed in Raman spectroscopy, which allows standard optics to be utilised.
+Other advantages include its application to characterise and identify different biological
+systems (fungi, bacteria, yeasts) because all biologically associated molecules (e.g., nucleic
+acids, proteins, lipids, carbohydrates) exhibit distinct spectral features [197]. Therefore,
+Ivleva et al. [197] analysed seven different speciﬁc microorganisms by RM to characterise
+microorganisms in bioﬁlms.
+
+Another author evaluated the antibiotic effect on bioﬁlms [198], and the oxidation
+of graphene as antibacterial activity against the Pseudomonas putida bioﬁlm with variable
+ages [199].
+
+Int. J. Environ. Res. Public Health 2021, 18, 2014
+
+20 of 31
+
+5.4. Scanning Electron Microscopy (SEM)
+
+Scanning electron microscopy (SEM) provides useful information about size, shape,
+and localisation in the bioﬁlms of single bacteria, and in bioﬁlm formation process steps
+about bacterial interactions and EPS production [200]. Surface topography has been
+widely discussed as a parameter that inﬂuences microbial adhesion. In line with this, the
+experiments by Kouider et al. [201], which employed SEM to establish the effect of stainless
+steel surface roughness on Staphylococcus aureus adhesion, revealed that the adhesion level
+largely depends on substrate roughness with a maximum at Ra = 0.025 µm and a minimum
+at Ra = 0.8 µm. [202]. Mallouki et al. studied the anti-adhesive effect of fucans by SEM and
+a MATLAB programme to determine the number and characteristics of adhered cells [203].
+SEM has been extensively used to qualitatively observe bioﬁlm disruption owing
+to its high resolution, and is usually applied in combination with biological assays of
+bioﬁlm removal efﬁciency [204,205]. With SEM images, simple thresholding cannot often
+be implemented because bioﬁlm normal surface intensity values are similar due to the
+same effective contrast seen by SEM. Rough (textured) biomaterial surfaces complicate
+image analyses, and advanced segmentation methods, such as semi-supervised machine-
+learning techniques, are usually needed [206]. The bioﬁlm might be segmented from
+the surface using the Trainable Weka Segmentation plugin, which utilises a collection of
+machine-learning algorithms for segmentation purposes [207].
+
+As with other previously mentioned techniques, SEM is a widely used resource for
+conﬁrming the presence of bacteria and the exopolysaccharide matrix when studying
+bioﬁlms (Figures 9–11). These studies usually obtain SEM results and are supplemented
+with the results of other techniques like confocal [208,209], surface-enhanced Raman scat-
+tering (SERS) spectroscopy [210], epiﬂuorescence microscopy (DAPI/Rhodamine B), and
+contact plates [211].
+
+Figure 9. Scanning electronic microscopy (SEM) images of stainless steel of 3-day bioﬁlms formed by
+Pseudomonas ﬂuorescens.
+
+Int. J. Environ. Res. Public Health 2021, 18, x FOR PEER REVIEW 21 of 32   Figure 9. Scanning electronic microscopy (SEM) images of stainless steel of 3-day biofilms formed by Pseudomonas fluorescens.  Figure 10. Scanning electronic microscopy (SEM) images of stainless steel of 7-day biofilms formed by Pseudomonas fluorescens. Int. J. Environ. Res. Public Health 2021, 18, 2014
+
+21 of 31
+
+Figure 10. Scanning electronic microscopy (SEM) images of stainless steel of 7-day bioﬁlms formed
+by Pseudomonas ﬂuorescens.
+
+Figure 11. Scanning electronic microscopy (SEM) images of stainless steel of 7-day bioﬁlms formed
+by Pseudomonas ﬂuorescens after treatment with peracetic acid (250 ppm) for 15 min.
+
+5.5. Microbiological Methods
+
+The estimation of the total number of organisms (total viable count) is the most widely
+used technique to estimate bioﬁlm viable cells. This count is done on agar media and its
+result is colony-forming units (CFU). Based on the serial dilution series approach followed
+
+Int. J. Environ. Res. Public Health 2021, 18, x FOR PEER REVIEW 21 of 32   Figure 9. Scanning electronic microscopy (SEM) images of stainless steel of 3-day biofilms formed by Pseudomonas fluorescens.  Figure 10. Scanning electronic microscopy (SEM) images of stainless steel of 7-day biofilms formed by Pseudomonas fluorescens. Int. J. Environ. Res. Public Health 2021, 18, x FOR PEER REVIEW 22 of 32   Figure 11. Scanning electronic microscopy (SEM) images of stainless steel of 7-day biofilms formed by Pseudomonas fluorescens after treatment with peracetic acid (250 ppm) for 15 min. 5.5. Microbiological Methods The estimation of the total number of organisms (total viable count) is the most widely used technique to estimate biofilm viable cells. This count is done on agar media and its result is colony-forming units (CFU). Based on the serial dilution series approach followed to quantify microorganisms, this technique is easy and requires no special equip-ment [158]. Surface samples (stainless steel, plastic, rubber coupons) with biofilms are an-alysed by swab or sonication, and transferred to agar plates. This culture medium can be specific for either the studied species or non-specific species (plate count agar media). Several authors like [212] discovered that some bacterial species can enter a distinct state called the viable, but non-culturable (VBNC) state. These living cells have lost the ability to grow on plate agar media. However, this method has serious drawbacks and limitations [213]: (i) the fraction of detached live cells may not be representative of the initial biofilm population; (ii) a subpopulation of biofilm cells can be viable, but non-cul-turable (VBNC), and cannot be detected by the CFU approach for the CFU estimation of the recovery and quantification of viable biofilm cells. Several authors, such as Cerca et al. [214] and Olivera et al. [215], have proposed applying flow cytometry coupled with a few possible fluorophores as an alternative to the total viable count from biofilms because flow cytometry solves both CFU counting limitations by distinguishing total, dead, and VBNC. The total viable count technique is fundamental for the evolution of biofilm studies, as are studies about the efficacy of industrial disinfectants and increased resistance to the application of different disinfectants. Table 2 shows some results of disinfectant efficacy against several bacterial species.   Int. J. Environ. Res. Public Health 2021, 18, 2014
+
+22 of 31
+
+to quantify microorganisms, this technique is easy and requires no special equipment [158].
+Surface samples (stainless steel, plastic, rubber coupons) with bioﬁlms are analysed by
+swab or sonication, and transferred to agar plates. This culture medium can be speciﬁc for
+either the studied species or non-speciﬁc species (plate count agar media).
+
+Several authors like [212] discovered that some bacterial species can enter a distinct
+state called the viable, but non-culturable (VBNC) state. These living cells have lost the
+ability to grow on plate agar media. However, this method has serious drawbacks and
+limitations [213]: (i) the fraction of detached live cells may not be representative of the initial
+bioﬁlm population; (ii) a subpopulation of bioﬁlm cells can be viable, but non-culturable
+(VBNC), and cannot be detected by the CFU approach for the CFU estimation of the
+recovery and quantiﬁcation of viable bioﬁlm cells. Several authors, such as Cerca et al. [214]
+and Olivera et al. [215], have proposed applying ﬂow cytometry coupled with a few
+possible ﬂuorophores as an alternative to the total viable count from bioﬁlms because ﬂow
+cytometry solves both CFU counting limitations by distinguishing total, dead, and VBNC.
+The total viable count technique is fundamental for the evolution of bioﬁlm studies,
+as are studies about the efﬁcacy of industrial disinfectants and increased resistance to the
+application of different disinfectants. Table 2 shows some results of disinfectant efﬁcacy
+against several bacterial species.
+
+Table 2. Resistance of several bacterial species to disinfectant on different material surfaces.
+
+Bacterial Species
+
+Disinfectant
+
+ppm or %
+
+Surfaces
+
+Bioﬁlm. Log
+Reduction CFU
+
+Reference
+
+S. aureus
+Cronobacter Sakazakii
+S. Typhimurium
+S. aeruginosa
+S. aeruginosa
+B. cereus
+Enterococcus faecium
+E. faecium
+Rhodococcus erythropolis
+R. erythropolis
+R. erythropolis
+R. erythropolis
+Sphingomonas sp.
+Sphingomonas sp.
+Sphingomonas sp.
+Sphingomonas sp.
+Methylobacterium
+rhodesianum
+M. rhodesianum
+M. rhodesianum
+M. rhodesianum
+L. monocytogenes
+L. monocytogenes
+L. monocytogenes
+L. monocytogenes
+L. monocytogenes
+L. monocytogenes
+L. monocytogenes
+L. monocytogenes
+L. monocytogenes
+L. monocytogenes
+L. monocytogenes
+L. monocytogenes
+L. monocytogenes
+L. monocytogenes
+L. monocytogenes
+L. monocytogenes
+L. monocytogenes
+L. monocytogenes
+
+Sodium hypochlorite
+Sodium hypochlorite
+Sodium hypochlorite
+Sodium hypochlorite
+Sodium hypochlorite
+NaOH and HNO3, 65 ◦C
+Sodium hypochlorite
+Peracetic acid
+Alkyl amine
+Peracetic acid
+Sodium hypochlorite
+QAC
+Alkyl amine
+Peracetic acid
+Sodium hypochlorite
+QAC
+
+Alkyl amine
+
+Peracetic acid
+Sodium hypochlorite
+QAC
+Sodium hydroxide
+QAC
+Sodium hypochlorite
+Peracetic acid
+Sodium hydroxide
+QAC
+Sodium hypochlorite
+Peracetic acid
+Sodium hydroxide
+QAC
+Sodium hypochlorite
+Peracetic acid
+Sodium hydroxide
+QAC
+Sodium hypochlorite
+Peracetic acid
+Benzalkonium chloride
+Benzalkonium chloride
+
+250
+250
+250
+250, 500
+750, 1000
+1%
+100
+300
+1–1.3%
+0.2%
+0.5–1%
+200
+1–1.3%
+0.2%
+0.5–1%
+200
+
+1–1.3%
+
+0.2%
+0.5–1%
+200
+0.5%
+0.5%
+0.5%
+0.5%
+0.5%
+0.5%
+0.5%
+0.5%
+0.5%
+0.5%
+0.5%
+0.5%
+0.5%
+0.5%
+0.5%
+0.5%
+100–10,000
+10
+
+Stainless steel/PP
+Stainless steel/PP
+Stainless steel/PP
+Stainless steel 316
+Stainless steel 316
+CIP dairy
+Stainless steel
+Stainless steel
+Stainless steel
+Stainless steel
+Stainless steel
+Stainless steel
+Stainless steel
+Stainless steel
+Stainless steel
+Stainless steel
+
+Stainless steel
+
+Stainless steel
+Stainless steel
+Stainless steel
+Rubber
+Rubber
+Rubber
+Rubber
+Polypropylene
+Polypropylene
+Polypropylene
+Polypropylene
+Stainless steel
+Stainless steel
+Stainless steel
+Stainless steel
+Aluminium foil
+Aluminium foil
+Aluminium foil
+Aluminium foil
+Polystyrene
+Polystyrene
+
+4.5/4.4
+3.7/3.9
+5.82/6.1
+2/100%
+100%/100%
+2
+3
+4
+>5
+0.48
+4.51
+>5
+>5
+>5
+>5
+>5
+
+4.48
+
+>5
+0.01
+0.64
+0.66
+1.72
+1.79
+5.10
+1.20
+2.57
+2.74
+6.62
+1
+4.06
+1.97
+6.63
+0.52
+5.1
+3.84
+6.54
+1–7
+100%
+
+Colony-forming units (CFU); cleaning-in-place (CIP); polypropylene (PP); quaternary ammonium compounds (QAC).
+
+[212]
+[216]
+[216]
+[217]
+[217]
+[218]
+[98]
+[98]
+[103]
+[103]
+[103]
+[103]
+[103]
+[103]
+[103]
+[103]
+
+[103]
+
+[103]
+[103]
+[103]
+[112]
+[112]
+[112]
+[112]
+[112]
+[112]
+[112]
+[112]
+[112]
+[112]
+[112]
+[112]
+[112]
+[112]
+[112]
+[112]
+[112]
+[170]
+
+Int. J. Environ. Res. Public Health 2021, 18, 2014
+
+23 of 31
+
+6. Conclusions
+
+Bioﬁlms have become a major environmental microbiology concern in the food indus-
+try over the last 30 years. This topic is prominent due to the potential for contamination of
+food from bioﬁlms; they are responsible for more than 20% of food poisoning cases and for
+being up to 1000-fold more tolerant to antibiotics than their planktonic counterparts [219].
+Many bacterial species have the ability to form bioﬁlms, such as microbial subsistences
+(when faced with hostilities from the environment), antibiotics, and disinfectants. For these
+reasons, cleaning and disinfecting in the food industry must bring about changes that
+favour eliminating bioﬁlms, because once they form, the resulting costs and risks will
+be very high. As previously discovered in many publications, the ability of bacteria
+to form bioﬁlms is greater than the discoveries. Thus, they must be eliminated. The
+advancement of new, non-destructive technologies (e.g., laser dissection) to study bioﬁlms
+and their results should be applied to bioﬁlm diagnoses in the food industry, to better
+understand the physiological anatomy of microbes and bioﬁlms, and future applications in
+the food industry.
+
+Author Contributions: Conceptualization, A.S., C.C., D.R., F.R., and A.R.; methodology, A.S., C.C.,
+D.R., F.R., and A.R.; software, A.S., C.C., D.R., F.R., and A.R.; validation, A.S., C.C., D.R., F.R., and
+A.R.; formal analysis, A.S., C.C., D.R., F.R., and A.R.; investigation, A.S., C.C., D.R., F.R., and A.R.;
+resources, A.S., C.C., D.R., F.R., and A.R.; data curation, A.S., C.C., D.R., F.R., and A.R.; writing—
+original draft preparation, A.S., C.C., D.R., F.R., and A.R.; writing—review and editing, A.S., C.C.,
+D.R., F.R., and A.R.; visualization, A.S., C.C., D.R., F.R., and A.R.; supervision, A.S., C.C., D.R., F.R.,
+and A.R.; project administration, A.S., C.C., D.R., F.R., and A.R. All authors have read and agreed to
+the published version of the manuscript.
+
+Funding: This research received no external funding.
+
+Institutional Review Board Statement: Not applicable.
+
+Informed Consent Statement: Not applicable.
+
+Data Availability Statement: Not applicable.
+
+Acknowledgments: The authors are very grateful to their families and friends for all of the support
+they provided.
+
+Conﬂicts of Interest: The authors declare no conﬂict of interest.
+
+References
+
+1.
+
+Satpathy, S.; Sen, S.K.; Pattanaik, S.; Raut, S. Review on bacterial bioﬁlm: An universal cause of contamination. Biocatal. Agric.
+Biotechnol. 2016, 7, 56–66. [CrossRef]
+Flemming, H.C.; Wingender, J. The bioﬁlm matrix. Nat. Rev. Microbiol. 2010, 8, 623–633. [CrossRef] [PubMed]
+
+2.
+3. Hall-Stoodley, L.J.; Costerton, W.; Stoodley, P. Bacterial bioﬁlms: From the natural environment to infectious diseases. Nat. Rev.
+
+4.
+
+5.
+
+6.
+
+Microbiol. 2004, 2, 95–108. [CrossRef]
+Acker, H.V.; Dijck, P.V.; Coenye, P.V. Molecular mechanisms of antimicrobial tolerance and resistance in bacterial and fungal
+bioﬁlms. Trends Microbiol. 2014, 22, 326–333. [CrossRef]
+Alvarez-Ordóñez, A.L.; Coughlan, M.; Briandet, R.; Cotter, P.D. Bioﬁlms in food processing environments: Challenges and
+opportunities. Annu. Rev. Food Sci. Technol. 2019, 10, 173–195. [CrossRef]
+Brooks, J.D.; Flint, S.H. Bioﬁlms in the food industry: Problems and potential solutions. Int. J. Food Sci. Technol. 2008, 43,
+2163–2176. [CrossRef]
+
+7. Møretrø, M.; Langsrud, S. Residential bacteria on surfaces in the food industry and their implications for food safety and quality.
+
+8.
+
+Compr. Rev. Food Sci. Food Saf. 2017, 16, 1022–1041. [CrossRef]
+Yuan, L.; Sadiq, F.A.; Burmølle, M.; Liu, T.; He, G. Insights into bacterial milk spoilage with particular emphasis on the roles of
+heat-stable enzymes, bioﬁlms, and quorum sensing. J. Food Prot. 2018, 81, 1651–1660. [CrossRef]
+Srey, S.; Jahid, I.K.; Ha, S.D. Bioﬁlm formation in food industries: A food safety concern. Food Control 2013, 31, 572–585. [CrossRef]
+9.
+10. Anwar, H.; Strap, J.L.; Costerton, J.W. Establishment of aging bioﬁlms: Possible mechanism of bacterial resistance to antimicrobial
+
+therapy. Antimicrob. Agents Chemother. 1992, 36, 1347. [CrossRef]
+
+11. Costerton, J.W.; Ellis, B.; Lam, K.; Johnson, F.; Khoury, A.E. Mechanism of electrical enhancement of efﬁcacy of antibiotics in
+
+killing bioﬁlm bacteria. Antimicrob. Agents Chemother. 1994, 38, 2803–2809. [CrossRef]
+
+Int. J. Environ. Res. Public Health 2021, 18, 2014
+
+24 of 31
+
+12.
+
+Simoes, M.; Simoes, L.; Vieira, M. A review of current and emergent bioﬁlm control strategies. LWT Food Sci. Technol. 2010, 43,
+573–583. [CrossRef]
+Fung, D.Y.C. Rapid methods and automation in microbiology: A review. Ir. J. Agric. Food Res. 2000, 39, 301–307. [CrossRef]
+
+13.
+14. Bouix, M.; Leveau, J.Y. Les applications de la cytometrie en ﬂux en microbiologie. L’Eurobiologiste 2002, 36, 31–43.
+15. Holah, J.T.; Taylor, J.H.; Dawson, D.J.; Hall, K.E. Biocide use in the food industry and the disinfectant resistance of persistent
+
+strains of Listeria monocytogenes and Escherichia Coli. J. Appl. Microbiol. 2002, 92, 111S–120S. [CrossRef] [PubMed]
+
+16. Kassa, H. An outbreak of Norwalk-like viral gastroenteritis in a frequently penalized food service operation: A case for mandatory
+
+training of food handlers in safety and hygiene. J. Environ. Health. 2001, 64.
+
+17. González-Rivas, F.; Ripolles-Avila, C.; Fontecha-Umaña, F.; Ríos-Castillo, A.G.; Rodríguez-Jerez, J.J. Bioﬁlms in the Spotlight:
+
+Detection, Quantiﬁcation, and Removal Methods. Compr. Rev. Food Sci. Food Saf. 2018, 17, 1261–1276. [CrossRef]
+Shi, X.; Zhu, X. Bioﬁlm formation and food safety in food industries. Trends Food Sci. Technol. 2009, 20, 407–413. [CrossRef]
+18.
+19. Anand, S.; Singh, D.; Avadhanula, M.; Marka, S. Development and control of bacterial bioﬁlms on dairy processing membranes.
+
+Compr. Rev. Food Sci. Food Saf. 2014, 13, 18–33. [CrossRef]
+
+20. Rabin, N.; Zheng, Y.; Opoku-Temeng, C.; Du, Y.; Bonsu, E.; Sintim, H.O. Bioﬁlm formation mechanisms and targets for developing
+
+antibioﬁlm agents. Future Med. Chem. 2015, 7, 493–512. [CrossRef]
+
+21. Lindsay, D.; von Holy, A. What food safety professionals should know about bacterial bioﬁlms. Br. Food J. 2006, 108, 27–37.
+
+[CrossRef]
+
+22. Tang, L.; Pillai, S.; Revsbech, N.P.; Schramm, A.; Bischoff, C.; Meyer, R.L. Bioﬁlm retention on surfaces with variable roughness
+
+and hydrophobicity. Biofouling 2011, 27, 111–121. [CrossRef] [PubMed]
+
+23. Van Houdt, R.; Michiels, C.W. Bioﬁlm formation and the food industry, a focus on the bacterial outer surface. J. Appl. Microbiol.
+
+2010, 109, 1117–1131. [CrossRef]
+
+24. Govaert, M.; Smet, C.; Baka, M.; Janssens, T.; Van Impe, J. Inﬂuence of incubation conditions on the formation of model bioﬁlms
+by Listeria monocytogenes and Salmonella Typhimurium on abiotic surfaces. J. Appl. Microbiol. 2018, 125, 1890–1900. [CrossRef]
+[PubMed]
+
+25. Makovcova, J.; Babak, V.; Kulich, P.; Masek, J.; Slany, M.; Cincarova, L. Dynamics of mono- and dual-species bioﬁlm formation
+
+and interactions between Staphylococcus aureus and gramnegative bacteria. Microb. Biotechnol. 2017, 10, 819–832. [CrossRef]
+
+26. Araújo, E.A.; de Andrade, N.J.; da Silva, L.H.M.; de Carvalho, A.F.; da Silva, C.A.; Ramos, A.M. Control of microbial adhesion as
+
+a strategy for food and bioprocess technology. Food Bioprocess Technol. 2010, 3, 321–332. [CrossRef]
+
+27. Dhowlaghar, N.; Bansal, M.; Schilling, M.W.; Nannapaneni, R. Scanning electron microscopy of Salmonella bioﬁlms on various
+
+28.
+
+food-contact surfaces in catﬁsh mucus. Food Microbiol. 2018, 74, 143–150. [CrossRef] [PubMed]
+Jindal, S.; Anand, S.; Metzger, L.; Amamcharla, J. A comparison of bioﬁlm development on stainless steel and modiﬁed-surface
+plate heat exchangers during a 17-h milk pasteurization run. J. Dairy Sci. 2018, 101, 2921–2926. [CrossRef] [PubMed]
+
+29. Gomes, L.C.; Silva, L.N.; Simoes, M.; Melo, L.F.; Mergulhao, F.J. Escherichia coli adhesion, bioﬁlm development and antibiotic
+
+susceptibility on biomedical materials. J. Biomed. Mater. Res. 2015, 103, 1414–1423. [CrossRef] [PubMed]
+
+30. Veluz, G.A.; Pitchiah, S.; Alvarado, C.Z. Attachment of Salmonella serovars and Listeria monocytogenes to stainless steel and plastic
+
+31.
+
+conveyor belts. Poult. Sci. 2012, 91, 2004–2010. [CrossRef] [PubMed]
+Iñiguez-Moreno, M.M.; Gutiérrez-Lomelí, A.; Avila-Novoa, M.G. Kinetics of bioﬁlm formation by pathogenic and spoilage
+microorganisms under conditions that mimic the poultry, meat, and egg processing industries. Int. J. Food Microbiol. 2019, 303,
+32–41. [CrossRef] [PubMed]
+
+32. Dutra, T.V.; Fernandes, M.D.; Perdoncini, M.R.F.G.; dos Anjos, M.M.; Abreu Filho, B.A.D. Capacity of Escherichia coli and
+Staphylococcus aureus to produce bioﬁlm on stainless steel surfaces in the presence of food residues. J. Food Process. Preserv. 2018,
+42, e13574. [CrossRef]
+
+33. Duanis-Assaf, D.; Steinberg, D.; Chai, Y.; Shemesh, M. The LuxS based quorum sensing governs lactose induced bioﬁlm formation
+
+by Bacillus subtilis. Front. Microbiol. 2016, 6, 1517. [CrossRef]
+
+34. Xue, T.; Chen, X.; Shang, F. Effects of lactose and milk on the expression of bioﬁlm-associated genes in Staphylococcus aureus
+
+35.
+
+strains isolated from a dairy cow with mastitis. J. Dairy Sci. 2014, 97, 6129–6134. [CrossRef] [PubMed]
+Somerton, B.; Lindsay, D.; Palmer, J.; Brooks, J.; Flint, S. Changes in sodium, calcium, and magnesium ion concentrations that
+inhibit Geobacillus bioﬁlms have no effect on Anoxybacillus ﬂavithermus bioﬁlms. Appl. Environ. Microbiol. 2015, 81, 5115–5122.
+[CrossRef]
+
+36. Wang, R.; Kalchayanand, N.; Bono, J.L. Sequence of colonization determines the composition of mixed bioﬁlms by Escherichia coli
+
+O157:H7 and O111:H8 strains. J. Food Prot. 2015, 78, 1554–1559. [CrossRef]
+
+37. Abdallah, M.; Khelissa, O.; Ibrahim, A.; Benoliel, C.; Heliot, L.; Dhulster, P.; Chihib, N.E. Impact of growth temperature and
+surface type on the resistance of Pseudomonas aeruginosa and Staphylococcus aureus bioﬁlms to disinfectants. Int. J. Food Microbiol.
+2015, 214, 38–47. [CrossRef]
+
+38. Colagiorgi, A.; Bruini, I.; Di Ciccio, P.A.; Zanardi, E.; Ghidini, S.; Ianieri, A. Listeria Monocytogenes Bioﬁlms in the Wonderland
+
+of Food Industry. Pathogens 2017, 6, 41. [CrossRef] [PubMed]
+
+39. Bottone, E.J. Bacillus Cereus, a Volatile Human Pathogen. Clin. Microbiol. Rev. 2010, 23, 382–398. [CrossRef]
+40. Grigore-Gurgu, L.; Bucur, F.I.; Borda, D.; Alexa, E.A.; Neagu, C.; Nicolau, A.I. Bioﬁlms Formed by Pathogens in Food and Food
+
+Processing Environments. In Bacterial Bioﬁlms; IntechOpen: London, UK, 2019.
+
+Int. J. Environ. Res. Public Health 2021, 18, 2014
+
+25 of 31
+
+41. Klanˇcnik, A.; Šimunovi´c, K.; Sterniša, M.; Rami´c, D.; Smole Možina, S.; Bucar, F. Anti-Adhesion Activity of Phytochemicals to
+
+Prevent Campylobacter Jejuni Bioﬁlm Formation on Abiotic Surfaces. Phytochem. Rev. 2020. [CrossRef]
+
+42. EFSA; European Food Safety Authority and European Centre for Disease Prevention and Control (EFSA and ECDC). The
+
+European Union One Health 2018 Zoonoses Report. EFSA J. 2019, 17, e05926.
+
+43. Chlebicz, A.; ´Sli ˙zewska, K. Campylobacteriosis, Salmonellosis, Yersiniosis, and Listeriosis as Zoonotic Foodborne Diseases: A
+
+Review. Int. J. Environ. Res. Public Health 2018, 15, 863. [CrossRef] [PubMed]
+
+44. Galié, S.; García-Gutiérrez, C.; Miguélez, E.M.; Villar, C.J.; Lombó, F. Bioﬁlms in the Food Industry: Health Aspects and Control
+
+Methods. Front. Microbiol. 2018, 898. [CrossRef]
+
+45. CDC. Centre for Disease Control, USA: Listeria (Listeriosis). 2017. Available online: https://www.cdc.gov/listeria/outbreaks/
+
+index.html (accessed on 29 November 2020).
+
+46. Rothrock, M.J.; Davis, M.L.; Locatelli, A.; Bodie, A.; McIntosh, T.G.; Donaldson, J.R.; Ricke, S.C. Listeria Occurrence in Poultry
+
+Flocks: Detection and Potential Implications. Front. Vet. Sci. 2017, 4. [CrossRef]
+
+47. Nguyen, H.D.N.; Yang, Y.S.; Yuk, H.G. Bioﬁlm Formation of Salmonella Typhimurium on Stainless Steel and Acrylic Surfaces as
+
+Affected by Temperature and PH Level. LWT Food Sci. Technol. 2014, 55, 383–388. [CrossRef]
+
+48. Duguid, J.P.; Anderson, E.S.; Campbell, I. Fimbriae and Adhesive Properties in Salmonellae. J. Pathol. Bacteriol. 1966, 92, 107–137.
+
+[CrossRef]
+
+49. Giaouris, E.; Heir, E.; Desvaux, M.; Hébraud, M.; Møretrø, T.; Langsrud, S.; Doulgeraki, A.; Nychas, G.-J.; Kaˇcániová, M.; Czaczyk,
+K.; et al. Intra- and Inter-Species Interactions within Bioﬁlms of Important Foodborne Bacterial Pathogens. Front. Microbiol. 2015,
+6. [CrossRef]
+
+50. Kadariya, J.; Smith, T.C.; Thapaliya, D. Staphylococcus Aureus and Staphylococcal Food-Borne Disease: An Ongoing Challenge
+
+in Public Health. Biomed Res. Int. 2014. [CrossRef]
+
+51. Hammer, B.K.; Bassler, B.L. Quorum sensing controls bioﬁlm formation in Vibrio cholerae. Mol. Microbiol. 2003, 50, 101–114.
+
+[CrossRef]
+
+52. Otto, M. Staphylococcal infections: Mechanisms of bioﬁlm maturation and detachment as critical determinants of pathogenicity.
+
+Annu. Rev. Med. 2013, 64, 175–188. [CrossRef] [PubMed]
+
+53. Morgan, R.; Kohn, S.; Hwang, S.H.; Hassett, D.J.; Sauer, K. BdlA, a chemotaxis regulator essential for bioﬁlm dispersion in
+
+54.
+
+Pseudomonas aeruginosa. J. Bacteriol. 2006, 188, 7335–7343. [CrossRef] [PubMed]
+Somerton, B.; Flint, S.; Palmer, J.; Brooks, J.; Lindsay, D. Preconditioning with cations increases the attachment of Anoxybacillus
+ﬂavithermus and Geobacillus species to stainless steel. Appl. Environ. Microbiol. 2013, 79, 4186–4190. [CrossRef]
+
+55. Houry, A.; Briandet, R.; Aymerich, S.; Gohar, M. Involvement of Motility and Flagella in Bacillus Cereus Bioﬁlm Formation.
+
+Microbiology 2010, 156, 1009–1018. [CrossRef]
+
+56. Téllez, S. Bioﬁlms and their impact on food industry. In VISAVET Outreach Journal; Complutense University: Madrid, Spain, 2010.
+57. Tram, G.; Day, C.J.; Korolik, V. Bridging the Gap: A Role for Campylobacter Jejuni Bioﬁlms. Microorganisms 2020, 8, 452. [CrossRef]
+58. Gould, L.H.; Mody, R.K.; Ong, K.L.; Clogher, P.; Cronquist, A.B.; Garman, K.N.; Lathrop, S.; Medus, C.; Spina, N.L.; Webb,
+T.H.; et al. Increased recognition of non-O157 Shiga toxin-producing Escherichia coli infections in the United States during
+2000–2010: Epidemiologic features and comparison with E. coli O157 infections. Foodborne Pathog. Dis. 2013, 10, 453–460.
+[CrossRef] [PubMed]
+
+59. Lim, E.S.; Koo, O.K.; Kim, M.J.; Kim, J.S. Bio-enzymes for inhibition and elimination of Escherichia coli O157: H7 bioﬁlm and
+
+their synergistic effect with sodium hypochlorite. Sci. Rep. 2019, 9, 9920. [CrossRef] [PubMed]
+
+60. Lee, J.; Bansal, T.; Jayaraman, A.; Bentley, W.E.; Wood, T.K. Enterohemorrhagic Escherichia Coli Bioﬁlms Are Inhibited by
+
+7-Hydroxyindole and Stimulated by Isatin. Appl. Environ. Microbiol. 2007, 73, 4100–4109. [CrossRef]
+
+61. Milillo, S.R.; Friedly, E.C.; Saldivar, J.C.; Muthaiyan, A.; O’bryan, C.; Crandall, P.G.; Johnson, M.G.; Ricke, S.C. A Review of the
+Ecology, Genomics, and Stress Response of Listeria Innocua and Listeria Monocytogenes. Crit. Rev. Food Sci. Nutr. 2012, 52,
+712–725. [CrossRef]
+
+62. Chmielewski, R.A.N.; Frank, J.F. Bioﬁlm Formation and Control in Food Processing Facilities. Compr. Rev. Food Sci. Food Saf. 2003,
+
+2, 22–32. [CrossRef]
+
+63. Raheem, D. Outbreaks of Listeriosis Associated with Deli Meats and Cheese: An Overview. Aims Microbiol. 2016, 2, 230–250.
+
+[CrossRef]
+
+64. Lemon, K.P.; Higgins, D.E.; Kolter, R. Flagellar Motility Is Critical for Listeria Monocytogenes Bioﬁlm Formation. J. Bacteriol. 2007,
+
+189, 4418–4424. [CrossRef] [PubMed]
+
+65. Giannella, R.A.; Baron, S.; Albrecht, T.; Castro, G.; Couch, R.B.; Davis, C.P.; Dianzani, F.; Mcginnis, M.R.; Niesel, D.W.; Woods,
+G.W. Salmonella. In Baron’s Medical Microbiology, 4th ed.; University of Texas Medical Branch: Galveston, TX, USA, 1996.
+66. Lamas, A.; Miranda, J.M.; Regal, P.; Vázquez, B.; Franco, C.M.; Cepeda, A. A Comprehensive Review of Non-Enterica Subspecies
+
+67.
+
+of Salmonella Enterica. Microbiol. Res. 2018, 60–73. [CrossRef]
+´Cwiek, K.; Bugla-Płosko ´nska, G.; Wieliczko, A. Salmonella Bioﬁlm Development: Structure and Signiﬁcance. Postepy Hig. I Med.
+Dosw. 2019, 937–943. [CrossRef]
+
+68. Wang, H.; Ding, S.; Wang, G.; Xu, X.; Zhou, G. In situ characterization and analysis of Salmonella bioﬁlm formation under meat
+processing environments using a combined microscopic and spectroscopic approach. Int. J. Food Microbiol. 2013, 167, 293–302.
+[CrossRef]
+
+Int. J. Environ. Res. Public Health 2021, 18, 2014
+
+26 of 31
+
+69.
+
+Schelin, J.; Susilo, Y.; Johler, S. Expression of Staphylococcal Enterotoxins under Stress Encountered during Food Production and
+Preservation. Toxins 2017, 9, 401. [CrossRef]
+
+70. Amina, M.; Bensoltane, A. Review of Pseudomonas Attachment and Bioﬁlm Formation in Food Industry Pseudomonas Bioﬁlm;
+
+Chemotaxis and Motility View Project. Poult. Fish Wildl. Sci. 2015, 3, 1. [CrossRef]
+
+71. Golovlev, E.L. The Mechanism of Formation of Pseudomonas Aeruginosa Bioﬁlm, a Type of Structured Population. Microbiology
+
+2002, 249–254. [CrossRef]
+
+72. Carrascosa, C.; Millán, R.; Jaber, J.R.; Lupiola, P.; del Rosario-Quintana, C.; Mauricio, C.; Sanjuán, E. Blue Pigment in Fresh Cheese
+
+Produced by Pseudomonas ﬂuorescens. Food Control 2015, 54, 95–102. [CrossRef]
+
+73. Wu, P.; Guo, Y.; Golly, M.K.; Ma, H.; He, R.; Luo, S.; Zhang, C.; Zhang, L.; Zhu, J. Feasibility Study on Direct Fermentation of
+Soybean Meal by Bacillus Stearothermophilus under Non-sterile Conditions. J. Sci. Food Agric. 2019, 99, 3291–3298. [CrossRef]
+Flint, S.; Palmer, J.; Bloemen, K.; Brooks, J.; Crawford, R. The Growth of Bacillus Stearothermophilus on Stainless Steel. J. Appl.
+Microbiol. 2001, 90, 151–157. [CrossRef]
+
+74.
+
+75. Palmer, J.S.; Flint, S.H.; Schmid, J.; Brooks, J.D. The Role of Surface Charge and Hydrophobicity in the Attachment of Anoxybacillus
+
+76.
+
+Flavithermus Isolated from Milk Powder. J. Ind. Microbiol. Biotechnol. 2010, 37, 1111–1119. [CrossRef]
+Strejc, J.; Kyselova, L.; Cadkova, A.; Matoulkova, D.; Potocar, T.; Branyik, T. Experimental Adhesion of Geobacillus Stearother-
+mophilus and Anoxybacillus Flavithermus to Stainless Steel Compared with Predictions from Interaction Models. Chem. Pap.
+2020, 74, 297–304. [CrossRef]
+
+77. Murphy, P.M.; Lynch, D.; Kelly, P.M. Growth of Thermophilic Spore Forming Bacilli in Milk during the Manufacture of Low Heat
+
+78.
+
+Powders. Int. J. Dairy Technol. 1999, 52, 45–50. [CrossRef]
+Sadiq, F.A.; Flint, S.; Yuan, L.; Li, Y.; Liu, T.J.; He, G.Q. Propensity for Bioﬁlm Formation by Aerobic Mesophilic and Thermophilic
+Spore Forming Bacteria Isolated from Chinese Milk Powders. Int. J. Food Microbiol. 2017, 262, 89–98. [CrossRef]
+
+79. Burgess, S.A.; Brooks, J.D.; Rakonjac, J.; Walker, K.M.; Flint, S.H. The Formation of Spores in Bioﬁlms of Anoxybacillus Flavithermus.
+
+J. Appl. Microbiol. 2009, 107, 1012–1018. [CrossRef] [PubMed]
+
+80. Paradh, A.D.; Mitchell, W.J.; Hill, A.E. Occurrence of Pectinatus and Megasphaera in the Major UK Breweries. J. Inst. Brew. 2011,
+
+117, 498–506. [CrossRef]
+
+81. Lee, S.Y.; Mabee, M.S.; Jangaard, N.O. Pectinatus, a New Genus of the Family Bacteroidaceae. Int. J. Syst. Bacteriol. 1978, 28,
+
+82.
+
+582–594. [CrossRef]
+Sterniša, M.; Klanˇcnik, A.; Smole Možina, S. Spoilage Pseudomonas bioﬁlm with Escherichia coli protection in ﬁsh meat at 5 ◦C. J.
+Sci. Food Agric. 2019, 99, 4635–4641. [CrossRef]
+
+83. Mizan, M.F.R.; Jahid, I.K.; Ha, S.D. Microbial Bioﬁlms in Seafood: A Food-Hygiene Challenge. Food Microbiol. 2015, 41–55.
+
+[CrossRef]
+
+84. Toushik, S.H.; Mizan, M.F.R.; Hossain, M.I.; Ha, S.D. Fighting with Old Foes: The Pledge of Microbe-Derived Biological Agents to
+Defeat Mono- and Mixed-Bacterial Bioﬁlms Concerning Food Industries. Trends Food Sci. Technol. 2020, 413–425. [CrossRef]
+85. González, J.E.; Keshavan, N.D. Messing with Bacterial Quorum Sensing. Microbiol. Mol. Biol. Rev. 2006, 70, 859–875. [CrossRef]
+
+[PubMed]
+
+86. Zupanˇciˇc, J.; Raghupathi, P.K.; Houf, K.; Burmølle, M.; Sørensen, S.J.; Gunde-Cimerman, N. Synergistic interactions in microbial
+bioﬁlms facilitate the establishment of opportunistic pathogenic Fungi in household dishwashers. Front. Microbiol. 2018, 9, 21.
+[CrossRef] [PubMed]
+
+87. Pammi, M.; Liang, R.; Hicks, J.; Mistretta, T.A.; Versalovic, J. Bioﬁlm extracellular DNA enhances mixed species bioﬁlms of
+
+Staphylococcus epidermidis and Candida Albicans. BMC Microbiol. 2013, 13, 257. [CrossRef]
+
+88. Donlan, R.M.; Piede, J.A.; Heyes, C.D.; Sanii, L.; Murga, R.; Edmonds, P.; El-Sayed, I.; El-Sayed, M.A. Model System for Growing
+and Quantifying Streptococcus Pneumoniae Bioﬁlms in Situ and in Real Time. Appl. Environ. Microbiol. 2004, 70, 4980–4988.
+[CrossRef] [PubMed]
+
+89. Heukelekian, H.; Heller, A. Relation between food concentration and surface forbacterial growth. J. Bacteriol. 1940, 40, 547–558.
+
+[CrossRef] [PubMed]
+
+90. Zobell, C.E. The effect of solid surfaces on bacterial activity. J. Bacteriol. 1943, 46, 39–56. [CrossRef] [PubMed]
+91. Characklis, W.G. Attached microbial growths-II. Frictional resistance due to microbial slimes. Water Res. 1973, 7, 1249–1258.
+
+[CrossRef]
+
+92. Moreno-García, J.; García-Martinez, T.; Moreno, J.; Mauricio, J.C.; Ogawa, M.; Luong, P.; Bisson, L.F. Impact of yeast ﬂocculation
+and bioﬁlm formation on yeast-fungus coadhesion in a novel immobilization system. Am. J. Enol. Vitic. 2018, 69, 278–288.
+[CrossRef]
+
+93. Ogawa, M.; Bisson, L.F.; García-Martínez, T.; Mauricio, J.C.; Moreno-García, J. New Insights on Yeast and Filamentous Fungus
+Adhesion in a Natural Co-Immobilization System: Proposed Advances and Applications in Wine Industry. Appl. Microbiol.
+Biotechnol. 2019, 103, 4723–4731. [CrossRef] [PubMed]
+
+94. Mowat, E.; Lang, S.; Williams, C.; McCulloch, E.; Jones, B.; Ramage, G. Phase-dependent antifungal activity against Aspergillus
+
+fumigatus developing multicelluar ﬁlamentous bioﬁlms. J. Antimicrob. Chemother. 2008, 62, 1281–1284. [CrossRef]
+
+95. Mowat, E.; Butcher, J.; Lang, S.; Williams, C.; Ramage, G. Development of a simple model for studying the effects of antifungal
+
+agents on multicellular communities of Aspergillus fumigatus. J. Med. Microbiol. 2007, 56, 1205–1212. [CrossRef]
+
+Int. J. Environ. Res. Public Health 2021, 18, 2014
+
+27 of 31
+
+96. European Hygienic Engineering and Design Group (EHEDG). Hygienic Design Principles, 3rd ed.; EHEDG Guidelines; European
+
+97.
+
+Hygienic Engineering & Design Group: Naarden, The Netherlands, 2018.
+Fortin, N.D. Regulatory Requirements in the United States on Hygiene Control in the Design, Construction, and Renovation of Food
+Processing Factories. Chapter 4 in Hygiene Control in the Design, Construction and Renovation of Food Processing Factories; Lelieveld,
+H.L.M., Holah, J., Eds.; Woodhead Publishing Ltd., 2011. Available online: https://ssrn.com/abstract=2497425 (accessed on
+25 November 2020).
+
+98. Plieth, W. Electrochemistry for Materials Science; Elsevier: Amsterdam, The Netherlands, 2008; Chapter 12.
+99. Rosado-Castro, M.; da Silva Fernandes, M.; Kabuki, D.Y.; Kuaye, A.Y. Bioﬁlm Formation of Enterococcus Faecium on Stainless Steel
+
+Surfaces: Modeling and Control by Disinfection Agents. J. Food Process Eng. 2018, 41, 1–9. [CrossRef]
+
+100. Rosenberg, M.; Kjelleberg, S. Hydrophobic interactions in bacterial adhesion. Adv. Microb. Ecol. 1986, 9, 353–393.
+101. Corpe, W.A. Microbial surface components involved in adsorption of microorganisms onto surfaces. In Adsorption of Microorgan-
+
+isms to Surfaces; Bitton, G., Marshall, K.C., Eds.; John Wiley & Sons: New York, NY, USA, 1980; pp. 105–144.
+
+102. Peña, W.E.L.; Andrade, N.J.; Soares, N.F.F.; Alvarenga, V.O.; Rodrigues Junior, S.; Granato, D.; Zuniga, A.D.G.; de Souza Sant’Ana,
+A. Modeling Bacillus cereus adhesion on stainless steel surface as affected by temperature, pH and time. Int. Dairy J. 2014, 34,
+153–158. [CrossRef]
+
+103. Furukawa, S.; Akiyoshi, Y.; Komoriya, M.; Ogihara, H.; Morinaga, Y. Removing Staphylococcus aureus and Escherichia coli bioﬁlms
+
+on stainless steel by cleaning-in-place (CIP) cleaning agents. Food Control 2010, 21, 669–672. [CrossRef]
+
+104. Bore, E.; Langsrud, S. Characterization of Micro-Organisms Isolated from Dairy Industry after Cleaning and Fogging Disinfection
+
+with Alkyl Amine and Peracetic Acid. J. Appl. Microbiol. 2005, 98, 96–105. [CrossRef]
+
+105. Hawkins, C.L.; Davies, M.J. Hypochlorite-induced oxidation of proteins in plasma: Formation of chloramines and nitrogen-
+
+centred radicals and their role in protein fragmentation. Biochem. J. 1999, 340, 539–548. [CrossRef] [PubMed]
+
+106. Nightingale, Z.D.; Lancha, A.H., Jr.; Handelman, S.K.; Dolnikowski, G.G.; Busse, S.C.; Dratz, E.A.; Blumberg, J.B.; Handelman,
+G.J. Relative reactivity of lysine and other peptide-bound amino acids to oxidation by hypochlorite. Free Radic. Biol. Med. 2000,
+29, 425–433.
+
+107. Heinecke, J.W.; Li, W.; Daehnke, H.; Goldstein, J.A. Dityrosine, a speciﬁc marker of oxidation, is synthesized by the
+myeloperoxidase-hydrogen peroxide system of human neutrophils and macrophages. J. Biol. Chem. 1993, 268, 4069–4077.
+[CrossRef]
+
+108. Spickett, C.M.; Jerlich, A.; Panasenko, O.M.; Arnhold, J.; Pitt, A.R.; Stelmaszynska, T.; Schaur, R.J. The reactions of hypochlorous
+acid, the reactive oxygen species produced by myeloperoxidase, with lipids. Acta Biochim. Pol. 2000, 47, 889–899. [CrossRef]
+109. Prutz, W.A. Interactions of hypochlorous acid with pyrimidine nucleotides, and secondary reactions of chlorinated pyrimidines
+
+with GSH, NADH, and other substrates. Arch. Biochem. Biophys. 1998, 349, 183–191. [CrossRef] [PubMed]
+
+110. Fukuzaki, S. Mechanisms of actions of sodium hypochlorite in cleaning and disinfection processes. Biocontrol Sci. 2006, 11,
+
+147–157. [CrossRef] [PubMed]
+
+111. Fernandes, M.S.; Fujimoto, G.; Souza, L.P.; Kabuki, D.Y.; Silva, M.J.; Kuaye, A.Y. Dissemination of Enterococcus faecalis and
+Enterococcus faecium in a ricotta processing plant and evaluation of pathogenic and antibiotic resistance proﬁles. J. Food Sci. 2015,
+80, M765–M775. [CrossRef] [PubMed]
+
+112. Skowron, K.; Hulisz, K.; Gry ´n, G.; Olszewska, H.; Wiktorczyk, N.; Paluszak, Z. Comparison of selected disinfectants efﬁciency
+
+against Listeria monocytogenes bioﬁlm formed on various surfaces. Int. Microbiol. 2018, 21, 23–33. [CrossRef] [PubMed]
+
+113. Ibusquisa, P.A.; Herrera, J.J.R.; Cabo, M.L. Resistance to benzalkonium chloride, peracetic acid and nisin during formation of
+
+mature bioﬁlms by List. Monocytogenes. Food Microbiol. 2011, 28, 418–428. [CrossRef]
+
+114. Eterpi, M.; McDonnell, G.; Thomas, V. Disinfection efﬁcacy against parvoviruses compared with reference viruses. J. Hosp. Infect.
+
+2009, 73, 64–70. [CrossRef]
+
+115. Langsrud, S.; Sidhu, M.S.; Heir, E.; Holck, A.L. Bacterial Disinfectant Resistance—A Challenge for the Food Industry. Int.
+
+Biodeterior. Biodegrad. 2003, 51, 283–290. [CrossRef]
+
+116. Rasimus, S.; Kolari, M.; Rita, H.; Hoornstra, D.; Salkinoja-Salonen, M. Bioﬁlm-Forming Bacteria with Varying Tolerance to
+
+Peracetic Acid from a Paper Machine. J. Ind. Microbiol. Biotechnol. 2011, 38, 1379–1390. [CrossRef] [PubMed]
+
+117. Russell, A.D. Similarities and differences in the responses of microorganisms to biocides. J. Antimicrob. Chemother. 2003, 52,
+
+750–763. [CrossRef]
+
+118. Block, S.S. Peroxygen compounds. In Disinfection, Sterilization, and Preservation, 5th ed.; Lippincott Williams & Wilkins: Philadel-
+
+phia, PA, USA, 2001; pp. 185–204.
+
+119. Marquis, R.E.; Rutherford, G.C.; Faraci, M.M.; Shin, S.Y. Sporicidal action of peracetic acid and protective eVects of transition
+
+metal ions. J. Ind. Microbiol. 1995, 15, 486–492. [CrossRef]
+
+120. Dunkin, N.; Weng, S.; Schwab, K.J.; McQuarrie, J.; Bell, K.; Jacangelo, J.G. Comparative inactivation of murine norovirus and MS2
+bacteriophage by peracetic acid and monochloramine in municipal secondary wastewater efﬂuent. Environ. Sci. Technol. 2017, 51,
+2972–2981136. [CrossRef]
+
+121. Zhang, C.; Brown, P.J.B.; Miles, R.J.; White, T.A.; Grant, D.A.G.; Stalla, D.; Hu, Z. Inhibition of Regrowth of Planktonic and Bioﬁlm
+
+Bacteria after Peracetic Acid Disinfection. Water Res. 2019, 149, 640–649. [CrossRef] [PubMed]
+
+122. Bridier, A.; Briandet, R.; Thomas, V.; Dubois-Brissonnet, F. Comparative biocidal activity of peracetic acid, benzalkonium chloride
+
+and ortho-phthalaldehyde on 77 bacterial strains. J. Hosp. Infect. 2011, 78, 208–213. [CrossRef] [PubMed]
+
+Int. J. Environ. Res. Public Health 2021, 18, 2014
+
+28 of 31
+
+123. Vázquez-Sánchez, D.; Cabo, M.L.; Ibusquiza, P.S.; Rodríguez-Herrera, J.J. Bioﬁlm-forming ability and resistance to industrial
+
+disinfectants of Staphylococcus aureus isolated from ﬁshery products. Food Control. 2014, 39, 8–16. [CrossRef]
+
+124. Mah, T.F.C.; O’Toole, G.A. Mechanisms of bioﬁlm resistance to antimicrobial agents. Trends Microbiol. 2001, 9, 34–39. [CrossRef]
+125. Mari´c, S.; Vraneš, J. Characteristics and Signiﬁcance of Microbial Bioﬁlm Formation. Period. Biol. 2007, 109, 115–121.
+126. Beveridge, T.J.; Makin, S.A.; Kadurugamuwa, J.L.; Li, Z. Interactions between bioﬁlms and the environment. FEMS Microbiol. Rev.
+
+1997, 20, 291–303. [CrossRef]
+
+127. Flemming, H.C. Bioﬁlms and environmental protection. Water Sci. Technol. 1993, 27, 1–10. [CrossRef]
+128. Da Costa, J.B.; Rodgher, S.; Daniel, L.A.; Espíndola, E.L.G. Toxicity on aquatic organisms exposed to secondary efﬂuent disinfected
+
+with chlorine, peracetic acid, ozone and UV radiation. Ecotoxicology 2014, 23, 1803–1813. [CrossRef]
+129. Ferriol-González, C.; Domingo-Calap, P. Phages for Bioﬁlm Removal. Antibiotics 2020, 9, 268. [CrossRef]
+130. Hiom, S.J.; Lowe, C.; Oldcorne, M. Assessment of surface bioburden during hospital aseptic processing. Int. J. Pharm. Pract. 2003,
+
+11, R62.
+
+131. Wang, Y.; Tan, X.; Xi, C.; Phillips, K.S. Removal of Staphylococcus aureus from skin using a combination antibioﬁlm approach.
+
+NPJ Bioﬁlms Microbiomes. 2018, 4, 1–9. [CrossRef]
+
+132. Vaidya, M.Y.; McBain, A.J.; Butler, J.A.; Banks, C.E.; Whitehead, K.A. Antimicrobial efﬁcacy and synergy of metal ions against
+Enterococcus faecium, Klebsiella pneumoniae and Acinetobacter baumannii in planktonic and bioﬁlm phenotypes. Sci. Rep. 2017, 7, 1–9.
+[CrossRef] [PubMed]
+
+133. Miao, J.; Liang, Y.; Chen, L.; Wang, W.; Wang, J.; Li, B.; Li, L.; Chen, D.; Xu, Z. Formation and development of Staphylococcus
+
+bioﬁlm: With focus on food safety. J. Food Saf. 2017, 37, e12358. [CrossRef]
+
+134. Cacciatore, F.A.; Brandelli, A.; Malheiros, P.D.S. Combining natural antimicrobials and nanotechnology for disinfecting food
+
+surfaces and control microbial bioﬁlm formation. Crit. Rev. Food Sci. Nutr. 2020, 1–12. [CrossRef] [PubMed]
+
+135. Iacumin, L.; Manzano, M.; Comi, G. Phage Inactivation of Listeria Monocytogenes on San Daniele Dry-Cured Ham and
+
+Elimination of Bioﬁlms from Equipment and Working Environments. Microorganisms 2016, 4, 4. [CrossRef] [PubMed]
+
+136. Greer, G.G. Bacteriophage control of foodborne bacteria. J. Food Prot. 2011, 68, 1102–1111. [CrossRef]
+137. Soni, K.A.; Nannapaneni, R. Bacteriophage signiﬁcantly reduces L. monocytogenes on raw salmon ﬁllet tissue. J. Food Prot. 2010,
+
+73, 32–38. [CrossRef]
+
+138. Gironés, R.R.G.; Simmons, M.M. Evaluation of the safety and efﬁcacy of ListexTM P100 for reduction of pathogens on different
+
+ready-to-eat (RTE) food products. EFSA J. 2016, 14, 4565.
+
+139. Marsden, J.L. The Effectiveness of Listex P100 in Reducing Listeria monocytogenes in RTE Food; Food Science Institute, Kansas State
+University; Available online: https://www.foodsafetynews.com/ﬁles/2013/05/Listex-P100-Final-Report-1-2.pdf (accessed on 1
+December 2020).
+
+140. Choi, N.Y.; Baek, S.Y.; Yoon, J.H.; Choi, M.R.; Kang, D.H.; Lee, S.Y. Efﬁcacy of aerosolized hydrogen peroxide-based sanitizer on
+
+the reduction of pathogenic bacteria on a stainless steel surface. Food Control. 2012, 27, 57–63. [CrossRef]
+
+141. Park, S.H.; Cheon, H.L.; Park, K.H.; Chung, M.S.; Choi, S.H.; Ryu, S.; Kang, D.H. Inactivation of bioﬁlm cells of foodborne
+
+pathogen by aerosolized sanitizers. Int. J. Food Microbiol. 2012, 154, 130–134. [CrossRef]
+
+142. Del Pozo, J.L.; Patel, R. The challenge of treating bioﬁlm-associated bacterial infections. Clin. Pharmacol. Ther. 2007, 82, 204–209.
+
+[CrossRef] [PubMed]
+
+143. Anghel, I.; Holban, A.M.; Grumezescu, A.M.; Andronescu, E.; Ficai, A.; Anghel, A.G.; Maganu, M.; Lazˇar, V.; Chiﬁriuc, M.C.
+Modiﬁed wound dressing with phyto-nanostructured coating to prevent staphylococcal and pseudomonal bioﬁlm development.
+Nanoscale Res. Lett. 2012, 7, 1–8. [CrossRef] [PubMed]
+
+144. De Kievit, T.R.; Iglewski, B.H. Bacterial quorum sensing in pathogenic relationships. Infect. Immun. 2000, 68, 4839–4849. [CrossRef]
+145. Sajjan, U.; Moreira, J.; Liu, M.; Humar, A.; Chaparro, C.; Forstner, J.; Keshavjee, S. A novel model to study bacterial adherence
+to the transplanted airway: Inhibition of Burkholderia cepacia adherence to human airway by dextran and xylitol. J. Heart Lung
+Transplant. 2012, 23, 1382–1391. [CrossRef]
+
+146. Singh, P.K.; Schaefer, A.L.; Parsek, M.R.; Moninger, T.O.; Welsh, M.J.; Greenberg, E.P. Quorum-sensing signals indicate that cystic
+
+ﬁbrosis lungs are infected with bacterial bioﬁlms. Nature 2000, 407, 762–764. [CrossRef] [PubMed]
+
+147. Xiong, F.; Zhao, X.; Wen, D.; Li, Q. Effects of N-acyl-homoserine lactones-based quorum sensing on bioﬁlm formation, sludge
+characteristics, and bacterial community during the start-up of bioaugmented reactors. Sci. Total Environ. 2020, 735, 139449.
+[CrossRef]
+
+148. Schuster, M.; Joseph Sexton, D.; Diggle, S.P.; Peter Greenberg, E. Acyl-homoserine lactone quorum sensing: From evolution to
+
+application. Annu. Rev. Microbiol. 2013, 67, 43–63. [CrossRef]
+
+149. Wang, J.; Liu, Q.; Ma, S.; Hu, H.; Wu, B.; Zhang, X.X.; Ren, H. Distribution characteristics of N-acyl homoserine lactones during
+the moving bed bioﬁlm reactor bioﬁlm development process: Effect of carbon/nitrogen ratio and exogenous quorum sensing
+signals. Bioresour. Technol. 2019, 289, 121591. [CrossRef]
+
+150. Maddela, N.R.; Sheng, B.; Yuan, S.; Zhou, Z.; Villamar-Torres, R.; Meng, F. Roles of quorum sensing in biological wastewater
+
+treatment: A critical review. Chemosphere 2019, 221, 616–629. [CrossRef]
+
+151. Pu, H.; Xu, Y.; Sun, D.-W.; Wei, Q.; Li, X. Optical nanosensors for bioﬁlm detection in the food industry: Principles, applications
+
+and challenges. Crit. Rev. Food Sci. Nutr. 2020, 1–18. [CrossRef]
+
+Int. J. Environ. Res. Public Health 2021, 18, 2014
+
+29 of 31
+
+152. Jayan, H.; Pu, H.; Sun, D.-W. Recent development in rapid detection techniques for microorganism activities in food matrices
+
+using bio-recognition: A review. Trends Food Sci. Technol. 2020, 95, 233–246. [CrossRef]
+
+153. Lv, M.; Liu, Y.; Geng, J.; Kou, X.; Xin, Z.; Yang, D. Engineering nanomaterials-based biosensors for food safety detection. Biosens.
+
+Bioelectron. 2018, 106, 122–128. [CrossRef] [PubMed]
+
+154. Zhang, P.; Chen, Y.P.; Qiu, J.H.; Dai, Y.Z.; Feng, B. Imaging the microprocesses in bioﬁlm matrices. Trends Biotechnol. 2019, 37,
+
+214–226. [CrossRef]
+
+155. Ivleva, N.P.; Kubryk, P.; Niessner, R. Raman microspectroscopy, surface-enhanced Raman scattering microspectroscopy, and
+stable-isotope Raman microspectroscopy for bioﬁlm characterization. Anal. Bioanal. Chem. 2017, 409, 4353–4375. [CrossRef]
+156. Vanegas, D.C.; Gomes, C.L.; Cavallaro, N.D.; Giraldo-Escobar, D.; McLamore, E.S. Emerging biorecognition and transduction
+schemes for rapid detection of pathogenic bacteria in food. Compr. Rev. Food Sci. Food Saf. 2017, 16, 1188–1205. [CrossRef]
+[PubMed]
+
+157. Pantanella, F.; Valenti, P.; Natalizi, T.; Passeri, D.; Berlutti, F. Analytical Techniques to Study Microbial Bioﬁlm on Abiotic Surfaces:
+
+Pros and Cons of the Main Techniques Currently in Use. Ann. Ig. Med. Prev. E Comunità 2013, 25, 31–42. [CrossRef]
+
+158. Azeredo, J.; Azevedo, N.F.; Briandet, R.; Cerca, N.; Coenye, T.; Costa, A.R.; Desvaux, M.; Di Bonaventura, G.; Hébraud, M.;
+
+Jaglic, Z.; et al. Critical Review on Bioﬁlm Methods. Crit. Rev. Microbiol. 2017, 43, 313–351. [CrossRef] [PubMed]
+
+159. Huang, Y.; Chakraborty, S.; Liang, H. Methods to Probe the Formation of Bioﬁlms: Applications in Foods and Related Surfaces.
+
+Anal. Methods 2020, 12, 416–432. [CrossRef]
+
+160. Nijland, R.; Hall, M.J.; Burgess, J.G. Dispersal of bioﬁlms by secreted, matrix degrading, bacterial DNase. PLoS ONE 2010, 5,
+
+e15668. [CrossRef] [PubMed]
+
+161. Jamal, M.; Ahmad, W.; Andleeb, S.; Jalil, F.; Imran, M.; Nawaz, M.A.; Hussain, T.; Ali, M.; Raﬁq, M.; Kamil, M.A. Bacterial Bioﬁlm
+
+and Associated Infections. J. Chin. Med. Assoc. 2018, 81, 7–11. [CrossRef]
+
+162. Ansari, M.A.; Khan, H.M.; Khan, A.A.; Cameotra, S.S.; Alzohairy, M.A. Anti-bioﬁlm efﬁcacy of silver nanoparticles against MRSA
+
+and MRSE isolated from wounds in a tertiary care hospital. Indian J. Med. Microbiol. 2015, 33, 101. [CrossRef]
+
+163. Lawrence, J.R.; Neu, T.R. Confocal laser scanning microscopy for analysis of microbial bioﬁlms. Methods Enzymol. 1999, 310,
+
+131–144. [PubMed]
+
+164. Kania, R.E.; Lamers, G.E.; Vonk, M.J.; Huy, P.T.B.; Hiemstra, P.S.; Bloemberg, G.V.; Grote, J.J. Demonstration of bacterial cells and
+
+glycocalyx in bioﬁlms on human tonsils. Arch. Otolaryngol. Head Neck Surg. 2007, 133, 115–121. [CrossRef]
+
+165. Ommen, P.; Zobek, N.; Meyer, R.L. Quantiﬁcation of Bioﬁlm Biomass by Staining: Non-Toxic Safranin Can Replace the Popular
+
+Crystal Violet. J. Microbiol. Methods 2017, 141, 87–89. [CrossRef]
+
+166. Stepanovi´c, S.; Vukovi´c, D.; Daki´c, I.; Savi´c, B.; Švabi´c-Vlahovi´c, M. A Modiﬁed Microtiter-Plate Test for Quantiﬁcation of
+
+Staphylococcal Bioﬁlm Formation. J. Microbiol. Methods 2000, 40, 175–179. [CrossRef]
+
+167. Doll, K.; Jongsthaphongpun, K.L.; Stumpp, N.S.; Winkel, A.; Stiesch, M. Quantifying Implant-Associated Bioﬁlms: Comparison
+
+of Microscopic, Microbiologic and Biochemical Methods. J. Microbiol. Methods 2016, 130, 61–68. [CrossRef]
+
+168. Extremina, C.I.; Costa, L.; Aguiar, A.I.; Peixe, L.; Fonseca, A.P. Optimization of processing conditions for the quantiﬁcation of
+
+enterococci bioﬁlms using microtitreplates. J. Microbiol. Methods. 2010. [CrossRef]
+
+169. Stiefel, P.; Rosenberg, U.; Schneider, J.; Mauerhofer, S. Is bioﬁlm removal properly assessed? Comparison of different quantiﬁcation
+
+methods in a 96-well plate system. Appl. Microbiol. Biotechnol. 2016, 100, 4135–4145. [CrossRef]
+
+170. Romanova, N.A.; Gawande, P.V.; Brovko, L.Y.; Grifﬁths, M.W. Rapid Methods to Assess Sanitizing Efﬁcacy of Benzalkonium
+
+Chloride to Listeria Monocytogenes Bioﬁlms. J. Microbiol. Methods 2007, 71, 231–237. [CrossRef] [PubMed]
+
+171. Cell Staining. 2019. Available online: https://www.dojindo.com/ (accessed on 2 December 2020).
+172. Burton, E.; Yakandawala, N.; LoVetri, K.; Madhyastha, M.S. A Microplate Spectroﬂuorometric Assay for Bacterial Bioﬁlms. J. Ind.
+
+Microbiol. Biotechnol. 2007, 34, 1–4. [CrossRef]
+
+173. Deng, Y.; Wang, L.; Chen, Y.; Long, Y. Optimization of Staining with SYTO 9/Propidium Iodide: Interplay, Kinetics and Impact
+
+on Brevibacillus Brevis. BioTechniques 2020, 69, 89–99. [CrossRef]
+
+174. Shi, L.; Gunther, S.; Hubschmann, T.; Wick, L.Y.; Harms, H.; Muller, S. Limits of propidium iodide as a cell viability indicator for
+
+environmental bacteria. Cytom. A 2007, 71, 592–598. [CrossRef] [PubMed]
+
+175. Munukka, E.; Leppäranta, O.; Korkeamäki, M.; Vaahtio, M.; Peltola, T.; Zhang, D.; Hupa, L.; Ylänen, H.; Salonen, J.I.; Viljanen,
+M.K.; et al. Bactericidal effects of bioactive glasses on clinically important aerobic bacteria. J. Mater. Sci. Mater. Med. 2008, 19,
+27–32. [CrossRef] [PubMed]
+
+176. Larrosa, M.; Truchado, P.; Espin, J.C.; Tomás-Barberán, F.A.; Allende, A.; García-Conesa, M.T. Evaluation of Pseudomonas aeruginosa
+(PAO1) adhesion to human alveolar epithelial cells A549 using SYTO 9 dye. Mol. Cell. Probes. 2012, 26, 121–126. [CrossRef]
+[PubMed]
+
+177. Maukonen, J.; Mattila-Sandholm, T.; Wirtanen, G. Metabolic Indicators for Assessing Bacterial Viability in Hygiene Sampling
+
+Using Cells in Suspension and Swabbed Bioﬁlm. LWT Food Sci. Technol. 2000, 33, 225–233. [CrossRef]
+
+178. Tawakoli, P.N.; Al-Ahmad, A.; Hoth-Hannig, W.; Hannig, M.; Hannig, C. Comparison of different live/dead stainings for
+detection and quantiﬁcation of adherent microorganisms in the initial oral bioﬁlm. Clin. Oral Investig. 2013, 17, 841–850.
+[CrossRef]
+
+179. Verran, J. Biofouling in food processing: Bioﬁlm or biotransfer potential? Food Bioprod. Process. 2002, 80, 292–298. [CrossRef]
+
+Int. J. Environ. Res. Public Health 2021, 18, 2014
+
+30 of 31
+
+180. Verran, J.; Whitehead, K.A. Assessment of organic materials and microbial components on hygienic surfaces. Food Bioprod. Process.
+
+2006, 84, 260–264. [CrossRef]
+
+181. Declerck, P.; Verelst, L.; Duvivier, L.; Van Damme, A.; Ollevier, F. A detection method for Legionella spp. in (cooling) water:
+
+Fluorescent in situ hybridisation (FISH) on whole bacteria. Water Sci. Technol. 2003, 47, 143–146. [CrossRef] [PubMed]
+
+182. Whitehead, K.A.; Benson, P.; Verran, J. Differential ﬂuorescent staining of Listeria monocytogenes and a whey food soil for
+
+quantitative analysis of surface hygiene. Int. J. Food Microbiol. 2009, 135, 75–80. [CrossRef] [PubMed]
+
+183. Almeida, C.; Azevedo, N.F.; Santos, S.; Keevil, C.W.; Vieira, M.J. Discriminating Multi-Species Populations in Bioﬁlms with
+
+Peptide Nucleic Acid Fluorescence in Situ Hybridization (PNA FISH). PLoS ONE 2011, 6. [CrossRef] [PubMed]
+
+184. Hansen, S.K.; Rainey, P.B.; Haagensen, J.A.; Molin, S. Evolution of species interactions in a bioﬁlm community. Nature 2007, 445,
+
+533–536. [CrossRef] [PubMed]
+
+185. Gu, F.; Lux, R.; Du-Thumm, L.; Stokes, I.; Kreth, J.; Anderson, M.H.; Wong, D.T.; Wolinsky, L.; Sullivan, R.; Shi, W. In situ and
+noninvasive detection of speciﬁc bacterial species in oral bioﬁlms using ﬂuorescently labeled monoclonal antibodies. J. Microbiol.
+Methods 2005, 62, 145–160. [CrossRef]
+
+186. Schlafer, S.; Meyer, R.L. Confocal Microscopy Imaging of the Bioﬁlm Matrix. J. Microbiol. Methods. 2017, 138, 50–59. [CrossRef]
+187. Allesen-Holm, M.; Barken, K.B.; Yang, L.; Klausen, M.; Webb, J.S.; Kjelleberg, S.; Molin, S.; Givskov, M.; Tolker-Nielsen, T. A
+characterization of DNA release in Pseudomonas aeruginosa cultures and bioﬁlms. Mol. Microbiol. 2006, 59, 1114–1128. [CrossRef]
+188. Conover, M.S.; Mishra, M.; Deora, R. Extracellular DNA is essential for maintaining Bordetella bioﬁlm integrity on abiotic
+
+surfaces and in the upper respiratory tract of mice. PLoS ONE 2011, 6, e16861. [CrossRef]
+
+189. Okshevsky, M.; Meyer, R.L. Evaluation of ﬂuorescent stains for visualizing extracellular DNA in bioﬁlms. J. Microbiol. Methods
+
+2014, 105, 102–104. [CrossRef]
+
+190. Schaeffer, C.R.; Woods, K.M.; Longo, G.M.; Kiedrowski, M.R.; Paharik, A.E.; Büttner, H.; Christner, M.; Boissy, R.J.; Horswill,
+A.R.; Rohde, H.; et al. Accumulation-associated protein enhances Staphylococcus epidermidis bioﬁlm formation under dynamic
+conditions and is required for infection in a rat catheter model. Infect. Immun. 2015, 83, 214–226. [CrossRef]
+
+191. Büttner, H.; Mack, D.; Rohde, H. Structural basis of Staphylococcus epidermidis bioﬁlm formation: Mechanisms and molecular
+
+interactions. Front. Cell. Infect. Microbiol. 2015, 5, 14. [CrossRef]
+
+192. Frank, K.L.; Patel, R. Poly-N-acetylglucosamine is not a major component of the extracellular matrix in bioﬁlms formed by
+
+icaADBC-positive Staphylococcus lugdunensis isolates. Infect. Immun. 2007, 75, 4728–4742. [CrossRef]
+
+193. Toyofuku, M.; Roschitzki, B.; Riedel, K.; Eberl, L. Identiﬁcation of proteins associated with the Pseudomonas aeruginosa bioﬁlm
+
+extracellular matrix. J. Proteome Res. 2012, 11, 4906–4915. [CrossRef]
+
+194. Tseng, B.S.; Reichhardt, C.; Merrihew, G.E.; Araujo-Hernandez, S.A.; Harrison, J.J.; MacCoss, M.J.; Parsek, M.R. A bioﬁlm
+matrix-associated protease inhibitor protects Pseudomonas aeruginosa from proteolytic attack. MBio 2018, 9. [CrossRef]
+195. Dige, I.; Nyengaard, J.R.; Kilian, M.; Nyvad, B. Application of stereological principles for quantiﬁcation of bacteria in intact dental
+
+bioﬁlms. Oral Microbiol. Immunol. 2009, 24, 69–75. [CrossRef] [PubMed]
+
+196. Malic, S.; Hill, K.E.; Hayes, A.; Percival, S.L.; Thomas, D.W.; Williams, D.W. Detection and identiﬁcation of speciﬁc bacteria
+in wound bioﬁlms using peptide nucleic acid ﬂuorescent in situ hybridization (PNA FISH). Microbiology 2009, 155, 2603–2611.
+[CrossRef]
+
+197. Ivleva, N.P.; Wagner, M.; Horn, H.; Niessner, R.; Haisch, C. Towards a Nondestructive Chemical Characterization of Bioﬁlm
+
+Matrix by Raman Microscopy. Anal. Bioanal. Chem. 2009, 393, 197–206. [CrossRef] [PubMed]
+
+198. Jung, G.B.; Nam, S.W.; Choi, S.; Lee, G.-J.; Park, H.-K. Evaluation of Antibiotic Effects on Pseudomonas aeruginosa Bioﬁlm Using
+
+Raman Spectroscopy and Multivariate Analysis. Biomed. Opt. Express 2014, 5, 3238. [CrossRef]
+
+199. Fallatah, H.; Elhaneid, M.; Ali-Boucetta, H.; Overton, T.W.; El Kadri, H.; Gkatzionis, K. Antibacterial effect of graphene oxide
+(GO) nano-particles against Pseudomonas putida bioﬁlm of variable age. Environ. Sci. Pollut. Res. 2019, 26, 25057–25070. [CrossRef]
+200. Vuotto, C.; Donelli, G. Field Emission Scanning Electron Microscopy of Bioﬁlm-Growing Bacteria Involved in Nosocomial
+Infections. In Microbial Bioﬁlms. Methods in Molecular Biology (Methods and Protocols); Donelli, G., Ed.; Humana Press: New York,
+NY, USA, 2014. [CrossRef]
+
+201. Kouider, N.; Hamadi, F.; Mallouki, B.; Bengoram, J.; Mabrouki, M.; Zekraoui, M.; Ellouali, M.; Latrache, H. Effect of stainless steel
+
+surface roughness on Staphylococcus aureus adhesion. Int. J. Pure Appl. Sci. 2010, 4, 17.
+
+202. Mallouki, B.; Latrache, H.; Mabrouki, M.; Outzourhit, A.; Hamadi, F.; Muller, D.; Ellouali, M. The inhibitory effect of fucans on
+
+adhesion and production of slime of Staphylococcus Aureus. Microbiol. Hygiène Aliment. 2007, 19, 6471.
+
+203. El Abed, S.; Ibnsouda, S.K.; Latrache, H.; Hamadi, F. Scanning electron microscopy (SEM) and environmental SEM: Suitable tools
+
+for study of adhesion stage and bioﬁlm formation. In Scanning Electron Microscopy; Intechopen: London, UK, 2012.
+
+204. Agarwal, A.; Jern Ng, W.; Liu, Y. Removal of bioﬁlms by intermittent low-intensity ultrasonication triggered bursting of
+
+microbubbles. Biofouling 2014, 30, 359–365. [CrossRef] [PubMed]
+
+205. Fricke, K.; Koban, I.; Tresp, H.; Jablonowski, L.; Schröder, K.; Kramer, A.; Weltmann, K.D.; von Woedtke, T.; Kocher, T. Atmospheric
+Pressure Plasma: A High-Performance Tool for the Efﬁcient Removal of Bioﬁlms. PLoS ONE 2012, 7, e42539. [CrossRef] [PubMed]
+206. Chan, T.F.; Esedoglu, S.; Nikolova, M. Algorithms for ﬁnding global minimizers of image segmentation and denoising models.
+
+Siam. J. Appl. Math. 2002, 66, 1632–1648. [CrossRef]
+
+207. Vyas, N.; Sammons, R.L.; Addison, O.; Dehghani, H.; Walmsley, A.D. A quantitative method to measure bioﬁlm removal efﬁciency
+
+from complex biomaterial surfaces using SEM and image analysis. Sci. Rep. 2016, 6, 32694. [CrossRef]
+
+Int. J. Environ. Res. Public Health 2021, 18, 2014
+
+31 of 31
+
+208. Hu, H.; Johani, K.; Gosbell, I.B.; Jacombs, A.S.W.; Almatroudi, A.; Whiteley, G.S.; Deva, A.K.; Jensen, S.; Vickery, K. Intensive care
+unit environmental surfaces are contaminated by multidrug-resistant bacteria in bioﬁlms: Combined results of conventional
+culture, pyrosequencing, scanning electron microscopy, and confocal laser microscopy. J. Hosp. Infect. 2015, 91, 35–44. [CrossRef]
+209. Mohmmed, S.A.; Vianna, M.E.; Penny, M.R.; Hilton, S.T.; Mordan, N.; Knowles, J.C. Confocal laser scanning, scanning electron,
+and transmission electron microscopy investigation of Enterococcus faecalis bioﬁlm degradation using passive and active sodium
+hypochlorite irrigation within a simulated root canal model. Microbiologyopen 2017, 6, e00455. [CrossRef] [PubMed]
+
+210. Bodelón, G.; Montes-García, V.; Costas, C.; Pérez-Juste, I.; Pérez-Juste, J.; Pastoriza-Santos, I.; Liz-Marzán, L.M. Imaging bacterial
+
+interspecies chemical interactions by surface-enhanced Raman scattering. ACS Nano 2017, 11, 4631–4640. [CrossRef]
+
+211. Whitehead, K.A.; Saubade, F.; Akhidime, I.D.; Liauw, C.M.; Benson, P.S.; Verran, J. The detection and quantiﬁcation of food
+components on stainless steel surfaces following use in an operational bakery. Food Bioprod. Process. 2019, 116, 258–267. [CrossRef]
+212. Xu, H.S.; Roberts, N.; Singleton, F.L.; Attwell, R.W.; Grimes, D.J.; Colwell, R.R. Survival and viability of nonculturable Escherichia
+
+coli andVibrio cholerae in the estuarine and marine environment. Microb. Ecol. 1982, 8, 313–323. [CrossRef]
+
+213. Li, L.; Mendis, N.; Trigui, H.; Oliver, J.D.; Faucher, S.P. The importance of the viable but non-culturable state in human bacterial
+
+pathogens. Front. Microbiol. 2014, 5, 258. [CrossRef]
+
+214. Cerca, F.; Andrade, F.; França, Â.; Andrade, E.B.; Ribeiro, A.; Almeida, A.A.; Cerca, N.; Pier, G.; Azeredo, J.; Vilanova, M.
+Staphylococcus epidermidis bioﬁlms with higher proportions of dormant bacteria induce a lower activation of murine macrophages.
+J. Med. Microbiol. 2011, 60, 1717–1724. [CrossRef]
+
+215. Oliveira, F.; Lima, C.A.; Brás, S.; França, Â.; Cerca, N. Evidence for interand intraspecies bioﬁlm formation variability among a
+
+small group of coagulase-negative staphylococci. FEMS Microbiol. Lett. 2015, 362. [CrossRef]
+
+216. Bayoumi, M.A.; Kamal, R.M.; Abd El Aal, S.F.; Awad, E.I. Assessment of a regulatory sanitization process in Egyptian dairy
+plants in regard to the adherence of some food-borne pathogens and their bioﬁlms. Int. J. Food Microbiol. 2012, 158, 225–231.
+[CrossRef] [PubMed]
+
+217. Khaddouj, A.; Fatima, H.; Rachida, M.; Hassan, L.; Khadija, A.; Youssef, N.; Mustapha, M. Evaluation of sodium hypochlorite
+
+efﬁciency on the elimination of Pseudomonas aeruginosa bioﬁlm using two methods. Russ. Open Med. J. 2019, 8, e0302.
+
+218. Bremer, P.J.; Fillery, S.; McQuillan, A.J. Laboratory scale Clean-In-Place (CIP) studies on the effectiveness of different caustic and
+
+acid wash steps on the removal of dairy bioﬁlms. Int. J. Food Microbiol. 2006, 106, 254–262. [CrossRef] [PubMed]
+
+219. Lebeaux, D.; Ghigo, J.M.; Beloin, C. Bioﬁlm-related infections: Bridging the gap between clinical management and fundamental
+
+aspects of recalcitrance toward antibiotics. Microbiol. Mol. Biol. Rev. 2014, 78, 510–543. [CrossRef] [PubMed]
+
+

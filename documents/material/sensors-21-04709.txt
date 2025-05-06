@@ -1,0 +1,1333 @@
+Article
+Automated Inorganic Pigment Classiﬁcation in Plastic Material
+Using Terahertz Spectroscopy
+
+Andrej Sarjaš *, Blaž Pongrac
+
+and Dušan Gleich
+
+Faculty of Electrical Engineering and Computer Science, University of Maribor, Koroška Cesta 45,
+2000 Maribor, Slovenia; blaz.pongrac1@um.si (B.P.); dusan.gleich@um.si (D.G.)
+* Correspondence: andrej.sarjas@um.si
+
+Abstract: This paper presents an automatic classiﬁcation of plastic material’s inorganic pigment
+using terahertz spectroscopy and convolutional neural networks (CNN). The plastic materials were
+placed between the THz transmitter and receiver, and the acquired THz signals were classiﬁed
+using a supervised learning approach. A THz frequency band between 0.1–1.2 THz produced a one-
+dimensional (1D) vector that is almost impossible to classify directly using supervised learning. This
+paper proposes a novel pre-processing of 1D THz data that transforms 1D data into 2D data, which are
+processed efﬁciently using a convolutional neural network. The proposed pre-processing algorithm
+consists of four steps: peak detection, envelope extraction, and a down-sampling procedure. The last
+main step introduces the windowing with spectrum dilatation that reorders 1D data into 2D data that
+can be considered as an image. The spectrum dilation techniques ensure the classiﬁer’s robustness
+by suppressing measurement bias, reducing the complexity of the THz dataset with negligible loss
+of accuracy, and speeding up the network classiﬁcation. The experimental results showed that the
+proposed approach achieved high accuracy using a CNN classiﬁer, and outperforms 1D classiﬁcation
+of THz data using support vector machine, naive Bayes, and other popular classiﬁcation algorithms.
+
+Keywords: terahertz spectroscopy; inorganic pigment classiﬁcation; deep learning; convolutional
+neural network
+
+Citation: Sarjaš, A.; Pongrac, B.;
+
+Gleich, D. Automated Inorganic
+
+Pigment Classiﬁcation in Plastic
+
+Material Using Terahertz
+
+Spectroscopy. Sensors 2021, 21, 4709.
+
+https://doi.org/10.3390/s21144709
+
+1. Introduction
+
+Academic Editor: Alexandre Locquet
+
+Received: 17 June 2021
+
+Accepted: 7 July 2021
+
+Published: 9 July 2021
+
+Publisher’s Note: MDPI stays neutral
+
+with regard to jurisdictional claims in
+
+published maps and institutional afﬁl-
+
+iations.
+
+Copyright: © 2021 by the authors.
+
+Licensee MDPI, Basel, Switzerland.
+
+This article is an open access article
+
+distributed under
+
+the terms and
+
+conditions of the Creative Commons
+
+Attribution (CC BY) license (https://
+
+creativecommons.org/licenses/by/
+
+4.0/).
+
+The electronic circuit’s limitation and the excessive capability of optical devices to
+excite terahertz (THz) waves in the past have inhibited the THz spectrum exploitation in
+various industrial and laboratory applications. THz is electromagnetic radiation between
+the microwave and the infrared region within the frequency domain of 0.1–10 THz [1].
+The THz waves are non-ionizing, non-invasive, and penetrate many materials. In the
+last two decades, research and development probing the THz spectrum and THz signal
+generation has led to technologies in several scientiﬁc applications [1–3]. Nowadays, THz
+applications are often used in biology, physics, chemistry, material science, and security.
+Also, it is known that THz radiation is very sensitive to translation, vibration, and rota-
+tion [2,3]. Such distinctive characteristics enable using the THz spectrum in numerous
+inspection, scanning, and imaging applications. The THz frequency spectrum’s uniqueness
+allows new research to be conducted in the scientiﬁc and engineering ﬁelds.
+
+Regarding the overview of the latest scientiﬁc publications, most THz applications
+are limited strictly to scientiﬁc research with the minority on engineering applications.
+The main reason stems from the fact that the engineers’ community is not aware of the
+technology, and there is a lack of ‘off-the-shelf appliances’. Many THz systems contain
+expensive elements such as photoconductive antennas, laser sources, low noise, and sensi-
+tive ampliﬁers to acquire the emitted radiation. With continued research on the physical
+principles of radiation, excitation, and probing, THz applications can be a breakthrough
+technology in the new upcoming industrial era. They can be used in various industrial
+applications and can offer valuable upgrades or replacements for standard devices.
+
+Sensors 2021, 21, 4709. https://doi.org/10.3390/s21144709
+
+https://www.mdpi.com/journal/sensors
+
+sensors(cid:1)(cid:2)(cid:3)(cid:1)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:1)(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)Sensors 2021, 21, 4709
+
+2 of 18
+
+This paper presents an automated inorganic pigments (IP) classiﬁcation of plastic
+materials using terahertz frequency domain spectroscopy (THz-FDS) as a source of data.
+The vast majority of the THz spectroscopy is done with the time domain spectroscopy
+(TDS) technique, which is robust and ﬂexible. The TDS uses short pulses and coherent
+detection, which consequently disables standing waves and simpliﬁes the data analysis.
+The frequency resolution is in the span of 1–5 GHz [4]. Regarding unknown spectral
+properties of the pigments and the intention of accurate spectral properties examination,
+the THz-FDS technique was used. The main advantage of THz-FDS is high-resolution
+specter measurement, possible user-selected frequency span, and are cost efﬁcient. Unlike
+TDS, FDS resolution is in the range of 1–5 MHz. Due to the continuous waves operation
+principle and possible standing waves occurrence, the FDS data are more complex and
+require advanced post-processing techniques [4,5]. The analysis of FDS data is discussed
+in depth below.
+
+Plastic materials are used widely in many fabrication processes, assembly, and design.
+The pigments’ classiﬁcation of the processed workpiece is essential in quality control,
+material characterization, and fabrication validation [6,7]. The production of raw pig-
+mented plastic material is a trade secret, and the manufacturer’s conﬁdential information
+is usually not accessible to the client. To ensure supervision over material characteris-
+tics, the demand for non-invasive and non-destructive material inspection arises in many
+production assemblies. Currently, the inspection techniques used for plastic materials
+in industrial environments are mostly destructive, including cutting and grinding the
+sample. On the other hand, non-invasive techniques are based mostly on surface inspec-
+tion methods [7]. For example, the classiﬁcation of the colored material can be achieved
+straightforwardly with machine vision, which is inefﬁcient for in-depth analysis [8]. Also,
+inspections based on thermal, microwave, ultrasonic, acoustic emission, and magnetic
+techniques are not adequate for IP classiﬁcation [1,9]. The inability to use well-established
+inspection techniques for non-destructive testing of plastic materials has THz technology as
+its advantages [10]. THz waves can penetrate the polymers, even if the material is opaque
+and has a high spatial resolution compared to microwaves [11]. Thus, THz technology
+is suitable for contact-free inspection and can be used for crack, defect [12], mechanical
+stress [13], and aging process detection [14] in polymer materials. Most inspections were
+done with the TDS and some with the FDS with know processing techniques, such as
+phase fringes extraction and FFT [3]. All applications and their data analysis were made
+for the characterization of a single instance of the material. Unlike the aforementioned, this
+paper introduces a high-frequency resolution approach with advanced data processing of
+complex FDS data, which enables pigment classiﬁcation and the possibility of automated
+quality control of the plastic material. The presented work extends THz spectroscopy as a
+real-time system for non-destructive IP classiﬁcation and validation.
+
+Most of the data analysis in THz-FDS is undertaken by determining the attenuation
+and the phase shift of THz waves spread through the medium [15]. The detected absorption
+lines of a medium are measured and compared with the reference values, where complex
+permeability was estimated using the Kramers–Kronig relation [16]. Besides, chemometric
+methods, such as principal component analysis [17], individual component analysis [18],
+and partial least square [19], are used for ﬁnding the compounds in the measured medium.
+The THz-FDS systems based on photoconductive antennas (PCAs) utilize the two optical
+signals with different wavelengths to create a modulated optical signal with THz fre-
+quency [3]. A most common method of measuring the spectral components is by sweeping
+the modulated THz frequency and measuring phase fringes. The attenuation and phase
+shift of THz waves in the medium can be estimated from the measured phase fringes. Such
+a THz-FDS system needs careful calibration and setting. The calibration’s ﬁrst concern,
+which needs to be examined, is the measurement’s uncertainty due to the tuned distributed
+feedback laser diodes (DFLD) used in THz-FDS systems. When sampling the detected THz
+wave, the measurement’s actual frequency can vary regarding the reference frequency. The
+second main calibration task is the environmental impact. THz waves are sensitive to the
+
+Sensors 2021, 21, 4709
+
+3 of 18
+
+change of temperature and change of humidity around the measured sample. Therefore,
+all measurements are usually performed in a controlled environment, which is a signiﬁcant
+limitation for industrial applications. The authors in [16] predicted that THz technology
+would be used more in laboratory environments than the industrial production processes.
+Material analysis in quality control and waste management could be areas where THz
+technology would have an edge. According to this, THz waves are not ionized waves;
+therefore, they would not damage the measured sample. Many materials have spectral
+footprints in the THz band. THz technology could also detect unwanted metals in the
+measured medium, since metals are opaque to the THz waves. There are some examples
+in material and natural process control, such as fruit inspection [20] and fermentation
+supervision [21]. The major drawback remains that the applications are performed in a
+controlled environment and not in real-time.
+
+By reviewing the literature, we found that the classiﬁcation of materials using a THz
+sensor is extremely difﬁcult due to the wide THz spectrum, and the measurement can be
+contaminated with different uncertainties, such as DFLD non-linearities, measurement
+bias, and environmental impact. All the inﬂuences are known, but cannot be determined
+and compensated precisely in the measurement. The supervised learning procedure of
+the machine learning (ML) algorithm can be used according to the known indeterminate
+uncertainties. Supervised learning ensures robust mapping of ML over a set of input-
+output data pairs. All data pairs contain uncertainty, which can be suppressed efﬁciently
+under the assumption that the signiﬁcant futures are preserved and hidden. Many different
+algorithms of ML exist, which can be deployed for IP classiﬁcation. After extensive research
+and comparison between different ML strategies, the convolution neural network (CNN)
+gives beneﬁcial results. The CNN algorithm is a subset of deep neural networks and deep
+learning paradigms [22], and has proven its effectiveness as an image, speech recognition,
+face detection, futures extraction algorithm. The novel research conﬁrms that CNNs
+have advantages in series forecasting, a data-driven approach for diagnostic and fault
+classiﬁcation of various industrial processes and applications [23–27].
+
+The paper proposes an automated IP classiﬁcation using a novel preprocessing algo-
+rithm suitable for processing with CNN classiﬁcation methods [22], which can be executed
+in real-time. The acquired THz signal was transformed from 1D to 2D representation
+and classiﬁed using a CNN. The 1D data are transformed into 2D data representation by
+preprocessing 1D THz data with peak detection, envelope extraction, and downsampling
+algorithms, which operate over the THz phase fringes. A new algorithm, called Window-
+ing with Spectrum Dilatation (WSD), transforms 1D data into 2D data that represent a
+material’s spectral features obtained using the THz-FDS. The 2D data are classiﬁed using
+a CNN, where the material’s spectral futures are distributed spatially throughout the 2D
+data. Such a transformation ensures that the spectral futures are located regionally with
+a certainty boundary. Classiﬁcation and detection of spatially spread futures with added
+uncertainty is the main advantage of the CNN algorithms. The complexity of CNN is
+related to the preprocessing parameters’ selection, and can be treated as an optimization
+procedure. The proposed method for IP classiﬁcation with CNN was evaluated experi-
+mentally. Plastic material, polyethylene (PE), was mixed with various IPs and used as an
+evaluation sample. The CNN was trained with the preprocessed training set. The efﬁciency
+of the training is closely related to the selection of the preprocessing algorithm and its
+parameters. The paper compares novel WSD and the mostly used set cut-technique (SetCT).
+The advantage of WSD over SetCT was conﬁrmed with the experimental results, and the
+outperformance is evident. The proposed approach WSD-CNN was also compared with
+other known classiﬁcation algorithms, such as support vector machine (SVM) [28], naive
+Bayes (NB) [29], classiﬁcation tree (CT) [30], and discriminant analysis (DA) [29], all of
+which operate over 1D data. All the preprocessing methods are discussed and compared
+later in the article. The spectral characteristic of each PE sample was gathered between
+0.1 THz and 1.2 THz. As we conﬁrmed during the work, the proposed WSD preprocessing
+for automated IP classiﬁcation based on THz-FDS with the CNN classiﬁcation achieves
+
+Sensors 2021, 21, 4709
+
+4 of 18
+
+high reliability, robustness, accuracy and can operate in real time. The paper also shows
+the improvement of the THz-FDS scanning technique with efﬁcient and robust complex
+FDS data analysis.
+
+The paper has six sections. The Section 1 is an introduction, where the main objectives
+of the work are presented. The Section 2 represents the THz-FDS operation principle and
+experimental setup with the inspection samples. The Section 3 introduces different prepro-
+cessing algorithms of the THz-FDS measurements. The following section continues with
+CNN structure selection, hyperparameters’ role, and the beneﬁts of the WSD preprocessing
+algorithm. The experimental results are presented in Section 5, where comparisons are
+conducted between different preprocessing and CNN structures. The paper is concluded
+with Section 6
+
+2. Terahertz Frequency Domain Spectroscopy Principle for Inorganic Pigments (IP)
+Classiﬁcation
+
+The TeraScan 1550 from Toptica Photonics, Munich, Germany, was used for the THz-
+FDS experiment. The Tarascan 1550 can generate THz waves in the span of 0.03–1.21 THz.
+It has high THz power and a wide dynamic range. It utilizes mixing or beating the optical
+signals excited from the two DFB laser diodes with different wavelengths and a PCA
+emitter and detector. The experimental setup is presented in Figure 1.
+
+Figure 1. Experimental setup with photoconductive antennas (PCAs) and plastic sample in green.
+
+The experiment involved ﬁve different categories of samples with individual inor-
+ganic pigments, which differed in ﬁve colors, white, blue, green, yellow, and black. The
+geometrical parameters of the samples were equal in all the used batches. The samples
+with different pigments are presented in Figure 2.
+
+Figure 2. Five plastic samples with different inorganic pigments.
+
+The sample organization for the deep learning algorithm will be discussed in section
+ﬁve. Only the essential operation principle of the Terascan 1550 is presented for a better
+overview of the approach and the general understanding of the readers. The system
+comprises two independent laser sources for signal modulation and two PCAs for emitting
+and detecting THz radiation, depicted in Figure 3.
+
+Sensors 2021, 21, 4709 4 of 18   proach WSD-CNN was also compared with other known classification algorithms, such as support vector machine (SVM) [28], naive Bayes (NB) [29], classification tree (CT) [30], and discriminant analysis (DA) [29], all of which operate over 1D data. All the prepro-cessing methods are discussed and compared later in the article. The spectral character-istic of each PE sample was gathered between 0.1 THz and 1.2 THz. As we confirmed during the work, the proposed WSD preprocessing for automated IP classification based on THz-FDS with the CNN classification achieves high reliability, robustness, accuracy and can operate in real time. The paper also shows the improvement of the THz-FDS scanning technique with efficient and robust complex FDS data analysis. The paper has six sections. The first section is an introduction, where the main ob-jectives of the work are presented. The second section represents the THz-FDS operation principle and experimental setup with the inspection samples. The third section intro-duces different preprocessing algorithms of the THz-FDS measurements. The following section continues with CNN structure selection, hyperparameters’ role, and the benefits of the WSD preprocessing algorithm. The experimental results are presented in section five, where comparisons are conducted between different preprocessing and CNN structures. The paper is concluded with section six. 2. Terahertz Frequency Domain Spectroscopy Principle for Inorganic Pigments (IP) Classification The TeraScan 1550 from Toptica Photonics, Munich, Germany, was used for the THz-FDS experiment. The Tarascan 1550 can generate THz waves in the span of 0.03–1.21 THz. It has high THz power and a wide dynamic range. It utilizes mixing or beating the optical signals excited from the two DFB laser diodes with different wavelengths and a PCA emitter and detector. The experimental setup is presented in Figure 1.  Figure 1. Experimental setup with photoconductive antennas (PCAs) and plastic sample in green. The experiment involved five different categories of samples with individual inor-ganic pigments, which differed in five colors, white, blue, green, yellow, and black. The geometrical parameters of the samples were equal in all the used batches. The samples with different pigments are presented in Figure 2.  Figure 2. Five plastic samples with different inorganic pigments. Sensors 2021, 21, 4709 4 of 18   proach WSD-CNN was also compared with other known classification algorithms, such as support vector machine (SVM) [28], naive Bayes (NB) [29], classification tree (CT) [30], and discriminant analysis (DA) [29], all of which operate over 1D data. All the prepro-cessing methods are discussed and compared later in the article. The spectral character-istic of each PE sample was gathered between 0.1 THz and 1.2 THz. As we confirmed during the work, the proposed WSD preprocessing for automated IP classification based on THz-FDS with the CNN classification achieves high reliability, robustness, accuracy and can operate in real time. The paper also shows the improvement of the THz-FDS scanning technique with efficient and robust complex FDS data analysis. The paper has six sections. The first section is an introduction, where the main ob-jectives of the work are presented. The second section represents the THz-FDS operation principle and experimental setup with the inspection samples. The third section intro-duces different preprocessing algorithms of the THz-FDS measurements. The following section continues with CNN structure selection, hyperparameters’ role, and the benefits of the WSD preprocessing algorithm. The experimental results are presented in section five, where comparisons are conducted between different preprocessing and CNN structures. The paper is concluded with section six. 2. Terahertz Frequency Domain Spectroscopy Principle for Inorganic Pigments (IP) Classification The TeraScan 1550 from Toptica Photonics, Munich, Germany, was used for the THz-FDS experiment. The Tarascan 1550 can generate THz waves in the span of 0.03–1.21 THz. It has high THz power and a wide dynamic range. It utilizes mixing or beating the optical signals excited from the two DFB laser diodes with different wavelengths and a PCA emitter and detector. The experimental setup is presented in Figure 1.  Figure 1. Experimental setup with photoconductive antennas (PCAs) and plastic sample in green. The experiment involved five different categories of samples with individual inor-ganic pigments, which differed in five colors, white, blue, green, yellow, and black. The geometrical parameters of the samples were equal in all the used batches. The samples with different pigments are presented in Figure 2.  Figure 2. Five plastic samples with different inorganic pigments. Sensors 2021, 21, 4709
+
+5 of 18
+
+Figure 3. The structure of the Terascan 1550 THz-FDS (frequency domain spectroscopy) system.
+
+Two tunable DFB lasers were utilized for generating optical signals with different
+wavelengths, λ1 and λ2, and mixed within the optical ﬁber coupler. The resulting optical
+signal was modulated with frequency f , which can be expressed as,
+
+f = c·n·
+
+∆λ
+λ1λ2
+
+(1)
+
+where c is the speed of light in the vacuum, n is effective refractive Index (n ≈ 1.4682 for an
+optical ﬁber) and ∆λ is the wavelength difference, given as, ∆λ = λ1 − λ2. The two DFB
+laser diodes were of the same type and emitted a light’s wavelength of one DFB. Thelaser
+diode is shifted by cooling and the others by heating [31,32].
+
+The optical source was coupled with the PCAs. The PCA emitter acts as a capacitor
+with the charge EBias if the antenna gap is not lit [33]. The photocurrent is induced when
+the gap is lit with the optical signal. The photocurrent drives a dipole antenna, and the THz
+wave is established [34]. The THz far-ﬁeld ETHz is estimated as,
+
+ETHz(r, t) = −
+
+A
+4πrε0c2
+
+d
+dt
+
+·Js(t) = E0(r)cos(2π f ·t + φ)
+
+(2)
+
+where A is the light illumination area, r is the distance from the source, ε0 is the dielectric
+constant, Js(t) is the induced surface current in the PCA gap, and E0 is the distance depend-
+able peak value. The detector PCA acts in a similar way to the emitter PCA, where the THz
+waves pushed the photocarriers apart with induced voltage VTHz = V0·cos(2π f ·t + φTHz).
+In a transmission-based FDS system, such as that shown in Figure 3, the emitter
+PCA’s emitted beam is collimated through the sample into a PCA detector. The measured
+characteristic of the material is transmittance. The transmittance can generally be described
+as how much of the emitted ﬁeld has passed through the measured media. Transmittance
+T is deﬁned as,
+
+≈
+
+T =
+
+IT
+I0
+
+n2|ET|2
+n1|EI|2
+where ET is the remaining ﬁeld after propagation through the medium, and EI is the emitted
+ﬁeld, IT, I0 are the measured and initial intensity, respectively. Regarding the classical
+electromagnetic theory using the Maxwell equations [1], the THz wave propagation can
+be described accurately. The focus is on the frequency-dependence on absorption and
+dispersion in the measured medium with the transmission spectrometer. Absorption affects
+the amplitude of the propagated wave, and is described with the absorption coefﬁcient
+α(λ). The attenuated intensity of the propagated wave is described as,
+
+(3)
+
+IT(d, λ) = I0e−α(λ)d
+
+(4)
+
+where d is the propagation depth or thickness of the inspected material, and λ is the
+radiation wavelength. The dispersion or change in propagation speed will cause the
+propagated wave’s phase change, as shown in Figure 4.
+
+Sensors 2021, 21, 4709 5 of 18   The sample organization for the deep learning algorithm will be discussed in section five. Only the essential operation principle of the Terascan 1550 is presented for a better overview of the approach and the general understanding of the readers. The system comprises two independent laser sources for signal modulation and two PCAs for emit-ting and detecting THz radiation, depicted in Figure 3.  Figure 3. The structure of the Terascan 1550 THz-FDS (frequency domain spectroscopy) system. Two tunable DFB lasers were utilized for generating optical signals with different wavelengths, 𝜆(cid:2869) and 𝜆(cid:2870), and mixed within the optical fiber coupler. The resulting opti-cal signal was modulated with frequency 𝑓, which can be expressed as, 𝑓=𝑐⋅𝑛⋅𝛥𝜆𝜆(cid:2869)𝜆(cid:2870) (1)where 𝑐 is the speed of light in the vacuum, 𝑛 is effective refractive Index (𝑛≈1.4682 for an optical fiber) and Δλ is the wavelength difference, given as, 𝛥𝜆=𝜆(cid:2869)−𝜆(cid:2870). The two DFB laser diodes were of the same type and emitted a light’s wavelength of one DFB. Thelaser diode is shifted by cooling and the others by heating [31,32]. The optical source was coupled with the PCAs. The PCA emitter acts as a capacitor with the charge 𝐸(cid:3003)(cid:3036)(cid:3028)(cid:3046) if the antenna gap is not lit [33]. The photocurrent is induced when the gap is lit with the optical signal. The photocurrent drives a dipole antenna, and the THz wave is established [34]. The THz far-field 𝐸(cid:3021)(cid:3009)(cid:3053) is estimated as, 𝐸𝑇𝐻𝑧(𝑟,𝑡)=−𝐴4𝜋𝑟𝜀0𝑐2𝑑𝑑𝑡⋅𝐽𝑠(𝑡)=𝐸0(𝑟)𝑐𝑜𝑠(2𝜋𝑓⋅𝑡+𝜙) (2)where 𝐴 is the light illumination area, 𝑟 is the distance from the source, 𝜀(cid:2868) is the die-lectric constant, 𝐽(cid:3046)(𝑡) is the induced surface current in the PCA gap, and 𝐸(cid:2868) is the dis-tance dependable peak value. The detector PCA acts in a similar way to the emitter PCA, where the THz waves pushed the photocarriers apart with induced voltage 𝑉(cid:3021)(cid:3009)(cid:3053)=𝑉(cid:2868)⋅𝑐𝑜𝑠(2𝜋𝑓⋅𝑡+𝜙(cid:3021)(cid:3009)(cid:3053)). In a transmission-based FDS system, such as that shown in Figure 3, the emitter PCA’s emitted beam is collimated through the sample into a PCA detector. The measured characteristic of the material is transmittance. The transmittance can generally be de-scribed as how much of the emitted field has passed through the measured media. Transmittance 𝑇 is defined as, 𝑇=𝑛(cid:2870)|𝐸(cid:3021)|(cid:2870)𝑛(cid:2869)|𝐸(cid:3010)|(cid:2870)≈𝐼(cid:3021)𝐼(cid:2868) (3)where 𝐸(cid:3021) is the remaining field after propagation through the medium, and 𝐸(cid:3010) is the emitted field, 𝐼(cid:3021), 𝐼(cid:2868) are the measured and initial intensity, respectively. Regarding the classical electromagnetic theory using the Maxwell equations [1], the THz wave propa-gation can be described accurately. The focus is on the frequency-dependence on ab-sorption and dispersion in the measured medium with the transmission spectrometer. Absorption affects the amplitude of the propagated wave, and is described with the ab-Sensors 2021, 21, 4709
+
+6 of 18
+
+Figure 4. Dispersion in the measured medium.
+
+The measured photocurrent in the detector PCA’s gap will depend on the emitted
+frequency and the absorption and dispersion in the medium. The THz far-ﬁeld will also
+drop with the square of the distance between the emitter and detector PCA. Nevertheless,
+the distance between the PCA emitter and detector should be considered a phase shift, as
+shown in Figure 5.
+
+Figure 5. Phase change dependency on the variable frequency at ﬁxed distance L between emitter
+PCA and detector PCA.
+
+In the presented setup shown in Figure 1, a ﬁxed distance is considered between the
+PCAs. For measuring an attenuation and phase shift in a medium, the frequency should be
+swept. With sweeping, the frequency f induced photocurrent obtains a sinusoidal form
+(phase fringes) due to the interferometry between the optical signal and THz waves in
+the PCA detector. An example of the measured phase fringes of the sample in Figure 2 is
+shown in Figure 6.
+
+Figure 6. THz frequency sweep-phase fringes.
+
+The amplitude and phase can be extracted from the measured phase fringes in Figure 6.
+The extracted amplitude and phase, with advanced processing algorithms, can be used
+for automated material classiﬁcation and non-invasive inspection. The data processing for
+automated IP classiﬁcation is followed up in the next section.
+
+Sensors 2021, 21, 4709 6 of 18   sorption coefficient α(λ). The attenuated intensity of the propagated wave is described as, 𝐼(cid:3021)(𝑑,𝜆)=𝐼(cid:2868)𝑒(cid:2879)(cid:3080)((cid:3090))(cid:3031) (4)where 𝑑 is the propagation depth or thickness of the inspected material, and λ is the radiation wavelength. The dispersion or change in propagation speed will cause the propagated wave’s phase change, as shown in Figure 4.  Figure 4. Dispersion in the measured medium. The measured photocurrent in the detector PCA’s gap will depend on the emitted frequency and the absorption and dispersion in the medium. The THz far-field will also drop with the square of the distance between the emitter and detector PCA. Neverthe-less, the distance between the PCA emitter and detector should be considered a phase shift, as shown in Figure 5.  Figure 5. Phase change dependency on the variable frequency at fixed distance L between emitter PCA and detector PCA. In the presented setup shown in Figure 1, a fixed distance is considered between the PCAs. For measuring an attenuation and phase shift in a medium, the frequency should be swept. With sweeping, the frequency 𝑓 induced photocurrent obtains a sinusoidal form (phase fringes) due to the interferometry between the optical signal and THz waves in the PCA detector. An example of the measured phase fringes of the sample in Figure 2 is shown in Figure 6. Whole specterClose viewf[GHz]f[GHz]I[nA]I[nA] Figure 6. THz frequency sweep-phase fringes. Sensors 2021, 21, 4709 6 of 18   sorption coefficient α(λ). The attenuated intensity of the propagated wave is described as, 𝐼(cid:3021)(𝑑,𝜆)=𝐼(cid:2868)𝑒(cid:2879)(cid:3080)((cid:3090))(cid:3031) (4)where 𝑑 is the propagation depth or thickness of the inspected material, and λ is the radiation wavelength. The dispersion or change in propagation speed will cause the propagated wave’s phase change, as shown in Figure 4.  Figure 4. Dispersion in the measured medium. The measured photocurrent in the detector PCA’s gap will depend on the emitted frequency and the absorption and dispersion in the medium. The THz far-field will also drop with the square of the distance between the emitter and detector PCA. Neverthe-less, the distance between the PCA emitter and detector should be considered a phase shift, as shown in Figure 5.  Figure 5. Phase change dependency on the variable frequency at fixed distance L between emitter PCA and detector PCA. In the presented setup shown in Figure 1, a fixed distance is considered between the PCAs. For measuring an attenuation and phase shift in a medium, the frequency should be swept. With sweeping, the frequency 𝑓 induced photocurrent obtains a sinusoidal form (phase fringes) due to the interferometry between the optical signal and THz waves in the PCA detector. An example of the measured phase fringes of the sample in Figure 2 is shown in Figure 6. Whole specterClose viewf[GHz]f[GHz]I[nA]I[nA] Figure 6. THz frequency sweep-phase fringes. Sensors 2021, 21, 4709 6 of 18   sorption coefficient α(λ). The attenuated intensity of the propagated wave is described as, 𝐼(cid:3021)(𝑑,𝜆)=𝐼(cid:2868)𝑒(cid:2879)(cid:3080)((cid:3090))(cid:3031) (4)where 𝑑 is the propagation depth or thickness of the inspected material, and λ is the radiation wavelength. The dispersion or change in propagation speed will cause the propagated wave’s phase change, as shown in Figure 4.  Figure 4. Dispersion in the measured medium. The measured photocurrent in the detector PCA’s gap will depend on the emitted frequency and the absorption and dispersion in the medium. The THz far-field will also drop with the square of the distance between the emitter and detector PCA. Neverthe-less, the distance between the PCA emitter and detector should be considered a phase shift, as shown in Figure 5.  Figure 5. Phase change dependency on the variable frequency at fixed distance L between emitter PCA and detector PCA. In the presented setup shown in Figure 1, a fixed distance is considered between the PCAs. For measuring an attenuation and phase shift in a medium, the frequency should be swept. With sweeping, the frequency 𝑓 induced photocurrent obtains a sinusoidal form (phase fringes) due to the interferometry between the optical signal and THz waves in the PCA detector. An example of the measured phase fringes of the sample in Figure 2 is shown in Figure 6. Whole specterClose viewf[GHz]f[GHz]I[nA]I[nA] Figure 6. THz frequency sweep-phase fringes. Sensors 2021, 21, 4709
+
+7 of 18
+
+3. THz Data Processing
+
+THz spectroscopy creates an immense amount of data which need to be processed.
+The experiment’s main idea and the presented methodology would conﬁrm that the IP
+components mitigate and affect the THz microwaves in the unique futures. All the spectral
+futures in the measurement are surreptitious, and are not expressed clearly. The theory
+can conﬁrm the hypothesis, but automatic classiﬁcation needs in-depth analysis and the
+employment of a reliable processing technique.
+
+As mentioned, the acquired spectroscopic data contain profound information about
+the IP components, the pigment’s color and the prepared pigmented material’s quality. The
+prepared material’s quality is classiﬁed as a dye’s spatial density through the medium and
+the fabricated material’s quality. The preprocessing algorithm needs to be employed before
+the efﬁcient classiﬁcation with the CNN proceeds.
+
+3.1. Preprocessing the Measured Phase Fringes
+
+The preprocessing of the acquired data involves the transformation of the series in
+a 2D single-channel image. The series can be transformed in different ways. The most
+common way to convert the sequence to a 2D array is presented in a data-driven approach
+(DDA). The DDA is often used for series forecasting [35,36], and its array structuring is
+appropriate for big data organizations [37]. The DDA implies data acquired at a particular
+time, and, regarding the classiﬁer algorithm, forecasts future values and events. Often it is
+applied for fault diagnostics based on a large amount of data from different sources [38].
+
+Regarding the DDA methodology, the acquired THz data can be organized similarly.
+The main drawback of DDA with THz-data series is the signiﬁcant rise of the computational
+burden, which demands a complex CNN structure with an extended processing and
+learning phase. The DDA does not ensure sufﬁcient robustness to the measurement
+uncertainty, which limits classiﬁcation efﬁciency and reliability signiﬁcantly. The 2D
+transformation procedure, which is based on four steps, is detailed in the presented work.
+The ﬁrst three algorithms start with peak detection, envelope extraction, and the sub-
+sampling procedure. The last step introduced a windowing spectrum dilation (WSD)
+algorithm, which transforms 1D data into 2D data. The ﬁrst three algorithms are used for
+WSD to lower the complexity of the data and the CNN structure. The proposed WSD is
+crucial for further classiﬁcation and computational complexity. All four steps introduce
+various setting parameters, which affect the CNN’s efﬁciency. It is important to mention
+that there are many different possible approaches to transform a series into an array. The
+paper describes the unique procedure for THz data, which gives more expedient results.
+All four steps are discussed hereafter.
+
+3.2. Peak Detection, Envelope Extraction, and Downsampling
+
+The ﬁrst two steps of preprocessing are peak detection and envelope extraction.
+Envelope extraction is based on quadratic spline interpolation over peak values. The
+peak-ﬁnd function (PFF) objective is to ﬁnd the local maxima in raw measured data,
+with two main parameters: Threshold value and the peak neighborhood interval. The
+threshold value ensures extraction of the upper envelope and rejects small extremes,
+whereas the peak neighborhood reduces lower near lying extremes. The quadratic spline
+interpolation follows after the PFF processing. The quadratic spline interpolation is used
+to preserve the correct envelope shape to cover all signiﬁcant envelop transitions. The
+spline interpolation is calculated regarding the piecewise splines’ selection with given
+measured knots. Each interval length is selected arbitrarily and is an accuracy concern of
+the processed envelope. The interval length is ﬁxed for all measurements. The last step
+before WSD is the downsampling algorithm. The downsampling procedure reduces the
+data complexity, and will be discussed in the section with WSD.
+
+Sensors 2021, 21, 4709
+
+8 of 18
+
+3.3. Data Series Transformation with the Windowing Spectrum Dilation Algorithm
+
+The last step to prepare THz data for CNN processing is transforming the downsam-
+pled envelope to a 2D image. Before the WSD is discussed, the set cut-technique (SetCT)
+will be presented brieﬂy. SetCT is often used in DDA, where the data series is distributed
+equidistantly in the matrix column or row. The technique performs well on the data set,
+where the normal distribution and standard deviation are slowly varying or constant. The
+SetCT transformation for the image ISetCT ∈ Rm×n, m ∈ N, n ∈ N over data set D ∈ R1×r,
+r ∈ N can be described as,
+
+ri = Di
+(cid:12)
+(cid:12)
+d
+(cid:12)
+(cid:12)
+n =
+(cid:12)
+(cid:12)
+m
+
+j∈N, (1 + (i − 1)n) ≤ j < (1 + i·n)
+
+Di =
+
+(cid:110)
+
+(cid:12)
+(cid:12)x ∈ (cid:8)Dj
+(cid:12)
+
+x
+
+(cid:9)
+
+ISetCT = {ri|ri ∈ D, 1 ≤ i ≤ m}
+
+(cid:111)
+
+(5)
+
+where Di ⊂ D, Di ∈ R1×n, d ∈ N, ri is the i − th row of the image, i-is the running index on
+the interval i = [1, 2, . . . , m]. For the presented THz data set, a similar approach does not
+provide adequate results. The main issues are measurement uncertainty and the inability to
+align the measured spectrum accurately with the reference data set. All the uncertainties are
+reﬂected in the spectrum shift, amplitude leak and asymmetry of the previous acquisitions.
+A listed effect prevents accurate data spectrum alignment and reduces the efﬁciency of the
+SetCT technique. The SetCT technique is presented graphically in Figure 7.
+
+Figure 7. Set cut-technique (SetCT) transformation technique.
+
+The WSD method is presented due to the given facts. The WSD transforms the series so
+that each image row contains data from the beginning to the dilation factor. Each image row
+extended the spectrum stepwise with a dilation parameter. At the end of each consecutive
+row the original data belong to the higher measured specter. It follows that each subsequent
+row contains the data of the dilated specter, where the last row embraces the whole specter.
+The proposed approach reduces measurement uncertainty, and overcomes the problem
+with spectrum alignment. The WSD transformation for image IWSD ∈ Rm×n, m ∈ N, n ∈ N
+for dataset D is described as,
+
+ri = Di
+(cid:12)
+(cid:12)
+d
+(cid:12)
+(cid:12)
+n =
+(cid:12)
+(cid:12)
+m
+(cid:12)
+(cid:9)
+(cid:12)x ∈ (cid:8)Dj
+(cid:12)
+j∈N, j = i·k
+Di =
+IWSD = {ri|ri ∈ D, 1 ≤ i ≤ m}
+
+(cid:110)
+
+(cid:111)
+
+x
+
+(6)
+
+Sensors 2021, 21, 4709 8 of 18   measured knots. Each interval length is selected arbitrarily and is an accuracy concern of the processed envelope. The interval length is fixed for all measurements. The last step before WSD is the downsampling algorithm. The downsampling procedure reduces the data complexity, and will be discussed in the section with WSD. 3.3. Data Series Transformation with the Windowing Spectrum Dilation Algorithm The last step to prepare THz data for CNN processing is transforming the downsampled envelope to a 2D image. Before the WSD is discussed, the set cut-technique (SetCT) will be presented briefly. SetCT is often used in DDA, where the data series is distributed equidistantly in the matrix column or row. The technique per-forms well on the data set, where the normal distribution and standard deviation are slowly varying or constant. The SetCT transformation for the image 𝐼(cid:3020)(cid:3032)(cid:3047)(cid:3004)(cid:3021)∈ℝ(cid:3040)×(cid:3041),𝑚∈ℕ,n∈ℕ over data set 𝐷∈ℝ(cid:2869)×(cid:3045), 𝑟∈ℕ can be described as,  𝑟(cid:3036)=𝐷(cid:3036) 𝑛=(cid:3468)𝑑𝑚(cid:3472) 𝐷(cid:3036)=(cid:4676)𝑥(cid:4698)𝑥∈(cid:3419)𝐷(cid:3037)(cid:3423)(cid:3037)∈ℕ,(1+(𝑖−1)𝑛)≤𝑗<(1+𝑖⋅𝑛)(cid:4677) 𝐼(cid:3020)(cid:3032)(cid:3047)(cid:3004)(cid:3021)=(cid:4668)𝑟(cid:3036)|𝑟(cid:3036)∈𝐷,1≤𝑖≤𝑚(cid:4669) (5) where 𝐷(cid:3036)⊂𝐷, 𝐷(cid:3036)∈ℝ(cid:2869)×(cid:3041), 𝑑∈ℕ, 𝑟(cid:3036) is 𝑡ℎ𝑒 𝑖−𝑡ℎ row of the image, 𝑖-is the running index on the interval 𝑖=(cid:4670)1,2,...,𝑚(cid:4671). For the presented THz data set, a similar approach does not provide adequate results. The main issues are measurement uncertainty and the ina-bility to align the measured spectrum accurately with the reference data set. All the un-certainties are reflected in the spectrum shift, amplitude leak and asymmetry of the pre-vious acquisitions. A listed effect prevents accurate data spectrum alignment and reduces the efficiency of the SetCT technique. The SetCT technique is presented graphically in Figure 7. …  …  ...…  ….  ….  ….…  ….  ….  ….…  ….  ….  ….SetCT1 2  m1            2                                                         nmnSetCTI× Figure 7. Set cut-technique (SetCT) transformation technique. The WSD method is presented due to the given facts. The WSD transforms the series so that each image row contains data from the beginning to the dilation factor. Each im-age row extended the spectrum stepwise with a dilation parameter. At the end of each consecutive row the original data belong to the higher measured specter. It follows that each subsequent row contains the data of the dilated specter, where the last row em-braces the whole specter. The proposed approach reduces measurement uncertainty, and overcomes the problem with spectrum alignment. The WSD transformation for image 𝐼(cid:3024)(cid:3020)(cid:3005)∈ℝ(cid:3040)×(cid:3041),𝑚∈ℕ,𝑛∈ℕ for dataset 𝐷 is described as,  𝑟(cid:3036)=𝐷(cid:3036) 𝑛=(cid:3468)𝑑𝑚(cid:3472) 𝐷(cid:3036)=(cid:4676)𝑥(cid:4698)𝑥∈(cid:3419)𝐷(cid:3037)(cid:3423)(cid:3037)∈ℕ,𝑗=𝑖⋅𝑘(cid:4677) (6) Sensors 2021, 21, 4709
+
+9 of 18
+
+where ri is an i-th row of the image, i—is a running index on the interval i = [1, 2, . . . , m]
+and k is a dilation factor. Dilation factor k is determined as k = s·n!, k ∈ N, s ∈ N, where s
+is a dilation stride and can be selected arbitrarily. The WSD is depicted in Figure 8.
+
+Figure 8. The windowing spectrum dilation (WSD) transformation technique.
+
+The WSD transformation can be used on different data sets and preprocessing stages.
+Regarding the downsampling algorithm and WSD, the approach is practical for lowering
+image resolution while still preserving data characteristics. From the WSD adjacent im-
+age row’s observation, each further row contains the data set, which is extended in the
+measured spectrum, but downsampled regarding the data set. In other words, each new
+layer of WSD image represented the low-pass values of the data. This means that the
+adequately downsampled data preserves mainly the shape of the envelope in all image
+layers. The aforementioned conﬁrms that the WSD image transformation is, consequently,
+more resilient to the uncertainties. The image does not contain sharp edges at the ﬁrst
+rows of the image, as can be noticed in the SetCT method. Sharp edges are mainly a
+consequence of the image assembly with a ﬁxed length, where the extracted envelope is
+decreasing monotonically. The preprocessing algorithm contains PFF, envelope extraction,
+the downsampling algorithm, and WSD transformation. The sequence of the preprocessing
+algorithms is presented in Figure 9.
+
+Figure 9. Preprocessing sequences; peak-ﬁnd function, envelope extraction, downsampling, and WSD algorithm.
+
+Sensors 2021, 21, 4709 9 of 18   𝐼(cid:3024)(cid:3020)(cid:3005)=(cid:4668)𝑟(cid:3036)|𝑟(cid:3036)∈𝐷,1≤𝑖≤𝑚(cid:4669) where 𝑟(cid:3036) is an 𝑖−𝑡ℎ row of the image, 𝑖 – is a running index on the interval 𝑖=(cid:4670)1,2,...,𝑚(cid:4671) and 𝑘 is a dilation factor. Dilation factor 𝑘 is determined as 𝑘=𝑠⋅𝑛!, 𝑘∈ℕ, 𝑠∈ℕ, where 𝑠 is a dilation stride and can be selected arbitrarily. The WSD is depicted in Figure 8. …  ….  ….  ….…  ….  ….  ….…  ….  ….  ….WSD1 2  m1            2                                                         n…  ….  …. s specter dilatation …  ….  …. mnWSDI× Figure 8. The windowing spectrum dilation (WSD) transformation technique. The WSD transformation can be used on different data sets and preprocessing stages. Regarding the downsampling algorithm and WSD, the approach is practical for lowering image resolution while still preserving data characteristics. From the WSD ad-jacent image row’s observation, each further row contains the data set, which is extended in the measured spectrum, but downsampled regarding the data set. In other words, each new layer of WSD image represented the low-pass values of the data. This means that the adequately downsampled data preserves mainly the shape of the envelope in all image layers. The aforementioned confirms that the WSD image transformation is, conse-quently, more resilient to the uncertainties. The image does not contain sharp edges at the first rows of the image, as can be noticed in the SetCT method. Sharp edges are mainly a consequence of the image assembly with a fixed length, where the extracted envelope is decreasing monotonically. The preprocessing algorithm contains PFF, envelope extrac-tion, the downsampling algorithm, and WSD transformation. The sequence of the pre-processing algorithms is presented in Figure 9. Raw Data1. Peak-Find Function 2. Envelope extraction3. Downsampling4. WSD Figure 9. Preprocessing sequences; peak-find function, envelope extraction, downsampling, and WSD algorithm. Sensors 2021, 21, 4709 9 of 18   𝐼(cid:3024)(cid:3020)(cid:3005)=(cid:4668)𝑟(cid:3036)|𝑟(cid:3036)∈𝐷,1≤𝑖≤𝑚(cid:4669) where 𝑟(cid:3036) is an 𝑖−𝑡ℎ row of the image, 𝑖 – is a running index on the interval 𝑖=(cid:4670)1,2,...,𝑚(cid:4671) and 𝑘 is a dilation factor. Dilation factor 𝑘 is determined as 𝑘=𝑠⋅𝑛!, 𝑘∈ℕ, 𝑠∈ℕ, where 𝑠 is a dilation stride and can be selected arbitrarily. The WSD is depicted in Figure 8. …  ….  ….  ….…  ….  ….  ….…  ….  ….  ….WSD1 2  m1            2                                                         n…  ….  …. s specter dilatation …  ….  …. mnWSDI× Figure 8. The windowing spectrum dilation (WSD) transformation technique. The WSD transformation can be used on different data sets and preprocessing stages. Regarding the downsampling algorithm and WSD, the approach is practical for lowering image resolution while still preserving data characteristics. From the WSD ad-jacent image row’s observation, each further row contains the data set, which is extended in the measured spectrum, but downsampled regarding the data set. In other words, each new layer of WSD image represented the low-pass values of the data. This means that the adequately downsampled data preserves mainly the shape of the envelope in all image layers. The aforementioned confirms that the WSD image transformation is, conse-quently, more resilient to the uncertainties. The image does not contain sharp edges at the first rows of the image, as can be noticed in the SetCT method. Sharp edges are mainly a consequence of the image assembly with a fixed length, where the extracted envelope is decreasing monotonically. The preprocessing algorithm contains PFF, envelope extrac-tion, the downsampling algorithm, and WSD transformation. The sequence of the pre-processing algorithms is presented in Figure 9. Raw Data1. Peak-Find Function 2. Envelope extraction3. Downsampling4. WSD Figure 9. Preprocessing sequences; peak-find function, envelope extraction, downsampling, and WSD algorithm. Sensors 2021, 21, 4709
+
+10 of 18
+
+4. Convolutional Neural Network Structure Selection and Learning Procedure
+
+The CNN is used to classify different IP content in the plastic material. The signiﬁcant
+advantage of CNN is the recognition’s robustness of spatially distributed futures, which
+mimics the eye’s natural phenomena of cortex vision [35–38]. The pigment classiﬁcation
+in plastic material using the THz-FDS data is not well researched regarding the overview
+of the scientiﬁc works. The characteristic of the THz-FDS data with futures’ dispersal in
+the different frequency domain for each IP component and uncertainties makes classiﬁ-
+cation complex, whereby known classiﬁcation algorithms’ schemes provide poor results.
+The THz-FDS data need additional analysis, and most preprocessing methods and standard
+classiﬁcation structures are inefﬁcient. As is conﬁrmed in section ﬁve, the classiﬁcation with
+1D THz-FDS data and algorithms such as SVM, NB, CT, and DA, does not achieve sufﬁcient
+accuracy and reliability. Therefore, the 1D data are transformed to 2D with WSD, and the
+CNN classiﬁcation procedure is used. CNN’s main advantage is that it does not need an
+additional algorithm for locating the future in the 2D data set. The future can be extracted,
+even if it is randomly spatially distributed, which is beneﬁcial regarding the THz-FDS data
+characteristics. With the proper selection of the WSD and CNN parameters, the accuracy
+of classiﬁcation is evident. The efﬁciency of the CNN depends on the prepared training
+data set, network structure, and hyperparameter selection [39,40], which is discussed later
+in the article.
+
+4.1. Convolutional Neural Network (CNN) Structure and Hyperparameters’ Selection
+
+Regarding the preprocessing algorithms from Section 3, the CNN structure is selected
+for two types of the 2D data set. The ﬁrst CNN structure is tuned for a high-resolution
+and the second CNN for a low-resolution data set. The objective of the parameters’ tuning
+is to design a CNN classiﬁcation structure which satisﬁes the real-time criteria, accuracy,
+and reliability. The selection of CNN structure and layers depends on the complexity of
+the 2D data set preprocessed with SetCT or WSD. The depth of the network is deﬁned
+by the number of consecutive layers, where each layer is related to the ability of the
+network to learn speciﬁed complex patterns, which is desirable for IP classiﬁcation with
+hidden spectral futures. With each added layer, the network gains additional leeway for
+knowledge complexity. On the other hand, too many layers can lead to overﬁts. The
+overﬁt impairs the network’s accuracy and reliability to operate with samples which
+are not associated directly with the training set. The number of kernels, size and stride
+needs to be selected in the design of the CNN structure. The CNN parameters’ selection
+and validation is a complex optimization procedure that is extremely time-consuming
+and requires many iterations and analyses [26]. Four preprocessing methods are used in
+the presented work. All four methods use envelope extraction, and transform 1D data
+in high and low-resolution 2D data with SetCT and WSD. High-resolution 2D data use
+more complex CNN, where low-resolution use a simpliﬁed CNN with fewer layers and
+hyperparameters. Figures 10 and 11 present the CNN structure for full and low-resolution
+2D data with SetCT and WSD transformation.
+
+Figure 10. Convolutional neural network (CNN) structure for full-resolution 2D data.
+
+Sensors 2021, 21, 4709 10 of 18   4. Convolutional Neural Network Structure Selection and Learning Procedure The CNN is used to classify different IP content in the plastic material. The signifi-cant advantage of CNN is the recognition’s robustness of spatially distributed futures, which mimics the eye’s natural phenomena of cortex vision [35–38]. The pigment classi-fication in plastic material using the THz-FDS data is not well researched regarding the overview of the scientific works. The characteristic of the THz-FDS data with futures’ dispersal in the different frequency domain for each IP component and uncertainties makes classification complex, whereby known classification algorithms’ schemes provide poor results. The THz-FDS data need additional analysis, and most preprocessing methods and standard classification structures are inefficient. As is confirmed in section five, the classification with 1D THz-FDS data and algorithms such as SVM, NB, CT, and DA, does not achieve sufficient accuracy and reliability. Therefore, the 1D data are transformed to 2D with WSD, and the CNN classification procedure is used. CNN’s main advantage is that it does not need an additional algorithm for locating the future in the 2D data set. The future can be extracted, even if it is randomly spatially distributed, which is beneficial regarding the THz-FDS data characteristics. With the proper selection of the WSD and CNN parameters, the accuracy of classification is evident. The efficiency of the CNN depends on the prepared training data set, network structure, and hyperpa-rameter selection [39,40], which is discussed later in the article. 4.1. Convolutional Neural Network (CNN) Structure and Hyperparameters’ Selection Regarding the preprocessing algorithms from Section 3, the CNN structure is se-lected for two types of the 2D data set. The first CNN structure is tuned for a high-resolution and the second CNN for a low-resolution data set. The objective of the parameters’ tuning is to design a CNN classification structure which satisfies the re-al-time criteria, accuracy, and reliability. The selection of CNN structure and layers de-pends on the complexity of the 2D data set preprocessed with SetCT or WSD. The depth of the network is defined by the number of consecutive layers, where each layer is related to the ability of the network to learn specified complex patterns, which is desirable for IP classification with hidden spectral futures. With each added layer, the network gains additional leeway for knowledge complexity. On the other hand, too many layers can lead to overfits. The overfit impairs the network’s accuracy and reliability to operate with samples which are not associated directly with the training set. The number of kernels, size and stride needs to be selected in the design of the CNN structure. The CNN pa-rameters’ selection and validation is a complex optimization procedure that is extremely time-consuming and requires many iterations and analyses [26]. Four preprocessing methods are used in the presented work. All four methods use envelope extraction, and transform 1D data in high and low-resolution 2D data with SetCT and WSD. High-resolution 2D data use more complex CNN, where low-resolution use a simplified CNN with fewer layers and hyperparameters. Figures 10 and 11 present the CNN structure for full and low-resolution 2D data with SetCT and WSD transformation. IPReLuReLu10x10/12x2/150x400Conv1Conv2Maxpool1Maxpool2FCCrossInput: 2D data WSD/SetCT22/1515x1510/24x4 Figure 10. Convolutional neural network (CNN) structure for full-resolution 2D data. Sensors 2021, 21, 4709
+
+11 of 18
+
+Figure 11. CNN structure for low-resolution 2D data.
+
+In Figures 10 and 11, Conv, Relu, Maxpool, FC, and Cross are abbreviated for convo-
+lution operation, rectiﬁed linear activation function, max pooling, fully connected layer,
+and cross-entropy, respectively. The numbers in Figures 10 and 11 after the forward slash
+represent the layer stride.
+
+The CNN structure starts with the normalization function, which scales the input 2D
+data to an arbitrary span. Linear unit normalization was used in our work. The ﬁrst layer
+starts with convolutional ﬁlters (CF) or kernels. The CF is a ﬁxed valued moving frame
+with a preselected structure and stride. The repeated pattern extraction is allowed with
+the convolution operation over the inspection image with the kernel. If we represent the
+image as I ∈ Rm×n and kernel as k ∈ Rp×l, p ∈ N, l ∈ N, where p < m and l < n hold the
+convolution for one channel image is presented as,
+
+yv(i, j) = ψ
+
+(cid:33)
+
+(I ∗ kv)(i, j) + b
+
+(cid:32) s
+∑
+v=1
+
+(7)
+
+where v is the number of kernels in the individual convolution layer, ψ is an activation
+function, b is a bias value, and (i, j) is the position of the given pixel. The output of
+the convolution operation is a future map image yv. With a higher selection of v the
+capability of future extraction is improved, whereby the network complexity is increased.
+The CF selection is a tradeoff between network complexity and extraction potential. For
+the activation functions, the ψ rectiﬁed linear activation function is used (ReLu). The ReLu
+function speeds up the learning procedure, and is not prone to vanishing gradient. The
+ReLu is described as,
+
+ReLu(x) = max(0, x)
+
+(8)
+
+where x is a single pixel of the image yv. The second layer, which is followed mainly by
+the convolutional layer, is the pooling layer. The pooling layer reduces the image size by
+extraction of the highest future value in a certain area, determined with a pooling kernel
+size and stride. The used pooling kernel is presented as,
+
+Maxpool(p) = max(0, Ph(i, j))
+
+(9)
+
+where Ph ⊂ yv with Ph ∈ Rh×hh ∈ N and mean kernel size. The number of layers is
+correlated with the classiﬁer’s complexity. The given experiments show that the pooling
+layer can be omitted with WSD processing, due to the downsampling procedure in the
+preprocessing phase. This is a clear indication that the WSD can reduce network complexity.
+The last layer of a CNN is a fully connected layer. The fully connected layer uses the 2D data
+from the previous layer, and turns it into a single vector, where each neuron is connected
+to all other neurons in the neighborhood with a given weight. Each neuron calculates the
+output value as,
+
+yi+1,k = η(
+
+q−1
+∑
+l=1
+
+xi,jwi,j) + bl
+
+(10)
+
+Sensors 2021, 21, 4709 11 of 18   IPReLuReLu58/250x8Conv1Conv2FCCrossInput 2D data WSD/SetCT3x32x28/1 Figure 11. CNN structure for low-resolution 2D data. In Figures 10 and 11, Conv, Relu, Maxpool, FC, and Cross are abbreviated for con-volution operation, rectified linear activation function, max pooling, fully connected layer, and cross-entropy, respectively. The numbers in Figures 10 and 11 after the for-ward slash represent the layer stride. The CNN structure starts with the normalization function, which scales the input 2D data to an arbitrary span. Linear unit normalization was used in our work. The first layer starts with convolutional filters (CF) or kernels. The CF is a fixed valued moving frame with a preselected structure and stride. The repeated pattern extraction is allowed with the convolution operation over the inspection image with the kernel. If we represent the image as 𝑰∈ℝ𝒎×𝒏 and kernel as 𝒌∈ℝ𝒑×𝒍,𝒑∈ℕ,𝒍∈ℕ, where 𝒑<𝒎 and 𝒍<𝒏hold the convolution for one channel image is presented as, 𝑦(cid:3049)(𝑖,𝑗)=𝜓(cid:3437)(cid:3533)(𝐼∗𝑘(cid:3049))(𝑖,𝑗)+𝑏(cid:3046)(cid:3049)(cid:2880)(cid:2869)(cid:3441) (7)where 𝑣 is the number of kernels in the individual convolution layer, 𝜓 is an activation function, 𝑏 is a bias value, and (𝑖,𝑗) is the position of the given pixel. The output of the convolution operation is a future map image 𝑦(cid:3049). With a higher selection of 𝑣 the capa-bility of future extraction is improved, whereby the network complexity is increased. The CF selection is a tradeoff between network complexity and extraction potential. For the activation functions, the 𝜓 rectified linear activation function is used (ReLu). The ReLu function speeds up the learning procedure, and is not prone to vanishing gradient. The ReLu is described as, 𝑅𝑒𝐿𝑢(𝑥)=𝑚𝑎𝑥(0,𝑥) (8)where 𝑥 is a single pixel of the image 𝑦(cid:3049). The second layer, which is followed mainly by the convolutional layer, is the pooling layer. The pooling layer reduces the image size by extraction of the highest future value in a certain area, determined with a pooling kernel size and stride. The used pooling kernel is presented as, 𝑀𝑎𝑥(cid:3043)(cid:3042)(cid:3042)(cid:3039)(𝑝)=𝑚𝑎𝑥(0,𝑃(cid:3035)(𝑖,𝑗)) (9)where 𝑃(cid:3035)⊂ 𝑦(cid:3049) with 𝑃(cid:3035)∈ℝ(cid:3035)×(cid:3035)ℎ∈ℕ and mean kernel size. The number of layers is correlated with the classifier’s complexity. The given experiments show that the pooling layer can be omitted with WSD processing, due to the downsampling procedure in the preprocessing phase. This is a clear indication that the WSD can reduce network com-plexity. The last layer of a CNN is a fully connected layer. The fully connected layer uses the 2D data from the previous layer, and turns it into a single vector, where each neuron is connected to all other neurons in the neighborhood with a given weight. Each neuron calculates the output value as, Sensors 2021, 21, 4709
+
+12 of 18
+
+where q is the number of neurons in the layer, xi,j and wi,j are input signals with associated
+weight, i is a position from the previous neuron or index of the ﬂattened vector, j is the
+current input and bl is the bias of the l-th neuron. The output of the layer is the probability
+value of the classiﬁed set with size z, Y = [y1, y2 . . . , yz]. Regarding Figure 2 and the
+number of different samples, the output size is equal to z = 5.
+
+4.2. CNN Training
+
+After the CNN structure selection with different convolution and pooling layers, the
+training process is associated with hyperparameters’ determination. The CNN training is
+based on cost function minimization, with appropriate adjustment of the kernel coefﬁcient
+and fully connected layer weights. The network is trained with an ADAM optimizer,
+the performance of which has been conﬁrmed by many scholars [41–43]. The ADAM
+algorithm is an extension of the stochastic descent gradient approach, and combines the
+adaptive gradient and root mean square propagation algorithms [44]. The IP classiﬁcation’s
+accuracy and reliability are related strongly to the number and types of layers and the
+preprocessing algorithm.
+
+Each of the CNN structures presented in Figures 10 and 11 were trained regarding
+the preprocessed (SetCt or WSD) 2D input data. The raw 1D data size obtained from THz-
+FDS contained 20,000 samples in the frequency span of 0.1–1.2 Thz. After transformation,
+full-resolution 2D data had a size of 50 × 400, whereby low-resolution data were 50 × 8.
+The low-resolution size was achieved during extensive optimization and iteration. The
+full-resolution and low-resolution 2D data with SeCT and WSD techniques are presented
+in Figure 12.
+
+Figure 12. SetCT and WSD 2D transformation.
+
+The THz-FDS data for CNN training, validation, and testing were acquired from
+different batches with ﬁve different inorganic pigments (see Figure 2). Each batch contained
+100 samples of each pigment. For CNN training, 10 batches were used, which meant
+1000 samples for each pigment. The samples were divided into training, validation, and
+testing groups. Each group contained the same number of samples for each pigment. Such
+an approach offers some guarantee and control over the learning phase to avoid the CNN
+overﬁts. The sample group covered 50% of training, 30% of validation, and 20% of test
+samples, which was 500 samples of each pigment for training, 300 for validation, and 200
+for testing. The CNN learning times and achieved results are presented in Table 1. The
+table’s ﬁrst column µl presents the learning accuracy. The second column is learning time
+tl, given in hours. The third column α is the initial learning rate, and the last is the maximal
+number of preselected epochs.
+
+Sensors 2021, 21, 4709 12 of 18   𝑦(cid:3036)(cid:2878)(cid:2869),(cid:3038)=𝜂((cid:3533)𝑥(cid:3036),(cid:3037)𝑤(cid:3036),(cid:3037)(cid:3044)(cid:2879)(cid:2869)(cid:3039)(cid:2880)(cid:2869))+𝑏(cid:3039) (10)where 𝑞 is the number of neurons in the layer, 𝑥(cid:3036),(cid:3037) and 𝑤(cid:3036),(cid:3037) are input signals with as-sociated weight, 𝑖 is a position from the previous neuron or index of the flattened vector, 𝑗 is the current input and 𝑏(cid:3039) is the bias of the 𝑙-th neuron. The output of the layer is the probability value of the classified set with size 𝑧, 𝑌=(cid:4670)𝑦(cid:2869),𝑦(cid:2870)...,𝑦(cid:3053)(cid:4671). Regarding Figure 2 and the number of different samples, the output size is equal to 𝑧=5. 4.2. CNN Training After the CNN structure selection with different convolution and pooling layers, the training process is associated with hyperparameters’ determination. The CNN training is based on cost function minimization, with appropriate adjustment of the kernel coeffi-cient and fully connected layer weights. The network is trained with an ADAM opti-mizer, the performance of which has been confirmed by many scholars [41–43]. The ADAM algorithm is an extension of the stochastic descent gradient approach, and com-bines the adaptive gradient and root mean square propagation algorithms [44]. The IP classification’s accuracy and reliability are related strongly to the number and types of layers and the preprocessing algorithm. Each of the CNN structures presented in Figures 10 and 11 were trained regarding the preprocessed (SetCt or WSD) 2D input data. The raw 1D data size obtained from THz-FDS contained 20,000 samples in the frequency span of 0.1–1.2 Thz. After transfor-mation, full-resolution 2D data had a size of 50 × 400, whereby low-resolution data were 50 × 8. The low-resolution size was achieved during extensive optimization and itera-tion. The full-resolution and low-resolution 2D data with SeCT and WSD techniques are presented in Figure 12. SetCT (full-resolution)SetCT (low-resolution)WSD (low-resolution)WSD (full-resolution) Figure 12. SetCT and WSD 2D transformation. The THz-FDS data for CNN training, validation, and testing were acquired from different batches with five different inorganic pigments (see Figure 2). Each batch con-tained 100 samples of each pigment. For CNN training, 10 batches were used, which meant 1000 samples for each pigment. The samples were divided into training, valida-tion, and testing groups. Each group contained the same number of samples for each pigment. Such an approach offers some guarantee and control over the learning phase to avoid the CNN overfits. The sample group covered 50% of training, 30% of validation, and 20% of test samples, which was 500 samples of each pigment for training, 300 for validation, and 200 for testing. The CNN learning times and achieved results are pre-sented in Table 1. The table`s first column 𝜇(cid:3039) presents the learning accuracy. The second column is learning time 𝑡(cid:3039), given in hours. The third column 𝛼 is the initial learning rate, and the last is the maximal number of preselected epochs. Sensors 2021, 21, 4709
+
+13 of 18
+
+Table 1. CNN’s learning parameters and results.
+
+SetCTfull
+SWDfull
+SetCTlow
+SWDlow
+
+µl
+0.965
+0.972
+0.85
+0.968
+
+tl(h)
+
+5.40
+4.10
+0.35
+0.15
+
+α
+
+0.001
+0.001
+0.003
+0.003
+
+epochmax
+
+1500
+1500
+350
+350
+
+5. Experimental Results
+
+The classiﬁcation algorithms were tested on the THz-FDS data acquired with the
+TeraScan 1550 presented in Figure 1. The TeraScan system was calibrated only for mea-
+surements in the ﬁrst batch. All other batches used the initial system setting, which is
+not usual for such applications. The THz scanner often requires recalibration, which
+alleviates the external impact and measurement uncertainty. On the other hand, recali-
+bration is time-consuming and reduces system usage. To avoid excessive recalibration
+and ensure classiﬁcation reliability, the robustness property of the algorithm is crucial for
+real-time scanning. The frequency span of the TeraScan system was set to 0.1–1.2 THz, with
+20,000 samples for a single measurement. The peak detection and envelope extraction used
+the maximum seek procedure in a span of 150 samples, where the downsampling ratio was
+set to 1/50. The experimental procedure is depicted in Figure 13.
+
+Figure 13. The experimental procedure.
+
+The results in Tables 2–6 and Figure 14 present the comparison between the SetCT and
+WSD transformation for high- and low-resolution 2D data, with different CNN structures
+presented in Figures 10 and 11. Table 7 and Figure 14 present the comparison between
+different classiﬁcation algorithms based on 1D and 2D input data.
+
+Table 2. Performance evaluation of the THz-FDS classiﬁcation of a black sample.
+
+Black
+
+SetCTfull
+SWDfull
+SetCTlow
+SWDlow
+
+tt(ms)
+
+241.5
+242.7
+1.42
+1.65
+
+µt
+0.951
+0.991
+0.722
+0.985
+
+σt
+
+0.054
+0.039
+0.250
+0.041
+
+µtmax
+1
+1
+0.933
+1
+
+Table 3. Performance evaluation of the THz-FDS classiﬁcation of a blue sample.
+
+Blue
+
+SetCTfull
+SWDfull
+SetCTlow
+SWDlow
+
+tt(ms)
+
+240.1
+241.2
+1.71
+1.66
+
+µt
+0.955
+0.984
+0.756
+0.979
+
+σt
+
+0.037
+0.036
+0.231
+0.039
+
+µtmax
+1
+1
+0.93
+1
+
+µtmin
+0.35
+0.41
+0.23
+0.37
+
+µtmin
+0.38
+0.37
+0.25
+0.33
+
+Sensors 2021, 21, 4709 13 of 18   Table 1. CNN’s learning parameters and results.  𝛍𝐥 𝐭𝐥(𝐡) 𝛂 𝐞𝐩𝐨𝐜𝐡𝐦𝐚𝐱 SetCTfull 0.965 5.40 0.001 1500 SWDfull 0.972 4.10 0.001 1500 SetCTlow 0.85 0.35 0.003 350 SWDlow 0.968 0.15 0.003 350 5. Experimental Results The classification algorithms were tested on the THz-FDS data acquired with the TeraScan 1550 presented in Figure 1. The TeraScan system was calibrated only for measurements in the first batch. All other batches used the initial system setting, which is not usual for such applications. The THz scanner often requires recalibration, which al-leviates the external impact and measurement uncertainty. On the other hand, recalibra-tion is time-consuming and reduces system usage. To avoid excessive recalibration and ensure classification reliability, the robustness property of the algorithm is crucial for re-al-time scanning. The frequency span of the TeraScan system was set to 0.1–1.2 THz, with 20,000 samples for a single measurement. The peak detection and envelope extraction used the maximum seek procedure in a span of 150 samples, where the downsampling ratio was set to 1/50. The experimental procedure is depicted in Figure 13. PreprocessingPeak, Envelope, Downsampling 1D1DTHz-FDSTeraScan0.1-1.2THzSetCTWSDCNNfullCNNlow2DSVM, NB, CT, DA1DMeasruementPreprocessingTransformationClassification Figure 13. The experimental procedure. The results in Tables 2–6 and Figure 14 present the comparison between the SetCT and WSD transformation for high- and low-resolution 2D data, with different CNN structures presented in Figures 10 and 11. Table 7 and Figure 14 present the comparison between different classification algorithms based on 1D and 2D input data. The obtained results of the CNN classification with SetCt and WSD are presented in Tables 2–6. The Table parameters are: 𝑡(cid:3047)(𝑠) is the average processing time for a single item of 2D data, 𝜇(cid:3047) is the average accuracy, 𝜎(cid:3047) is the standard deviation of the 𝜇(cid:3047), and 𝜇(cid:3047)(cid:3040)(cid:3028)(cid:3051), 𝜇(cid:3047)(cid:3040)(cid:3036)(cid:3041) are the best and worst probability values of the testing samples. Table 2. Performance evaluation of the THz-FDS classification of a black sample. Black 𝐭𝐭(𝐦𝐬) 𝛍𝐭 𝛔𝐭 𝛍𝐭𝐦𝐚𝐱 𝛍𝐭𝐦𝐢𝐧 SetCTfull 241.5 0.951 0.054 1 0.35 SWDfull 242.7 0.991 0.039 1 0.41 SetCTlow 1.42  0.722 0.250 0.933 0.23 SWDlow 1.65 0.985 0.041 1 0.37   Sensors 2021, 21, 4709
+
+14 of 18
+
+Table 4. Performance evaluation of the THz-FDS classiﬁcation of a green sample.
+
+Green
+
+SetCTfull
+SWDfull
+SetCTlow
+SWDlow
+
+tt(ms)
+
+242.2
+244.1
+1.52
+1.71
+
+µt
+0.962
+0.977
+0.723
+0.976
+
+σt
+
+0.031
+0.033
+0.251
+0.029
+
+µtmax
+1
+1
+0.943
+1
+
+Table 5. Performance evaluation of the THz-FDS classiﬁcation of a white sample.
+
+White
+
+SetCTfull
+SWDfull
+SetCTlow
+SWDlow
+
+tt(ms)
+
+243.1
+245.1
+1.22
+1.31
+
+µt
+0.963
+0.984
+0.812
+0.981
+
+σt
+
+0.028
+0.023
+0.128
+0.032
+
+µtmax
+1
+1
+0.935
+1
+
+Table 6. Performance evaluation of the THz-FDS classiﬁcation of a yellow sample.
+
+Yellow
+
+SetCTfull
+SWDfull
+SetCTlow
+SWDlow
+
+tt(ms)
+
+242.23
+242.72
+1.71
+1.45
+
+µt
+0.979
+0.986
+0.762
+0.984
+
+σt
+
+0.023
+0.024
+0.169
+0.025
+
+µtmax
+1
+1
+0.919
+1
+
+µtmin
+0.391
+0.392
+0.311
+0.381
+
+µtmin
+0.423
+0.457
+0.341
+0.421
+
+µtmin
+0.533
+0.512
+0.216
+0.491
+
+Figure 14. Confusion matrix of SetCThigh, SetCTlow WSDhigh, and WSDlow.
+
+Sensors 2021, 21, 4709 14 of 18   Table 3. Performance evaluation of the THz-FDS classification of a blue sample. Blue 𝐭𝐭(𝐦𝐬) 𝛍𝐭 𝛔𝐭 𝛍𝐭𝐦𝐚𝐱 𝛍𝐭𝐦𝐢𝐧 SetCTfull 240.1 0.955 0.037 1 0.38 SWDfull 241.2 0.984 0.036 1 0.37 SetCTlow 1.71  0.756 0.231 0.93 0.25 SWDlow 1.66 0.979 0.039 1 0.33 Table 4. Performance evaluation of the THz-FDS classification of a green sample. Green 𝐭𝐭(𝐦𝐬) 𝛍𝐭 𝛔𝐭 𝛍𝐭𝐦𝐚𝐱 𝛍𝐭𝐦𝐢𝐧 SetCTfull 242.2 0.962 0.031 1 0.391 SWDfull 244.1 0.977 0.033 1 0.392 SetCTlow 1.52  0.723 0.251 0.943 0.311 SWDlow 1.71 0.976 0.029 1 0.381 Table 5. Performance evaluation of the THz-FDS classification of a white sample. White 𝐭𝐭(𝐦𝐬) 𝛍𝐭 𝛔𝐭 𝛍𝐭𝐦𝐚𝐱 𝛍𝐭𝐦𝐢𝐧 SetCTfull 243.1 0.963 0.028 1 0.423 SWDfull 245.1 0.984 0.023 1 0.457 SetCTlow 1.22  0.812 0.128 0.935 0.341 SWDlow 1.31 0.981 0.032 1 0.421 Table 6. Performance evaluation of the THz-FDS classification of a yellow sample. Yellow 𝐭𝐭(𝐦𝐬) 𝛍𝐭 𝛔𝐭 𝛍𝐭𝐦𝐚𝐱 𝛍𝐭𝐦𝐢𝐧 SetCTfull 242.23 0.979 0.023 1 0.533 SWDfull 242.72 0.986 0.024 1 0.512 SetCTlow 1.71  0.762 0.169 0.919 0.216 SWDlow 1.45 0.984 0.025 1 0.491 The confusion matrix of CNN classification is presented in Figure 14, where rows and columns represent actual and predicted values, respectively.  Figure 14. Confusion matrix of SetCThigh, SetCTlow WSDhigh, and WSDlow. Sensors 2021, 21, 4709
+
+15 of 18
+
+Table 7. The comparison of classiﬁcation algorithms’ performance.
+
+Algorithm
+
+SetCTfull
+SWDfull
+SetCTlow
+SWDlow
+SVM
+NB
+CT
+DA
+
+tt(ms)
+
+242.23
+242.72
+1.71
+1.45
+1.17
+1.28
+1.21
+1.24
+
+µa
+0.962
+0.984
+0.755
+0.981
+0.73
+0.74
+0.51
+0.89
+
+σt
+
+0.023
+0.024
+0.169
+0.025
+0.23
+0.25
+0.31
+0.102
+
+µtmax
+1
+1
+0.919
+1
+0.851
+0.898
+0.71
+1
+
+µtmin
+0.533
+0.512
+0.216
+0.491
+0.123
+0.231
+0.02
+0.49
+
+The obtained results of the CNN classiﬁcation with SetCt and WSD are presented
+in Tables 2–6. The Table parameters are: tt(s) is the average processing time for a single
+item of 2D data, µt is the average accuracy, σt is the standard deviation of the µt, and µtmax,
+µtmin are the best and worst probability values of the testing samples.
+
+The confusion matrix of CNN classiﬁcation is presented in Figure 14, where rows and
+
+columns represent actual and predicted values, respectively.
+
+The comparisons with support vector machine, naive Bayes, classiﬁcation tree, and
+discriminant analysis [24–26] are presented in Table 7 and Figure 14. All classiﬁcation
+algorithms SVM, NB, CT, and DA used 1D data. The preprocessing data included peak
+detection, envelope extraction, and downsampling algorithms with equal parameters, as
+in WSDlow. Table 7 presents the achieved scores, where µa is the average accuracy of the
+complete validation set for each classiﬁcation algorithm separately.
+
+Figure 15 presents the confusion matrix of the classiﬁcation algorithms SVM, NB, CT,
+
+and DA.
+
+Figure 15. Confusion matrix of support vector machine (SVM), naive Bayes (NB), classiﬁcation tree (CT), and discriminant
+analysis (DA) classiﬁcation algorithms.
+
+The presented results in Tables 2–6 demonstrate the efﬁciency of the learning algorithm
+with the preselected testing group, and show signiﬁcant differences among the approaches
+and CNN structures. The WSD method has a beneﬁcial property, and is efﬁcient with the
+reduced data set. It can be seen that the downsampling ration 1/50 does not inﬂuence
+the classiﬁcation accuracy much; see Tables 2–6 row µt. In contrast to the SetCTlow, such
+a reduction cannot be applied. The full data set, without reduction, showed promising
+
+Sensors 2021, 21, 4709 15 of 18   The comparisons with support vector machine, naive Bayes, classification tree, and discriminant analysis [24–26] are presented in Table 7 and Figure 14. All classification algorithms SVM, NB, CT, and DA used 1D data. The preprocessing data included peak detection, envelope extraction, and downsampling algorithms with equal parameters, as in WSDlow. Table 7 presents the achieved scores, where 𝜇(cid:3028) is the average accuracy of the complete validation set for each classification algorithm separately. Table 7. The comparison of classification algorithms` performance. Algorithm 𝐭𝐭(𝐦𝐬) 𝛍𝐚 𝛔𝐭 𝛍𝐭𝐦𝐚𝐱 𝛍𝐭𝐦𝐢𝐧 SetCTfull 242.23 0.962 0.023 1 0.533 SWDfull 242.72 0.984 0.024 1 0.512 SetCTlow 1.71  0.755 0.169 0.919 0.216 SWDlow 1.45 0.981 0.025 1 0.491 SVM 1.17 0.73 0.23 0.851 0.123 NB 1.28 0.74 0.25 0.898 0.231 CT 1.21 0.51 0.31 0.71 0.02 DA 1.24 0.89 0.102 1 0.49 Figure 15 presents the confusion matrix of the classification algorithms SVM, NB, CT, and DA.  Figure 15. Confusion matrix of support vector machine (SVM), naive Bayes (NB), classification tree (CT), and discrimi-nant analysis (DA) classification algorithms. The presented results in Tables 2–6 demonstrate the efficiency of the learning algo-rithm with the preselected testing group, and show significant differences among the approaches and CNN structures. The WSD method has a beneficial property, and is effi-cient with the reduced data set. It can be seen that the downsampling ration 1/50 does not influence the classification accuracy much; see Tables 2–6 row 𝜇(cid:3047). In contrast to the  SetCTlow, such a reduction cannot be applied. The full data set, without reduction, showed promising efficiency of the IP classification, whereby it requires longer training and operation time, Tables 4–8 row 𝑡(cid:3047). The selection of the CNNfull structure is more demanding and time-consuming than CNNlow, wherein kernel size, stride selection, and layer sequence require more attention and are more sensitive to parameter change than Sensors 2021, 21, 4709
+
+16 of 18
+
+efﬁciency of the IP classiﬁcation, whereby it requires longer training and operation time,
+Tables 2–6 row tt. The selection of the CNNfull structure is more demanding and time-
+consuming than CNNlow, wherein kernel size, stride selection, and layer sequence require
+more attention and are more sensitive to parameter change than CNNlow. Comparing
+both reduced and full-data sets shows that the WSD is a more suitable technique than
+SetCT. The advantage of WSD is in the 2D data structuring and CNN convolution layer
+operation, where the claims discussed in Section 3.3 are conﬁrmed with the experiments.
+The reduction of the 2D data also beneﬁts the CNN structure. Figures 10 and 11 show that
+the CNN with the lower 2D data does not contain a max-pooling layer. It was conﬁrmed
+that WSD has an advantage as a data reduction technique and structure relaxation for
+the THz-FSD measurement and CNN. A max-pooling layer with WSDlow lowers CNN’s
+reliability, which means that the reduced 2D data after downsampling contained all the
+signiﬁcant spectral futures of the measurement, and additional simpliﬁcation inside the
+CNN eliminated them. Apparent differences can be seen from the confusion values in
+Figure 14 by WSDfull and WSDlow, where the scattering of the SetCT scores is evident,
+which means the downsampling of SetCT deteriorated the results. The WSD confusion
+values in Tables 2 and 6 are more consistent than SetCTs and indicate that the WSD
+approach had higher robustness. The WSD advantage can ﬁnally be conﬁrmed with
+an accuracy of reduced WSDlow, which is comparable with WSDfull. Comparing the
+classiﬁcation algorithms in Figure 15 and Table 7 shows that the WSD achieved the highest
+results and outperformed the 1D-based algorithms. Regarding the confusion matrix in
+Figure 14, DA performed better than the SVM, NB, and CT but still reached lower results
+than the 2D-based algorithms, except for SetCTlow. SVM and NB achieved results with an
+approximate accuracy of 70% and CT close to 50%. It needs to be mentioned that, with
+the use of unprocessed 1D data, the accuracy of SVM, NB, CT, DA was much lower than
+with the preprocessed data presented in Table 7. The comparison shows that the approach
+using WSD-CNN over THz-FDS data had higher accuracy and the best performance. The
+transformation from 1D into 2D data with WSD was beneﬁcial for the THz-FDS approach.
+The paper shows that the IP component in the plastic material can be classiﬁed with THz-
+FDS data and the proposed WSD-CNN structure with an average accuracy of 98%. It is
+also evident that each IP in plastic material has unique spectral characteristics in the THz
+domain and non-destructive analysis is possible.
+
+6. Conclusions
+
+This paper presents an automated inorganic pigment classiﬁcation in plastic material
+using THz spectroscopic data. The efﬁciency of 2D WSD transformation with CNN classiﬁ-
+cation gave promising results, and outperformed similar classiﬁcation techniques based on
+1D input data. The 2D transformation of THz-FDS data showed a strong correlation with
+the classiﬁcation accuracy, where the efﬁciency of WSD was conﬁrmed with the experiment
+results. The WSD was more robust on uncertainties and bias, and enabled considerably
+more data simpliﬁcation with insigniﬁcant reduction of the classiﬁcation reliability. Data
+reduction speeds up the CNN processing, and can be appropriate for a real-time operation,
+where the accuracy is not the substantial trade-off between speed and accuracy. The work
+can be extended to additional pigments, and all the requirements can be preserved.
+
+The current state of the presented work shows additional possibilities for improve-
+ment. The ﬁrst option could be exact determination of the THz span with higher pigment
+sensitivity. Such an approach will, additionally, reduce the data complexity and speed up
+classiﬁcation. The second option would be regarding the WSD technique. The WSD can
+also be used in the opposite direction, starting at the end of the THz-FDS specter. In this
+case, the higher frequency data would be exploited notably, which could increase reliability.
+Finally, a very promising improvement, which should be worthy of investigation is the THz
+data transformation into the 2-channel 2D data. The two-channel 2D data can represent
+complex values, where extraction would be needed of the phase from the THz-FDS data.
+
+Sensors 2021, 21, 4709
+
+17 of 18
+
+Author Contributions: Conceptualization, D.G., B.P., A.S.; methodology, D.G., B.P.; software, B.P.,
+A.S.; validation, A.S., B.P.; formal analysis, A.S., D.G., B.P.; investigation, D.G., B.P., A.S.; writing—
+original draft prepa-ration, A.S., B.P.; writing—review and editing, D.G.; visualization, A.S., B.P.;
+supervision, D.G.; funding acquisition, D.G. All authors have read and agreed to the published
+version of the manuscript.
+
+Funding: This research was funded by the Slovenian Research Agency (ARRS) Grant number J7-9408.
+
+Conﬂicts of Interest: The authors declare no conﬂict of interest.
+
+References
+
+1.
+2.
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+8.
+
+Yun-Shik, L. Principles of Terahertz Science and Technology; Springer Science & Business Media: Boston, MA, USA, 2009.
+Baxter, J.B.; Guglietta Terahertz, G.W. Terahertz Spectroscopy. Anal. Chem. 2011, 83, 4342–4368. [CrossRef]
+Naftaly, M.; Vieweg, N.; Deninger, A. Industrial applications of terahertz sensing: State of play. Sensors 2019, 19, 4203. [CrossRef]
+[PubMed]
+Saﬁan, R.; Ghazi, G.; Mohammadian, N. Review of photomixing continuous-wave terahertz systems and current application
+trends in terahertz domain. Opt. Eng. 2019, 58, 1. [CrossRef]
+Kong, D.-Y.; Wu, X.-J.; Wang, B.; Gao, Y.; Dai, J.; Wang, L.; Ruan, C.J.; Miao, J.-G. High resolution continuous wave terahertz
+spectroscopy on solid-state samples with coherent detection. Opt. Express 2018, 26, 17964–17976. [CrossRef] [PubMed]
+Valíˇcek, J.; Harniˇcárová, M.; Öchsner, A.; Hutyrová, Z.; Kušnerová, M.; Tozan, H.; Michenka, V.; Šepelák, V.; Mital’, D.; Zajac,
+J. Quantifying the Mechanical Properties of Materials and the Process of Elastic-Plastic Deformation under External Stress on
+Material. Materials 2015, 8, 7401–7422. [CrossRef] [PubMed]
+Kent, R. Quality Management in Plastics Processing, 1st ed.; Elsevier: Amsterdam, The Netherlands, 2016.
+Jung, H.; Lee, C.W.; Park, G. Fast and Non-invasive Surface Crack Detection of Press Panels Using Image Processing. Procedia
+Eng. 2017, 188, 72–79. [CrossRef]
+
+9. Michalik, P.; Zajac, J.; Hatala, M.; Mital, D.; Fecova, V. Monitoring surface roughness of thin-walled components from steel C45
+
+10.
+
+machining down and up milling. Measurement 2014, 58, 416–428. [CrossRef]
+Fischer, B.M.; Wietzke, S.; Reuter, M.; Peters, O.; Gente, R.; Jansen, C.; Vieweg, N.; Koch, M. Investigating material characteristics
+and morphology of polymers using terahertz technologies. IEEE Trans. Terahertz Sci. Technol. 2013, 3, 259–268. [CrossRef]
+11. Wietzke, S.; Jansen, C.; Reuter, M.; Jung, T.; Kraft, D.; Chatterjee, S.; Fischer, B.M.; Koch, M. Terahertz spectroscopy on polymers:
+
+A review of morphological studies. J. Mol. Struct. 2011, 1006, 41–51. [CrossRef]
+
+12. Yakovlev, E.V.; Zaytsev, K.I.; Dolganova, I.N.; Yurchenko, S.O. Non-destructive evaluation of polymer composite materials at
+themanufacturing stage using terahertz pulsed spectroscopy. IEEE Trans. Terahertz Sci. Technol. 2015, 5, 810–816. [CrossRef]
+Sommer, S.; Raidt, T.; Fischer, B.M.; Katzenberg, F.; Tiller, J.C.; Koch, M. THz-spectroscopy on high density polyethylene with
+dierent crystallinity. J. Infrared Millim. Terahertz Waves 2016, 37, 189–197. [CrossRef]
+
+13.
+
+14. Engelbrecht, S.; Tybussek, K.; Sampaio, J.; Böhmler, J.; Fischer, B.M.; Sommer, S. Monitoring the Isothermal Crystallization
+
+15.
+
+Kinetics of PET-A Using THz-TDS. J. Infrared Millim. Terahertz Waves 2019, 40, 306–313. [CrossRef]
+Shi, C.; Ma, Y.; Zhang, J.; Wei, D.; Wang, H.; Peng, X.; Tang, M.; Yan, S.; Zuo, G.; Du, C.; et al. Terahertz time-domain spectroscopy
+of chondroitin sulfate. Biomed. Opt. Express 2018, 9, 1350. [CrossRef]
+
+16. Bernier, M.; Garet, F.; Coutaz, J.L. Precise determination of the complex refractive index of scattering and absorbing samples
+by combining THz-TDS and a Kramers-Kronig analysis. In Proceedings of the 2016 41st International Conference on Infrared,
+Millimeter, and Terahertz waves (IRMMW-THz), Copenhagen, Denmark, 25–30 September 2016; pp. 9–10. [CrossRef]
+
+17. Pohl, A.; Deßmann, N.; Dutzi, K.; Hübers, H.W. Identiﬁcation of Unknown Substances by Terahertz Spectroscopy and Multivariate
+
+Data Analysis. J. Infrared Millim. Terahertz Waves 2016, 37, 175–188. [CrossRef]
+
+18. Li, Z.; Rothbart, N.; Deng, X.; Geng, H.; Zheng, X.; Neumaier, P.; Hübers, H.W. Qualitative and quantitative analysis of terahertz
+
+gas-phase spectroscopy using independent component analysis. Chemom. Intell. Lab. Syst. 2020, 206, 104129. [CrossRef]
+
+19. Liu, J. Terahertz spectroscopy and chemometrics classiﬁcation of transgenic corn oil from corn edible oil. Microw. Opt. Technol.
+
+Lett. 2017, 59, 654–658. [CrossRef]
+
+20. Ren, A.; Zahid, A.; Imran, M.A.; Alomainy, A.; Fan, D.; Abbasi, Q.H. Terahertz sensing for fruit spoilage monitoring. arXiv 2018,
+
+arXiv:1804.10587.
+
+21. Lu, J.-H.; Chen, C.; Huang, C.; Leu, S.-Y.; Lee, D.-J. Glucose fermentation with biochar amended consortium: Sequential
+
+fermentations. Bioresour. Technol. 2020, 303, 122933. [CrossRef] [PubMed]
+
+22. Hassaballah, M.; Awad, A.I. Deep Learning in Computer Vision: Principles and Applications, 1st ed.; CRC Press: Boca Raton, FL,
+
+USA, 2020.
+
+23. Abiodun, O.I.; Jantan, A.; Omolara, A.E.; Dada, K.V.; Mohamed, N.A.; Arshad, H. State-of-the-art in artiﬁcial neural network
+
+applications: A survey. Heliyon 2018, 4, e00938. [CrossRef] [PubMed]
+
+24. Kang, R.; Park, B.; Eady, M.; Ouyang, Q.; Chen, K. Classiﬁcation of foodborne bacteria using hyperspectral microscope imaging
+technology coupled with convolutional neural networks. Appl. Microbiol. Biotechnol. 2020, 104, 3157–3166. [CrossRef] [PubMed]
+25. Liu, Z.; Cao, Y.; Li, Y.; Xiao, X.; Qiu, Q.; Yang, M.; Zhao, Y.; Cui, L. Automatic diagnosis of fungal keratitis using data augmentation
+and image fusion with deep convolutional neural network. Comput. Methods Programs Biomed. 2020, 187, 105019. [CrossRef]
+
+Sensors 2021, 21, 4709
+
+18 of 18
+
+26. Brili, N.; Ficko, M.; Klanˇcnik, S. Automatic Identiﬁcation of Tool Wear Based on Thermography and a Convolutional Neural
+
+Network during the Turning Process. Sensors 2021, 21, 1917. [CrossRef] [PubMed]
+
+27. Kakani, V.; Cui, X.; Ma, M.; Kim, H. Vision-Based Tactile Sensor Mechanism for the Estimation of Contact Position and Force
+
+Distribution Using Deep Learning. Sensors 2021, 21, 1920. [CrossRef] [PubMed]
+
+28. Malajner, M.; Gleich, D.; Planinsic, P. Soil type characterization for moisture estimation using machine learning and UWB-Time of
+
+29.
+
+30.
+
+Flight measurements. Measurement 2019, 146, 537–543. [CrossRef]
+Japkowicz, N.; Shah, M. Evaluating Learning Algorithms: A Classiﬁcation Perspective, 1st ed.; Cambridge University Press: New York,
+NY, USA, 2014.
+Suthaharan, S. Machine Learning Models and Algorithms for Big Data Classiﬁcation: Thinking with Examples for Effective Learning;
+Springer: Boston, MA, USA, 2016.
+
+31. Njegovec, M.; Donlagic, D. Rapid and broad wavelength sweeping of standard telecommunication distributed feedback laser
+
+diode. Opt. Lett. 2013, 38, 1999–2001. [CrossRef]
+
+32. Guo, R.; Lu, J.; Liu, S.; Shi, Y.; Zhou, Y.; Chen, Y.; Luan, J.; Chen, X. Multisection DFB Tunable Laser Based on REC Technique and
+
+33.
+
+34.
+
+35.
+
+Tuning by Injection Current. IEEE Photon. J. 2016, 8, 1–7. [CrossRef]
+Jepsen, P.U.; Jacobsen, R.; Keiding, S.R. Generation and detection of terahertz pulses from biased semiconductor antennas. J. Opt.
+Soc. Am. B 1996, 13, 2424–2436. [CrossRef]
+Saeedkia, D. Terahertz photoconductive antennas: Principles and applications. In Proceedings of the 5th European Conference on
+Antennas and Propagation (EUCAP 2011), Rome, Italy, 11–15 April 2011; pp. 3326–3328.
+Sezer, O.B.; Ozbayoglu, A.M. Algorithmic ﬁnancial trading with deep convolutional neural networks: Time series to image
+conversion approach. Appl. Soft Comput. J. 2018, 70, 525–538. [CrossRef]
+
+36. Wen, L.; Li, X.; Gao, L.; Zhang, Y. A New Convolutional Neural Network-Based Data-Driven Fault Diagnosis Method. IEEE Trans.
+
+Ind. Electron. 2017, 65, 5990–5998. [CrossRef]
+
+37. Yao, Y.; Wang, J.; Xie, M.; Hu, L.; Wang, J. A new approach for fault diagnosis with full-scope simulator based on state information
+
+imaging in nuclear power plant. Ann. Nucl. Energy 2020, 141, 107274. [CrossRef]
+
+38. Lee, G.; Lee, S.J.; Lee, C. A convolutional neural network model for abnormality diagnosis in a nuclear power plant. Appl. Soft
+
+Comput. 2021, 99, 106874. [CrossRef]
+
+39. Li, H.; Lin, Z.; Shen, X.; Brandt, J.; Hua, G. A convolutional neural network cascade for face detection. In Proceedings of the 2015
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Boston, MA, USA, 7–12 June 2015; pp. 5325–5334.
+40. Krizhevsky, A.; Sutskever, I.; Hinton, G.E. Imagenet classiﬁcation with deep convolutional neural networks. Adv. Neural Inf.
+
+Process. Syst. 2012, 1, 1097–1105. [CrossRef]
+
+41. Kingma, D.P.; Ba, J. Adam: A Method for Stochastic Optimization. In Proceedings of the International Conference Learn.
+
+Represent. (ICLR), San Diego, CA, USA, 5–8 May 2015.
+
+42. Bock, S.; Goppold, J.; Weiß, M. An improvement of the convergence proof of the ADAM-Optimizer. In Proceedings of the
+
+43.
+
+OTH-Clusterkonferenz, Weiden, Germany, 13 April 2018.
+Jais, I.K.M.; Ismail, A.R.; Nisa, S.Q. Adam Optimization Algorithm for Wide and Deep Neural Network. Knowl. Eng. Data Sci.
+2019, 2, 41–46. [CrossRef]
+
+44. Caña, J.L.; Herrero, J.G.; López, J.M. Forecasting Nonlinear Systems with LSTM: Analysis and Comparison with EKF. Sensors
+
+2021, 21, 1805. [CrossRef] [PubMed]
+
+

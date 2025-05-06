@@ -1,0 +1,9487 @@
+VIRULENCE, 2018
+VOL. 9, NO. 1, 522–554
+https://doi.org/10.1080/21505594.2017.1313372
+
+REVIEW
+Strategies for combating bacterial bioﬁlms: A focus on anti-bioﬁlm agents
+and their mechanisms of action
+
+Ranita Roya,†, Monalisa Tiwaria,†, Gianfranco Donellib, and Vishvanath Tiwaria
+
+aDepartment of Biochemistry, Central University of Rajasthan, Ajmer, India; bMicrobial Bioﬁlm Laboratory, IRCCS Fondazione Santa Lucia,
+Rome, Italy
+
+ARTICLE HISTORY
+Received 16 September 2016
+Revised 24 March 2017
+Accepted 25 March 2017
+
+KEYWORDS
+anti-bioﬁlm molecules;
+antimicrobial peptide;
+bioﬁlm formation; bioﬁlm
+model; drug resistance;
+herbal molecules
+
+to treat
+
+ABSTRACT
+Bioﬁlm refers to the complex, sessile communities of microbes found either attached to a surface or
+buried ﬁrmly in an extracellular matrix as aggregates. The bioﬁlm matrix surrounding bacteria
+makes them tolerant to harsh conditions and resistant to antibacterial treatments. Moreover, the
+bioﬁlms are responsible for causing a broad range of chronic diseases and due to the emergence of
+antibiotic resistance in bacteria it has really become difﬁcult
+them with efﬁcacy.
+Furthermore, the antibiotics available till date are ineffective for treating these bioﬁlm related
+infections due to their higher values of minimum inhibitory concentration (MIC) and minimum
+bactericidal concentration (MBC), which may result in in-vivo toxicity. Hence, it is critically important
+to design or screen anti-bioﬁlm molecules that can effectively minimize and eradicate bioﬁlm
+related infections. In the present article, we have highlighted the mechanism of bioﬁlm formation
+with reference to different models and various methods used for bioﬁlm detection. A major focus
+has been put on various anti-bioﬁlm molecules discovered or tested till date which may include
+herbal active compounds, chelating agents, peptide antibiotics, lantibiotics and synthetic chemical
+compounds along with their structures, mechanism of action and their respective MICs, MBCs,
+minimum bioﬁlm inhibitory concentrations (MBICs) as well as the half maximal
+inhibitory
+concentration (IC50) values available in the literature so far. Different mode of action of anti bioﬁlm
+molecules addressed here are inhibition via interference in the quorum sensing pathways, adhesion
+mechanism, disruption of extracellular DNA, protein, lipopolysaccharides, exopolysaccharides and
+secondary messengers involved in various signaling pathways. From this study, we conclude that
+the molecules considered here might be used to treat bioﬁlm-associated infections after signiﬁcant
+structural modiﬁcations, thereby investigating its effective delivery in the host. It should also be
+ensured that minimum effective concentration of these molecules must be capable of eradicating
+bioﬁlm infections with maximum potency without posing any adverse side effects on the host.
+
+Introduction
+
+Bioﬁlm refers to the complex communities of microbes
+that may be found attached to a surface or may form
+aggregates without adhering to a surface, as seen in Pseu-
+domonas aeruginosa, Staphylococcus aureus, and some
+other bacteria1-3 and buried ﬁrmly in an extracellular
+matrix (ECM). The bioﬁlm lifestyle allows the bacteria to
+withstand hostile environmental conditions like starva-
+tion, desiccation and makes them capable to cause a
+broad range of chronic diseases. Hence, it is considered
+as a major cause of persistent nosocomial infections in
+immune-compromised patients.4,5 Around 50% of the
+nosocomial infections are conﬁned to the patients by
+indwelling devices used for the purpose of medical treat-
+joint
+ments such as catheters, cardiac pacemakers,
+
+prosthesis, dentures, prosthetic heart valves and contact
+lenses.6,7 These foreign bodies provide an ideal surface
+for the attachment of bacterial cells. Thus a signiﬁcant
+increase in bioﬁlm formation has been observed in the
+presence of implants.8 In many cases, the use of antibiot-
+ics like imipenem, colistin and many more can only
+reduce the bioﬁlms but cannot eliminate the entire bio-
+ﬁlm. Due to their toxic and side effects it is not possible
+to reach the minimal concentration of antibiotic in-vivo.
+The higher values of MIC and MBC for the bioﬁlm bac-
+terial cells have therefore made the antibiotic treatment
+less adequate.6,9-11
+
+Moreover, bioﬁlms protect
+
+the invading bacteria
+against the immune system of host via impaired activa-
+tion of phagocytes and complement system12-14 and also
+
+CONTACT Vishvanath Tiwari
+yAuthors contributed equally to work.
+© 2018 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use,
+distribution, and reproduction in any medium, provided the original work is properly cited.
+
+Department of Biochemistry, Central University of Rajasthan, Ajmer-305817, India.
+
+vishvanath7@yahoo.co.in
+
+increase their resistance against the conventional antibiot-
+ics by around 1000-fold.2,6,15-20 Some other factors may
+also account for this antimicrobial tolerance. Previous
+experimental works revealed several reasons behind the
+resistance, which includes nature and structure of bioﬁlm,
+nutrient and oxygen availability to the bacterial cells and
+intrinsic and acquired bacterial resistance. The involve-
+ment of bioﬁlm in providing resistance was made evident
+from a study on P. aeruginosa where the mucoid nature
+of bioﬁlm was found responsible for high resistance
+toward tobramycin.21 The metabolic state of bioﬁlm-asso-
+ciated bacteria is another potential reason of antimicrobial
+resistance. Cells of
+the nutrient depleted zones (slow
+growing state) in the bioﬁlm may lead to dormancy like
+the stationary phase which makes the bacteria insensitive
+to antibiotics since they divide very infrequently.22,23
+Dividing cells are sensitive to some antibiotics including b
+lactams, thereafter making them unﬁt for use. Walters
+et al. reported that antibiotic resistance was also inﬂu-
+enced by limited oxygen supply as observed in case of P.
+aeruginosa, where antibiotic was effective at the air-bioﬁlm
+interface, the part of the bioﬁlm exposed to oxygen (50–
+90 mm in the bioﬁlm).24 Moreover, studies also demon-
+strate that bioﬁlm cells undergo a higher rate of mutation
+than their planktonic counterparts resulting in a 10-fold
+increase in the efﬁciency of transfer of plasmid having
+antibiotic resistance gene, when bioﬁlm is exposed to a
+sub-lethal concentration of that antibiotic.25
+
+Bjarnsholt et al. demonstrated that mucoid bioﬁlms
+observed in the samples of cystic ﬁbrosis lungs were not
+found adhered to the lung epithelia, instead were adhered
+to the neighboring bacteria embedded in a biopolymeric
+matrix known as aggregated form.2 These ﬁndings were
+subsequently conﬁrmed in the studies performed by other
+researchers1,3 suggesting that non-surface attached aggre-
+gates exhibit similar levels of tolerance to various antibiot-
+ics and polymorphonuclear leukocytes (PMN) as surface
+attached bioﬁlms. The properties of non-surface attached
+aggregates despite being similar to that of bioﬁlms, exhibit
+some differences like they have higher metabolic activity
+than cells in bioﬁlm as well as planktonic cells. These
+aggregates have also been reported to be involved in
+chronic infections and wounds26,27 and middle ear infec-
+tions.28 So, the necessity to ﬁnd new effective drugs that
+could disperse and eliminate the bioﬁlm is of major con-
+cern to prevent and treat various infections caused by
+generation of bioﬁlms.
+
+Therefore, the study of bioﬁlm and the strategies to
+eliminate them is one of the most important ﬁelds of
+research in the present days. Many reviews on anti-bio-
+ﬁlm compounds have already been done, but this review
+focuses especially on different strategies or targets of bio-
+ﬁlm inhibition. A recent review by Wu et al. has
+
+VIRULENCE
+
+523
+
+discussed few strategies to combat bioﬁlm. These strate-
+gies include the removal of infected foreign bodies like
+stents and implants and replacing them with new unin-
+fected ones, inhibition of the quorum sensing pathway
+and modiﬁcation of c-di-GMP to reduce bioﬁlm infec-
+tions.6 Here, we have made an effort to compile all the
+known strategies or targets for combating bioﬁlm, which
+may help the researchers to design new molecules having
+anti-bioﬁlm activity. Here, we have also discussed the
+mechanism of bioﬁlm formation with respect to different
+models followed by various bioﬁlm detection methods
+along with detailed discussion of the mechanism of
+action of anti-bioﬁlm molecules found till date. Many of
+the compounds that exhibit anti-bioﬁlm activity need to
+undergo further modiﬁcations and in-vivo tests followed
+by clinical trials before using them commercially.
+
+Bioﬁlm formation
+
+electrostatic
+
+Bioﬁlm formation on any surface involves mainly 3
+stages. The ﬁrst stage involves attachment of cells to
+a surface followed by assembly of the cells to form
+microcolonies and ﬁnally differentiation of bioﬁlm
+into a mature structure. After the complete develop-
+ment of bioﬁlm,
+its disassembly or dispersion takes
+place through both mechanical and active processes.29
+Deposition of bacteria is especially mediated by sedi-
+mentation, Brownian motion and hydrodynamic
+forces, whereas adhesion to the substratum is gov-
+erned by Lifshitz–Van der Waals, acid–base, hydro-
+interaction forces.30 Certain
+phobic,
+surface associated proteins like OmpA, ﬁbronectin
+binding proteins,31 protein A,32 SasG,33,34 bioﬁlm
+associated protein (BAP)35,36 and many other factors
+are involved in the formation of bioﬁlms, particularly,
+during initial attachment stages. Some species cannot
+attach to a surface but can anchor themselves to the
+matrix or directly to the earlier colonies. Small signal-
+ing molecules with the help of cell-cell communica-
+tion
+This
+phenomenon is generally referred to as quorum sens-
+ing.37 Bioﬁlm formation is a major quorum-sensing
+controlled phenotype.38 In bioﬁlms, the bacterial cells
+are enclosed in an extracellular matrix, which is a
+complex and highly polar mixture of biomolecules
+including proteins, polysaccharides, nucleic acids and
+lipids.39 The matrix provides protection from various
+stress conditions such as antimicrobial exposure or
+immune cells attack. However, the matrix of the bio-
+ﬁlm does not act as a mechanical barrier for the anti-
+microbial agent.40 This was conﬁrmed by a study
+which shows that bioﬁlm formed by b-lactamase-deﬁ-
+cient strain of K. pneumoniae, allowed the penetration
+
+systems mediate
+
+colonization.
+
+this
+
+524
+
+R. ROY ET AL.
+
+of ampicillin whereas in wild type K. pneumoniae
+strain possessing b-lactamase, ampicillin was unable
+to inﬁltrate bioﬁlm,40 suggesting that
+in the latter
+case, ampicillin was rapidly degraded by b-lactamase
+before inﬁltrating the wild type bioﬁlm. Once the bac-
+teria start secreting extracellular polysaccharide sub-
+stance (EPS), second stage of development of bioﬁlm
+comes in process, which is an irreversible process.
+The secretion of EPS is continuous till the third stage
+of formation ensuring the safe attachment of bacteria
+to the surface inside a thickly complex bio-molecular
+layer.41 The fully matured bioﬁlm now takes on a
+tower-like structure having 3 dimensions. These tow-
+small channels, which transport
+ers comprise of
+nutrients, water and waste, and the small cavities
+present in the towers provide shelter for the plank-
+tonic bacteria. Studies also demonstrate that the orga-
+nization and architecture of bioﬁlms vary greatly for
+different bacteria. Exact
+this variation
+remains unclear. However, the adhesive protein LapA
+governs the bioﬁlm formation of P. putida42-44 while
+exopolysaccharides Pel and Psl govern bioﬁlm forma-
+tion in other pseudomonads
+including P. aerugi-
+nosa.45-47 Hence, difference in extracellular matrix
+(ECM) component may give rise to the variations in
+the structure of bioﬁlm. Finally, these towers either
+erode (small parts) or are sloughed off (large parts)
+and get detached, emptying the cavities containing
+non-surface attached bacteria. This is followed by the
+release of fresh bacteria into the environment.48,49
+
+reason for
+
+Some recent studies on various bacterial species such
+as Pseudomonas aeruginosa, Pseudomonas putida, Pseu-
+domonas ﬂuorescens, Yersinia pestis, Escherichia coli,
+Vibrio cholerae, Burkholderia cenocepacia, Salmonella
+enterica, Clostridium difﬁcle, Klebsiella pneumoniae, Vib-
+rio cholerae and Bacillus subtilis demostrate that increase
+in c-di-GMP level, an intracellular secondary messenger
+designates the initiation of bioﬁlm formation and viru-
+lence.42,43,50-58,59-63 c-di-GMP was ﬁrst described as a
+novel secondary messenger in the allosteric activation of
+cellulose synthase of Gluconacetobacter xylinus.55 Several
+types of c-di-GMP diguanylate cyclase and phosphodies-
+terases that are synthesized by bacteria participate in dif-
+ferent c-di-GMP circuits.64 c-di-GMP functions by
+binding to a wide range of receptors which include
+enzymes, adaptor proteins,
+transcription factors and
+riboswitches.61 It has also been reported that various
+environment causes and transducer mechanisms lead to
+an increase in the c-di-GMP level in the cell. This not
+only leads to the production of adhesins but also helps in
+the secretion of extracellular matrix.65,66 In P. aeruginosa,
+the level of c-di-GMP positively regulates the production
+such as CdrA
+of extracellular matrix components
+
+adhesin, alginate exo-polysaccharide, Pel and Psl.53,67
+Along with c-di-GMP, small regulatory RNAs (sRNA)
+also regulate the formation of bioﬁlm in several bacterial
+species.68
+
+Certain bacterial strains have the ability to form
+planktonic aggregates, which depend on growth condi-
+that some strains of
+tions. Previous studies suggest
+S. aureus form large aggregates and the formation pro-
+cess starts in the early exponential growth phase. A clus-
+ter of about 20 cells form a structured population when
+cell density is low. However, at higher density these
+structures are larger forming aggregates up to diameter
+of 1000mm. Extracellular polysaccharide intracellular
+adhesin (referred as polymers of b 1–6 N-acetylglucos-
+amine or PNAG after determination of the chemical
+structure),69 and spa encoding Protein A are reported to
+be responsible for the extensive aggregation.3 Studies by
+Alhede et al. 2011 suggested that the matrix of aggregates
+of P. aeruginosa comprises of DNA and mannose-rich
+extracellular polysaccharide like Psl.1
+
+Bioﬁlm models
+
+Study of various bioﬁlm model systems enhances the
+knowledge regarding the bioﬁlm biology. The bioﬁlms
+are studied using both in-vivo and in-vitro model
+systems. In-vitro bioﬁlm model systems are broadly clas-
+siﬁed into 3 major types including closed or static model,
+open or dynamic models and microcosms. The most
+frequently used closed model systems are microtitre
+plate-based model systems which uses static and batch
+growth conditions.70 In this model, there is no ﬂow of
+media, product or waste materials into or out of the reac-
+tor, so the experimental conditions changes gradually in
+the wells like accumulation of signaling components,
+increase of bacterial population and depletion of
+nutrients in media. Since, it is cost effective and require
+small volume of reagents therefore, numerous tests can
+be performed at a single time.71 Additionally, microtitre
+plate-based models can be used to differentiate between
+bioﬁlm-deﬁcient mutants and bioﬁlm forming wild type
+strains,72,73 determine the antimicrobial and anti-bioﬁlm
+effects of different antimicrobial compounds, identify the
+factors involved in the bioﬁlm initiation such as adhe-
+sins, pili, ﬂagella, enzymes involved in cyclic-di-GMP
+metabolism and genes responsible for extracellular poly-
+saccharide production.74,75 Among the open and
+dynamic models, ﬂow displacement bioﬁlm model
+is
+most commonly used to study bioﬁlms. Unlike the
+microtitre plate method, in this model system, addition
+of nutrients and release of waste products can occur.70,76
+The dynamic model of bioﬁlm formation using perfused
+silicone tubes is one of the most important models for
+
+studying bioﬁlms as it initiates in-vivo conditions very
+closely. Bioﬁlms are formed in a silicone tube system
+under dynamic condition followed by cutting of the tube
+in small pieces for further treatment and investigation.77
+Microcosms constitute another in-vitro model system for
+studying bioﬁlms that mimic with the in situ conditions
+in controlled environment, such as for studying wound
+bioﬁlm, oral bioﬁlm, stream bioﬁlm and dental bio-
+ﬁlm.78-80 Both in-vitro and in-vivo systems can be turned
+into a microcosm by using the same medium and creat-
+ing an artiﬁcial environment to assess the cell metabo-
+lism and behavior. Apart from this there exists an ex-
+vivo model system, which deals with the tissues and
+organs extracted from organisms for the further analysis
+and experimentation in artiﬁcial environment. This
+model can be useful to monitor the bacterial colonization
+and progression in the given tissue or organ. To validate
+the simpliﬁed results provided by the in-vitro model
+studies, certain in-vivo model system studies should be
+performed. To address various therapeutic and diagnos-
+tic challenges the studies of mammalian models closer to
+the humans is necessary. These tissue-associated model
+systems are being used for studying mainly lung infec-
+tions, urinary tract infections as well as the wound infec-
+tions.74,81 Different other models such as central venous
+catheter models; subcutaneous foreign body infection
+models; intra-peritoneal foreign body infection models;
+urinary tract infection models; ear, nose and throat infec-
+tion models; respiratory tract infection models and oste-
+omyelitis infection models have been used for the study
+of these infections.74 The use of mammalian model pos-
+sess some difﬁculties that has made researchers to switch
+over to the non-mammalian model system such as Dro-
+sophila melanogaster, Caenorhabditis elegans or Danio
+rerio.82 The advantages of these models reside in the very
+short generation time and their lower cost. Moreover
+their small sizes provide the ease to maintain them in
+microtitre plates thus making it easier for high through-
+put screening of bioﬁlm formation.
+
+Methods for quantiﬁcation and structural
+assessment of bioﬁlm
+
+Bioﬁlm production can be assessed by several meth-
+ods. The standard assay for screening the presence of
+bioﬁlms is crystal violet (CV) assay by quantifying
+the dye bound to cells on polystyrene and other
+hydrophobic substratum. However, the limitation of
+crystal violet assay includes its indirect nature, and
+requires repeated washings, which may cause loss of
+cells and above all the bioﬁlm has to be disrupted.83
+Tissue Culture Plate (TCP) method84 is also one of
+the most commonly practiced standard method and a
+
+VIRULENCE
+
+525
+
+optical
+
+complexity
+
+crucial
+of
+
+to understand the
+bioﬁlms. These
+
+more reliable process as compared with Congo Red
+Agar method (CRA)85 and Tube method (TM).84
+Other methods for detection of bioﬁlm include biolu-
+minescent assay,86 piezoelectric sensors,87 and Per-
+centage Transmission (%T) method.88 The advances
+in bioﬁlm imaging technology have been proved to be
+and
+very
+dynamics
+techniques
+include ﬂuorescent microscopic examination,89 scan-
+ning electron microscopy (SEM),80 confocal scanning
+light microscopy, infrared
+laser microscopy (CSLM),
+reﬂectance
+spectroscopy,
+spectroscopy and optical
+ﬂuorometry, which can be used to check the existence
+and visualize the 3D structure of bioﬁlm.90-92 How-
+ever, SEM is expensive and quantitation of the bio-
+ﬁlm is difﬁcult. Information on bioﬁlm heterogeneity
+and cell localization can be obtained via ﬂuorescence
+staining coupled with CSLM followed by high-speed
+computing. Reﬂectance assay is a semi-quantitative,
+inexpensive, and nondestructive optical assay for bio-
+ﬁlms on abiotic surfaces and to some extent on biotic
+surfaces. This assay is capable of examining the status
+and morphology of bioﬁlm formation and also reveals
+the bioﬁlm forming ability of bacteria.93-95 To charac-
+terize the chemistry of bioﬁlm NMR and FTIR can be
+taken into use. Nuclear Magnetic Resonance (NMR)
+imaging results demonstrate the water dynamics,
+molecular dynamics and biomolecule diffusion within
+bioﬁlms96,97 and analysis of Fourier Transform Infra-
+red Spectroscopy (FTIR) along with Raman imaging
+of bioﬁlm permits the characterization of extracellular
+and cellular components. Raman imaging generates
+image based on sample’s Raman
+detailed chemical
+along with CSLM
+spectra. Raman spectrometry
+provides information on the spatial distribution of
+biomass, water and chemical composition of P. aeru-
+ginosa bioﬁlms.98,99 One of
+important
+(2-methoxy-4-
+quantitative assay is XTT ((2,3-bis
+nitro-5-sulfophenyl)-5-[(phenylamino)
+carbonyl]-2H-
+tetrazolium hydroxide) reduction assay, where the
+tertazolium dye, XTT is converted to water soluble
+colored formazan due to normal metabolic activities
+of cell.88,100 It not only facilitates the study of intact
+bioﬁlm but also investigates bioﬁlm drug susceptibil-
+ity keeping the bioﬁlm structure undisrupted.101
+
+the most
+
+For the routine diagnosis of bioﬁlm infections sev-
+eral microbiological techniques are commonly used.
+Proper sonication of indwelling devices is found to be
+an efﬁcient technique for the detection of bioﬁlm fol-
+lowed by16S rRNA sequence detection for identifying
+the strain of the organism involved.102,103 In some
+cases, the identiﬁcation of bioﬁlms can be done by
+examining blood leukocyte count, C-reactive protein,
+
+526
+
+R. ROY ET AL.
+
+interleukin-6 and pro-calcitonin level.104,105 In addi-
+tion, ﬂuorescent in situ hybridization (FISH) is used
+for the diagnosis of bioﬁlm infections in cystic ﬁbrosis
+and chronic wounds using either traditionally labeled
+DNA probes or the Peptide Nucleic Acid (PNA)
+probes, the latter having better attributes thereafter
+providing information on community structure of
+bioﬁlms.106-112 To measure anti-bioﬁlm activity, via-
+bility and matrix biomass is assessed. For this, resa-
+zurin and crystal violet
+staining are performed
+sequentially in the same plate. Wheatgerm agglutinin-
+Alexa Fluor 488 ﬂuorescent conjugate are generally
+used to stain the matrix. It is essential to measure the
+bioﬁlm matrix, biomass and viability to investigate
+the efﬁciency of antibiotic treatment.113 The different
+methods of bioﬁlm detection with their principles are
+enlisted in the Table 1.
+
+Strategies to combat bioﬁlm formation
+
+Since bioﬁlm formation contributes to the bacterial
+pathogenicity and resistance toward antibiotics, there
+must be certain strategies to deal with this problem.
+Recently, Wu et al has reported the use of foreign
+bodies as a major cause of increase in bioﬁlm infec-
+tions.6 So, to treat such bioﬁlm associated infections
+it
+is imperative to remove the indwelling medical
+equipment followed by replacement with new unin-
+fected ones
+and aggressive
+administration of antibiotics. Moreover, the implant
+removal should be timed properly so that the new or
+
+along with sensitive
+
+Table 1. Different methods used for bioﬁlm quantiﬁcation.
+
+replaced implant does not get infected when inserted
+in the patient’s body. In cases where removal is not
+possible a long-term administration of antibiotics is
+recommended so as to avert the bioﬁlm from grow-
+ing. According to the previous reports, the premature
+bioﬁlms can be treated more effectively with antibiot-
+ics than that of the mature bioﬁlms. However, the
+inefﬁciency to diagnose premature bioﬁlms in the
+body is the most crucial reason for the occurrence of
+clinical
+conditions, which are mostly related to
+mature form of bioﬁlms.9-11,114 The antibiotic used
+for the treatment of bioﬁlms should be legitimately
+selected on the basis of sensitivity as well as the
+capacity to penetrate properly through the bioﬁlm
+matrix.6 It is evident from the previous studies that
+bacteria underneath bioﬁlms are more resistant
+to
+antibiotics than their planktonic counterparts. There-
+fore, the use of combinatorial therapy is more prefer-
+antibiotic monotherapy.115 The
+able
+combination of agents is advantageous due to differ-
+ent functioning of the individual agents; for example,
+one may be effective against dormant cells and other
+against the growing cells. Moreover, the therapy also
+requires proper dispensation of antibiotic in terms of
+dosages and duration. The discovery of antifouling or
+possible
+antimicrobial
+approach to prevent bioﬁlm formation.116 Polymeric
+hydrophilic coatings such as PEG are used for build-
+ing antifouling surfaces as they minimize or hamper
+the microbial adhesion. Building of antimicrobial sur-
+impregnation with antibiotics or
+faces
+
+instead of
+
+can be
+
+involves
+
+surfaces
+
+another
+
+S. No.
+
+Methods of bioﬁlm detection
+
+Principle
+
+References
+
+1
+
+2
+
+3
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+Tissue culture plate method
+
+TCP method is a standard method for bioﬁlm detection. It simply involves the staining of cells
+
+Tube method
+
+Congo red agar method
+Bioluminescent assay
+
+Crystal violet assay (CV assay)
+
+XTT reduction assay
+
+with crystal violet dye.
+
+bioﬁlm formation
+
+Crystal violet staining ! A visible lining appears on the bottom and wall of tube ! conﬁrms
+
+Congo red staining ! black colonies in crystalline form appears ! conﬁrms bioﬁlm production
+This assay is based on the signaling based detection of metabolically active cells. It involves the
+
+catalysis of ATP and luciferin by luciferase.
+
+The CV assay quantiﬁes the dye bound to bioﬁlm. It actually quantiﬁes all biomass (live, dead
+
+and also matrix of bioﬁlm)
+
+It is mainly used for the quantiﬁcation of Candida bioﬁlms. The reagent XTT: (2,3-bis (2-methoxy-
+4-nitro-5-sulfophenyl)-5-[(phenylamino) carbonyl]-2H-tetrazolium hydroxide is involved here.
+XTT is an age dependent assay hence mature bioﬁlms gives low intensity of color with XTT due
+to less viability of cells.
+
+Scanning Electron Microscopy
+
+This is used to study the morphology of bacteria attached on the surface and for enumeration of
+
+Fluorescent In-situ Hybridization (FISH)
+
+This is used to visualize the patterns of microbial colonization and the composition of microbial
+
+adhered bacteria.
+
+Confocal scanning laser microscopy
+
+This gives the 3-dimensional view of the microbial community. It can show the focused part as
+
+communities.
+
+10
+
+Infrared spectroscopy
+
+11
+
+Piezoelectric sensors
+
+well as the part out of focus.
+
+This technique is used to study molecules such as proteins, polysaccharides, metabolites
+
+essential for bioﬁlms. It also gives the information about different hydrogen bonding states of
+water. Using Attenuated Total Reﬂectance Infrared (ATR-IR spectroscopy, the early bioﬁlm
+development stages including bacterial attachment and growth can be studied.
+
+These monitors the shift in the frequency due to accumulation of mass on the surface of sensor
+
+84
+
+84
+
+85
+
+86
+
+83
+
+88,100
+
+253
+
+108
+
+90-92
+
+94,95
+
+87
+
+disinfectants, mainly polyurethane polymers, which
+are loaded with different antibiotics.117,118 Coating
+with nanoparticles such as silver nanoparticles, anti-
+oxidant nanoparticles can also be used for the preven-
+tion of bioﬁlm formation.69,119 However, the coating
+strategy has encountered difﬁculties as the surface
+quickly gets eroded and hence becomes available for
+the formation of bioﬁlms. Photodynamic therapy
+(PDT) has potential applications in prevention of
+wound bioﬁlm infections. Here, a photoactive dye is
+used followed by irradiation in the presence of oxy-
+thus killing the bacteria.120 During therapy,
+gen,
+proper care should be taken that patient’s eyes are
+not exposed to laser light. With respect to photosensi-
+tizer and photochemical reactions,
+it is very crucial
+that the therapy should be used carefully to stain and
+kill the bacterial cells only without affecting the sur-
+rounding tissues of the patient’s body. Another upris-
+effective anti-bioﬁlm
+ing strategy is
+molecules or the bioﬁlm dissolving substances.121 The
+anti-bioﬁlm molecules interfere with bacterial signal-
+ing pathways in both Gram-positive and Gram-nega-
+tive bacteria. The anti-bioﬁlm molecules may be any
+enzyme, a peptide, an antibiotic, polyphenols etc. In
+the present review, we have discussed about the dif-
+ferent anti-bioﬁlm molecules discovered against dif-
+ferent bacterial
+infections. We have also highlighted
+the mechanism of action of different available anti-
+bioﬁlm molecules. This review will help to understand
+and help
+the
+researchers working in the discovery of new antibiot-
+ics for Gram-negative bacteria.
+
+anti-bioﬁlm molecules
+
+the use of
+
+targets
+
+for
+
+Anti-bioﬁlm molecules and their mechanism of
+action
+
+Anti-bioﬁlm molecules belong to diverse compounds
+thereby inhibiting the bioﬁlm formation. The identiﬁed
+anti-bioﬁlm compounds are mainly isolated from the
+natural sources,122 some synthetic compounds, chelating
+agents, and lantibiotics also have been found to possess
+anti-bioﬁlm activity. The different anti-bioﬁlm molecules
+along with their target microorganisms are listed in the
+Table 2. These anti-bioﬁlm molecules follow different
+mechanisms to inhibit bioﬁlm formation in different
+bacteria as listed in Table 3.
+
+Inhibition of AHL-Mediated quorum sensing
+
+N-acyl homo-serine lactones (AHLs) are used as the sig-
+naling molecules by numerous bacteria especially, Gram-
+negative bacteria during quorum sensing to control their
+
+VIRULENCE
+
+527
+
+population density as well as facilitate swarming motility.
+These signaling molecules vary in their length, substitu-
+tions on acyl side chains123 and are synthesized by a
+LuxI-type synthase. Binding of these molecules at certain
+critical concentrations, to a cognate LuxR-type transcrip-
+tional activator protein regulates the target gene expres-
+sion.124,125 A secondary metabolite derivative, synthetic
+halogenated furanone (Fig. 2) compound is derived from
+natural furanone produced by the Australian macroalga,
+Dilsea pulchra. This compound has the capability to
+interfere with bacterial signaling processes and motility
+of swarm cells. It was also hypothesized that similarity in
+the structure of D. pulchra furanones and AHL mole-
+cules is responsible for affecting the interaction of puta-
+tive regulatory protein with AHL molecules via binding
+competitively to the receptor. Furanones inhibit surface
+aggregation traits in ecologically relevant bacteria in eco-
+logically relevant concentrations.126 Transcription of
+lasB-gfp (ASV) reporter fusion, regulated by quorum
+sensing is interfered by furanone 56 decreasing the extra-
+cellular chitinase and elastase activity and having almost
+no effect on the growth of the bacteria or in the protein
+synthesis. Studies suggested that furanone targets the rhl
+system which is involved in the quorum sensing and also
+penetrates the bioﬁlm matrix of P. aeruginosa thereby
+affecting the expression of genes related to quorum sens-
+ing bioﬂm maturity. This molecule alters the structure of
+the bioﬁlm which facilitates bacterial detachment at an
+increased rate and results in the loss of biomass of the
+bacteria from substratum.123 It was also discovered that
+furanone mediates displacement of AHL molecules from
+Lux R,127 which suggested the competence of furanone
+with the cognate AHL signal for the LuxR receptor site.
+At present, there are several experimental evidences
+which support the observations about furanones such as,
+repression of AHL-dependent expression of biolumines-
+cence,127 inhibition of production and pathogenesis of
+AHL-controlled virulence factor,123,128 and inhibition of
+quorum sensing–controlled luminescence.129 Some pol-
+yphenols (like EGCG, tannic acid, ellagic acid) (Fig. 2)
+are believed to follow the similar mechanism to inhibit
+bioﬁlm formation but due to their less efﬁciency than
+furanones, they are required in higher concentration.38
+Quercetin (Fig. 2), a ﬂavonoid, also inﬂuences quorum
+sensing, hence acts as an anti-bioﬁlm compound against
+S. aureus. It inhibits alginate production in a concentra-
+tion dependent manner; resulting into declination in
+the adherence during bioﬁlm formation. It also reduces
+exopolysaccharide (EPS) production required for the
+initial attachment of bacteria and leads to induction of
+swarming motility.130 Apart from quercetin, 2 more
+synthetic ﬂavanoids are also identiﬁed, which act as
+the dispersed
+potential antimicrobial agent against
+
+4
+5
+2
+
+5
+4
+2
+
+5
+4
+2
+
+5
+4
+2
+
+5
+5
+2
+
+6
+5
+2
+
+5
+5
+2
+
+5
+5
+2
+
+5
+5
+2
+
+l
+
+m
+/
+g
+m
+2
+1
+5
+–
+4
+6
+D
+C
+M
+
+I
+
+l
+
+m
+/
+g
+m
+4
+2
+0
+1
+–
+4
+6
+D
+C
+B
+M
+
+D
+C
+B
+M
+
+I
+
+l
+
+m
+/
+g
+m
+0
+0
+0
+1
+D
+C
+M
+
+I
+
+l
+
+l
+
+m
+/
+g
+m
+2
+1
+5
+>
+C
+M
+
+I
+
+l
+
+m
+/
+g
+m
+4
+6
+D
+C
+M
+
+m
+/
+g
+m
+4
+6
+D
+C
+M
+
+I
+
+I
+
+l
+
+m
+/
+g
+m
+4
+D
+C
+M
+
+I
+
+L
+m
+/
+g
+m
+6
+5
+1
+
+.
+
+l
+
+m
+/
+g
+m
+0
+8
+D
+C
+M
+
+I
+
+D
+C
+B
+M
+
+I
+
+l
+
+m
+/
+g
+m
+0
+5
+2
+D
+C
+M
+
+I
+
+D
+C
+B
+M
+
+I
+
+l
+
+m
+/
+g
+m
+0
+0
+0
+2
+D
+C
+M
+
+I
+
+D
+C
+B
+M
+
+I
+
+l
+
+m
+/
+g
+m
+0
+0
+5
+D
+C
+M
+
+I
+
+l
+
+m
+/
+g
+m
+2
+1
+3
+
+.
+
+l
+
+m
+/
+g
+m
+5
+2
+6
+
+.
+
+l
+
+m
+/
+g
+m
+5
+2
+6
+
+.
+
+7
+5
+2
+5
+5
+2
+
+,
+
+D
+C
+B
+M
+
+I
+
+l
+
+m
+/
+g
+m
+0
+5
+2
+D
+C
+M
+
+I
+
+5
+5
+2
+
+3
+2
+1
+
+4
+3
+1
+
+5
+2
+2
+
+D
+C
+B
+M
+
+l
+
+l
+
+l
+
+l
+
+—
+
+l
+
+l
+
+m
+/
+g
+m
+5
+2
+1
+3
+0
+D
+C
+M
+
+m
+/
+g
+m
+0
+0
+5
+2
+1
+D
+C
+M
+
+I
+
+I
+
+.
+
+l
+
+m
+/
+g
+m
+0
+5
+2
+
+l
+
+m
+/
+g
+m
+8
+D
+C
+B
+M
+
+l
+
+m
+/
+g
+m
+5
+2
+6
+
+.
+
+—
+
+m
+/
+g
+m
+0
+1
+D
+
+l
+
+m
+/
+g
+m
+5
+D
+
+I
+
+0
+5
+C
+B
+M
+
+0
+0
+1
+C
+B
+M
+
+I
+
+l
+
+m
+/
+g
+m
+2
+3
+D
+C
+M
+
+I
+
+m
+/
+g
+m
+0
+1
+D
+
+l
+
+m
+/
+g
+m
+8
+D
+
+I
+
+0
+5
+C
+B
+M
+
+0
+0
+1
+C
+B
+M
+
+I
+
+l
+
+m
+/
+g
+m
+8
+2
+1
+D
+C
+M
+
+I
+
+m
+/
+g
+m
+0
+1
+D
+
+l
+
+m
+/
+g
+m
+2
+D
+
+I
+
+0
+5
+C
+B
+M
+
+0
+0
+1
+C
+B
+M
+
+I
+
+l
+
+m
+/
+g
+m
+4
+6
+D
+C
+M
+
+I
+
+—
+
+m
+/
+g
+m
+0
+1
+D
+
+l
+
+m
+/
+g
+m
+2
+D
+
+l
+
+m
+/
+g
+m
+6
+5
+2
+>
+C
+M
+
+I
+
+I
+
+0
+5
+C
+B
+M
+
+s
+n
+e
+i
+c
+a
+f
+i
+u
+q
+
+i
+l
+
+a
+i
+t
+a
+r
+r
+e
+S
+
+i
+
+a
+s
+o
+n
+g
+u
+r
+e
+a
+
+.
+
+P
+
+i
+i
+
+n
+n
+a
+m
+u
+a
+b
+
+.
+
+A
+
+i
+l
+
+o
+c
+
+.
+
+E
+
+a
+i
+c
+a
+p
+e
+c
+o
+n
+e
+c
+a
+i
+r
+e
+d
+o
+h
+k
+r
+u
+B
+
+l
+
+,
+
+i
+
+e
+a
+n
+o
+m
+u
+e
+n
+p
+
+,
+s
+u
+e
+r
+u
+a
+
+,
+
+m
+u
+i
+r
+u
+m
+h
+p
+y
+t
+
+i
+
+.
+
+K
+
+.
+
+S
+
+.
+
+S
+
+528
+
+R. ROY ET AL.
+
+e
+c
+n
+e
+r
+e
+f
+e
+R
+
+C
+B
+M
+/
+C
+M
+
+I
+
+s
+e
+u
+a
+v
+
+l
+
+0
+5
+C
+I
+/
+C
+B
+M
+
+I
+
+/
+
+a
+i
+r
+e
+t
+c
+a
+b
+t
+e
+g
+r
+a
+T
+
+e
+c
+r
+u
+o
+S
+
+.
+
+a
+i
+r
+e
+t
+c
+a
+b
+t
+e
+g
+r
+a
+t
+
+r
+i
+e
+h
+t
+d
+n
+a
+
+l
+
+l
+
+s
+e
+u
+c
+e
+o
+m
+m
+ﬁ
+o
+b
+-
+i
+t
+n
+a
+
+l
+
+i
+
+t
+n
+e
+r
+e
+f
+f
+i
+
+D
+
+.
+
+2
+e
+l
+b
+a
+T
+
+l
+
+i
+
+m
+ﬁ
+o
+b
+-
+i
+t
+n
+A
+
+l
+
+s
+e
+u
+c
+e
+o
+m
+
+l
+
+.
+
+. N
+S
+
+,
+
+i
+
+a
+s
+o
+n
+g
+u
+r
+e
+a
+
+s
+a
+n
+o
+m
+o
+d
+u
+e
+s
+P
+
+,
+s
+u
+e
+r
+u
+a
+s
+u
+c
+c
+o
+c
+o
+l
+y
+h
+p
+a
+t
+S
+
+,
+i
+i
+
+n
+n
+a
+m
+u
+a
+b
+
+r
+e
+t
+c
+a
+b
+o
+t
+e
+n
+i
+c
+A
+
+e
+a
+i
+t
+c
+a
+a
+g
+s
+y
+d
+
+l
+
+s
+u
+c
+c
+o
+c
+o
+t
+p
+e
+r
+t
+S
+
+s
+a
+n
+o
+m
+o
+h
+p
+o
+r
+t
+o
+n
+e
+t
+S
+
+,
+i
+l
+
+i
+
+o
+c
+a
+h
+c
+i
+r
+e
+h
+c
+s
+E
+
+a
+
+i
+l
+i
+
+h
+p
+o
+t
+l
+a
+m
+
+e
+a
+i
+t
+c
+a
+a
+g
+s
+y
+d
+
+l
+
+s
+u
+c
+c
+o
+c
+o
+t
+p
+e
+r
+t
+S
+
+s
+u
+e
+r
+u
+a
+
+s
+u
+e
+r
+u
+a
+
+.
+
+S
+
+.
+
+S
+
+m
+u
+n
+a
+o
+S
+
+l
+
+i
+
+e
+a
+n
+o
+m
+u
+e
+n
+p
+a
+
+l
+l
+
+e
+i
+s
+b
+e
+l
+K
+
+i
+
+e
+a
+n
+o
+m
+u
+e
+n
+p
+
+.
+
+K
+
+i
+
+e
+a
+n
+o
+m
+u
+e
+n
+p
+
+.
+
+K
+
+i
+
+e
+a
+n
+o
+m
+u
+e
+n
+p
+
+.
+
+K
+
+i
+
+e
+a
+n
+o
+m
+u
+e
+n
+p
+
+.
+
+K
+
+i
+
+e
+a
+n
+o
+m
+u
+e
+n
+p
+
+.
+
+K
+
+i
+
+e
+a
+n
+o
+m
+u
+e
+n
+p
+
+.
+
+K
+
+s
+n
+a
+t
+u
+m
+
+.
+
+S
+
+i
+r
+o
+l
+y
+p
+r
+e
+t
+c
+a
+b
+o
+c
+i
+l
+e
+H
+
+,
+
+i
+
+a
+s
+o
+n
+g
+u
+r
+e
+a
+
+.
+
+P
+
+,
+
+a
+p
+e
+c
+m
+u
+
+i
+l
+l
+
+A
+
+,
+
+a
+r
+e
+f
+i
+n
+i
+v
+
+s
+i
+t
+i
+V
+
+,
+
+a
+c
+i
+t
+s
+e
+m
+o
+d
+
+l
+
+s
+u
+a
+M
+
+,
+
+a
+s
+s
+a
+n
+a
+n
+a
+a
+i
+r
+a
+g
+a
+r
+F
+
+a
+d
+i
+c
+u
+
+l
+
+s
+e
+t
+e
+g
+a
+T
+
+,
+
+e
+s
+o
+i
+c
+e
+p
+s
+a
+
+l
+l
+i
+
+m
+e
+h
+c
+l
+A
+
+,
+
+a
+
+i
+l
+
+o
+f
+i
+g
+n
+o
+b
+o
+a
+n
+
+l
+
+i
+l
+
+o
+t
+n
+a
+S
+
+s
+i
+s
+n
+e
+n
+i
+s
+a
+
+i
+l
+l
+e
+m
+a
+C
+
+e
+n
+i
+t
+n
+e
+p
+r
+e
+s
+a
+ﬁ
+o
+w
+u
+a
+R
+
+l
+
+,
+
+a
+i
+r
+o
+t
+i
+
+m
+o
+v
+a
+ﬁ
+o
+w
+u
+a
+R
+
+l
+
+s
+u
+v
+i
+t
+a
+s
+
+s
+i
+
+m
+u
+c
+u
+C
+
+,
+
+m
+u
+c
+i
+s
+r
+e
+p
+o
+c
+y
+l
+
+a
+t
+a
+t
+s
+i
+r
+a
+
+.
+
+B
+
+,
+s
+i
+r
+a
+g
+u
+v
+
+l
+
+.
+
+B
+
+,
+
+m
+u
+
+i
+l
+
+o
+f
+i
+u
+q
+a
+
+s
+i
+r
+e
+b
+r
+e
+B
+
+,
+s
+i
+s
+n
+e
+n
+h
+c
+
+i
+
+s
+i
+t
+p
+o
+C
+
+,
+s
+i
+s
+n
+e
+d
+a
+n
+a
+c
+
+s
+i
+t
+s
+a
+r
+d
+y
+H
+
+a
+m
+
+i
+s
+s
+i
+g
+n
+o
+
+l
+
+a
+e
+n
+s
+U
+
+a
+t
+a
+t
+s
+i
+r
+a
+
+.
+
+B
+
+,
+s
+i
+r
+a
+g
+u
+v
+
+l
+
+.
+
+B
+
+,
+
+m
+u
+
+i
+l
+
+o
+f
+i
+u
+q
+a
+
+s
+i
+r
+e
+b
+r
+e
+B
+
+m
+u
+c
+i
+t
+a
+m
+o
+r
+a
+m
+u
+g
+i
+z
+y
+S
+
+i
+
+l
+
+,
+s
+t
+n
+a
+p
+m
+u
+m
+i
+c
+O
+
+a
+g
+n
+o
+
+l
+
+a
+m
+u
+c
+r
+u
+C
+
+n
+i
+t
+i
+h
+C
+
+d
+i
+c
+a
+
+c
+i
+g
+a
+
+l
+l
+
+E
+
+l
+
+n
+i
+t
+e
+u
+c
+s
+E
+
+n
+i
+t
+e
+s
+i
+F
+
+i
+
+e
+n
+p
+r
+e
+s
+e
+R
+
+n
+i
+t
+e
+c
+r
+e
+u
+Q
+
+d
+i
+c
+a
+
+l
+
+c
+i
+e
+o
+n
+i
+L
+
+e
+n
+i
+r
+e
+b
+r
+e
+B
+
+n
+a
+s
+o
+t
+i
+h
+C
+
+.
+
+2
+
+.
+
+3
+
+.
+
+4
+
+.
+
+5
+
+.
+
+6
+
+.
+
+7
+
+.
+
+8
+
+.
+
+9
+
+l
+
+o
+n
+e
+g
+u
+E
+
+.
+
+0
+1
+
+i
+
+n
+m
+u
+c
+r
+u
+C
+
+.
+
+1
+1
+
+)
+a
+e
+t
+n
+e
+e
+r
+G
+
+(
+
+s
+i
+s
+e
+n
+i
+s
+a
+
+i
+l
+l
+e
+m
+a
+C
+
+)
+
+G
+C
+G
+E
+(
+
+e
+t
+a
+
+l
+l
+
+i
+
+a
+g
+n
+h
+c
+e
+t
+a
+c
+o
+
+l
+l
+
+i
+
+a
+g
+p
+E
+
+.
+
+1
+
+,
+
+i
+
+a
+s
+o
+n
+g
+u
+r
+e
+a
+
+.
+
+P
+
+e
+n
+o
+n
+a
+r
+u
+f
+
+l
+
+a
+r
+u
+t
+a
+n
+m
+o
+r
+f
+d
+e
+v
+i
+r
+e
+D
+
+)
+6
+5
+-
+F
+(
+
+e
+n
+o
+n
+a
+r
+u
+f
+d
+e
+t
+a
+n
+e
+g
+o
+a
+h
+c
+i
+t
+e
+h
+t
+n
+y
+S
+
+l
+
+.
+
+2
+1
+
+a
+r
+t
+x
+e
+
+y
+b
+d
+e
+c
+u
+d
+o
+r
+P
+
+)
+2
+K
+e
+p
+y
+t
+o
+r
+e
+S
+(
+
+e
+d
+i
+r
+a
+h
+c
+c
+a
+s
+y
+l
+o
+p
+r
+a
+u
+s
+p
+a
+c
+
+l
+
+I
+I
+-
+p
+u
+o
+r
+g
+3
+7
+0
+T
+F
+C
+
+.
+
+4
+1
+
+-
+
+8
+1
+0
+1
+
+e
+d
+i
+t
+p
+e
+P
+
+.
+
+3
+1
+
+,
+
+i
+
+e
+a
+n
+o
+m
+u
+e
+n
+p
+
+s
+u
+e
+r
+u
+a
+
+,
+
+i
+
+a
+s
+o
+n
+g
+u
+r
+e
+a
+
+.
+
+P
+
+.
+
+K
+
+.
+
+S
+
+0
+0
+1
+C
+B
+M
+
+I
+
+,
+i
+l
+
+o
+c
+
+.
+
+E
+
+D
+r
+o
+2
+B
+p
+u
+o
+r
+g
+c
+i
+t
+e
+n
+e
+g
+o
+l
+y
+h
+p
+f
+o
+
+i
+l
+
+o
+c
+.
+E
+
+l
+
+a
+n
+i
+t
+s
+e
+t
+n
+
+i
+
+,
+
+8
+5
+2
+9
+2
+2
+5
+2
+2
+
+,
+
+,
+
+8
+5
+2
+9
+2
+2
+5
+2
+2
+
+,
+
+—
+
+—
+
+s
+u
+e
+r
+u
+a
+
+s
+u
+e
+r
+u
+a
+
+.
+
+S
+
+.
+
+S
+
+i
+
+a
+s
+o
+n
+g
+u
+r
+e
+a
+
+i
+
+a
+s
+o
+n
+g
+u
+r
+e
+a
+
+.
+
+P
+
+.
+
+P
+
+e
+d
+i
+r
+a
+h
+c
+c
+a
+s
+y
+l
+o
+p
+
+l
+
+e
+P
+
+e
+d
+i
+r
+a
+h
+c
+c
+a
+s
+y
+l
+o
+p
+
+l
+s
+P
+
+.
+
+5
+1
+
+.
+
+6
+1
+
+VIRULENCE
+
+529
+
+1
+9
+1
+
+4
+5
+2
+
+9
+5
+2
+
+,
+
+0
+9
+1
+9
+8
+1
+
+,
+
+,
+
+-
+1
+0
+2
+9
+7
+1
+1
+7
+1
+0
+6
+2
+9
+5
+2
+
+,
+
+,
+
+3
+0
+2
+
+1
+6
+2
+
+0
+6
+2
+
+6
+4
+1
+
+,
+
+0
+6
+2
+1
+2
+1
+
+0
+5
+1
+
+3
+9
+1
+
+3
+9
+1
+
+—
+
+l
+
+m
+/
+g
+m
+6
+5
+2
+D
+C
+B
+M
+
+l
+
+m
+/
+g
+m
+8
+–
+4
+D
+C
+M
+
+I
+
+l
+
+l
+
+l
+
+.
+
+m
+/
+g
+m
+5
+0
+D
+C
+M
+
+m
+/
+g
+m
+0
+2
+D
+C
+M
+
+I
+
+I
+
+.
+
+.
+
+m
+/
+g
+m
+5
+0
+D
+C
+M
+
+I
+
+l
+
+m
+/
+g
+m
+1
+D
+C
+M
+
+I
+
+—
+
+—
+
+M
+m
+6
+1
+–
+2
+D
+C
+M
+
+I
+
+.
+
+M
+m
+4
+9
+0
+D
+C
+M
+
+I
+
+l
+
+.
+
+m
+/
+g
+m
+0
+4
+–
+5
+2
+0
+D
+C
+M
+
+I
+
+.
+
+l
+
+m
+/
+g
+m
+0
+5
+D
+C
+M
+
+I
+
+M
+m
+3
+0
+<
+
+.
+
+0
+5
+C
+
+I
+
+—
+
+—
+
+M
+m
+9
+0
+D
+
+.
+
+0
+5
+C
+
+I
+
+.
+
+%
+5
+0
+(cid:2)
+C
+M
+
+I
+
+l
+
+m
+/
+g
+m
+0
+0
+0
+0
+5
+1
+–
+0
+0
+0
+0
+0
+1
+D
+C
+B
+M
+
+I
+
+l
+
+.
+
+.
+
+l
+
+m
+/
+g
+m
+8
+0
+0
+–
+4
+0
+0
+D
+C
+M
+
+m
+/
+g
+m
+8
+0
+0
+–
+2
+0
+0
+D
+C
+B
+M
+
+I
+
+.
+
+.
+
+l
+
+m
+/
+g
+m
+5
+–
+5
+2
+1
+D
+C
+B
+M
+
+I
+
+.
+
+—
+
+l
+
+m
+/
+g
+m
+6
+5
+2
+D
+C
+B
+M
+
+l
+
+m
+/
+g
+m
+8
+5
+1
+D
+C
+M
+
+I
+
+l
+
+m
+/
+g
+m
+8
+5
+1
+D
+C
+M
+
+I
+
+)
+v
+/
+v
+(
+%
+5
+
+)
+e
+g
+a
+p
+t
+x
+e
+n
+n
+o
+
+d
+e
+u
+n
+i
+t
+n
+o
+C
+(
+
+s
+u
+e
+r
+u
+a
+
+.
+
+S
+
+,
+s
+i
+l
+i
+t
+b
+u
+s
+
+s
+u
+
+l
+l
+i
+c
+a
+B
+
+a
+
+i
+l
+i
+
+h
+p
+o
+t
+l
+a
+m
+
+.
+
+S
+
+i
+
+s
+u
+d
+v
+a
+i
+r
+p
+u
+C
+
+,
+r
+o
+t
+a
+c
+e
+n
+
+s
+i
+
+m
+r
+e
+d
+p
+e
+
+i
+
+,
+
+i
+
+a
+s
+o
+n
+g
+u
+r
+e
+a
+
+,
+s
+u
+e
+r
+u
+a
+
+i
+l
+
+o
+c
+
+,
+s
+u
+e
+r
+u
+a
+
+.
+
+P
+
+.
+
+S
+
+.
+
+E
+
+.
+
+S
+
+s
+u
+c
+c
+o
+c
+o
+l
+y
+h
+p
+a
+t
+S
+
+i
+
+s
+i
+d
+m
+r
+e
+d
+p
+e
+
+i
+
+,
+
+i
+
+a
+s
+o
+n
+g
+u
+r
+e
+a
+
+,
+
+i
+
+a
+s
+o
+n
+g
+u
+r
+e
+a
+
+,
+
+i
+
+a
+s
+o
+n
+g
+u
+r
+e
+a
+
+,
+s
+u
+e
+r
+u
+a
+
+,
+s
+u
+e
+r
+u
+a
+
+i
+l
+
+o
+c
+
+,
+s
+u
+e
+r
+u
+a
+
+i
+l
+
+o
+c
+
+,
+
+i
+
+a
+s
+o
+n
+g
+u
+r
+e
+a
+
+i
+l
+
+o
+c
+
+,
+
+i
+
+a
+s
+o
+n
+g
+u
+r
+e
+a
+
+,
+
+i
+
+a
+s
+o
+n
+g
+u
+r
+e
+a
+
+,
+
+i
+
+a
+s
+o
+n
+g
+u
+r
+e
+a
+
+,
+
+i
+
+a
+s
+o
+n
+g
+u
+r
+e
+a
+
+,
+s
+u
+e
+r
+u
+a
+
+,
+s
+u
+e
+r
+u
+a
+
+i
+l
+
+o
+c
+
+,
+s
+u
+e
+r
+u
+a
+
+i
+l
+
+o
+c
+
+,
+s
+u
+e
+r
+u
+a
+
+i
+l
+
+o
+c
+
+,
+s
+u
+e
+r
+u
+a
+
+i
+l
+
+o
+c
+
+i
+l
+
+o
+c
+
+i
+l
+
+o
+c
+
+s
+u
+e
+r
+u
+a
+
+.
+
+S
+
+.
+
+S
+
+.
+
+P
+
+.
+
+S
+
+.
+
+E
+
+.
+
+P
+
+.
+
+S
+
+.
+
+E
+
+.
+
+P
+
+.
+
+S
+
+.
+
+E
+
+.
+
+P
+
+.
+
+S
+
+.
+
+E
+
+.
+
+P
+
+.
+
+S
+
+.
+
+E
+
+.
+
+P
+
+.
+
+S
+
+.
+
+E
+
+.
+
+P
+
+.
+
+S
+
+.
+
+E
+
+.
+
+P
+
+.
+
+S
+
+.
+
+E
+
+.
+
+E
+
+s
+i
+t
+c
+a
+
+l
+
+s
+i
+t
+c
+a
+
+l
+
+s
+u
+c
+c
+o
+c
+o
+t
+c
+a
+L
+
+s
+u
+c
+c
+o
+c
+o
+t
+c
+a
+L
+
+8
+9
+2
+3
+u
+T
+
+r
+a
+u
+
+l
+
+l
+l
+
+e
+c
+a
+r
+t
+x
+e
+d
+e
+t
+e
+r
+c
+x
+e
+
+r
+o
+s
+l
+l
+
+e
+c
+
+l
+
+i
+
+a
+b
+o
+r
+c
+i
+m
+n
+o
+d
+e
+c
+u
+d
+o
+r
+P
+
+s
+e
+i
+t
+i
+e
+o
+m
+c
+i
+l
+i
+
+h
+p
+o
+r
+d
+y
+h
+d
+n
+a
+
+c
+i
+b
+o
+h
+p
+o
+r
+d
+y
+h
+
+)
+t
+n
+a
+t
+c
+a
+f
+r
+u
+s
+o
+B
+(
+d
+p
+
+i
+
+i
+
+i
+l
+
+o
+r
+o
+h
+p
+o
+S
+
+.
+
+7
+1
+
+8
+2
+9
+3
+u
+T
+m
+u
+r
+a
+n
+
+i
+l
+l
+
+a
+g
+s
+u
+c
+c
+o
+c
+o
+l
+y
+h
+p
+a
+t
+S
+
+i
+
+n
+m
+r
+e
+d
+
+i
+l
+l
+
+a
+G
+
+e
+d
+i
+t
+p
+e
+p
+e
+s
+n
+e
+f
+e
+d
+t
+s
+o
+h
+c
+i
+n
+o
+i
+t
+a
+c
+n
+a
+m
+u
+H
+
+7
+3
+-
+L
+L
+
+:
+)
+P
+M
+A
+
+(
+
+e
+d
+i
+t
+p
+e
+p
+
+l
+a
+i
+b
+o
+r
+c
+i
+m
+
+i
+t
+n
+A
+
+.
+
+0
+2
+
+5
+n
+i
+r
+u
+g
+e
+a
+G
+m
+o
+r
+f
+g
+o
+a
+n
+a
+
+l
+
+c
+i
+t
+e
+h
+t
+n
+y
+S
+
+)
+7
+-
+P
+T
+P
+(
+
+e
+d
+i
+t
+p
+e
+p
+c
+i
+t
+y
+L
+
+a
+x
+y
+m
+y
+l
+o
+p
+s
+u
+
+l
+l
+i
+c
+a
+b
+n
+e
+a
+P
+
+i
+
+)
+E
+n
+i
+x
+i
+m
+y
+l
+o
+P
+(
+n
+i
+t
+s
+i
+l
+
+o
+C
+
+.
+
+8
+1
+
+—
+
+B
+n
+i
+x
+y
+m
+y
+l
+o
+P
+
+3
+3
+6
+6
+C
+C
+T
+A
+n
+a
+r
+t
+s
+
+i
+
+s
+i
+l
+i
+t
+b
+u
+s
+
+.
+
+B
+
+s
+i
+t
+c
+a
+
+l
+
+s
+u
+c
+c
+o
+c
+o
+t
+c
+a
+L
+
+n
+i
+s
+i
+N
+
+i
+
+:
+s
+c
+i
+t
+o
+b
+i
+t
+n
+a
+L
+
+.
+
+9
+1
+
+n
+
+i
+l
+i
+t
+b
+u
+S
+
+i
+
+s
+i
+d
+m
+r
+e
+d
+p
+e
+
+i
+
+s
+u
+c
+c
+o
+c
+o
+l
+y
+h
+p
+a
+t
+S
+
+i
+
+n
+m
+r
+e
+d
+p
+E
+
+i
+
+,
+s
+e
+i
+c
+e
+p
+s
+
+s
+u
+c
+c
+o
+c
+o
+l
+y
+h
+p
+a
+t
+S
+
+s
+e
+n
+e
+g
+o
+y
+p
+
+s
+u
+c
+c
+o
+c
+o
+t
+p
+e
+r
+t
+S
+
+d
+n
+a
+
+s
+u
+c
+c
+o
+c
+o
+l
+y
+h
+p
+a
+t
+S
+
+s
+u
+c
+c
+o
+c
+o
+r
+e
+t
+n
+E
+
+i
+
+a
+s
+o
+n
+g
+u
+r
+e
+a
+
+s
+u
+e
+r
+u
+a
+
+.
+
+P
+
+.
+
+S
+
+l
+
+s
+n
+a
+u
+c
+a
+m
+a
+e
+t
+o
+r
+p
+
+.
+
+S
+
+,
+
+i
+
+a
+s
+o
+n
+g
+u
+r
+e
+a
+
+.
+
+P
+
+,
+
+i
+
+a
+s
+o
+n
+g
+u
+r
+e
+a
+
+s
+u
+e
+r
+u
+a
+
+.
+
+P
+
+.
+
+S
+
+a
+i
+r
+a
+i
+r
+o
+c
+
+s
+u
+h
+R
+
+,
+
+a
+i
+r
+o
+t
+c
+e
+f
+n
+
+i
+
+s
+u
+c
+r
+e
+u
+Q
+
+,
+
+l
+
+a
+t
+a
+a
+m
+e
+s
+
+i
+
+s
+u
+h
+R
+
+,
+
+i
+
+i
+
+a
+s
+o
+n
+p
+s
+a
+n
+p
+a
+s
+e
+a
+C
+
+l
+
+i
+
+e
+n
+i
+r
+e
+s
+
+e
+v
+i
+t
+i
+s
+n
+e
+s
+-
+S
+P
+L
+
+a
+
+s
+i
+
+h
+c
+i
+h
+w
+
+,
+
+C
+r
+o
+t
+c
+a
+F
+
+i
+
+f
+o
+n
+a
+m
+o
+d
+3
+-
+i
+h
+s
+u
+s
+
+m
+o
+r
+f
+d
+e
+v
+i
+r
+e
+D
+
+e
+d
+a
+c
+s
+a
+c
+n
+o
+i
+t
+a
+u
+g
+a
+o
+c
+b
+a
+r
+c
+
+l
+
+e
+o
+h
+s
+e
+s
+r
+o
+h
+f
+o
+e
+s
+a
+e
+t
+o
+r
+p
+
+s
+e
+t
+y
+c
+o
+k
+u
+e
+
+l
+
+e
+n
+i
+c
+r
+o
+p
+m
+o
+r
+f
+d
+e
+ﬁ
+i
+t
+n
+e
+d
+
+i
+
+e
+d
+i
+t
+p
+e
+p
+d
+e
+v
+i
+r
+e
+d
+-
+n
+d
+i
+c
+i
+l
+
+i
+
+e
+h
+t
+a
+C
+
+)
+s
+n
+a
+z
+i
+r
+a
+g
+r
+a
+g
+o
+f
+u
+b
+o
+f
+u
+B
+f
+o
+e
+u
+s
+s
+i
+t
+h
+c
+a
+m
+o
+t
+s
+(
+
+I
+-
+n
+i
+r
+o
+f
+u
+B
+m
+o
+r
+f
+d
+e
+v
+i
+r
+e
+D
+
+s
+l
+i
+
+i
+
+l
+
+h
+p
+o
+r
+t
+u
+e
+n
+e
+n
+v
+o
+b
+f
+o
+s
+e
+u
+n
+a
+r
+g
+c
+i
+m
+s
+a
+p
+o
+t
+y
+c
+m
+o
+r
+F
+
+l
+
+i
+l
+
+o
+c
+
+.
+
+E
+
+y
+b
+d
+e
+c
+u
+d
+o
+r
+p
+s
+i
+
+t
+a
+h
+t
+
+e
+d
+i
+t
+p
+e
+p
+d
+e
+ﬁ
+d
+o
+m
+y
+l
+l
+
+i
+
+a
+n
+o
+i
+t
+a
+l
+s
+n
+a
+r
+t
+-
+t
+s
+o
+P
+
+n
+o
+r
+e
+p
+o
+7
+1
+B
+c
+c
+M
+e
+n
+r
+o
+b
+-
+d
+m
+s
+a
+p
+e
+h
+t
+g
+n
+n
+a
+t
+n
+o
+c
+
+i
+
+i
+
+l
+
+i
+
+e
+n
+i
+t
+s
+e
+t
+n
+
+i
+
+l
+l
+
+a
+m
+
+s
+
+’
+
+i
+
+s
+g
+p
+e
+h
+t
+
+m
+o
+r
+f
+d
+e
+t
+a
+o
+s
+I
+
+l
+
+i
+
+A
+T
+D
+E
+m
+u
+d
+o
+s
+a
+r
+t
+e
+T
+)
+b
+(
+
+e
+t
+a
+r
+t
+i
+c
+m
+u
+d
+o
+S
+)
+a
+(
+
+i
+
+:
+s
+t
+n
+e
+g
+a
+g
+n
+i
+t
+a
+l
+e
+h
+C
+
+.
+
+1
+2
+
+l
+
+e
+s
+a
+o
+r
+d
+y
+h
+e
+d
+i
+s
+o
+c
+y
+l
+g
+
+,
+I
+
+e
+s
+a
+e
+l
+c
+u
+n
+o
+b
+i
+r
+y
+x
+o
+e
+D
+
+:
+s
+e
+m
+y
+z
+n
+E
+
+A
+T
+D
+E
+-
+m
+u
+d
+o
+s
+i
+D
+
+i
+
+)
+c
+(
+
+d
+i
+c
+a
+
+c
+i
+n
+n
+a
+T
+
+.
+
+2
+2
+
+.
+
+3
+2
+
+)
+C
+y
+l
+P
+(
+n
+i
+s
+y
+l
+o
+d
+n
+e
+d
+e
+d
+o
+c
+n
+e
+-
+e
+g
+a
+h
+p
+o
+i
+r
+e
+t
+c
+a
+B
+
+.
+
+4
+2
+
+)
+B
+n
+i
+s
+r
+e
+p
+s
+i
+d
+(
+
+r
+e
+v
+
+l
+i
+
+S
+
+.
+
+5
+2
+
+n
+i
+c
+i
+r
+o
+c
+o
+h
+r
+r
+y
+P
+
+7
+1
+B
+n
+i
+c
+o
+r
+c
+i
+M
+
+l
+
+e
+d
+i
+r
+o
+h
+c
+o
+r
+d
+y
+h
+e
+n
+d
+n
+e
+t
+c
+O
+
+i
+
+i
+
+6
+2
+
+s
+e
+d
+i
+t
+p
+e
+p
+
+i
+
+h
+s
+u
+S
+
+3
+2
+-
+P
+A
+M
+P
+
+9
+3
+-
+R
+P
+
+I
+I
+-
+n
+i
+r
+o
+f
+u
+B
+
+i
+
+n
+d
+i
+c
+i
+l
+
+o
+d
+n
+
+I
+
+530
+
+R. ROY ET AL.
+
+e
+c
+n
+e
+r
+e
+f
+e
+R
+
+C
+B
+M
+/
+C
+M
+
+I
+
+s
+e
+u
+a
+v
+
+l
+
+0
+5
+C
+I
+/
+C
+B
+M
+
+I
+
+/
+
+3
+9
+1
+
+3
+9
+1
+
+3
+9
+1
+
+,
+
+5
+7
+1
+2
+3
+1
+
+—
+
+—
+
+—
+
+—
+
+a
+i
+r
+e
+t
+c
+a
+b
+t
+e
+g
+r
+a
+T
+
+,
+
+i
+
+a
+s
+o
+n
+g
+u
+r
+e
+a
+
+i
+
+a
+s
+o
+n
+g
+u
+r
+e
+a
+
+i
+
+a
+s
+o
+n
+g
+u
+r
+e
+a
+
+s
+u
+e
+r
+u
+a
+
+s
+u
+e
+r
+u
+a
+
+s
+n
+a
+c
+i
+b
+a
+
+l
+
+.
+
+C
+
+,
+s
+u
+e
+r
+u
+a
+
+.
+
+P
+
+.
+
+S
+
+.
+
+S
+
+.
+
+P
+
+.
+
+P
+
+.
+
+S
+
+e
+t
+i
+l
+
+o
+b
+a
+t
+e
+m
+n
+e
+h
+c
+i
+l
+
+y
+r
+a
+d
+n
+o
+c
+e
+s
+A
+
+d
+i
+c
+a
+
+c
+i
+n
+s
+U
+
+i
+
+i
+
+e
+d
+n
+a
+u
+g
+b
+e
+n
+e
+l
+y
+h
+t
+e
+m
+a
+x
+e
+h
+y
+l
+o
+P
+
+9
+2
+
+0
+3
+
+e
+c
+r
+u
+o
+S
+
+l
+
+s
+e
+u
+c
+e
+o
+m
+
+l
+
+i
+
+e
+n
+d
+i
+x
+e
+h
+r
+o
+h
+C
+
+l
+
+i
+
+l
+
+m
+ﬁ
+o
+b
+-
+i
+t
+n
+A
+
+.
+
+. N
+S
+
+7
+2
+
+.
+)
+d
+e
+u
+n
+i
+t
+n
+o
+C
+(
+
+.
+
+2
+e
+l
+b
+a
+T
+
+i
+
+e
+n
+d
+o
+
+i
+
+r
+e
+m
+o
+x
+e
+d
+a
+C
+
+8
+2
+
+Table 3. Mechanisms followed by different Anti-bioﬁlm molecules.
+
+VIRULENCE
+
+531
+
+S. N.
+
+1.
+
+2.
+
+Mechanism of action
+
+Molecules associated
+
+Reference
+
+Inhibition of AHL-mediated quorum sensing
+
+Halogenated furanone compounds, Quercetin
+
+pathway
+
+Inhibition of (p)ppGpp regulated stringent
+
+Peptide-1018, Peptide-1038
+
+response
+
+3. Dispersion of Extracellular Polymeric Substance
+
+(EPS) of bioﬁlm
+4. Cleavage of peptidoglycan
+5. Bioﬁlm disassembly
+
+Deoxyribonuclease I and glycoside hydrolase dispersin B
+
+Tannic acid, Endolysins (PlyC), Epigallocatechin gallate (EGCG)
+A cyclic autoinducing peptide (AIP), Nuclease, extracellular proteases
+
+(eg. sarA, sigB, Esp), antiamyloid molecules (AA-861, parthenolides), D-
+Tyrosine, Ethyl-pyruvate
+
+6. Neutralization/disaggregation of LPS
+7. Alteration of membrane permeabilization
+
+Polymyxin (B and E), Gramicidin S, Sushi peptides, PMAP-23
+Lantibiotics (nisin, gallidermin), Lytic peptides (PTP-7), Sophorolipids,
+
+Polyhexamethylene biguanide, Chlorhexidine, Pentasilver hexaoxoiodate
+
+8.
+9.
+
+Inhibition of cell division or cell survival
+Inhibition of macromolecule synthesis and
+
+Pyrrhocoricin, Microcin B17
+Buforin II, PR-39, Indolicidin, LL-37, Bacteriocins, Cadexomer iodine,
+
+adhesion of cells
+
+Inhibition of bioﬁlm by polysaccharides
+
+10.
+
+11.
+
+Inhibition of c-di-GMP signaling system
+
+Mannosides, Pilicides
+
+EPS273, Psl and Pel, K2, PAM galactan, A101, PslG, Polysaccharides of
+
+algae, plants and animals
+
+LP 3134, LP 3145, LP 4010, LP 1062, ebselen, ebselen oxide Desformylﬂustra
+
+12.
+
+Inhibition of curli biosynthesis
+
+Analogs of FN075 and BibC6 of ring-fused 2-pyridones
+
+bromine
+
+123,256
+
+134,140
+
+259
+
+146,150,159
+
+77,160,168,172
+
+177,180,262
+
+179,186,191,192
+
+194,198
+
+39,193,201,202,204,209,221,222
+
+224,225,227,228,230,235
+
+6,238,239
+
+169
+
+cells as well as bioﬁlm of S. aureus.131 Some other
+reports also suggested that usinic acid show inhibitory
+effect on the S. aureus bioﬁlm and affected the mor-
+phology of bioﬁlm produced by P. aeruginosa.
+
+Researchers have hypothesized that this may be due to
+the exact
+any interference in quorum sensing, but
+still unclear.132 Curcumin
+mechanism of action is
+(Fig. 2), a phytochemical from the rhizome of Curcuma
+
+Figure 1. Schematic representation of overview of the targets of anti-bioﬁlm molecules.
+
+532
+
+R. ROY ET AL.
+
+Figure 2. Structures of the anti-bioﬁlm molecules that inhibit AHL-mediated quorum sensing. (a) EGCG263, (b) Quercetin264, (c) Synthetic
+halogenated furanone265, (d) Reserpine266, (e) Curcumin267, (f) Ellagic acid268, (g) Tannic acid269.
+
+longa exhibit potent antibioﬁlm effect by the modula-
+tion of expression of genes involved in quorum sensing
+and related virulence factors like alginate production,
+and swarming motility.133
+
+Inhibition of stringent response by bacteria
+
+collectively
+
+termed as
+
+(p)ppGpp is
+
+synthetase, RelQ. Previous works
+
+A peptide named 1018-peptide works by inhibiting the
+alarmone accumulation, which is a part of stringent
+response by bacteria in response to nutritional stress.
+During their stress conditions bacteria synthesize alar-
+mones, namely; guanosine tetraphosphate and guano-
+(p)
+sine pentaphosphate,
+ppGpp.134,135 Generally, 2 enzymes regulate the (p)
+ppGpp metabolism:
+the (p)ppGpp-synthetase/hydro-
+lase, RelA (orRsh) with dual function and the small
+by
+alarmone
+researchers suggest that during stress conditions, rapid
+accumulation of
+regulated by RelA
+whereas RelQ is found responsible for low level of
+expression of (p)ppGpp under no stress conditions.
+in the case of a DrelA-
+The absence of (p)ppGpp,
+DrelQ double mutant strain, leads to reduced antibi-
+otic tolerance and attenuated virulence.136 Studies also
+revealed that any change in (p)ppGpp pool can
+severely affect the bacterial bioﬁlm formation, develop-
+ment and maintenance of its stable form in-vitro. The
+RelA-mediated stringent response and helps in the cell
+survival as during starvation conditions it can optimize
+gene expression for growth and survival. Some results
+prove the importance of the (p) ppGpp synthetase,
+RelQ in bioﬁlm homeostasis. In case of DrelA DrelQ
+strain, there occurs some severe defects during the for-
+mation of bioﬁlm, its maturation and viability due to
+uncontrolled consumption of energy resource, NAD/
+NADH ratio imbalance, or amassing of the metabolic
+
+effect with antibiotics
+
+end products.137 Hence, the amphipathic cationic pep-
+tide 1018 must establish direct contact with (p)ppGpp
+by crossing through the cell membrane and reaching
+protoplasm. The peptide disrupts the bioﬁlm in 3 pos-
+sible manners. First, it prevents formation of bioﬁlm
+when added before initiation step. Second, at much
+speciﬁed low concentration it disrupts and kills the
+bacteria present in bioﬁlm without affecting the plank-
+tonic cells. Third, it can disperse mature bioﬁlm which
+is 2 d old.134 It was also reported to exhibit signiﬁcant
+against bioﬁlm
+synergistic
+formed by different bacteria.138 The peptide 1018 and
+its derivatives HE4 and HE10 are found to be active
+against P. aeruginosa and B. cenocepacia at concentra-
+tions much below the MIC of their planktonic growth.
+In contrast to the parent molecule 1018, these deriva-
+tives exhibit equal or decreased level of anti-bioﬁlm
+activity against bioﬁlm formed by P. aeruginosa, but
+increased activity against methicillin resistant S. aureus
+bioﬁlms.139 Peptide 1037 was also evident to reduce
+bioﬁlms formed by many Gram- positive and Gram-
+negative bacteria.140 Another peptide named, Peptide
+1038140 induce twitching motility (which destroy bio-
+ﬁlm), and inhibit adhesion and quorum sensing of
+Pseudomonas involved in bioﬁlm formation. A second-
+ary metabolite from Syzigium aromaticum, eugenol
+(Fig. 3) treatment to S. mutans causes the downregula-
+tion of gene, relA, involved in the control of stringent
+
+Figure 3. Structures of the anti-bioﬁlm molecules that inhibit the
+stringent response. (a) Eugenol270.
+
+in bioﬁlm formation as well
+
+response
+tolerance.141
+
+as
+
+acid
+
+Dispersion of extracellular polysaccharide
+substance of bioﬁlm by enzymes
+
+The Extracellular Polysaccharide Substance (EPS) of the
+bioﬁlm protects the microorganisms from various anti-
+microbial agents. The disorganization of the EPS would
+expose the released as well as residual bioﬁlm cells to
+these agents. There are certain enzymes such as polysac-
+charide lyases and DNases that are capable of disrupting
+the exo-polysaccharides.142 Likewise, DNase I and Dis-
+persin B are the major enzymes that functions as poten-
+tial anti-bioﬁlm agents.143,144 DNase I is capable of
+digesting the extracellular DNA (eDNA) which is present
+within the bioﬁlm structure whereas Dispersin B, a
+glycoside hydrolase works by cleaving polymers of b 1–
+6 N-acetylglucosamine (PNAG), an extracellular poly-
+saccharide substance which facilitates aggregation of bac-
+teria. Also, it can disperse EPS layers present on medical
+devices.143,144 These bioﬁlm-dispersing enzymes are
+more efﬁcient when administered in combination with
+antimicrobial agents in killing the bacteria embedded in
+the EPS.145
+
+Cleavage of peptidoglycan
+
+The cleavage of peptidoglycan, which is present in the
+cell wall of most of the bacteria inhibit bioﬁlm genera-
+tion. Tannic acid, a polyphenolic compound, inhibits
+bioﬁlm formation without affecting bacterial growth in
+Staphylococcus aureus.146 The mechanism of action was
+found to depend on the putative lytic transglycosylase,
+an immune-dominant Staphylococcal Antigen A (IsaA),
+which acts by cleaving peptidoglycan.147 These transgly-
+colases are lysozyme-like enzyme which catalyzes the
+cleavage of the b-1,4 glycosidic bond between N-acetyl
+muramic acid (MurNAc) and N-acetyl glucosamine
+(GlcNAc).148 Tannic acid inhibits the formation of bio-
+ﬁlms by increasing the extracellular level of IsaA.146
+Cleavage of peptidoglycan reduces bioﬁlm formation by
+several ways, such as; it alters the composition of pro-
+teins and teichoic acids present on the cell wall. Peptido-
+glycan cleavage may also result in the release of signaling
+molecules149 that can modulate the bioﬁlm-related gene
+expression. Bacteriophages encode a unique class of pep-
+tidoglycan hydrolases referred as endolysins,150 which
+digest the cell wall of bacteria so as to release progeny
+bacteriophage. Endolysins usually work in a species-spe-
+ciﬁc manner. They bind with the cell wall and cleave it,
+which ultimately leads to hypotonic lysis and bacterial
+death.151 Endolysins work on the multiple antibiotic
+
+VIRULENCE
+
+533
+
+resistant strains. PlyC, a speciﬁc streptococcal bacterio-
+phage endolysin,152-156 functions by disrupting the in-
+vitro bioﬁlms. This bacteriophage therapy requires the
+knowledge of the bacteria causing infections, for which
+speciﬁc bacteriophages are needed to be design properly.
+Another molecule, epigallocatechin gallate, a polyphenol,
+inhibits bacteria by causing the cell wall damage via
+binding with the peptidoglycan,157,158 thus interferes
+with initial docking phase (mainly due to hydrophobic
+interactions) of bioﬁlm formation.159
+
+Inhibition through bioﬁlm disassembly
+
+Bioﬁlm disassembly is a multistep process that involves
+deterioration of the extracellular matrix and change in
+the physiology of cell which prepares them to sustain in
+conditions persisting beyond the boundary of the bio-
+ﬁlm.160 Several bacterial species takes into account a pri-
+mary mechanism of disassembly of bioﬁlms that include
+the production of extracellular enzymes or surfactants
+that leads to degradation as well as solubilization of
+adhesive components in the matrix of bioﬁlm. The
+matrix keep the cells enclosed within the bioﬁlm colony,
+thus, upon its deterioration cells get detached from this
+colony and are released in the environment. The active
+bioﬁlm dispersal is mediated by certain matrix-degrading
+gene products such as proteases, deoxyribonucleases
+(DNases) and surfactants.
+
+An accessory gene regulatory (agr) system present in
+several bacteria, control the synthesis of bioﬁlm matrix
+degrading enzymes. The agr system is mediated by a
+cyclic auto-inducing peptide (AIP). At critical threshold
+concentration (in the low nanomolar range), a 2-compo-
+nent signal transduction cascade is activated by AIP
+which results into the generation of virulence factors.161
+The extracellular proteome of agr includes several pro-
+teases and small pore-forming toxins known as phenol-
+soluble modulins (PSMs).29,162,163 Thus, activation of the
+agr system prevents bioﬁlm maturation, performing an
+inhibitory role.29
+
+The production of extracellular proteases (eg. sarA,
+sigB, Esp) has been found to be associated with the bio-
+ﬁlm disassembly mechanism.162,164,165 During bioﬁlm
+disassembly, nuclease acts as an endogenous mediator. It
+is an effective DNase (a thermonuclease or micrococcal
+nuclease) that helps in the separation of cells from bio-
+ﬁlms.166 In some species, when the DNases and restric-
+tion enzymes are added exogenously, the bioﬁlms get
+readily dispersed from microplate wells, which indicates
+that extracellular DNA (eDNA) is a major bioﬁlm matrix
+moieties there.144,166 The amyloid-like ﬁbers and the
+secretion of TasA protein have also been reported to play
+an important role in the formation of bioﬁlms.167,168 The
+
+534
+
+R. ROY ET AL.
+
+detachment of these amyloid-like ﬁbers from the cell
+surfaces lead to the disassembly of bioﬁlms.168 To
+screen the anti-amyloid activities of molecules, B. subti-
+lis bioﬁlms, being the simplest biologic system are
+mainly preferred. AA-861 and parthenolide exhibit
+inhibitory properties against bioﬁlms by B. subtilis, E.
+coli and Bacillus cereus by interfering with the polymer-
+ization of TasA into amyloid-like ﬁbers.168 E. coli and
+other species of Enterobacteriaceae produce functional
+amyloid ﬁbers named curli. Type 1 pili and curli plays
+signiﬁcant roles in promoting bioﬁlm in E. coli. Some
+earlier studies suggested that 2 analogs of FN075 and
+BibC6 of ring-fused 2-pyridones are peptidomimetic
+that target the protein–protein interactions in macro-
+molecular assembly, blocking the synthesis of curli in
+E. coli. Bacterial virulence is signiﬁcantly attenuated in
+a mouse urinary tract infection model when E. coli was
+pretreated with FN075.169 Additionally, Connolly
+et al.170 and Park et al.171 reported the use of cysteine
+protease SpeB and proteases from Group A Streptococ-
+for the bioﬁlm
+cus and P. aeruginosa, respectively,
+dispersal.
+
+D-tyrosine leads to a signiﬁcant decrease in cell
+attachment
+thus, preventing the formation of bio-
+ﬁlm. It also causes bioﬁlm disassembly at a very low
+concentration in both B. subtilis and P. aeruginosa.
+Impact of D-tyrosine on EPS production and extra-
+cellular protein is concentration speciﬁc and varies
+greatly in Gram-positive and Gram-negative bacteria.
+The concentration of extracellular proteins increased
+in B. subtilis bioﬁlms and reduced in the bioﬁlms of
+P. aeruginosa. Moreover, EPS production increased
+when P. aeruginosa was treated with low concentra-
+tion of D-tyrosine and decreased at higher concen-
+trations but no change was observed in B. subtilis.172
+Hence, it is very crucial to decide the dosage care-
+fully before recommending D-tyrosine for treatment
+of bioﬁlms. In-vitro studies also suggested that D-
+histidine, D-cysteine and D-tryptophan inhibit 35–
+86% bioﬁlm formation in A. baumannii at a very
+low concentration of 2 mM and D-cystine, D-trypto-
+phan and D-tyrosine inhibit 10–30% bioﬁlm forma-
+tion in P. aeruginosa at 4 mM. However, it is also
+demonstrated in this study that signiﬁcant effects of
+D-amino acids were not observed in-vivo as the
+effective in-vitro concentration produced toxic effects
+and even fatal when tested on mouse models. The
+use of D-amino acids with antibiotics should be fur-
+ther investigated.173 Some recent in-vitro and ex-vivo
+studies suggested nagZ, a protein involved in pepti-
+doglycan recycling, also reduces preformed bioﬁlm
+in Neisseria gonorrhoeae but the exact mechanism of
+bioﬁlm dispersal is still unclear.174
+
+A lichen secondary metabolite, usnic acid (Fig. 4),
+has the potential to inhibit 65% bioﬁlm formation
+and yeast to hyphal transition. This compound not
+only prevents adhesion but also reduces various sug-
+ars in EPS. Light microscopic studies revealed that
+usnic acid stops the transition from yeast to hyphal
+state thereby reducing the thickness of matured bio-
+ﬁlm.175 Some other reports also suggested that usnic
+acid show inhibitory effect on the S. aureus bioﬁlm
+and affected the morphology of bioﬁlm produced by
+P. aeruginosa. Researchers have hypothesized that
+this may be due to any interference in quorum sens-
+ing, but
+still
+unclear.132
+
+the exact mechanism of action is
+
+In some recent studies, ethyl pyruvate (EP), an anti-
+tumor and anti-trypanosome drug, has been reported to
+possess signiﬁcant antimicrobial and anti-bioﬁlm activ-
+ity. The architecture of the bioﬁlm matrix is especially
+stabilized by DNA and negatively charged polymeric
+sugars, bridged by Ca2C
+ions. EP acts as a potential Ca2C
+ions chelating agent due to its dicarbonyl structure,
+which destabilizes the bioﬁlm matrix. Moreover, this
+speciﬁc structural element plays a crucial role in inhibit-
+ing enzymes pyruvate kinase of glycolytic and glyoxa-
+lase-1 of para-glycolytic pathway. This explains the
+antimicrobial activity of EP. The study reveals EP to be
+better anti-bioﬁlm agent
+for being tissue protective,
+showing no side-effects in clinical studies, harmless to
+symbionts, inhibiting a broad spectrum target such as
+lower chance of
+bacteria, fungi, parasites and mold,
+developing resistance, inhibiting adhesion and matura-
+tion of bioﬁlm and the dissolution of pre-formed bioﬁlm
+matrix.77
+
+Neutralization or disassembly of
+lipopolysaccharides
+
+The antimicrobial peptide (AMP) is an alternative of
+conventional antibiotics and is considered as an effec-
+tive anti-bioﬁlm agent. AMPs are evolutionary con-
+and
+served proteins with low molecular weight
+exhibits antimicrobial activity against fungi, bacteria
+and viruses. They are generally positively charged and
+contain both hydrophilic and hydrophobic
+sides
+which make them capable of penetrating the lipid
+bilayer as well as solubilizing in aquatic environ-
+ment.176 Antimicrobial peptides usually bind electro-
+statically with lipopolysaccharides
+involving
+interaction between 2 cationic amino acids (lysine
+and arginine) and their respective head groups. The
+complex is stabilized through hydrophobic interac-
+tions between the hydrophobic amino acids of the
+chains of LPS177,178 and
+peptide and fatty acyl
+
+(LPS)
+
+VIRULENCE
+
+535
+
+Figure 4. Structure of anti bioﬁlm molecules that disassemble the bioﬁlm. (a) Berberine271, (b) Usnic acid272.
+
+resulting into destabilization of lipid head groups by
+multiple pore formation, thereby disrupting the integ-
+rity of cellular membrane. PTP-7, an example of lytic
+is a synthetic analog from Gaegurin 5.
+peptide
+Despite being a cationic peptide,
+its activity is not
+affected by acidic pH, negatively charged extracellular
+polysaccharides in bioﬁlm matrix or high metal ion
+concentrations. Rather it is capable of entering deep
+in the bioﬁlm and kill bacteria very efﬁciently.179 Pol-
+ymyxins, especially polymixin E or colistin and poly-
+mixin B (Fig. 5) (pentabasic decapeptide antibiotic)
+bind to lipid A of LPS in Gram-negative bacteria
+making the outer membrane permeabilized. Along
+with this, Gramicidin S (Fig. 5) also disturbs the
+membrane integrity of the Gram-positive and Gram-
+negative bacteria. Both these cationic cyclic peptides
+possess speciﬁc targets in cell membrane leading to
+interference in the hydrophobic interactions at ligand
+binding sites of the enzymes. Further improvement of
+toxicity, structural analysis and clinical tests should
+be performed for using it clinically.180 Likewise, sushi
+peptides, a derivative of Factor C (Fig. 5) (LPS-sensi-
+tive serine protease of the horseshoe crab coagulation
+cascade) follow detergent-like mechanism for the dis-
+ruption of LPS aggregates. They have LPS-neutraliz-
+ing activity too. They act very speciﬁcally with
+palmitoyl-oleoyl-phosphatidylglycerol (POPG). Unsat-
+urated POPG renders ﬂuidity and ultimately increases
+the entry of peptides in lipid bilayer, completely dis-
+rupting membrane stability.177,181
+
+Alteration of membrane potential or membrane
+permeabilization
+
+The alteration of membrane potential or membrane per-
+meabilization is yet another mode of action of antimicro-
+the
+bial peptides. This
+
+into disruption of
+
+results
+
+cytoplasmic membrane via pore
+formation either
+through a barrel-stave,182 a toroidal pore,183,184 or
+through a non-pore carpet-like mechanism185 that result
+into the efﬂux of intracellular materials.
+
+The lantibiotics are the class of the peptide antibi-
+otics with ring structure, linked via thioester contain-
+ing lanthionine and methylanthionine, or unsaturated
+amino acids dehydro alanine or 2-amino isobutyric
+acids. They are synthesized by ribosomes and modi-
+ﬁed post-translationally in Gram-negative bacteria
+and serve as anti-bioﬁlm agents. These peptides com-
+prises of an intra-molecular ring structure and can
+inhibit a wide-range of bacteria.186 These compounds
+pose an inhibitory effect on bacteria by damaging its
+bacterial membrane thus, inhibiting the production of
+enzymes. The most well known lantibiotic, nisin
+(Fig. 6),
+forms complex with lipid I and II thus,
+resulting in the inhibition of the cell wall biosynthe-
+sis.187,188 Nisin can also induce permeability to the
+cytoplasmic membrane by producing pores with short
+life-span.186 Subtilin (Fig. 6), another pore-forming
+lantibiotic structurally similar to nisin, acts by dissi-
+pating the transmembrane proton motive force result-
+ing in the
+from
+Staphylococcus simulans and B. subtilis cells and from
+to bactoprenyl
+membrane vesicles. Subtilin binds
+pyrophosphate and causes membrane permeabiliza-
+tion in a lipid II-dependent fashion. In-vitro modiﬁca-
+tions were successfully used to insert thioester rings
+in various biologically active peptides. Clinical use of
+these modiﬁed lantibiotics
+ensured after
+proper in-vivo tests.189 Epidermin and gallidermin
+have the same putative lipid II binding motif as nisin;
+however, differing only in size with 22 amino acids,
+as compared with 34 in nisin. These 2 lantibiotics
+interfere with lipid II biosynthesis and interact with
+lipid-I, lipid-II and their intermediates that ultimately
+
+cytoplasmic
+
+release of
+
+can be
+
+solutes
+
+536
+
+R. ROY ET AL.
+
+Figure 5. Structures of the anti-bioﬁlm molecules that inhibit lipopolysachharides. (a) Colistin (Polymixin E)273, (b) Polymixin B274,275, (c)
+Gramicidin S276, (d) Sushi peptide (S1 domain)181.
+
+Figure 6. Structures of the anti-bioﬁlm molecules that alter the membrane potential or membrane permeabilization. (a) Nisin277,278, (b)
+Subtilin279, (c) Epidermin280, (d) Gallidermin281, (e) Chlorhexidine282, (f) Sophorolipid283, (g) Polyhexamethylene biguanide284.
+
+prove to be fatal for the bacteria. Studies show that
+gallidermin efﬁciently inhibits bioﬁlm formation by
+Staphylococci, which might be due to repression of
+genes
+such as atl
+(major autolysin) and ica (intercellular adhesin).
+However, the effect of gallidermin on mature (24-h
+and 5-day-old) bioﬁlm was signiﬁcantly reduced.190
+
+involved in bioﬁlm formation,
+
+Biosurfactants are amphipathic molecules that possess
+antibacterial activity, inhibit bacterial cell-surface adhe-
+sion and hence disrupt bioﬁlm. Sophorolipids are a class
+of biosurfactants that act against bioﬁlms by increasing
+the permeability of membrane. In B. subtilis, sophoroli-
+pids (Fig. 6) disrupt the bacterial cells followed by release
+of an intracellular enzyme, malate dehydrogenase caus-
+ing efﬂux of their cytoplasmic contents. They also inhibit
+bioﬁlm produced by single as well as mixed culture of B.
+subtilis and S. aureus at very low concentration. This
+result indicated the use of sophorolipids as an adjuvant
+with other antibacterial agents that
+inhibit bacterial
+growth or disassemble the bioﬁlm of some pathogens.191
+Bioﬁlm can also be destroyed by the use of polyhexa-
+methylene biguanide (Fig. 6); a cationic antimicrobial
+agent disrupts the membrane and hampers the cell per-
+meability without cell wall lysis. Chlorhexidine (Fig. 6)
+changes the osmolarity of the cell by binding with the
+negatively charged component. Compared to these 2, a
+silver compound penta-silver hexaoxoiodate (Ag(5)IO
+(6)) is much more efﬁcient in killing of a broad spectrum
+planktonic organisms, inhibition of microbial adhesion
+to surface for longer time period and disassemble and
+eradicate mature bioﬁlms of C. albicans, P. aeruginosa,
+and S. aureus. The reason behind the high efﬁciency may
+be due to structure of the nanomaterial, which possess
+silver in both cation and anion along with the protection
+of anion by iodate. This compound may consider to be
+used as a potent antimicrobial agent for disinfecting
+medical devices like catheters, implants, ventilators and
+wound dressing.192
+
+Inhibition of cell division and survival
+
+Cell division is very crucial for the survival of bacteria in
+bioﬁlm and their further spread to a new area. Silver
+accumulates within the intracellular vacuoles resulting in
+the damage of plasma membrane followed by alteration
+in the electric potential, thereby preventing cell divi-
+sion.122,193 Some antimicrobial peptides function by
+inhibiting cytoplasmic proteins, which have role in cell
+division and survival. These peptides penetrate into the
+cytosol of bacteria either by ﬂip-ﬂop method or channel
+formation in the outer membrane protein. Some antibac-
+terial peptides are rich in proline such as pyrrhocoricin
+(Fig. 7),194 apidaecin195 and drosocin.196 All
+these
+
+VIRULENCE
+
+537
+
+peptides are capable to bind with multi-helical lid region
+of DnaK (a heat shock protein of bacteria) and interfere
+in the initiation step of chromosomal DNA replication.
+Moreover, they also interfere in the interaction of DnaK
+with DnaJ that causes bacterial death. Pyrrhocoricin
+enters into bacterial cytosol via C-terminus and the N-
+terminus is responsible for inhibition of ATPase activity
+of DnaK protein.194 In addition to this, proline-rich
+AMPs actively enter the bacterial cell and interfering in
+translation initiation via binding to the tunnel of ribo-
+some.197 Microcin B17 (Fig. 7), a ribosomally synthesized
+antimicrobial peptide from Enterobacteriaceae inhibits
+DNA gyrase followed by inhibition of DNA replication.
+Also, it is the ﬁrst peptide that has the capability to
+inhibit a type II DNA topoisomerase.198 Apart from this,
+chelating agents like EDTA (Fig. 7) are able to potentiate
+the cell wall, thereafter destabilizing the bioﬁlms via
+sequestering iron, zinc, magnesium, and calcium. This
+makes them suitable for the management of bioﬁlms.199
+Chitosan, a natural polymer, due to its cationic nature
+has the capability to disrupt negatively charged cell
+membranes as soon as microbes settle on the surface.200
+
+Inhibition of adhesion molecule synthesis and
+function
+
+causing permeabilization of
+
+There are some classes of AMPs that exhibit killing of
+bacteria by direct interaction with nucleic acids with-
+out
+the membrane
+like, Buforin II.201 The antimicrobial peptide PR-39
+(isolated from the pig’s small intestine) can penetrate
+the outer membrane, and stop the synthesis of DNA
+the basic components of bioﬁlms.202
+and protein,
+Another peptide, indolicidin, permeabilizes the mem-
+brane without causing the lysis of bacterial cells. It
+also inhibits DNA synthesis,203 and exhibits binding
+speciﬁcity with DNA rather than RNA.204 Studies also
+reported that a cationic peptide LL-37 (Fig. 8) is pres-
+ent in human as host defense peptide, has the capac-
+ity to reduce the bacterial adhesion and promote
+stimulation of twitching motility mediated by type IV
+pili. It also stimulates the downregulation of genes
+related to quorum sensing.39
+It was found active
+against S. epidermidis inhibiting the attachment of
+bacteria and thereby the formation of bioﬁlms.205
+Studies also revealed that citropin (from green tree
+frog Litoria citropa)206 and melimine (a non-hemo-
+lytic hybrid peptide)207 have potent s activities against
+P. aeruginosa and S. aureus and did not pose any
+toxic effect when tested in animal models. These mol-
+ecules can be used to prevent bacterial adhesion on
+medical equipments like catheters and contact lenses.
+Another modiﬁed peptide, cadexomer iodine (Fig. 8),
+
+538
+
+R. ROY ET AL.
+
+Figure 7. Structures of the anti-bioﬁlm molecules that inhibit cell division and survival. (a) Microcin B17285,286, (b) Chitosan200, (c) Pyrrho-
+coricin287, (d) Sodium Citrate288, (e) Tetrasodium EDTA289.
+
+binds with the cytoplasmic membrane proteins fol-
+lowed by its penetration into the bacterial cell leading
+to the inhibition of protein synthesis and the disrup-
+tion of lipid membrane as well as it interferes with
+the functioning of nucleic acids.193 Recent studies also
+demonstrate the ability of AMP to coat the bacteria
+the biomaterials leading to the
+or the surface of
+reduction of adhesion by bacteria as well as reduced
+bioﬁlm formation.208 Bacteriocins like bovicin HC5
+(produced by Streptococcus bovis HC5) and nisin are
+found to alter the hydrophobicity of the surfaces of S.
+aureus attachment, thus minimizing the adhesion to
+surfaces of food items, which is thought to be a better
+option than eradication of the already established bio-
+ﬁlms. This facilitates long time storage and preserva-
+tion of packaged food items.209 The pili or ﬁmbriae
+are the long ﬁlamentous surface structures that enable
+bacteria to adhere to the host tissues and are also
+found to be involved in bioﬁlm formation. PilB and
+
+invasion.211 Most of
+
+PilA components of pili are important for bioﬁlm for-
+mation but not PilC.210 Pili are classiﬁed into 2
+groups. Type I pili comprises of mainly 2 compo-
+nents- FimA (major part) and FimH (minor part).
+FimH is a mannose-binding adhesion component
+the
+which facilitates bacterial
+uropathogenic Escherichia coli (UPEC) possess type I
+pili attached with FimH adhesin that facilitates colo-
+nization on silicone implants and on surface of uri-
+nary bladder leading to CAUTI (Catheter Associated
+Infections).212 This pathogen after
+Urinary Tract
+entering the host cells bypasses the host immune sys-
+tem and starts aggregating to form large intracellular
+bacterial communities (IBC) similar to bioﬁlms.213-215
+A peptide from the gingival crevicular ﬂuids and
+saliva, named lactoferrin,
+inhibits the attachment of
+S. mutans and Streptococcus gordonii and prevents the
+formation of bioﬁlm in oral cavity.216 It is also evi-
+the presence of
+dent
+
+from other
+
+studies
+
+that
+
+Figure 8. Structures of the anti-bioﬁlm molecules that Inhibit adhesion molecule synthesis and function (a) Cadexomer iodine290, (b) LL-
+37291.
+
+infection by UPEC of
+
+lactoferrin prevents the bioﬁlm formation by Porphyr-
+omonas gingivalis and Prevotella intermedia in the
+subgingival plaque at a very low concentration of (cid:2)
+8 mg/mL.217 Mannosides are small molecules that
+work as an inhibitor of FimH by blocking their func-
+tions.218-220 Murine model was used to investigate the
+effect of mannosides for treating CAUTI and it was
+found that the compound effectively inhibited inva-
+sion and colonization on the urinary bladder epithe-
+lium after
+the implanted
+bladders. It also enhanced the activity of trimetho-
+prim-sulfamethoxazole when administered orally for
+the treatment of urinary tract infections.66 Addition-
+ally, mannosides inhibited formation of bioﬁlm on sil-
+icone surface in-vitro and if it is used for treatment in
+humans, it resulted in the reduction of CAUTI rates
+via inhibiting colonization and invasion of UPEC in
+bladder and also by not letting to form bioﬁlm on
+the catheter surface.221 Another study shows that pili-
+cides,
+inhibitor of Chaperone/Usher Pathway pili
+inhibit type I piliation and dysregulates virulence fac-
+tors of UPEC thus affecting its growth.222 Both these
+molecules are of much clinical relevance and if used
+to treat UTI or CAUTI current guidelines must be
+followed. Mannosides may also be used along with
+other potential antibacterial agents or other preven-
+tive compounds before inserting catheter in patient’s
+body as a preventive measure.223 In addition to these,
+a plant derived compound, eugenol
+is suggested to
+inhibit early bioﬁlm formation and also reduce pre-
+formed bioﬁlm of S. mutans. It does not affect the
+bacterial viability, but downregulates the expression
+of virulence genes involved in the adhesion and for-
+mation of bioﬁlm such as comDE, ftf, smu630, vicR,
+gtfB, relA, gbpB, gtfC, brpA, and spaPat sub-MIC
+level.141
+
+Inhibition of bioﬁlm by polysaccharides
+
+Extracellular polysachharides is an essential compo-
+nent of bioﬁlms. Recently, a few exo-polysaccharides
+have been found to show negative activity against bio-
+ﬁlm formation. They not only inhibit the bioﬁlm for-
+mation224,225 but can also lead to the dispersion of
+the preformed bioﬁlm. A recent experiment have
+reported an exo-polysaccharide EPS273, obtained
+from a marine bacterium, P. stutzeri 273 that reduces
+bioﬁlm formation in P. aeruginosa by targeting
+virulence factors which include exoprotease, pyocya-
+nin, and rhamnose. EPS273 interferes with pyocyanin
+production whose reduction causes the decrease in
+the production of H2O2 ultimately inhibiting the
+release of eDNA which is required for the formation
+
+VIRULENCE
+
+539
+
+(Fig. 9)
+
+infections and spoilage of
+
+of stable bioﬁlms.226 It is also reported that this mole-
+cule reduces bioﬁlm related infection in lung cells and
+embryos of zebraﬁsh and also acts as a potent antiox-
+idant,
+thereby decreasing the hydroxy radicals and
+superoxide radicals. Therefore, EPS273 can ﬁnd its
+use in healthcare as well as in food industry against
+P. aeruginosa, which is responsible for causing noso-
+comial
+food respectably.
+Structural studies revealed that EPS273 has typical
+characteristics of polysaccharide. 35.4% glucosamine,
+28.6% rhamnose, 27.2% glucose, and 8.7% mannose
+are the predominant monosaccharide units found in
+EPS273. Molecular weight of
+this molecule was
+reported to be 190kDa via HPGPC analysis.227 Other
+various anti-bioﬁlm polysaccharides have also been
+reported. Psl and Pel (Fig. 9) from P. aeruginosa
+PAO1 decrease the ability to form bioﬁlm by S. epi-
+in dual-species bioﬁlm in-vitro
+condi-
+dermidis
+tions.228,229 K2 polysaccharide
+from the
+capsule of E. coli and PAM galactan from strains of
+K. kingae regulate their own bioﬁlm architecture like
+forming water channels or dispersal of the bioﬁlm
+thereby inhibiting their own bioﬁlm according to
+their surrounding environment.230,231 Another poly-
+saccharide, A101 from V. cholerae QY101 causes dis-
+persal of the bioﬁlm formed by P. aeruginosa.224 An
+exopolysaccharide, PAM galactan from the bioﬁlm of
+K. kingae has also been reported to disperse bioﬁlm
+of S. epidermidis.230 Many non-bacterial polysacchar-
+ides extracted from plant, animal and some algae are
+also reported to possess anti-bioﬁlm activity.225 These
+anti-bioﬁlm polysaccharides, especially the ones that
+are of bacterial origin portray broad-spectrum anti-
+bioﬁlm activity while only some are capable of dis-
+persing bioﬁlms in their initial stages before attaining
+maturity. Different oligosaccharides or polysacchar-
+ides exhibiting anti-bioﬁlm properties can be used in
+settings which are greatly
+industrial and clinical
+inhabited by antibiotic resistant bioﬁlms causing vari-
+ety of nosocomial
+infections. They can be used as
+adjuvant with available antibiotics reducing their min-
+imum bioﬁlm eradication concentration,224 anti-adhe-
+sive coating decreasing chances of infections related
+to medical devices,230-233 and probiotics to deliver
+saccharide prebiotics.234 Another protein PslG pro-
+duced by P. aeruginosa, participates in biosynthesis of
+Psl, one of the most important polysaccharide of its
+bioﬁlm matrix. Structural analysis of PslG revealed
+that it is an endoglycosidase and according to reports
+endogenous administration of PslG disperses pre-
+formed matured bioﬁlm and inhibits bioﬁlm forma-
+in the matrix. Ex-vivo
+tion by targeting the Psl
+treatment with PslG,
+the
+studies
+
+revealed that
+
+540
+
+R. ROY ET AL.
+
+increases the susceptibility of bioﬁlms toward antimi-
+crobials and host immune system.235
+
+Inhibition of c-di-GMP signaling system
+
+Bacteria exist in 3 distinct forms namely; planktonic state
+responsible for acute infections and can be easily
+eradicated by administration of required dosage of anti-
+biotics, bioﬁlm state responsible for chronic infections
+and difﬁcult to treat with antibiotics. The third form is
+the dispersed state, a distinct stage during transition
+between bioﬁlm and planktonic state. The process of dis-
+persal facilitates bioﬁlm to spread infections within the
+host and also result in the transmission of bacteria
+between different hosts. Cyclic di-GMP (c-di-GMP) is a
+secondary messenger that play role in the bioﬁlm forma-
+tion. Modiﬁcation of signaling pathways of c-di-GMP in
+bacteria can alter the bioﬁlm formation and its dispersal
+in clinical environment.236 Under stress conditions such
+as starvation, nitrosative conditions, etc., the bacterial
+cells lower the amount of c-di-GMP by the activation of
+phosphodiesterase leading to the dispersal of bioﬁlm.
+This study also showed that bioﬁlm-dispersed cells are
+very distinct from bioﬁlm as well as planktonic cells in
+physiology as well as in their capacity of pathogenesis.
+Dispersed cells are found to be more virulent against C.
+elegans and immune cells, due to high level expression of
+
+virulence related genes as compared with bioﬁlm and
+planktonic cells. In addition to reduced c-di-GMP con-
+the bioﬁlm-dispersed cells experience a
+centration,
+reduced rsmY and rsmZ expression resulting in low side-
+rophore production by bacterial species.237 The sidero-
+phores function by chelating iron from the environment
+and are found to be involved in the prevention of bioﬁlm
+formation by reducing the survival of dispersed cells. On
+administration of chemicals, the dispersal based anti-bio-
+ﬁlm activity gets induced. These dispersed cells can
+phagocytosis,
+escape
+therefore along with the dispersing agents; administra-
+tion of some antimicrobial agent is preferred, as it would
+hinder the growth and the spread of dispersed cells. The
+addition of an iron chelator with the dispersing agent
+and antimicrobial agent would possibly eradicate the
+bioﬁlm.237
+
+the macrophage-mediated
+
+LP 3134, LP 3145, LP 4010 and LP 1062 are the small
+molecules that inhibit diguanylate cyclase (DGC) that
+mediates the synthesis of c-di-GMP and hence inhibit
+bioﬁlm formation in P. aeruginosa and Acinetobacter
+baumannii. All of these molecules have been reported to
+inhibit the bioﬁlm dispersal of P. aeruginosa. Among
+these, only 2 were potential candidates for inhibiting bio-
+ﬁlms because they were non-toxic to eukaryotic cells.6,238
+Some other molecules were also identiﬁed as inhibi-
+tors of the allosteric binding of c-di-GMP, from studies
+
+Figure 9. Structures of the anti-bioﬁlm molecules that inhibit polysaccharides. (a) Psl polysaccharide292,293, (b) Pel polysaccharide294, (c)
+CFT073 group-II capsular polysaccharide (Serotype K2)295.
+
+VIRULENCE
+
+541
+
+Figure 10. Structures of the antibioﬁlm molecules with unknown mechanism of action. (a) Esculetin296, b) Fisetin297, c) Octenidine
+hydrochloride298.
+
+subjected to differential radial capillary action of ligand
+assay. DGC activity was reduced by the administration
+of a synthetic organoselenium drug, ebselen, and binding
+of c-di-GMP was inhibited by ebselen oxide. Therefore,
+these 2 molcules can regulate the production of bioﬁlm
+in P. aeruginosa.239 Indole signaling is considered as one
+of the most important signaling pathway that is responsi-
+ble for various pathogenicity related bacterial behaviors
+such as virulence,240 acid tolerance,241 bioﬁlm forma-
+tion,242 resistance to antibiotics.243 Studies performed by
+Bunders et al. revealed that derivatives of desformylﬂus-
+tra bromine (dFBr) result in the inhibition of production
+of bioﬁlm via modulating the signaling pathway of indole
+in S. aureus and E. coli.244
+
+Molecules with unknown mechanism
+
+the antibioﬁlm molecules are reported to
+Some of
+work very efﬁciently but their mechanism of action is
+to be discovered. Secondary metabolites ﬁsetin
+yet
+(Fig. 10) and esculetin (Fig. 10) are known to inhibit
+bioﬁlm. Esculetin treatment affects the structural mat-
+uration of bioﬁlm thereby, reducing its thickness. In
+contrast to this, ﬁsetin not only reduces thickness of
+mature bioﬁlm but also, interferes with the initiation
+of bioﬁlm formation,
+reducing the coverage area.
+Hence, ﬁsetin is considered better antibioﬁlm agent
+than esculetin.245 A positively charged bispyridin-
+amine, octenidine hydrochloride (Fig. 10) is also sug-
+gested to be an effective anti-bioﬁlm agent but its
+mode of action is still unclear. Studies demonstrate
+that this compound can be potentially used as sani-
+lock solution in both treat-
+tizer and antimicrobial
+ment and prophylactic activities.246
+
+Cytotoxicity of Anti-Bioﬁlm molecules
+
+Cytotoxicity is the most important factor for assessing
+any adverse effect of the anti-bioﬁlm molecules before
+using them commercially for the prevention and removal
+of bioﬁlm. Various methods are there for
+testing
+
+cytotoxic effect namely Lactate dehydrogenase (LDH)
+assay, MTT assay, XTT assay, Trypan blue, crystal violet,
+colony formation method, DAPI and PI. Naturally
+derived compounds from plants are usually not toxic.
+Cytotoxicity studies have been performed in a variety of
+species, and the results demonstrate that octenidine
+hydrochloride is not absorbed through the gastrointesti-
+nal tract and, mucous membrane with no reported geno-
+toxicity, carcinogenicity, or mutagenicity.247 Likewise, it
+has been observed that usnic acid might show little side
+effects such as allergic contact dermatitis and local irrita-
+tion. In-vitro studies revealed no cytotoxic effects of this
+compound when tested alone or as a constituent of oral
+formulation. Moreover no toxic effects were evident in
+pharmacokinetic studies as well as after oral administra-
+tion.132,175 Studies also suggested that AMPs do not
+show any cytotoxic effects.248 Similarly, many antibioﬁlm
+compounds like S-phenyl-L-cysteine sulfoxide and its
+derivative diphenyl disulﬁde (inhibits bioﬁlm via quo-
+rum sensing inhibition) was reported to be non-toxic
+and non-lethal when tested in drosophila-based infection
+models.249 Apart from testing cytotoxicity of anti-bioﬁlm
+molecules, some other studies are also required such as
+permeability studies, plasma protein binding, efﬂux stud-
+ies and solubility (in water and salt) studies.
+
+Conclusions and future prospective
+
+Till date, a lot has already been studied and understood
+about the bacterial bioﬁlm formation. Emergence of
+severe bioﬁlm infections and its resistance to antimicro-
+bial treatment, has posed a great challenge in the medical
+ﬁeld. The occurrence of resistant bacteria is mainly seen
+in human, farm animals, fruits, vegetables, dairy prod-
+ucts, sea-foods and poultry products. Hence it is essential
+to investigate the effective ways to combat this problem
+and ﬁnd an alternative among antibiotics. To make
+through this great challenge of today, bioﬁlm imaging
+techniques have immensely developed. Fluorescence
+(FPLAM),
+photo-activated
+(PLAM)
+photo-activated
+
+localization microscopy
+localization microscopy
+
+542
+
+R. ROY ET AL.
+
+optical
+
+stochastic
+
+in the different
+
+and
+reconstruction microscopy
+(STORM)250-252 are the techniques which involves
+super-resolution microscopy. They use ﬂuorescent pro-
+teins or probes to produce images with much higher res-
+olution than CSLM. Hence, these techniques can be used
+more often for studying bioﬁlm. To ﬁnd a signiﬁcant
+and effective alternative against bioﬁlm, focus on the dis-
+covery of different anti-bioﬁlm molecules along with
+modiﬁcations
+signaling pathways
+associated with quorum sensing is taken under consider-
+ation. The higher eukaryotes are devoid of cyclic-di-
+GMP (c-di-GMP) signaling pathway, which makes it an
+attractive target for designing naive anti-bioﬁlm agents.
+Besides these, the role of amyloids in bacterial bioﬁlms
+has also become prevalent. Targeting these amyloids less-
+ens the adherence property of bacterial cells hence affect-
+ing the formation of bioﬁlms.6 The present study
+provides the information of the mechanism of action
+used by different small molecules with anti-bioﬁlm prop-
+erties. Though, every anti-bioﬁlm molecules have their
+speciﬁc modes of action, but a single molecule may fol-
+low more than one mechanism; for example, EGCG
+works either by inhibiting the AHL-mediated quorum
+sensing pathway or by degradation of peptidoglycan and
+membrane disruption. Information regarding mecha-
+nism of action provides better understanding about the
+nature of bioﬁlms, which can be further used to develop
+new and successful drug molecules with the previously
+known target of action. This can bring about improve-
+ment in the efﬁcacy of the previously known drugs. It
+can be achieved either by making suitable modiﬁcations
+or by using combinatorial therapy which includes the
+previously reported less effective drug against bacterial
+infections along with the potent anti-bioﬁlm agents
+thereby raising the activity of the antibiotics. According
+to the present review, EPS273, mannosides and pilicides
+are the most signiﬁcant anti-bioﬁlm agents with high
+clinical relevance but needs further in-vivo testing fol-
+lowed by clinical trials. The naturally derived antimicro-
+bials have more biochemical and structural diversity
+compared with synthetic drugs, thus could be very useful
+in developing various alternative therapies and in-silico
+pharmaceutical approaches. Additionally, the high com-
+plexity of natural products allows enhanced selective
+binding to the target. The disadvantage of using naturally
+derived anti-bioﬁlm agents is their high cost, less sustain-
+ability; more time consumption and sometimes they
+show different results once extracted from their sources.
+In contrary, synthetic drugs are cost effective and con-
+sume less time but many of them show adverse side
+effects. Moreover numerous peptides and polysacchar-
+ides due to their large size become inappropriate from a
+drug perspective. While designing any compound for
+
+remodeling
+
+combating bioﬁlm, it is very important to observe its
+proper delivery in any in-vivo system at a particular site
+and the dosage of the anti-bioﬁlm compound is another
+crucial factor, which needs thorough investigation. How-
+ever, the discovery of new drugs against new targets is
+likely to be a prolonged and disconcerting process.
+the previously used drugs
+Therefore,
+approved against target other than bioﬁlms may prove to
+be a more appropriate and constructive idea. A wide
+range of bioinformatic tools are available that might be
+used for the purpose of screening libraries of the existing
+drugs and to revamp them as a worthwhile contribution.
+Further, research has to be performed to ﬁnd out the
+small active fragments of these peptides and polysacchar-
+ides that can effectively bind to the new identiﬁed targets.
+
+Disclosure of potential conﬂicts of interest
+No potential conﬂicts of interest were disclosed.
+
+Funding
+
+VT would like to thanks SERB, DST, India for Start Up grant
+(SB/YS/LS-07/2014). MT would like to thanks Central Univer-
+sity of Rajasthan for the Ph.D. fellowship.
+
+References
+
+[1] Alhede M, Kragh KN, Qvortrup K, Allesen-Holm M,
+van Gennip M, Christensen LD, Jensen PØ, Nielsen
+AK, Parsek M, Wozniak D, et al. Phenotypes of
+non-attached Pseudomonas
+aggregates
+resemble surface attached bioﬁlm. PloS One 2011; 6:
+e27943;
+https://doi.org/10.1371/
+journal.pone.0027943
+
+PMID:22132176;
+
+aeruginosa
+
+[2] Bjarnsholt T, Jensen PO, Fiandaca MJ, Pedersen J,
+Hansen CR, Andersen CB, Pressler T, Givskov M,
+Høiby N. Pseudomonas aeruginosa bioﬁlms in the
+respiratory tract of cystic ﬁbrosis patients. Pediatr Pul-
+monol 2009; 44:547-58; PMID:19418571; https://doi.
+org/10.1002/ppul.21011
+
+[3] Haaber J, Cohn MT, Frees D, Andersen TJ, Ingmer
+H. Planktonic aggregates of Staphylococcus aureus
+protect against common antibiotics. PloS One 2012;
+7:e41075; PMID:22815921; https://doi.org/10.1371/
+journal.pone.0041075
+
+[4] Davies D. Understanding bioﬁlm resistance to antibac-
+terial agents. Nat Rev Drug Discov 2003; 2:114-22;
+PMID:12563302; https://doi.org/10.1038/nrd1008
+[5] Singh PK, Schaefer AL, Parsek MR, Moninger TO,
+Welsh MJ, Greenberg EP. Quorum-sensing signals indi-
+cate that cystic ﬁbrosis lungs are infected with bacterial
+bioﬁlms. Nature 2000; 407:762-4; PMID:11048725;
+https://doi.org/10.1038/35037627
+
+[6] Wu H, Moser C, Wang HZ, Hoiby N, Song ZJ. Strate-
+gies for combating bacterial bioﬁlm infections. Int J
+Oral Sci 2015; 7:1-7; PMID:25504208; https://doi.org/
+10.1038/ijos.2014.65
+
+[7] Piozzi A, Francolini I, Occhiaperti L, Di Rosa R, Ruggeri
+V, Donelli G. Polyurethanes loaded with antibiotics:
+inﬂuence of polymer-antibiotic interactions on in vitro
+activity against Staphylococcus epidermidis. J Chemo-
+therapy 2004; 16:446-52; PMID:15565910; https://doi.
+org/10.1179/joc.2004.16.5.446
+
+[8] Donelli G, Francolini I. Efﬁcacy of antiadhesive, antibi-
+otic and antiseptic coatings in preventing catheter-
+related infections:
+J Chemotherapy 2001;
+13:595-606; PMID:11806619; https://doi.org/10.1179/
+joc.2001.13.6.595
+
+review.
+
+[9] Hengzhuang W, Wu H, Ciofu O, Song Z, Hoiby N.
+Pharmacokinetics/pharmacodynamics of colistin and
+imipenem on mucoid and nonmucoid Pseudomonas
+aeruginosa bioﬁlms. Antimicrobial Agents Chemother-
+apy 2011; 55:4469-74; PMID:21670181; https://doi.org/
+10.1128/AAC.00126-11
+
+[10] Hengzhuang W, Wu H, Ciofu O, Song Z, Hoiby N. In
+vivo pharmacokinetics/pharmacodynamics of colistin
+and imipenem in Pseudomonas aeruginosa bioﬁlm
+infection. Antimicrobial Agents Chemotherapy 2012;
+56:2683-90; PMID:22354300; https://doi.org/10.1128/
+AAC.06486-11
+
+[11] Hoiby N, Ciofu O, Johansen HK, Song ZJ, Moser C,
+Jensen PO, Molin S, Givskov M, Tolker-Nielsen T,
+Bjarnsholt T. The clinical impact of bacterial bioﬁlms.
+Int J Oral Sci 2011; 3:55-65; PMID:21485309; https://
+doi.org/10.4248/IJOS11026
+
+[12] Cramton SE, Gerke C, Schnell NF, Nichols WW,
+Gotz F. The intercellular adhesion (ica) locus is pres-
+ent in Staphylococcus aureus and is required for bio-
+ﬁlm formation. Infect Immunity 1999; 67:5427-33;
+PMID:10496925
+
+[13] Gotz F. Staphylococcus and bioﬁlms. Mol Microbiol
+2002; 43:1367-78; PMID:11952892; https://doi.org/
+10.1046/j.1365-2958.2002.02827.x
+
+[14] McKenney D, Hubner J, Muller E, Wang Y, Gold-
+mann DA, Pier GB. The ica locus of Staphylococcus
+epidermidis encodes production of the capsular poly-
+saccharide/adhesin. Infect Immunity 1998; 66:4711-
+20; PMID:9746568
+
+[15] Aaron SD, Ferris W, Ramotar K, Vandemheen K, Chan
+F, Saginur R. Single and combination antibiotic suscep-
+tibilities of planktonic, adherent, and bioﬁlm-grown
+Pseudomonas aeruginosa isolates cultured from sputa
+of adults with cystic ﬁbrosis. J Clin Microbiol 2002;
+40:4172-9; PMID:12409393; https://doi.org/10.1128/
+JCM.40.11.4172-4179.2002
+
+[16] Brandl K, Plitas G, Mihu CN, Ubeda C, Jia T, Fleisher
+M, Schnabl B, DeMatteo RP, Pamer EG. Vancomycin-
+resistant enterococci exploit antibiotic-induced innate
+immune
+455:804-7;
+Nature
+PMID:18724361; https://doi.org/10.1038/nature07250
+
+deﬁcits.
+
+2008;
+
+[17] Hoyle BD, Costerton JW. Bacterial resistance to antibi-
+otics: the role of bioﬁlms. Progress Drug Res For-
+tschritte Der Arzneimittelforschung Progres Des
+Recherches
+37:91-105;
+PMID:1763187
+
+Pharmaceutiques
+
+[18] Moreau-Marquis S, Stanton BA, O’Toole GA. Pseudo-
+monas aeruginosa bioﬁlm formation in the cystic ﬁbro-
+sis airway. Pulmonary Pharmacol Therapeutics 2008;
+21:595-9; https://doi.org/10.1016/j.pupt.2007.12.001
+
+1991;
+
+VIRULENCE
+
+543
+
+[19] Parsek MR, Singh PK. Bacterial bioﬁlms: an emerging
+link to disease pathogenesis. Annual Rev Microbiol
+2003; 57:677-701; PMID:14527295; https://doi.org/
+10.1146/annurev.micro.57.030502.090720
+
+[20] Rasmussen TB, Givskov M. Quorum sensing inhibi-
+tors: a bargain of effects. Microbiol 2006; 152:895-
+904;
+https://doi.org/10.1099/
+mic.0.28601-0
+
+PMID:16549654;
+
+[21] Ciofu O, Mandsberg LF, Wang H, Hoiby N. Phenotypes
+selected during chronic lung infection in cystic ﬁbrosis
+patients: implications for the treatment of Pseudomonas
+aeruginosa bioﬁlm infections. FEMS Immunol Medical
+Microbiol 2012; 65:215-25; PMID:22540844; https://doi.
+org/10.1111/j.1574-695X.2012.00983.x
+
+[22] Anderl JN, Zahller J, Roe F, Stewart PS. Role of nutrient
+limitation and stationary-phase existence in Klebsiella
+pneumoniae bioﬁlm resistance to ampicillin and cipro-
+ﬂoxacin. Antimicrobial Agents Chemotherapy 2003;
+47:1251-6; PMID:12654654; https://doi.org/10.1128/
+AAC.47.4.1251-1256.2003
+
+1988;
+
+[23] Brown MR, Allison DG, Gilbert P. Resistance of bacte-
+rial bioﬁlms to antibiotics: a growth-rate related effect? J
+Antimicrobial
+22:777-80;
+Chemotherapy
+PMID:3072331; https://doi.org/10.1093/jac/22.6.777
+[24] Walters MC, 3rd, Roe F, Bugnicourt A, Franklin MJ,
+Stewart PS. Contributions of antibiotic penetration,
+oxygen limitation, and low metabolic activity to toler-
+ance of Pseudomonas aeruginosa bioﬁlms to ciproﬂoxa-
+cin
+Agents
+Chemotherapy
+47:317-23; PMID:12499208;
+https://doi.org/10.1128/AAC.47.1.317-323.2003
+
+tobramycin.
+2003;
+
+Antimicrobial
+
+and
+
+[25] Ma H, Bryers JD. Non-invasive determination of conju-
+gative transfer of plasmids bearing antibiotic-resistance
+genes in bioﬁlm-bound bacteria: effects of substrate
+loading and antibiotic selection. Applied Microbiol Bio-
+technol 2013; 97:317-28; PMID:22669634; https://doi.
+org/10.1007/s00253-012-4179-9
+
+[26] Gjodsbol K, Christensen JJ, Karlsmark T, Jorgensen B,
+Klein BM, Krogfelt KA. Multiple bacterial species reside
+in chronic wounds: a longitudinal study. Int Wound J
+2006;
+https://doi.org/
+10.1111/j.1742-481X.2006.00159.x
+
+PMID:16984578;
+
+3:225-31;
+
+[27] Kirketerp-Moller K, Jensen PO, Fazli M, Madsen KG,
+Pedersen J, Moser C, Tolker-Nielsen T, Høiby N,
+Givskov M, Bjarnsholt T. Distribution, organization,
+and ecology of bacteria in chronic wounds. J Clin
+Microbiol 2008; 46:2717-22; PMID:18508940; https://
+doi.org/10.1128/JCM.00501-08
+
+[28] Homoe P, Bjarnsholt T, Wessman M, Sorensen HC,
+Johansen HK. Morphological evidence of bioﬁlm for-
+mation in Greenlanders with chronic suppurative otitis
+media. Eur Arch Oto-Rhino-Laryngol 2009; 266:1533-8;
+https://doi.org/10.1007/s00405-009-0940-9
+
+[29] Boles BR, Horswill AR. Agr-mediated dispersal of
+Staphylococcus aureus bioﬁlms. PLoS Pathogens 2008;
+4:e1000052; PMID:18437240; https://doi.org/10.1371/
+journal.ppat.1000052
+
+[30] Van Oss CJ, Good RJ, Chaudhury MK. The role of van
+der Waals forces and hydrogen bonds in “hydrophobic
+interactions” between biopolymers and low energy sur-
+faces. J Colloid Interface Sci 1986; 111:378-90; https://
+doi.org/10.1016/0021-9797(86)90041-X
+
+544
+
+R. ROY ET AL.
+
+[31] O’Neill E, Pozzi C, Houston P, Humphreys H, Robinson
+DA, Loughman A, Foster TJ, O’Gara JP. A novel Staph-
+ylococcus aureus bioﬁlm phenotype mediated by the
+ﬁbronectin-binding proteins, FnBPA and FnBPB. J Bac-
+teriol 2008; 190:3835-50; PMID:18375547; https://doi.
+org/10.1128/JB.00167-08
+
+[32] Merino N, Toledo-Arana A, Vergara-Irigaray M, Valle
+J, Solano C, Calvo E, Lopez JA, Foster TJ, Penad(cid:1)es JR,
+Lasa I. Protein A-mediated multicellular behavior in
+Staphylococcus aureus. J Bacteriol 2009; 191:832-43;
+PMID:19047354; https://doi.org/10.1128/JB.01222-08
+
+[33] Corrigan RM, Rigby D, Handley P, Foster TJ. The
+role of Staphylococcus aureus surface protein SasG
+in adherence and bioﬁlm formation. Microbiol 2007;
+153:2435-46;
+https://doi.org/
+PMID:17660408;
+10.1099/mic.0.2007/006676-0
+
+[34] Conrady DG, Brescia CC, Horii K, Weiss AA,
+Hassett DJ, Herr AB. A zinc-dependent adhesion
+module is responsible for intercellular adhesion in
+staphylococcal bioﬁlms. Proc Natl Acad Sci U S A
+2008; 105:19456-61; PMID:19047636; https://doi.org/
+10.1073/pnas.0807717105
+
+[35] Marti M, Trotonda MP, Tormo-Mas MA, Vergara-Iri-
+garay M, Cheung AL, Lasa I, Penad(cid:1)es JR. Extracellular
+proteases inhibit protein-dependent bioﬁlm formation
+in Staphylococcus aureus. Microbes Infect / Institut Pas-
+teur
+https://doi.org/10.1016/j.
+micinf.2009.10.005
+
+12:55-64;
+
+2010;
+
+[36] Trotonda MP, Manna AC, Cheung AL, Lasa I, Penades
+JR. SarA positively controls bap-dependent bioﬁlm for-
+mation in Staphylococcus aureus. J Bacteriol 2005;
+187:5790-8; PMID:16077127; https://doi.org/10.1128/
+JB.187.16.5790-5798.2005
+
+[37] Fuqua WC, Winans SC, Greenberg EP. Quorum sensing
+in bacteria: the LuxR-LuxI family of cell density-respon-
+sive
+1994;
+regulators.
+176:269-75; PMID:8288518; https://doi.org/10.1128/
+jb.176.2.269-275.1994
+
+transcriptional
+
+J Bacteriol
+
+[38] Huber B, Eberl L, Feucht W, Polster J. Inﬂuence of poly-
+phenols on bacterial bioﬁlm formation and quorum-
+sensing. Zeitschrift fur Naturforschung C. J Biosci 2003;
+58:879-84; PMID:14713169
+
+[39] Overhage J, Campisano A, Bains M, Torfs EC, Rehm
+BH, Hancock RE. Human host defense peptide LL-37
+prevents bacterial bioﬁlm formation. Infect Immunity
+2008; 76:4176-82; PMID:18591225; https://doi.org/
+10.1128/IAI.00318-08
+
+[40] Anderl JN, Franklin MJ, Stewart PS. Role of antibi-
+otic penetration limitation in Klebsiella pneumoniae
+bioﬁlm resistance to ampicillin and ciproﬂoxacin.
+Antimicrobial Agents Chemotherapy 2000; 44:1818-
+24;
+https://doi.org/10.1128/
+PMID:10858336;
+AAC.44.7.1818-1824.2000
+
+[41] Lappin-Scott HM, Costerton JW. Bacterial bioﬁlms and
+surface fouling. Biofouling 1989; 1:323-42; https://doi.
+org/10.1080/08927018909378120
+
+[42] Gjermansen M, Nilsson M, Yang L, Tolker-Nielsen T.
+Characterization of starvation-induced dispersion in
+Pseudomonas putida bioﬁlms: genetic elements and
+molecular mechanisms. Mol Microbiol 2010; 75:815-26;
+PMID:19602146;
+https://doi.org/10.1111/j.1365-
+2958.2009.06793.x
+
+[43] Gjermansen M, Ragas P, Sternberg C, Molin S,
+Tolker-Nielsen T. Characterization of
+starvation-
+induced dispersion in Pseudomonas putida bioﬁlms.
+Environmental
+7:894-906;
+PMID:15892708;
+https://doi.org/10.1111/j.1462-
+2920.2005.00775.x
+
+Microbiol
+
+2005;
+
+[44] Nilsson M, Chiang WC, Fazli M, Gjermansen M,
+Givskov M, Tolker-Nielsen T. Inﬂuence of putative exo-
+polysaccharide genes on Pseudomonas putida KT2440
+bioﬁlm stability. Environmental Microbiol
+2011;
+13:1357-69; PMID:21507178; https://doi.org/10.1111/
+j.1462-2920.2011.02447.x
+
+[45] Jackson KD, Starkey M, Kremer S, Parsek MR,
+Wozniak DJ. Identiﬁcation of psl, a locus encoding a
+potential exopolysaccharide that is essential for Pseu-
+domonas aeruginosa PAO1 bioﬁlm formation. J Bac-
+teriol 2004; 186:4466-75; PMID:15231778; https://
+doi.org/10.1128/JB.186.14.4466-4475.2004
+
+[46] Matsukawa M, Greenberg EP. Putative exopolysac-
+charide synthesis genes inﬂuence Pseudomonas aeru-
+2004;
+ginosa
+186:4449-56;
+https://doi.org/
+PMID:15231776;
+10.1128/JB.186.14.4449-4456.2004
+
+bioﬁlm development.
+
+J Bacteriol
+
+[47] Wozniak DJ, Wyckoff TJ, Starkey M, Keyser R,
+Azadi P, O’Toole GA, Parsek MR. Alginate is not a
+signiﬁcant component of
+the extracellular polysac-
+charide matrix of PA14 and PAO1 Pseudomonas
+aeruginosa bioﬁlms. Proc Natl Acad Sci U S A 2003;
+100:7907-12;
+https://doi.org/
+PMID:12810959;
+10.1073/pnas.1231792100
+
+[48] Costerton JW, Cheng KJ, Geesey GG, Ladd TI, Nickel
+JC, Dasgupta M, Marrie TJ. Bacterial bioﬁlms in nature
+and disease. Ann Rev Microbiol 1987; 41:435-64;
+PMID:3318676;
+https://doi.org/10.1146/annurev.
+mi.41.100187.002251
+
+[49] Purevdorj-Gage B, Costerton WJ, Stoodley P. Pheno-
+typic differentiation and seeding dispersal
+in non-
+mucoid and mucoid Pseudomonas aeruginosa bioﬁlms.
+Microbiology
+151:1569-76; PMID:15870466;
+2005;
+https://doi.org/10.1099/mic.0.27536-0
+
+[50] Chen Y, Chai Y, Guo JH, Losick R. Evidence for cyclic
+Di-GMP-mediated signaling in Bacillus subtilis. J Bac-
+teriol 2012; 194:5080-90; PMID:22821967; https://doi.
+org/10.1128/JB.01092-12
+
+[51] Garcia B, Latasa C, Solano C, Garcia-del Portillo F,
+Gamazo C, Lasa I. Role of the GGDEF protein family in
+Salmonella cellulose biosynthesis and bioﬁlm formation.
+Mol Microbiol 2004; 54:264-77; PMID:15458421;
+https://doi.org/10.1111/j.1365-2958.2004.04269.x
+[52] Gjermansen M, Ragas P, Tolker-Nielsen T. Proteins
+with GGDEF and EAL domains regulate Pseudomonas
+putida bioﬁlm formation and dispersal. FEMS Micro-
+biol Letters 2006; 265:215-24; PMID:17054717; https://
+doi.org/10.1111/j.1574-6968.2006.00493.x
+
+[53] Hickman JW, Tifrea DF, Harwood CS. A chemosensory
+system that regulates bioﬁlm formation through modu-
+lation of cyclic diguanylate levels. Proc Natl Acad Sci U
+S A 2005; 102:14422-7; PMID:16186483; https://doi.
+org/10.1073/pnas.0507170102
+
+[54] Purcell EB, McKee RW, McBride SM, Waters CM,
+Tamayo R. Cyclic diguanylate inversely regulates motil-
+ity and aggregation in Clostridium difﬁcile. J Bacteriol
+
+2012; 194:3307-16; PMID:22522894; https://doi.org/
+10.1128/JB.00100-12
+
+acid.
+
+[55] Ross P, Weinhouse H, Aloni Y, Michaeli D,
+Weinberger-Ohana P, Mayer R, Braun S, de Vroom E,
+van der Marel GA, van Boom JH, et al. Regulation of
+cellulose synthesis in Acetobacter xylinum by cyclic
+diguanylic
+325:279-81;
+Nature
+PMID:18990795; https://doi.org/10.1038/325279a0
+[56] Ryan RP, Lucey J, O’Donovan K, McCarthy Y, Yang
+L, Tolker-Nielsen T, Dow JM. HD-GYP domain pro-
+teins regulate bioﬁlm formation and virulence in
+Pseudomonas aeruginosa. Environ Microbiol 2009;
+11:1126-36; PMID:19170727; https://doi.org/10.1111/
+j.1462-2920.2008.01842.x
+
+1987;
+
+[57] Simm R, Morr M, Kader A, Nimtz M, Romling U.
+GGDEF and EAL domains inversely regulate cyclic di-
+GMP levels and transition from sessility to motility.
+Mol Microbiol 2004; 53:1123-34; PMID:15306016;
+https://doi.org/10.1111/j.1365-2958.2004.04206.x
+[58] Tischler AD, Camilli A. Cyclic diguanylate (c-di-GMP)
+regulates Vibrio cholerae bioﬁlm formation. Mol Micro-
+biol 2004; 53:857-69; PMID:15255898; https://doi.org/
+10.1111/j.1365-2958.2004.04155.x
+
+[59] Kulasakara H, Lee V, Brencic A, Liberati N, Urbach J,
+Miyata S, Lee DG, Neely AN, Hyodo M, Hayakawa Y,
+et al. Analysis of Pseudomonas aeruginosa diguanylate
+cyclases and phosphodiesterases reveals a role for bis-
+(30-50)-cyclic-GMP in virulence. Proc Natl Acad Sci U S
+A 2006; 103:2839-44; PMID:16477007; https://doi.org/
+10.1073/pnas.0511090103
+
+[60] Lim B, Beyhan S, Meir J, Yildiz FH. Cyclic-diGMP sig-
+nal transduction systems in Vibrio cholerae: modulation
+of rugosity and bioﬁlm formation. Mol Microbiol 2006;
+60:331-48; PMID:16573684; https://doi.org/10.1111/
+j.1365-2958.2006.05106.x
+
+[61] Ryan RP, Tolker-Nielsen T, Dow JM. When the PilZ
+don’t work: effectors for cyclic di-GMP action in bacte-
+ria. Trends Microbiol 2012; 20:235-42; PMID:22444828;
+https://doi.org/10.1016/j.tim.2012.02.008
+
+[62] Tischler AD, Camilli A. Cyclic diguanylate regulates
+Vibrio cholerae virulence gene expression. Infect Immu-
+nity 2005; 73:5873-82; PMID:16113306; https://doi.org/
+10.1128/IAI.73.9.5873-5882.2005
+
+[63] Wilksch JJ, Yang J, Clements A, Gabbe JL, Short KR,
+Cao H, Cavaliere R,
+James CE, Whitchurch CB,
+Schembri MA, et al. MrkH, a novel c-di-GMP-
+dependent transcriptional activator, controls Klebsi-
+ella pneumoniae bioﬁlm formation by regulating
+type 3 ﬁmbriae expression. PLoS Pathogens 2011; 7:
+e1002204; PMID:21901098; https://doi.org/10.1371/
+journal.ppat.1002204
+
+[64] Massie JP, Reynolds EL, Koestler BJ, Cong JP, Agostoni
+M, Waters CM. Quantiﬁcation of high-speciﬁcity cyclic
+diguanylate signaling. Proc Natl Acad Sci U S A 2012;
+109:12746-51; PMID:22802636; https://doi.org/10.1073/
+pnas.1115663109
+
+[65] Monds RD, Newell PD, Gross RH, O’Toole GA. Phos-
+phate-dependent modulation of c-di-GMP levels regu-
+lates Pseudomonas ﬂuorescens Pf0-1 bioﬁlm formation
+by controlling secretion of
+the adhesin LapA. Mol
+Microbiol 2007; 63:656-79; PMID:17302799; https://doi.
+org/10.1111/j.1365-2958.2006.05539.x
+
+VIRULENCE
+
+545
+
+[66] O’Connor JR, Kuwada NJ, Huangyutitham V, Wiggins
+PA, Harwood CS. Surface sensing and lateral subcellular
+localization of WspA, the receptor in a chemosensory-
+like system leading to c-di-GMP production. Mol
+Microbiol 2012; 86:720-9; PMID:22957788; https://doi.
+org/10.1111/mmi.12013
+
+[67] Borlee BR, Goldman AD, Murakami K, Samudrala R,
+Wozniak DJ, Parsek MR. Pseudomonas aeruginosa uses
+a cyclic-di-GMP-regulated adhesin to reinforce the
+bioﬁlm extracellular matrix. Mol Microbiol 2010;
+75:827-42; PMID:20088866; https://doi.org/10.1111/
+j.1365-2958.2009.06991.x
+
+[68] Chambers JR, Sauer K. Small RNAs and their role
+in bioﬁlm formation. Trends Microbiol 2013; 21:39-
+49;
+https://doi.org/10.1016/j.
+tim.2012.10.008
+
+PMID:23178000;
+
+[69] Antonelli M, De Pascale G, Ranieri VM, Pelaia P,
+Tufano R, Piazza O, Zangrillo A, Ferrario A, De
+Gaetano A, Guaglianone E, et al. Comparison of triple-
+lumen central venous catheters impregnated with silver
+nanoparticles (AgTive(R)) vs conventional catheters in
+intensive care unit patients. J Hospital Infect 2012;
+82:101-7; PMID:22938728; https://doi.org/10.1016/j.
+jhin.2012.07.010
+
+[70] Heersink J, Goeres D. Reactor design considerations.
+In: Hamilton M, Heersink J, Buckingham-Meyer K,
+Goeres D, editors. The Bioﬁlm Laboratory: Step-by-
+step Protocols for Experimental Design, Analysis,
+and Data Interpretation, M. Hamilton, J. Heersink,
+K. Buckingham-Meyer and D. Goeres, eds. Bozeman,
+MT: Cytergy Publishing 2003:13-5.
+
+[71] Niu C, Gilbert ES. Colorimetric method for identifying
+plant essential oil components that affect bioﬁlm forma-
+tion and structure. Appl Environ Microbiol 2004;
+70:6951-6; PMID:15574886; https://doi.org/10.1128/
+AEM.70.12.6951-6956.2004
+
+[72] Heilmann C, Gerke C, Perdreau-Remington F, Gotz F.
+Characterization of Tn917 insertion mutants of Staphy-
+lococcus epidermidis affected in bioﬁlm formation.
+Infect Immunity 1996; 64:277-82; PMID:8557351
+[73] O’Toole GA, Kolter R. Flagellar and twitching motil-
+ity are necessary for Pseudomonas aeruginosa bio-
+ﬁlm development. Mol Microbiol 1998; 30:295-304;
+https://doi.org/10.1046/j.1365-
+PMID:9791175;
+2958.1998.01062.x
+
+[74] Coenye T, Nelis HJ. In vitro and in vivo model systems
+to study microbial bioﬁlm formation. J Microbiological
+Methods 2010; 83:89-105; PMID:20816706; https://doi.
+org/10.1016/j.mimet.2010.08.018
+
+[75] O’Toole GA. Microtiter dish bioﬁlm formation assay. J
+
+Vis Exp 2011; 47:2473; PMID:21307833
+
+[76] Busscher HJ, van der Mei HC. Microbial adhesion in
+ﬂow displacement systems. Clin Microbiol Rev 2006;
+19:127-41; PMID:16418527; https://doi.org/10.1128/
+CMR.19.1.127-141.2006
+
+[77] Debebe T, Kr€uger M, Huse K, Kacza J, M€uhlberg K,
+K€onig B, Birkenmeier G. Ethyl Pyruvate: An anti-micro-
+bial agent that selectively targets Pathobionts and Bio-
+ﬁlms. PLoS One 2016; 11:e0162919; https://doi.org/
+10.1371/journal.pone.0162919
+
+[78] Maske TT, Brauner KV, Nakanishi L, Arthur RA, van
+de Sande FH, Cenci MS. An in vitro dynamic
+
+546
+
+R. ROY ET AL.
+
+microcosm bioﬁlm model for caries lesion development
+and antimicrobial dose-response studies. Biofouling
+https://doi.org/
+2016;
+10.1080/08927014.2015.1130824
+
+32:339-48; PMID:26905384;
+
+review.
+
+[79] Salli KM, Ouwehand AC. The use of in vitro model sys-
+tems to study dental bioﬁlms associated with caries: a
+short
+7:26149;
+J Oral Microbiol
+PMID:25740099; https://doi.org/10.3402/jom.v7.26149
+[80] Singer G, Besemer K, H€odl I, Chlup A, Hochedlinger G,
+Stadler P, et al. Microcosm design and evaluation to
+study stream microbial bioﬁlms. Limnol Oceanogr
+Methods 2006; 4(11):436-47; https://doi.org/10.4319/
+lom.2006.4.436
+
+2015;
+
+[81] Lebeaux D, Chauhan A, Rendueles O, Beloin C. From in
+vitro to in vivo Models of Bacterial Bioﬁlm-Related
+Infections. Pathogens 2013; 2:288-356; PMID:25437038;
+https://doi.org/10.3390/pathogens2020288
+
+[82] Lemaitre B, Ausubel FM. Animal models for host-
+pathogen interactions. Curr Opin Microbiol 2008;
+11:249-50; PMID:18539076; https://doi.org/10.1016/j.
+mib.2008.05.002
+
+[83] Djordjevic D, Wiedmann M, McLandsborough LA.
+Microtiter plate assay for assessment of Listeria mono-
+cytogenes bioﬁlm formation. Applied Environ Micro-
+biol 2002; 68:2950-8; PMID:12039754; https://doi.org/
+10.1128/AEM.68.6.2950-2958.2002
+
+[84] Hassan A, Usman J, Kaleem F, Omair M, Khalid A,
+Iqbal M. Evaluation of different detection methods of
+bioﬁlm formation in the clinical isolates. Braz J Infect
+Dis 2011; 15:305-11; PMID:21860999; https://doi.org/
+10.1016/S1413-8670(11)70197-0
+
+[85] Freeman DJ, Falkiner FR, Keane CT. New method for
+detecting slime production by coagulase negative staph-
+ylococci. J Clin Pathol 1989; 42:872-4; PMID:2475530;
+https://doi.org/10.1136/jcp.42.8.872
+
+[86] S(cid:1)anchez MC, Llama-Palacios A, Mar(cid:1)ın MJ, Figuero
+E, Le(cid:1)on R, Blanc V, Herrera D, Sanz M. Validation
+of ATP bioluminescence as a tool to assess antimi-
+crobial effects of mouthrinses in an in vitro subgin-
+gival-bioﬁlm model. Med Oral Patol Oral Cir Bucal
+2013;
+18:e86-92; PMID:23229259; https://doi.org/
+10.4317/medoral.18376
+
+[87] Aparna MS, Yadav S. Bioﬁms: microbes and dis-
+12:526-30;
+Infect Dis
+2008;
+https://doi.org/10.1590/S1413-
+
+Braz
+
+J
+ease.
+PMID:19287843;
+86702008000600016
+
+[88] Dhale RP, Ghorpade MV, Dharmadhikari CA. Compar-
+ison of various methods used to detect bioﬁlm produc-
+tion of candida species. J Clin Diagnostic Res 2014; 8:
+DC18-DC20; PMID:25584219
+
+[89] Zufferey J, Rime B, Francioli P, Bille J. Simple method
+for rapid diagnosis of catheter-associated infection by
+direct acridine orange staining of catheter tips. J Clin
+Microbiol 1988; 26:175-7; PMID:2449453
+
+[90] Gomes F, Teixeira P, Cerca N, Azeredo J, Oliveira R.
+farnesol on structure and composition of
+Effect of
+epidermidis bioﬁlm matrix. Curr
+Staphylococcus
+Microbiol 2011; 63:354-9; PMID:21800262; https://doi.
+org/10.1007/s00284-011-9984-3
+
+[91] Quintas V, Prada-L(cid:1)opez I, Tom(cid:1)as I. Analyzing the oral
+bioﬁlm using ﬂuorescence-based microscopy: what’s in
+a dye? In Microscopy: Adv Scientiﬁc Res Education, A.
+
+M(cid:1)endez-Vilas, ed. Badajoz, Spain: Formatex Research
+Center 2014:226-38.
+
+[92] Wiggli M, Smallcombe A, Bachofen R. Reﬂectance spec-
+troscopy and laser confocal microscopy as tools in an
+ecophysiological study of microbial mats in an alpine
+bog pond. J Microbiological Methods 1999; 34:173-82;
+https://doi.org/10.1016/S0167-7012(98)00085-2
+
+[93] Broschat SL, Loge FJ, Peppin JD, White D, Call DR,
+Kuhn E. Optical reﬂectance assay for the detection of
+bioﬁlm formation. J Biomedical Optics 2005; 10:44027;
+PMID:16178660; https://doi.org/10.1117/1.1953347
+[94] Humbert F, Quil(cid:3)es F. In-situ study of early stages of bio-
+ﬁlm formation under different environmental stresses
+by ATR-FTIR spectroscopy. In Science against Micro-
+bial Pathogens: Communicating Current Research and
+Technological Advances, A. M(cid:1)endez-Vilas, ed. Badajoz,
+Spain: Formatex Research Center 2011:889-95.
+
+[95] Paquet-Mercier F, Safdar M, Parvinzadeh M, Greener J.
+Emerging Spectral Microscopy Techniques and Appli-
+cations to Bioﬁlm Detection. Microscopy: Advances in
+Scientiﬁc Research and Education, A. M(cid:1)endez-Vilas, ed.
+Badajoz, Spain: Formatex Research Center 2014; 2:
+638–49.
+
+[96] Hornemann JA, Codd SL, Fell RJ, Stewart PS, Seymour
+JD. Secondary ﬂow mixing due to bioﬁlm growth in
+capillaries of varying dimensions. Biotechnol Bioengi-
+neering 2009; 103:353-60; PMID:19191352; https://doi.
+org/10.1002/bit.22248
+
+[97] Hornemann JA, Lysova AA, Codd SL, Seymour JD,
+Busse SC, Stewart PS, Brown JR. Biopolymer and water
+dynamics in microbial bioﬁlm extracellular polymeric
+substance.
+9:2322-8;
+PMID:18665639; https://doi.org/10.1021/bm800269h
+
+Biomacromolecules
+
+2008;
+
+[98] Sandt C, Smith-Palmer T, Pink J, Brennan L, Pink D.
+Confocal Raman microspectroscopy as a tool for study-
+ing the chemical heterogeneities of bioﬁlms in situ. J
+Appl Microbiol 2007; 103:1808-20; PMID:17953591;
+https://doi.org/10.1111/j.1365-2672.2007.03413.x
+[99] Sandt C, Smith-Palmer T, Pink J, Brennan L, Pink D.
+Confocal Raman microspectroscopy as a tool for study-
+ing the chemical heterogeneities of bioﬁlms in situ. J
+Appl Microbiol 2007; 103:1808-20; PMID:17953591;
+https://doi.org/10.1111/j.1365-2672.2007.03413.x
+[100] da Silva WJ, Seneviratne J, Parahitiyawa N, Rosa EA,
+Samaranayake LP, Del Bel Cury AA. Improvement of
+XTT assay performance for studies involving Candida
+albicans bioﬁlms. Brazilian Dental J 2008; 19:364-9;
+PMID:19180329
+
+[101] Kuhn DM, George T, Chandra J, Mukherjee PK,
+Ghannoum MA. Antifungal susceptibility of Candida
+bioﬁlms: unique efﬁcacy of amphotericin B lipid formu-
+lations and echinocandins. Antimicrobial Agents Che-
+motherapy 2002; 46:1773-80; https://doi.org/10.1128/
+AAC.46.6.1773-1780.2002
+
+[102] Piper KE, Jacobson MJ, Coﬁeld RH, Sperling JW, San-
+chez-Sotelo J, Osmon DR, McDowell A, Patrick S,
+Steckelberg JM, Mandrekar JN. Microbiologic diagnosis
+of prosthetic shoulder infection by use of implant soni-
+cation. J Clin Microbiol 2009; 47:1878-84; https://doi.
+org/10.1128/JCM.01686-08
+
+[103] Song Z, Borgwardt L, Hoiby N, Wu H, Sorensen TS,
+Borgwardt A. Prosthesis infections after orthopedic
+
+joint replacement: the possible role of bacterial bioﬁlms.
+Orthopedic Rev 2013; 5:65-71; PMID:23888204; https://
+doi.org/10.4081/or.2013.e14
+
+[104] Berbari E, Mabry T, Tsaras G, Spangehl M, Erwin PJ,
+Murad MH, Steckelberg J, Osmon D. Inﬂammatory
+blood laboratory levels as markers of prosthetic joint
+infection: A systematic review and meta-analysis. J Bone
+Joint Surg Am 2010; 92:2102-9; PMID:20810860;
+https://doi.org/10.2106/JBJS.I.01199
+
+[105] Vergidis P, Patel R. Novel approaches to the diagno-
+sis, prevention, and treatment of medical device-
+associated infections. Infect Dis Clinics North Am
+2012; 26:173-86; PMID:22284383; https://doi.org/
+10.1016/j.idc.2011.09.012
+
+2000;
+
+[106] Amann R, Ludwig W. Ribosomal RNA-targeted nucleic
+acid probes for studies in microbial ecology. FEMS
+24:555-65; PMID:11077149;
+Microbiol Rev
+https://doi.org/10.1111/j.1574-6976.2000.tb00557.x
+[107] Brileya KA, Camilleri LB, Fields MW. 3D- ﬂuorescence
+in situ hybridisation of intact, anaerobic bioﬁlm. Meth-
+ods Mol Biol 2014; 1151:189-97; PMID:24838887
+[108] Cass(cid:1)an FD, Okon Y, Creus CM. Handbook for Azospir-
+illum: Technical Issues and Protocols, C.M. Creus, ed.
+Switzerland: Springer International 2015; doi:10.1007/
+978-3-319-06542-7
+
+[109] DeLong EF, Wickham GS, Pace NR. Phylogenetic stains:
+ribosomal RNA-based probes for the identiﬁcation of sin-
+gle cells. Science 1989; 243:1360-3; PMID:2466341;
+https://doi.org/10.1126/science.2466341
+
+[110] Malic S, Hill KE, Hayes A. Detection and identiﬁcation of
+speciﬁc bacteria in wound bioﬁlms using peptide nucleic
+acid ﬂuorescent in situ hybridization (PNA FISH). Micro-
+biology 2009; 155:2603-11; PMID:19477903; https://doi.
+org/10.1099/mic.0.028712-0
+
+[111] Moller S, Pedersen AR, Poulsen LK, Arvin E, Molin S.
+Activity and three-dimensional distribution of toluene-
+degrading Pseudomonas putida in a multispecies bio-
+ﬁlm assessed by quantitative in situ hybridisatrion and
+scanning confocal laser microscopy. Applied Environ
+Microbiol 1996; 62:4632-40; PMID:8953734
+
+[112] Schramm A, De Beer D, Wagner M, Amann R. Identiﬁ-
+cation and activities in situ of Nitrosospira and Nitro-
+spira spp. as dominant populations in a nitrifying
+ﬂuidized bed reactor. Applied Environ Microbiol 1998;
+64:3480-5; PMID:9726900
+
+[113] Skogman ME, Vuorela PM, Fallarero A. Combining
+bioﬁlm matrix measurements with biomass and viability
+assays in susceptibility assessments of antimicrobials
+against Staphylococcus aureus bioﬁlms. J Antibiotics
+2012;
+https://doi.org/
+PMID:22739537;
+65:453-9;
+10.1038/ja.2012.49
+
+[114] Hoiby N, Krogh Johansen H, Moser C, Song Z, Ciofu O,
+Kharazmi A. Pseudomonas aeruginosa and the in vitro
+and in vivo bioﬁlm mode of growth. Microbes Infect /
+Institut Pasteur 2001; 3:23-35; https://doi.org/10.1016/
+S1286-4579(00)01349-6
+
+[115] Herrmann G, Yang L, Wu H, Song Z, Wang H, Hoiby
+N, Ulrich M, Molin S, Riethm€uller J, D€oring G. Colis-
+tin-tobramycin combinations are superior to monother-
+apy concerning the killing of bioﬁlm Pseudomonas
+aeruginosa.
+202:1585-92;
+Infect Dis
+PMID:20942647; https://doi.org/10.1086/656788
+
+2010;
+
+J
+
+VIRULENCE
+
+547
+
+[116] Francolini I, Piozzi A, Donelli G. Efﬁcacy evaluation of
+antimicrobial drug-releasing polymer matrices. Meth-
+ods Mol Biology 2014; 1147:215-25; PMID:24664836
+
+[117] Donelli G, Francolini I, Ruggeri V, Guaglianone E,
+D’Ilario L, Piozzi A. Pore formers promoted release of
+an antifungal drug from functionalized polyurethanes
+to inhibit Candida colonization. J Appl Microbiol 2006;
+100:615-22; PMID:16478501; https://doi.org/10.1111/
+j.1365-2672.2005.02801.x
+
+[118] Donelli G, Francolini I, Piozzi A, Di Rosa R, Marconi
+W. New polymer-antibiotic systems to inhibit bacterial
+bioﬁlm formation: a suitable approach to prevent
+central venous catheter-associated infections. J Chemo-
+therapy 2002; 14:501-7; PMID:12462430; https://doi.
+org/10.1179/joc.2002.14.5.501
+
+[119] Crisante F, Taresco V, Donelli G, Vuotto C, Martinelli
+A, D’Ilario L, et al. Antioxidant Hydroxytyrosol-Based
+Polyacrylate with Antimicrobial and Antiadhesive
+Activity Versus Staphylococcus Epidermidis. Adv Exp
+Med Biol 2015; 901:25-36; PMID:25384665
+
+[120] Percival SL, Suleman L, Francolini I, Donelli G. The
+effectiveness of photodynamic therapy on planktonic
+cells and bioﬁlms and its role in wound healing. Future
+Microbiol 2014; 9:1083-94; PMID:25340837; https://doi.
+org/10.2217/fmb.14.59
+
+[121] Donelli G, Francolini I, Romoli D, Guaglianone E, Piozzi
+A, Ragunath C, Kaplan JB. Synergistic activity of dispersin
+B and cefamandole nafate in inhibition of staphylococcal
+bioﬁlm growth on polyurethanes. Antimicrobial Agents
+Chemotherapy
+PMID:17548491;
+51:2733-40;
+https://doi.org/10.1128/AAC.01249-06
+
+2007;
+
+[122] Tiwari V, Roy R, Tiwari M. Antimicrobial active herbal
+compounds against Acinetobacter baumannii and other
+pathogens. Frontiers Microbiol 2015; 6:618; https://doi.
+org/10.3389/fmicb.2015.00618
+
+[123] Hentzer M, Riedel K, Rasmussen TB, Heydorn A,
+Anderson JB, Parsck MR, Rice SA, Eberl L, Molin S,
+Høiby N, et al. Inhibition of quorum sensing in Pseudo-
+monas aeruginosa bioﬁlm bacteria by a halogenated fur-
+anone compound. Microbiology 2002; 148:87-102;
+PMID:11782502;
+https://doi.org/10.1099/00221287-
+148-1-87
+
+[124] Gambello MJ, Iglewski BH. Cloning and characteriza-
+tion of the Pseudomonas aeruginosa lasR gene, a tran-
+scriptional activator of elastase expression. J Bacteriol
+1991;
+https://doi.org/
+10.1128/jb.173.9.3000-3009.1991
+
+173:3000-9; PMID:1902216;
+
+[125] Passador L, Cook JM, Gambello MJ, Rust L, Iglewski
+BH. Expression of Pseudomonas aeruginosa virulence
+genes
+requires cell-to-cell communication. Science
+1993; 260:1127-30; PMID:8493556; https://doi.org/
+10.1126/science.8493556
+
+[126] Givskov M, de Nys R, Maneﬁeld M, Gram L,
+Maximilien R, Eberl L, Molin S, Steinberg PD, Kjelle-
+berg S. Eukaryotic interference with homoserine lac-
+tone-mediated prokaryotic signalling. J Bacteriol 1996;
+178:6618-22; PMID:8932319; https://doi.org/10.1128/
+jb.178.22.6618-6622.1996
+
+[127] Maneﬁeld M, Nys R, Kumar N, Read R, Givskov M,
+Steinberg P, Kjelleberg S. Evidence that halogenated fur-
+anones from Delisea pulchra inhibit acylated homoser-
+expression by
+ine
+
+(AHL)-mediated gene
+
+lactone
+
+548
+
+R. ROY ET AL.
+
+displacing the AHL signal from its receptor protein.
+Microbiology
+PMID:10075410;
+https://doi.org/10.1099/13500872-145-2-283
+
+145:283-91;
+
+1999;
+
+[128] Hentzer M, Wu H, Andersen JB, Riedel K, Rasmussen
+TB, Bagge N, Kumar N, Schembri MA, Song Z,
+Kristoffersen P, et al. Attenuation of Pseudomonas aeru-
+ginosa virulence by quorum sensing inhibitors. EMBO J
+2003; 22:3803-15; PMID:12881415; https://doi.org/
+10.1093/emboj/cdg366
+
+[129] Maneﬁeld M, Harris L, Rice SA, de Nys R, Kjelleberg S.
+Inhibition of luminescence and virulence in the black
+tiger prawn (Penaeus monodon) pathogen Vibrio harveyi
+by intercellular signal antagonists. Applied Environmental
+Microbiol 2000; 66:2079-84; PMID:10788385; https://doi.
+org/10.1128/AEM.66.5.2079-2084.2000
+
+[130] Lee JH, Park JH, Cho HS, Joo SW, Cho MH, Lee J.
+Anti-bioﬁlm activities of quercetin and tannic acid
+against
+2013;
+29:491-9; PMID:23668380; https://doi.org/10.1080/
+08927014.2013.788692
+
+aureus. Biofouling
+
+Staphylococcus
+
+[131] Manner S, Skogman M, Goeres D, Vuorela P, Fallarero
+A. Systematic exploration of natural and synthetic ﬂavo-
+noids for the inhibition of Staphylococcus aureus bio-
+ﬁlms. Int J Mol Sci 2013; 14:19434-51; PMID:24071942;
+https://doi.org/10.3390/ijms141019434
+
+[132] Francolini I, Norris P, Piozzi A, Donelli G, Stoodley
+P. Usnic acid, a natural antimicrobial agent able to
+inhibit bacterial bioﬁlm formation on polymer surfa-
+ces. Antimicrobial Agents Chemotherapy
+2004;
+48:4360-5; PMID:15504865; https://doi.org/10.1128/
+AAC.48.11.4360-4365.2004
+
+[133] Kali A, Bhuvaneshwar D, Charles PM, Seetha KS. Anti-
+bacterial synergy of curcumin with antibiotics against
+bioﬁlm producing clinical bacterial isolates. J Basic Clin
+Pharmacy 2016; 7:93-6; PMID:27330262; https://doi.
+org/10.4103/0976-0105.183265
+
+[134] Fuente-N(cid:1)u~nez C, Reffuveille F, Haney EF, Straus SK,
+Hancock REW. Broad-Spectrum anti-bioﬁlm peptide
+that targets a cellular stress response. PLoS Pathogens
+2014; 10:e1004152
+[135] Potrykus K, Cashel M.
+
+(p)ppGpp:
+
+Microbiol
+
+still magical?
+62:35-51;
+2008;
+https://doi.org/10.1146/annurev.
+
+Annual
+Rev
+PMID:18454629;
+micro.62.081307.162903
+
+[136] Abranches J, Martinez AR, Kajfasz JK, Chavez V, Garsin
+DA, Lemos JA. The molecular alarmone (p)ppGpp
+mediates stress responses, vancomycin tolerance, and
+virulence in Enterococcus faecalis. J Bacteriol 2009;
+191:2248-56; PMID:19168608; https://doi.org/10.1128/
+JB.01726-08
+
+[137] Paz LEC, Lemos JA, Wickstr€om C, Sedgley CM. Role
+of (p)ppGpp in bioﬁlm formation by Enterococcus
+faecalis. Applied Environmental Microbiol 2012;
+78:1627-30; PMID:22179256; https://doi.org/10.1128/
+AEM.07036-11
+
+[138] Reffuveille F, de la Fuente-N(cid:1)u~nez C, Mansour S, Hancock
+REW. A broad-spectrum anti-bioﬁlm peptide enhances
+antibiotic action against bacterial bioﬁlms. Antimicrob
+Agents Chemother 2014; 58:5363-71; PMID:24982074;
+https://doi.org/10.1128/AAC.03163-14
+
+[139] De la Fuente-N(cid:1)u~nez C, Mansour SC, Wang Z, Jiang L,
+Breidenstein EBM, Elliott M, Reffuveille F, Speert DP,
+
+Reckseidler-Zenteno SL, Shen Y, et al. Anti-bioﬁlm and
+immunomodulatory activities of peptides that inhibit bio-
+ﬁlms formed by pathogens isolated from cystic ﬁbrosis
+patients. Antibiotics 2014; 3:509-26; PMID:26221537;
+https://doi.org/10.3390/antibiotics3040509
+
+[140] de la Fuente-Nunez C, Korolik V, Bains M, Nguyen U,
+Breidenstein EB, Horsman S, Lewenza S, Burrows L,
+Hancock RE. Inhibition of bacterial bioﬁlm formation
+and swarming motility by a small synthetic cationic
+peptide. Antimicrobial Agents Chemotherapy 2012;
+56:2696-704; PMID:22354291; https://doi.org/10.1128/
+AAC.00064-12
+
+[141] Lemos JAC, Brown TA, Burne RA. Effects of RelA on
+key virulence properties of planktonic and bioﬁlm pop-
+ulations of Streptococcus mutans.
+Immunity
+2004; 72:1431-40; PMID:14977948; https://doi.org/
+10.1128/IAI.72.3.1431-1440.2004
+
+[142] Stewart PS. Prospects for anti-bioﬁlm pharmaceuticals.
+8:504-11; PMID:26343685;
+
+Infect
+
+2015;
+
+Pharmaceuticals
+https://doi.org/10.3390/ph8030504
+
+[143] Kaplan JB. Therapeutic potential of bioﬁlm-dispersing
+J Artif Organs 2009; 32:533-695;
+
+enzymes.
+PMID:19856268
+
+Int
+
+[144] Izano EA, Amarante MA, Kher WB, Kaplan JB. Differen-
+tial roles of poly-N-acetylglucosamine surface polysaccha-
+ride and extracellular DNA in Staphylococcus aureus and
+Staphylococcus epidermidis bioﬁlms. Applied Environ-
+mental Microbiol
+74:470-6; PMID:18039822;
+https://doi.org/10.1128/AEM.02073-07
+
+2008;
+
+[145] Darouiche RO, Mansouri MD, Gawande PV, Madhyas-
+tha S. Antimicrobial and antibioﬁlm efﬁcacy of triclosan
+and DispersinB combination. J Antimicrobial Chemo-
+therapy 2009; 64:88-93; PMID:19447791; https://doi.
+org/10.1093/jac/dkp158
+
+[146] Payne DE, Martin NR, Parzych KR, Rickard AH,
+Underwood A, Boles BR. Tannic acid inhibits Staphylo-
+coccus aureus surface colonization in an IsaA-depen-
+dent manner.
+Immunity 2013; 81:496-504;
+PMID:23208606; https://doi.org/10.1128/IAI.00877-12
+
+Infect
+
+[147] Stapleton MR, Horsburgh MJ, Hayhurst EJ, Wright L,
+Jonsson IM, Tarkowski A, Kokai-Kun JF, Mond JJ, Fos-
+ter SJ. Characterization of IsaA and SceD, two putative
+lytic transglycosylases of Staphylococcus aureus. J Bac-
+teriol 2007; 189:7316-25; PMID:17675373; https://doi.
+org/10.1128/JB.00734-07
+
+[148] Holtje JV, Mirelman D, Sharon N, Schwarz U. Novel
+type of murein transglycosylase in Escherichia coli. J
+Bacteriol 1975; 124:1067-76.
+
+[149] Shah IM, Laaberki MH, Popham DL, Dworkin J. A
+eukaryotic-like Ser/Thr kinase signals bacteria to exit
+dormancy in response to peptidoglycan fragments. Cell
+2008; 135:486-96; PMID:18984160; https://doi.org/
+10.1016/j.cell.2008.08.039
+
+[150] Shen Y, Koller T, Kreikemeyer B, Nelson DC. Rapid
+degradation of Streptococcus pyogenes bioﬁlms by
+PlyC, a bacteriophage-encoded endolysin. J Antimicro-
+bial Chemotherapy 2013; 68:1818-24; PMID:23557924;
+https://doi.org/10.1093/jac/dkt104
+
+[151] Fischetti VA. Bacteriophage endolysins: a novel anti-
+infective to control Gram-positive pathogens. Int J Med-
+ical Microbiol 2010; 300:357-62; PMID:20452280;
+https://doi.org/10.1016/j.ijmm.2010.04.002
+
+[152] Hoopes JT, Stark CJ, Kim HA, Sussman DJ, Donovan
+DM, Nelson DC. Use of a bacteriophage lysin, PlyC, as
+equi.
+an enzyme disinfectant against Streptococcus
+Applied
+75:1388-94;
+PMID:19139235; https://doi.org/10.1128/AEM.02195-08
+
+Environ Microbiol
+
+2009;
+
+[153] Koller T, Nelson D, Nakata M, Kreutzer M, Fischetti
+VA, Glocker MO, Podbielski A, Kreikemeyer B. PlyC, a
+novel bacteriophage lysin for compartment-dependent
+proteomics of group A streptococci. Proteomics 2008;
+8:140-8;
+https://doi.org/10.1002/
+pmic.200700001
+
+PMID:18095374;
+
+[154] McGowan S, Buckle AM, Mitchell MS, Hoopes JT,
+Gallagher DT, Heselpoth RD, Shen Y, Reboul CF, Law
+RH, Fischetti VA, et al. X-ray crystal structure of the
+streptococcal speciﬁc phage lysin PlyC. Proc Natl Acad
+Sci U S A 2012; 109:12752-7; PMID:22807482; https://
+doi.org/10.1073/pnas.1208424109
+
+[155] Nelson D, Loomis L, Fischetti VA. Prevention and elim-
+ination of upper respiratory colonization of mice by
+group A streptococci by using a bacteriophage lytic
+enzyme. Proc Natl Acad Sci U S A 2001; 98:4107-12;
+https://doi.org/10.1073/pnas.061038398
+
+[156] Nelson D, Schuch R, Chahales P, Zhu S, Fischetti VA.
+PlyC: a multimeric bacteriophage lysin. Proc Natl Acad
+Sci U S A 2006; 103:10765-70; PMID:16818874; https://
+doi.org/10.1073/pnas.0604521103
+
+[157] Yoda Y, Hu ZQ, Zhao WH, Shimamura T. Different
+susceptibilities of Staphylococcus and Gram-negative
+rods to epigallocatechin gallate. J Infect Chemotherapy
+2004; 10:55-8; PMID:14991521; https://doi.org/10.1007/
+s10156-003-0284-0
+
+[158] Zhao WH, Hu ZQ, Hara Y, Shimamura T. Inhibition
+of penicillinase by epigallocatechin gallate resulting
+in restoration of antibacterial activity of penicillin
+Staphylococcus
+against
+aureus. Antimicrobial Agents Chemotherapy 2002;
+46:2266-8; PMID:12069986; https://doi.org/10.1128/
+AAC.46.7.2266-2268.2002
+
+penicillinase-producing
+
+[159] Carpentier B, Cerf O. Bioﬁlms and their consequences,
+with particular reference to hygiene in the food indus-
+try. J Appl Bacteriol 1993; 75:499-511; PMID:8294303;
+https://doi.org/10.1111/j.1365-2672.1993.tb01587.x
+[160] Boles BR, Horswill AR. Staphylococcal bioﬁlm disassem-
+bly. Trends Microbiol 2011; 19:449-55; PMID:21784640;
+https://doi.org/10.1016/j.tim.2011.06.004
+
+[161] Thoendel M, Kavanaugh JS, Flack CE, Horswill AR.
+Peptide signaling in the staphylococci. Chem Rev 2011;
+111:117-51; PMID:21174435; https://doi.org/10.1021/
+cr100370n
+
+[162] Beenken KE, Mrak LN, Grifﬁn LM, Zielinska AK,
+Shaw LN, Rice KC, Horswill AR, Bayles KW, Smelt-
+zer MS. Epistatic Relationships between sarA and agr
+in Staphylococcus aureus Bioﬁlm Formation. PloS
+One
+https://doi.org/
+PMID:20520723;
+5;
+10.1371/journal.pone.0010790
+
+2010;
+
+[163] Vuong C, Saenz HL, Gotz F, Otto M. Impact of the
+agr quorum-sensing system on adherence to polysty-
+rene in Staphylococcus aureus. J Infect Dis 2000;
+182:1688-93;
+https://doi.org/
+PMID:11069241;
+10.1086/317606
+
+[164] Lauderdale KJ, Boles BR, Cheung AL, Horswill AR.
+Interconnections between Sigma B, agr, and proteolytic
+
+VIRULENCE
+
+549
+
+activity in Staphylococcus aureus bioﬁlm maturation.
+Infect Immunity 2009; 77:1623-35; PMID:19188357;
+https://doi.org/10.1128/IAI.01036-08
+
+[165] Tsang LH, Cassat JE, Shaw LN, Beenken KE, Smeltzer
+MS. Factors contributing to the bioﬁlm-deﬁcient pheno-
+type of Staphylococcus aureus sarA mutants. PloS One
+2008; 3:e3361; PMID:18846215; https://doi.org/10.1371/
+journal.pone.0003361
+
+[166] Mann EE, Rice KC, Boles BR, Endres JL, Ranjit D,
+Chandramohan L, Tsang LH, Smeltzer MS, Horswill
+AR, Bayles KW. Modulation of eDNA release and deg-
+radation affects Staphylococcus aureus bioﬁlm matura-
+tion. PloS One 2009; 4:e5822; PMID:19513119; https://
+doi.org/10.1371/journal.pone.0005822
+
+[167] Branda SS, Chu F, Kearns DB, Losick R, Kolter R. A major
+protein component of the Bacillus subtilis bioﬁlm matrix.
+Mol Microbiol 2006; 59:1229-38; PMID:16430696; https://
+doi.org/10.1111/j.1365-2958.2005.05020.x
+
+[168] Romero D, Kolter R. Will bioﬁlm disassembly
+agents make it to market? Trends Microbiol 2011;
+19:304-6; PMID:21458996; https://doi.org/10.1016/j.
+tim.2011.03.003
+
+[169] Cegelski L, Pinkner JS, Hammer ND, Cusumano CK,
+Hung CS, Chorell E, Aberg V, Walker JN, Seed PC,
+Almqvist F, et al. Small-molecule inhibitors target
+Escherichia coli amyloid biogenesis and bioﬁlm forma-
+tion. Nat Chem Biol 2009; 5:913-9; PMID:19915538;
+https://doi.org/10.1038/nchembio.242
+
+[170] Connolly KL, Roberts AL, Holder RC, Reid SD. Dis-
+persal of Group A streptococcal bioﬁlms by the cys-
+to increased disease
+teine protease SpeB leads
+severity in a murine model. PloS One 2011; 6:
+e18984;
+https://doi.org/10.1371/
+journal.pone.0018984
+
+PMID:21547075;
+
+[171] Park JH, Lee JH, Cho MH, Herzberg M, Lee J.
+Acceleration of protease effect on Staphylococcus
+aureus bioﬁlm dispersal. FEMS Microbiol Letters
+2012;
+https://doi.org/
+10.1111/j.1574-6968.2012.02635.x
+
+335:31-8; PMID:22784033;
+
+[172] Yu C, Li X, Zhang N, Wen D, Liu C, Li Q. Inhibition of
+bioﬁlm formation by d-tyrosine: Effect of bacterial type
+and d-tyrosine concentration. Water Res 2016; 92:173-
+9;
+https://doi.org/10.1016/j.
+watres.2016.01.037
+
+PMID:26854605;
+
+[173] Rumbo C, Vallejo JA, Cabral MP, Martinez-Guitian
+M, Perez A, Beceiro A, Bou G. Assessment of anti-
+virulence activity of several d-amino acids against
+Acinetobacter baumannii and Pseudomonas aerugi-
+71
+nosa.
+(12):3473-3481; PMID:27605598
+
+J Antimicrobial Chemotherapy
+
+2016;
+
+[174] Bhoopalan SV, Piekarowicz A, Lenz JD, Dillard JP, Stein
+DC. nagZ Triggers Gonococcal Bioﬁlm Disassembly.
+Scientiﬁc Reports 2016; 6:22372; PMID:26927542;
+https://doi.org/10.1038/srep22372
+
+[175] Nithyanand P, Beema Shafreen RM, Muthamil S, Kar-
+utha Pandian S. Usnic acid inhibits bioﬁlm formation
+and virulent morphological traits of Candida albicans.
+Microbiological Res 2015; 179:20-8; PMID:26411891;
+https://doi.org/10.1016/j.micres.2015.06.009
+
+[176] Izadpanah A, Gallo RL. Antimicrobial peptides. J Am
+Acad Dermatol 2005; 52:381-90; PMID:15761415;
+https://doi.org/10.1016/j.jaad.2004.08.026
+
+550
+
+R. ROY ET AL.
+
+[177] Li P, Wohland T, Ho B, Ding JL. Perturbation of
+Lipopolysaccharide (LPS) Micelles by Sushi 3 (S3)
+antimicrobial peptide. The importance of an inter-
+molecular disulﬁde bond in S3 dimer for binding,
+disruption, and neutralization of LPS. J Biol Chem
+2004; 279:50150-6; PMID:15328339; https://doi.org/
+10.1074/jbc.M405606200
+
+[178] Bhattacharjya S, Domadia PN, Bhunia A, Malladi S,
+David SA. High-resolution solution structure of a
+designed peptide bound to lipopolysaccharide: trans-
+ferred nuclear Overhauser effects, micelle selectivity,
+2007;
+and
+46:5864-74; PMID:17469802; https://doi.org/10.1021/
+bi6025159
+
+activity. Biochemistry
+
+anti-endotoxic
+
+[179] Kharidia R, Liang JF. The activity of a small lytic peptide
+PTP-7 on Staphylococcus aureus bioﬁlms. J Microbiol
+https://doi.org/10.1007/s12275-011-
+2011;
+1013-5
+
+49:663-8;
+
+[180] Mogi T, Kita K. Gramicidin S and polymyxins: the
+revival of cationic cyclic peptide antibiotics. Cell Mol
+Life Sci 2009; 66:3821-6; PMID:19701717; https://doi.
+org/10.1007/s00018-009-0129-9
+
+[181] Ding JL, Li P, Ho B. The Sushi peptides: structural char-
+acterization and mode of action against Gram-negative
+bacteria. Cell Mol
+65:1202-19;
+2008;
+https://doi.org/10.1007/s00018-008-
+PMID:18213446;
+7456-0
+
+Life
+
+Sci
+
+[182] Oren Z, Shai Y. Mode of action of linear amphipathic
+alpha-helical antimicrobial peptides. Biopolymers 1998;
+47:451-63; PMID:10333737; https://doi.org/10.1002/
+(SICI)1097-0282(1998)47:6%3c451::AID-BIP4%3e3.0.
+CO;2-F
+
+[183] Mihajlovic M, Lazaridis T. Antimicrobial peptides in
+toroidal and cylindrical pores. Biochim Et Biophysica
+Acta 2010; 1798:1485-93; PMID:20403332; https://doi.
+org/10.1016/j.bbamem.2010.04.004
+
+[184] Gottler LM, Ramamoorthy A. Structure, membrane
+orientation, mechanism, and function of Pexiganan –
+A highly potent antimicrobial peptide designed from
+2009;
+magainin. Biochim Et Biophysica Acta
+1788:1680-6; PMID:19010301; https://doi.org/
+10.1016/j.bbamem.2008.10.009
+
+cell-selective
+
+[185] Shai Y, Oren Z. From “carpet” mechanism to de-novo
+antimicrobial
+designed diastereomeric
+peptides. Peptides 2001; 22:1629-41; PMID:11587791;
+https://doi.org/10.1016/S0196-9781(01)00498-3
+[186] Bierbaum G, Sahl HG. Lantibiotics: mode of action, bio-
+synthesis and bioengineering. Curr Pharmaceutical Bio-
+technol 2009; 10:2-18; PMID:19149587; https://doi.org/
+10.2174/138920109787048616
+
+[187] Hasper HE, Kramer NE, Smith JL, Hillman JD, Zachar-
+iah C, Kuipers OP, de Kruijff B, Breukink E. An alterna-
+tive bactericidal mechanism of action for lantibiotic
+peptides that target lipid II. Science 2006; 313:1636-
+16377;
+https://doi.org/10.1126/
+science.1129818
+
+PMID:16973881;
+
+[188] Hsu STD, Breukink E, Tischenko E, Lutters MAG,
+Kruijff B, Kaptein R, Bonvin AM, van Nuland NA. The
+nisin-lipid II complex reveals a pyrophosphate cage that
+provides a blueprint for novel antibiotics. Nat Structural
+Mol Biol
+11:963-7; https://doi.org/10.1038/
+nsmb830
+
+2004;
+
+[189] Parisot J, Carey S, Breukink E, Chan WC, Narbad A,
+Bonev B. Molecular mechanism of target recognition by
+subtilin, a class I lanthionine antibiotic. Antimicrobial
+Agents Chemotherapy 2008; 52:612-8; PMID:17999970;
+https://doi.org/10.1128/AAC.00836-07
+
+[190] Saising J, Dube L, Ziebandt AK, Voravuthikunchai
+SP, Nega M, Gotz F. Activity of gallidermin on Staphy-
+lococcus aureus and Staphylococcus epidermidis bio-
+ﬁlms. Antimicrobial Agents Chemotherapy 2012;
+56:5804-10; PMID:22926575; https://doi.org/10.1128/
+AAC.01296-12
+
+[191] Rienzo MAD, Banat IM, Dolman B, Winterburn J, Mar-
+tin PJ. Sophorolipid biosurfactants: Possible uses as
+antibacterial and antibioﬁlm agent. N Biotechnol 2015;
+7:720-6.
+
+[192] Incani V, Omar A, Prosperi-Porta G, Nadworny P.
+Ag5IO6: novel antibioﬁlm activity of a silver compound
+with application to medical devices. Int J Antimicrobial
+Agents 2015; 45:586-93; PMID:25604278; https://doi.
+org/10.1016/j.ijantimicag.2014.09.008
+
+[193] Percival SL, Finnegan S, Donelli G, Vuotto C, Rimmer S,
+Lipsky BA. Antiseptics for treating infected wounds:
+Efﬁcacy on bioﬁlms and effect of pH. Critical Rev
+Microbiol 2014; 42(2):293–309; https://doi.org/10.3109/
+1040841X.2014.940495
+
+[194] Kragol G, Hoffmann R, Chattergoon MA, Lovas S,
+Cudic M, Bulet P, Condie BA, Rosengren KJ,
+Montaner LJ, Otvos L, Jr, et al. Identiﬁcation of cru-
+cial
+the
+proline-rich peptide, pyrrhocoricin. Eur J Biochem /
+269:4226-37; https://doi.org/10.1046/
+FEBS
+j.1432-1033.2002.03119.x
+
+the antibacterial activity of
+
+residues
+
+2002;
+
+for
+
+[195] Kragol G, Lovas S, Varadi G, Condie BA, Hoffmann R,
+Otvos L, Jr. The antibacterial peptide pyrrhocoricin
+inhibits the ATPase actions of DnaK and prevents chap-
+erone-assisted protein folding. Biochemistry 2001;
+40:3016-26; PMID:11258915; https://doi.org/10.1021/
+bi002656a
+
+[196] Laszlo OJ, Insug O, Rogers ME, Consolvo PJ, Condie
+BA, Lovas S, Bulet P, Blaszczyk-Thurin M. Interaction
+between heat shock proteins and antimicrobial peptides.
+Biochemistry
+PMID:11087363;
+https://doi.org/10.1021/bi0012843
+
+39:14150-9;
+
+2000;
+
+[197] Gagnon MG, Roy RN, Lomakin IB, Florin T, Mankin AS,
+Steitz TA. Structures of proline-rich peptides bound to
+the ribosome reveal a common mechanism of protein
+synthesis inhibition. Nucleic Acids Res 2016; 44:2439-50;
+PMID:26809677; https://doi.org/10.1093/nar/gkw018
+[198] Vizan JL, Hernandez-Chico C, del Castillo I, Moreno F.
+The
+induces
+antibiotic microcin
+double-strand cleavage of DNA mediated by E. coli
+DNA gyrase. EMBO J 1991; 10:467-76.
+
+peptide
+
+B17
+
+[199] Finnegan S, Percival SL. EDTA: An antimicrobial and
+antibioﬁlm agent for use in wound care. Adv Wound
+Care 2015; 4:415-21; PMID:26155384; https://doi.org/
+10.1089/wound.2014.0577
+
+[200] Zhang A, Mu H, Zhang W, Cui G, Zhu J, Duan J.
+Chitosan coupling makes microbial bioﬁlms susceptible
+Scientiﬁc Reports
+to
+3:3364;
+antibiotics.
+PMID:24284335
+
+2013;
+
+[201] Cho JH, Sung BH, Kim SC. Buforins: histone H2A-
+derived antimicrobial peptides from toad stomach.
+
+Biochim Et Biophysica Acta 2009; 1788:1564-9; https://
+doi.org/10.1016/j.bbamem.2008.10.025
+
+[202] Boman HG, Agerberth B, Boman A. Mechanisms of
+action on Escherichia coli of cecropin P1 and PR-39,
+two antibacterial peptides from pig intestine. Infect
+Immunity 1993; 61:2978-84.
+
+[203] Subbalakshmi C, Sitaram N. Mechanism of antimicro-
+bial action of indolicidin. FEMS Microbiol Letters 1998;
+160:91-6;
+https://doi.org/10.1111/
+j.1574-6968.1998.tb12896.x
+
+PMID:9495018;
+
+[204] Hsu CH, Chen C, Jou ML, Lee AY, Lin YC, Yu YP,
+Huang WT, Wu SH. Structural and DNA-binding stud-
+ies on the bovine antimicrobial peptide, indolicidin: evi-
+dence for multiple conformations involved in binding
+to membranes and DNA. Nucleic Acids Res 2005;
+33:4053-64; PMID:16034027; https://doi.org/10.1093/
+nar/gki725
+
+[205] Hell E, Giske CG, Nelson A, R€omling U, Marchini G.
+inhibits both
+Human cathelicidin peptide LL37
+and bioﬁlm formation of
+attachment
+capability
+Staphylococcus epidermidis. Lett Appl Microbiol 2010;
+50:211-5;
+https://doi.org/10.1111/
+j.1472-765X.2009.02778.x
+
+PMID:20002576;
+
+[206] Cirioni O, Giacometti A, Ghiselli R, Kamysz W,
+Orlando F, Mocchegiani F, Silvestri C, Licci A, Chiodi
+L, Lukasiak J, et al. Citropin 1.1-treated central venous
+catheters improve the efﬁcacy of hydrophobic antibiot-
+ics in the treatment of experimental staphylococcal
+catheter-related infection. Peptides 2006; 27:1210-6;
+PMID:16289474;
+https://doi.org/10.1016/j.
+peptides.2005.10.007
+
+[207] Willcox MD, Hume EB, Aliwarga Y, Kumar N, Cole N.
+A novel cationic-peptide coating for the prevention of
+microbial colonization on contact lenses. J Appl Micro-
+biol 2008; 105:1817-25; PMID:19016975; https://doi.
+org/10.1111/j.1365-2672.2008.03942.x
+
+[208] Segev-Zarko L, Saar-Dover R, Brumfeld V, Mangoni
+ML, Shai Y. Mechanisms of bioﬁlm inhibition and
+degradation by antimicrobial peptides. Biochem J 2015;
+468:259-70; PMID:25761937; https://doi.org/10.1042/
+BJ20141251
+
+[209] Pimentel-Filho NJ, Martins MCF, Nogueira GB,
+Mantovani HC, Vanetti MCD. Bovicin HC5 and nisin
+reduce Staphylococcus aureus adhesion to polystyrene
+and change the hydrophobicity proﬁle and Gibbs free
+energy of adhesion. Int J Food Microbiol 2014; 190:1-8;
+PMID:25173449;
+https://doi.org/10.1016/j.
+ijfoodmicro.2014.08.004
+
+[210] Konto-Ghiorghi Y, Mairey E, Mallet A, Dumenil G, Cal-
+iot E, Trieu-Cuot P, Dramsi S. Dual role for pilus in
+adherence to epithelial cells and bioﬁlm formation in
+Streptococcus agalactiae. PLoS Pathogens 2009; 5:
+https://doi.org/10.1371/
+e1000422; PMID:19424490;
+journal.ppat.1000422
+
+[211] Jacobsen SM, Stickler DJ, Mobley HL, Shirtliff ME.
+Complicated catheter-associated urinary tract infections
+due to Escherichia coli and Proteus mirabilis. Clin
+Microbiol Rev 2008; 21:26-59; PMID:18202436; https://
+doi.org/10.1128/CMR.00019-07
+
+[212] Hung CS, Bouckaert J, Hung D, Pinkner J, Widberg
+C, DeFusco A, Auguste CG, Strouse R, Langermann
+S, Waksman G, et al. Structural basis of tropism of
+
+VIRULENCE
+
+551
+
+Escherichia coli to the bladder during urinary tract
+infection. Mol Microbiol
+44:903-15;
+https://doi.org/10.1046/j.1365-
+PMID:12010488;
+2958.2002.02915.x
+
+2002;
+
+[213] Anderson GG, Palermo JJ, Schilling JD, Roth R,
+Heuser J, Hultgren SJ. Intracellular bacterial bioﬁlm-
+like pods in urinary tract infections. Science 2003;
+301:105-7; PMID:12843396; https://doi.org/10.1126/
+science.1084550
+
+[214] Justice SS, Hung C, Theriot JA, Fletcher DA, Anderson
+GG, Footer MJ, Hultgren SJ. Differentiation and devel-
+opmental pathways of uropathogenic Escherichia coli in
+urinary tract pathogenesis. Proc Natl Acad Sci U S A
+2004; 101:1333-8; PMID:14739341; https://doi.org/
+10.1073/pnas.0308125100
+
+[215] Wright KJ, Seed PC, Hultgren SJ. Development of
+intracellular bacterial communities of uropathogenic
+Escherichia coli depends on type 1 pili. Cell Microbiol
+2007;
+https://doi.org/
+10.1111/j.1462-5822.2007.00952.x
+
+9:2230-41; PMID:17490405;
+
+[216] Arslan SY, Leung KP, Wu CD. The effect of lactoferrin
+on oral bacterial attachment. Oral Microbiol Immunol
+2009;
+https://doi.org/
+10.1111/j.1399-302X.2009.00537.x
+
+PMID:19702956;
+
+24:411-6;
+
+[217] Wakabayashi H, Yamauchi K, Kobayashi T, Yae-
+shima T, Iwatsuki K, Yoshie H. Inhibitory effects of
+lactoferrin on growth and bioﬁlm formation of Por-
+phyromonas gingivalis and Prevotella intermedia.
+Antimicrobial Agents Chemotherapy 2009; 53:3308-
+16; PMID:19451301; https://doi.org/10.1128/AAC.0
+1688-08
+
+[218] Cusumano CK, Pinkner JS, Han Z, Greene SE, Ford BA,
+Crowley JR, Henderson JP, Janetka JW, Hultgren SJ.
+Treatment and prevention of urinary tract infection
+with orally active FimH inhibitors. Sci Translational
+Med
+https://doi.org/10.1126/
+2011;
+scitranslmed.3003021
+
+3:109ra15;
+
+[219] Han Z, Pinkner JS, Ford B, Chorell E, Crowley JM,
+Cusumano CK, Campbell S, Henderson JP, Hultgren SJ,
+Janetka JW. Lead optimization studies on FimH
+antagonists: discovery of potent and orally bioavailable
+ortho-substituted biphenyl mannosides. J Med Chem
+2012; 55:3945-59; PMID:22449031; https://doi.org/
+10.1021/jm300165m
+
+[220] Han Z, Pinkner JS, Ford B, Obermann R, Nolan W,
+Wildman SA, Hobbs D, Ellenberger T, Cusumano CK,
+Hultgren SJ, et al. Structure-based drug design and opti-
+mization of mannoside bacterial FimH antagonists. J
+Med Chem 2010; 53:4779-92; PMID:20507142; https://
+doi.org/10.1021/jm100438s
+
+[221] Guiton PS, Cusumano CK, Kline KA, Dodson KW,
+Han Z, Janetka JW, Henderson JP, Caparon MG,
+Hultgren SJ. Combinatorial small-molecule therapy
+prevents
+coli
+catheter-associated urinary tract infections in mice.
+Antimicrobial Agents Chemotherapy 2012; 56:4738-
+45;
+https://doi.org/10.1128/
+AAC.00447-12
+
+PMID:22733070;
+
+uropathogenic
+
+Escherichia
+
+[222] Greene SE, Pinkner JS, Chorell E, Dodson KW, Shaffer
+CL, Conover MS, Livny J, Hadjifrangiskou M, Almqvist
+F, Hultgren SJ. Pilicide ec240 disrupts virulence circuits
+in uropathogenic Escherichia coli. MBio 2014; 5:
+
+552
+
+R. ROY ET AL.
+
+e02038;
+mBio.02038-14
+
+PMID:25352623;
+
+https://doi.org/10.1128/
+
+[223] Siddiq DM, Darouiche RO. New strategies to prevent
+catheter-associated urinary tract infections. Nat Rev
+Urol 2012; 9:305-14; PMID:22508462; https://doi.org/
+10.1038/nrurol.2012.68
+
+[224] Jiang P, Li J, Han F, Duan G, Lu X, Gu Y, Yu W.
+Antibioﬁlm activity of an exopolysaccharide from
+marine bacterium Vibrio sp. QY101. PloS One 2011;
+6:e18514; PMID:21490923; https://doi.org/10.1371/
+journal.pone.0018514
+
+[225] Rendueles O, Kaplan JB, Ghigo JM. Antibioﬁlm poly-
+saccharides. Environmental Microbiol 2013; 15:334-46;
+PMID:22730907;
+https://doi.org/10.1111/j.1462-
+2920.2012.02810.x
+
+[226] Das T, Maneﬁeld M. Pyocyanin promotes extracellular
+DNA release in Pseudomonas aeruginosa. PloS One
+2012;
+https://doi.org/
+10.1371/journal.pone.0046718
+
+PMID:23056420;
+
+7:e46718;
+
+[227] Wu S, Liu G, Jin W, Xiu P, Sun C. Antibioﬁlm and Anti-
+Infection of a Marine Bacterial Exopolysaccharide
+Against Pseudomonas aeruginosa. Front Microbiol
+2016; 7:102; PMID:26903981
+
+[228] Pihl M, JR D, LE CdP, G S. Differential effects of
+Pseudomonas aeruginosa on bioﬁlm formation by
+epidermidis.
+different
+FEMS Immunol Med Microbiol 2010; 59:439-46;
+PMID:20528934;
+https://doi.org/10.1111/j.1574-
+695X.2010.00697.x
+
+Staphylococcus
+
+strains
+
+of
+
+[229] Qin Z, Yang L, Qu D, Molin S, Tolker-Nielsen T. Pseu-
+inhibit
+domonas aeruginosa extracellular products
+staphylococcal growth, and disrupt established bioﬁlms
+produced by Staphylococcus epidermidis. Microbiology
+2009; 155:2148-56; PMID:19389780; https://doi.org/
+10.1099/mic.0.028001-0
+
+[230] Bendaoud M, Vinogradov E, Balashova NV, Kadouri
+DE, Kachlany SC, Kaplan JB. Broad-spectrum bioﬁlm
+inhibition by Kingella kingae exopolysaccharide. J Bac-
+teriol 2011; 193:3879-86; PMID:21602333; https://doi.
+org/10.1128/JB.00311-11
+
+[231] Valle J, Da Re S, Henry N, Fontaine T, Balestrino D,
+Latour-Lambert P, Ghigo JM. Broad-spectrum bioﬁlm
+inhibition by a secreted bacterial polysaccharide. Proc Natl
+Acad Sci U S A 2006; 103:12558-63; PMID:16894146;
+https://doi.org/10.1073/pnas.0605399103
+
+[232] Rendueles O, Travier L, Latour-Lambert P, Fontaine T,
+Magnus J, Denamur E, Ghigo JM. Screening of Escheri-
+chia coli species biodiversity reveals new bioﬁlm-associ-
+ated anti-adhesion polysaccharides. mBio 2011; 2:
+e00043-e11; PMID:21558434; https://doi.org/10.1128/
+mBio.00043-11
+
+[233] Sayem SM, Manzo E, Ciavatta L, Tramice A, Cordone
+A, Zanfardino A, De Felice M, Varcamonti M. Anti-bio-
+ﬁlm activity of an exopolysaccharide from a sponge-
+associated strain of Bacillus licheniformis. Microbial
+Cell Factories 2011; 10:74; PMID:21951859; https://doi.
+org/10.1186/1475-2859-10-74
+
+[234] Kim Y, Oh S, Kim SH. Released exopolysaccharide
+(r-EPS) produced from probiotic bacteria reduce bio-
+ﬁlm formation of enterohemorrhagic Escherichia coli
+O157:H7. Biochem Biophys Res Commun 2009;
+
+379:324-9; PMID:19103165; https://doi.org/10.1016/j.
+bbrc.2008.12.053
+
+[235] Yu S, Su T, Wu H, Liu S, Wang D, Zhao T, Jin Z, Du W,
+Zhu MJ, Chua SL, et al. PslG, a self-produced glycosyl
+hydrolase, triggers bioﬁlm disassembly by disrupting
+exopolysaccharide matrix. Cell Res 2015; 25:1352-67;
+PMID:26611635; https://doi.org/10.1038/cr.2015.129
+
+[236] Romling U, Galperin MY, Gomelsky M. Cyclic
+di-GMP: the ﬁrst 25 years of a universal bacterial
+second messenger. Microbiol Mol Biol Rev 2013;
+77:1-52; PMID:23471616; https://doi.org/10.1128/
+MMBR.00043-12
+
+[237] Chua SL, Liu Y, Yam JK, Chen Y, Vejborg RM, Tan BG,
+Kjelleberg S, Tolker-Nielsen T, Givskov M, Yang L. Dis-
+persed cells represent a distinct stage in the transition
+from bacterial bioﬁlm to planktonic lifestyles. Nat Com-
+mun 2014; 5:4462; PMID:25042103; https://doi.org/
+10.1038/ncomms5462
+
+[238] Sambanthamoorthy K, Luo C, Pattabiraman N. Identiﬁ-
+cation of small molecules inhibiting diguanylate cyclases
+to control bacterial bioﬁlm development. Biofouling
+2014;
+https://doi.org/
+PMID:24117391;
+10.1080/08927014.2013.832224
+
+30:17-28;
+
+[239] Lieberman OJ, Orr MW, Wang Y, Lee VT.
+High-throughput screening using the differential radial
+capillary action of ligand assay identiﬁes ebselen as an
+inhibitor of diguanylate cyclases. ACS Chem Biol 2014;
+9:183-92;
+https://doi.org/10.1021/
+cb400485k
+
+PMID:24134695;
+
+[240] Mueller RS, Beyhan S, Saini SG, Yildiz FH, Bartlett DH.
+Indole acts as an extracellular cue regulating gene
+expression in Vibrio cholerae.
+J Bacteriol 2009;
+191:3504-16; PMID:19329638; https://doi.org/10.1128/
+JB.01240-08
+
+[241] Lee J, Page R, Garcia-Contreras R, Palermino JM,
+Zhang XS, Doshi O, et al. Structure and function of
+the Escherichia coli protein YmgB: a protein critical
+for bioﬁlm formation and acid-resistance. J Mol Biol
+2007; 373:11-26; PMID:17765265; https://doi.org/
+10.1016/j.jmb.2007.07.037
+
+[242] Lee J, Jayaraman A, Wood TK. Indole is an inter-
+species bioﬁlm signal mediated by SdiA. BMC
+Microbiol 2007; 7:42
+
+[243] Nishino K, Nikaido E, Yamaguchi A. Regulation of mul-
+tidrug efﬂux systems involved in multidrug and metal
+resistance of Salmonella enterica serovar Typhimurium.
+J Bacteriol 2007; 189:9066-75; PMID:17933888; https://
+doi.org/10.1128/JB.01045-07
+
+[244] Bunders CA, Minvielle MJ, Worthington RJ, Ortiz M,
+Cavanagh J, Melander C. Intercepting bacterial indole
+signaling with ﬂustramine derivatives. J Am Chem Soci-
+ety 2011; 133:20160-3; PMID:22091927; https://doi.org/
+10.1021/ja209836z
+
+[245] Durig A, Kouskoumvekaki I, Vejborg RM, Klemm P.
+Chemoinformatics-assisted development of new anti-
+bioﬁlm compounds. Applied Microbiol Biotechnol
+2010;
+https://doi.org/
+10.1007/s00253-010-2471-0
+
+87:309-17; PMID:20204615;
+
+[246] Amalaradjou MAR, Venkitanarayanan K. Antibioﬁlm
+effect of Octenidine Hydrochloride on Staphylococ-
+cus aureus, MRSA and VRSA. Pathogens 2014;
+
+3:404-16; PMID:25437807; https://doi.org/10.3390/
+pathogens3020404
+
+[247] Hirsch T, Jacobsen F, Rittig A. A comparative in vitro
+study of cell toxicity of clinically used antiseptics. Hau-
+tarzt 2009; 60:984-91; PMID:19812986; https://doi.org/
+10.1007/s00105-009-1842-x
+
+[248] Gopal R, Kim YG, Lee JH, Lee SK, Chae JD, Son BK, Seo
+CH, Park Y. Synergistic effects and antibioﬁlm proper-
+ties of chimeric peptides against multidrug-resistant aci-
+netobacter baumannii strains. Antimicrobial Agents
+Chemotherapy
+58:1622-9; PMID:24366740;
+2014;
+https://doi.org/10.1128/AAC.02473-13
+
+[249] Cady NC, McKean KA, Behnke J, Kubec R, Mosier AP,
+Kasper SH, Burz DS, Musah RA. Inhibition of bioﬁlm
+formation, quorum sensing and infection in Pseudomo-
+nas aeruginosa by natural products-inspired organosulfur
+compounds. PloS One 2012; 7:e38492; PMID:22715388;
+https://doi.org/10.1371/journal.pone.0038492
+
+[250] Betzig E, Patterson GH, Sougrat R, Lindwasser OW,
+Olenych S, Bonifacino JS, Davidson MW, Lippincott-
+Schwartz J, Hess HF. Imaging intracellular ﬂuorescent
+proteins
+Science 2006;
+313:1642-5; PMID:16902090; https://doi.org/10.1126/
+science.1127344
+
+at nanometer
+
+resolution.
+
+[251] Hess ST, Girirajan TP, Mason MD. Ultra-high resolu-
+tion imaging by ﬂuorescence photoactivation localiza-
+tion microscopy. Biophysical
+J 2006; 91:4258-72;
+PMID:16980368;
+https://doi.org/10.1529/biophysj.
+106.091116
+
+[252] Rust MJ, Bates M, Zhuang X. Subdiffraction-limit
+imaging by stochastic optical reconstruction micros-
+copy
+3:793-5;
+PMID:16896339; https://doi.org/10.1038/nmeth929
+
+(STORM). Nat Methods
+
+2006;
+
+[253] Abed SE, Ibnsouda SK, Latrache H, Hamadi F. Scanning
+Electron Microscopy (SEM) and Environmental SEM:
+Suitable tools for study of adhesion stage and bioﬁlm
+formation.
+In Scanning Electron Microscopy, V.
+Kazmiruk, ed. Rijeka, Croatia: InTech 2012.
+
+[254] Vidigal PG, Musken M, Becker KA, Haussler S, Wing-
+ender J, Steinmann E, Kehrmann J, Gulbins E, Buer J,
+Rath PM, et al. Effects of green tea compound epigallo-
+catechin-3 gallate against Stenotrophomonas malto-
+philia infection and bioﬁlm. PloS One 2014; 9:e92876;
+https://doi.org/10.1371/journal.
+PMID:24690894;
+pone.0092876
+
+[255] Magesh H, Kumar A, Alam A, Sekar U, Sumantran VN,
+Vaidyanathan R. Identiﬁcation of natural compounds
+which inhibit bioﬁlm formation in clinical isolates of
+Klebsiella pneumoniae. Indian J Exp Biol 2013; 51:764-
+72; PMID:24377137
+
+[256] Gopu V, Meena CK, Shetty PH. Quercetin inﬂuences
+quorum sensing in food borne bacteria: In-vitro and
+in-silico evidence. PloS One 2015; 10:e0134684;
+PMID:26248208;
+https://doi.org/10.1371/journal.
+pone.0134684
+
+[257] Adil M, Singh K, Verma PK, Khan AU. Eugenol-
+induced suppression of bioﬁlm-forming genes
+in
+Streptococcus mutans: An approach to inhibit bio-
+ﬁlms. J Global Antimicrobial Resistance 2014; 2:286-
+92;
+https://doi.org/10.1016/j.
+jgar.2014.05.006
+
+PMID:27873689;
+
+VIRULENCE
+
+553
+
+[258] Liang ZX. The expanding roles of c-di-GMP in the
+biosynthesis of exopolysaccharides and secondary
+metabolites. Natural Product Reports 2015; 32:663-
+83;
+https://doi.org/10.1039/
+C4NP00086B
+
+PMID:25666534;
+
+[259] Park SC, Park Y, Hahm KS. The role of antimicrobial
+peptides in preventing multidrug-resistant bacterial
+infections and bioﬁlm formation. Int J Mol Sci 2011;
+12:5971-92; PMID:22016639; https://doi.org/10.3390/
+ijms12095971
+
+[260] Shadia MAA, Aeron A. Bacterial Bioﬁlm: Dispersal and
+Inhibition Strategies. SAJ Biotechnol 2014; 1:105.
+[261] Vizan JL, Hernandez-Chico C, Castillo I, Moreno F. The
+Antibiotic Microcin B17 is a DNA Gyrase Poison:Char-
+acterisation of the mode of inhibition. EMBO J 1991;
+10:467-76; PMID:1846808
+
+[262] Kim JY, Park SC, Yoon MY, Hahm KS, Park Y. C-
+terminal amidation of PMAP-23: translocation to the
+inner membrane of Gram-negative bacteria. Amino
+Acids 2011; 40:183-95; PMID:20512598; https://doi.org/
+10.1007/s00726-010-0632-1
+
+[263] Sae-tan S, Grove KA, Kennett MJ, Lambert JD. (¡)-Epi-
+gallocatechin-3 gallate increases the expression of genes
+related to fat oxidation in the skeletal muscle of high
+fat-fed mice.
+2:111-6;
+PMID:21779555; https://doi.org/10.1039/c0fo00155d
+
+Funct
+
+2011;
+
+Food
+
+[264] de Manincor M. The reason why mango should be in
+everyone’s diet. ﬂipper e nuvola 2013. http://ﬂipper.diff.
+org/apptagsaccount/items/5356
+18,
+2017).
+
+(accessed April
+
+[265] Shiner EK, Rumbaugh KP, Williams SC. Interking-
+dom signaling: Deciphering the language of acyl
+homoserine lactones. FEMS Microbiol Rev 2005;
+29:935-47; PMID:16219513; https://doi.org/10.1016/j.
+femsre.2005.03.001
+
+[266] National Center for Biotechnology Information. Pub-
+Chem Compound Database; CIDD5770, 2006. https://
+pubchem.ncbi.nlm.nih.gov/compound/5770
+(accessed
+April 18, 2017).
+
+[267] National Center for Biotechnology Information. Pub-
+Chem Compound Database; CIDD969516, 2016.
+https://pubchem.ncbi.nlm.nih.gov/compound/969516
+(accessed April 18, 2017).
+
+[268] Soh PN, Witkowski B, Olagnier D, Nicolau ML,
+Garcia-Alvarez MC, Berry A, Benoit-Vical F. In vitro
+and in vivo properties of ellagic acid in malaria treat-
+ment. Antimicrobial Agents Chemotherapy 2009;
+53:1100-6; PMID:19015354; https://doi.org/10.1128/
+AAC.01175-08
+
+[269] National Center for Biotechnology Information. Pub-
+Chem Compound Database; CIDD16129778, 2014.
+https://pubchem.ncbi.nlm.nih.gov/compound/16129778
+(accessed April 18, 2017).
+
+[270] National Center for Biotechnology Information. Pub-
+Chem Compound Database; CIDD3314, 2004. https://
+pubchem.ncbi.nlm.nih.gov/compound/3314
+(accessed
+April 18, 2017).
+
+[271] National Center for Biotechnology Information. Pub-
+Chem Compound Database; CIDD2353, 2004. https://
+pubchem.ncbi.nlm.nih.gov/compound/2353
+(accessed
+April 18, 2017).
+
+554
+
+R. ROY ET AL.
+
+[272] National Center for Biotechnology Information. Pub-
+Chem Compound Database; CIDD5646, 2005. https://
+(accessed
+pubchem.ncbi.nlm.nih.gov/compound/5646
+April 18, 2017).
+
+[273] National Center for Biotechnology Information. Pub-
+Chem Compound Database; CIDD5311054, 2005.
+https://pubchem.ncbi.nlm.nih.gov/compound/5311054
+(accessed April 18, 2017).
+
+efﬁcacy. Nat Chem Biol
+
+[274] Ejim L, Farha MA, Falconer SB, Wildenhain J, Coombes
+BK, Tyers M, Brown ED, Wright GD. Combinations of
+antibiotics and nonantibiotic drugs enhance antimicro-
+7:348-50;
+bial
+PMID:21516114; https://doi.org/10.1038/nchembio.559
+[275] Yamamura H, Suzuki K, Uchibori K, Miyagawa A,
+Kawai M, Ohmizo C, Katsu T. Mimicking an antimicro-
+bial peptide polymyxin B by use of cyclodextrin. Royal
+Society Chem 2012; 48:892-4.
+
+2011;
+
+[276] National Center for Biotechnology Information. Pub-
+Chem Compound Database; CIDD73357, 2005. https://
+pubchem.ncbi.nlm.nih.gov/compound/73357 (accessed
+April 18, 2017).
+
+[277] National Center for Biotechnology Information. Pub-
+Chem Compound Database; CIDD16219761, 2007.
+https://pubchem.ncbi.nlm.nih.gov/compound/16219761
+(accessed April 18, 2017).
+
+[278] Scaffaroa R, Bottaa L, Gallo G. Photo-oxidative deg-
+radation of poly (ethylene-co-vinyl acetate)/nisin
+antimicrobial ﬁlms. Polymer Degradation Stability
+2012;
+https://doi.org/10.1016/j.
+polymdegradstab.2012.01.003
+
+97:653-60;
+
+[279] National Center for Biotechnology Information. Pub-
+Chem Compound Database; CIDD16130064, 2007.
+https://pubchem.ncbi.nlm.nih.gov/compound/16130064
+(accessed April 18, 2017).
+
+[280] National Center for Biotechnology Information. Pub-
+Chem Compound Database; CIDD16132391, 2007.
+https://pubchem.ncbi.nlm.nih.gov/compound/16132391
+(accessed April 18, 2017).
+
+[281] National Center for Biotechnology Information. Pub-
+Chem Compound Database; CIDD73348284, 2014.
+https://pubchem.ncbi.nlm.nih.gov/compound/73348284
+(accessed April 18, 2017).
+
+[282] National Center for Biotechnology Information. Pub-
+Chem Compound Database; CIDD9552079, 2006.
+https://pubchem.ncbi.nlm.nih.gov/compound/9552079
+(accessed April 18, 2017).
+
+[283] Baccile N, Pedersen JS, Pehau-Arnaudet G, Van Bogaert
+INA. Surface charge of acidic sophorolipid micelles: effect
+of base and time. Royal Society Chem 2013; 9:4911-22.
+
+[284] National Center for Biotechnology Information. Pub-
+Chem Compound Database; CIDD20977, 2005. https://
+pubchem.ncbi.nlm.nih.gov/compound/20977 (accessed
+April 18, 2017).
+
+[285] National Center
+
+for Biotechnology Information.
+PubChem Compound Database; CIDD101097383,
+2015. https://pubchem.ncbi.nlm.nih.gov/compound/
+101097383 (accessed April 18, 2017).
+
+[286] Collin F, Karkare S, Maxwell A. Exploiting bacterial DNA
+gyrase as a drug target: current state and perspectives. Appl
+Microbiol Biotechnol 2011; 92:479-97; PMID:21904817;
+https://doi.org/10.1007/s00253-011-3557-z.
+
+[287] National Center for Biotechnology Information. Pub-
+Chem Compound Database; CIDD16131340, 2007.
+https://pubchem.ncbi.nlm.nih.gov/compound/16131340
+(accessed April 18, 2017).
+
+[288] National Center for Biotechnology Information. Pub-
+Chem Compound Database; CIDD6224, 2009. https://
+pubchem.ncbi.nlm.nih.gov/compound/6224
+(accessed
+April 18, 2017).
+
+[289] National Center for Biotechnology Information. Pub-
+Chem Compound Database; CIDD6144, 2007. https://
+pubchem.ncbi.nlm.nih.gov/compound/6144
+(accessed
+April 18, 2017).
+
+[290] Kota S, Adibhatla KSBR, Venkaiah CN. Improved pro-
+cess for the preparation of cadexomer iodine. Natco
+Pharma Limited. Patent no. WO2008117300 A2; 2008.
+
+[291] National Center for Biotechnology Information. Pub-
+Chem Compound Database; CIDD16198951, 2007.
+https://pubchem.ncbi.nlm.nih.gov/compound/16198951
+(accessed April 18, 2017).
+
+[292] Franklin M, Nivens D, Weadge J, Howell P. Biosynthe-
+sis of the Pseudomonas aeruginosa Extracellular Poly-
+saccharides, Alginate, Pel, and Psl. Frontiers Microbiol
+2011; 2(167); PMCID: 3159412; https://doi.org/10.3389/
+fmicb.2011.00167
+
+[293] Mann EE, Wozniak DJ. Pseudomonas bioﬁlm matrix
+composition and niche biology. FEMS Microbiol Rev
+2012; 36:893-916; PMID:22212072; https://doi.org/
+10.1111/j.1574-6976.2011.00322.x
+
+[294] Jennings LK, Storek KM, Ledvina HE, Coulon C, Mar-
+mont LS, Sadovskaya I, Secor PR, Tseng BS, Scian M,
+Filloux A, et al. Pel is a cationic exopolysaccharide that
+cross-links extracellular DNA in the Pseudomonas aeru-
+ginosa bioﬁlm matrix. Proc Natl Acad Sci US A 2015;
+112:11353-8; PMID:26311845; https://doi.org/10.1073/
+pnas.1503058112
+
+[295] Mistretta N, Danve E, Moreau M. Conjugates obtained
+by reductive amination of the pneumococcus serotype 5
+capsular polysaccharide. Aventis Pasteur S.A. Patent no.
+US7812006 B2; 2010.
+
+[296] Kim JS, Ha TY, Ahn J, Kim S. Analysis and distribution
+of esculetin in plasma and tissues of rats after oral
+administration. Preventive Nutrition Food Sci 2014;
+19:321-6;
+https://doi.org/10.3746/
+pnf.2014.19.4.321
+
+PMID:25580397;
+
+[297] Maher P, Akaishi T, Abe K. Flavonoid ﬁsetin pro-
+motes ERK-dependent
+long-term potentiation and
+enhances memory. Proc Natl Acad Sci U S A 2006;
+103:16568-73;
+https://doi.org/
+PMID:17050681;
+10.1073/pnas.0607822103
+
+[298] National Center for Biotechnology Information. Pub-
+Chem Compound Database; CIDD51166, 2005. https://
+pubchem.ncbi.nlm.nih.gov/compound/51166 (accessed
+April 18, 2017).
+
+

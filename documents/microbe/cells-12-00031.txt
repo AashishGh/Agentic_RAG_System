@@ -1,0 +1,1049 @@
+Review
+Ethylene: A Master Regulator of Plant–Microbe Interactions
+under Abiotic Stresses
+
+Kirti Shekhawat, Katja Fröhlich, Gabriel X. García-Ramírez
+
+, Marilia A. Trapp
+
+and Heribert Hirt *
+
+DARWIN21, Center for Desert Agriculture, Biological and Environmental, Science and Engineering Division,
+King Abdullah University of Science and Technology (KAUST), Thuwal 23955-6900, Saudi Arabia
+* Correspondence: heribert.hirt@kaust.edu.sa
+
+Abstract: The plant phytohormone ethylene regulates numerous physiological processes and con-
+tributes to plant–microbe interactions. Plants induce ethylene production to ward off pathogens
+after recognition of conserved microbe-associated molecular patterns (MAMPs). However, plant
+immune responses against pathogens are essentially not different from those triggered by neutral
+and beneﬁcial microbes. Recent studies indicate that ethylene is an important factor for beneﬁcial
+plant–microbial association under abiotic stress such as salt and heat stress. The association of
+beneﬁcial microbes with plants under abiotic stresses modulates ethylene levels which control the
+expression of ethylene-responsive genes (ERF), and ERFs further regulate the plant transcriptome,
+epi-transcriptome, Na+/K+ homeostasis and antioxidant defense mechanisms against reactive oxy-
+gen species (ROS). Understanding ethylene-dependent plant–microbe interactions is crucial for the
+development of new strategies aimed at enhancing plant tolerance to harsh environmental conditions.
+In this review, we underline the importance of ethylene in beneﬁcial plant–microbe interaction under
+abiotic stresses.
+
+Keywords: ethylene; plant-microbe interactions; abiotic stresses; transcriptome; reactive oxygen species
+
+Citation: Shekhawat, K.; Fröhlich, K.;
+
+García-Ramírez, G.X.; Trapp, M.A.;
+
+Hirt, H. Ethylene: A Master
+
+Regulator of Plant–Microbe
+
+Interactions under Abiotic Stresses.
+
+Cells 2023, 12, 31. https://doi.org/
+
+10.3390/cells12010031
+
+Academic Editor: Michitaka Ozaki
+
+Received: 1 November 2022
+
+Revised: 15 December 2022
+
+Accepted: 16 December 2022
+
+Published: 21 December 2022
+
+Copyright: © 2022 by the authors.
+
+Licensee MDPI, Basel, Switzerland.
+
+This article is an open access article
+
+distributed under
+
+the terms and
+
+conditions of the Creative Commons
+
+Attribution (CC BY) license (https://
+
+creativecommons.org/licenses/by/
+
+4.0/).
+
+1. Introduction
+
+Plant–microbe interactions are an important part of our living ecosystem as they
+maintain environmental sustainability. Plants harbor a complex variety of microorganisms
+ranging from “mutualists” to “pathogens”. The symbiotic and mutualistic interactions
+with beneﬁcial microbes show positive communication whereas the interactions with
+pathogenic microbes represent a negative one [1,2]. In the process of any plant–microbe
+interaction, plants produce several compounds that inﬂuence these interactions. Phyto-
+hormones regulate many processes in plants. Among these, ethylene, a gaseous hormone,
+plays a central part in pathogenic as well as beneﬁcial plant–microbe interactions [3–6].
+In plants, the production of ethylene is subject to several biotic and abiotic factors that
+affect many physiological and developmental processes, indicating its role in plant adap-
+tation to environmental changes [3,7,8]. Ethylene biosynthesis starts with the conversion
+of methionine into S-adenosyl-methionine (SAM) by SAM synthetases. SAM further gets
+converted into the ethylene precursor 1-aminocyclopropane-1-carboxylic acid (ACC) via
+ACC synthases, and ﬁnally, ACC is converted into ethylene by ACC oxidases. Ethylene
+then diffuses out of and into plant cells [9–11]. The perception of ethylene signaling takes
+place at the endoplasmic reticulum membrane where it initiates a signaling cascade that
+results in ETHYLENE RESPONSE FACTORs (ERFs)-mediated transcriptional regulation
+of ethylene-responsive genes in the nucleus. In Arabidopsis, the ethylene receptors ETHY-
+LENE RESPONSE SENSOR1 (ERS1), ERS2, ETHYLENE RESPONSE1 (ETR1), ETR2, and
+ETHYLENE INSENSITIVE4 (EIN4) act as negative regulators of the ethylene signaling
+pathway. In the absence of ethylene signaling, these ethylene receptors activate CON-
+STITUTIVE TRIPLE RESPONSE1 (CTR1), which inhibits EIN2, a positive regulator of
+
+Cells 2023, 12, 31. https://doi.org/10.3390/cells12010031
+
+https://www.mdpi.com/journal/cells
+
+cellsCells 2023, 12, 31
+
+2 of 15
+
+ethylene signaling, by phosphorylating the C-terminus of EIN2. In contrast, the presence
+of ethylene inactivates the ethylene receptors and therefore inhibits the activation of CTR1.
+Consequently, dephosphorylated and cleaved EIN2 C-terminus (CEND) enters the nucleus
+where it promotes the activity of transcriptional master-regulators of ethylene signaling,
+ethylene-insensitive3/ethylene-insensitive3-like1 (EIN3/EIL1) which controls the transcrip-
+tion of ethylene-responsive target genes, such as ETHYLENE RESPONSE FACTORs. ERFs
+are AP2domain-containing transcription factors (TFs) that regulate several processes via
+regulating the expression of several genes of the stress response, development, growth
+and hormone-related mechanisms [12–14]. For instance, in Arabidopsis, ethylene regulates
+auxin distribution which regulates ROS and ROS further has an impact on the epigenetic
+mechanisms of gene regulation [15,16]. Ethylene also shows cell-type-speciﬁc responses.
+A study by Vaseva et al. used a targeted expression approach to map the site of ethylene
+response by a number of cell-type-speciﬁc promotors to the F-box proteins EBF1 and 2. In
+phenotypic experiments, the epidermis of both roots and shoots has been revealed as the
+main site of ethylene response which also impacts the cortical layer mainly, via crosstalk
+with auxin [17]. Ethylene is also reported to inhibit the proliferation of the Arabidopsis
+root meristem cells [18]. Comparing the transcriptome of different leaf tissues revealed
+that ethylene/auxin crosstalk plays a role in mitochondrial regulation mainly in epidermis
+cells [19]. Ethylene not only regulates several aspects of plant growth but also participates
+in several plant–microbe interactions, thereby impacting microbial assembly [4,20,21]. In
+this context, one of the very ﬁrst events during plant–pathogen interactions is a rapid
+increase in ethylene biosynthesis in an attempt to ward off the pathogen. However, plants
+also involve ethylene in beneﬁcial plant–microbe interactions. Some helpful microbes
+need ethylene to provide plant growth promotion under abiotic stresses; in contrast, other
+microbes are known to produce ACC deaminase which might reduce ethylene levels to
+provide a beneﬁcial effect. This suggests a concentration-dependent effect of ethylene on
+plant growth during plant-microbial interactions and also indicates the possibility that ethy-
+lene may play a subtle negative role in microbe-mediated stress tolerance in plants [22–25].
+Therefore, a more reﬁned discussion is necessary to understand the actual involvement
+of ethylene during plant–microbe interactions. In this article, we ﬁrst review the impor-
+tance of ethylene for plant stress tolerance and then provide an overview of how ethylene
+is involved in plant–microbial interactions, thereby shifting the plant response toward
+stress adaption.
+
+2. Ethylene and Plant Abiotic Stresses
+
+Being sessile organisms, plants can face survival threats from environmental per-
+turbations. However, under such circumstances, plants still try to adjust their lifestyle
+by developing a series of strategies resulting in a stress-speciﬁc phenotype [26,27]. This
+integration of the phenotypic response to the environmental status is coordinated with
+help of phytohormone signaling. In response to abiotic stresses, plants produce several
+phytohormones including ethylene, which is crucial for plant growth and development
+under different abiotic stresses including salt, hypoxia and heat stress (HS).
+
+2.1. Salt Stress
+
+Salt stress is one of the main dangers to crop plant productivity worldwide [28,29].
+Plants manage salt stress by using the SOS (salt over sensitivity) signaling pathway. Salinity
+stress provokes the buildup of Ca2+, which is recognized by SOS3, the calcium-bound
+SOS3, then further activates the SOS2 protein kinase. The activation of SOS2 results in
+the phosphorylation of SOS1, a plasma membrane (PM) Na+/H+ antiporter; SOS1 then
+transports Na+ out of the cytosol (Figure 1A). Experimental evidence indicates the key
+role of ethylene as a regulator of plant salt stress. In Arabidopsis, salt stress suppresses
+the expression of ETR1 expression. In addition, etr1 loss-of-function mutants show im-
+proved salt tolerance and germinate earlier than wild type (WT) plants. In contrast, etr1
+gain-of-function mutants show more sensitivity to salt stress, suggesting that this gaseous
+
+Cells 2023, 12, 31
+
+3 of 15
+
+plant hormone works as the main modulator of salt stress response in plants [30–32]. An
+overproduction of endogenous ethylene or exogenous treatment of the ethylene precursor
+ACC increases salinity stress tolerance in various plants including Arabidopsis, tomato,
+grapevine and maize [33–35]. Ethylene modulates salinity stress responses by Na+/K+
+homeostasis. Homeostasis of Na+ ions maintains membrane integrity, plant water con-
+tent and photosynthesis in plants [36,37]. The maintenance of the Na+/K+ homeostasis
+by ethylene involves intricate signaling between ethylene, H2O2, and cytosolic calcium
+(Ca2+cyt) and extracellular ATP (eATP). When Arabidopsis roots sense the increased con-
+centration of sodium ions, eATP is produced, resulting in the accumulation of ROS in
+apoplast, chloroplasts, mitochondria and peroxisomes. In the meantime, eATP triggers
+the activation of ethylene signaling via the upregulation of EIN3. Activation of ethylene
+signaling interacts with ROS and Ca2+cyt to regulate the PM Na+/H+ antiport SOS systems.
+Ethylene can also directly activate the SOS pathway by enhancing the transcription of
+SOS1/2/3. As a result, the PM Na+/H+ antiporter helps to omit the excess Na+, while
+H+-ATPase inhibits DA-KORCs/DA-NSCCs (depolarization-activated K+ outward rectify-
+ing channels/depolarization-activated non-selective cation channels) to limit cytosolic K+
+leakage, overall maintaining Na+/K+ homeostasis under salinity stress (Figure 1A) [38].
+Ethylene also helps to maintain stomatal conductance, water use efﬁciency and osmotic
+adjustment to protect the plants from salinity stress [39]. Research on the role of ethylene
+in plant salt stress tolerance suggests that ﬁne-tuning of ethylene may be necessary for
+salt stress tolerance in plants as ethylene levels may positively or negatively affect plant
+responses to salt stress [40–42]. Although other studies have shown the role of other
+hormones in plant stress tolerance and indicate a cross-talk between ethylene with other
+phytohormones during salinity stress, a thorough mechanism is still unclear and needs
+further investigation.
+
+Figure 1. Schematic presentation of salt (A), hypoxic stress (B) and heat stress (HS) (C) signaling
+response in plants. Under salt stress, when Na+ ions are sensed, extracellular ATP is generated,
+which results in the accumulation of ROS and cytosolic calcium (Ca2+)cyt. Consequently, the extracel-
+lular eATP triggers ethylene signaling which interacts with ROS and (Ca2+)cyt, ROS and ethylene,
+and ethylene and (Ca2+)cyt regulates the plasma membrane Na+/H+ antiporter and H+-ATPase.
+Additionally, ethylene can also directly initiate the SOS signaling pathway. Subsequently, the plasma
+
+Cells 2022, 11, x FOR PEER REVIEW 3 of 15   transports Na+ out of the cytosol (Figure 1A). Experimental evidence indicates the key role of ethylene as a regulator of plant salt stress. In Arabidopsis, salt stress suppresses the ex-pression of ETR1 expression. In addition, etr1 loss-of-function mutants show improved salt tolerance and germinate earlier than wild type (WT) plants. In contrast, etr1 gain-of-function mutants show more sensitivity to salt stress, suggesting that this gaseous plant hormone works as the main modulator of salt stress response in plants [30–32]. An over-production of endogenous ethylene or exogenous treatment of the ethylene precursor ACC increases salinity stress tolerance in various plants including Arabidopsis, tomato, grapevine and maize [33–35]. Ethylene modulates salinity stress responses by Na+/K+ ho-meostasis. Homeostasis of Na+ ions maintains membrane integrity, plant water content and photosynthesis in plants [36,37]. The maintenance of the Na+/K+ homeostasis by eth-ylene involves intricate signaling between ethylene, H2O2, and cytosolic calcium (Ca2+cyt) and extracellular ATP (eATP). When Arabidopsis roots sense the increased concentration of sodium ions, eATP is produced, resulting in the accumulation of ROS in apoplast, chlo-roplasts, mitochondria and peroxisomes. In the meantime, eATP triggers the activation of ethylene signaling via the upregulation of EIN3. Activation of ethylene signaling interacts with ROS and Ca2+cyt to regulate the PM Na+/H+ antiport SOS systems. Ethylene can also directly activate the SOS pathway by enhancing the transcription of SOS1/2/3. As a result, the PM Na+/H+ antiporter helps to omit the excess Na+, while H+-ATPase inhibits DA-KORCs/DA-NSCCs (depolarization-activated K+ outward rectifying channels/depolariza-tion-activated non-selective cation channels) to limit cytosolic K+ leakage, overall main-taining Na+/K+ homeostasis under salinity stress (Figure 1A) [38]. Ethylene also helps to maintain stomatal conductance, water use efficiency and osmotic adjustment to protect the plants from salinity stress [39]. Research on the role of ethylene in plant salt stress tolerance suggests that fine-tuning of ethylene may be necessary for salt stress tolerance in plants as ethylene levels may positively or negatively affect plant responses to salt stress [40–42]. Although other studies have shown the role of other hormones in plant stress tolerance and indicate a cross-talk between ethylene with other phytohormones during salinity stress, a thorough mechanism is still unclear and needs further investigation.  Figure 1. Schematic presentation of salt (A), hypoxic stress (B) and heat stress (HS) (C) signaling response in plants. Under salt stress, when Na+ ions are sensed, extracellular ATP is generated, which results in the accumulation of ROS and cytosolic calcium (Ca2+)cyt. Consequently, the extra-cellular eATP triggers ethylene signaling which interacts with ROS and (Ca2+)cyt, ROS and ethylene, Cells 2023, 12, 31
+
+4 of 15
+
+membrane Na+/H+ antiporter helps to eliminate the excess Na+ and H+-ATPase prevents
+DA-KORCs/DA-NSCCs to control cytosolic K+ leakage, by balancing K+/Na+ homeostasis in salt
+stress. Upon submergence, plants accumulate ethylene within minutes due to restricted gas dif-
+fusion. Under hypoxia (B), the lack of oxygen stabilizes the ERF-VII proteins. The stable ERF-VII
+proteins activate the transcription of hypoxia-responsive genes in the nucleus. Under heat stress
+(C), HS changes plasma membrane integrity which results in calcium inﬂux. Heat stress and Ca2+
+inﬂux activate ethylene signaling, which activates ERF95,97 via EIN3. ERFs bind to the promoter
+regions of HSP genes to activate their transcription and therefore results in enhanced thermotol-
+erance. Abbreviation—ROS: reactive oxygen species, (Ca2+)cyt: cytosolic calcium, PM: plasma
+membrane, SOS: salt over sensitive, DA-KORCs: depolarization-activated K+ outward rectifying
+channels; DA-NSCCs: depolarization-activated non-selective cation channels. RBOHD: respiratory
+burst oxidase protein D, PGB1: Phytoglobin 1, SRO5: Similar to RCD one 5, HRU1: Hypoxia re-
+sponsive universal stress protein 1. HS: heat stress, ERF: ethylene response factors, EIN: ethylene
+insensitive, HSE: heat shock element, HSP: heat shock protein regulate the HRS. Arrows indicate
+positive regulation (heat stress transcription factor 1).
+
+2.2. Hypoxia
+
+Hypoxia (insufﬁcient oxygen availability) in plants usually arises as the result of heavy
+rains and subsequent ﬂooding [38,39,43,44]. Because of limited gas diffusion underwater,
+submerged plants face a shortage of oxygen and therefore existence depends on molecular
+responses that increase plant hypoxia tolerance. In submerged plant tissues the restricted
+gas diffusion results in ethylene accumulation. This ethylene accumulation can occur
+before the onset of hypoxia, making it a suitable signal for submergence. In ﬂooded plants,
+ethylene regulates adaptive responses to submergence by inducing morphological changes
+that help to survive in hypoxia. Ethylene was shown to accelerate and enhance hypoxia
+response genes through enhanced steadiness of speciﬁc ethylene response transcription
+factors (ERFs group VII) (Figure 1B) [43,45]. During low levels of oxygen, the expression
+of genes related to nitrogen, carbon glycolysis and anaerobic respiration increases in an
+ethylene-dependent manner. The mechanism behind ethylene-mediated hypoxia responses
+in plants includes the incorporation of ethylene signaling with the plant’s low oxygen-
+sensing machinery. Under normal oxygen levels, class VII ethylene response factors become
+degraded upon oxidation of the N-terminal amino acid cysteine by plant cysteine oxidases
+in the presence of O2 [46–48]. A decline in O2 levels stabilizes ERFVIIs and other cysteine-
+initiating proteins, leading to the expression of core hypoxia genes and hypoxia acclimation
+such as RBOHD, PGB1, SRO5 and HRU1 (Figure 1B) [46,49–51]. However, the increase in
+ERFVIIs alone does not induce the transcription of central hypoxia genes until an extra
+hypoxia signal is introduced, showing that ethylene alone cannot induce the expression of
+the core hypoxia genes under normal oxygen conditions [52–54]. In this context, as soon
+as O2 levels drop, the transcription of hypoxia genes is stronger and quicker compared to
+control plants without prior ethylene exposure. Taken together, these outcomes show that
+ethylene accumulation primes plant tissues for potentially impending hypoxia. However,
+how precisely plants integrate low O2 signaling and ethylene during submergence to
+enhance survival remains elusive.
+
+2.3. Heat Stress
+
+A rise in temperature above threshold levels causes cell damage by affecting physi-
+ological, cellular and molecular functions. High temperatures induce membrane defect,
+DNA damage, protein denaturation and reactive oxygen species (ROS) buildup which con-
+sequently results in oxidative stress, and hence, programmed cell death of the plant [55–57].
+Under such conditions, plants deploy ethylene biosynthesis and signaling to survive. Ethy-
+lene is an important regulator of HS responses [58,59]. Genes related to ethylene signaling
+such as ERFs, bind to heat stress transcription factor-2 (HSFA2) and activate the downstream
+cascade of HS management. In this context, ERF95 and ERF97 have been shown to bind
+
+Cells 2023, 12, 31
+
+5 of 15
+
+directly to the promoter region of HSFA2, which in turn modulates the expression of heat
+shock proteins (HSPs) to provide plant thermotolerance (Figure 1C) [60–62]. In addition,
+ethylene also regulates the metabolism of ROS via modulating osmo-protectants and the
+antioxidant defense system. Ethylene-mediated signaling was involved in the enhancement
+of thermotolerance in rice and Arabidopsis seedlings by decreasing oxidative damage and
+maintenance of chlorophyll content under HS. Rice plants treated with ethylene precursor
+showed reduced levels of cell membrane oxidation and ion leakage under heat treatment,
+conferring improved thermotolerance. Higher expression levels of heat shock transcription
+factors HSFA1a and HSFA2a, c, d, e, f and ethylene-signaling-related genes such as EIN2
+and EIN3 were observed in rice seedlings treated with ethylene precursor under HS than
+in rice seedlings under mock HS treatments [60]. In all these examples it seems that ethy-
+lene signaling-mediated HS alleviation mainly involves ERFs. However, the mechanisms
+underlying the crosstalk between heat and ethylene signaling remain unknown.
+
+3. Ethylene and Plant–Microbe Interactions
+
+As mentioned before, ethylene is the main regulator of plant life in many aspects,
+including numerous mechanisms by which plants communicate with a pathogen or ben-
+eﬁcial microbe. Ethylene regulates these plant-microbial interactions by regulating the
+expression of ethylene-responsive genes by ERFs or by interactions with other phytohor-
+mones [4,63,64]. Many studies have shown the importance of ethylene in the establishment
+of plant interactions with pathogens and beneﬁcial microbes which we discuss below.
+
+4. Ethylene and Pathogenic Plant–Microbe Interactions
+
+Plants possess an innate immune system in which each cell can detect molecular
+patterns as danger signals by a multilayered interface of pattern recognition receptors
+(PRRs) at the cell surface, which in turn activate pattern-triggered immune response (PTI),
+defending the plant against non-host adapted pathogens [65]. PRRs can bind to microbially
+derived extracellular molecules, which are often highly conserved across whole classes of
+microbes (microbe-associated molecular patterns, MAMPs). Host-adapted pathogens can
+evade plant immune responses by secreting effectors into the apoplast of the plant. In an
+evolutionary arms race, plants developed effector-binding receptors (nucleotide-binding
+domain leucine-rich repeat-containing (NLR) protein receptors) which induce effector-
+triggered immunity (ETI). The most studied MAMP is bacterial ﬂagellin (ﬂg22), which
+is detected in Arabidopsis by the PRRs FLAGELLIN-SENSING 2 (FLS2). As a response to
+pathogens, the plant produces ethylene which inhibits the growth of certain pathogens by
+regulating the transcription of pathogen response genes. The treatment of plants with ﬂg22
+induces ethylene biosynthesis via MAP kinases 3 and 6-mediated phosphorylation of the
+rate-limiting ET biosynthetic enzymes ACS2 and ACS6. These MPKs also phosphorylate
+EIN3 resulting in its stabilization. Ethylene activates various transcription factors such
+as ERF1 and OCTADECANOID-RESPONSIVE ARABIDOPSIS AP2/ERF 59 (ORA59) that
+are involved in the regulation of immunity-associated genes [66,67]. EIN3 and EIL1 are
+also involved in the positive feedback loop by binding the promoter region of FLS2 [68].
+Furthermore, plants disturbed in their ethylene signaling such as the ein2 mutant are im-
+paired in PTI, resulting in increased susceptibility towards virulent Pseudomonas syringae.
+Application of exogenous ethylene or constitutive expression of ERF1 safeguards the plants
+against the necrotrophic fungus Botrytis cinerea, in contrast, ethylene-insensitive mutants
+(e.g., ein2) display enhanced susceptibility to B. cinerea [69]. The detection of pathogens
+also affects the production of other phytohormones like salicylic acid (SA), abscisic acid
+(ABA) and jasmonic acid (JA). An orchestra of these phytohormones and other signaling
+pathways form a complex regulatory network to ﬁne-tune speciﬁc defenses against distinct
+pathogens [70,71]. Interestingly, the role of these plant defense hormones is different in
+dicots and monocots [72,73]. In dicots, SA is involved in the defense against biotrophic
+pathogens such as P. syringae, while jasmonic acid and ethylene work together in defense
+against necrotrophic pathogens such as Alternaria brassicae [70,74]. In monocots, ethylene
+
+Cells 2023, 12, 31
+
+6 of 15
+
+is effective against pathogens with diverse lifestyles. Ethylene also plays a modulating
+role in plant defense regulating other phytohormones [75–77]. JA and ethylene work syn-
+ergistically. The ERFs have been reported to integrate signals from ethylene and JA [78].
+Other typical marker genes expressed after ethylene and JA detection are POTLX3 (lipoxy-
+genase) [79], ACS (ethylene synthesis gene) [80], THI2.1 (thionin) [81], PDF1.2 (defensin);
+PR-3 (chitinase); PR-4 (hevein-like protein) [81,82], PR-6 (proteinase inhibitor) [83], PR-9
+(peroxidase) [84]. SA and ethylene act antagonistically and their biosynthesis pathways
+can be mutually repressed. NONEXPRESSER OF PR GENES 1 (NPR1) a core component
+of SA signaling, directly interacts with EIN3, blocking the transcription of EIN3-induced
+genes [85]. In turn, EIN3 and EIL1 directly bind to the SID2 promotor downregulating
+pathogen-induced biosynthesis of SA and enhancing disease susceptibility to P. syringae [86].
+To understand this discrepancy, further analyses of the function of ET in crosstalk with other
+hormones are required including experiments to investigate whether ethylene interacts
+with other hormones in a speciﬁc temporal and spatial manner.
+
+5. Ethylene and Beneﬁcial Plant–Microbe Interactions
+
+The plant life cycle is associated with complex microbial communities, including fungi,
+bacteria, protists and viruses, all of which can impact various phases of plant growth,
+development and health. Plant-associated microbes directly alleviate biotic and abiotic
+stress using diverse mechanisms, for example, producing protective compounds, providing
+useful nutrients, degrading toxic compounds, etc. These microbes can also ﬁne-tune plant
+hormone levels and the pathways that navigate plant growth. In the case of ethylene,
+numerous mechanisms that involve ethylene have been studied by which microbes can
+affect plant growth under abiotic stresses. Plant-microbial interactions can inﬂuence many
+regulatory steps of the ethylene biosynthesis pathway [4]. In this context, endophytic
+microbes can adjust ethylene concentration in plants through ACC deaminase activity,
+which converts plant ACC into ammonia and α-keto-butyrate. In this mechanism, mi-
+crobes reduce plant ACC levels and protect from higher ethylene concentrations, which
+can be inhibitory to plant growth [87]. Most ACC deaminase-producing bacteria were
+isolates from the rhizosphere and were successful in protecting the plants against biotic
+and abiotic stresses [22,87–90]. Nowadays, the ACC deaminase enzyme is considered
+as one type of plant growth-promoting characteristic of endophytes. There is an am-
+ple amount of literature showing that ACC deaminase-producing endophytic bacteria of
+different genera such as Bacillus, Pseudomonas, Streptomyces and Isoptericola can promote
+plant growth under stress conditions [91]. Bacteria-inoculated plants showed lower lev-
+els of lipid peroxidation, ABA, and ethylene and higher levels of chlorophyll and IAA
+when compared to non-inoculated plants in drought stress [92–96]. Similarly, endophytic
+Pseudomonas migulae 8R6 and Pseudomonas ﬂuorescens YsS6, with ACC-deaminase promoted
+the growth of tomato plants under salt stress [97]. To conﬁrm the role of ACC-deaminase
+activity, the two endophytes were mutated in their ACC-deaminase activity. The results
+of inoculated plants showed that the mutant inoculated plants were less ﬁt when com-
+pared to wild type-inoculated plants under salt stress. Similarly, rice seedlings inoculated
+with Pseudomonas stutzeri A1501 alleviated heavy metals and salt stress. All inoculated
+plants demonstrated higher fresh weight, longer roots and higher dry weight. The mu-
+tation of ACC deaminase compromised the plant growth promotion by the bacteria [98].
+Therefore, these data indicate that bacterial ACC deaminase activity plays an important
+role in plant growth promotion under stress by reducing ethylene levels. However, the
+role of ethylene in mutualistic interactions is more complicated, as several reports have
+demonstrated its participation in different ways. Some plant-growth-promoting bacte-
+ria degrade the ethylene precursor ACC with an ACC deaminase, which presumably
+promotes the growth of the microbes by repressing the ethylene-induced host defense sys-
+tem [99]. There are also examples where ethylene shows a detrimental effect on microbial
+colonization. For instance, the external application of ethylene was shown to negatively
+inﬂuence nodulation in legume-rhizobia symbioses in Medicago truncatula [100]. Ethylene
+
+Cells 2023, 12, 31
+
+7 of 15
+
+also restricts the growth of Glomus aggregatum arbuscular mycorrhizal (AM) fungus in pea
+(P. sativum) [101]. In addition, ethylene has been suggested as a negative regulator in
+the early phases of the symbiotic interaction of M. truncatula with the mycorrhizal fungi
+Rhizophagus intraradices and Endogone versiformis [24]. However, these responses are strain
+speciﬁc. For example, the exogenous application of ethylene negatively affects the viru-
+lence of Agrobacterium, leading to a decreased pathogenicity [102]. In contrast, some other
+bacteria such as, P. aeruginosa, P. ﬂuorescens, P. syringae and P. putida respond positively to
+ethylene produced in plants [103]. The effect of ethylene on microbial plant colonization
+also involves cross-talk with other hormones. For instance, the cross-talk between two hor-
+mones, ABA and ethylene, regulates the establishment of AM symbiosis in tomato plants.
+ABA is necessary for arbuscule formation as ABA deﬁciency results in a low abundance of
+arbuscules in mycorrhizal roots. This low abundance is attributed to enhanced ethylene
+content due to ABA deﬁciency, which functions as a negative regulator of mycorrhizal
+colonization [104]. Similarly, the plant hormones and ethylene have interconnecting roles
+in mutualistic symbionts between Laccaria bicolor and Populus root interactions. The appli-
+cation of ACC and JA repressed the Hartig net formation, which is the secondary stage
+of colonization and alters the gene expression of cell wall biosynthesis and maintenance
+genes, suggesting that these two hormones reduce the Hartig net formation in roots. In
+addition, genes regulated by ethylene and jasmonic acid were regulated in the late stages
+of the interaction between L. bicolor and Populus [105]. Although all these studies underpin
+a deleterious effect of ethylene on root colonization by mycorrhizal fungi, it appears that
+plants need an optimum concentration of ethylene, as the lower concentration of ethylene
+is critical for plant growth and development, whereas the higher concentration of ethylene
+is usually known to inhibit plant growth [23]. Hence, the higher ethylene levels could
+be inhibitory for root colonization by AM, while lower concentrations might promote
+AM colonization. Therefore, the amount of synthesized ethylene is essential for AM es-
+tablishment. These results also suggest that perhaps ethylene production activates the
+plant’s immune system which blocks the establishment of mutualistic symbioses. However,
+other studies show the opposite effects of ethylene in the interaction between plants and
+beneﬁcial microbes [25]. For instance, the interaction of Piriformospora indica with barley
+and Arabidopsis confers salt stress tolerance; the fungus positively modulates the expression
+of ACC synthase and ethylene has been implicated as a positive modulator of the symbiosis,
+but no ACC deaminase has been found in the P. indica genome. The transcriptome data of
+barley roots colonized by P. indica showed that the fungus reprograms the major metabolic
+and transcriptomic processes including the ethylene biosynthesis pathway under salt stress.
+P. indica induces ethylene synthesis in Arabidopsis upon colonization and Arabidopsis mu-
+tants impaired in ethylene signaling show less colonization of the fungus. The fungus also
+enhances methionine synthase which might further induce ethylene biosynthesis [23,99].
+These outcomes could be explained by the antagonism of ET and SA-mediated immune
+signaling. As mentioned before, SA based immunity is repressed by EIN3/EIL1 [86].
+P. indica showed JA-dependent root colonization and suppression of SA-mediated immu-
+nity. Interestingly, EIN3/EIL1 are activated by the JA pathway and P. indica may recruit the
+ET and JA pathways to block SA-mediated immunity, which would otherwise effectively
+stop root colonization. Like P. indica, Enterobacter sp. SA187 alleviates salinity stress in
+Arabidopsis, which turns out to be 2-keto-4-methylthiobutyric acid (KMBA) dependent,
+plants converting KIMBA into ethylene. The transcriptome analysis of inoculated and
+non-inoculated plants revealed that, after SA187 inoculation, the expression of genes in-
+volved in photosynthesis and primary metabolism remains unchanged under salt stress
+conditions as compared to mock-inoculated plants (Figure 2). Under salt stress, for im-
+proved plant salt stress tolerance, both the beneﬁcial microorganism and the host plant
+are required to have a coordinated regulation of the sulfur metabolic pathways. The ROS
+protection via glutathione (GSH) biosynthesis is tightly linked to sulfur metabolism and
+SA187 inoculated plants exhibit higher redox capacity by an enhanced ratio of GSH/GSSG
+(reduced/oxidized glutathione) compared to non-colonized plants under salt stress. In
+
+Cells 2023, 12, 31
+
+8 of 15
+
+addition, glutathione also induces and regulates ethylene biosynthesis via regulating ACC-
+synthase. The exogenous application of GSH could recover stress tolerance in wild-type
+plants but not in ethylene insensitive2-1 mutant plants, showing that GSH-mediated re-
+sistance to salt stress happens via an ethylene-mediated pathway [106–108]. Similar to
+P. indica, SA187 also induces ethylene-responsive genes and inhibition of ethylene biosynthe-
+sis by AgNO3 resulted in a loss of the beneﬁcial effects on plants under salt stress [107–109].
+Burkholderia phytoﬁrmans PsJN is one of the most explored PGPR, which is capable of pro-
+moting the growth of Arabidopsis plants [110,111]. In Arabidopsis, PsJN induces the growth
+of primary roots and root hairs, as well as aerial growth, increasing epidermal cell size [107]
+under salt stress [112]. B. phytoﬁrmans PsJN did not induce plant growth in ein2-1 mutants.
+The transcriptome showed up-regulation of ACO and ACS genes in root and aerial shoot
+parts, indicating a ﬁne regulation of ethylene to induce salt tolerance in PsJN inoculated
+plants [112]. Recently, the role of ethylene has been shown in microbes-mediated plant adap-
+tation to heat stress. Heat stress-induced ethylene signaling and heat stress transcription
+factors form a complex network of signal transduction that induces plant thermotolerance.
+In the context of beneﬁcial microbes, the beneﬁcial root endophyte, Enterobacter sp. SA187
+induces thermotolerance in Arabidopsis by reprograming the plant transcriptome via ethy-
+lene. The root endophyte SA187 produces a sulfur-containing compound, 2-KMBA, which
+can be converted to ethylene by plants; in addition, plant ethylene signaling is also linked
+to the sulfur metabolism via SAM (S-adenosyl methionine) as a precursor of ethylene
+(Figure 2). This suggests that SA187produced compounds activate the ethylene signaling
+pathway in Arabidopsis which regulates plant thermotolerance by ERF-mediated higher
+expression of HSFA2 and HSPs genes. Interestingly, SA187 primes the plants via EIN2-
+and HSFA2-dependent H3K4me3 modiﬁcation of APX2 and HSP18.2 HS memory genes
+(Figure 2), thereby making plants more thermotolerant. This indicates that microbes induce
+constitutive plant thermotolerance via ethylene [62].
+
+Figure 2. Diagrammatic representation of ethylene-mediated beneficial plant-microbial interactions.
+Microbes such as SA187 can trigger ethylene signaling via sulfur metabolism by uptake of sulfate,
+which further becomes converted into sulfite, sulfide, and cysteine. Further, cysteine can be used
+to generate either methionine or glutathione (GSH). GSH can be used in ROS scavenging, while
+methionine can regulate sulfur regulon via its conversion into SAM, ACC and ethylene. SA187 also
+produces KMBA, which plants can use to produce ethylene. In addition, KMBA contains sulfur which
+
+Cells 2022, 11, x FOR PEER REVIEW 8 of 15   (Figure 2). Under salt stress, for improved plant salt stress tolerance, both the beneficial microorganism and the host plant are required to have a coordinated regulation of the sulfur metabolic pathways. The ROS protection via glutathione (GSH) biosynthesis is tightly linked to sulfur metabolism and SA187 inoculated plants exhibit higher redox ca-pacity by an enhanced ratio of GSH/GSSG (reduced/oxidized glutathione) compared to non-colonized plants under salt stress. In addition, glutathione also induces and regulates ethylene biosynthesis via regulating ACC-synthase. The exogenous application of GSH could recover stress tolerance in wild-type plants but not in ethylene insensitive2-1 mu-tant plants, showing that GSH-mediated resistance to salt stress happens via an ethylene-mediated pathway [106-108]. Similar to P. Indica, SA187 also induces ethylene-responsive genes and inhibition of ethylene biosynthesis by AgNO3 resulted in a loss of the beneficial effects on plants under salt stress [107-109]. Burkholderia phytofirmans PsJN is one of the most explored PGPR, which is capable of promoting the growth of Arabidopsis plants [110,111]. In Arabidopsis, PsJN induces the growth of primary roots and root hairs, as well as aerial growth, increasing epidermal cell size[107] under salt stress [112]. B. phytofirmans PsJN did not induce plant growth in ein2-1 mutants. The transcriptome showed up-regu-lation of ACO and ACS genes in root and aerial shoot parts, indicating a fine regulation of ethylene to induce salt tolerance in PsJN inoculated plants [112]. Recently, the role of eth-ylene has been shown in microbes-mediated plant adaptation to heat stress. Heat stress-induced ethylene signaling and heat stress transcription factors form a complex network of signal transduction that induces plant thermotolerance. In the context of beneficial mi-crobes, the beneficial root endophyte, Enterobacter sp. SA187 induces thermotolerance in Arabidopsis by reprograming the plant transcriptome via ethylene. The root endophyte SA187 produces a sulfur-containing compound, 2-KMBA, which can be converted to eth-ylene by plants; in addition, plant ethylene signaling is also linked to the sulfur metabo-lism via SAM (S-adenosyl methionine) as a precursor of ethylene (Figure 2). This suggests that SA187produced compounds activate the ethylene signaling pathway in Arabidopsis which regulates plant thermotolerance by ERF-mediated higher expression of HSFA2 and HSPs genes. Interestingly, SA187 primes the plants via EIN2- and HSFA2-dependent H3K4me3 modification of APX2 and HSP18.2 HS memory genes(Figure 2), thereby mak-ing plants more thermotolerant. This indicates that microbes induce constitutive plant thermotolerance via ethylene [62].  Cells 2023, 12, 31
+
+9 of 15
+
+can be converted into SAM and SAM further modulate ethylene signaling. Ethylene further regulates
+salt stress via Na+/K+ homeostasis. Similarly, SA187-modulated ethylene can reprogram the plant
+transcriptome under HS. SA187-produced compounds activate ethylene signaling in Arabidopsis,
+which can enhance the plant thermotolerance via increased ERF-mediated expression of HSFA2 and
+HSPs genes. Fascinatingly, the presence of microbes can induce the expression of APX2 and HSP18.2
+memory genes via EIN2- and HSFA2-dependent H3K4me3 modiﬁcation. The beneﬁcial microbes
+can also induce systemic resistance (ISR) via ethylene. Ethylene and MYB72 are central regulators of
+ISR; both transcription factors EIN3 and MYB72 function as key regulators of microbe mediated ISR.
+Abbreviation—GSH: glutathione, ROS: reactive oxygen species, SAM: S-adenosyl methionine, ACC:
+1-aminocyclopropane-1-carboxylic acid, KMBA: keto-4-methylthiobutyric acid, Na+: sodium ions,
+K+: potassium ions, HKT1: sodium transporter, SOSs: salt over sensitive, EIN3: ethylene insensitive,
+ERFs: ethylene response factors, HSFA2: heat shock factor A2, APX2: ascorbic peroxidase 2, HSP18.2:
+heat shock protein 18.2, ISR: induced systemic resistance, MYB72: R2R3 transcription factor.
+
+The modulation of ethylene due to microbial association with plants inﬂuences plant
+physiology and lifestyle. Research on PGPR has demonstrated their capability to control
+soil-borne pathogen attacks on plants in an ethylene-dependent manner. Beneﬁcial mi-
+crobes can induce systemic acquired resistance (ISR) in plants to suppress plant diseases
+(Figure 2). One such example is P. ﬂuorescens WCS417r-mediated ISR against P. syringae
+in Arabidopsis and tomato. WCS417r induces MYB72 and ethylene, which together result
+in ISR (Figure 2). The ethylene response mutant etr1-1 lost the ability to be induced by
+rhizobacteria against P. syringae. Similarly, Arabidopsis plants treated with ACC showed
+enhanced resistance against P. syringae pv. tomato, indicating a role for ethylene in the
+microbes-mediated ISR in plants. Thus, responsiveness to ethylene seems to be essential
+for the induction of ISR; how ethylene regulates ISR is, however, not yet clear [113–115].
+
+6. Conclusions
+
+The higher expression of ethylene biosynthesis genes upon interaction with beneﬁcial
+microbes indicates that ethylene signaling not only triggers against pathogenic microbes
+but also in response to beneﬁcial endophytic microbes before recognizing them as a friend,
+perhaps to optimize the right amount of root colonization by the beneﬁcial microorganisms.
+Ethylene as a gaseous hormone can also play a role in inter-plant communication, by warn-
+ing adjacent plants about the coming danger in a plant community. The amount of ethylene
+present in plants affects the responses of their bacterial associates. Depending on the mi-
+crobial strain, ethylene appears to be both a positive and negative regulator of mutualistic
+plant–microbial interactions. To understand the positive and negative role of ethylene on
+microbial colonization, further questions must be answered, such as whether ethylene
+impairs symbioses by affecting immunity, or whether cross-talk with other hormones
+are required. For example, ABA is necessary for arbuscule formation as ABA deﬁciency
+results in a low abundance of arbuscules due to enhanced ethylene content. In addition,
+understanding the role of ethylene in plant–microbe interactions probably requires broader
+experimental approaches using different ethylene concentrations, as well as investigating
+the interactions with other hormones in a crosstalk network. Plants can rapidly produce
+a large amount of ethylene as part of their physiological response to abiotic stresses. The
+increase in ethylene concentration prepares the plants to survive through environmental
+stresses, but can also negatively affect plant growth and lead to a decline in plant produc-
+tivity, as higher concentrations of ethylene in plants may lead to plant senescence, chlorosis,
+and abscission. Thus, a broad screening of the ethylene concentration-dependent plant
+growth is needed to show to what extent plants respond to different ethylene concentra-
+tions. Such comprehensive information can help to answer several questions such as how
+various ethylene concentrations affect plant growth and how environmental, as well as
+internal signals, play a role in modifying ethylene responses in plants. In addition, it is
+important to compare gene expression patterns of plants treated with different concentra-
+
+Cells 2023, 12, 31
+
+10 of 15
+
+tions of ethylene. Such data could help to understand the transcriptome responses that
+are speciﬁc to the positive and negative effects of ethylene on plant growth. Moreover, the
+understanding of the cell-types that are the main site for ethylene action in various abiotic
+stresses will contribute signiﬁcantly to our knowledge of plant growth under normal and
+stress conditions. A complete understanding of ethylene-targeted transcription factors is
+critical for beneﬁcial microbe-mediated plant growth promotion. So far, studies suggest
+that ethylene might have different effects on different stages of plant–microbe interaction
+to balance beneﬁcial and non-beneﬁcial characteristics of symbiosis. This is highly possible
+considering the huge amount of ethylene targets and ethylene-targeted transcription factors.
+There are over 100 ERFs that may affect positive and negative responses ranging from
+development and metabolic processes to defense gene activation. Therefore, ethylene is
+undoubtedly one of several important factors that play a role in mutualistic beneﬁcial and
+negative non-beneﬁcial interactions of plants and microbes.
+
+Author Contributions: K.S. and H.H. conceptualized the manuscript. K.S. wrote the manuscript with
+help of K.F., H.H., M.A.T. and G.X.G.-R. helped in editing the manuscript. G.X.G.-R. also prepared
+the ﬁgures. All authors have read and agreed to the published version of the manuscript.
+
+Funding: This research was funded by King Abdullah University of Science and Technology (KAUST),
+base fund for H.H. (BAS/1/1062-01-01).
+
+Institutional Review Board Statement: Not applicable.
+
+Informed Consent Statement: Not applicable.
+
+Data Availability Statement: Not applicable.
+
+Acknowledgments: We would like to thank all members of the Hirt Lab, especially Naganand
+Rayapuram for his scientiﬁc input in this review. We thank King Abdullah University of Science and
+Technology (KAUST) for funding this article.
+
+Conﬂicts of Interest: The authors declare no conﬂict of interest.
+
+References
+
+1.
+
+Rodriguez, P.A.; Rothballer, M.; Chowdhury, S.P.; Nussbaumer, T.; Gutjahr, C.; Falter-Braun, P. Systems Biology of Plant-
+Microbiome Interactions. Mol. Plant 2019, 12, 804–821. [CrossRef] [PubMed]
+
+4.
+
+3.
+
+5.
+6.
+
+2. Malgioglio, G.; Rizzo, G.F.; Nigro, S.; du Prey, V.L.; Herforth-Rahmé, J.; Catara, V.; Branca, F. Plant-Microbe Interaction in
+Sustainable Agriculture: The Factors That May Inﬂuence the Efﬁcacy of PGPM Application. Sustainability 2022, 14, 2253.
+[CrossRef]
+Pierik, R.; Tholen, D.; Poorter, H.; Visser, E.J.; Voesenek, L.A. The Janus face of ethylene: Growth inhibition and stimulation.
+Trends Plant Sci. 2006, 11, 176–183. [CrossRef] [PubMed]
+Ravanbakhsh, M.; Sasidharan, R.; Voesenek, L.A.C.J.; Kowalchuk, G.A.; Jousset, A. Microbial modulation of plant ethylene
+signaling: Ecological and evolutionary consequences. Microbiome 2018, 6, 52. [CrossRef] [PubMed]
+Schaller, G.E. Ethylene and the regulation of plant development. BMC Biol. 2012, 10, 9. [CrossRef]
+Liu, H.; Khan, M.Y.; Carvalhais, L.C.; Delgado-Baquerizo, M.; Yan, L.; Crawford, M.; Dennis, P.G.; Singh, B.; Schenk, P.M. Soil
+amendments with ethylene precursor alleviate negative impacts of salinity on soil microbial properties and productivity. Sci. Rep.
+2019, 9, 6892. [CrossRef]
+Arraes, F.B.M.; Beneventi, M.A.; De Sa, M.E.L.; Paixao, J.F.R.; Albuquerque, E.V.S.; Marin, S.R.R.; Purgatto, E.; Nepomuceno, A.L.;
+Grossi-De-Sa, M.F. Implications of ethylene biosynthesis and signaling in soybean drought stress tolerance. BMC Plant Biol. 2015,
+15, 213. [CrossRef]
+Sun, X.; Zhao, T.; Gan, S.; Ren, X.; Fang, L.; Karungo, S.K.; Wang, Y.; Chen, L.; Li, S.; Xin, H. Ethylene positively regulates cold
+tolerance in grapevine by modulating the expression of ETHYLENE RESPONSE FACTOR 057. Sci. Rep. 2016, 6, 24066. [CrossRef]
+Abeles, F.B.; Morgan, P.W.; Saltveit, M.E., Jr. Ethylene in Plant Biology, 2nd ed.; Academic Press: San Diego, CA, USA, 1992.
+9.
+10. He, M.-W.; Wang, Y.; Wu, J.-Q.; Shu, S.; Sun, J.; Guo, S.-R. Isolation and characterization of S-Adenosylmethionine synthase gene
+
+7.
+
+8.
+
+from cucumber and responsive to abiotic stress. Plant Physiol. Biochem. 2019, 141, 431–445. [CrossRef]
+
+11. Pattyn, J.; Vaughan-Hirsch, J.; Van De Poel, B. The regulation of ethylene biosynthesis: A complex multilevel control circuitry.
+
+New Phytol. 2021, 229, 770–782. [CrossRef]
+
+12. Chen, Y.-F.; Gao, Z.; Kerris, R.J.; Wang, W.; Binder, B.M.; Schaller, G.E. Ethylene Receptors Function as Components of High-
+
+13.
+
+Molecular-Mass Protein Complexes in Arabidopsis. PLoS ONE 2010, 5, e8640. [CrossRef] [PubMed]
+Shakeel, S.N.; Gao, Z.; Amir, M.; Chen, Y.-F.; Rai, M.I.; Haq, N.U.; Schaller, G.E. Ethylene Regulates Levels of Ethylene
+Receptor/CTR1 Signaling Complexes in Arabidopsis thaliana. J. Biol. Chem. 2015, 290, 12415–12424. [CrossRef] [PubMed]
+
+Cells 2023, 12, 31
+
+11 of 15
+
+14. Zhao, H.; Yin, C.; Ma, B.; Chen, S.; Zhang, J. Ethylene signaling in rice and Arabidopsis: New regulators and mechanisms. J. Integr.
+
+Plant Biol. 2021, 63, 102–125. [CrossRef] [PubMed]
+
+15. Nascimento, F.X.; Rossi, M.J.; Glick, B.R.; Nascimento, F.X.; Rossi, M.J.; Glick, B.R. Ethylene and 1-Aminocyclopropane-1-
+
+carboxylate (ACC) in Plant–Bacterial Interactions. Front. Plant Sci. 2018, 9, 114. [CrossRef] [PubMed]
+
+16. Huang, H.; Ullah, F.; Zhou, D.-X.; Yi, M.; Zhao, Y. Mechanisms of ROS Regulation of Plant Development and Stress Responses.
+
+Front. Plant Sci. 2019, 10, 800. [CrossRef] [PubMed]
+
+17. Ruzicka, K.; Ljung, K.; Vanneste, S.; Podhorská, R.; Beeckman, T.; Friml, J.; Benková, E. Ethylene Regulates Root Growth through
+
+Effects on Auxin Biosynthesis and Transport-Dependent Auxin Distribution. Plant Cell 2007, 19, 2197–2212. [CrossRef]
+
+18. Vaseva, I.I.; Qudeimat, E.; Potuschak, T.; Du, Y.; Genschik, P.; Vandenbussche, F.; Van Der Straeten, D. The plant hormone ethylene
+
+19.
+
+restricts Arabidopsis growth via the epidermis. Proc. Natl. Acad. Sci. USA 2018, 115, E4130–E4139. [CrossRef]
+Street, I.H.; Aman, S.; Zubo, Y.; Ramzan, A.; Wang, X.; Shakeel, S.N.; Kieber, J.J.; Schaller, G.E. Ethylene Inhibits Cell Proliferation
+of the Arabidopsis Root Meristem. Plant Physiol. 2015, 169, 338–350. [CrossRef]
+
+20. Berkowitz, O.; Xu, Y.; Liew, L.C.; Wang, Y.; Zhu, Y.; Hurgobin, B.; Lewsey, M.G.; Whelan, J. RNA-seq analysis of laser
+microdissected Arabidopsis thaliana leaf epidermis, mesophyll and vasculature deﬁnes tissue-speciﬁc transcriptional responses to
+multiple stress treatments. Plant J. 2021, 107, 938–955. [CrossRef]
+
+21. Eichmann, R.; Richards, L.; Schäfer, P. Hormones as go-betweens in plant microbiome assembly. Plant J. 2021, 105, 518–541.
+
+[CrossRef]
+
+22. Glick, B.R. Bacteria with ACC deaminase can promote plant growth and help to feed the world. Microbiol. Res. 2014, 169, 30–39.
+
+[CrossRef] [PubMed]
+
+23. Gupta, S.; Pandey, S. ACC Deaminase Producing Bacteria with Multifarious Plant Growth Promoting Traits Alleviates Salinity
+
+Stress in French Bean (Phaseolus vulgaris) Plants. Front. Microbiol. 2019, 10, 1506. [CrossRef] [PubMed]
+
+24. Camehl, I.; Sherameti, I.; Venus, Y.; Bethke, G.; Varma, A.; Lee, J.; Oelmüller, R. Ethylene signalling and ethylene-targeted
+transcription factors are required to balance beneﬁcial and nonbeneﬁcial traits in the symbiosis between the endophytic fungus
+Piriformospora indica and Arabidopsis thaliana. New Phytol. 2010, 185, 1062–1073. [CrossRef] [PubMed]
+
+25. Khatabi, B.; Schäfer, P. Ethylene in mutualistic symbioses. Plant Signal. Behav. 2012, 7, 1634–1638. [CrossRef] [PubMed]
+26. Qi, F.; Zhang, F. Cell Cycle Regulation in the Plant Response to Stress. Front. Plant Sci. 2020, 10, 1765. [CrossRef] [PubMed]
+27. dos Santos, T.B.; Ribas, A.F.; de Souza, S.G.H.; Budzinski, I.G.F.; Domingues, D.S. Physiological Responses to Drought, Salinity,
+
+and Heat Stress in Plants: A Review. Stresses 2022, 2, 113–135. [CrossRef]
+
+28. Ullah, A.; Bano, A.; Khan, N. Climate Change and Salinity Effects on Crops and Chemical Communication Between Plants and
+
+Plant Growth-Promoting Microorganisms Under Stress. Front. Sustain. Food Syst. 2021, 5, 161. [CrossRef]
+
+29. EL Sabagh, A.; Islam, M.S.; Skalicky, M.; Raza, M.A.; Singh, K.; Hossain, M.A.; Hossain, A.; Mahboob, W.; Iqbal, M.A.; Ratnasekera,
+D.; et al. Salinity Stress in Wheat (Triticum aestivum L.) in the Changing Climate: Adaptation and Management Strategies. Front.
+Agron. 2021, 3, 648694. [CrossRef]
+
+30. Dou, L.; He, K.; Higaki, T.; Wang, X.; Mao, T. Ethylene signaling modulates cortical microtubule reassembly in response to salinity
+
+stress. Plant Physiol. 2018, 176, 2071–2081. [CrossRef]
+
+31. Cheng, Z.; Zhang, X.; Zhao, K.; Yao, W.; Li, R.; Zhou, B.; Jiang, T. Over-Expression of ERF38 Gene Enhances Salt and Osmotic
+
+Tolerance in Transgenic Poplar. Front. Plant Sci. 2019, 10, 1375. [CrossRef]
+
+32. Riyazuddin, R.; Verma, R.; Singh, K.; Nisha, N.; Keisham, M.; Bhati, K.; Kim, S.; Gupta, R. Ethylene: A Master Regulator of
+
+33.
+
+Salinity Stress Tolerance in Plants. Biomolecules 2020, 10, 959. [CrossRef] [PubMed]
+Freitas, V.S.; Miranda, R.D.S.; Costa, J.H.; de Oliveira, D.F.; Paula, S.D.O.; Miguel, E.D.C.; Freire, R.S.; Prisco, J.T.; Gomes-Filho,
+E. Ethylene triggers salt tolerance in maize genotypes by modulating polyamine catabolism enzymes associated with H2O2
+production. Environ. Exp. Bot. 2018, 145, 75–86. [CrossRef]
+
+34. Xu, L.; Xiang, G.; Sun, Q.; Ni, Y.; Jin, Z.; Gao, S.; Yao, Y. Melatonin enhances salt tolerance by promoting MYB108A-mediated
+
+ethylene biosynthesis in grapevines. Hortic. Res. 2019, 6, 114. [CrossRef] [PubMed]
+
+35. Takács, Z.; Czékus, Z.; Tari, I.; Poór, P. The role of ethylene signalling in the regulation of salt stress response in mature tomato
+
+fruits: Metabolism of antioxidants and polyamines. J. Plant Physiol. 2022, 277, 153793. [CrossRef] [PubMed]
+
+36. Yang, L.; Zu, Y.-G.; Tang, Z.-H. Ethylene improves Arabidopsis salt tolerance mainly via retaining K+ in shoots and roots rather
+
+than decreasing tissue Na+ content. Environ. Exp. Bot. 2013, 86, 60–69. [CrossRef]
+
+37. Assaha, D.V.M.; Ueda, A.; Saneoka, H.; Al-Yahyai, R.; Yaish, M.W. The role of Na+ and K+ transporters in salt stress adaptation in
+
+glycophytes. Front. Physiol. 2017, 8, 509. [CrossRef]
+
+39.
+
+38. Lang, T.; Deng, C.; Yao, J.; Zhang, H.; Wang, Y.; Deng, S. A Salt-Signaling Network Involving Ethylene, Extracellular ATP,
+Hydrogen Peroxide, and Calcium Mediates K+/Na+ Homeostasis in Arabidopsis. Int. J. Mol. Sci. 2020, 21, 8683. [CrossRef]
+[PubMed]
+Sehar, Z.; Iqbal, N.; Khan, M.I.R.; Masood, A.; Rehman, T.; Hussain, A.; AlAjmi, M.F.; Ahmad, A.; Khan, N.A. Ethylene reduces
+glucose sensitivity and reverses photosynthetic repression through optimization of glutathione production in salt-stressed wheat
+(Triticum aestivum L.). Sci. Rep. 2021, 11, 12650. [CrossRef]
+Iqbal, N.; Nazar, R.; Khan, M.I.R.; Khan, N.A. Variation in photosynthesis and growth of mustard cultivars: Role of ethylene
+sensitivity. Sci. Hortic. 2012, 135, 1–6. [CrossRef]
+
+40.
+
+Cells 2023, 12, 31
+
+12 of 15
+
+41. Khan, N.A. An evaluation of the effects of exogenous ethephon, an ethylene releasing compound, on photosynthesis of mustard
+
+42.
+
+(Brassica juncea) cultivars that difer in photosynthetic capacity. BMC Plant Biol. 2004, 4, 21. [CrossRef]
+Iqbal, N.; Nazar, R.; Syeed, S.; Masood, A.; Khan, N.A. Exogenously-sourced ethylene increases stomatal conductance, photosyn-
+thesis, and growth under optimal and deﬁcient nitrogen fertilization in mustard. J. Exp. Bot. 2011, 62, 4955–4963. [CrossRef]
+[PubMed]
+
+43. Loreti, E.; Perata, P. The Many Facets of Hypoxia in Plants. Plants 2020, 9, 745. [CrossRef] [PubMed]
+44. León, J.; Castillo, M.C.; Gayubas, B. The hypoxia–reoxygenation stress in plants. J. Exp. Bot. 2020, 72, 5841–5856. [CrossRef]
+45. Hartman, S.; Sasidharan, R.; Voesenek, L.A.C.J. The role of ethylene in metabolic acclimations to low oxygen. New Phytol. 2019,
+
+229, 64–70. [CrossRef] [PubMed]
+
+46. Gibbs, D.J.; Lee, S.C.; Isa, N.M.; Gramuglia, S.; Fukao, T.; Bassel, G.W.; Correia, C.S.; Corbineau, F.; Theodoulou, F.L.; Bai-ley-Serres,
+J.; et al. Homeostatic response to hypoxia is regulated by the N-end rule pathway in plants. Nature 2021, 479, 415–418. [CrossRef]
+[PubMed]
+
+47. Licausi, F.; van Dongen, J.T.; Giuntoli, B.; Novi, G.; Santaniello, A.; Geigenberger, P.; Perata, P. HRE1 and HRE2, two hypoxia-
+inducible ethylene response factors, affect anaerobic responses in Arabidopsis thaliana. Plant J. 2010, 62, 302–315. [CrossRef]
+48. Weits, D.A.; Giuntoli, B.; Kosmacz, M.; Parlanti, S.; Hubberten, H.M.; Riegler, H.; Hoefgen, R.; Perata, P.; van Dongen, J.T.;
+Licausi, F. Plant cysteine oxidases control the oxygen-dependent branch of the N-end-rule pathway. Nat. Commun. 2014, 5, 3425.
+[CrossRef]
+
+49. Gibbs, D.J.; Md Isa, N.; Movahedi, M.; Lozano-Juste, J.; Mendiondo, G.M.; Berckhan, S.; Marín-de la Rosa, N.; Vicente Conde,
+J.; Sousa Correia, C.; Pearce, S.P.; et al. Nitric oxide sensing in plants is mediated by pro-teolytic control of group VII ERF
+transcription factors. Mol. Cell. 2014, 53, 369–379. [CrossRef]
+
+50. Gibbs, D.J.; Tedds, H.M.; Labandera, A.M.; Bailey, M.; White, M.D.; Hartman, S.; Sprigg, C.; Mogg, S.L.; Osborne, R.; Dambire, C.;
+et al. Oxygen-dependent proteolysis regulates the stability of angiosperm polycomb repressive complex 2 subunit VERNALIZA-
+TION 2. Nat. Commun. 2018, 9, 5438. [CrossRef]
+
+51. Weits, D.A.; Kunkowska, A.B.; Kamps, N.C.W.; Portz, K.M.S.; Packbier, N.K.; Nemec Venza, Z.; Gaillochet, C.; Lohmann, J.U.;
+Pedersen, O.; van Dongen, J.T.; et al. An apical hypoxic niche sets the pace of shoot meristem activity. Nature 2019, 569, 714–717.
+[CrossRef]
+
+52. Morrell, S.; Greenway, H. Evidence does not support ethylene as a cue for synthesis of alcohol dehydrogenase and pyruvate
+
+decarboxylase during exposure to hypoxia. Funct. Plant Biol. 1989, 16, 469–475. [CrossRef]
+
+53. Peng, H.P. Signaling events in the hypoxic induction of alcohol dehydrogenase gene in Arabidopsis. Plant Physiol. 2001, 126,
+
+742–749. [CrossRef]
+
+54. van Veen, H.; Mustroph, A.; Barding, G.A.; Eijk, M.V.; Welschen-Evertman, R.A.M.; Pedersen, O.; Visser, E.J.W.; Larive, C.K.;
+Pierik, R.; Bailey-Serres, J.; et al. Two Rumex species from contrasting hydrological niches regulate ﬂooding tolerance through
+distinct mechanisms. Plant Cell. 2013, 25, 4691–4707. [CrossRef] [PubMed]
+
+55. Kotak, S.; Larkindale, J.; Lee, U.; von Koskull-Döring, P.; Vierling, E.; Scharf, K.D. Complexity of the heat stress response in plants.
+
+Curr. Opin. Plant Biol. 2007, 10, 310–316.
+
+56. Lamke, J.; Brzezinka, K.; Altmann, S.; Bäurle, I. A hit-and-run heat shock factor governs sustained histone methylation and
+
+57.
+
+58.
+
+59.
+
+transcriptional stress memory. EMBO J. 2016, 35, 162–175. [CrossRef] [PubMed]
+Shekhawat, K.; Almeida-Trapp, M.; García-Ramírez, G.X.; Hirt, H. Beat the heat: Plant- and microbe-mediated strategies for crop
+thermotolerance. Trends Plant Sci. 2022, 27, 802–813. [CrossRef] [PubMed]
+Jegadeesan, S.; Chaturvedi, P.; Ghatak, A.; Pressman, E.; Meir, S.; Faigenboim, A.; Rutley, N.; Beery, A.; Harel, A.; Weckwerth, W.;
+et al. Proteomics of Heat-Stress and Ethylene-Mediated Thermotolerance Mechanisms in Tomato Pollen Grains. Front. Plant Sci.
+2018, 9, 1558. [CrossRef]
+Sehar, Z.; Gautam, H.; Iqbal, N.; Alvi, A.F.; Jahan, B.; Fatma, M.; Albaqami, M.; Khan, N.A. The Functional Interplay between
+Ethylene, Hydrogen Sulﬁde, and Sulfur in Plant Heat Stress Tolerance. Biomolecules 2022, 12, 678. [CrossRef]
+
+60. Wu, Y.-S.; Yang, C.-Y. Ethylene-mediated signaling confers thermotolerance and regulates transcript levels of heat shock factors in
+
+rice seedlings under heat stress. Bot. Stud. 2019, 60, 23. [CrossRef]
+
+61. Huang, J.; Zhao, X.; Bürger, M.; Wang, Y.; Chory, J. Two interacting ethylene response factors regulate heat stress response. Plant
+
+62.
+
+Cell. 2021, 33, 338–357. [CrossRef]
+Shekhawat, K.; Saad, M.M.; Sheikh, A.; Mariappan, K.; Al-Mahmoudi, H.; Abdulhakim, F.; Eida, A.A.; Masmoudi, K.J.; Hirt, H.
+Root endophyte induced plant thermotolerance by constitutive chromatin modiﬁcation at heat stress memory gene loci. EMBO
+Rep. 2021, 22, e51049. [CrossRef] [PubMed]
+
+63. Teixeira, P.J.P.; Colaianni, N.R.; Fitzpatrick, C.R.; Dangl, J.L. Beyond pathogens: Microbiota interactions with the plant immune
+
+system. Curr. Opin. Microbiol. 2019, 49, 7–17. [CrossRef] [PubMed]
+
+64. Broekaert, W.F.; Delauré, S.L.; De Bolle, M.F.; Cammue, B.P. The Role of Ethylene in Host-Pathogen Interactions. Annu. Rev.
+
+65.
+
+Phytopathol. 2006, 44, 393–416. [CrossRef] [PubMed]
+Iqbal, N.; Khan, N.A.; Ferrante, A.; Trivellini, A.; Francini, A.; Khan, M.I.R. Ethylene Role in Plant Growth, Development and
+Senescence: Interaction with Other Phytohormones. Front. Plant Sci. 2017, 08, 475. [CrossRef] [PubMed]
+
+66. Pré, M.; Atallah, M.; Champion, A.; De Vos, M.; Pieterse, C.M.J.; Memelink, J. The AP2/ERF Domain Transcription Factor ORA59
+Integrates Jasmonic Acid and Ethylene Signals in Plant Defense. Plant Physiol. 2008, 147, 1347–1357. [CrossRef] [PubMed]
+
+Cells 2023, 12, 31
+
+13 of 15
+
+67.
+
+Solano, R.; Stepanova, A.; Chao, Q.; Ecker, J.R. Nuclear events in ethylene signaling: A transcriptional cascade mediated by
+ETHYLENE-INSENSITIVE3 and ETHYLENE-RESPONSE-FACTOR1. Genes Dev. 1998, 12, 3703–3714. [CrossRef] [PubMed]
+68. Boutrot, F.; Segonzac, C.; Chang, K.N.; Qiao, H.; Ecker, J.R.; Zipfel, C.; Rathjen, J.P. Direct transcriptional control of the Arabidopsis
+immune receptor FLS2 by the ethylene-dependent transcription factors EIN3 and EIL1. Proc. Natl. Acad. Sci. USA 2010, 107,
+14502–14507. [CrossRef] [PubMed]
+
+69. Berrocal-Lobo, M.; Molina, A.; Solano, R. Constitutive expression of ETHYLENERESPONSE-FACTOR1 in Arabidopsis confers
+
+70.
+
+resistance to several necrotrophic fungi. Plant J. 2002, 29, 23–32. [CrossRef]
+Spoel, S.H.; Johnson, J.S.; Dong, X. Regulation of tradeoffs between plant defenses against pathogens with different life-styles.
+Proc Natl Acad Sci USA. 2007, 104, 18842–18847. [CrossRef]
+
+71. Verhage, A.; Vlaardingerbroek, I.; Raaijmakers, C.; Van Dam, N.; Dicke, M.; Van Wees, S.C.M.; Pieterse, C.M. Rewiring of the
+
+jasmonate signaling pathway in Arabidopsis during insect herbivory. Front. Plant Sci. 2011, 2, 47. [CrossRef]
+
+72. Vleesschauwer, D.E.; Exu, J.; Hã¶fte, M. Making sense of hormone-mediated defense networking: From rice to Arabidopsis.
+
+Front. Plant Sci. 2014, 5, 611. [CrossRef] [PubMed]
+
+73. Huckelhoven, R.; Fodor, J.; Preis, C.; Kogel, K.H. Hypersensitive cell death and papilla formation in barley attacked by the
+powdery mildew fungus are associated with hydrogen peroxide but not with salicylic acid accumulation. Plant Physiol. 1999, 119,
+1251–1260. [CrossRef] [PubMed]
+
+74. Glazebrook, J. Contrasting Mechanisms of Defense Against Biotrophic and Necrotrophic Pathogens. Annu. Rev. Phytopathol. 2005,
+
+43, 205–227. [CrossRef] [PubMed]
+
+75. Leon-Reyes, A.; Spoel, S.H.; De Lange, E.S.; Abe, H.; Kobayashi, M.; Tsuda, S.; Millenaar, F.F.; Welschen, R.A.M.; Ritsema, T.;
+Pieterse, C.M.J. Ethylene modulates the role of NONEXPRESSOR OF PATHOGENESIS-RELATED GENES1 in cross talk between
+salicylate and jasmonate signaling. Plant Physiol. 2009, 149, 1797–1809. [CrossRef] [PubMed]
+
+76. Leon-Reyes, A.; Du, Y.; Koornneef, A.; Proietti, S.; Körbes, A.P.; Memelink, J.; Pieterse, C.M.J.; Ritsema, T. Ethylene signaling
+renders the jasmonate response of Arabidopsis insensitive to future suppression by salicylic Acid. Mol. Plant Mi-crobe Interact.
+2010, 23, 187–197. [CrossRef] [PubMed]
+
+77. Zander, M.; La Camera, S.; Lamotte, O.; Métraux, J.P.; Gatz, C. Arabidopsis thaliana class-II TGA transcription factors are essential
+
+activators of jasmonic acid/ethylene-induced defense responses. Plant J. 2010, 61, 200–210. [CrossRef]
+
+78. Lorenzo, O.; Piqueras, R.; Sánchez-Serrano, J.J.; Solano, R. ETHYLENE RESPONSE FACTOR1 integrates signals from ethylene
+
+and jasmonate pathways in plant defense. Plant Cell. 2003, 15, 165–178. [CrossRef]
+
+79. Kolomiets, M.V.; Chen, H.; Gladon, R.J.; Braun, E.; Hannapel, D.J. A Leaf Lipoxygenase of Potato Induced Speciﬁcally by Pathogen
+
+Infection. Plant Physiol. 2000, 124, 1121–1130. [CrossRef]
+
+80. Kondo, S.; Yamada, H.; Setha, S. Effect of jasmonates differed at fruit ripening stages on 1-aminocyclopropane-1-carboxylate
+
+(ACC) synthase and ACC oxidase gene expression in pears. J. Am. Soc. Hort. Sci. 2007, 132, 120–125. [CrossRef]
+
+81. Epple, P.; Bohlmann, K.P.H. An Arabidopsis thaliana thionin gene is inducible via a signal transduction pathway different from that
+
+for pathogenesis-related proteins. Plant Physiol. 1995, 109, 813–820. [CrossRef]
+
+82. Norman-Setterbald, C.; Vidal, S.; Palva, E.T. Interaction signal pathways control defense gene expression in Arabidopsis in
+response to cell wall-degrading enzymes from Erwinia carotovora. Mol. Plant Microbe Interact. 2000, 13, 430–438. [CrossRef]
+[PubMed]
+
+83. Doares, S.H.; Narváez-Vásquex, J.; Conconi, A.; Ryan, C.A. Salicylic acid inhibits synthesis of proteinase inhibitors in to-mato
+
+84.
+
+leaves induced by systemin and jasmonic acid. Plant Physiol. 1995, 108, 1741–1746. [CrossRef] [PubMed]
+Schweizer, P.; Buchala, A.; Métraux, J.P. Gene-expression patterns and levels of jasmonic acid in rice treated with the re-sistance
+inducer 2,6-dichloroisonicotinic acid. Plant Physiol. 1997, 115, 61–70. [CrossRef] [PubMed]
+
+85. Huang, P.; Dong, Z.; Guo, P.; Zhang, X.; Qiu, Y.; Li, B.; Wang, Y.; Guo, H. Salicylic Acid Suppresses Apical Hook Formation via
+
+NPR1-Mediated Repression of EIN3 and EIL1 in Arabidopsis. Plant Cell 2019, 32, 612–629. [CrossRef] [PubMed]
+
+86. Chen, H.; Xue, L.; Chintamanani, S.; Germain, H.; Lin, H.; Cui, H.; Cai, R.; Zuo, J.; Tang, X.; Li, X.; et al. ETHYLENE INSENSITIVE3
+and ETHYLENE INSENSITIVE3-LIKE1 repress SALICYLIC ACID INDUCTION DEFI-CIENT2 expression to negatively regulate
+plant innate immunity in Arabidopsis. Plant Cell. 2009, 21, 2527–2540. [CrossRef] [PubMed]
+
+87. Kumar, A.; Singh, S.; Gaurav, A.K.; Srivastava, S.; Verma, J.P. Plant Growth-Promoting Bacteria: Biological Tools for the Mitigation
+
+of Salinity Stress in Plants. Front. Microbiol. 2020, 11, 1216. [CrossRef] [PubMed]
+
+88. Glick, B.R. Stress control and ACC deaminase. In Principles of Plant-Microbe Interactions; Springer: Cham, Switzerland, 2015; pp.
+
+257–264.
+
+89. Kumar, M.; Giri, V.P.; Pandey, S.; Gupta, A.; Patel, M.K.; Bajpai, A.B.; Jenkins, S.; Siddique, K.H.M. Plant-Growth-Promoting
+Rhizobacteria emerging as an effective bioinoculant to improve the growth, production, and stress tolerance of vegetable crops.
+Int. J. Mol. Sci. 2021, 22, 12245. [CrossRef] [PubMed]
+
+90. Gupta, A.; Mishra, R.; Rai, S.; Bano, A.; Pathak, N.; Fujita, M.; Kumar, M.; Hasanuzzaman, M. Mechanistic Insights of Plant
+Growth Promoting Bacteria Mediated Drought and Salt Stress Tolerance in Plants for Sustainable Agriculture. Int. J. Mol. Sci.
+2022, 23, 3741. [CrossRef]
+Soni, R.; Yadav, S.K.; Rajput, A.S. ACC-Deaminase Producing Rhizobacteria: Prospects and Application as Stress Busters for
+Stressed Agriculture. In Microorganisms for Sustainability Book Series; MICRO: Singapore, 2018; Volume 7. [CrossRef]
+
+91.
+
+Cells 2023, 12, 31
+
+14 of 15
+
+92. Chandra, D.; Srivastava, R.; Gupta, V.V.S.R.; Franco, C.M.M.; Sharma, A.K. Evaluation of ACC-deaminase-producing rhizobacteria
+
+to alleviate water-stress impacts in wheat (Triticum aestivum L.) plants. Can. J. Microbiol. 2019, 65, 387–403. [CrossRef]
+
+93. Danish, S.; Zafar-Ul-Hye, M.; Mohsin, F.; Hussain, M. ACC-deaminase producing plant growth promoting rhizobacteria and
+
+biochar mitigate adverse effects of drought stress on maize growth. PLoS ONE 2020, 15, e0230615. [CrossRef]
+
+94. Nadeem, S.M.; Zahir, Z.A.; Naveed, M. Rhizobacteria containing ACC-deaminase confer salt tolerance in maize grown on
+
+salt-affected ﬁelds. Can. J. Microbiol. 2009, 55, 1302–1309. [CrossRef] [PubMed]
+
+95. Akram, W.; Aslam, H.; Ahmad, S.R.; Anjum, T.; Yasin, N.A.; Khan, W.U.; Ahmad, A.; Guo, J.; Wu, T.; Luo, W.; et al. Bacillus
+megaterium strain A12 ameliorates salinity stress in tomato plants through multiple mechanisms. J. Plant Interact. 2019, 14, 506–518.
+[CrossRef]
+
+96. Ahmad, H.M.; Fiaz, S.; Hafeez, S.; Zahra, S.; Shah, A.N.; Gul, B.; Aziz, O.; Rahman, M.U.; Fakhar, A.; Raﬁque, M.; et al. Plant
+Growth-Promoting Rhizobacteria Eliminate the Effect of Drought Stress in Plants: A Review. Front. Plant Sci. 2022, 13, 1965.
+[CrossRef] [PubMed]
+
+97. Ali, S.; Charles, T.; Glick, B.R. Amelioration of high salinity stress damage by plant growth-promoting bacterial endophytes that
+
+contain ACC deaminase. Plant Physiol. Biochem. 2014, 80, 160–167. [CrossRef] [PubMed]
+
+98. Han, Y.; Wang, R.; Yang, Z.; Zhan, Y.; Ma, Y.; Ping, S.; Zhang, L.; Lin, M.; Yan, Y. 1-Aminocyclopropane-1-Carboxylate Deaminase
+from Pseudomonas stutzeri A1501 Facilitates the Growth of Rice in the Presence of Salt or Heavy Metals. J. Microbiol. Biotechnol.
+2015, 25, 1119–1128. [CrossRef]
+Shaharoona, B.; Arshad, M.; Zahir, Z.A. Effect of plant growth promoting rhizobacteria containing ACC-deaminase on maize
+(Zea mays L.) growth under axenic conditions and on nodulation in mung bean (Vigna radiata L.). Lett. Appl Mi-crobiol. 2006, 42,
+155–159. [CrossRef] [PubMed]
+
+99.
+
+100. Peskan-Berghofer, T.; Shahollari, B.; Giong, P.H.; Hehl, S.; Markert, C.; Blanke, V.; Kost, G.; Varma, A.; Oelmuller, R. Association of
+Piriformospora indica with Arabidopsis thaliana roots represents a novel system to study beneﬁcial plant-microbe interactions and
+involves early plant protein modiﬁcations in the endoplasmic reticulum and at the plasma membrane. Physiol. Plant. 2004, 122,
+465–477. [CrossRef]
+
+101. Oldroyd, G.E.D.; Engstrom, E.M.; Long, S.R. Ethylene Inhibits the Nod Factor Signal Transduction Pathway of Medicago truncatula.
+
+Plant Cell 2001, 13, 1835–1849. [CrossRef] [PubMed]
+
+102. Geil, R.D.; Peterson, L.R.; Guinel, F.C. Morphological alterations of pea (Pisum sativum cv. Sparkle) arbuscular mycorrhizas as a
+
+result of exogenous ethylene treatment. Mycorrhiza 2001, 11, 137–143. [CrossRef]
+
+103. Enonaka, S.; Eezura, H. Plant–Agrobacterium interaction mediated by ethylene and super-Agrobacterium conferring efﬁcient
+
+gene transfer. Front. Plant Sci. 2014, 5, 681. [CrossRef]
+
+104. Kato, J.; Kim, H.-E.; Takiguchi, N.; Kuroda, A.; Ohtake, H. Pseudomonas aeruginosa as a model microorganism for investigation
+
+of chemotactic behaviors in ecosystem. J. Biosci. Bioeng. 2008, 106, 1–7. [CrossRef] [PubMed]
+
+105. Martín-Rodríguez, J.; León-Morcillo, R.; Vierheilig, H.; Ocampo, J.A.; Ludwig-Müller, J.; García-Garrido, J.M. Ethylene-
+dependent/ethylene-independent ABA regulation of tomato plants colonized by arbuscular mycorrhiza fungi. New Phytol. 2011,
+190, 193–205. [CrossRef] [PubMed]
+
+106. Plett, J.M.; Khachane, A.; Ouassou, M.; Sundberg, B.; Kohler, A.; Martin, F. Ethylene and jasmonic acid act as negative modulators
+
+during mutualistic symbiosis between Laccaria bicolor and Populus roots. New Phytol. 2014, 202, 270–286. [CrossRef] [PubMed]
+
+107. de Zélicourt, A.; Synek, L.; Saad, M.M.; Alzubaidy, H.; Jalal, R.; Xie, Y.; Andrés-Barrao, C.; Rolli, E.; Guerard, F.; Mariappan,
+K.G.; et al. Ethylene induced plant stress tolerance by Enterobacter sp. SA187 is mediated by 2-keto-4-methylthiobutyric acid
+production. PLoS Genet. 2018, 14, e1007273. [CrossRef] [PubMed]
+
+108. Andrés-Barrao, C.; Alzubaidy, H.; Jalal, R.; Mariappan, K.G.; de Zélicourt, A.; Bokhari, A.; Artyukh, O.; Alwutayd, K.; Rawat,
+A.; Shekhawat, K.; et al. Coordinated bacterial and plant sulfur metabolism in Enterobacter sp. SA187–induced plant salt stress
+tolerance. Proc. Natl. Acad. Sci. USA 2021, 118. [CrossRef] [PubMed]
+
+109. Datta, R.; Kumar, D.; Sultana, A.; Hazra, S.; Bhattacharyya, D.; Chattopadhyay, S. Glutathione regulates ACC synthase transcrip-
+tion via WRKY33 and ACC oxidase by modulating mRNA stability to induce ethylene synthesis during stress. Plant Physiol. 2015,
+169, 2963–2981. [CrossRef]
+
+110. Poupin, M.J.; Timmermann, T.; Vega, A.; Zuñiga, A.; González, B. Effects of the Plant Growth-Promoting Bacterium Burkholderia
+
+phytoﬁrmans PsJN throughout the Life Cycle of Arabidopsis thaliana. PLoS ONE 2013, 8, e69435. [CrossRef]
+
+111. Zúñiga, A.; Poupin, M.J.; Donoso, R.; Ledger, T.; Guiliani, N.; Gutiérrez, R.A.; González, B. Quorum Sensing and Indole-3-Acetic
+Acid Degradation Play a Role in Colonization and Plant Growth Promotion of Arabidopsis thaliana by Burkholderia phytoﬁrmans
+PsJN. Mol. Plant Microbe Interact. 2013, 26, 546–553. [CrossRef]
+
+112. Pinedo, I.; Ledger, T.; Greve, M.; Poupin, M.J. Burkholderia phytoﬁrmans PsJN induces long-term metabolic and transcriptional
+
+changes involved in Arabidopsis thaliana salt tolerance. Front. Plant Sci. 2015, 6, 466. [CrossRef]
+
+113. Poupin, M.J.; Greve, M.; Carmona, V.; Pinedo, I. A Complex Molecular Interplay of Auxin and Ethylene Signaling Pathways Is
+Involved in Arabidopsis Growth Promotion by Burkholderia phytoﬁrmans PsJN. Front. Plant Sci. 2016, 7, 492. [CrossRef]
+
+Cells 2023, 12, 31
+
+15 of 15
+
+114. Ton, J.; Davison, S.; Van Wees, S.C.; Van Loon, L.; Pieterse, C.M. The Arabidopsis ISR1 Locus Controlling Rhizobacteria-Mediated
+
+Induced Systemic Resistance Is Involved in Ethylene Signaling. Plant Physiol. 2001, 125, 652–661. [CrossRef]
+
+115. Pieterse, C.M.J.; Van Pelt, J.A.; Ton, J.; Parchmann, S.; Mueller, M.J.; Buchala, A.J.; Métraux, J.P.; Van Loon, L.C. Rhizo-bacteria-
+mediated induced systemic resistance (ISR) in Arabidopsis requires sensitivity to jasmonate and ethylene but is not accompanied
+by an increase in their production. Physiol. Mol. Plant Pathol. 2000, 57, 123–134. [CrossRef]
+
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual
+author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to
+people or property resulting from any ideas, methods, instructions or products referred to in the content.
+
+

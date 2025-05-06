@@ -1,0 +1,1558 @@
+Wang et al. Microbiome          (2022) 10:233  
+https://doi.org/10.1186/s40168-022-01420-x
+
+COMMENT
+
+Open Access
+
+Multifaceted roles of flavonoids mediating 
+plant-microbe interactions
+Lanxiang Wang1,2†, Moxian Chen1,2†, Pui‑Ying Lam3, Francisco Dini‑Andreote4, Lei Dai2* and Zhong Wei5* 
+
+Abstract 
+Plant‑microbe interactions dynamically affect plant growth, health, and development. The mechanisms underpinning 
+these associations are—to a large extent—mediated by specialized host‑derived secondary metabolites. Flavonoids 
+are one of the most studied classes of such metabolites, regulating both plant development and the interaction 
+with commensal microbes. Here, we provide a comprehensive review of the multiple roles of flavonoids in mediat‑
+ing plant‑microbe interactions. First, we briefly summarize the general aspects of flavonoid synthesis, transport, and 
+exudation in plants. Then, we review the importance of flavonoids regulating plant‑microbe interactions and dynami‑
+cally influencing the overall community assembly of plant‑root microbiomes. Last, we highlight potential knowledge 
+gaps in our understanding of how flavonoids determine the interactions between plants and commensal microbes. 
+Collectively, we advocate the importance of advancing research in this area toward innovative strategies to effectively 
+manipulate plant‑microbiome composition, in this case, via flavonoid production and exudation in plant roots.
+
+Keywords:  Flavonoids, Host‑microbe interaction, Microbiome, Root exudate, Rhizosphere
+
+Introduction
+Plant  microbiomes  greatly  affect  the  host  develop-
+ment,  health,  and  ability  to  withstand  biotic  and  abiotic 
+stresses  [1,  2].  The  adaptation  to  distinct  environmental 
+conditions  and  responses  to  various  stresses  often  trig-
+ger  terrestrial  plants  to  secrete  chemical  compounds 
+through  their  root  system  into  the  surrounding  envi-
+ronment  (the  rhizosphere).  These  sets  of  root  exudates/
+chemicals have multiple roles in plant growth and stress 
+responses,  including  the  improvement  of  the  rhizos-
+phere soil chemical properties, their effects on enhancing 
+
+†Lanxiang Wang and Mo‑Xian Chen contributed equally to this work.
+
+*Correspondence:  lei.dai@siat.ac.cn; weizhong@njau.edu.cn
+
+2 CAS Key Laboratory of Quantitative Engineering Biology, Shenzhen Institute 
+of Synthetic Biology, Shenzhen Institutes of Advanced Technology, Chinese 
+Academy of Sciences, Shenzhen 518055, China
+5 Jiangsu Provincial Key Lab for Organic Solid Waste Utilization, National 
+Engineering Research Center for Organic Fertilizers, Jiangsu Collaborative 
+Innovation Center for Solid Organic Waste Resource Utilization, Nanjing 
+Agricultural University, Nanjing, China
+Full list of author information is available at the end of the article
+
+plant  nutrient  uptake,  and  the  recruitment  of  beneficial 
+microbial taxa [3–7]. For example, amino acids and long-
+chain organic acids were shown to be secreted in Arabi-
+dopsis roots when plants were challenged with the foliar 
+pathogen  Pseudomonas  syringae  pv.  tomato  DC3000 
+(hereafter Pst. DC3000) [8]. These chemicals exhibited a 
+remarkable  modulation  of  the  rhizosphere  microbiome 
+in  subsequent  plant  generations,  with  an  effect  on  dis-
+ease suppression [8, 9]. In fact, several products from the 
+plant  secondary  metabolism  (PSM)  have  been  shown  to 
+dynamically modulate the establishment of plant-associ-
+ated  microbiomes  [10].  For  example,  flavonoids,  terpe-
+noids, strigolactones, and coumarins—all of which affect 
+plant fitness and regulate the assembly of specific micro-
+bial taxa in the rhizosphere [11–14].
+
+Flavonoids  constitute  a  major  group  of  plant-special-
+ized (or secondary) metabolites broadly studied in plant 
+root  exudates  [6].  The  term  “flavonoids”  commonly 
+refer  to  a  group  of  compounds  that  contain  a  diphenyl 
+propane   (C6-C3-C6)  backbone  in  which  two  aromatic 
+rings  (A  and  B)  are  linked  through  the  central  three-
+carbon chain (C ring) (Fig. 1A). To date, more than 8000 
+
+© The Author(s) 2022. Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which 
+permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the 
+original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or 
+other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line 
+to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory 
+regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this 
+licence, visit http:// creat iveco mmons. org/ licen ses/ by/4. 0/. The Creative Commons Public Domain Dedication waiver (http:// creat iveco 
+mmons. org/ publi cdoma in/ zero/1. 0/) applies to the data made available in this article, unless otherwise stated in a credit line to the data.
+
+Wang et al. Microbiome          (2022) 10:233 
+
+Page 2 of 13
+
+Fig. 1  Flavonoid biosynthesis, function, and transport in plants. A Molecular structure of flavonoids, major subclasses of flavonoids, and the general 
+flavonoid biosynthetic pathway in plants. B Biological functions of flavonoids in plants. C Intracellular and intercellular transport of flavonoids. CHS, 
+chalcone synthase; CHI, chalcone isomerase; IFS, isoflavone synthase; FNS, flavone synthase; F3H, flavanone 3‑hydroxylase; FLS, flavonol synthase; 
+DFR, dihydroflavonol 4‑reductase; LAR, leucoanthocyanidin reductase; ANS, anthocyanidin synthase; ABC, ATP‑binding cassette; ADP, adenosine 
+di‑phosphate; ATP, adenosine tri‑phosphate; Pi, phosphate; GSH, glutathione; GST, glutathione‑S‑transferase; MATE, multidrug and toxin efflux; TT12, 
+transparent testa 12
+
+Wang et al. Microbiome          (2022) 10:233 
+
+Page 3 of 13
+
+flavonoid  compounds  have  been  isolated  and  identified 
+from a diverse set of plant species [15]. And, the majority 
+of  these  compounds  are  allocated  within  six  major  cat-
+egories,  namely  flavonols,  flavones,  isoflavones,  antho-
+cyanins,  flavanones,  and  flavanols.  This  classification 
+is  based  on  the  saturation  and  oxidation  of  the  C  ring 
+(Fig. 1A) [15]. Within each of these categories, flavonoid 
+compounds differ by specific modifications in their mol-
+ecules  caused  by  the  hydroxylation,  methylation,  glyco-
+sylation, or acylation of the A and B rings.
+
+Flavonoids  are  essential  molecules  affecting  plant 
+growth  and  development,  as  well  as  acting  on  plant 
+defense  mechanisms  against  biotic  and  abiotic  factors 
+(Fig. 1B). They are involved in the determination of pat-
+terns of root growth by regulating the auxin polar trans-
+portation  [16],  controlling  male  fertility  in  maize  (Zea 
+mays),  petunia  (Petunia  hybrid),  tomato  (Solanum  lyco-
+persicum),  and  rice  (Oryza  sativa),  by  affecting  pollen 
+germination and pollen tube growth [17–20]. Moreover, 
+the compound tricin, a 3′,5′-dimethoxylated flavone, was 
+reported  as  one  of  the  “non-monolignol”  lignin  mono-
+mers  incorporated  into  the  cell  wall  lignin  in  the  grass 
+family  [21–23].  Anthocyanidins—together  with  other 
+co-pigments—are  known  to  contribute  to  the  red,  pur-
+ple,  and  blue  coloration  in  most  flowers,  fruits,  seeds, 
+and  vegetative  tissues,  thus  attracting  pollinators  and 
+influencing rates of plant seed dispersal by animals [24]. 
+In  addition,  specific  compounds  from  subgroups  of  fla-
+vones and isoflavones were shown to exhibit remarkable 
+anti-fungal, weed-resistant, and insect-resistant activities 
+in some crops [25–28]. Furthermore, mounting evidence 
+suggests  flavonoids  to  also  be  involved  in  light  stress 
+resistance  [29–31],  as  well  as  in  drought  stress  toler-
+ance [32, 33]. However, our knowledge of how flavonoids 
+mediate  plant-microbe  interactions  and  influence  the 
+overall  microbiome  assembly  and  functioning  remains 
+yet  partially  elusive.  In  this  review,  we  summarize  our 
+current understanding of the fate of flavonoids by plants, 
+as well as their roles in mediating dynamic plant-microbe 
+interactions.  We  also  discuss  the  extent  to  which  flavo-
+noids can impose changes in the assembly and function-
+ing  of  the  root  microbiome  and  delve  into  the  detailed 
+mechanisms underpinning these processes.
+
+Biosynthesis and transport of flavonoids in plants 
+and exudation
+Flavonoids biosynthesis in plants
+
+The  core  flavonoid  biosynthetic  pathway  shared  by  land 
+plants  is  initiated  by  the  catalyzation  of  chalcone  syn-
+thase (CHS) and chalcone isomerase (CHI). As essential 
+enzymes involved in the biosynthesis of flavonoids, CHS 
+and  CHI  are  ubiquitous  in  flavonoid-producing  plants. 
+CHS and CHI are responsible for generating the middle 
+
+C ring of the flavonoid skeleton that produces flavanones, 
+such  as  naringenin  (Fig.  1A).  Flavanones  serve  as  sub-
+strates for a range of downstream flavonoid biosynthetic 
+enzymes,  thus  generating  a  diverse  array  of  flavonoid 
+metabolites.  Depending  on  the  types  of  downstream 
+enzymes,  different  flavonoid  molecules  are  formed  and 
+accumulated  across  different  plant  species  (Fig.  1A).  In 
+dicot plants, flavanone 3-hydroxylase (F3H) and flavonol 
+synthase (FLS) are required for the synthesis of flavonols 
+and their derivatives accumulation. In some plant tissues 
+that  accumulate  anthocyanidin,  e.g.,  corolla  and  fruits, 
+the activities of the enzymes dihydroflavonol 4-reductase 
+(DFR)  and  anthocyanidin  synthase  (ANS)  are  required. 
+In contrast, monocots are more prone to synthesize and 
+accumulate flavones and their derivatives via flavone syn-
+thase (FNS). In addition, the isoflavone synthase (IFS) is 
+uniquely present in legumes, which leads to the produc-
+tion of isoflavones. Besides, numerous enzymes that cata-
+lyze  the  hydroxylation,  methylation,  glycosylation,  and 
+acylation  of  flavonoids  have  been  identified,  which  col-
+lectively contribute to the diversity of the flavonoids syn-
+thesized by plants [15]. Also of key importance, flavonoid 
+biosynthetic  enzymes  can  chemically  interact  with  each 
+other  to  form  enzyme  complexes.  These  are  tethered  to 
+the cytosolic side of the endoplasmic reticulum (ER) via 
+the  ER-bound  cytochrome  P450  proteins  [34]  (Fig.  1C). 
+The  metabolon  formed  by  these  enzyme  complexes  is 
+responsible for facilitating the channeling of the pathway 
+intermediates that enhance the production of flavonoids 
+[34].  Besides  the  ER,  the  tonoplast  and  nucleus  are  also 
+considered the subcellular sites for flavonoid biosynthesis 
+as some of the flavonoid biosynthetic enzymes are local-
+ized within these cellular compartments [35, 36].
+
+Transport of flavonoids in plants and exudation
+
+In  plants,  flavonoids  are  transported  within  cells 
+(Fig.  1C).  In  brief,  after  flavonoids  are  biosynthesized, 
+these molecules are transported to vacuoles as major sites 
+of storage. It is worth noticing that flavonoids can also be 
+transported to other cellular compartments and even to 
+the extracellular space. So far, three distinct mechanisms, 
+namely  vesicle  trafficking,  membrane  transporters,  and 
+glutathione-S-transferase 
+transport, 
+have  been  proposed  [37]  (Fig.  1C).  The  vesicle  traffick-
+ing of flavonoids was previously demonstrated in Arabi-
+dopsis gfs9 (green fluorescent seed) mutants, enumerating 
+the  involvement  of  the  GFS9  in  membrane  trafficking 
+[38].  Also,  two  major  types  of  membrane  transporters, 
+namely  multidrug  and  toxin  efflux  (MATE)  transport-
+ers  and  ATP-binding  cassette  (ABC)  transporters,  were 
+described  to  be  involved  in  the  transport  of  flavonoids 
+[39–41].  Besides,  some  studies  suggested  that  GST  is 
+important for vesicle trafficking and membrane-mediated 
+
+(GST)-mediated 
+
+ Wang et al. Microbiome          (2022) 10:233 
+
+Page 4 of 13
+
+transport of flavonoids [42, 43]. However, whether these 
+trafficking  systems  are  associated  with  distinct  locali-
+zations  of  flavonoids  in  plant  tissues  remains  still  to  be 
+explored.
+
+Some  flavonoids  are  also  released  to  the  root  exter-
+nal  environment  [7,  44,  45],  i.e.,  the  plant  rhizosphere 
+(Fig. 1C). The discussed intracellular mechanisms of fla-
+vonoid transport and delivery are also associated with the 
+release via root exudation [7]. In this scenario, the exuda-
+tion of flavonoids in the rhizosphere has been proposed 
+to be dynamically absorbed onto soil organic matter and/
+or to be rapidly degraded by soil-dwelling microbes [46, 
+47].  For  instance,  one  study  that  simulated  the  daidzein 
+(an  isoflavone,  Fig.  1A)  distribution  in  the  rhizosphere 
+showed  that  this  flavonoid  compound  can  only  be  dis-
+tributed  a  few  millimeters  away  from  the  root  surface, 
+thus indicating that the soil mobility of daidzein is poten-
+tially greatly reduced by soil adsorption [48]. Given these 
+interactions  with  soil  physicochemical  particles  and  as 
+mediators of biotic interactions, several studies have been 
+exploring the intricacies of flavonoid-mediated functions 
+in the plant rhizosphere [49, 50].
+
+Flavonoids as mediators of plant‑microbe interactions
+
+Terrestrial  plants  are  associated  with  a  myriad  of 
+microbes  establishing  beneficial,  detrimental,  or  com-
+mensal interactions. These dynamic interactions between 
+host  plants  and  microbes  have  strong  impacts  on  plant 
+growth,  fitness,  and  even  plant-microbe  evolution  [51]. 
+Flavonoids exert important roles in mediating several of 
+these interactions. Perhaps, mostly known for its impor-
+tance  in  the  process  of  Rhizobium  nodulation  in  plants 
+belonging to the Fabaceae family [52]. However, there are 
+several other mechanisms by which flavonoids determine 
+the  interaction  with  other  plant-associated  microbes. 
+From  this  section  on,  we  will  review  some  general  and 
+specialized  roles  of  flavonoids  in  plant-microbe  interac-
+tions, including pathogen, rhizobium, arbuscular mycor-
+rhizal  fungi  (AMF),  and  other  plant  growth-promoting 
+rhizobacteria  (PGPR).  Besides,  we  also  included  some 
+examples  of  studies  focusing  on  flavonoids  as  chemi-
+cal  cues  associated  with  bacterial  quorum  sensing,  thus 
+mediating plant-microbe interactions.
+
+The role of flavonoids in plant‑pathogen interaction
+
+Several pathogen-induced flavonoid compounds are con-
+sidered  phytoalexins  due  to  their  accumulation  in  plant 
+tissues  upon  pathogen  infection,  in  addition  to  their 
+antimicrobial  activities  (Fig.  2A).  For  example,  the  bio-
+synthesis of sakuranetin (a flavanone) in rice was shown 
+to  increase  the  plant  resistance  to  infection  against  (1) 
+bakanae caused by Fusarium fujikuroi [53], (2) rice blast 
+caused by Magnaporthe Oryzae [54], and (3) sheath blight 
+
+caused by Rhizoctonia solani [55]. In sorghum (Sorghum 
+bicolor),  the  pathogen-induced  3-deoxyanthocyanidins 
+and luteolin (a flavone, Fig. 1A) exhibited remarkable tox-
+icity  to  spores  of  the  fungus  Colletotrichum  sublineola, 
+the  causal  agent  of  anthracnose  [56].  In  addition,  trans-
+genic  sorghum  lines  (SbF3H1)  that  produce  flavonols 
+and  anthocyanidins  were  shown  to  enhance  resistance 
+against  C.  sublineola  [57].  Also,  metabolome  and  tran-
+scriptome analyses revealed that the accumulation of fla-
+vonoids  can  confer  resistance  to  Verticillium  dahliae  in 
+a spontaneous cotton (Gossypium hirsutum) mutant with 
+red coloration [58]. Moreover, transgenic poplar (Populus 
+euphratica)  overexpressing  two  transcriptional  factors, 
+PalbHLH1  and  PalMYB90,  had  increased  accumulation 
+of  proanthocyanidins,  anthocyanins,  and  flavonols,  that 
+collectively  provided  resistance  to  infection  by  Botrytis 
+cinerea and Dothiorella gregaria [59]. On the other hand, 
+the reduced accumulation of flavonoids can enhance the 
+susceptibility  of  transgenic  plants  to  infection  by  patho-
+gens.  For  example,  MtABCG10-silenced  composite 
+Medicago (Medicago truncatula) was shown to be more 
+sensitive to Fusarium oxysporum, a root-infecting patho-
+gen. These authors suggested that isoflavonoid transport 
+by  MtABCG10  may  have  an  essential  role  in  pathogen 
+defense [41]. Last, the knockdown of the transcriptional 
+factor HvWRKY23 in Fusarium head blight (FHB) resist-
+ant barley (Hordeum vulgare) was found to result in the 
+downregulation  of  key  flavonoid  biosynthetic  genes,  as 
+well as in the reduction of flavonoid accumulation, which 
+collectively  resulted  in  an  increased  disease  incidence 
+when  challenged  with  the  pathogen  Fusarium  gramine-
+arum  [60].  In  most  of  these  examples,  the  mechanisms 
+by  which  different  flavonoids  operate  as  antimicrobial 
+compounds  have  been  previously  summarized  [61].  In 
+brief, these include microbial membrane lysis or rupture, 
+inhibition  of  biofilm  formation,  cell  envelope  synthesis, 
+nucleic acid synthesis, electron transport chain, and ATP 
+synthesis, etc. (see [61] for additional details).
+
+It  is  worth  noticing  that  specific  microbial  taxa  might 
+have  evolved  resistance  to  flavonoid  phytoalexins, 
+thus  enabling  their  survival  and  colonization  of  plant 
+hosts.  For  example,  the  MexAB-OprM  efflux  pump 
+was  reported  to  mediate  the  resistance  of  Pst.  DC3000 
+to  flavonoids  [62].  In  a  mutant  line  of  Pst.  DC3000 
+which  lacks  the  MexAB-OprM  transporter,  flavonoids 
+were  shown  to  inhibit  the  function  of  the  GacS/GacA 
+two-component  system  that  affects  the  synthesis  of 
+the  microbial  flagella  and  the  type  III  secretion  system 
+of  Pst.  DC3000  [63].  Also,  the  multidrug  transporter 
+PSPTO_0820  and  the  multidrug  resistance  efflux  pump 
+outer  membrane  channel  protein  PSPTO_4977  in  Pst. 
+DC3000  were  experimentally  induced  by  flavanol  cat-
+echin.  Most  interestingly,  the  knockout  of  these  genes 
+
+Wang et al. Microbiome          (2022) 10:233 
+
+Page 5 of 13
+
+Fig. 2  Multifaceted roles of flavonoids mediating plant‑microbe interactions. A A conceptual overview of the distinct roles of flavonoids mediating 
+plant‑microbe interactions. B Illustration of flavonoids mediating nodule formation in plant roots. PGPR, plant growth‑promoting rhizobacteria; LPO, 
+lipo‑oligosaccharide. Flavonoids are secreted into the rhizosphere via distinct mechanisms (see “Transport of flavonoids in plants and exudation” 
+section). Specific flavonoid molecules in the rhizosphere are perceived by Rhizobium, which induces the expression of the Nod gene. This gene 
+expression results in the synthesis and secretion of Nod factors (LPO). Legume plants recognize these Nod factors in the receptor and via the signal 
+transduction pathway, thus eliciting a series of physiological and biochemical responses. Besides, flavonoid, such as kaempferol inhibits auxin 
+transport, which enhances auxin concentration in the cortical cells and accelerates cell division and growth. Together, these physiological and 
+biochemical processes lead to the formation of the root nodule
+
+ Wang et al. Microbiome          (2022) 10:233 
+
+Page 6 of 13
+
+directly hindered the colonization of tomato roots by the 
+Pst. DC3000 mutants [64]. Moreover, the HopZ1, a type 
+III  secreted  effector  of  P.  syringae,  was  found  to  physi-
+cally  interact  with  2-hydroxyisoflavanone  dehydratase 
+(GmHID1). This was shown to result in an inhibition of 
+daidzein production, thus promoting the proliferation of 
+P. syringae in soybean (Glycine max) [65]. Last, microbial 
+enzymes  involved  in  the  degradation  of  flavonoids  have 
+been  reported  to  confer  adaptive  abilities  to  specialized 
+pathogens to bypass flavonoid phytoalexins defenses. For 
+example, a quercetin dioxygenase gene (QDO) was found 
+in the genomes of several pathogens. This gene encodes 
+an  enzyme  able  to  catalyze  the  cleavage  of  the  flavonol 
+carbon  skeleton,  which  degrades  flavonols  into  phloro-
+glucinol carboxylic and phenolic acids [66, 67].
+
+The role of flavonoids in plant‑rhizobium interaction
+
+Flavonoids have been mostly studied with respect to their 
+influence  on  rhizobium  nodulation  in  Fabaceae  plants 
+(Fig. 2B). Early in vitro studies suggested that flavonoids 
+serve  as  inducers  of  the  expression  of  the  rhizobia  nod 
+gene  and  as  chemo-attractants  enhancing  the  concen-
+tration of rhizobium on root surfaces. To illustrate these 
+concepts,  the  exogenous  addition  of  isoflavones  was 
+shown  to  induce  the  expression  of  nod-lacZ  fusions  in 
+Bradyrhizobium  japonicum  [68].  Also,  the  imbibition  of 
+alfalfa  (Medicago  sativa)  seeds  induced  the  accumula-
+tion of quercetin-3-O-galactoside (a flavonol) and luteo-
+lin-7-O-glucoside (a flavone), which are molecules able to 
+enhance the growth rate of Rhizobium meliloti [69]. And, 
+the  5,7-dihydroxyl  substitution  of  flavonoid  compounds 
+was reported to be primarily responsible for inducing the 
+observed growth effect on rhizobium populations [69].
+
+Recent developments in root hair transformation tech-
+niques allowed researchers to knock down flavonoid bio-
+synthetic genes using RNAi to investigate the differential 
+roles of flavonoids in root nodule formation. By silencing 
+the CHS in Medicago, it was demonstrated that flavones 
+are major inducers of nod genes in Sinorhizobium meliloti 
+[70]. In addition, in vivo evidence further proved that fla-
+vones  are  essential  for  nodulation  in  Medicago—in  this 
+case—based on FNS knockout mutants [71]. In line with 
+this, it was also shown that soybean IFS silenced mutants 
+also  proved  the  importance  of  isoflavones  as  inducers 
+of  nod  gene  expression  in  B.  japonicum  [70].  Additional 
+analysis  of  root  exudates  from  faba  bean  (Vicia  faba) 
+detected a total of six types of flavonoid compounds [72]. 
+Within  these,  genistein  (a  isoflavone),  hesperetin  (a  fla-
+vanone), and naringenin had significant correlations with 
+nodule number and nodule dry weight [72]. All of these 
+data suggest that flavonoids play a role in host specificity 
+and selection of rhizobia strains for nodulation. Besides, 
+auxin  accumulation  in  cortical  cells  was  also  shown  to 
+
+Apart 
+
+the  Fabaceae-rhizobium 
+
+be  essential  for  nodule  initiation,  while  flavonoids  have 
+a  role  in  polar  auxin  transportation  inhibition  [73,  74]. 
+Last,  flavonoid  accumulation  during  this  process  was 
+demonstrated  to  be  regulated  by  the  CRE1-dependent 
+cytokinin signaling [75].
+from 
+
+interaction, 
+actinorhizal  plants  are  known  to  form  symbioses  with 
+nitrogen-fixing  Actinobacteria  taxa  (also  known  as 
+“actinomycetes”),  in  particular,  those  belonging  to  the 
+genus  Frankia.  Despite  the  mechanisms  underpinning 
+these associations are yet not fully elucidated, one study 
+has shown that flavonoids tend to accumulate inside the 
+root  nodules  of  Casuarina  glauca  [76].  Most  interest-
+ingly, flavonoid-like compounds extracted from seeds of 
+Alnus  rubra  were  demonstrated  to  display  both,  nodu-
+lation  induction  and  inhibition  activities  [77].  Also,  two 
+dihydrochalcone  compounds  extracted  from  the  fruit  of 
+Myrica gale were shown to enhance growth and nitrogen 
+fixation  in  the  compatible  Frankia  strains  [78].  In  addi-
+tion,  flavonoid  biosynthetic  genes  were  activated  in  the 
+root of the actinorhizal tropical tree Alnus glutinosa and 
+C. glauca after inoculation with a Frankia bacterial strain 
+[79].  Last,  one  study  showed  a  reduction  in  nodule  for-
+mation in flavonoid-deficient C. glauca root hairs and the 
+rescue of nodule formation by the exogenous addition of 
+naringenin [80].
+
+The role of flavonoids in plant‑AMF interaction
+
+Approximately  80%  of  land  plants  are  able  to  establish 
+symbiosis  with  arbuscular  mycorrhizal  fungi  (AMF) 
+(Fig.  2A)  [81].  This  symbiosis  is  one  of  the  major  inter-
+actions impacting plant fitness, particularly under phos-
+phorus-limiting  conditions  [82].  Specific  molecules  in 
+root  exudates  (in  this  case,  those  belonging  to  a  class 
+of  plant  hormones  called  “strigolactones”)  are  able  to 
+stimulate  both  AMF  spore  germination  and  germ  tube 
+branching  [83].  In  addition,  secondary  metabolites  like 
+flavonoids in root exudates are also dynamically involved 
+in this process. For example, quercetin (a flavonol) in car-
+rot  (Daucus  carota)  root  exudates  was  demonstrated  to 
+promote the hyphal growth of Gigaspora margarita [84]. 
+This  result  corroborates  with  an  in  vitro  assay  show-
+ing  that  the  exogenous  amendment  quercetin  induces 
+hyphal  growth  and  hyphal  branching  of  Glomus  etuni-
+catum  [85].  Also,  alfalfa  seeds  were  shown  to  naturally 
+secrete  quercetin-3-O-galactoside,  which  stimulates  the 
+spore  germination  of  G.  etunicatum  and  Glomus  mac-
+rocarpum  [85].  Besides,  quercetin  secreted  by  the  roots 
+of  the  Chinese  tallow  tree  (Triadica  sebifera)  was  found 
+to promote the colonization of roots by AMF [86]. Based 
+on  these  collective  findings,  further  studies  should  con-
+sider  exploring  the  role  of  quercetin  as  a  direct  regula-
+tor  of  AMF  establishment.  For  instance,  the  potential 
+
+Wang et al. Microbiome          (2022) 10:233 
+
+Page 7 of 13
+
+overexpression  of  quercetin  in  transgenic  plants  or 
+the  exogenous  amendment  of  quercetin  in  prospective 
+experimental systems can be used to potentially elucidate 
+the  mechanisms  by  which  this  flavonoid  mediates  AMF 
+colonization.
+
+On  the  other  hand,  the  colonization  of  plant  roots  by 
+AMF  promotes  plant  growth  and  can  significantly  alter 
+the production of plant secondary metabolites, including 
+flavonoids.  A  study  on  olive  (Olea  europaea)  tree  roots 
+demonstrated that AMF colonization increased the plant 
+production of flavonoids and total phenols [87]. Likewise, 
+heartsease  (Viola  tricolor)  inoculated  with  Rhizophagus 
+irregularis  BEG144  was  shown  to  produce  higher  levels 
+of  rutin  (a  flavonol)  [88].  And,  upon  inoculation  with 
+the  AMF  strain  Glomus  mosseae,  the  pruning  wastes  of 
+grapevine  (Vitis  vinifera)  were  found  to  produce  larger 
+amounts  of  quercetin  [89].  This  also  aligns  with  a  study 
+showing  the  co-inoculation  of  G.  mosseae  and  the  bio-
+fertilizer  Nitroxin  in  sorghum  to  significantly  increase 
+grain and protein yield, as well as total flavonoid content 
+under severe drought stress [90].
+
+The role of flavonoids in plant‑PGPR interaction
+
+Plant  growth-promoting  rhizobacteria 
+(PGPR)  are 
+microbes  able  to  promote  plant  growth  via  direct  or 
+indirect mechanisms (Fig. 2A) [91]. Several studies have 
+shown that flavonoids are active molecules mediating the 
+communication  between  PGPRs  and  plants  suggested 
+that flavonoids might be playing a key role in these inter-
+actions. In addition, some studies have also reported the 
+potential of specific microbial taxa to induce the expres-
+sion  and/or  accumulation  of  flavonoids  in  plant  tissues. 
+For  example,  one  study  reported  that  the  well-studied 
+biocontrol PGPR Bacillus subtilis triggers flavonoid accu-
+mulation in tobacco and contribute to the suppression of 
+the  pathogen  Agrobacterium  tumefaciens  [92].  Further-
+more, flavonoids, like  apigenin (a flavone) and  phloretin 
+(a  chalcone),  were  shown  to  be  sensed  by  Pseudomonas 
+fluorescens 2P24 via the TetR regulator PhlH. These flavo-
+noids play an important role in enhancing the swarming 
+motility  and  the  production  of  cellulose  and  curli  fibers 
+in this non-symbiotic beneficial rhizobacterium. In addi-
+tion,  this  mechanism  of  flavonoid  sensing  significantly 
+contributes  to  the  ability  of  this  PGPR  to  move  in  the 
+soil/root interface, thus favoring the successful coloniza-
+tion of the plant root surface [93].
+
+Flavonoids  are  also  involved  in  PGPR-mediated  plant 
+tolerance  to  abiotic  stresses,  especially  salinity  stress. 
+For example, wheat (Triticum aestivum) inoculated with 
+Bacillus  pumilus,  Pseudomonas  mendocina,  Arthobacter 
+sp., Halomonas sp., and Nitrinicola lacisaponensis exhib-
+ited enhanced tolerance to salinity, in this case, an effect 
+attributed  to  the  accumulation  of  quercetin  in  response 
+
+to the inoculation [94]. Also, the symbiotic plant growth-
+promoting  actinobacterium  Glutamicibacter  halophyto-
+cola strain KLBMP5180 isolated from root tissues of the 
+coastal  halophyte  Limonium  sinense  was  shown  to  exert 
+plant growth-promoting effects under salinity stress [95]. 
+A study that integrated metabolomics and transcriptom-
+ics analyses demonstrated that flavonoids induced by the 
+inoculation  of  KLBMP5180  are  important  in  host  salt 
+stress  tolerance  [95].  It  was  also  reported  that  root  exu-
+dates  of  L.  sinense  attract  PGPR  taxa,  such  as  Bacillus 
+flexus KLBMP4941 under salt stress, which is associated 
+with  flavonoid  accumulation  and  enhancement  of  plant 
+growth  [96].  Moreover,  the  inoculation  of  Azospirillum 
+lipoferum  FK1  in  salt-treated  chickpea  (Cicer  arietinum 
+L.)  was  demonstrated  to  significantly  promote  plant 
+growth  via  increased  flavonoid  production  [97].  Worth 
+mentioning,  similar  results  were  also  reported  in  NaCl-
+treated  soybean  inoculated  with  Bacillus  firmus  SW5 
+[98].
+
+Flavonoids have also been shown to contribute to plant 
+tolerance  to  water  and  nutrient  deficiencies  via  PGPR 
+recruitment  and  microbial  activities.  For  example,  the 
+inoculation of drought-treated pennyroyal (Mentha pule-
+gium  L.)  with  Azotobacter  chroococcum  and  Azosporol-
+lum brasilense enhanced the total flavonoid accumulation 
+and improved plant growth [99]. Recently, the bacterium 
+Aeromonas sp. H1 was reported to enhance the dehydra-
+tion resistance of Arabidopsis via specific flavonoid accu-
+mulation  [100].  Also,  the  presence  of  Steotrophomonas 
+maltophilia enhanced the total flavonoid content in pea-
+nut  (Arachis  hypogea),  in  this  case,  under  nitrogen-lim-
+iting  conditions  [101].  And,  root-derived  flavones,  such 
+as apigenin and luteolin, were demonstrated to promote 
+the  enrichment  of  Oxalobacteraceae  taxa  associated 
+with  maize  growth  under  nitrogen-limiting  conditions 
+[102].  Moreover,  apigenin  and  luteolin  in  the  exudates 
+of rice plants were shown to trigger biofilm formation of 
+Gluconacetobacter  diazotrophicus,  thus  enhancing  the 
+potential of root surface colonization and improving bio-
+logical nitrogen fixation under nutrient-limiting soil con-
+ditions [103].
+
+Despite that we still lack a full appreciation of the spec-
+ificity of diverse flavonoid molecules mediating the inter-
+action  between  plants  and  PGPRs,  some  studies  have 
+shown  that  the  inoculation  with  a  single  PGPR  strain 
+is  able  to  induce  flavonoid  accumulation  in  plants.  For 
+example,  after  the  inoculation  with  Paenibacillus  pabuli 
+strain  P7S,  the  biomass  and  anthocyanin  production  in 
+Arabidopsis were found to increase [104]. Also, Eucalyp-
+tus  grandis  “treated”  with  Streptomyces  PM9  displayed 
+higher  levels  of  flavonoids  in  shoots,  albeit  similar  val-
+ues were reported in root tissues [105]. Last, an elevated 
+flavonoid  accumulation  was  also  detected  in  grapevine 
+
+ Wang et al. Microbiome          (2022) 10:233 
+
+Page 8 of 13
+
+leaves and roots inoculated with Paraburkholderia phyto-
+firmans  PsJN  [106].  Thus,  taken  together,  these  results 
+illustrate  that  PGPR  inoculation  may  improve  host 
+plant  performance—to  some  extent—by  mediating  the 
+dynamic  flavonoid  accumulation  that  varies  across  dis-
+tinct contexts and environmental conditions.
+
+elastase)  [114,  115].  Last,  similar  results  have  also  been 
+reported  in  other  pathogens,  such  as  Staphylococcus 
+epidermidis  [116].  Thus,  it  is  possible  to  speculate  that 
+flavonoids  might  likely  be  a  yet-underexplored  class  of 
+molecules  potentially  associated  with  pathogen  control, 
+for instance, via quorum-sensing suppression.
+
+The role of flavonoids in bacterial quorum sensing
+
+Quorum  sensing  is  a  bacterial  cell-to-cell  communica-
+tion  process  triggered  by  auto-inducers  (AIs)  signaling 
+molecules  once  cell  density  reaches  a  certain  threshold. 
+Quorum  sensing  mediates  a  series  of  bacterial  genes 
+expression  associated  with  important  functions,  such  as 
+the  production  of  enzymes,  secretion  of  exopolysaccha-
+rides and toxins, the establishment of biofilm, swarming 
+motility, and horizontal gene transfer [107]. The class of 
+molecules  of  N-acyl  homoserine  lactones  (AHLs)  is  the 
+most  studied  AIs  present  in  Gram-negative  bacteria. 
+Most  interestingly,  some  specific  flavonoid  molecules 
+can be further transformed into AHL types. For example, 
+naringenin  (a  flavanone),  daidzein  and  genistein  (isofla-
+vones) in the rhizosphere were shown to be broken down 
+by  Rhizobium  species  to  form  p-coumaric  acid  [108]. 
+And,  in  a  follow-up  step,  p-coumaric  acid  can  be  trans-
+formed  into  p-coumaroyl-homoserine  lactone  (a  type 
+of  AHL)  by  the  photosynthetic  bacterium  Rhodopseu-
+domonas  palustris  [109].  In  addition,  the  production  of 
+AHL molecules in three rhizobia species (Sinorhizobium 
+fredii SMH12, Rhizobium etli ISP42, and Rhizobium sul-
+lae IS123) was shown to be enhanced when these strains 
+were cultured in the presence of specific flavonoids (nod 
+gene inducer) [110]. On the other hand, Medicago plants 
+inoculated  with  rhizobia-producing  AHLs  were  also 
+shown  to  enhance  the  expression  of  genes  associated 
+with flavonoid biosynthesis [111]. Albeit the significance 
+of this study, the opposite effect has also been reported. 
+For  example,  it  was  shown  that  barley  plants  produced 
+a  lower  amount  of  flavonoids  when  inoculated  with  the 
+AHL-deficient  mutant  of  Acidovorax  radices  N35  com-
+pared with wild-type A. radices N35 [112].
+
+Flavonoids  can  also  have  a  direct  effect  on  strain-spe-
+cific  bacterial  quorum  sensing.  For  example,  one  study 
+showed  that  flavonoid  compounds  can  inhibit  biofilm 
+formation  in  Pseudomonas  aeruginosa  via  effects  in  the 
+AI-binding receptors, namely LasR and RhlR [113]. Fur-
+ther, two hydroxyl moieties in the A-ring backbone were 
+shown  to  be  essential  for  this  inhibition  activity  [113]. 
+Also,  naringenin  was  found  to  be  effective  in  inhibit-
+ing  quorum-sensing  response  in  P.  aeruginosa  via  bind-
+ing  directly  to  the  LasR  only  at  low  concentrations  of 
+AIs  [114].  This  effect  of  quorum-sensing  suppression 
+in  P.  aeruginosa  was  also  shown  to  result  in  reduced 
+production  of  virulence  factors  (i.e.,  pyocyanin  and 
+
+Multifaceted roles of flavonoids mediating the assembly 
+and functioning of root microbiomes
+
+Several  products  of  PSM  in  root  exudates—includ-
+ing  phytohormones  and  diverse  flavonoid  molecules—
+dynamically  regulate  the  recruitment  and  functioning 
+of  microbial  taxa  in  the  rhizosphere  [49,  117,  118].  For 
+example,  a  study  showed  the  importance  of  triterpenes 
+(another  class  of  PSM  found  in  Arabidopsis  root  exu-
+dates)  in  structuring  the  plant  root  microbiome  [12].  In 
+fact, most flavonoid molecules can act as signals for the 
+recruitment of specific microbial taxa and/or act as sub-
+strates  for  microbial  growth,  thus  linking  their  produc-
+tion and consumption with the recruitment in the plant 
+rhizosphere [100]. In addition, some flavonoids can also 
+have  a  negative  effect  on  taxa  recruitment,  for  instance, 
+via  anti-microbial  activities  [48,  117].  Although  some 
+of  these  aspects  were  covered  in  the  previous  sections 
+of  this  article,  herewith  we  provide  a  more  holistic  per-
+spective  on  how  flavonoids  can  be  seen  as  underlying 
+regulatory molecules in plant exudates that influence the 
+overall root microbiome recruitment and functioning.
+
+Flavonoids modulate dynamic changes in rhizosphere 
+microbiomes
+
+Due  to  the  importance  of  dietary  intake  of  flavonoids 
+influencing  human  health,  interactions  between  flavo-
+noids  and  microbiomes  are  particularly  well  described 
+in the human and (model) animal gut systems. Similar to 
+the plant rhizosphere, the animal gut also has a dynamic 
+gradient  of  nutrients  that  provides  multiple  resources 
+and  ecological  niches  for  microbial  colonization.  Albeit 
+major differences exist between these two systems, con-
+cepts derived from one system can easily be interpreted 
+and  translated  into  the  other.  The  most  striking  differ-
+ence  between  these  systems  relies  on  the  distinct  con-
+centrations of oxygen in these habitats and how it affects 
+microbial  taxa  recruitment  and  chemical  reactions  in 
+the  system.  Some  microbes  in  the  human  gut  can  con-
+sume,  modify,  or  degrade  flavonoids.  For  example,  a 
+novel ene-reductase that initiates the degradation of fla-
+vones and flavonols, namely flavone reductase (FLR), was 
+discovered  in  the  gut  bacterium  Flavonifractor  plautii 
+ATCC  49531  [119].  Besides,  it  was  shown  that  strains 
+belonging to Lactococcus and Enterococcus isolated from 
+human  fecal  samples  have  de-glycosylation  activities  for 
+specific  C-  and  O-glycosides  of  flavonoids  [120,  121]. 
+
+Wang et al. Microbiome          (2022) 10:233 
+
+Page 9 of 13
+
+These  authors  also  reported  that  the  bacterium  Blautia 
+sp.  MRG-PMF1  is  able  to  demethylate  multiple  polym-
+ethoxyflavones  [122].  In  addition,  flavonoids  ingested  in 
+the  diet  can  affect  patterns  of  gastrointestinal  microbial 
+community  assembly  [123,  124].  For  example,  as  one  of 
+the primary components in multiple plant extracts (e.g., 
+cucumber,  carrot,  and  broccoli  seed  flours),  kaemp-
+ferol-3-O-rutinoside  (a  flavonol)  was  reported  to  pro-
+mote  an  increase  in  the  diversity  of  the  gut  microbial 
+community,  possibly  through  their  scavenging  capacity 
+of  reactive  oxygen  species  [125].  Also,  as  an  important 
+active  flavonoid  derivative,  quercetin-3-O-glucuronide 
+(a  flavonol)  was  found  to  partially  restore  the  dysbiosis 
+of  the  gut  microbiome  (i.e.,  affecting  the  Bacteroidetes 
+and  Firmicute  balance).  In  addition,  the  administration 
+of  quercetin  was  reported  to  improve  the  gut  microbial 
+diversity  in  mice  that  were  previously  treated  with  anti-
+biotics  [126].  Also,  another  study  highlights  the  link 
+between  the  anti-inflammatory  property  of  quercetin 
+and  the  gut  microbiome  in  mice  models  used  to  study 
+inflammatory bowel disease. Specifically, the abundances 
+of  Lactobacillus,  Bacteroidetes,  and  Bifidobacterium 
+were  reported  to  increase,  whereas  the  abundances  of 
+Fusobacterium  and  Enterococcus  decreased  by  querce-
+tin  pre-administration  [127].  In  an  example  based  on  a 
+non-model mammal system, a total of 97 flavonoids were 
+identified in bamboo, of which more than 70% were able 
+to  be  metabolized  by  the  panda  gut  microbiome.  These 
+were further demonstrated to negatively affect microbial 
+diversity by enriching the abundance of cellulose-degrad-
+ing microbes [128].
+
+Particularly  in  the  soil  and  plant  rhizosphere,  it  was 
+shown  that  soils  treated  with  daidzein—an  important 
+flavonoid  found  in  Medicago  root  exudates—had  a  sig-
+nificant  negative  effect  on  α-diversity  (i.e.,  for  bacterial 
+community),  suggesting  a  potential  impact  on  specific 
+soil microbial populations [48]. Similarly, the α-diversity 
+of  a  soil  microbiome  treated  with  quercetin  was  also 
+reduced,  albeit  this  treatment  resulted  in  the  positive 
+growth of specific (and potentially beneficial) taxa [117]. 
+In detail, the soil treated with daidzein led to an increase 
+in  the  relative  abundance  of  Comamonadaceae  [48], 
+while the soil treated with quercetin resulted in a relative 
+enrichment of Pseudarthrobacter, in addition to a higher 
+overall relative abundance of Proteobacteria [117]. Also, 
+a  study  on  maize  root  exudates  showed  flavone  com-
+pounds,  such  as  apigenin  and  luteolin,  to  enhance  the 
+abundance of Oxalobacteraceae in the plant rhizosphere. 
+In  line  with  that,  microbial  isolates  within  the  Massilia 
+genus (also Oxalobacteraceae) are known to improve host 
+performance  under  nutrient-limiting  conditions  [102]. 
+Last,  it  is  important  to  point  out  that  properly  studying 
+flavonoids  in  soil  systems  is  often  challenging,  mostly 
+
+due to the chemical interactions of these molecules with 
+other  soil  particles.  For  example,  it  was  shown  that  dis-
+solved organic carbon in soil can significantly reduce the 
+lifetime of flavonoids, which, in turn, directly affects the 
+signaling communication mediated by these molecules in 
+the system [47].
+
+Differential responses of microbial taxa to plant‑derived 
+flavonoids
+
+Flavonoids  as  complex  signaling  molecules  can  be  per-
+ceived,  consumed,  and  modified  by  different  microbial 
+taxa. Also, the specificity of these molecules and chemi-
+cal dynamics can differentially influence taxa abundances 
+and the overall microbiome composition [102]. As men-
+tioned above, the de-glycosylation of O- and C-glycosides 
+of  flavonoids  performed  by  gut  microbes  is  an  example 
+of  gut-specialized  taxa  capable  of  hydrolyzing  flavonoid 
+glycosides.  Also,  flavonoid  aglycones  released  in  the  gut 
+were shown to be degraded into small molecules by spe-
+cialized microbial enzymes [119–121]. Conversely, simi-
+lar enzymatic processing of flavonoids has been reported 
+in  the  rhizosphere  [117].  Mounting  evidence  has  been 
+suggesting  specific  microbial  taxa,  such  as  Rhizobia  and 
+Pseudomonas,  to  actively  degrade  flavonoid  molecules 
+[46, 108]. These molecules are used as energy sources by 
+specialized  microbes  directly  via  the  degradation  of  the 
+carbon  skeleton  of  flavonoids  and  further  channeling  of 
+by-product  degradation  into  the  tricarboxylic  acid  cycle 
+[46].
+
+As  an  additional  mechanism  of  microbiome  modula-
+tion, molecules derived from the degradation of flavonoid 
+compounds  (e.g.,  phenolic  acids)  present  in  root  exu-
+dates  can  also  affect  the  rhizosphere  microbiome  [129]. 
+In addition, these derived molecules often exhibit higher 
+antioxidant activities than the precursor molecules [130], 
+which  may  not  only  affect  the  specialized  taxa  but  the 
+overall micro-scale environment in the plant rhizosphere. 
+Last, it is tempting to speculate that since a similar mole-
+cule can often have opposite effects (positive or negative) 
+on  distinct  microbial  taxa,  the  production,  perception, 
+and  utilization  of  different  flavonoids  might  likely  be 
+associated  with  eco-evolutionary  dynamics  of  the  host 
+with distinct microbial taxa in the system, thus serving as 
+a resource that triggers species interactions. In this sense, 
+microbes may likely compete with each other in a direct 
+or  indirect  manner  [131],  which  may  contribute  to  the 
+dynamic structure and functioning of microbiomes.
+
+Conclusions and future perspectives
+Flavonoids  are  plant  metabolites  with  a  variety  of  func-
+tions  in  both  eukaryotic  and  prokaryotic  organisms. 
+Although the biosynthesis and metabolisms of flavonoids 
+in  plants  have  been  broadly  studied,  the  multifaceted 
+
+ Wang et al. Microbiome          (2022) 10:233 
+
+Page 10 of 13
+
+roles of these compounds mediating host-microbe inter-
+actions  remain  largely  unexplored.  This  includes  their 
+dynamic overall effects on community assembly and the 
+molecular  mechanisms  by  which  these  molecules  act  as 
+chemical signals in the plant rhizosphere. Given the cur-
+rent need to harness specific microbial taxa and functions 
+toward the development of sustainable practices in agro-
+ecosystems [132], better understanding the influences of 
+flavonoids and their derivatives on plant commensal taxa 
+has fundamental implications. In this sense, different and 
+complementary focuses are emerging in this field, includ-
+ing  the  sensing  mechanisms  of  flavonoids  by  microbes 
+and their signal transduction in the cells [133], as well as 
+the ecological implications of flavonoids as mediators of 
+host-microbe interactions [102]. Of key importance, sev-
+eral plant mutant lines are currently available to investi-
+gate the potential roles of specific flavonoid molecules in 
+rhizosphere  biology  [134].  These  plant  mutant  libraries 
+can  be  used  to  explore  how  distinct  root  exudates  con-
+taining  distinct  flavonoid  compositions  and  concentra-
+tions dynamically affect the recruitment and functioning 
+of microbial taxa in the rhizosphere. As a follow-up, the 
+modulation  of  specific  microbial  populations  via  flavo-
+noid metabolism to either include the loss-of-function or 
+gain-of-function in the system might emerge as a prom-
+ising  approach  to  effectively  engineer  plant-beneficial 
+microbiomes.
+
+Authors’ contributions
+LXW and MXC wrote the manuscript. PYL, ZW, FD‑A, and LD reviewed and 
+edited the manuscript. The authors read and approved the final manuscript.
+
+Funding
+The authors acknowledge the financial support from the National Key 
+Research and Development Program of China (2021YFD1900100), the 
+National Natural Science Foundation of China (No.32061143023), the Technol‑
+ogy Plan Program of Shenzhen (JSGG20170822153048662), the Platform 
+funding for Guangdong Provincial Enterprise Key Laboratory of Seed and 
+Seedling Health Management Technology (2021B1212050011), and the China 
+Postdoctoral Science Foundation (No.2021M703383).
+
+Availability of data and materials
+Data sharing not applicable to this article as no datasets were generated or 
+analyzed during the current study.
+
+Declarations
+
+Ethics approval and consent to participate
+Not applicable.
+
+Consent for publication
+Not applicable.
+
+Competing interests
+The authors declare that they have no competing interests.
+
+Author details
+1 State Key Laboratory Breeding Base of Green Pesticide and Agricultural Bioen‑
+gineering, Key Laboratory of Green Pesticide and Agricultural Bioengineering, 
+Ministry of Education, Research and Development Center for Fine Chemicals, 
+
+Guizhou University, Guiyang, China. 2 CAS Key Laboratory of Quantitative Engi‑
+neering Biology, Shenzhen Institute of Synthetic Biology, Shenzhen Institutes 
+of Advanced Technology, Chinese Academy of Sciences, Shenzhen 518055, 
+China. 3 Center for Crossover Education, Graduate School of Engineering 
+Science, Akita University, Tegata Gakuen‑machi 1‑1, Akita City, Akita 010‑8502, 
+Japan. 4 Department of Plant Science & Huck Institutes of the Life Sciences, 
+The Pennsylvania State University, University Park, PA, USA. 5 Jiangsu Provincial 
+Key Lab for Organic Solid Waste Utilization, National Engineering Research 
+Center for Organic Fertilizers, Jiangsu Collaborative Innovation Center for Solid 
+Organic Waste Resource Utilization, Nanjing Agricultural University, Nanjing, China. 
+
+Received: 7 May 2022   Accepted: 9 November 2022
+
+References
+
+1.  Trivedi P, Leach JE, Tringe SG, Sa T, Singh BK. Plant‑microbiome interac‑
+tions: from community assembly to plant health. Nat Rev Microbiol. 
+2020;18(11):607–21.
+
+2.  Qu Q, Zhang Z, Peijnenburg W, Liu W, Lu T, Hu B, et al. Rhizosphere 
+
+microbiome assembly and its impact on plant growth. J Agric Food 
+Chem. 2020;68(18):5024–38.
+
+3.  Zhao M, Zhao J, Yuan J, Hale L, Wen T, Huang Q, et al. Root exudates 
+drive soil‑microbe‑nutrient feedbacks in response to plant growth. 
+Plant Cell Environ. 2021;44(2):613–28.
+
+4.  Rolfe SA, Griffiths J, Ton J. Crying out for help with root exudates: adap‑
+tive mechanisms by which stressed plants assemble health‑promoting 
+soil microbiomes. Curr Opin Microbiol. 2019;49:73–82.
+
+5.  Sasse J, Martinoia E, Northen T. Feed your friends: do plant exudates 
+shape the root microbiome? Trends Plant Sci. 2018;23(1):25–41.
+6.  Vives‑Peris V, de Ollas C, Gómez‑Cadenas A, Pérez‑Clemente RM. 
+
+Root exudates: from plant to rhizosphere and beyond. Plant Cell Rep. 
+2020;39(1):3–17.
+
+7.  Cesco S, Neumann G, Tomasi N, Pinton R, Weisskopf L. Release of plant‑
+borne flavonoids into the rhizosphere and their role in plant nutrition. 
+Plant Soil. 2010;329(1):1–25.
+
+8.  Yuan J, Zhao J, Wen T, Zhao M, Li R, Goossens P, et al. Root exudates 
+
+drive the soil‑borne legacy of aboveground pathogen infection. Micro‑
+biome. 2018;6(1):156.
+
+9.  Wen T, Zhao M, Yuan J, Kowalchuk GA, Shen Q. Root exudates medi‑
+ate plant defense against foliar pathogens by recruiting beneficial 
+microbes. Soil Ecol Lett. 2021;3(1):42–51.
+
+  10.  Jacoby RP, Chen L, Schwier M, Koprivova A, Kopriva S. Recent advances 
+in the role of plant metabolites in shaping the root microbiome. 
+F1000Research. 2020:9.
+
+  11.  Chen Q, Jiang T, Liu YX, Liu H, Zhao T, Liu Z, et al. Recently duplicated 
+sesterterpene (C25) gene clusters in Arabidopsis thaliana modulate 
+root microbiota. Sci China Life Sci. 2019;62(7):947–58.
+
+  12.  Huang AC, Jiang T, Liu YX, Bai YC, Reed J, Qu B, et al. A specialized 
+
+metabolic network selectively modulates Arabidopsis root microbiota. 
+Science. 2019;364(6440).
+
+  13.  Stringlis IA, Yu K, Feussner K, de Jonge R, Van Bentum S, Van Verk MC, 
+
+et al. MYB72‑dependent coumarin exudation shapes root microbi‑
+ome assembly to promote plant health. Proc Natl Acad Sci U S A. 
+2018;115(22):E5213–e5222.
+
+  14.  Harbort CJ, Hashimoto M, Inoue H, Niu Y, Guan R, Rombolà AD, et al. 
+
+Root‑secreted coumarins and the microbiota interact to improve iron 
+nutrition in Arabidopsis. Cell Host Microbe. 2020;28(6):825–837.e826.
+  15.  Alseekh S. Perez de Souza L, Benina M, Fernie AR: The style and sub‑
+
+stance of plant flavonoid decoration; towards defining both structure 
+and function. Phytochemistry. 2020;174:112347.
+
+  16.  Tan H, Man C, Xie Y, Yan J, Chu J, Huang J. A crucial role of GA‑regu‑
+
+lated flavonol biosynthesis in root growth of Arabidopsis. Mol Plant. 
+2019;12(4):521–37.
+
+  17.  Mo Y, Nagel C, Taylor LP. Biochemical complementation of chalcone 
+
+synthase mutants defines a role for flavonols in functional pollen. Proc 
+Natl Acad Sci U S A. 1992;89(15):7213–7.
+
+  18.  Pollak PE, Vogt T, Mo Y, Taylor LP. Chalcone synthase and flavonol 
+
+accumulation in stigmas and anthers of petunia hybrida. Plant Physiol. 
+1993;102(3):925–32.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Wang et al. Microbiome          (2022) 10:233 
+
+Page 11 of 13
+
+  19.  Wang L, Lam PY, Lui ACW, Zhu FY, Chen MX, Liu H, et al. Flavonoids 
+are indispensable for complete male fertility in rice. J Exp Bot. 
+2020;71(16):4715–28.
+
+  20.  Muhlemann JK, Younts TLB, Muday GK. Flavonols control pollen tube 
+
+growth and integrity by regulating ROS homeostasis during high‑tem‑
+perature stress. Proc Natl Acad Sci U S A. 2018;115(47):E11188–e11197.
+
+  21.  del Río JC, Rencoret J, Prinsen P, Martínez ÁT, Ralph J, Gutiérrez A. 
+
+Structural characterization of wheat straw lignin as revealed by analyti‑
+cal pyrolysis, 2D‑NMR, and reductive cleavage methods. J Agric Food 
+Chem. 2012;60(23):5922–35.
+
+  22.  Lan W, Lu F, Regner M, Zhu Y, Rencoret J, Ralph SA, et al. Tricin, a flavonoid 
+
+monomer in monocot lignification. Plant Physiol. 2015;167(4):1284–95.
+  23.  Lam PY, Lui ACW, Wang L, Liu H, Umezawa T, Tobimatsu Y, et al. Tricin 
+
+biosynthesis and bioengineering, vol. 12; 2021.
+
+  24.  Falcone Ferreyra ML, Rius SP, Casati P. Flavonoids: biosynthesis, bio‑
+
+logical functions, and biotechnological applications. Front Plant Sci. 
+2012;3:222.
+
+  25.  Kong C, Xu X, Zhou B, Hu F, Zhang C, Zhang M. Two compounds from 
+allelopathic rice accession and their inhibitory activity on weeds and 
+fungal pathogens. Phytochemistry. 2004;65(8):1123–8.
+
+  26.  Chabot S, Bel‑Rhlid R, Chênevert R, Piché Y. Hyphal growth promotion 
+
+in vitro of the VA mycorrhizal fungus, Gigaspora margarita Becker & 
+Hall, by the activity of structurally specific flavonoid compounds under 
+CO(2) ‑enriched conditions. New Phytol. 1992;122(3):461–7.
+  27.  Liu Q, Xu R, Yan Z, Jin H, Cui H, Lu L, et al. Phytotoxic allelochemicals 
+
+from roots and root exudates of Trifolium pratense. J Agric Food Chem. 
+2013;61(26):6321–7.
+
+  28.  Waiss AC, Chan BG, Elliger CA, Wiseman BR, McMillian WW, Widstrom 
+
+NW, et al. Maysin, a flavone glycoside from corn silks with antibiotic 
+activity toward corn earworm. J Econ Entomol. 1979;72(2):256–8.
+  29.  Ryan KG, Swinny EE, Markham KR, Winefield C. Flavonoid gene expres‑
+sion and UV photoprotection in transgenic and mutant Petunia leaves. 
+Phytochemistry. 2002;59(1):23–32.
+
+  30.  van de Staaij J, de Bakker NV, Oosthoek A, Broekman R, van Beem A, 
+
+Stroetenga M, et al. Flavonoid concentrations in three grass species and 
+a sedge grown in the field and under controlled environment condi‑
+tions in response to enhanced UV‑B radiation. J Photochem Photobiol 
+B. 2002;66(1):21–9.
+
+  31.  Agati G, Biricolti S, Guidi L, Ferrini F, Fini A, Tattini M. The biosynthesis of 
+flavonoids is enhanced similarly by UV radiation and root zone salinity 
+in L. vulgare leaves. J Plant Physiol. 2011;168(3):204–12.
+
+  32.  Nakabayashi R, Mori T, Saito K. Alternation of flavonoid accumula‑
+
+tion under drought stress in Arabidopsis thaliana. Plant Signal Behav. 
+2014;9(8):e29518.
+
+  33.  Nakabayashi R, Yonekura‑Sakakibara K, Urano K, Suzuki M, Yamada Y, 
+Nishizawa T, et al. Enhancement of oxidative and drought tolerance 
+in Arabidopsis by overaccumulation of antioxidant flavonoids. Plant J. 
+2014;77(3):367–79.
+
+  34.  Jørgensen K, Rasmussen AV, Morant M, Nielsen AH, Bjarnholt N, 
+
+Zagrobelny M, et al. Metabolon formation and metabolic channeling 
+in the biosynthesis of plant natural products. Curr Opin Plant Biol. 
+2005;8(3):280–91.
+
+  35.  Saslowsky D, Winkel‑Shirley B. Localization of flavonoid enzymes in 
+
+Arabidopsis roots. Plant J Cell Mol Biol. 2001;27(1):37–48.
+
+  36.  Saslowsky DE, Warek U, Winkel BS. Nuclear localization of flavonoid 
+enzymes in Arabidopsis. J Biol Chem. 2005;280(25):23735–40.
+  37.  Zhao J. Flavonoid transport mechanisms: how to go, and with whom. 
+
+  38. 
+
+Trends Plant Sci. 2015;20(9):576–85.
+Ichino T, Fuji K, Ueda H, Takahashi H, Koumoto Y, Takagi J, et al. GFS9/
+TT9 contributes to intracellular membrane trafficking and flavonoid 
+accumulation in Arabidopsis thaliana. Plant J. 2014;80(3):410–23.
+  39.  Thompson EP, Wilkins C, Demidchik V, Davies JM, Glover BJ. An Arabi‑
+
+dopsis flavonoid transporter is required for anther dehiscence and 
+pollen development. J Exp Bot. 2010;61(2):439–51.
+
+  40.  Marinova K, Pourcel L, Weder B, Schwarz M, Barron D, Routaboul JM, 
+et al. The Arabidopsis MATE transporter TT12 acts as a vacuolar flavo‑
+noid/H
+the seed coat. Plant Cell. 2007;19(6):2023–38.
+
+ ‑antiporter active in proanthocyanidin‑accumulating cells of 
+
++
+
+  42.  Marrs KA, Alfenito MR, Lloyd AM, Walbot V. A glutathione S‑transferase 
+
+involved in vacuolar transfer encoded by the maize gene Bronze‑2. 
+Nature. 1995;375(6530):397–400.
+
+  43.  Mueller LA, Goodman CD, Silady RA, Walbot V. AN9, a petunia glu‑
+tathione S‑transferase required for anthocyanin sequestration, is a 
+flavonoid‑binding protein. Plant Physiol. 2000;123(4):1561–70.
+  44.  Buer CS, Muday GK, Djordjevic MA. Flavonoids are differentially taken 
+up and transported long distances in Arabidopsis. Plant Physiol. 
+2007;145(2):478–90.
+
+  45.  Buer CS, Muday GK. The transparent testa4 mutation prevents flavonoid 
+
+synthesis and alters auxin transport and the response of Arabidopsis 
+roots to gravity and light. Plant Cell. 2004;16(5):1191–205.
+
+  46.  Pillai BV, Swarup S. Elucidation of the flavonoid catabolism pathway in 
+Pseudomonas putida PML2 by comparative metabolic profiling. Appl 
+Environ Microbiol. 2002;68(1):143–51.
+
+  47.  Del Valle I, Webster TM, Cheng HY, Thies JE, Kessler A, Miller MK, et al. 
+Soil organic matter attenuates the efficacy of flavonoid‑based plant‑
+microbe communication. Sci Adv. 2020;6(5):eaax8254.
+
+  48.  Okutani F, Hamamoto S, Aoki Y, Nakayasu M, Nihei N, Nishimura T, et al. 
+Rhizosphere modelling reveals spatiotemporal distribution of daidzein 
+shaping soybean rhizosphere bacterial community. Plant Cell Environ. 
+2020;43(4):1036–46.
+
+  49.  Sugiyama A, Yazaki K. Flavonoids in plant rhizospheres: secretion, 
+
+fate and their effects on biological communication. Plant Biotechnol. 
+2014;31(5):431–43.
+
+  50.  Hassan S, Mathesius U. The role of flavonoids in root‑rhizosphere 
+
+signalling: opportunities and challenges for improving plant‑microbe 
+interactions. J Exp Bot. 2012;63(9):3429–44.
+
+  51.  Zhang J, Zhang N, Liu YX, Zhang X, Hu B, Qin Y, et al. Root microbiota 
+
+shift in rice correlates with resident time in the field and developmental 
+stage. Sci China Life Sci. 2018;61(6):613–21.
+
+  52.  Mathesius U: The role of the flavonoid pathway in Medicago truncatula 
+
+in root nodule formation. A review. 2020:434–8.
+
+  53.  Siciliano I, Amaral Carneiro G, Spadaro D, Garibaldi A, Gullino ML. 
+Jasmonic acid, abscisic acid, and salicylic acid are involved in the 
+phytoalexin responses of rice to fusarium fujikuroi, a high gibberellin 
+producer pathogen. J Agric Food Chem. 2015;63(37):8134–42.
+  54.  Hasegawa M, Mitsuhara I, Seo S, Okada K, Yamane H, Iwai T, et al. Analy‑
+
+sis on blast fungus‑responsive characters of a flavonoid phytoalexin 
+sakuranetin; accumulation in infected rice leaves, antifungal activity 
+and detoxification by fungus. Molecules. 2014;19(8):11404–18.
+  55.  Katsumata S, Toshima H, Hasegawa M. Xylosylated detoxification of the 
+rice flavonoid phytoalexin sakuranetin by the rice sheath blight fungus 
+Rhizoctonia solani. Molecules. 2018;23(2).
+
+  56.  Du Y, Chu H, Wang M, Chu IK, Lo C. Identification of flavone phytoalex‑
+
+ins and a pathogen‑inducible flavone synthase II gene (SbFNSII) in 
+sorghum. J Exp Bot. 2010;61(4):983–94.
+
+  57.  Wang L, Lui ACW, Lam PY, Liu G, Godwin ID, Lo C. Transgenic expres‑
+sion of flavanone 3‑hydroxylase redirects flavonoid biosynthesis and 
+alleviates anthracnose susceptibility in sorghum. Plant Biotechnol J. 
+2020;18(11):2170–2.
+
+  58.  Long L, Liu J, Gao Y, Xu FC, Zhao JR, Li B, et al. Flavonoid accumulation 
+in spontaneous cotton mutant results in red coloration and enhanced 
+disease resistance. Plant Physiol Biochem. 2019;143:40–9.
+  59.  Bai Q, Duan B, Ma J, Fen Y, Sun S, Long Q, et al. Coexpression of 
+
+PalbHLH1 and PalMYB90 genes from Populus alba enhances pathogen 
+resistance in Poplar by increasing the flavonoid content. Front Plant Sci. 
+2019;10:1772.
+
+  60.  Karre S, Kumar A, Yogendra K, Kage U, Kushalappa A, Charron JB. 
+
+HvWRKY23 regulates flavonoid glycoside and hydroxycinnamic acid 
+amide biosynthetic genes in barley to combat Fusarium head blight. 
+Plant Mol Biol. 2019;100(6):591–605.
+
+  61.  Górniak I, Bartoszewski R, Króliczewski JJPR. Comprehensive review of 
+antimicrobial activities of plant flavonoids. 2019;18(1):241–72.
+  62.  Vargas P, Felipe A, Michán C, Gallegos MT. Induction of Pseudomonas 
+
+syringae pv. tomato DC3000 MexAB‑OprM multidrug efflux pump 
+by flavonoids is mediated by the repressor PmeR. Mol Plant‑Microbe 
+Interact. 2011;24(10):1207–19.
+
+  41.  Banasiak J, Biala W, Staszków A, Swarcewicz B, Kepczynska E, Figlerowicz 
+M, et al. A Medicago truncatula ABC transporter belonging to subfamily 
+G modulates the level of isoflavonoids. J Exp Bot. 2013;64(4):1005–15.
+
+  63.  Vargas P, Farias GA, Nogales J, Prada H, Carvajal V, Barón M, et al. Plant 
+flavonoids target Pseudomonas syringae pv. tomato DC3000 flagella 
+and type III secretion system. Environ Microbiol Rep. 2013;5(6):841–50.
+
+ Wang et al. Microbiome          (2022) 10:233 
+
+Page 12 of 13
+
+  64.  Santamaría‑Hernando S, Senovilla M, González‑Mula A, Martínez‑García 
+
+PM, Nebreda S, Rodríguez‑Palenzuela P, et al. The Pseudomonas syrin‑
+gae pv. tomato DC3000 PSPTO_0820 multidrug transporter is involved 
+in resistance to plant antimicrobials and bacterial survival during 
+tomato plant infection. PLoS One. 2019;14(6):e0218815.
+
+  65.  Zhou H, Lin J, Johnson A, Morgan RL, Zhong W, Ma W. Pseudomonas 
+
+syringae type III effector HopZ1 targets a host enzyme to suppress 
+isoflavone biosynthesis and promote infection in soybean. Cell Host 
+Microbe. 2011;9(3):177–86.
+
+  66.  Chen J, Ullah C, Reichelt M, Gershenzon J, Hammerbacher A. Sclerotinia 
+
+sclerotiorum circumvents flavonoid defenses by catabolizing flavonol 
+glycosides and aglycones. Plant Physiol. 2019;180(4):1975–87.
+  67.  Bowater L, Fairhurst SA, Just VJ, Bornemann S. Bacillus subtilis YxaG 
+is a novel Fe‑containing quercetin 2,3‑dioxygenase. FEBS Lett. 
+2004;557(1‑3):45–8.
+
+  68.  Banfalvi Z, Nieuwkoop A, Schell M, Besl L, Stacey G. Regulation of 
+
+nod gene expression in Bradyrhizobium japonicum. Mol Gen Genet. 
+1988;214(3):420–4.
+
+  69.  Hartwig UA, Joseph CM, Phillips DA. Flavonoids released naturally from 
+Alfalfa seeds enhance growth rate of Rhizobium meliloti. Plant Physiol. 
+1991;95(3):797–803.
+
+  70.  Subramanian S, Stacey G, Yu O. Endogenous isoflavones are essential 
+for the establishment of symbiosis between soybean and Bradyrhizo‑
+bium japonicum. Plant J. 2006;48(2):261–73.
+
+  71.  Zhang J, Subramanian S, Zhang Y, Yu O. Flavone synthases from Med‑
+icago truncatula are flavanone‑2‑hydroxylases and are important for 
+nodulation. Plant Physiol. 2007;144(2):741–51.
+
+  72.  Liu Y, Yin X, Xiao J, Tang L, Zheng Y. Interactive influences of intercrop‑
+
+ping by nitrogen on flavonoid exudation and nodulation in faba bean. 
+Sci Rep. 2019;9(1):4818.
+
+  85.  Tsai SM, Phillips DA. Flavonoids released naturally from alfalfa promote 
+development of symbiotic glomus spores in vitro. Appl Environ Micro‑
+biol. 1991;57(5):1485–8.
+
+  86.  Tian B, Pei Y, Huang W, Ding J, Siemann E. Increasing flavonoid concen‑
+
+trations in root exudates enhance associations between arbuscular 
+mycorrhizal fungi and an invasive plant. ISME J. 2021;15(7):1919–30.
+
+  87.  Mechri B, Tekaya M, Cheheb H, Attia F, Hammami M. Accumulation of 
+
+flavonoids and phenolic compounds in olive tree roots in response 
+to mycorrhizal colonization: a possible mechanism for regulation of 
+defense molecules. J Plant Physiol. 2015;185:40–3.
+
+  88.  Zubek S, Rola K, Szewczyk A, Majewska ML, Turnau K. Enhanced con‑
+
+centrations of elements and secondary metabolites in Viola tricolor L. 
+induced by arbuscular mycorrhizal fungi. Plant Soil. 2015;390(1):129–42.
+
+  89.  Eftekhari M, Alizadeh M, Ebrahimi P. Evaluation of the total phenolics 
+
+and quercetin content of foliage in mycorrhizal grape (Vitis vinifera L.) 
+varieties and effect of postharvest drying on quercetin yield. Ind Crop 
+Prod. 2012;38:160–5.
+
+  90.  Kamali S, Mehraban A. Nitroxin and arbuscular mycorrhizal fungi 
+
+alleviate negative effects of drought stress on Sorghum bicolor yield 
+through improving physiological and biochemical characteristics. Plant 
+Signal Behav. 2020;15(11):1813998.
+
+  91.  Lugtenberg B, Kamilova F. Plant‑growth‑promoting rhizobacteria. Annu 
+
+Rev Microbiol. 2009;63:541–56.
+
+  92.  Nazari F, Safaie N, Soltani BM, Shams‑Bakhsh M, Sharifi M. Bacillus subti‑
+
+lis affects miRNAs and flavanoids production in Agrobacterium‑tobacco 
+interaction. Plant Physiol Biochem. 2017;118:98–106.
+
+  93.  Yu XQ, Yan X, Zhang MY, Zhang LQ, He YX. Flavonoids repress the 
+production of antifungal 2,4‑DAPG but potentially facilitate root 
+colonization of the rhizobacterium Pseudomonas fluorescens. Environ 
+Microbiol. 2020;22(12):5073–89.
+
+  73.  Zhang J, Subramanian S, Stacey G, Yu O. Flavones and flavonols play 
+
+  94.  Tiwari S, Singh P, Tiwari R, Meena KK, Yandigeri M, Singh DP, et al. Salt‑
+
+distinct critical roles during nodulation of Medicago truncatula by 
+Sinorhizobium meliloti. Plant J. 2009;57(1):171–83.
+
+  74.  Mathesius U, Schlaman HR, Spaink HP, Of Sautter C, Rolfe BG, Djordjevic 
+MA. Auxin transport inhibition precedes root nodule formation in white 
+clover roots and is regulated by flavonoids and derivatives of chitin 
+oligosaccharides. Plant J. 1998;14(1):23–34.
+
+  75.  Ng JL, Hassan S, Truong TT, Hocart CH, Laffont C, Frugier F, et al. Flavo‑
+
+noids and auxin transport inhibitors rescue symbiotic nodulation in 
+the Medicago truncatula cytokinin perception mutant cre1. Plant Cell. 
+2015;27(8):2210–26.
+
+  76.  Laplaze L, Gherbi H, Frutz T, Pawlowski K, Franche C, Macheix JJ, et al. 
+
+Flavan‑containing cells delimit Frankia‑infected compartments in Casu‑
+arina glauca nodules. Plant Physiol. 1999;121(1):113–22.
+
+  77.  Benoit LF, Berry AM. Flavonoid‑like compounds from seeds of red alder 
+
+(Alnus rubra) influence host nodulation by Frankia (Actinomycetales). 
+Physiol Plant. 1997;99(4):588–93.
+
+  78.  Popovici J, Comte G, Bagnarol E, Alloisio N, Fournier P, Bellvert F, et al. 
+
+Differential effects of rare specific flavonoids on compatible and incom‑
+patible strains in the Myrica gale‑Frankia actinorhizal symbiosis. Appl 
+Environ Microbiol. 2010;76(8):2451–60.
+
+  79.  Hocher V, Alloisio N, Auguy F, Fournier P, Doumas P, Pujic P, et al. 
+Transcriptomics of actinorhizal symbioses reveals homologs of 
+the whole common symbiotic signaling cascade. Plant Physiol. 
+2011;156(2):700–11.
+
+  80.  Abdel‑Lateif K, Vaissayre V, Gherbi H, Verries C, Meudec E, Perrine‑Walker 
+
+F, et al. Silencing of the chalcone synthase gene in Casuarina glauca 
+highlights the important role of flavonoids during nodulation. New 
+Phytol. 2013;199(4):1012–21.
+
+  81.  Tedersoo L, Bahram M, Zobel M. How mycorrhizal associations drive 
+plant population and community biology. Science. 2020;367(6480).
+
+  82.  Zipfel C, Oldroyd GE. Plant signalling in symbiosis and immunity. 
+
+Nature. 2017;543(7645):328–36.
+
+  83.  Mori N, Nishiuma K, Sugiyama T, Hayashi H, Akiyama K. Carlactone‑
+
+type strigolactones and their synthetic analogues as inducers of 
+hyphal branching in arbuscular mycorrhizal fungi. Phytochemistry. 
+2016;130:90–8.
+
+tolerant rhizobacteria‑mediated induced tolerance in wheat (Triticum 
+aestivum) and chemical diversity in rhizosphere enhance plant growth. 
+Biol Fertil Soils. 2011;47(8):907.
+
+  95.  Qin S, Feng WW, Zhang YJ, Wang TT, Xiong YW, Xing K. Diversity of bac‑
+terial microbiota of coastal halophyte limonium sinense and ameliora‑
+tion of salinity stress damage by symbiotic plant growth‑promoting 
+actinobacterium glutamicibacter halophytocola KLBMP 5180. Appl 
+Environ Microbiol. 2018;84(19).
+
+  96.  Xiong YW, Li XW, Wang TT, Gong Y, Zhang CM, Xing K, et al. Root exu‑
+dates‑driven rhizosphere recruitment of the plant growth‑promoting 
+rhizobacterium Bacillus flexus KLBMP 4941 and its growth‑promoting 
+effect on the coastal halophyte Limonium sinense under salt stress. 
+Ecotoxicol Environ Saf. 2020;194:110374.
+
+  97.  El‑Esawi MA, Al‑Ghamdi AA, Ali HM, Alayafi AA. Azospirillum lipoferum 
+FK1 confers improved salt tolerance in chickpea (Cicer arietinum L.) by 
+modulating osmolytes, antioxidant machinery and stress‑related genes 
+expression. Environ Exp Bot. 2019;159:55–65.
+
+  98.  El‑Esawi MA, Alaraidh IA, Alsahli AA, Alamri SA, Ali HM, Alayafi AA. 
+Bacillus firmus (SW5) augments salt tolerance in soybean (Glycine 
+max L.) by modulating root system architecture, antioxidant defense 
+systems and stress‑responsive genes expression. Plant Physiol Biochem. 
+2018;132:375–84.
+
+  99.  Asghari B, Khademian R, Sedaghati B. Plant growth promoting rhizo‑
+
+bacteria (PGPR) confer drought resistance and stimulate biosynthesis 
+of secondary metabolites in pennyroyal (Mentha pulegium L.) under 
+water shortage condition. Sci Hortic. 2020;263:109132.
+
+ 100.  He D, Singh SK, Peng L, Kaushal R, Vílchez JI, Shao C, et al. Flavonoid‑
+
+attracted Aeromonas sp. from the Arabidopsis root microbiome 
+enhances plant dehydration resistance. ISME J. 2022.
+
+ 101.  Alexander A, Singh VK, Mishra A, Jha B. Plant growth promoting rhizo‑
+bacterium Stenotrophomonas maltophilia BJ01 augments endurance 
+against N2 starvation by modulating physiology and biochemical 
+activities of Arachis hypogea. PLoS One. 2019;14(9):e0222405.
+ 102.  Yu P, He X, Baer M, Beirinckx S, Tian T, Moya YAT, et al. Plant flavones 
+
+enrich rhizosphere Oxalobacteraceae to improve maize performance 
+under nitrogen deprivation. Nat Plants. 2021;7(4):481–99.
+
+  84.  Poulin MJ, Bel‑Rhlid R, Piché Y, Chênevert R. Flavonoids released by 
+carrot (Daucus carota) seedlings stimulate hyphal development of 
+vesicular‑arbuscular mycorrhizal fungi in the presence of optimal  CO2 
+enrichment. J Chem Ecol. 1993;19(10):2317–27.
+
+ 103.  Yan D, Tajima H, Cline LC, Fong RY, Ottaviani JI, Shapiro HY, et al. Genetic 
+modification of flavone biosynthesis in rice enhances biofilm formation 
+of soil diazotrophic bacteria and biological nitrogen fixation. Plant 
+Biotechnol J. 2022.
+
+Wang et al. Microbiome          (2022) 10:233 
+
+Page 13 of 13
+
+in vitro gut microbiota modulatory, anti‑inflammatory, and free radical 
+scavenging properties. J Agric Food Chem. 2018;66(35):9309–17.
+
+ 126.  Shi T, Bian X, Yao Z, Wang Y, Gao W, Guo C. Quercetin improves gut 
+
+dysbiosis in antibiotic‑treated mice. Food Funct. 2020;11(9):8003–13.
+ 127.  Shabbir U, Rubab M, Daliri EB, Chelliah R, Javed A, Oh DH. Curcumin, 
+
+quercetin, catechins and metabolic diseases: the role of gut microbiota. 
+Nutrients. 2021;13(1).
+
+ 128.  Wang L, Huang G, Hou R, Qi D, Wu Q, Nie Y, et al. Multi‑omics reveals the 
+positive leverage of plant secondary metabolites on the gut microbiota 
+in a non‑model mammal. Microbiome. 2021;9(1):192.
+
+ 129.  Clocchiatti A, Hannula SE, van den Berg M, Hundscheid MPJ, de Boer W. 
+Evaluation of phenolic root exudates as stimulants of saptrophic fungi 
+in the rhizosphere. Front Microbiol. 2021;12:644046.
+
+ 130.  Catalán M, Ferreira J, Carrasco‑Pozo C. The microbiota‑derived 
+
+metabolite of quercetin, 3,4‑dihydroxyphenylacetic acid prevents 
+malignant transformation and mitochondrial dysfunction induced by 
+hemin in colon cancer and normal colon epithelia cell lines. Molecules. 
+2020;25(18).
+
+ 131.  Li M, Wei Z, Wang J, Jousset A, Friman VP, Xu Y, et al. Facilitation pro‑
+
+motes invasions in plant‑associated microbial communities. Ecol Lett. 
+2019;22(1):149–58.
+
+ 132.  Bhardwaj D, Ansari MW, Sahoo RK, Tuteja N. Biofertilizers function as key 
+
+player in sustainable agriculture by improving soil fertility, plant toler‑
+ance and crop productivity. Microb Cell Factories. 2014;13:66.
+ 133.  Shaw LJ, Morris P, Hooker JE. Perception and modification of plant 
+
+flavonoid signals by rhizosphere microorganisms. Environ Microbiol. 
+2006;8(11):1867–80.
+
+ 134.  Tohge T, de Souza LP, Fernie AR. Current understanding of the path‑
+ways of flavonoid biosynthesis in model and crop plants. J Exp Bot. 
+2017;68(15):4013–28.
+
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in pub‑
+lished maps and institutional affiliations.
+
+ 104.  Trinh CS, Jeong CY, Lee WJ, Truong HA, Chung N, Han J, et al. Paenibacil‑
+
+lus pabuli strain P7S promotes plant growth and induces anthocya‑
+nin accumulation in Arabidopsis thaliana. Plant Physiol Biochem. 
+2018;129:264–72.
+
+ 105.  Salla TD, da Silva R, Astarita LV, Santarém ER. Streptomyces rhizobacteria 
+modulate the secondary metabolism of Eucalyptus plants. Plant Physiol 
+Biochem. 2014;85:14–20.
+
+ 106.  Miotto‑Vilanova L, Courteaux B, Padilla R, Rabenoelina F, Jacquard C, 
+Clément C, et al. Impact of Paraburkholderia phytofirmans PsJN on 
+grapevine phenolic metabolism. Int J Mol Sci. 2019;20(22).
+
+ 107.  Von Bodman SB, Bauer WD, Coplin DL. Quorum sensing in plant‑patho‑
+
+genic bacteria. Annu Rev Phytopathol. 2003;41:455–82.
+
+ 108.  Rao JR, Cooper JE. Rhizobia catabolize nod gene‑inducing flavonoids 
+via C‑ring fission mechanisms. J Bacteriol. 1994;176(17):5409–13.
+
+ 109.  Schaefer AL, Greenberg EP, Oliver CM, Oda Y, Huang JJ, Bittan‑Banin 
+G, et al. A new class of homoserine lactone quorum‑sensing signals. 
+Nature. 2008;454(7204):595–9.
+
+ 110.  Pérez‑Montaño F, Guasch‑Vidal B, González‑Barroso S, López‑Baena 
+
+FJ, Cubo T, Ollero FJ, et al. Nodulation‑gene‑inducing flavonoids 
+increase overall production of autoinducers and expression of N‑acyl 
+homoserine lactone synthesis genes in rhizobia. Res Microbiol. 
+2011;162(7):715–23.
+
+ 111.  Mathesius U, Mulders S, Gao M, Teplitski M, Caetano‑Anolles G, Rolfe 
+BG, et al. Extensive and specific responses of a eukaryote to bacterial 
+quorum‑sensing signals. Proc Natl Acad Sci U S A. 2003;100(3):1444–9.
+
+ 112.  Han S, Li D, Trost E, Mayer KF, Vlot AC, Heller W, et al. Systemic responses 
+
+of barley to the 3‑hydroxy‑decanoyl‑homoserine lactone producing 
+plant beneficial endophyte Acidovorax radicis N35. Front Plant Sci. 
+1868;2016:7.
+
+ 113.  Paczkowski JE, Mukherjee S, McCready AR, Cong JP, Aquino CJ, Kim 
+
+H, et al. Flavonoids suppress Pseudomonas aeruginosa virulence 
+through allosteric inhibition of quorum‑sensing receptors. J Biol Chem. 
+2017;292(10):4064–76.
+
+ 114.  Hernando‑Amado S, Alcalde‑Rico M, Gil‑Gil T, Valverde JR, Martínez JL. 
+
+Naringenin inhibition of the Pseudomonas aeruginosa quorum sensing 
+response is based on its time‑dependent competition with N‑(3‑Oxo‑
+dodecanoyl)‑L‑homoserine lactone for LasR binding. Front Mol Biosci. 
+2020;7:25.
+
+ 115.  Vandeputte OM, Kiendrebeogo M, Rajaonson S, Diallo B, Mol A, El Jaziri 
+
+M, et al. Identification of catechin as one of the flavonoids from Com‑
+bretum albiflorum bark extract that reduces the production of quorum‑
+sensing‑controlled virulence factors in Pseudomonas aeruginosa PAO1. 
+Appl Environ Microbiol. 2010;76(1):243–53.
+
+ 116.  Mu Y, Zeng H, Chen W. Quercetin inhibits biofilm formation by decreas‑
+ing the production of eps and altering the composition of EPS in 
+Staphylococcus epidermidis. Front Microbiol. 2021;12:631058.
+ 117.  Schütz V, Frindte K, Cui J, Zhang P, Hacquard S, Schulze‑Lefert P, et al. 
+Differential impact of plant secondary metabolites on the soil micro‑
+biota. Front Microbiol. 2021;12:666010.
+
+ 118.  White LJ, Ge X, Brözel VS, Subramanian S. Root isoflavonoids and hairy 
+root transformation influence key bacterial taxa in the soybean rhizos‑
+phere. Environ Microbiol. 2017;19(4):1391–406.
+
+ 119.  Yang G, Hong S, Yang P, Sun Y, Wang Y, Zhang P, et al. Discovery of an 
+
+ene‑reductase for initiating flavone and flavonol catabolism in gut 
+bacteria. Nat Commun. 2021;12(1):790.
+
+ 120.  Kim M, Lee J, Han J. Deglycosylation of isoflavone C‑glycosides 
+
+by newly isolated human intestinal bacteria. J Sci Food Agric. 
+2015;95(9):1925–31.
+
+ 121.  Kim M, Kim N, Han J. Deglycosylation of flavonoid O‑glucosides by 
+
+human intestinal bacteria Enterococcus sp. MRG‑2 and Lactococcus sp. 
+MRG‑IF‑4. Applied. Biol Chem. 2016;59(3):443–9.
+
+ 122.  Burapan S, Kim M, Han J. Demethylation of polymethoxyflavones by 
+
+ 123. 
+
+human gut bacterium, Blautia sp. MRG‑PMF1. J Agric Food Chem. 
+2017;65(8):1620–9.
+Ivey KL, Chan AT, Izard J, Cassidy A, Rogers GB, Rimm EB. Role of dietary 
+flavonoid compounds in driving patterns of microbial community 
+assembly. mBio. 2019;10(5).
+
+ 124.  York A. Your microbiome is what you eat. Nat Rev Microbiol. 
+
+2019;17(12):721.
+
+ 125.  Choe U, Li Y, Gao B, Yu L, Wang TTY, Sun J, et al. Chemical compositions 
+
+of cold‑pressed broccoli, carrot, and cucumber seed flours and their 
+
+ • fast, convenient online submission •  thorough peer review by experienced researchers in your ﬁeld•  rapid publication on acceptance•  support for research data, including large and complex data types•  gold Open Access which fosters wider collaboration and increased citations  maximum visibility for your research: over 100M website views per year •  At BMC, research is always in progress.Learn more biomedcentral.com/submissionsReady to submit your researchReady to submit your research  ?  Choose BMC and benefit from: ?  Choose BMC and benefit from: 

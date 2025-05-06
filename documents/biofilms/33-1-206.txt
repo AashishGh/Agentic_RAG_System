@@ -1,0 +1,5291 @@
+R E V I E W A R T I C L E
+
+The sociobiology of bio¢lms
+Carey D. Nadell1,2, Joao B. Xavier3 & Kevin R. Foster3
+
+1Department of Ecology and Evolutionary Biology, Princeton University, Princeton, NJ, USA; 2Department of Molecular Biology, Princeton University,
+Princeton, NJ, USA; and 3Center for Systems Biology, Harvard University, Cambridge, MA, USA
+
+Correspondence: Kevin R. Foster, Center for
+Systems Biology, Harvard University,
+Cambridge, MA 02138, USA. Tel.: 11 617
+496 3112; fax: 11 617 495 2196; e-mail:
+kfoster@cgr.harvard.edu
+
+Received 2 July 2008; revised 18 September
+2008; accepted 24 October 2008.
+First published online December 2008.
+
+DOI:10.1111/j.1574-6976.2008.00150.x
+
+Editor: Michael Galperin
+
+Keywords
+bioﬁlm; social evolution; collective behavior;
+self-organization; cooperation.
+
+Abstract
+
+Bioﬁlms are densely packed communities of microbial cells that grow on surfaces
+and surround themselves with secreted polymers. Many bacterial species form bioﬁlms,
+and their study has revealed them to be complex and diverse. The structural and
+physiological complexity of bioﬁlms has led to the idea that they are coordinated and
+cooperative groups, analogous to multicellular organisms. We evaluate this idea by
+addressing the ﬁndings of microbiologists from the perspective of sociobiology,
+including theories of collective behavior (self-organization) and social evolution. This
+yields two main conclusions. First, the appearance of organization in bioﬁlms can
+emerge without active coordination. That is, bioﬁlm properties such as phenotypic
+differentiation, species stratiﬁcation and channel formation do not necessarily require
+that cells communicate with one another using specialized signaling molecules. Second,
+while local cooperation among bacteria may often occur, the evolution of cooperation
+among all cells is unlikely for most bioﬁlms. Strong conﬂict can arise among multiple
+species and strains in a bioﬁlm, and spontaneous mutation can generate conﬂict even
+within bioﬁlms initiated by genetically identical cells. Bioﬁlms will typically result from
+a balance between competition and cooperation, and we argue that understanding this
+balance is central to building a complete and predictive model of bioﬁlm formation.
+
+Introduction
+
+Bacteria are gregarious organisms that commonly form densely
+populated communities, known as bioﬁlms. These microbial
+collectives, which are typically encased in secreted polymers,
+occupy many biotic and abiotic surfaces and frequently contain
+multiple species (Fig. 1). The ubiquity of bioﬁlms in the natural
+environment, including plant and animal hosts, suggests that
+living in groups is critical for bacterial ecology and evolution
+(Hall-Stoodley et al., 2004). Bacterial aggregates directly impact
+human lives as well. Bioﬁlm-dwelling cells appear more tolerant
+to antibiotics than planktonic cells and are responsible for many
+health threats, including acute and chronic infections and the
+degradation of implanted prosthetic devices (Watnik & Kolter,
+1999; Stewart, 2002; Mah et al., 2003; Heithoff & Mahan, 2004;
+Costerton et al., 2005; Fux et al., 2005; Lee et al., 2005; Obst
+et al., 2006; Manos et al., 2007). Bacterial bioﬁlms also
+contaminate drinking water distribution systems and cause a
+multitude of industrial problems associated with biofouling
+(Jass & Walker, 2000).
+
+The signiﬁcance of bioﬁlms for microbial ecology and
+human society has motivated an enormous amount of
+
+research on the genetic, biochemical, and physical mechan-
+isms underlying bioﬁlm formation (Hall-Stoodley et al.,
+2004). This work has shown that the characteristics of bioﬁlms
+often differ both within and among species as culture condi-
+tions change. Diverse bacterial groups form bioﬁlms with
+different composition and structure (Beloin & Ghigo, 2005),
+to the extent that the term bioﬁlm may sometimes be too
+readily applied (Moxon et al., 2008). However, many bioﬁlms
+do share common features that set them apart from popula-
+tions of planktonic cells, and a growing consensus holds that
+these bacterial communities are functional entities in which
+cells display speciﬁc adaptations to bioﬁlm life (O’Toole et al.,
+2000a; Hall-Stoodley & Stoodley, 2002; Sauer et al., 2002;
+Stoodley et al., 2002; Webb et al., 2003a).
+
+Bioﬁlm growth is usually depicted as a series of discrete
+stages in a life cycle (Stoodley et al., 2002), which begins
+when planktonic cells contact a surface, either randomly or
+by taxis toward chemical attractants (Freter & Obrien, 1981;
+Pratt & Kolter, 1998; Meibom et al., 2004). Initial attach-
+ment is often reversible such that cells can depart from a
+surface if conditions change. Some bacteria can also position
+themselves using extracellular pilli, which act as miniature
+
+c(cid:1) 2008 Federation of European Microbiological Societies
+Published by Blackwell Publishing Ltd. All rights reserved
+
+FEMS Microbiol Rev 33 (2009) 206–224
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+f
+r
+o
+m
+h
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+f
+
+l
+
+/
+
+/
+
+/
+
+/
+
+/
+
+e
+m
+s
+r
+e
+a
+r
+t
+i
+c
+e
+3
+3
+1
+2
+0
+6
+2
+6
+8
+3
+8
+1
+2
+b
+y
+L
+o
+m
+m
+e
+n
+H
+e
+a
+
+l
+t
+
+i
+
+i
+
+h
+S
+c
+e
+n
+c
+e
+s
+L
+b
+r
+a
+r
+y
+u
+s
+e
+r
+o
+n
+2
+3
+F
+e
+b
+r
+u
+a
+r
+y
+2
+0
+2
+4
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sociobiology of bioﬁlms
+
+207
+
+Fig. 1. Bioﬁlms often have structural features
+that appear to suggest coordination or coopera-
+tion among bacteria. (a) Monospecies bioﬁlms of
+Pseudomonas aeruginosa with a subpopulation
+of cells differentiating into diverse phenotypes
+that lead to localized cell death (Webb et al.,
+2003b). (b) Floating bioﬁlms of Bacillus subtilis
+form multicellular aerial structures similar to
+fruiting bodies (inset) in which cells sporulate
+(Branda et al., 2001). (c) Natural bioﬁlms such as
+those found on riverbeds can contain many
+species (cyanobacteria in pink, green algae in
+blue, EPS in green; courtesy of T. Neu). (d)
+Different species in a bioﬁlm may separate into
+discrete layers according to their metabolic
+properties as the bioﬁlm matures (Roeselers et al.,
+2008). (e, f) Evolution of species interactions
+between Acinetobacter sp. C6 (red) and
+Pseudomonas putida (green) in a ﬂowcell leads to
+a more productive bioﬁlm; this occurs not by
+mutual cooperation but by an increase in the
+efﬁciency with which one species exploits the
+other (Hansen et al., 2007).
+
+grappling hooks and allow cells to move over each other
+(Klausen et al., 2003a) or along a solid substrate (O’Toole &
+Kolter, 1998). More stable surface attachment can be
+achieved via speciﬁc adhesin molecules (Hinsa et al., 2003;
+Latasa et al., 2005). For example, the opportunistic pathogen
+Pseudomonas aeruginosa binds disaccharide units within the
+mucus lining of the human lung (Wilson et al., 1996), and
+Vibrio cholerae attaches to chitin polymers in the exoskele-
+tons of marine crustaceans (Meibom et al., 2004).
+
+After surface attachment, bacteria grow and divide to
+form the dense cell groups that characterize bioﬁlms. Micro-
+array studies indicate that diverse model species – including
+P. aeruginosa, V. cholerae, Escherichia coli, and Staphylococcus
+
+aureus – differentially express as much as 10% of their
+genomes when in bioﬁlm vs. planktonic growth conditions
+(Schoolnik et al., 2001; Whiteley et al., 2001; Schembri et al.,
+2003; Beenken et al., 2004). As might be expected, these
+altered transcriptional proﬁles are associated with phenotypic
+changes in cell–cell and cell–surface adhesion, metabolism,
+motility, and extracellular product secretion. However, gene
+expression studies also illustrate that bioﬁlms of different
+strains or species may be as different from one another as
+they are from a planktonic population (Beloin & Ghigo,
+2005). Individual bioﬁlms are themselves heterogeneous:
+genetically identical cells in a bioﬁlm can diverge in a
+wide variety of traits, including basic metabolic activity
+
+FEMS Microbiol Rev 33 (2009) 206–224
+
+c(cid:1) 2008 Federation of European Microbiological Societies
+Published by Blackwell Publishing Ltd. All rights reserved
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+f
+r
+o
+m
+h
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+f
+
+l
+
+/
+
+/
+
+/
+
+/
+
+/
+
+e
+m
+s
+r
+e
+a
+r
+t
+i
+c
+e
+3
+3
+1
+2
+0
+6
+2
+6
+8
+3
+8
+1
+2
+b
+y
+L
+o
+m
+m
+e
+n
+H
+e
+a
+
+l
+t
+
+i
+
+i
+
+h
+S
+c
+e
+n
+c
+e
+s
+L
+b
+r
+a
+r
+y
+u
+s
+e
+r
+o
+n
+2
+3
+F
+e
+b
+r
+u
+a
+r
+y
+2
+0
+2
+4
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+208
+
+C.D. Nadell et al.
+
+(Xu et al., 1998), antibiotic tolerance (Balaban et al., 2004),
+spore formation (Branda et al., 2001), and the secretion of
+extracellular polymers (Vasseur et al., 2005; Vlamakis et al.,
+2008).
+
+Secreted polymers are a deﬁning feature of bioﬁlms. Cells
+typically produce and embed themselves in a matrix of
+extracellular polymeric substances (EPS) composed of poly-
+saccharides and smaller amounts of protein and DNA
+(Beenken et al., 2004; Hall-Stoodley et al., 2004; Braxton
+et al., 2005; Flemming et al., 2007). The functions of EPS are
+not yet clear, but it appears to promote surface attachment
+and provide structural support; mutants that cannot pro-
+duce EPS are often deﬁcient in bioﬁlm formation (Davies
+et al., 1993; Danese et al., 2000; Hammer & Bassler, 2003;
+Kearns et al., 2005). EPS may also afford protection from
+external threats, such as antimicrobial compounds and
+predatory organisms (Mah & O’Toole, 2001; Stewart, 2002;
+Fux et al., 2005; Matz et al., 2005), or help secreting strains
+to grow toward nutrient-rich locations (Foster & Xavier,
+2007; Xavier & Foster, 2007; Nadell et al., 2008). To disperse
+from a bioﬁlm, however, bacteria must also be able to escape
+the binding properties of EPS. Detachment can occur by
+ﬂuid ﬂow shearing off cells (Telgmann et al., 2004), or by
+active processes on the part of bacteria. For example,
+V. cholerae cells appear to encourage dispersal by secreting
+enzymes that break down the surrounding structural matrix
+(Hammer & Bassler, 2003; Zhu & Mekalanos, 2003; Heithoff
+& Mahan, 2004; Liu et al., 2007).
+
+An enduring question is how bacteria regulate the changes
+in gene expression underlying the changes in cell behavior that
+characterize bioﬁlms. Although no single mechanism is
+responsible (Hall-Stoodley et al., 2004), many species use
+quorum sensing to modulate surface attachment (Dunne,
+2002), motility (Schuster & Greenberg, 2006), EPS production
+(Davies et al., 1998; Hammer & Bassler, 2003; Sakuragi &
+Kolter, 2007), and dispersal (Allison et al., 1999; Dow et al.,
+2003). Quorum sensing entails the secretion and detection of
+small diffusible molecules, often known as autoinducers.
+Bacteria are thought to use autoinducer concentrations as a
+proxy for population density and thereby tune their behavior
+according to the local abundance of other cells (Miller &
+Bassler, 2001; Waters & Bassler, 2005; Bassler & Losick, 2006).
+It is also possible that bacteria use quorum sensing to monitor
+the extent of diffusion and ﬂuid ﬂow in their local micro-
+environment (Redﬁeld, 2002; Hense et al., 2007). Most species
+upregulate bioﬁlm-associated behaviors at high cell density,
+and some mutant strains that can no longer detect autoindu-
+cers are unable to form bioﬁlms (Parsek & Greenberg, 2005).
+There are interesting exceptions to this pattern, however:
+V. cholerae, the pathogenic agent responsible for pandemic
+cholera among humans, downregulates bioﬁlm-associated
+behavior at high cell density. Mutants of this species that
+cannot detect autoinducers form exceptionally large bioﬁlms
+
+the impact of
+(Hammer & Bassler, 2003). Importantly,
+quorum-sensing regulation on bioﬁlm formation can depend
+strongly on environmental conditions. While P. aeruginosa is
+known to regulate behaviors such as EPS secretion via quorum
+sensing (Davies et al., 1998; Sakuragi & Kolter, 2007), for
+example, there are some culture conditions in which quorum-
+sensing null mutants and wild-type bacteria produce indis-
+tinguishable bioﬁlms (Purevdorj et al., 2002).
+
+The use of quorum-sensing and environmental cues to
+regulate transitions between seemingly discrete bioﬁlm life-
+stages has fostered the idea that bioﬁlms emerge from a
+bacterial developmental program, analogous to those of
+multicellular organisms (O’Toole et al., 2000b; Danese et al.,
+2001; Hall-Stoodley & Stoodley, 2002; Stoodley et al., 2002;
+Webb et al., 2003a). Some have further hypothesized that
+whole-group coordination – energetically costly intercellular
+signaling over spatial scales much larger than that of a single
+cell (Keller & Surette, 2006) – is required for the production of
+the heterogeneous and apparently complex bioﬁlm structures
+observed in many species (Stoodley et al., 2002). Further, a
+prevailing rhetoric within the literature tends, both explicitly
+and implicitly, to cast bioﬁlms as aggregates in which indivi-
+dual cells cooperate with each other. It is presumed that
+bioﬁlm-dwelling bacteria display altruistic behavior, decreas-
+ing their own ﬁtness – that is, their reproductive output – in
+order to increase the ﬁtness of other cells and thereby beneﬁt
+the bioﬁlm community as a whole (Table 1).
+
+Because of their strength in numbers, bacteria residing at
+high density in bioﬁlms can achieve protection from external
+threats and impact their biotic and abiotic environments
+in ways that are simply impossible for individual cells
+(Stewart, 2003b). Does this mean that bioﬁlms are multi-
+cellular in analogy to a metazoan organism, or could it be that
+bioﬁlms are merely multiorganismal, similar in principle to a
+
+Table 1. The four types of social behavior, deﬁned by their effect on the
+direct ﬁtness (lifetime reproduction) of the actor and recipient
+
+Effect on actor
+
+1
+(cid:2)
+
+Effect on recipient
+
+1
+
+Mutualism
+Altruism (Coordination(cid:1))
+
+Cooperation
+
+(cid:2)
+
+Selﬁshness
+Spite
+
+Competition
+
+Based on Hamilton (1964). A common proxy for direct ﬁtness for many
+microorganisms is their rate of cell division. For example, consider a
+microorganism that secretes a costly product that beneﬁts all cells in its
+neighborhood, including itself. This is an example of cooperation, and if
+secreting such a product causes a net decrease in the focal cell’s growth
+rate, it is also an example of altruism.
+(cid:1)In our review, we deﬁne coordination as processes that rely on
+cooperative signaling among cells, which is likely to involve the altruistic
+production of one or more signaling molecules.
+
+c(cid:1) 2008 Federation of European Microbiological Societies
+Published by Blackwell Publishing Ltd. All rights reserved
+
+FEMS Microbiol Rev 33 (2009) 206–224
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+f
+r
+o
+m
+h
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+f
+
+l
+
+/
+
+/
+
+/
+
+/
+
+/
+
+e
+m
+s
+r
+e
+a
+r
+t
+i
+c
+e
+3
+3
+1
+2
+0
+6
+2
+6
+8
+3
+8
+1
+2
+b
+y
+L
+o
+m
+m
+e
+n
+H
+e
+a
+
+l
+t
+
+i
+
+i
+
+h
+S
+c
+e
+n
+c
+e
+s
+L
+b
+r
+a
+r
+y
+u
+s
+e
+r
+o
+n
+2
+3
+F
+e
+b
+r
+u
+a
+r
+y
+2
+0
+2
+4
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sociobiology of bioﬁlms
+
+209
+
+ﬂock of birds, a school of ﬁsh, or a swarm of insects? One can
+evaluate this question by examining the proximate mechan-
+isms that regulate bioﬁlm formation, which is the subject of
+another upcoming review (Monds & O’Toole, 2008). One may
+alternatively dissect the ultimate causes of bioﬁlm formation
+from the perspective of evolutionary biology, which is the
+purpose of our present paper. Speciﬁcally, our goal is to
+critically evaluate the idea that physical and biological com-
+plexity in bioﬁlms is a product of coordination and coopera-
+tion among the bacteria residing within them.
+
+Why is it important to understand whether group-living
+bacteria truly cooperate with each other? We will argue that
+understanding the degree to which bioﬁlms rely on coopera-
+tion among their constituent cells is critical to any predictive
+model of bioﬁlm formation and to the design of effective
+strategies for combating bioﬁlm infections. While coordina-
+tion and cooperation among bioﬁlm-dwelling bacteria are
+conceivable, two branches of theory warn against assuming
+that bioﬁlm complexity is evidence of a harmonious social
+group. First, the theory of collective behavior shows that
+apparently coordinated aggregates can emerge from the
+uncoordinated activity of many individuals following sim-
+ple behavioral rules (Box 1; see section ‘Bioﬁlm complexity
+without coordination’). Second, evolutionary theory pre-
+dicts that cooperation can only evolve under special circum-
+stances (Box 2; see section ‘Competition and cooperation in
+bioﬁlms’), and that competition will play a strong role
+governing the behavior of most organisms living in close
+proximity (Alexander, 1974). In particular, many bioﬁlms
+contain multiple strains and species (Kolenbrander, 2000;
+Burns et al., 2001), among which competitive interactions
+are likely to be common (Hansen et al., 2007).
+
+Biofilm complexity without coordination
+
+Bioﬁlms are not merely a collection of cells that all behave
+identically; on the contrary, bacterial groups are heteroge-
+neous by most measures currently available to describe them
+(Stewart & Franklin, 2008). Fluorescence microscopy reveals
+that mono- and multispecies bioﬁlms contain segregated
+subpopulations with different phenotypic and physiological
+properties. Furthermore, bioﬁlm surfaces are often rugged
+and uneven, containing large multicellular towers inter-
+weaved by ﬂuid-ﬁlled channels (De Beer et al., 1994a).
+
+Heterogeneity in physiological state and spatial structure
+appears to be a fundamental feature of bioﬁlms that is
+associated with their increased antibiotic tolerance and
+pathogenicity (Stewart & Costerton, 2001; Stewart, 2002;
+Fux et al., 2005). It has been suggested that this hetero-
+geneity results from active intercellular signaling that co-
+ordinates the bioﬁlm to maximize its productivity (Table 1)
+(O’Toole et al., 2000b; Danese et al., 2001; Hall-Stoodley &
+Stoodley, 2002; Stoodley et al., 2002; Webb et al., 2003a).
+The emergence of bioﬁlm heterogeneity on its own, how-
+ever, does not necessarily require cooperative, coordinated
+bacterial behavior. In this section, we review evidence that
+bioﬁlm composition and structure can also arise as a
+consequence of bacteria simply adjusting their behavior to
+the immediate surroundings and competing for limited
+resources. This perspective is drawn from the study of
+collective behavior in animal groups (Box 1), and the
+application of computational bioﬁlm models that capture
+the interaction between bacterial growth and solute gradi-
+ents (Wimpenny & Colasanti, 1997; Picioreanu et al., 1998a;
+Kreft et al., 2001; Xavier et al., 2005, 2007).
+
+Box 1. Collective behavior: complex patterns
+from simple rules
+
+Spatially explicit models of bioﬁlm formation have shown
+that simple cellular responses to the local environment are
+sufﬁcient
+to produce complex structures in bacterial
+groups (Wimpenny & Colasanti, 1997; Picioreanu et al.,
+1998a, 2004; Noguera et al., 1999; Dockery & Klapper,
+2001; Kreft et al., 2001; Xavier et al., 2005). These ﬁndings
+are mirrored in the study of animal behavior. A casual
+glimpse into the natural world reveals that bacteria are not
+alone in their proclivity for group living. Organisms from
+every corner of the animal kingdom form aggregates, with
+particularly conspicuous cases including insect swarms,
+ﬁsh schools, bird ﬂocks, and mammalian herds (Sumpter,
+2006). Many of these animal collectives have a physical
+coherence that at ﬁrst appears to require long-range
+signaling among their
+constituents. Fish
+schools, for example, exhibit a wide range of structures,
+
+individual
+
+including stationary swarms and cylindrical vortices that
+rapidly change form in response to predators or prey
+items.
+
+Theoretical and experimental studies have shown that
+the integrity and collective behavior of animal groups does
+not always entail active communication and coordination
+among constituent members (Sumpter, 2006; Couzin,
+2007). Couzin et al. (2002) explored the mechanisms
+underlying group structure using a model that implemen-
+ted idealized swarming organisms following three simple
+rules: (1) move away from neighbors that are too close, (2)
+align with neighbors of intermediate distance, and (3)
+avoid separation from the group. As the size of the
+alignment zone increases, the group transitions from a
+stationary swarm, to a doughnut-shaped group rotating
+around its collective center of mass, to an aligned group in
+which all individuals are traveling in the same direction.
+Couzin et al. (2005) later used another model to show that
+groups of moving organisms can collectively choose the
+
+FEMS Microbiol Rev 33 (2009) 206–224
+
+c(cid:1) 2008 Federation of European Microbiological Societies
+Published by Blackwell Publishing Ltd. All rights reserved
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+f
+r
+o
+m
+h
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+f
+
+l
+
+/
+
+/
+
+/
+
+/
+
+/
+
+e
+m
+s
+r
+e
+a
+r
+t
+i
+c
+e
+3
+3
+1
+2
+0
+6
+2
+6
+8
+3
+8
+1
+2
+b
+y
+L
+o
+m
+m
+e
+n
+H
+e
+a
+
+l
+t
+
+i
+
+i
+
+h
+S
+c
+e
+n
+c
+e
+s
+L
+b
+r
+a
+r
+y
+u
+s
+e
+r
+o
+n
+2
+3
+F
+e
+b
+r
+u
+a
+r
+y
+2
+0
+2
+4
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+210
+
+C.D. Nadell et al.
+
+better of
+two resource patches even when no single
+individual has information about both feeding opportu-
+nities.
+
+Examples of apparently complex group phenomena
+can thus be explained by simple behavioral rules on the
+part of group members. Furthermore, individual animals
+often join and participate in groups because membership
+therein provides direct beneﬁts, such as increased foraging
+efﬁciency and predator vigilance, an example of mutual-
+ism rather than altruism (Table 1) (Krause & Ruxton,
+2002). The properties of animal aggregates can even
+emerge from strong conﬂicts of interest among group
+members. For example, the collective behavior of desert
+locust nymphs appears to be driven by cannibalism: the
+group proceeds en masse because each individual attempts
+to eat those in front and avoid being eaten by those behind.
+This process, combined with high population density,
+yields an enormous march of insects that culminates in
+the notorious locust plagues of North Africa and the
+Middle East (Bazazi et al., 2008).
+
+While group structure and behavior do not strictly
+require them, coordination via dedicated signaling systems
+
+does play a critical role in the collective activity of some
+species. For example, the organization of social insect
+colonies emerges from a mixture of individual behavioral
+decisions combined with many forms of communication
+that coordinate colony activity (Bonabeau et al., 1999).
+Prominent examples include the famous honeybee waggle
+dance whereby experienced foragers convey the location of
+ﬂowers to naı¨ve foragers, pheromone trails that lead ants
+to food patches, and alarm signals that allow wasp colonies
+to mount a coordinated defense against predators (Rat-
+nieks & Reeve, 1992). These instances of collective beha-
+vior require that individuals act in the interests of the
+colony. In turn, in the absence of feedback beneﬁts, the
+evolution of individually costly, group-beneﬁcial behavior
+is only expected among close relatives (Table 1, Appendix
+B). In general, then, the spatially and temporally complex
+properties of organismal groups can be deceptive: while
+whole-group coordination and cooperation do occur,
+many examples of collective behavior emerge in their
+absence. Care must be taken to determine which mechan-
+istic and evolutionary processes are relevant to each
+particular system of interest.
+
+Diffusion limitation and chemical heterogeneity
+
+Bacteria are often tightly packed in bioﬁlms (Stewart,
+2003a). High cell density tends to reduce the bulk ﬂow of
+any surrounding liquid, and diffusion governs most trans-
+port of solutes between the bioﬁlm and its environment.
+Diffusion is
+slow compared with cellular metabolism
+(Characklis, 1990), and as a result, the chemical environ-
+ment within a bioﬁlm often differs greatly at different depths
+(Stewart, 2003a). For example, a nutrient in the liquid
+surrounding a bioﬁlm may be consumed by cells in the
+outermost layers such that its concentration decreases deeper
+in the bioﬁlm. Meanwhile, a product secreted by the cells in
+the bioﬁlm will often accumulate to its highest concentration
+within the bioﬁlm’s interior. Given that many bacteria use
+multiple growth substrates and release numerous extracellu-
+lar products, diffusion limitation can produce complex
+vertical and transverse chemical gradients, particularly when
+the secretions of some cells are consumed by others (Stewart
+& Franklin, 2008). These gradients, in turn, generate numer-
+ous microniches within the bioﬁlm that can induce pro-
+nounced physiological heterogeneity simply because bacteria
+alter their behavior according to local conditions.
+
+A classical example of chemical and consequent physio-
+logical heterogeneity is the commonly observed pattern of
+oxygen depletion with increasing bioﬁlm depth, which can
+occur even in small bioﬁlm clusters 40 mm deep (Kuhl et al.,
+2007). Within large aerobic bioﬁlms, oxygen consumption
+by bacteria in the outermost 100–200-mm cell
+layer is
+
+sufﬁcient to create anoxic environments at greater depths
+(De Beer et al., 1994b). As a result, cells near the bioﬁlm
+surface utilize aerobic metabolism, while cells within the
+bioﬁlm must switch to anaerobic metabolism or cease
+growing (Xu et al., 1998).
+
+Biofilm growth and species segregation
+
+Spatial heterogeneity is also common in multispecies bio-
+ﬁlms, which are often stratiﬁed such that species with
+different metabolic activity occupy discrete layers (Fig. 1d).
+This stratiﬁcation can manifest as the separation of aerobic
+and anaerobic species between the oxygenated and anoxic
+regions of a bioﬁlm, or more generally as segregation of
+species due to their use of different electron acceptors for
+metabolism, of which oxygen is only one (van Loosdrecht
+et al., 2002). For example, species stratiﬁcation is common
+in the bioﬁlms of wastewater treatment reactors. Oxygen is
+supplied to the reactors at low rates so that it is fully
+consumed by bacteria residing at the outer surface of
+bioﬁlms. These aerobes are split into several layers: species
+in the outermost layer use oxygen to convert ammonium
+into nitrite, and immediately below them reside other
+species that aerobically oxidize nitrite to nitrate (Okabe
+et al., 1999; Lydmark et al., 2006). Finally, species that
+anaerobically reduce nitrate to elementary nitrogen reside
+deeper in the bioﬁlm, where oxygen is no longer available.
+Similar stratiﬁcation occurs in sulfate-reducing multispecies
+
+c(cid:1) 2008 Federation of European Microbiological Societies
+Published by Blackwell Publishing Ltd. All rights reserved
+
+FEMS Microbiol Rev 33 (2009) 206–224
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+f
+r
+o
+m
+h
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+f
+
+l
+
+/
+
+/
+
+/
+
+/
+
+/
+
+e
+m
+s
+r
+e
+a
+r
+t
+i
+c
+e
+3
+3
+1
+2
+0
+6
+2
+6
+8
+3
+8
+1
+2
+b
+y
+L
+o
+m
+m
+e
+n
+H
+e
+a
+
+l
+t
+
+i
+
+i
+
+h
+S
+c
+e
+n
+c
+e
+s
+L
+b
+r
+a
+r
+y
+u
+s
+e
+r
+o
+n
+2
+3
+F
+e
+b
+r
+u
+a
+r
+y
+2
+0
+2
+4
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sociobiology of bioﬁlms
+
+211
+
+in which bacteria reducing sulfate are found
+bioﬁlms,
+exclusively in the anaerobic interior (Ramsing et al., 1993).
+Species segregation according to metabolic properties
+might suggest that microbial consortia organize themselves
+to maximize the productivity of each strain (Stoodley et al.,
+2002). However, cooperation among species is only expected
+under restricted conditions (Box 2), and in fact, competitive
+interactions appear to drive bioﬁlm stratiﬁcation. The
+metabolic separation of ammonium oxidation and nitrite
+oxidation between different species probably occurs because
+ammonium-oxidizing bacteria grow faster than would a
+hypothetical species carrying out both steps of nitriﬁcation
+within the same cell (Broda, 1977). By increasing their
+growth rate in this way, ammonium-oxidizing bacteria
+decrease the amount of ATP produced for each ammonia
+molecule oxidized, which reduces their metabolic efﬁciency.
+Therefore, the coexistence of ammonium oxidizers and nitrite
+oxidizers indicates that these bacteria are selected to maximize
+their own reproductive success rather than the efﬁciency of
+the group in which they are living (Costa et al., 2006).
+
+How then can one explain the organization of different
+metabolic types into discrete layers? A simulation by
+Picioreanu et al. (2004) showed that the differential ability
+of different species to grow at different depths from the
+bioﬁlm surface is sufﬁcient to explain their stratiﬁcation.
+Species residing deep in sludge granule bioﬁlms grow
+relatively slowly because they use nitrate as a primary
+electron acceptor, which yields less energy than aerobic
+metabolism. Nevertheless, they survive and dominate the
+inner parts of the bioﬁlm because the species at the surface
+are obligate aerobes that cannot grow where oxygen has been
+
+depleted (de Kreuk & van Loosdrecht, 2004; Isaka et al.,
+2006). That is, the segregation of metabolic types within
+bioﬁlms is consistent with the classic ecological principle of
+competitive exclusion, whereby competition pushes each
+species, or cluster of similar species, into a discrete niche
+(Scheffer & van Nes, 2006).
+
+Biofilm surface topology
+
+Early microscopy studies revealed that bioﬁlm surfaces vary
+from smooth and conﬂuent to rough and uneven with tall
+cell clusters interweaved by ﬂuid-ﬁlled channels (Costerton
+et al., 1994; Klausen et al., 2003b; Wijeyekoon et al., 2004).
+While one might imagine that the formation of ﬂuid-ﬁlled
+channels reﬂects coordinated activity within the bioﬁlm to
+improve waste removal and nutrient uptake, complex cell–
+cell communication and cooperation are not necessary to
+explain variability in bioﬁlm surface structure. Mathemati-
+cal and computational models of bioﬁlm formation have
+been developed by engineers to identify the environmental
+factors that promote and inhibit bioﬁlm formation. These
+models, and empirical tests, have shown that simple differ-
+ences in environmental nutrient availability can account
+for a variety of bioﬁlm surface structures (Wimpenny &
+Colasanti, 1997; Picioreanu et al., 1998b; Dockery &
+Klapper, 2001; Wijeyekoon et al., 2004).
+
+Nutrient availability is critically important for bioﬁlm
+surface structure because the outermost cells in a bioﬁlm
+consume substrates diffusing in from the environment and
+may thereby prevent nutrients from reaching cells residing
+at greater depths (Fig. 2). The result is an outer layer of cells
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+(e)
+
+(f)
+
+(g)
+
+(h)
+
+Key
+
+[O2]
+
+8 mg L–1
+
+0
+
+fast-growing cells
+
+slow-growing cells
+
+Fig. 2. Computational simulations reveal that complex bioﬁlm structure can be explained by simple diffusion limitation of a growth-limiting nutrient.
+(a–d) When environmental nutrient (here, oxygen) concentration is high, nutrients penetrate well into the bioﬁlm before being depleted, creating a
+thick layer of actively growing cells (details in b). Bioﬁlm surface irregularities are not ampliﬁed, and the bioﬁlm remains smooth. (e–h) When
+environmental nutrient concentration is low, nutrients are quickly depleted, creating a thin layer of actively growing cells (details in f). Random
+irregularities in the bioﬁlm surface are ampliﬁed because cells residing in the peaks of irregularities continue to grow, while cells residing in the troughs
+of irregularities cease to grow. This positive feedback process generates towers of cell clusters separated by empty channels in the absence of
+intercellular communication or cooperation (h).
+
+FEMS Microbiol Rev 33 (2009) 206–224
+
+c(cid:1) 2008 Federation of European Microbiological Societies
+Published by Blackwell Publishing Ltd. All rights reserved
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+f
+r
+o
+m
+h
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+f
+
+l
+
+/
+
+/
+
+/
+
+/
+
+/
+
+e
+m
+s
+r
+e
+a
+r
+t
+i
+c
+e
+3
+3
+1
+2
+0
+6
+2
+6
+8
+3
+8
+1
+2
+b
+y
+L
+o
+m
+m
+e
+n
+H
+e
+a
+
+l
+t
+
+i
+
+i
+
+h
+S
+c
+e
+n
+c
+e
+s
+L
+b
+r
+a
+r
+y
+u
+s
+e
+r
+o
+n
+2
+3
+F
+e
+b
+r
+u
+a
+r
+y
+2
+0
+2
+4
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+212
+
+C.D. Nadell et al.
+
+that typically grows much faster than the rest of the bioﬁlm
+population. The thickness of this active cell layer depends
+upon environmental nutrient concentrations, how quickly
+nutrients diffuse into the bioﬁlm, and how quickly bacteria
+consume them. When nutrients are abundant, they pene-
+trate deeper into the bioﬁlm before being depleted, and the
+active cell layer is thick; the bioﬁlm surface remains relatively
+uniform and homogeneous because a large population of
+cells at the surface is growing (Fig. 2a–d). When nutrients
+are sparse, in contrast, they are more quickly depleted, and
+the actively growing bioﬁlm layer is relatively thin. As a
+result, irregularities in the surface of the bioﬁlm can become
+greatly ampliﬁed. Speciﬁcally, if the depth of surface irregu-
+larities is greater than the thickness of the actively growing
+cell layer, then bacteria residing in the troughs of irregula-
+rities will grow poorly, while cells at peaks of surface
+irregularities retain access to nutrients and grow well. In the
+absence of any sophisticated intercellular signaling, this
+positive feedback process gives rise to cell towers interdigi-
+tated by empty ﬂuid channels (Fig. 2e–h).
+
+Detachment from bioﬁlms also plays an important role in
+determining their surface structure. Surface erosion, caused
+by predator grazing and ﬂuid ﬂow, tends to remove surface
+irregularities from exposed bioﬁlm regions (Characklis
+et al., 1990), particularly in long-lived bioﬁlms that have
+reached a steady state through a balance between new
+growth and detachment (Kwok et al., 1998). If environmen-
+tal forces also cause occasional large disturbances, however,
+bioﬁlms may fail to reach a steady state and instead cycle
+sloughing, and regrowth
+through periods of growth,
+(Lewandowski et al., 2004; Xavier et al., 2005a, b). Detach-
+ment may also involve active bacterial behaviors that cause
+regions of the bioﬁlm to collapse or disperse, yielding
+heterogeneous surface structure. For example, the soil bacter-
+ium Shewanella oneidensis detaches from its bioﬁlms in
+response to oxygen limitation (Thormann et al., 2005, 2006).
+Some P. aeruginosa strains undergo lysis, which liqueﬁes
+portions of mature bioﬁlms and releases other bacteria into
+the environment. Partial bioﬁlm lysis is either prophage-
+mediated (Webb et al., 2003b, 2004) or regulated by quorum
+sensing (D’Argenio et al., 2002; Allesen-Holm et al., 2006).
+
+This phenomenon may be a coordinated strategy that evolved
+to allow the bioﬁlm as a whole to release cells for colonizing
+new resource patches. However, the importance of competi-
+tion among P. aeruginosa strains and conﬂict between lyso-
+genic phage and their bacterial hosts remains to be explored
+for this system.
+
+The studies discussed thus far illustrate that, under the
+inﬂuence of simple physical forces, heterogeneity in bioﬁlm
+physiology and spatial structure can emerge from the
+uncoordinated behavior of individual cells. However, the
+absence of whole-bioﬁlm coordination does not necessarily
+imply the complete absence of cooperation among group-
+living bacteria (Box 1), which may take the form of other
+behaviors such as restrained growth or the secretion of
+shared products. Furthermore, some bioﬁlm-associated
+behaviors do appear to entail
+local coordination. For
+example, V. cholerae uses quorum sensing to terminate
+EPS secretion and upregulate secretion of extracellular
+enzymes that promote dispersal en masse at high cell density
+(Hammer & Bassler, 2003). Are such behaviors cooperative,
+and is there evidence for whole-bioﬁlm coordination via
+signaling over large spatial scales? These questions lead us
+to the following section in which we evaluate the conditions
+under which coordination and cooperation can evolve
+among bacteria.
+
+Competition and cooperation in biofilms
+
+Bioﬁlm-dwelling bacteria exhibit a range of behaviors that
+inﬂuence the reproduction, and thereby evolutionary ﬁt-
+ness, of neighboring cells. Each of these social behaviors can
+be categorized according to its ﬁtness effects on the acting
+individual and on the recipient individuals (Table 1). As we
+will see, focusing on ﬁtness effects allows one to identify
+when natural selection will favor cooperation among bacter-
+ia and perhaps coordination on the scale of whole bioﬁlms.
+Recent reviews have discussed the principles of social evolu-
+tion in microorganisms (Crespi, 2001; West et al., 2006,
+2007; Diggle et al., 2007b; Foster et al., 2007), and here we
+apply this perspective to the unique problems posed by
+bacterial bioﬁlms (for another discussion, see Kreft, 2004a).
+
+Box 2. The evolution of cooperation and
+altruism: kinship, coercion, and constraint
+
+‘If it could be proved that any part of the structure of
+any one species had been formed for the exclusive
+good of another species,
+it would annihilate my
+theory,
+for such could not have been produced
+through natural selection’ Darwin (1859).
+
+The evolutionary biologist’s fascination with cooperative
+and altruistic behaviors has a rich history that can be
+
+traced back to Darwin, who discussed examples like the
+sterile and seemingly selﬂess workers in social
+insect
+colonies and the mutualism that occurs between a nectar-
+producing orchid and its insect pollinators. Speciﬁcally,
+Darwin realized that natural selection should favor traits
+that increase personal reproduction, and any behavior that
+decreases one’s own reproduction to increase that of
+another organism requires additional explanation. Over a
+hundred years after On the Origin of Species was published,
+William Hamilton – then only a graduate student –
+
+c(cid:1) 2008 Federation of European Microbiological Societies
+Published by Blackwell Publishing Ltd. All rights reserved
+
+FEMS Microbiol Rev 33 (2009) 206–224
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+f
+r
+o
+m
+h
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+f
+
+l
+
+/
+
+/
+
+/
+
+/
+
+/
+
+e
+m
+s
+r
+e
+a
+r
+t
+i
+c
+e
+3
+3
+1
+2
+0
+6
+2
+6
+8
+3
+8
+1
+2
+b
+y
+L
+o
+m
+m
+e
+n
+H
+e
+a
+
+l
+t
+
+i
+
+i
+
+h
+S
+c
+e
+n
+c
+e
+s
+L
+b
+r
+a
+r
+y
+u
+s
+e
+r
+o
+n
+2
+3
+F
+e
+b
+r
+u
+a
+r
+y
+2
+0
+2
+4
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sociobiology of bioﬁlms
+
+213
+
+developed the ﬁrst full theoretical explanation for how
+cooperative behavior can evolve (Table 1). Since then, a
+huge literature has developed around the problem (Leh-
+mann & Keller, 2006; Gardner & Foster, 2008), but it can
+be whittled down to a few central concepts:
+Genetic relatedness (indirect ﬁtness):
+
+the crux of
+Hamilton’s argument was that natural selection can favor
+altruistic actions (Table 1) that harm personal reproduc-
+tion when they beneﬁt a family member or other indivi-
+dual that shares alleles at variable loci with the actor. This
+principle has far-reaching consequences for evolutionary
+theory. In particular,
+it predicts that cooperation and
+altruism will evolve more readily in social groups contain-
+ing a high proportion of genetic relatives than it will in
+groups of nonkin. Accordingly, we expect cooperation to
+evolve more easily in bioﬁlms that always contain a single
+strain than in bioﬁlms containing multiple strains and
+species, which are fraught with potential conﬂicts. While
+the general effects of changing genetic relatedness in a
+social group are intuitive, measuring relatedness is not.
+From an evolutionary perspective, relatedness is not a
+single value that exists between individuals, but rather a
+conceptual tool whose calculation depends on the problem
+at hand. Positive relatedness occur when two individuals
+share identical alleles at a variable locus: natural selection
+can only operate when there are competing alleles in the
+population. Critically, relatedness should be measured at
+the locus or loci that control the social behavior in
+question because it is the change in frequency of alleles at
+these loci that govern the evolution of each social trait.
+Counterintuitively, bacterial strains that differ at a single
+nucleotide position may be unrelated in the eyes of social
+evolution. For example, a null mutation that eliminates
+pyoverdine secretion in P. aeruginosa can produce a cheat-
+ing strain that exploits any bacteria that continue to
+altruistically secrete pyoverdine. This consideration is
+particularly important for bioﬁlms, which endure for
+many bacterial generations such that groups of initially
+clonal cells may be subject to exploitation by spontaneous
+mutants that no longer share the evolutionary interests of
+others in the bioﬁlm.
+
+Personal reproductive beneﬁts (direct ﬁtness): as cap-
+tured in Darwin’s quote, altruism in the strict sense –
+which lowers an individual’s personal reproductive ﬁtness
+– cannot be favored by natural selection if it occurs
+between unrelated individuals or different species. How-
+
+ever, cooperation for mutual beneﬁt, which is distinct
+from altruism, can evolve among unrelated individuals
+(Table 1). Many explanations for the evolution of coop-
+erative behavior in social groups, therefore, identify con-
+ditions under which cooperating with others carries
+personal beneﬁts that render it mutualistic. Most simply,
+cooperation can emerge as a byproduct of a selﬁsh action,
+as may occur when the waste product of one bacterial
+species can be metabolized by another. Such byproduct
+effects may turn out to be common among some bacteria
+within bioﬁlms (Williams & Lenton, 2008). However, the
+beneﬁts of byproduct mutualism are probably not sufﬁ-
+cient to ameliorate all conﬂicts among all strains and
+species living together in a group. Species living in tight
+association within a bioﬁlm will often compete for limited
+resources – be it nutrients or space – such that the
+optimum frequency of one species for the other will be
+different for each (Foster & Wenseleers, 2006). This may
+mean that one species evolves to become a strong parasite
+on the other, as occurs in mixed-species bioﬁlms of
+Acinetobacter sp. C6 and Pseudomonas putida (Hansen
+et al., 2007).
+
+Even when species engage in mutualism, one may
+expect conﬂicts whose resolution will, in turn, depend on
+the ability of each species to coerce the other to its
+advantage. Equally important are constraints, physiological
+and otherwise, that prevent attempts of coercion from
+generating an ongoing arm’s race that destabilizes the
+mutualism. Stable mutualisms may often involve species
+with pleiotropic constraints that link genes for cooperation
+to personal beneﬁts, such that inactivating a gene for social
+behavior carries a net ﬁtness cost (Foster et al., 2004, 2007).
+One example is the mutualism in which Vibrio ﬁsheri
+bioluminesces within the bobtail squid Euphrymna sco-
+lopes. The bacteria gain a comfortable living environment
+in exchange for their light production, which may render it
+more difﬁcult for other species to pick out the host squid
+against a reﬂective ocean surface background. Because light
+production carries an energetic cost, it is predicted that V.
+ﬁsheri strains with null mutations in the lux genes control-
+ling bioluminescence should outgrow light-producing cells
+within their squid hosts. However, the squid’s specialized
+light-organ that houses its bacterial symbionts is main-
+tained such that bioluminescence null mutants tend to fair
+poorly in competition with light-producing cells (Visick
+et al., 2000).
+
+Growth rate
+
+Like all other organisms, bacteria can affect each other’s
+reproduction simply by using shared and limiting resources.
+
+By dividing rapidly, a cell line can obtain a larger share of
+such resources and reduce nutrient availability for other
+members of the population. Rapid growers deplete nutrient
+pools not only because they grow more quickly but also
+because they tend to grow inefﬁciently, yielding less biomass
+
+FEMS Microbiol Rev 33 (2009) 206–224
+
+c(cid:1) 2008 Federation of European Microbiological Societies
+Published by Blackwell Publishing Ltd. All rights reserved
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+f
+r
+o
+m
+h
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+f
+
+l
+
+/
+
+/
+
+/
+
+/
+
+/
+
+e
+m
+s
+r
+e
+a
+r
+t
+i
+c
+e
+3
+3
+1
+2
+0
+6
+2
+6
+8
+3
+8
+1
+2
+b
+y
+L
+o
+m
+m
+e
+n
+H
+e
+a
+
+l
+t
+
+i
+
+i
+
+h
+S
+c
+e
+n
+c
+e
+s
+L
+b
+r
+a
+r
+y
+u
+s
+e
+r
+o
+n
+2
+3
+F
+e
+b
+r
+u
+a
+r
+y
+2
+0
+2
+4
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+214
+
+C.D. Nadell et al.
+
+per unit nutrient consumed. Somewhat paradoxically, then,
+fast growth may decrease a bioﬁlm’s total productivity due
+to a trade-off between growing quickly (beneﬁting oneself)
+and growing efﬁciently (beneﬁting the group).
+
+The switch between aerobic and anaerobic metabolism is
+an illustrative example of the growth rate vs. yield trade-off.
+Fermentation is a form of anaerobic metabolism that allows
+cells to grow quickly but at low efﬁciency (Pfeiffer, 2001;
+Pfeiffer & Schuster, 2005). In mixed competition between
+fermentative cells and aerobic cells, evolutionary theory
+predicts that fermentation may win out simply because it
+permits rapid growth while decreasing nutrient availability
+for all other cells in the population. To our knowledge, this
+prediction has not been directly tested in bacterial bioﬁlms,
+but an experiment with the budding yeast Saccharomyces
+cerevisiae conﬁrmed that a fermenting strain could out-
+compete aerobic strains under competition for limited
+nutrients (MacLean & Gudelj, 2006).
+
+Thus, the frequent use of anaerobic respiration in bioﬁlms
+may be a signature not only of anoxic conditions but also of
+conﬂict between bacteria. Kreft studied this question with an
+individual-based bioﬁlm simulation and examined competi-
+tion between a strain that grows rapidly but wastefully and a
+second strain that grows slowly but efﬁciently (Kreft, 2004b).
+The model predicted that the slow-growing high-yield strain
+could outcompete the fast-growing low-yield strain, but only
+when bioﬁlms were seeded by a single cell. In the vernacular
+of social evolution theory, slow-growing high-yield cells
+are altruists that cooperate with their neighbors by using
+resources conservatively, increasing nutrient availability for
+other cells, and allowing the bioﬁlm as a whole to achieve
+
+greater biomass production (Table 1). Bioﬁlms composed
+solely of slow-growing high-yield cells produce more biomass
+than bioﬁlms composed solely of fast-growing low-yield cells,
+but fast-growing cells fare better in direct competition with
+slow-growing cells within a single bioﬁlm.
+
+Kreft’s study illustrates a classic result in sociobiology:
+altruistic behavior can be successful, but only when it is
+preferentially directed toward other altruists. Otherwise,
+exploitative individuals can reap the beneﬁts afforded by
+altruistic individuals and outgrow them (Box 2, Fig. 3). If
+altruism is directed toward clones or close relatives, which
+are more likely than average to share the genes driving the
+altruistic phenotype, then such genes can increase in fre-
+quency in a population (Hamilton, 1964). Natural selection
+is blind to which individual cells pass on a given set of genes,
+so long as those genes are replicated and their information
+content preserved over time. Under some circumstances, a
+cell’s best strategy with respect to its genetic heritage may be to
+sacriﬁce itself while beneﬁting other cells that are genetically
+identical. Thus, the probability that altruists beneﬁt others
+with which they share genes is a critical variable controlling
+the evolution of social behavior. This probability is typically
+measured as genetic relatedness, where high relatedness more
+strongly favors the evolution of cooperation and altruism. In
+bioﬁlms seeded by multiple strains and species, most cells in
+the bioﬁlm will be genetically different, and slow-growing
+high-yield strains are open to exploitation by fast-growing
+low-yield strains. On the other hand, when bioﬁlms are seeded
+by a single cell, relatedness among cells will be maximal, and
+altruistic strategies that maximize bioﬁlm productivity are
+more likely to evolve (Wilson, 1975; Foster, 2004).
+
+Fig. 3. The evolution of selﬁshness or altruism in
+mixed populations. (a) In mixed populations,
+individuals that pay a cost to secrete a diffusible
+public good can be exploited by neighbors that
+do not secrete public goods and thereby grow
+faster. (b) Spatial structure: even if altruistic cells
+direct public goods indiscriminately to nearest
+neighbors, the beneﬁts to clonemates can be
+high if for any reason a population is structured
+such that cells of the same genotype tend to be
+close to each other. (c) Discrimination: altruism
+can evolve in well-mixed populations when cells
+produce public goods that can only be utilized by
+other cells of the same genotype.
+
+c(cid:1) 2008 Federation of European Microbiological Societies
+Published by Blackwell Publishing Ltd. All rights reserved
+
+FEMS Microbiol Rev 33 (2009) 206–224
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+f
+r
+o
+m
+h
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+f
+
+l
+
+/
+
+/
+
+/
+
+/
+
+/
+
+e
+m
+s
+r
+e
+a
+r
+t
+i
+c
+e
+3
+3
+1
+2
+0
+6
+2
+6
+8
+3
+8
+1
+2
+b
+y
+L
+o
+m
+m
+e
+n
+H
+e
+a
+
+l
+t
+
+i
+
+i
+
+h
+S
+c
+e
+n
+c
+e
+s
+L
+b
+r
+a
+r
+y
+u
+s
+e
+r
+o
+n
+2
+3
+F
+e
+b
+r
+u
+a
+r
+y
+2
+0
+2
+4
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sociobiology of bioﬁlms
+
+215
+
+Diffusible secreted products
+
+Bioﬁlms comprise not only bacterial cells but also a myriad
+of compounds that the cells release into their surrounding
+these compounds are diffusible
+environment. Many of
+substances, including digestive enzymes and chelating com-
+pounds that aid nutrient acquisition. When these secreted
+products are costly to synthesize but beneﬁt other cells in the
+population, they are termed ‘public goods’ (West et al.,
+2006). As for restrained growth, evolutionary theory pre-
+dicts that public good production will be favored when its
+beneﬁts can be directed toward relatives or clonemates
+(Fig. 3). In mixed populations, therefore, cells that exploit
+public goods without investing in them may be able to
+outcompete public good-producing cells. Grifﬁn et al.
+(2004) conﬁrmed this simple prediction using competition
+experiments with P. aeruginosa, which can grow in iron-
+limited environments by secreting pyoverdine, an iron-
+scavenging siderophore. Pyoverdine synthesis is costly, and
+mutants that do not produce it grow faster than wild type in
+rich media. In iron-limited media, such mutants dominate
+mixed cultures by exploiting the pyoverdine secreted by
+wild-type cells. When growing alone in iron-limited media,
+however, wild type is far superior to the pyoverdine mutant.
+The release of autoinducers by quorum-sensing bacteria
+may represent another example of bacterial altruism that
+provides information for the good of a group, while impos-
+ing direct costs on cells that secrete autoinducers (Table 1).
+However, some quorum-sensing systems may instead be
+driven by the release of cellular waste products rather than
+dedicated signaling molecules (Miller & Bassler, 2001;
+Waters & Bassler, 2005; Bassler & Losick, 2006). For exam-
+ple, many species, both Gram-positive and Gram-negative,
+possess protein machinery required for responding to auto-
+inducer 2 (AI-2); this autoinducer molecule is a waste
+product that results from the degradation of a key metabo-
+lite, S-adenosylhomocysteine (Vendeville et al., 2005). In
+this case, autoinducer secretion may be tantamount to
+excretion, and cells are probably not releasing AI-2 to
+communicate and coordinate their activity with other
+members of the population (Keller & Surette, 2006). A
+convincing case for an active coordination system in a
+bioﬁlm, therefore, requires evidence that cells secrete an
+autoinducer speciﬁcally to elicit a cooperative response from
+other members of the population, rather than merely to
+unburden themselves of waste material (Keller & Surette,
+2006; Diggle et al., 2007b). In our experience, many ﬁnd it
+unnecessary to distinguish between communication by
+active signaling vs. eavesdropping on a waste product, at
+least on ﬁrst thought. However, the difference is critical for
+understanding whether a bacterial aggregate is behaving
+as a coordinated group, like a multicellular organism, as
+opposed to a collection of independent individuals. If a
+
+given quorum-sensing system evolved to beneﬁt a group of
+bacteria, it would suggest that bioﬁlms formed by the species
+in question are highly cooperative at the spatial scale over
+which signaling occurs and, accordingly, that this intercel-
+lular communication may involve dedicated regulatory
+systems that are good targets for bioﬁlm control strategies.
+
+How can one recognize when autoinducer production has
+evolved, at least in part, to elicit responses from other cells
+and perhaps to coordinate group activity? One potential
+indicator is an energetic cost accompanying autoinducer
+production and secretion. Unless waste product secretions
+serendipitously possess optimal properties for intercellular
+communication, natural selection for communication among
+cells is expected to generate new signal production pathways
+– or modify existing waste secretion pathways – such that
+energetic investment is required on the part of secreting
+cells. Moreover, such signaling costs imply altruism in a
+group of many cells because little or none of the beneﬁt of
+releasing a signaling molecule may return to the secreting
+cell (Table 1).
+
+Identifying any costs of quorum sensing is likely to be
+challenging when intercellular signaling has evolved via
+modiﬁcation of a waste product excretion pathway, as may
+have occurred for acyl homoserine lactone autoinducers.
+Nevertheless, a cost to autoinducer production was recently
+demonstrated in P. aeruginosa; wild-type cells that express
+the autoinducer synthase lasI are outcompeted in mixed
+culture by lasI null mutants that exploit the autoinducer
+molecules released by others (Diggle et al., 2007a). In this
+example, responding to autoinducer concentrations also
+entails a cost:
+lasR mutants, which do not possess the
+receptor required for responding to the lasI autoinducer
+product, outcompete wild type in mixed planktonic culture
+(D’Argenio et al., 2007; Sandoz et al., 2007). Wild-type
+P. aeruginosa upregulates many costly social behaviors,
+including the production of siderophores and several extra-
+cellular digestive enzymes, in response to high autoinducer
+concentration. Like the pyoverdine-exploiting strain dis-
+cussed above, lasR mutants fail to invest in the production
+of extracellular public goods, including proteases that are
+required for growth in media supplied only with protein
+substrates.
+lasR mutants
+can exploit the extracellular enzymes produced by wild-type
+cells
+explain why
+mutants with lasR null mutations often arise spontaneously
+in the lung infections suffered by cystic ﬁbrosis patients
+(D’Argenio et al., 2007).
+
+and outgrow them, which may
+
+In mixed culture conditions,
+
+Although some microbial social evolution experiments
+focusing on public good production were conducted in
+standing cultures that allow limited bioﬁlm growth on the
+sides of culture vessels (Grifﬁn et al., 2004; Diggle et al.,
+2007a), the majority of cells analyzed were likely in the
+planktonic phase (S. Diggle, pers. commun.). Critically, cells
+
+FEMS Microbiol Rev 33 (2009) 206–224
+
+c(cid:1) 2008 Federation of European Microbiological Societies
+Published by Blackwell Publishing Ltd. All rights reserved
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+f
+r
+o
+m
+h
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+f
+
+l
+
+/
+
+/
+
+/
+
+/
+
+/
+
+e
+m
+s
+r
+e
+a
+r
+t
+i
+c
+e
+3
+3
+1
+2
+0
+6
+2
+6
+8
+3
+8
+1
+2
+b
+y
+L
+o
+m
+m
+e
+n
+H
+e
+a
+
+l
+t
+
+i
+
+i
+
+h
+S
+c
+e
+n
+c
+e
+s
+L
+b
+r
+a
+r
+y
+u
+s
+e
+r
+o
+n
+2
+3
+F
+e
+b
+r
+u
+a
+r
+y
+2
+0
+2
+4
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+216
+
+C.D. Nadell et al.
+
+in shaken or standing liquid media are more mobile and
+therefore more likely to experience identical conditions than
+cells in a bioﬁlm environment, which move less and
+experience different microhabitats. This difference between
+growth conditions in planktonic vs. bioﬁlm culture may
+have important consequences for the outcome of social
+evolution; nevertheless, the study of planktonic cells illus-
+trates that simple changes in strain mixture can strongly
+favor (clonal culture) or disfavor (mixed culture) the evolu-
+tion and maintenance of public good secretion.
+
+These results may have implications for bacterial patho-
+genesis because many extracellular public goods, including
+extracellular proteases and iron-chelating siderophores, are
+virulence factors used by pathogens to exploit their host
+environment and establish infections (Arvidson, 2000; Visca
+et al., 2007). Indeed, understanding whether bioﬁlms and
+their associated pathogenesis are a product of competition
+or cooperation among their constituent cells is central to
+predicting how strain diversity in a bioﬁlm will affect its
+virulence. When virulence is the outcome of competition
+among multiple strains and species within a host, minimiz-
+ing the diversity of microorganisms contributing to infec-
+tion will more effectively mitigate their effect on host
+organisms. However, when virulence is the outcome of
+cooperation among bacteria, promoting
+competition
+among strains and species – for example, by the introduc-
+tion of probiotics – will tend to decrease the severity of
+infections (Brown et al., 2002).
+
+Extracellular polymeric substances
+
+EPS production is a common bacterial behavior that lends
+bioﬁlms their sticky or slimy nature. EPS may sometimes be
+a shared beneﬁcial substance that protects bioﬁlms from
+external threats, such as antibiotic compounds (Mah &
+O’Toole, 2001), predator grazing (Matz et al., 2005), and
+cells of host immune systems (Vuong et al., 2004). In many
+cases, EPS is also important for the structural integrity of
+bioﬁlms, and EPS null mutants tend to be deﬁcient at
+bioﬁlm formation (Danese et al., 2000; Hammer & Bassler,
+2003; Rainey & Rainey, 2003; Kearns et al., 2005). Speciﬁ-
+cally, bacteria that do not secrete EPS often cannot bind
+together efﬁciently and fail to attach to hard surfaces or to
+aggregate on liquid–air interfaces (Friedman & Kolter,
+2004). When grown in beakers partly ﬁlled with liquid
+medium, EPS-secreting cells of Pseudomonas ﬂuorescens
+cooperate to form a mat at the liquid–air interface, which
+affords better access to oxygen relative to the planktonic
+phase below. However, null EPS synthase mutants can
+exploit the collective support of wild-type cells without
+paying the cost of EPS secretion, which eventually compro-
+mises bioﬁlm structure and sends the whole mat into the
+anoxic liquid phase below (Rainey & Rainey, 2003).
+
+While EPS secretion may sometimes reﬂect cooperation
+among bioﬁlm-dwelling bacteria, indirect evidence suggests
+that EPS can also mediate competition in bioﬁlms. Vibrio
+cholerae mutants with high constitutive EPS expression
+rapidly dominate solid-surface bioﬁlms in which they are
+coinoculated with a strain that produces little or no EPS
+(Hammer & Bassler, 2003), and hypermucoid P. aeruginosa
+mutants that produce copious EPS consistently evolve and
+invade chronic bioﬁlm lung infections suffered by cystic
+ﬁbrosis patients (Martin et al., 1993; Govan & Deretic,
+1996). Might EPS production provide a competitive edge
+in bioﬁlms?
+
+A recent individual-based simulation predicted that EPS
+secretion allows a cell lineage to push its descendents up to
+the oxygen-rich bioﬁlm surface while simultaneously suffo-
+cating any neighboring cells that do not secrete EPS (Xavier
+& Foster, 2007). This putative advantage of secreting EPS,
+however, is only obtained when different strains of bacteria
+compete within the same bioﬁlm. When bioﬁlms are clonal
+and natural selection favors behaviors that maximize whole-
+bioﬁlm productivity, excessive EPS secretion may be
+disfavored because it decreases the yield of biomass per unit
+nutrient consumed (Xavier & Foster, 2007) and may gen-
+erate other negative effects (e.g. overproduction of EPS
+predisposes bioﬁlms to sloughing and lysis in Vibrio vulni-
+ﬁcus, McDougald et al., 2006). For EPS-secreting bacterial
+lineages to outcompete other strains, the bioﬁlms in which
+they reside together must persist
+for several bacterial
+generations: daughter cells of EPS-secreting strains can then
+locations and increased
+beneﬁt
+nutrient availability afforded by the EPS secretion of parent
+cells. Because the beneﬁts of EPS secretion are delayed
+by multiple generations, natural selection may also favor
+the use of quorum sensing to downregulate EPS secretion at
+high cell density and redirect resources from EPS secretion
+into growth before detachment (Pesci et al., 1997; Hammer
+& Bassler, 2003; Nadell et al., 2008). Vibrio cholerae appears
+to use this strategy to disperse from its host’s intestinal
+environment (Hammer & Bassler, 2003; Zhu & Mekalanos,
+2003; Liu et al., 2007).
+
+from favorable spatial
+
+Genetic exchange in biofilms
+
+The closely packed environment in bioﬁlms makes them
+ideal candidates for genetic exchange among cells (Sørensen
+et al., 2005), and in fact some conjugative plasmids appear
+to carry genes that promote bioﬁlm formation (Ghigo,
+2001). Vibrio cholerae becomes naturally competent
+in
+bioﬁlms growing on chitin (Meibom et al., 2005), and the
+gene encoding cholera toxin, a key virulence factor in
+is transferred among cells by phage
+cholera infections,
+(Waldor & Mekalanos, 1996). Under low-nutrient condi-
+tions, the spore-forming bacterium Bacillus subtilis also
+
+c(cid:1) 2008 Federation of European Microbiological Societies
+Published by Blackwell Publishing Ltd. All rights reserved
+
+FEMS Microbiol Rev 33 (2009) 206–224
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+f
+r
+o
+m
+h
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+f
+
+l
+
+/
+
+/
+
+/
+
+/
+
+/
+
+e
+m
+s
+r
+e
+a
+r
+t
+i
+c
+e
+3
+3
+1
+2
+0
+6
+2
+6
+8
+3
+8
+1
+2
+b
+y
+L
+o
+m
+m
+e
+n
+H
+e
+a
+
+l
+t
+
+i
+
+i
+
+h
+S
+c
+e
+n
+c
+e
+s
+L
+b
+r
+a
+r
+y
+u
+s
+e
+r
+o
+n
+2
+3
+F
+e
+b
+r
+u
+a
+r
+y
+2
+0
+2
+4
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sociobiology of bioﬁlms
+
+217
+
+becomes naturally competent via a set of processes that pull
+DNA into the cell (Chen et al., 2006) and activate genes
+responsible for homologous recombination (Dubnau et al.,
+1973). Bacillus subtilis may have evolved this competence
+response to ﬁsh for DNA released from other cells; whether
+the goal is to gain new adaptive traits, to repair damaged
+genes, to acquire nutrients, or to perform another unknown
+function remains to be seen.
+
+DNA release and the activation of natural competence
+within bioﬁlms suggest that genetic exchange may be an
+important facet of bacterial group living. How could DNA
+swapping inﬂuence the evolution of cooperation among
+microorganisms? In some cases, genetic exchange may pro-
+mote cooperation among cells. For example, when genes for
+cooperative secreted products are carried by mobile genetic
+elements, such as plasmids or lysogenic viruses (Waldor &
+Mekalanos, 1996), DNA exchange between bacteria via con-
+jugation or transduction can increase the frequency of co-
+operative cells in a population (Smith, 2001). However, gene
+transfer may also involve conﬂict. Natural competence in
+Streptococcus species, for example, occurs alongside the activa-
+tion of multiple toxin–antitoxin systems that selectively lyse
+surrounding cells that are not competent (Claverys &
+H˚avarstein, 2007; Claverys et al., 2007). Indeed, conﬂict can
+occur at an even lower level of organization if mobile genetic
+elements replicate at the expense of cells in which they reside
+(Paulsson, 2002). Recent evidence suggests that some trans-
+posons may replicate so quickly relative to their hosts that
+they can drive whole bacterial lineages extinct (Wagner, 2006).
+
+Differentiation and development in biofilms
+
+We have discussed evidence that bacteria slow their growth
+to use resources efﬁciently and secrete molecules that beneﬁt
+other cells in their surroundings. These cooperative beha-
+viors are often regulated by costly quorum-sensing systems
+that may reﬂect communication and coordination, at least
+on the spatial scale of a few cell lengths. Although impressive
+for organisms that were once considered largely solitary,
+these examples still do not approach the sophistication of a
+multicellular animal or plant,
+in which many types of
+differentiated cells communicate across the whole organism
+to produce a highly integrated functional unit. Do bacterial
+aggregates ever reach comparable sophistication? Coordi-
+nated phenotypic diversiﬁcation may carry advantages for
+bacterial groups, including insurance against uncertainty of
+future environmental conditions (Kussell & Leibler, 2005),
+or a division of labor in which cells specialize on single tasks
+to increase the entire group’s productivity (Michod & Roze,
+2001). Is there evidence that bacterial differentiation repre-
+sents an adaptation for the beneﬁt of whole bioﬁlms?
+
+One example of bacterial differentiation that may repre-
+sent both a division of labor and insurance against environ-
+
+mental uncertainty is the formation of dormant persister
+cells. Subpopulations of persister cells have been observed in
+planktonic cultures and within the bioﬁlms of pathogenic
+bacteria (Brooun et al., 2000; Spoering & Lewis, 2001).
+Persister cells are immune to many antibiotics and are
+thought to protect a cell lineage from large-scale distur-
+bances that induce mortality in the growing population
+(Lewis, 2007). Theoretical work suggests that persister
+formation requires a degree of global cooperation because
+rapidly dividing strains that do not differentiate into persis-
+ters can readily replace strains that curtail growth in favor of
+stress tolerance (Gardner, 2007). A related ﬁnding from
+P. aeruginosa is the observation that several phenotypically
+distinct lineages often arise from a single clone during
+bioﬁlm formation (Boles et al., 2004). These diverse pheno-
+types are heritable, and their appearance depends on the
+expression of RecA, a DNA repair enzyme that catalyzes
+recombination. In addition, the P. aeruginosa variants that
+emerge during bioﬁlm growth appear to be functionally
+specialized for either dispersal or accelerated bioﬁlm forma-
+tion. Importantly, some variants are more resistant to
+oxidative stress and can thus protect a cell lineage from
+large-scale disturbances that induce mortality in the grow-
+ing population.
+
+A second example of cell differentiation found within
+P. aeruginosa bioﬁlms may also represent a division of labor
+(Klausen et al., 2003a). Under some conditions, surface-
+attached cells migrate by twitching motility to form clusters
+and then mushroom-shaped microcolonies. These mush-
+rooms appear to be structurally reinforced by extracellular
+DNA, which is putatively released by quorum-sensing-
+mediated autolysis of a subpopulation of cells (Allesen-
+Holm et al., 2006). Meanwhile, another subpopulation in
+the cap of the mushroom expresses the pmr operon in
+response to some antimicrobials, which increases their stress
+tolerance via cell wall modiﬁcations (Haagensen et al.,
+2007). Of course, this apparent division of labor occurs in
+the presence of steep chemical gradients that may induce
+cells to activate different metabolic pathways (see section
+‘Bioﬁlm complexity without coordination’, Pamp et al.,
+2008). More work is required to determine whether differ-
+entiation by P. aeruginosa is an example of global coordina-
+tion or another instance of cells simply optimizing their
+behavior to local conditions.
+
+Among bacteria observed thus far, arguably the most
+complex social behaviors occur in two spore-forming spe-
+cies: B. subtilis and Myxococcus xanthus. Aggregation by
+these species comes closest to multicellular development:
+sporulation in both results from a series of temporally
+separated checkpoints that produce a predictable, direc-
+tional sequence of differentiation events (Monds & O’Toole,
+2008). Bacillus subtilis also provides a dramatic example of
+bacterial differentiation; populations of a single strain
+
+FEMS Microbiol Rev 33 (2009) 206–224
+
+c(cid:1) 2008 Federation of European Microbiological Societies
+Published by Blackwell Publishing Ltd. All rights reserved
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+f
+r
+o
+m
+h
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+f
+
+l
+
+/
+
+/
+
+/
+
+/
+
+/
+
+e
+m
+s
+r
+e
+a
+r
+t
+i
+c
+e
+3
+3
+1
+2
+0
+6
+2
+6
+8
+3
+8
+1
+2
+b
+y
+L
+o
+m
+m
+e
+n
+H
+e
+a
+
+l
+t
+
+i
+
+i
+
+h
+S
+c
+e
+n
+c
+e
+s
+L
+b
+r
+a
+r
+y
+u
+s
+e
+r
+o
+n
+2
+3
+F
+e
+b
+r
+u
+a
+r
+y
+2
+0
+2
+4
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+218
+
+C.D. Nadell et al.
+
+display bimodal distributions for multiple phenotypes, in-
+cluding competence, chaining (Losick & Desplan, 2008),
+motility (Kearns et al., 2004), EPS production (Vlamakis
+et al., 2008), and spore formation (Branda et al., 2001). A
+subpopulation of cells in wild B. subtilis bioﬁlms produces
+spores in small fruiting body structures that develop at the
+tips of bioﬁlm surface irregularities. Larger groups of spores
+are formed by M. xanthus, in which starving cells aggregate
+to form a fruiting body whose cell density approaches that of
+many bioﬁlms (Julien et al., 2000). It is also striking that in
+both species spore-destined cells kill other members of the
+population during fruiting body formation (Wireman &
+Dworkin, 1977; Gonzalez-Pastor et al., 2003). In B. subtilis,
+cell death releases nutrients that increase the viability of the
+remaining population, allowing it to delay commitment to
+sporulation (Gonzalez-Pastor et al., 2003). This violent
+ending might therefore represent altruistic sacriﬁce by cells
+that lyse, similar to programmed cell death within a devel-
+oping multicellular organism. Alternatively, cell death in
+B. subtilis and M. xanthus bioﬁlms may be the signature of
+strong evolutionary conﬂict in which different strains com-
+pete to become spores. Consistent with this latter interpre-
+tation, different environmental M. xanthus strains can
+exploit and poison one another (Fiegna & Velicer, 2005),
+and toxin secretion is a well-known strategy that bacteria use
+to compete with other strains and species (Durrett & Levin,
+1997; Cascales et al., 2007).
+
+Future work
+
+Our perspective highlights four major questions that will
+help us to better understand and predict the behavior of
+bacteria in bioﬁlms.
+
+Function: what are the constituent genes and
+phenotypes that define the biofilm?
+
+Before studying bioﬁlm-associated behaviors, one must
+obviously identify them. Our understanding of bioﬁlms will
+continue to rely on microbial genetics, which dissects
+bioﬁlms into discrete behaviors and the genes that control
+them (Stoodley et al., 2002; Hall-Stoodley et al., 2004; Beloin
+& Ghigo, 2005). Genetic manipulation is critical for identi-
+fying traits associated with bioﬁlm formation, such as the
+synthesis of adhesion factors and extracellular products, and
+for uncovering their relationship with the virulence and
+antibiotic tolerance of pathogenic bacteria. Bacterial genet-
+ics also reveals the mechanisms by which bioﬁlm-associated
+behaviors are regulated, which partially determine whether
+it is appropriate to draw comparisons between bioﬁlm
+growth and multicellular development. For example, the
+discovery of hierarchically ordered gene expression circuits
+that direct a series of irreversible bioﬁlm growth steps might
+reﬂect a system of cooperative and coordinated compo-
+
+nents, comparable to a metazoan zygote (Monds & O’Toole,
+2008). Finally, only by ﬁnding the genes that drive bioﬁlm
+formation can one assess the evolutionary forces acting
+upon bioﬁlms through the comparison of sequence varia-
+tion within and between species (Smith et al., 2005).
+
+Coordination: are biofilms orchestrated
+communities?
+
+We have seen that complex bioﬁlm structures may arise
+from the uncoordinated behavior of many cells responding
+to variable microenvironments. This observation, in turn,
+suggests that any explanation of bioﬁlm structure that
+assumes whole-bioﬁlm coordination must be tested against
+the more parsimonious hypothesis that bioﬁlm structure
+does not strictly depend on intercellular communication.
+Comparing alternative models of bioﬁlm formation will
+beneﬁt from a close interaction between laboratory experi-
+ments and theoretical approaches that allow rapid in silico
+manipulation of bacterial behaviors and environmental
+conditions. Such an interaction between theory and experi-
+ment may be helped by recent microﬂuidic chamber techni-
+ques, with which nutrient gradients and the density and
+position of bacteria can be manipulated at a high spatial
+resolution (Keymer et al., 2006). How can these techniques
+be used to identify instances of coordination among bacter-
+ia? A promising direction is to further explore examples,
+such as B. subtilis competence, in which differentiation into
+multiple cell types occurs in the absence of nutrient gradi-
+ents but does require quorum-sensing systems and high
+population density (Dubau & Losick, 2006). Another en-
+during question concerns how bioﬁlms achieve stability in
+the face of disturbances, such as physical trauma or anti-
+microbial treatment. Do the robustness and adaptability of
+bioﬁlms rest upon coordination and cooperation among
+bacteria, or can they arise among cells that are merely
+competing to grow as quickly as possible (Bonabeau et al.,
+1999)?
+
+Cooperation: what are the costs and benefits of
+biofilm-associated behaviors?
+
+Understanding the evolution of bioﬁlm-associated beha-
+viors requires that we identify which cells are affected by
+each behavior. The two key questions are (1) what are the
+costs and beneﬁts of a behavior to the cell that expresses it
+and (2) what are the costs and beneﬁts of a behavior to cells
+other than the individual that expresses it? Answering these
+questions will require bioﬁlm competition experiments with
+isogenic strains that differ only at the loci controlling a social
+behavior of
+interest. Focusing on one or a few social
+behaviors at a time – and on all parties affected by each
+social behavior – is required to determine whether such
+the evolution of cooperation
+behaviors truly represent
+
+c(cid:1) 2008 Federation of European Microbiological Societies
+Published by Blackwell Publishing Ltd. All rights reserved
+
+FEMS Microbiol Rev 33 (2009) 206–224
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+f
+r
+o
+m
+h
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+f
+
+l
+
+/
+
+/
+
+/
+
+/
+
+/
+
+e
+m
+s
+r
+e
+a
+r
+t
+i
+c
+e
+3
+3
+1
+2
+0
+6
+2
+6
+8
+3
+8
+1
+2
+b
+y
+L
+o
+m
+m
+e
+n
+H
+e
+a
+
+l
+t
+
+i
+
+i
+
+h
+S
+c
+e
+n
+c
+e
+s
+L
+b
+r
+a
+r
+y
+u
+s
+e
+r
+o
+n
+2
+3
+F
+e
+b
+r
+u
+a
+r
+y
+2
+0
+2
+4
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sociobiology of bioﬁlms
+
+219
+
+(Table 1; Box 2). On the other hand, mixed-species bioﬁlm
+observations can be difﬁcult to interpret. Showing that
+a two-species bioﬁlm is more than twice as productive
+as either of the corresponding one-species bioﬁlms, for
+example, does not prove mutual cooperation; it may instead
+reﬂect exploitation of one species by the other (Hansen
+et al., 2007). Assessing the costs and beneﬁts of quorum-
+sensing and bioﬁlm-associated behaviors will also inform
+our distinction between uncoordinated and coordinated
+bacterial aggregates, for which the difference between eaves-
+dropping and altruistic signaling is so important. Under-
+standing the ﬁtness effects of bioﬁlm-associated behaviors
+may also reveal the Achilles heel of pathogenic species,
+which often rely on secreted enzymes and nutrient-seques-
+tering compounds for their virulence. Theory predicts that
+altruistic traits will be the most unstable to social manipula-
+tions, such as the introduction of probiotic bacterial species
+in the digestive tract (Saxelin et al., 2005).
+
+Ecology: which strains and species are in the
+biofilm, and how are they arranged?
+
+A better understanding of the natural ecology of bioﬁlms is
+required to assess how the costs and beneﬁts of bacterial
+behaviors measured in the laboratory translate into ﬁtness
+effects. A ﬁrst step is to identify all the species and strains
+within natural bioﬁlms,
+for which culture-independent
+techniques such as phylochips (DeSantis et al., 2007) and
+high-throughput sequencing show promise. Such coarse-
+grained diversity measurements provide a useful ﬁrst proxy
+of the potential for cooperation within bacterial groups: the
+higher the proportion of a single strain within a bioﬁlm, the
+more likely cooperative behavior can evolve and remain
+stable against exploitative mutants. Assaying diversity across
+time and space is also important, however, because strong
+initial competition may whittle down an initially diverse
+bioﬁlm to a few species that then cooperate (Cascales et al.,
+2007). In addition, cell
+lineages may partially segregate
+within bioﬁlms simply because cell division and limited
+movement tend to produce clonal clusters (Kreft, 2004b;
+Xavier & Foster, 2007). Under such conditions, the evolu-
+tion of public good secretion may occur more easily and
+remain more stable than in mixed culture, where coopera-
+tive cells are readily susceptible to exploitation (Grifﬁn et al.,
+2004; Diggle et al., 2007a; Sandoz et al., 2007).
+
+Conclusion
+
+The ecological success of bioﬁlms is underlined by their
+resilience in the face of numerous challenges, be they the
+shear forces of a river current or the roaming macrophages
+of a host’s immune system. It is not yet clear whether
+bioﬁlms’ structural properties and capacity for perseverance
+rely on organization and harmony among the cells that
+
+reside in them. While some bioﬁlms may contain differen-
+tiated cells that work in concert, many are likely to be
+dominated by bacteria that simply compete to gather
+limited resources and to divide as rapidly as possible.
+Understanding the extent of coordination and cooperation
+in bioﬁlms is paramount to building a complete picture of
+how bioﬁlms form and how to manipulate them. While
+bioﬁlms are a highly visible hallmark of bacteria sociality,
+the application of concepts from sociobiology to bioﬁlm
+research is only now beginning.
+
+Acknowledgements
+
+We are very thankful for comments from Katharina Ribbeck,
+Tim Tolker-Nielsen, Russell Monds, Jan Kreft, Rob Palmer,
+Steve Diggle, and two anonymous reviewers, which greatly
+improved the manuscript. C.D.N. is supported by an NSF
+graduate research fellowship, a Centennial Fellowship from
+Princeton University, and a student grant from Sigma Xi.
+K.R.F. and J.B.X. are supported by the National Institute of
+General Medical Sciences Center of Excellence Grant 5P50
+GM 068763–01.
+
+Authors’contribution
+
+C.D.N. and J.B.X. contributed equally to this work.
+
+References
+
+Alexander RD (1974) The evolution of social behavior. Annu Rev
+
+Ecol Syst 5: 325–383.
+
+Allesen-Holm M, Barken K, Yang L et al. (2006) A
+
+characterization of DNA release in Pseudomonas aeruginosa
+cultures and bioﬁlms. Mol Microbiol 59: 1114–1128.
+
+Allison DG, Heys SJD, Willcock L, Holah J & Gilbert P (1999)
+Cellular detachment and dispersal from bacterial bioﬁlms: a
+role for quorum sensing? Bioﬁlms: The Good, the Bad and the
+Ugly (Wimpenny JWT, Gilbert P, Walker JT, Brading ME &
+Bayston R, eds), pp. 279–293. Bioline, Cardiff.
+
+Arvidson S (2000) Extracellular enzymes. Gram-Positive
+
+Pathogens (Fischetti VA, Novick RP, Ferretti JJ, Portnoy DA &
+Rood JI, eds), pp. 379–385. ASM Press, Washington, DC.
+Balaban NQJ, Merrin J, Chait R, Kowalik L & Leibler S (2004)
+Bacterial persistence as a phenotypic switch. Science 305:
+1622–1625.
+
+Bassler B & Losick R (2006) Bacterially speaking. Cell 125:
+
+237–246.
+
+Bazazi S, Buhl J, Hale J, Anstey M, Sword G, Simpson S & Couzin
+
+ID (2008) Collective motion and cannibalism in locust
+migratory bands. Curr Biol 18: 1–5.
+
+Beenken KE, Dunman PM, McAleese F et al. (2004) Global gene
+expression in Staphylococcus aureus bioﬁlms. J Bacteriol 186:
+4665–4684.
+
+FEMS Microbiol Rev 33 (2009) 206–224
+
+c(cid:1) 2008 Federation of European Microbiological Societies
+Published by Blackwell Publishing Ltd. All rights reserved
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+f
+r
+o
+m
+h
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+f
+
+l
+
+/
+
+/
+
+/
+
+/
+
+/
+
+e
+m
+s
+r
+e
+a
+r
+t
+i
+c
+e
+3
+3
+1
+2
+0
+6
+2
+6
+8
+3
+8
+1
+2
+b
+y
+L
+o
+m
+m
+e
+n
+H
+e
+a
+
+l
+t
+
+i
+
+i
+
+h
+S
+c
+e
+n
+c
+e
+s
+L
+b
+r
+a
+r
+y
+u
+s
+e
+r
+o
+n
+2
+3
+F
+e
+b
+r
+u
+a
+r
+y
+2
+0
+2
+4
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+220
+
+C.D. Nadell et al.
+
+Beloin C & Ghigo JM (2005) Finding gene-expression patterns in
+
+bacterial bioﬁlms. Trends Microbiol 13: 16–19.
+
+Crespi BJ (2001) The evolution of social behavior in
+microorganisms. Trends Ecol Evol 16: 178–183.
+
+Boles BR, Thoendel M & Singh PK (2004) Self-generated
+
+Danese PN, Pratt LA & Kolter R (2000) Exopolysaccharide
+
+diversity produces ‘‘insurance effects’’ in bioﬁlm communities.
+P Natl Acad Sci USA 101: 16630–16635.
+
+Bonabeau E, Dorigo M & Theraulaz G (1999) Swarm Intelligence:
+From Natural to Artiﬁcial Systems. Oxford University Press,
+New York.
+
+Branda SS, Gonz´alez-Pastor JE, Ben-Yehuda S, Losick R & Kolter
+R (2001) Fruiting body formation by Bacillus subtilis. P Natl
+Acad Sci USA 98: 11621–11626.
+
+Braxton EE, Ehrlich GD, Hall-Stoodley L et al. (2005) Role of
+
+bioﬁlms in neurosurgical device-related infections. Neurosurg
+Rev 28: 249–255.
+
+Broda E (1977) Two kinds of lithotrophs missing in nature.
+Zeitschrift Fur Allgemeine Mikrobiologie 17: 491–493.
+
+Brooun A, Liu SH & Lewis K (2000) A dose-response study of
+antibiotic resistance in Pseudomonas aeruginosa bioﬁlms.
+Antimicrob Agents Ch 44: 640–646.
+
+Brown SP, Hochberg ME & Grenfell BT (2002) Does multiple
+infection select for raised virulence? Trends Microbiol 10:
+401–405.
+
+Burns JL, Gibson RL, McNamara S et al. (2001) Longitudinal
+
+assessment of Pseudomonas aeruginosa in young children with
+cystic ﬁbrosis. J Infect Dis 183: 444–452.
+
+Cascales E, Buchanan SK, Duche D et al. (2007) Colicin biology.
+
+Microbiol Mol Biol R 71: 158–229.
+
+Characklis WG (1990) Bioﬁlms (Characklis WG & Marshall KC,
+
+eds), pp. 195–232. Wiley Interscience, New York.
+
+Characklis WG, Turakhia MH & Zelver N (1990) Transport and
+interfacial transfer phenomena. Bioﬁlms (Characklis WG &
+Marshall KC, eds), pp. 316–340. Wiley Interscience, New York.
+
+Chen I, Provvedi R & Dubnau D (2006) A macromolecular
+
+complex formed by a pilin-like protein in competent Bacillus
+subtilis. J Biol Chem 281: 21720–21727.
+
+Claverys JP & H˚avarstein LS (2007) Cannibalism and fratricide:
+mechanisms and raisons d’eˆtre. Nat Rev Microbiol 5: 219–229.
+
+Claverys JP, Martin B & H˚avarstein LS (2007) Competence-
+induced fratricide in streptococci. Mol Microbiol 64:
+1423–1433.
+
+Costa E, Perez J & Kreft JU (2006) Why is metabolic labour
+divided in nitriﬁcation? Trends Microbiol 14: 213–219.
+
+Costerton JW, Lewadowski Z, DeBeer D, Caldwell D, Korver D &
+
+James G (1994) Bioﬁlms, the customized microniche.
+J Bacteriol 176: 2137–2142.
+
+Costerton JW, Montanaro L & Arciola CR (2005) Bioﬁlm in
+
+implant infections: its production and regulation. Int J Artif
+Organs 28: 1062–1068.
+
+Couzin ID (2007) Collective minds. Nature 445: 715.
+Couzin ID, Krause J, James R, Ruxton GD & Franks NR (2002)
+Collective memory and spatial sorting in animal groups.
+J Theor Biol 218: 1–11.
+
+Couzin ID, Krause J, Franks NR & Levin SA (2005) Effective
+leadership and decision-making in animal groups on the
+move. Nature 433: 513–516.
+
+production is required for development of Escherichia coli
+K-12 bioﬁlm architecture. J Bacteriol 182: 3593–3596.
+
+Danese PN, Pratt LA & Kolter R (2001) Bioﬁlm formation as a
+developmental process. Microb Growth Bioﬁlms, Pt A 336:
+19–26.
+
+D’Argenio DA, Calfee MW, Rainey PB & Pesci EC (2002)
+
+Autolysis and autoaggregation in Pseudomonas aeruginosa
+colony morphology mutants. J Bacteriol 184: 6481–6489.
+D’Argenio DA, Wu MH, Hoffman LR et al. (2007) Growth
+
+phenotypes of Pseudomonas aeruginosa lasR mutants adapted
+to the airways of cystic ﬁbrosis patients. Mol Microbiol 64:
+512–533.
+
+Davies DG, Chakrabarty AM & Geesey GG (1993)
+
+Exopolysaccharide production in bioﬁlms – substratum
+activation of alginate gene-expression by Pseudomonas
+aeruginosa. Appl Environ Microb 59: 1181–1186.
+
+Davies DG, Parsek MR, Pearson JP, Iglewski BH, Costerton JW &
+Greenberg EP (1998) The involvement of cell-to-cell signals in
+the development of a bacterial bioﬁlm. Science 280: 295–298.
+De Beer D, Stoodley P & Lewadowski Z (1994a) Liquid ﬂow in
+heterogeneous bioﬁlms. Biotechnol Bioeng 44: 636–641.
+
+De Beer D, Stoodley P, Roe F & Lewadowski Z (1994b) Effects of
+bioﬁlm structures on oxygen distribution and mass transport.
+Biotechnol Bioeng 43: 1131–1138.
+
+de Kreuk MK & van Loosdrecht MCM (2004) Selection of slow
+
+growing organisms as a means for improving aerobic granular
+sludge stability. Water Sci Technol 49: 9–17.
+
+DeSantis TZ, Brodie EL, Moberg JP, Zubieta IX, Piceno YM &
+Andersen GL (2007) High-density universal 16S rRNA
+microarray analysis reveals broader diversity than typical clone
+library when sampling the environment. Microb Ecol 53:
+371–383.
+
+Diggle S, Grifﬁn A, Campbell G & West S (2007a) Cooperation
+
+and conﬂict in quorum-sensing bacterial populations. Nature
+450: 411–414.
+
+Diggle SP, Gardner A, West SA & Grifﬁn AS (2007b) Evolutionary
+theory of bacterial quorum sensing: when is a signal not a
+signal? Philos T Roy Soc B 362: 1241–1249.
+
+Dockery J & Klapper I (2001) Finger formation in bioﬁlm layers.
+
+SIAM J Appl Math 62: 853–869.
+
+Dow JM, Crossman L, Findlay K, He YQ, Feng JX & Tang JL
+(2003) Bioﬁlm dispersal in Xanthomonas campestris is
+controlled by cell-cell signaling and is required for full
+virulence to plants. P Natl Acad Sci USA 100: 10995–11000.
+Dubau D & Losick R (2006) Bistability in bacteria. Mol Microbiol
+
+61: 564–572.
+
+Dubnau D, Davidoff-Abelson R, Scher B & Cirigliano C (1973)
+Fate of transforming deoxyribonucleic acid after uptake by
+competent Bacillus subtilis: phenotypic characterization of
+radiation-sensitive recombination-deﬁcient mutants.
+J Bacteriol 114: 273–286.
+
+c(cid:1) 2008 Federation of European Microbiological Societies
+Published by Blackwell Publishing Ltd. All rights reserved
+
+FEMS Microbiol Rev 33 (2009) 206–224
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+f
+r
+o
+m
+h
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+f
+
+l
+
+/
+
+/
+
+/
+
+/
+
+/
+
+e
+m
+s
+r
+e
+a
+r
+t
+i
+c
+e
+3
+3
+1
+2
+0
+6
+2
+6
+8
+3
+8
+1
+2
+b
+y
+L
+o
+m
+m
+e
+n
+H
+e
+a
+
+l
+t
+
+i
+
+i
+
+h
+S
+c
+e
+n
+c
+e
+s
+L
+b
+r
+a
+r
+y
+u
+s
+e
+r
+o
+n
+2
+3
+F
+e
+b
+r
+u
+a
+r
+y
+2
+0
+2
+4
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sociobiology of bioﬁlms
+
+221
+
+Dunne WM (2002) Bacterial adhesion: seen any good bioﬁlms
+
+lately? Clin Microbiol Rev 15: 155–166.
+
+Durrett R & Levin S (1997) Allelopathy in spatially distributed
+
+populations. J Theor Biol 185: 65–171.
+
+Fiegna F & Velicer GJ (2005) Exploitative and hierarchical
+antagonism in a cooperative bacterium. PLoS Biol 3:
+1980–1987.
+
+Flemming H-C, Neu TR & Wozniak DJ (2007) The EPS matrix:
+the ‘‘House of bioﬁlm cells’’. J Bacteriol 189: 7945–7947.
+Foster K, Shaulsky G, Strassmann J, Queller D & Thompson C
+(2004) Pleiotropy as a mechanism to stabilize cooperation.
+Nature 431: 693–696.
+
+Foster KR (2004) Diminishing returns in social evolution: the
+not-so-tragic commons. J Evolution Biol 17: 1058–1072.
+Foster KR & Wenseleers T (2006) A general model for the
+
+evolution of mutualisms. J Evolution Biol 19: 1283–1293.
+
+Foster KR & Xavier JB (2007) Cooperation: bridging ecology and
+
+sociobiology. Curr Biol 17: R319–R321.
+
+Foster KR, Parkinson K & Thompson CR (2007) What can
+
+microbial genetics teach sociobiology? Trends Genet 23: 74–80.
+
+Freter R & Obrien PCM (1981) Role of chemotaxis in the
+association of motile bacteria with intestinal-mucosa –
+chemotactic responses of Vibrio cholerae and description of
+motile non-chemotactic mutants. Infect Immun 34: 215–221.
+
+Hammer BK & Bassler BL (2003) Quorum sensing controls
+bioﬁlm formation in Vibrio cholerae. Mol Microbiol 50:
+101–104.
+
+Hansen S, Rainey P, Haagensen J & Molin SR (2007) Evolution of
+species interactions in a bioﬁlm community. Nature 445:
+533–536.
+
+Heithoff D & Mahan M (2004) Vibrio cholerae bioﬁlms: stuck
+
+between a rock and a hard place. J Bacteriol 186: 4835–4837.
+Hense BA, Kuttler C, Muller J, Rothballer M, Hartmann A & Kreft
+
+J-U (2007) Does efﬁciency sensing unify diffusion and
+quorum sensing? Nat Rev Microbiol 5: 230–239.
+
+Hinsa SM, Espinosa-Urgel M, Ramos JL & O’Toole GA (2003)
+Transition from reversible to irreversible attachment during
+bioﬁlm formation by Pseudomonas ﬂuorescens WCS365
+requires an ABC transporter and a large secreted protein. Mol
+Microbiol 49: 905–918.
+
+Isaka K, Date Y, Sumino T, Yoshie S & Tsuneda S (2006) Growth
+characteristic of anaerobic ammonium-oxidizing bacteria in
+an anaerobic biological ﬁltrated reactor. Appl Microbiol Biot
+70: 47–52.
+
+Jass J & Walker JT (2000) Bioﬁlms and biofouling. Industrial
+Biofouling – Detection, Prevention and Control (Walker JT,
+Surman S & Jass J, eds), pp. 1–12. John Wiley & Sons, New
+York.
+
+Friedman L & Kolter R (2004) Genes involved in matrix
+
+Julien B, Kaiser AD & Garza A (2000) Spatial control of cell
+
+formation in Pseudomonas aeruginosa PA14 bioﬁlms. Mol
+Microbiol 51: 675–690.
+
+Fux CA, Costerton JW, Stewart PS & Stoodley P (2005) Survival
+strategies of infectious bioﬁlms. Trends Microbiol 13: 34–40.
+Gardner A (2007) Is bacterial persistence a social trait? PLoS ONE
+
+2: e752.
+
+differentiation in Myxococcus xanthus. P Natl Acad Sci USA 97:
+9098–9103.
+
+Kearns D, Chu F, Rudner R & Losick R (2004) Genes governing
+
+swarming in Bacillus subtilis and evidence for a phase variation
+mechanism controlling surface motility. Mol Microbiol 52:
+357–369.
+
+Gardner A & Foster KR (2008) The evolution and ecology of
+
+Kearns DB, Chu F, Branda SS, Kolter R & Losick R (2005) A
+
+cooperation – history and concepts. Ecology of Social Evolution
+(Korb J & Heinze J, eds), pp. 1–36. Springer, Heidelberg.
+Ghigo JM (2001) Natural conjugative plasmids induce bacterial
+
+bioﬁlm development. Nature 412: 442–445.
+
+Gonzalez-Pastor JE, Hobbs EC & Losick R (2003) Cannibalism by
+
+sporulating bacteria. Science 301: 510–513.
+
+Govan JR & Deretic V (1996) Microbial pathogenesis in cystic
+ﬁbrosis: mucoid Pseudomonas aeruginosa and Burkholderia
+cepacia. Microbiol Mol Biol R 9: 539–574.
+
+Grifﬁn AS, West SA & Buckling A (2004) Cooperation and
+
+competition in pathogenic bacteria. Nature 430: 1024–1027.
+
+Haagensen JAJ, Klausen M, Ernst RK, Miller SI, Folkesson A,
+Tolker-Nielsen T & Molin S (2007) Differentiation and
+distribution of colistin- and sodium dodecyl sulfate-tolerant
+cells in Pseudomonas aeruginosa bioﬁlms. J Bacteriol 189:
+28–37.
+
+Hall-Stoodley L & Stoodley P (2002) Developmental regulation
+
+of microbial bioﬁlms. Curr Opin Biotech 13: 228–233.
+Hall-Stoodley L, Costerton JW & Stoodley P (2004) Bacterial
+
+bioﬁlms: from the natural environment to infectious diseases.
+Nat Rev Microbiol 2: 95–108.
+
+master regulator for bioﬁlm formation by Bacillus subtilis. Mol
+Microbiol 55: 739–749.
+
+Keller L & Surette MG (2006) Communication in bacteria: an
+
+ecological and evolutionary perspective. Nat Rev Microbiol 4:
+249–258.
+
+Keymer JE, Galajda P, Muldoon C, Park S & Austin RH (2006)
+Bacterial metapopulations in nanofabricated landscapes.
+P Natl Acad Sci USA 103: 17290–17295.
+
+Klausen M, Aaes-Jorgensen A, Molin S & Tolker-Nielsen T
+
+(2003a) Involvement of bacterial migration in the
+development of complex multicellular structures in
+Pseudomonas aeruginosa bioﬁlms. Mol Microbiol 50: 61–68.
+Klausen M, Heydorn A, Ragas P, Lambertsen L, Aaes-Jorgensen
+A, Molin S & Tolker-Nielsen T (2003b) Bioﬁlm formation by
+Pseudomonas aeruginosa wild type, ﬂagella and type IV pili
+mutants. Mol Microbiol 48: 1511–1524.
+
+Kolenbrander PE (2000) Oral microbial communities: bioﬁlms,
+interactions, and genetic systems. Annu Rev Microbiol 54:
+413–437.
+
+Krause J & Ruxton GD (2002) Living in Groups. Oxford
+
+University Press, New York.
+
+Hamilton WD (1964) The genetical evolution of social behaviour
+
+Kreft JU (2004a) Conﬂicts of interest in bioﬁlms. Bioﬁlms 1:
+
+I & II. J Theor Biol 7: 1–52.
+
+265–276.
+
+FEMS Microbiol Rev 33 (2009) 206–224
+
+c(cid:1) 2008 Federation of European Microbiological Societies
+Published by Blackwell Publishing Ltd. All rights reserved
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+f
+r
+o
+m
+h
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+f
+
+l
+
+/
+
+/
+
+/
+
+/
+
+/
+
+e
+m
+s
+r
+e
+a
+r
+t
+i
+c
+e
+3
+3
+1
+2
+0
+6
+2
+6
+8
+3
+8
+1
+2
+b
+y
+L
+o
+m
+m
+e
+n
+H
+e
+a
+
+l
+t
+
+i
+
+i
+
+h
+S
+c
+e
+n
+c
+e
+s
+L
+b
+r
+a
+r
+y
+u
+s
+e
+r
+o
+n
+2
+3
+F
+e
+b
+r
+u
+a
+r
+y
+2
+0
+2
+4
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+222
+
+C.D. Nadell et al.
+
+Kreft JU (2004b) Bioﬁlms promote altruism. Microbiol-SGM 150:
+
+2751–2760.
+
+Kreft JU, Picioreanu C, Wimpenny JWT & van Loosdrecht MCM
+(2001) Individual-based modelling of bioﬁlms. Microbiol-
+SGM 147: 2897–2912.
+
+Kuhl M, Rickelt LF & Thar R (2007) Combined imaging of
+bacteria and oxygen in bioﬁlms. Appl Environ Microb 73:
+6289–6295.
+
+Kussell E & Leibler S (2005) Phenotypic diversity, population
+
+growth, and information in ﬂuctuating environments. Science
+309: 2075–2078.
+
+Kwok WK, Picioreanu C, Ong SL, Van Loosdrecht MCM, Ng WJ
+& Heijnen JJ (1998) Inﬂuence of biomass production and
+detachment forces on bioﬁlm structures in a bioﬁlm airlift
+suspension reactor. Biotechnol Bioeng 58: 400–407.
+
+Latasa C, Roux A, Toledo-Arana A, Ghigo J, Gamazo C, Penades J
+& Lasa I (2005) BapA, a large secreted protein required for
+bioﬁlm formation and host colonization of Salmonella enterica
+serovar Enteritidis. Mol Microbiol 58: 1322–1339.
+
+Pseudomonas aeruginosa infecting cystic ﬁbrosis patients.
+P Natl Acad Sci USA 90: 8377–8381.
+
+Matz C, McDougald D, Moreno AM, Yung PY, Yildiz FH &
+Kjelleberg S (2005) Bioﬁlm formation and phenotypic
+variation enhance predation-driven persistence of Vibrio
+cholerae. P Natl Acad Sci USA 102: 16819–16824.
+
+McDougald D, Lin W, Rice S & Kjelleberg S (2006) The role of
+
+quorum sensing and the effect of environmental conditions on
+bioﬁlm formation by strains of Vibrio vulniﬁcus. Biofouling 22:
+133–144.
+
+Meibom KL, Li XB, Nielsen AT, Wu CY, Roseman S & Schoolnik
+GK (2004) The Vibrio cholerae chitin utilization program.
+P Natl Acad Sci USA 101: 2524–2529.
+
+Meibom KL, Blokesch M, Dolganov NA, Wu C-Y & Schoolnik
+GK (2005) Chitin induces natural competence in Vibrio
+cholerae. Science 310: 1824–1827.
+
+Michod RE & Roze D (2001) Cooperation and conﬂict in the
+
+evolution of multicellularity. Heredity 86: 1–7.
+
+Miller MB & Bassler BL (2001) Quorum sensing in bacteria. Annu
+
+Lee B, Haagensen JAJ, Ciofu O, Andersen JB, Hoiby N & Molin S
+
+Rev Microbiol 55: 165–199.
+
+(2005) Heterogeneity of bioﬁlms formed by nonmucoid
+Pseudomonas aeruginosa isolates from patients with cystic
+ﬁbrosis. J Clin Microbiol 43: 5247–5255.
+
+Lehmann L & Keller L (2006) The evolution of cooperation and
+altruism - a general framework and a classiﬁcation of models.
+J Evolution Biol 19: 1365–1376.
+
+Lewandowski Z, Beyenal H & Stookey D (2004) Reproducibility
+of bioﬁlm processes and the meaning of steady state in bioﬁlm
+reactors. Water Sci Technol 49: 359–364.
+
+Lewis K (2007) Persister cells, dormancy and infectious disease.
+
+Nat Rev Microbiol 5: 48–56.
+
+Liu Z, Stirling F & Zhu J (2007) Temporal quorum-sensing
+
+induction regulates Vibrio cholerae bioﬁlm architecture. Infect
+Immun 75: 122–126.
+
+Monds R & O’Toole GA (2008) Developmental models of
+
+microbial bioﬁlms: ten years of paradigm up for review. Trends
+Microbiol, in press.
+
+Moxon ER, Sweetman WA, Deadman ME, Ferguson DJ & Hood
+DW (2008) Haemophilus inﬂuenzae bioﬁlms: hypothesis or
+fact? Trends Microbiol 16: 95–100.
+
+Nadell CD, Xavier JB, Levin SA & Foster KR (2008) The evolution
+of quorum sensing in bacterial bioﬁlms. PLoS Biol 6: e14.
+
+Noguera DR, Pizarro G, Stahl DA & Rittmann BE (1999)
+
+Simulation of multispecies bioﬁlm development in three
+dimensions. Water Sci Technol 39: 503–510.
+
+Obst U, Schwartz T & Volkmann H (2006) Antibiotic resistant
+pathogenic bacteria and their resistance genes in bacterial
+bioﬁlms. Int J Artif Organs 29: 387–394.
+
+Losick R & Desplan C (2008) Stochasticity and cell fate. Science
+
+Okabe S, Satoh H & Watanabe Y (1999) In situ analysis of
+
+320: 65–68.
+
+Lydmark P, Lind M, Sorensson F & Hermansson M (2006)
+
+Vertical distribution of nitrifying populations in bacterial
+bioﬁlms from a full-scale nitrifying trickling ﬁlter. Environ
+Microbiol 8: 2036–2049.
+
+MacLean RC & Gudelj I (2006) Resource competition and social
+conﬂict in experimental populations of yeast. Nature 441:
+498–501.
+
+Mah TF, Pitts B, Pellock B, Walker GC, Stewart PS & O’Toole GA
+(2003) A genetic basis for Pseudomonas aeruginosa bioﬁlm
+antibiotic resistance. Nature 426: 306–310.
+
+Mah TFC & O’Toole GA (2001) Mechanisms of bioﬁlm resistance
+
+to antimicrobial agents. Trends Microbiol 9: 34–39.
+Manos J, Curtis M, Tingpej P, Arthur J, Rose B, Bye PT &
+Harbour C (2007) Enhanced bioﬁlm formation and
+downregulation of gene expression are features of a
+transmissible Pseudomonas aeruginosa clone from cystic
+ﬁbrosis patients. Pediatr Pulm 325.
+
+Martin DW, Schurr MJ, Mudd MH, Govan JR, Holloway BW &
+Deretic V (1993) Mechanism of conversion to mucoidy in
+
+nitrifying bioﬁlms as determined by in situ hybridization and
+the use of microelectrodes. Appl Environ Microb 65:
+3182–3191.
+
+O’Toole G, Kaplan HB & Kolter R (2000a) Bioﬁlm formation as
+
+microbial development. Annu Rev Microbiol 54: 49–79.
+O’Toole GA & Kolter R (1998) Flagellar and twitching motility
+
+are necessary for Pseudomonas aeruginosa bioﬁlm
+development. Mol Microbiol 30: 295–304.
+
+O’Toole GA, Kaplan HB & Kolter R (2000b) Bioﬁlm formation as
+
+microbial development. Annu Rev Microbiol 54: 49–79.
+
+Pamp SJ, Gjermansen M, Johansen HK & Tolker-Nielsen T (2008)
+Tolerance to the antimicrobial peptide colistin in Pseudomonas
+aeruginosa bioﬁlms is linked to metabolically active cells, and
+depends on the pmr and mexAB-oprM genes. Mol Microbiol 68:
+223–240.
+
+Parsek MR & Greenberg EP (2005) Sociomicrobiology: the
+
+connections between quorum sensing and bioﬁlms. Trends
+Microbiol 13: 27–33.
+
+Paulsson J (2002) Multilevel selection on plasmid replication.
+
+Genetics 161: 1373–1384.
+
+c(cid:1) 2008 Federation of European Microbiological Societies
+Published by Blackwell Publishing Ltd. All rights reserved
+
+FEMS Microbiol Rev 33 (2009) 206–224
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+f
+r
+o
+m
+h
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+f
+
+l
+
+/
+
+/
+
+/
+
+/
+
+/
+
+e
+m
+s
+r
+e
+a
+r
+t
+i
+c
+e
+3
+3
+1
+2
+0
+6
+2
+6
+8
+3
+8
+1
+2
+b
+y
+L
+o
+m
+m
+e
+n
+H
+e
+a
+
+l
+t
+
+i
+
+i
+
+h
+S
+c
+e
+n
+c
+e
+s
+L
+b
+r
+a
+r
+y
+u
+s
+e
+r
+o
+n
+2
+3
+F
+e
+b
+r
+u
+a
+r
+y
+2
+0
+2
+4
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sociobiology of bioﬁlms
+
+223
+
+Pesci E, Pearson J, Seed P & Iglewski B (1997) Regulation of las
+
+and rhl quorum sensing in Pseudomonas aeruginosa. J Bacteriol
+179: 3127–3132.
+
+Pfeiffer T (2001) Cooperation and competition in the evolution
+
+of ATP-producing pathways. Science 292: 504–507.
+
+Pfeiffer T & Schuster S (2005) Game-theoretical approaches to
+
+studying the evolution of biochemical systems. Trends Biochem
+Sci 30: 20–25.
+
+Picioreanu C, van Loosdrecht MCM & Heijnen JJ (1998a)
+
+Mathematical modeling of bioﬁlm structure with a hybrid
+differential-discrete cellular automaton approach. Biotechnol
+Bioeng 58: 101–116.
+
+Picioreanu C, van Loosdrecht MCM & Heijnen JJ (1998b) A new
+combined differential-discrete cellular automaton approach
+for bioﬁlm modeling: application for growth in gel beads.
+Biotechnol Bioeng 57: 718–731.
+
+Picioreanu C, Kreft JU & van Loosdrecht MCM (2004) Particle-
+based multidimensional multispecies bioﬁlm model. Appl
+Environ Microb 70: 3024–3040.
+
+Pratt LA & Kolter R (1998) Genetic analysis of Escherichia coli
+
+bioﬁlm formation: roles of ﬂagella, motility, chemotaxis and
+type I pili. Mol Microbiol 30: 285–293.
+
+Purevdorj B, Costerton JW & Stoodley P (2002) Inﬂuence of
+hydrodynamics and cell signaling on the structure and
+behavior of Pseudomonas aeruginosa bioﬁlms. Appl Environ
+Microb 68: 4457–4464.
+
+Rainey PB & Rainey K (2003) Evolution of cooperation and
+
+conﬂict in experimental bacterial populations. Nature 425:
+72–74.
+
+Ramsing NB, Kuhl M & Jorgensen BB (1993) Distribution of
+sulfate-reducing bacteria, O2, and H2S in photosynthetic
+bioﬁlms determined by oligonucleotide probes and
+microelectrodes. Appl Environ Microb 59: 3840–3849.
+Ratnieks FLW & Reeve HK (1992) Conﬂict in single-queen
+
+hymenopteran societies: the structure of conﬂict and processes
+that reduce conﬂict in advanced eusocial species. J Theor Biol
+158: 33–65.
+
+Redﬁeld RJ (2002) Is quorum sensing a side effect of diffusion
+
+sensing? Trends Microbiol 10: 365–370.
+
+Roeselers G, Huisjes EH, van Loosdrecht MCM & Muyzer G
+
+(2008) Diversity and expression of cyanobacterial hupS genes
+in pure cultures and in a nitrogen-limited phototrophic
+bioﬁlm. FEMS Microbiol Ecol 63: 292–300.
+
+Sakuragi Y & Kolter R (2007) Quorum-sensing regulation of the
+
+bioﬁlm matrix genes (pel) of Pseudomonas aeruginosa.
+J Bacteriol 189: 5383–5386.
+
+Sandoz KM, Mitzimberg SM & Schuster M (2007) Social cheating
+in Pseudomonas aeruginosa quorum sensing. P Natl Acad Sci
+USA 104: 15876–15881.
+
+Sauer K, Camper AK, Ehrlich GD, Costerton JW & Davies DG
+
+(2002) Pseudomonas aeruginosa displays multiple phenotypes
+during development as a bioﬁlm. J Bacteriol 184: 1140–1154.
+
+Saxelin M, Tynkkynen S, Mattila-Sandholm T & de Vos WM
+
+(2005) Probiotic and other functional microbes: from markets
+to mechanisms. Curr Opin Biotech 16: 104–211.
+
+Scheffer M & van Nes EH (2006) Self-organized similarity, the
+evolutionary emergence of groups of similar species. P Natl
+Acad Sci USA 103: 6230–6235.
+
+Schembri MA, Kjaergaard K & Klemm P (2003) Global gene
+expression in Escherichia coli bioﬁlms. Mol Microbiol 48:
+253–267.
+
+Schoolnik GK, Voskuil MI, Schnappinger D et al. (2001) Whole
+
+genome DNA microarray expression analysis of bioﬁlm
+development by Vibrio cholerae O1 El Tor. Microb Growth
+Bioﬁlms, Pt A 336: 3–18.
+
+Schuster M & Greenberg EP (2006) A network of networks:
+
+quorum-sensing gene regulation in Pseudomonas aeruginosa.
+Int J Med Microbiol 296: 73–81.
+
+Smith EE, Sims EH, Spencer DH, Kaul R & Olson MV (2005)
+
+Evidence for diversifying selection at the pyoverdine locus of
+Pseudomonas aeruginosa. J Bacteriol 187: 2138–2147.
+
+Smith J (2001) The social evolution of bacterial pathogenesis.
+
+Proc Roy Soc Lond B Bio 268: 61–69.
+
+Sørensen SJ, Bailey M, Hansen LH, Kroer N & Wuertz S (2005)
+Studying plasmid horizontal transfer in situ: a critical review.
+Nat Rev Microbiol 3: 700–710.
+
+Spoering AL & Lewis K (2001) Bioﬁlms and planktonic cells of
+Pseudomonas aeruginosa have similar resistance to killing by
+antimicrobials. J Bacteriol 183: 6746–6751.
+
+Stewart P (2003a) Diffusion in bioﬁlms. J Bacteriol 185:
+
+1485–1491.
+
+Stewart PS (2002) Mechanisms of antibiotic resistance in
+bacterial bioﬁlms. Int J Med Microbiol 292: 107–113.
+
+Stewart PS (2003b) Multicellular Nature of Bioﬁlm Protection from
+
+Antimicrobial Agents. BioLine, Cardiff.
+
+Stewart PS & Costerton JW (2001) Antibiotic resistance of
+
+bacteria in bioﬁlms. Lancet 358: 135–138.
+
+Stewart PS & Franklin MJ (2008) Physiological heterogeneity in
+
+bioﬁlms. Nat Rev Microbiol 6: 199–210.
+
+Stoodley P, Sauer K, Davies DG & Costerton JW (2002) Bioﬁlms
+as complex differentiated communities. Annu Rev Microbiol
+56: 187–209.
+
+Sumpter DJ (2006) The principles of collective animal behaviour.
+
+Philos T Roy Soc B 361: 5–22.
+
+Telgmann U, Horn H & Morgenroth E (2004) Inﬂuence of
+
+growth history on sloughing and erosion from bioﬁlms. Water
+Res 38: 3671–3684.
+
+Thormann KM, Saville RM, Shukla S & Spormann AM (2005)
+
+Induction of rapid detachment in Shewanella oneidensis MR-1
+bioﬁlms. J Bacteriol 187: 1014–1021.
+
+Thormann KM, Duttler S, Saville RM, Hyodo M, Shukla S,
+
+Hayakawa Y & Spormann AM (2006) Control of
+formation and cellular detachment from Shewanella
+oneidensis MR-1 bioﬁlms by cyclic di-GMP. J Bacteriol 188:
+2681–2691.
+
+van Loosdrecht MCM, Heijnen JJ, Eberl H, Kreft J &
+
+Picioreanu C (2002) Mathematical modelling of bioﬁlm
+structures. Antonie Van Leeuwenhoek Int J G 81:
+245–256.
+
+FEMS Microbiol Rev 33 (2009) 206–224
+
+c(cid:1) 2008 Federation of European Microbiological Societies
+Published by Blackwell Publishing Ltd. All rights reserved
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+f
+r
+o
+m
+h
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+f
+
+l
+
+/
+
+/
+
+/
+
+/
+
+/
+
+e
+m
+s
+r
+e
+a
+r
+t
+i
+c
+e
+3
+3
+1
+2
+0
+6
+2
+6
+8
+3
+8
+1
+2
+b
+y
+L
+o
+m
+m
+e
+n
+H
+e
+a
+
+l
+t
+
+i
+
+i
+
+h
+S
+c
+e
+n
+c
+e
+s
+L
+b
+r
+a
+r
+y
+u
+s
+e
+r
+o
+n
+2
+3
+F
+e
+b
+r
+u
+a
+r
+y
+2
+0
+2
+4
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+224
+
+C.D. Nadell et al.
+
+Vasseur P, Vallet-Gely I, Soscia C, Genin S & Filloux A (2005) The
+
+pel genes of the Pseudomonas aeruginosa PAK strain are
+involved at early and late stages of bioﬁlm formation.
+Microbiology 151: 985–997.
+
+Vendeville A, Winzer K, Heurlier K, Tang CM & Hardie KR
+
+(2005) Making ‘sense’ of metabolism: autoinducer-2, LuxS
+and pathogenic bacteria. Nat Rev Microbiol 3: 383–396.
+Visca P, Imperi F & Lamont I (2007) Pyoverdine siderophores:
+
+from biogenesis to biosigniﬁcance. Trends Microbiol 15: 22–30.
+
+Visick KL, Foster J, Doino J, McFall-Ngai M & Ruby EG (2000)
+
+Vibrio ﬁscheri lux genes play an important role in the
+colonization and development of the host light organ.
+J Bacteriol 182: 4578–4586.
+
+Vlamakis H, Aguilar C, Losick R & Kolter R (2008) Control of cell
+fate by the formation of an architecturally complex bacterial
+community. Gene Dev 22: 945–953.
+
+Vuong C, Voyich JM, Fischer ER, Braughton KR, Whitney AR,
+DeLeo FR & Otto M (2004) Polysaccharide intercellular
+adhesin (PIA) protects Staphylococcus epidermidis against
+major components of the human innate immune system. Cell
+Microbiol 6: 269–275.
+
+Wagner A (2006) Periodic extinctions of transposable elements in
+bacterial lineages: evidence from intragenomic variation in
+multiple genomes. Mol Biol Evol 23: 723–733.
+
+Waldor MK & Mekalanos JJ (1996) Lysogenic conversion by a
+ﬁlamentous phage encoding cholera toxin. Science 272:
+1910–1914.
+
+Waters CM & Bassler BL (2005) Quorum sensing: cell-to-cell
+
+communication in bacteria. Annu Rev Cell Dev Bi 21: 319–346.
+Watnik P & Kolter R (1999) Steps in the development of a Vibrio
+
+cholerae El Tor bioﬁlm. Mol Microbiol 34: 586–595.
+
+Webb JS, Givskov M & Kjelleberg S (2003a) Bacterial bioﬁlms:
+
+prokaryotic adventures in multicellularity. Curr Opin
+Microbiol 6: 578–585.
+
+Webb JS, Thompson LS, James S et al. (2003b) Cell death in
+
+Pseudomonas aeruginosa bioﬁlm development. J Bacteriol 185:
+4585–4592.
+
+Webb JS, Lau M & Kjelleberg S (2004) Bacteriophage and
+
+phenotypic variation in Pseudomonas aeruginosa bioﬁlm
+development. J Bacteriol 186: 8066–8073.
+
+West SA, Diggle SP, Buckling A, Gardner A & Grifﬁns AS (2007)
+The social lives of microbes. Annu Rev Ecol Evol S 38: 53–77.
+
+Whiteley M, Bangera MG, Bumgarner RE, Parsek MR,
+
+Teitzel GM, Lory S & Greenberg EP (2001) Gene expression
+in Pseudomonas aeruginosa bioﬁlms. Nature 413: 860–864.
+Wijeyekoon S, Mino T, Satoh H & Matsuo T (2004) Effects of
+substrate loading rate on bioﬁlm structure. Water Res 38:
+2479–2488.
+
+Williams HTP & Lenton TM (2008) Environmental regulation in
+a network of simulated microbial ecosystems. P Natl Acad Sci
+USA 105: 10432–10437.
+
+Wilson D (1975) A theory of group selection. P Natl Acad Sci USA
+
+72: 143–146.
+
+Wilson R, Dowling RB & Jackson AD (1996) The biology of
+
+bacterial colonization and invasion of the respiratory mucosa.
+Eur Respir J 9: 1523–1530.
+
+Wimpenny JWT & Colasanti R (1997) A unifying hypothesis for
+
+the structure of microbial bioﬁlms based on cellular
+automaton models. FEMS Microbiol Ecol 22: 1–16.
+
+Wireman JW & Dworkin M (1977) Developmentally induced
+autolysis during fruiting body formation by Myxococcux
+xanthus. J Bacteriol 129: 796–802.
+
+Xavier JB & Foster KR (2007) Cooperation and conﬂict in
+microbial bioﬁlms. P Natl Acad Sci USA 104: 876–881.
+Xavier JB, Picioreanu C & van Loosdrecht MCM (2005a) A
+general description of detachment for multidimensional
+modelling of bioﬁlms. Biotechnol Bioeng 91: 651–669.
+Xavier JB, Picioreanu C & van Loosdrecht MCM (2005b) A
+
+framework for multidimensional modelling of activity and
+structure of multispecies bioﬁlms. Environ Microbiol 7:
+1085–1103.
+
+Xavier JB, De Kreuk MK, Picioreanu C & Van Loosdrecht MCM
+(2007) Multi-scale individual-based model of microbial and
+bioconversion dynamics in aerobic granular sludge. Environ
+Sci Technol 41: 6410–6417.
+
+Xu KD, Stewart PS, Xia F, Huang CT & McFeters GA (1998)
+
+Spatial physiological heterogeneity in Pseudomonas aeruginosa
+bioﬁlm is determined by oxygen availability. Appl Environ
+Microb 64: 4035–4039.
+
+Zhu J & Mekalanos JJ (2003) Quorum sensing-dependent
+
+West SA, Grifﬁn AS, Gardner A & Diggle SP (2006) Social evolution
+
+theory for microorganisms. Nat Rev Microbiol 4: 597–607.
+
+bioﬁlms enhance colonization in Vibrio cholerae. Dev Cell 5:
+647–656.
+
+c(cid:1) 2008 Federation of European Microbiological Societies
+Published by Blackwell Publishing Ltd. All rights reserved
+
+FEMS Microbiol Rev 33 (2009) 206–224
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+f
+r
+o
+m
+h
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+f
+
+l
+
+/
+
+/
+
+/
+
+/
+
+/
+
+e
+m
+s
+r
+e
+a
+r
+t
+i
+c
+e
+3
+3
+1
+2
+0
+6
+2
+6
+8
+3
+8
+1
+2
+b
+y
+L
+o
+m
+m
+e
+n
+H
+e
+a
+
+l
+t
+
+i
+
+i
+
+h
+S
+c
+e
+n
+c
+e
+s
+L
+b
+r
+a
+r
+y
+u
+s
+e
+r
+o
+n
+2
+3
+F
+e
+b
+r
+u
+a
+r
+y
+2
+0
+2
+4
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

@@ -1,0 +1,1430 @@
+Review
+Self-Healing Polymeric Composite Material Design,
+Failure Analysis and Future Outlook: A Review
+
+Keletso Mphahlele 1,2, Suprakas Sinha Ray 1,3,* ID and Andrei Kolesnikov 2 ID
+
+1 DST-CSIR National Centre for Nanostructured Materials, Council for Scientiﬁc and Industrial Research,
+
+Pretoria 0001, South Africa; kmphahlele@csir.co.za
+
+2 Department of Chemical, Metallurgical and Material Engineering, Tshwane University of Technology,
+
+Pretoria 0001, South Africa; kolesnikova@tut.ac.za
+
+3 Department of Applied Chemistry, University of Johannesburg, Doornfontein,
+
+Johannesburg 2028, South Africa
+
+* Correspondence: rsuprakas@csir.co.za or ssinharay@uj.ac.za; Tel.: +27-12-842-2388
+
+Received: 1 September 2017; Accepted: 16 October 2017; Published: 20 October 2017
+
+Abstract: The formation of micro-cracks and crack propagation is still an acute problem in polymer
+and polymer composites. These micro-cracks usually occur while the materials are manufactured or
+serviced. The development and coalescence of these cracks reduces the lifespan and brings about a
+catastrophic failure of the materials. Novel scientiﬁc research on polymeric self-healing is emphasised
+in a number of publications, which consist of contributions from many of the prominent researchers
+in this area. Progress in this ﬁeld can eventually enable scientist to construct new ﬂexible materials
+that both monitor the material’s integrity and repair the deformed material prior to the occurrence
+of any fatal failures. This report describes recent trends that have been used in material science
+and computational methods to mitigate the development of micro-cracks and crack propagation in
+polymer composites.
+
+Keywords: polymer composites; self-healing; cracks; modelling; review
+
+1. Introduction
+
+Composite materials are a judicious combination of two or more materials with diverse properties.
+These materials work together to give the composite distinctive properties [1]. The assemblage of
+sub-components is critical when manufacturing polymer composites (see Figure 1). A model structure
+would be engineered without hinges/joints because hinges could weaken and add extra weight to
+the polymeric composites [2]. Accepted assembling technologies for metallic structures are indirectly
+applicable to composites material [2,3]. Mechanical joining uses separate fasteners [4], such as metallic
+or polymeric screws, or it depends on the combined design elements that are shaped into parts,
+such as snap-ﬁt or press-ﬁt joint [5,6]. Adhesive bonding involves an adhesive placed between an
+adherent, which serves as the material that combines the parts and transmits the load through the
+joint [6–10]. Chemicals that are utilised to the surface used in adhesive bonding are difﬁcult to
+regulate in engineering structures; these chemicals directly affect the strength and stability of bonded
+joints [2,11–13]. Sensitivity to storage is another aspect of surface treatment, and current recycling
+requirements induce industries to select adhesive structures that are biodegradable [2]. In fusion
+bonding/welding, heat is employed to soften or melt the polymer at the interface to allow polymer
+intermolecular diffusion across the interface and chain entanglements [14] to impart strength to the
+joint [6]. By choosing a suitable combination of matrix and reinforcement material, a new material
+can be made that precisely meets the requirements of a speciﬁc application [15]. In this study, we are
+interested in ﬁbre-reinforced composites.
+
+Polymers 2017, 9, 535; doi:10.3390/polym9100535
+
+www.mdpi.com/journal/polymers
+
+polymersPolymers 2017, 9, 535
+
+2 of 22
+
+Figure 1. Possible joining techniques for polymeric materials. The concept has been redesign on the
+basis of ref. [6].
+
+The study of ﬁbre-reinforced composite materials has matured rapidly since their introduction
+in the 1970s [15,16]. Approximately 20 million tons are manufactured annually for a range of
+products in aerospace and other industries [16–19]. Carbon ﬁbre composite materials are strong
+and lightweight [20], however, these materials are prone to delamination, micro-cracking and ﬁbre
+debonding deep within the structure. Therefore, there are concerns relating to the structural reliability
+of composite materials after impact loading. Exposure to harsh environment can cause the degradation
+of polymeric components, and small-size defects such as micro-cracking may be generated during
+manufacturing or servicing of a polymeric component, which cause disastrous failures of the materials,
+considerably reducing the lifespan of the structures [20,21]. These cracks are particularly challenging
+to identify and restore by traditional methods [16,21].
+
+Conventional techniques such as non-destructive evaluation (NDE), non-destructive testing
+(NDT) and non-destructive inspection (NDI) [22–24] are used to detect local damage and identify
+emerging failures in critical structures [25] (i.e., ultrasonic infrared thermography, electromagnetic
+testing, X-ray tomography, computerized vibro thermography etc.) [26]. These techniques have been
+commercialised and approved by engineers for replacing visible damages on polymeric materials, and
+if the deformation is too serious, the structural constituent is changed completely [27,28]. If localized
+delamination occurs, it may be restored by injecting epoxy resin through an entry hole into the
+damaged part. Another conventional repair technique is to employ a strengthening bolt or patch fused
+to the composite structure [29]. These methods are momentary resolutions to extend the lifespan of
+the structure, and they require manual intervention and observations of the damage to for repair [30].
+Therefore, these conventional restoration approaches are time-consuming, costly and ineffective for
+healing the micro-cracks embedded into the structure during its service lifecycle [31]. The ultimate
+goals for engineers/scientist is to build everlasting composites with an integral ability to self-diagnose,
+self-control and self-heal where issues like operation safety and lifecycle cost can be avoided [32].
+
+The proposed theory of self-healing is that the deformed structure is repaired by materials
+already conﬁned within it [16], self-healing materials are motivated by biological systems, which are
+evolutionarily optimized functional systems [33]. This concept of autonomic healing in biological
+systems has inspired continuous efforts to mimic biological materials and to integrate self-healing
+abilities into polymeric composites for engineering applications [34].
+
+2. Self-Healing Polymeric Materials and Traditional Repair Methods
+
+While there has been great advancement in self-healing polymeric materials, we shall ﬁrst discuss
+
+some of the traditional methods used to repair damage in polymeric methods.
+
+Polymers 2017, 9, 535  2 of 22   Figure 1. Possible joining techniques for polymeric materials. The concept has been redesign on the basis of ref. [6]. The study of fibre-reinforced composite materials has matured rapidly since their introduction in the 1970s [15,16]. Approximately 20 million tons are manufactured annually for a range of products in aerospace and other industries [16–19]. Carbon fibre composite materials are strong and lightweight [20], however, these materials are prone to delamination, micro-cracking and fibre debonding deep within the structure. Therefore, there are concerns relating to the structural reliability of composite materials after impact loading. Exposure to harsh environment can cause the degradation of polymeric components, and small-size defects such as micro-cracking may be generated during manufacturing or servicing of a polymeric component, which cause disastrous failures of the materials, considerably reducing the lifespan of the structures [20,21]. These cracks are particularly challenging to identify and restore by traditional methods [16,21]. Conventional techniques such as non-destructive evaluation (NDE), non-destructive testing (NDT) and non-destructive inspection (NDI) [22–24] are used to detect local damage and identify emerging failures in critical structures [25] (i.e., ultrasonic infrared thermography, electromagnetic testing, X-ray tomography, computerized vibro thermography etc.) [26]. These techniques have been commercialised and approved by engineers for replacing visible damages on polymeric materials, and if the deformation is too serious, the structural constituent is changed completely [27,28]. If localized delamination occurs, it may be restored by injecting epoxy resin through an entry hole into the damaged part. Another conventional repair technique is to employ a strengthening bolt or patch fused to the composite structure [29]. These methods are momentary resolutions to extend the lifespan of the structure, and they require manual intervention and observations of the damage to for repair [30]. Therefore, these conventional restoration approaches are time-consuming, costly and ineffective for healing the micro-cracks embedded into the structure during its service lifecycle [31]. The ultimate goals for engineers/scientist is to build everlasting composites with an integral ability to self-diagnose, self-control and self-heal where issues like operation safety and lifecycle cost can be avoided [32]. The proposed theory of self-healing is that the deformed structure is repaired by materials already confined within it [16], self-healing materials are motivated by biological systems, which are evolutionarily optimized functional systems [33]. This concept of autonomic healing in biological systems has inspired continuous efforts to mimic biological materials and to integrate self-healing abilities into polymeric composites for engineering applications [34]. 2. Self-Healing Polymeric Materials and Traditional Repair Methods While there has been great advancement in self-healing polymeric materials, we shall first discuss some of the traditional methods used to repair damage in polymeric methods.    Polymers 2017, 9, 535
+
+3 of 22
+
+2.1. Bonded Composite Repair
+
+In the 1970s, the Aeronautical and Maritime Research Laboratory (AMRL) in Australia established
+the composite repair technology [35], Figure 2 shows the key stages of composite repair. A lot
+of research has focused on prolonging the structural life of deformed structures; extending the
+life of old aircraft structures is emphasised using numerous remedial methods [36]. The remedial
+approach depends on the degree of damage and static strength and thickness, stability, toughness
+requirements, weight and balance, and aerodynamic smoothness. For aerospace maintenance,
+operational temperature and environment are some of the key criteria that determine the type of
+structural repairing methods [35]. Structural adhesive bonding repair technology is a composite repair
+method in which the repair materials must overlay, and be effectively bonded to the plies of the
+original laminates [37]. Secondary patching with high performance structural adhesive is employed
+in the assembly of composite material [37]. Three approaches are available for restoration of bonded
+material composite: single or binary-sided doubler patches [38,39], tapper sanded or scarf repair, and
+stepped sanded repair [40,41].
+
+Patches have been accepted as a quick repair method for aircraft skins, boat hulls and internal
+tube of tyres. The composite patch repair method is temporary and is meant to extend the operational
+life of the structures [35,42]. The thickness of the original laminates is fabricated with ﬁller plies and the
+repair materials are bonded to the surface of the laminates. Proper design of the repairs requires that
+the patch absorbs a considerable fraction of the load forced in the locality of the crack and that the patch
+does not debond from the structure during service [43]. The success of the repair technique depends on
+the coherence between the materials of the base structures, and patch, adhesive used, surface treatment
+and ﬁnally, skills of the repair operatives [36,44]. A graphic representation of the specimen with the
+repair patch is shown in Figure 3. The disadvantages of the composite reinforcement repairs is the
+sustainability and toughness of the patch constituents, patch loss detectability, the inhibition of crack
+growth at the crack tip, hydro-thermal consequences, and the optimal patch form [45].
+
+Figure 2. Key stages of composite repair. The concept has been redesign on the basis of ref. [46].
+
+Polymers 2017, 9, 535  3 of 22  2.1. Bonded Composite Repair In the 1970s, the Aeronautical and Maritime Research Laboratory (AMRL) in Australia established the composite repair technology [35], Figure 2 shows the key stages of composite repair. A lot of research has focused on prolonging the structural life of deformed structures; extending the life of old aircraft structures is emphasised using numerous remedial methods [36]. The remedial approach depends on the degree of damage and static strength and thickness, stability, toughness requirements, weight and balance, and aerodynamic smoothness. For aerospace maintenance, operational temperature and environment are some of the key criteria that determine the type of structural repairing methods [35]. Structural adhesive bonding repair technology is a composite repair method in which the repair materials must overlay, and be effectively bonded to the plies of the original laminates [37]. Secondary patching with high performance structural adhesive is employed in the assembly of composite material [37]. Three approaches are available for restoration of bonded material composite: single or binary-sided doubler patches [38,39], tapper sanded or scarf repair, and stepped sanded repair [40,41]. Patches have been accepted as a quick repair method for aircraft skins, boat hulls and internal tube of tyres. The composite patch repair method is temporary and is meant to extend the operational life of the structures [35,42]. The thickness of the original laminates is fabricated with filler plies and the repair materials are bonded to the surface of the laminates. Proper design of the repairs requires that the patch absorbs a considerable fraction of the load forced in the locality of the crack and that the patch does not debond from the structure during service [43]. The success of the repair technique depends on the coherence between the materials of the base structures, and patch, adhesive used, surface treatment and finally, skills of the repair operatives [36,44]. A graphic representation of the specimen with the repair patch is shown in Figure 3. The disadvantages of the composite reinforcement repairs is the sustainability and toughness of the patch constituents, patch loss detectability, the inhibition of crack growth at the crack tip, hydro-thermal consequences, and the optimal patch form [45].  Figure 2. Key stages of composite repair. The concept has been redesign on the basis of ref. [46]. Polymers 2017, 9, 535
+
+4 of 22
+
+Figure 3. Schematic of a scratched specimen with overlay repair. Reproduced with permission from
+ref. [45].
+
+Taper sanded or scarf repairs or step scarf repair (i.e., Figure 4) are the favoured techniques of
+remediation to repair the load carrying ability of the deformed composite structures to the original
+strength [40,45], and scarf maintenances is fairly common for reducing aerodynamic disruption [7,45].
+Scarf repair offers both structural strength and a ﬂush surface [41,47], therefore, it is often used
+for aircraft composite repair [35,39]. In designing a composite restoration, characteristics such as
+robustness and operative conditions should be considered to ensure the efﬁciency and structural
+reliability of the repair [37].
+
+Figure 4. Research challenges for developing robust bonded scarf remedial technology. Reproduced
+with permission from ref. [37].
+
+Katnam et al. discussed a diagram that showed fundamentals of structural bonded scarf repair,
+which comprises of six classes: (a) deformation assessment; (b) structural removal; (c) surface
+preparation; (d) patch fabrication; (e) design; and (g) observation and automation, shown in
+Figure 5 [36]. Structural damage requires accurate evaluation to perform an adequately bonded
+repair [47]. Structural bonded repairs offer improved stress transfer mechanisms, joint effectiveness and
+aerodynamics [35,37]. In order to have a comprehensible and cost effective aircraft composite remedial
+strategy, it’s important to design robust, consistent and repeatable bond remedial technologies [36].
+There is a necessity for researcher the improve the existing composite remedial technologies in areas
+such as advanced NDT for deformation evaluation [48–50], unconventional composite machining
+
+Polymers 2017, 9, 535  4 of 22   Figure 3. Schematic of a scratched specimen with overlay repair. Reproduced with permission from ref. [45]. Taper sanded or scarf repairs or step scarf repair (i.e., Figure 4) are the favoured techniques of remediation to repair the load carrying ability of the deformed composite structures to the original strength [40,45], and scarf maintenances is fairly common for reducing aerodynamic disruption [7,45]. Scarf repair offers both structural strength and a flush surface [41,47], therefore, it is often used for aircraft composite repair [35,39]. In designing a composite restoration, characteristics such as robustness and operative conditions should be considered to ensure the efficiency and structural reliability of the repair [37].  Figure 4. Research challenges for developing robust bonded scarf remedial technology. Reproduced with permission from ref. [37]. Katnam et al. discussed a diagram that showed fundamentals of structural bonded scarf repair, which comprises of six classes: (a) deformation assessment; (b) structural removal; (c) surface preparation; (d) patch fabrication; (e) design; and (g) observation and automation, shown in Figure 5 [36]. Structural damage requires accurate evaluation to perform an adequately bonded repair [47]. Structural bonded repairs offer improved stress transfer mechanisms, joint effectiveness and aerodynamics [35,37]. In order to have a comprehensible and cost effective aircraft composite remedial strategy, it’s important to design robust, consistent and repeatable bond remedial technologies [36]. There is a necessity for researcher the improve the existing composite remedial technologies in areas such as advanced NDT for deformation evaluation [48–50], unconventional composite machining for structural removal [51,52], advanced surface treatments for boundary bonding, controlled cure conditions for reinforcement manufacture, precise investigation and design of improved repairs [53], condition observation and automation for dependable and repeatable restoration [37]. However, currently, determining damage mechanisms in composite Polymers 2017, 9, 535  4 of 22   Figure 3. Schematic of a scratched specimen with overlay repair. Reproduced with permission from ref. [45]. Taper sanded or scarf repairs or step scarf repair (i.e., Figure 4) are the favoured techniques of remediation to repair the load carrying ability of the deformed composite structures to the original strength [40,45], and scarf maintenances is fairly common for reducing aerodynamic disruption [7,45]. Scarf repair offers both structural strength and a flush surface [41,47], therefore, it is often used for aircraft composite repair [35,39]. In designing a composite restoration, characteristics such as robustness and operative conditions should be considered to ensure the efficiency and structural reliability of the repair [37].  Figure 4. Research challenges for developing robust bonded scarf remedial technology. Reproduced with permission from ref. [37]. Katnam et al. discussed a diagram that showed fundamentals of structural bonded scarf repair, which comprises of six classes: (a) deformation assessment; (b) structural removal; (c) surface preparation; (d) patch fabrication; (e) design; and (g) observation and automation, shown in Figure 5 [36]. Structural damage requires accurate evaluation to perform an adequately bonded repair [47]. Structural bonded repairs offer improved stress transfer mechanisms, joint effectiveness and aerodynamics [35,37]. In order to have a comprehensible and cost effective aircraft composite remedial strategy, it’s important to design robust, consistent and repeatable bond remedial technologies [36]. There is a necessity for researcher the improve the existing composite remedial technologies in areas such as advanced NDT for deformation evaluation [48–50], unconventional composite machining for structural removal [51,52], advanced surface treatments for boundary bonding, controlled cure conditions for reinforcement manufacture, precise investigation and design of improved repairs [53], condition observation and automation for dependable and repeatable restoration [37]. However, currently, determining damage mechanisms in composite Polymers 2017, 9, 535
+
+5 of 22
+
+for structural removal [51,52], advanced surface treatments for boundary bonding, controlled cure
+conditions for reinforcement manufacture, precise investigation and design of improved repairs [53],
+condition observation and automation for dependable and repeatable restoration [37]. However,
+currently, determining damage mechanisms in composite materials are complex because the damage
+usually manifests itself internally [34,54], and NDI faces challenges in the correct and reliable evaluation
+of the deformation [10,37,54].
+
+Figure 5. Bonded composite restoration: (a) subsurface deformation usually prompted by low velocity
+dull impactor; (b,c) composite machining to achieve level and stepped taper for scarf and stepped scarf
+restoration; (d,e) scarf and stepped scarf remedial patches. Reproduced with permission from ref. [37].
+
+2.2. Welding/Fusion Bonding
+
+Welding is a sculptural procedure that enables the re-joining of cracked structures or blending
+new constituents to the deformed area or the polymeric composite, by initiating coalescence [31,55].
+This is usually done by melting the work fragments and adjoining a ﬁller material to form a puddle
+of liqueﬁed material, and when it cools down it becomes a robust joint. Pressure is occasionally
+employed in along with heat to generate the weld. In the structural engineering division, there are
+about 730,000 permanent and 5.5 million welding related occupations in Europe [55]. There are new
+kinds of welding processes and goods, some of these methods used are shielded metal arc welding
+(SMAW) [56], gas tungsten arc welding (GTAW) [57], ﬂux-cored arc welding (FCAW) [58], submerged
+arc welding (SAW) [59], and electro slag welding (ESW) [55].
+
+Thermoplastic matrix composites (TPCs) have beneﬁts compared to thermosetting-based
+composites (TSCs), which includes an improved fracture toughness, lower moisture absorption,
+potential for condensed lifecycle cost, and biodegradability [6,9]. This is because, with TSCs, a chemical
+reaction occurs during processing, and curing; the resultant is an irreversible cross-linking reaction
+in the mould [60]. Thus, heating cannot reshape moulded TSCs, because degradation occurs [61].
+Welding processes in TPCs and composite materials are divided into two categories: internal and
+external heating (i.e., Figure 6). Internal heating is categorized into mechanical and electromagnetic
+heating [6]. External heating methods rely on convection and conduction to heat the weld surface
+
+Polymers 2017, 9, 535  5 of 22  materials are complex because the damage usually manifests itself internally [34,54], and NDI faces challenges in the correct and reliable evaluation of the deformation [10,37,54].  Figure 5. Bonded composite restoration: (a) subsurface deformation usually prompted by low velocity dull impactor; (b,c) composite machining to achieve level and stepped taper for scarf and stepped scarf restoration; (d,e) scarf and stepped scarf remedial patches. Reproduced with permission from ref. [37]. 2.2. Welding/Fusion Bonding Welding is a sculptural procedure that enables the re-joining of cracked structures or blending new constituents to the deformed area or the polymeric composite, by initiating coalescence [31,55]. This is usually done by melting the work fragments and adjoining a filler material to form a puddle of liquefied material, and when it cools down it becomes a robust joint. Pressure is occasionally employed in along with heat to generate the weld. In the structural engineering division, there are about 730,000 permanent and 5.5 million welding related occupations in Europe [55]. There are new kinds of welding processes and goods, some of these methods used are shielded metal arc welding (SMAW) [56], gas tungsten arc welding (GTAW) [57], flux-cored arc welding (FCAW) [58], submerged arc welding (SAW) [59], and electro slag welding (ESW) [55]. Thermoplastic matrix composites (TPCs) have benefits compared to thermosetting-based composites (TSCs), which includes an improved fracture toughness, lower moisture absorption, potential for condensed lifecycle cost, and biodegradability [6,9]. This is because, with TSCs, a chemical reaction occurs during processing, and curing; the resultant is an irreversible cross-linking reaction in the mould [60]. Thus, heating cannot reshape moulded TSCs, because degradation occurs [61]. Welding processes in TPCs and composite materials are divided into two categories: internal and external heating (i.e., Figure 6). Internal heating is categorized into mechanical and electromagnetic heating [6]. External heating methods rely on convection and conduction to heat the weld surface (i.e., heating tools such as hot plates, hot gases, extrusion, implant induction and implant resistance welding) [6,61]. Polymers 2017, 9, 535
+
+6 of 22
+
+(i.e., heating tools such as hot plates, hot gases, extrusion, implant induction and implant resistance
+welding) [6,61].
+
+Figure 6. Classiﬁcation of welding techniques for polymeric materials. The concept has been redesign
+on the basis of ref. [6].
+
+Although this method offers great potential in repairing composites materials, most welding
+processes generate various fumes and gases [62]. Welding gases are metal containing aerosols
+consisting of particles created through complex vaporisation–condensation oxidation procedures
+during welding [63,64]. Health issues related to metal gases depends on the type of metals present
+in the fumes; therefore, there are concerns that these gases might cause diseases, such as metal fume
+fever, to long-term lung damage and neurological disorders, (i.e., lung cancer and Parkinson’s disease).
+Gas phase contaminants produced during welding procedures; may release carbon dioxide (CO2),
+carbon monoxide (CO), nitrogen oxides (NOx), sulfur dioxide (SO2) and ozone (O3) [55].
+
+2.3. In-Situ Curing of New Resin
+
+Curing of polymers is a complicated procedure, which has a strong inﬂuence on the type of
+applications it can be used in [65]. In the ﬁrst stage, which occurs during mixing in a pot, the resin and
+hardener are brought together as a uniform liquid, initiating a chemical reaction. A liqueﬁed polymer
+is gradually transformed into a viscoelastic solid which is formed by cross-linking of the initially short
+polymer chains. In the second phase, the gelation stage, the viscoelastic polymeric solid cross-linking
+density (resin and hardener molecules are interconnected together) is adequate for the liquid to achieve
+the consistency of a viscous gel until it reaches a state when it is no longer a liquid and has lost a its
+ability to ﬂow. The last stage is when the surface is ‘active’ and can attain additional layers of resin
+and still form a decent bond. This method is comparable to patching, as a new material is employed to
+reinforce the mechanical strength [31,66]. Sometimes, patching methods include the addition of an
+uncured resin to an excavated section of the original polymeric material. The uncured resin disperses
+into the deformed constituent and the adhesive forces hold the patch in place [31,66,67].
+
+While, traditional repair methods can effectively repair visible or external damage, these
+are time consuming, costly and need reliable detection techniques and experienced workers [32].
+These techniques are not effective in repairing internal or invisible micro-cracks [68,69]. Thus, the
+development of self-healing materials proposes a new path towards benign, long long-lasting materials
+and will ﬁll a technology gap in alleviating damage in composite materials.
+
+3. Self-Healing Concept
+
+Repairing is deﬁned as a process of restoring something damaged, faulty or worn out to a
+good condition and healing is the process of restoration. Thus, self-healing means a mending of the
+original properties of the material after destructive actions of the exterior environment [70]. Synonyms
+
+Polymers 2017, 9, 535  6 of 22   Figure 6. Classification of welding techniques for polymeric materials. The concept has been redesign on the basis of ref. [6]. Although this method offers great potential in repairing composites materials, most welding processes generate various fumes and gases [62]. Welding gases are metal containing aerosols consisting of particles created through complex vaporisation–condensation oxidation procedures during welding [63,64]. Health issues related to metal gases depends on the type of metals present in the fumes; therefore, there are concerns that these gases might cause diseases, such as metal fume fever, to long-term lung damage and neurological disorders, (i.e., lung cancer and Parkinson’s disease). Gas phase contaminants produced during welding procedures; may release carbon dioxide (CO2), carbon monoxide (CO), nitrogen oxides (NOx), sulfur dioxide (SO2) and ozone (O3) [55]. 2.3. In-situ Curing of New Resin Curing of polymers is a complicated procedure, which has a strong influence on the type of applications it can be used in [65]. In the first stage, which occurs during mixing in a pot, the resin and hardener are brought together as a uniform liquid, initiating a chemical reaction. A liquefied polymer is gradually transformed into a viscoelastic solid which is formed by cross-linking of the initially short polymer chains. In the second phase, the gelation stage, the viscoelastic polymeric solid cross-linking density (resin and hardener molecules are interconnected together) is adequate for the liquid to achieve the consistency of a viscous gel until it reaches a state when it is no longer a liquid and has lost a its ability to flow. The last stage is when the surface is ‘active’ and can attain additional layers of resin and still form a decent bond. This method is comparable to patching, as a new material is employed to reinforce the mechanical strength [31,66]. Sometimes, patching methods include the addition of an uncured resin to an excavated section of the original polymeric material. The uncured resin disperses into the deformed constituent and the adhesive forces hold the patch in place [31,66,67]. While, traditional repair methods can effectively repair visible or external damage, these are time consuming, costly and need reliable detection techniques and experienced workers [32]. These techniques are not effective in repairing internal or invisible micro-cracks [68,69]. Thus, the development of self-healing materials proposes a new path towards benign, long long-lasting materials and will fill a technology gap in alleviating damage in composite materials. 3. Self-Healing Concept  Repairing is defined as a process of restoring something damaged, faulty or worn out to a good condition and healing is the process of restoration. Thus, self-healing means a mending of the original properties of the material after destructive actions of the exterior environment [70]. Synonyms such as self-healing and autonomic-healing are employed to describe such characteristics in the material [71]. The aim is to reduce the damage or restore the functionality and lifetime of the deformed part, Polymers 2017, 9, 535
+
+7 of 22
+
+such as self-healing and autonomic-healing are employed to describe such characteristics in the
+material [71]. The aim is to reduce the damage or restore the functionality and lifetime of the deformed
+part, system or device. Therefore, self-repair in principle is an automatically and autonomously
+initiated response to damage or failure [71,72]. Self-healing materials are motivated by living systems;
+biological systems/material are functional systems optimized by evolution [33]. This concept of
+autonomic healing in biological systems has inspired continuous efforts to mimic biological materials
+and to incorporate self-healing abilities into polymers and polymer nanocomposites for engineering
+applications [34,73].
+
+Self-healing materials can be further subdivided into subclasses that are used to describe the
+self-healing properties; these classes are usually termed extrinsically and intrinsically self-repairing [33].
+The extrinsically self-repairing process is based on exterior modules, such as micro-or nanocapsules
+with self-healing agents, which are deliberately enclosed into the matrix materials to create self-healing
+properties [33,66,74]. Whereas, intrinsic self-healing requires no healing agent, thus, the material
+itself possesses healing properties [66]. Intrinsically repairing materials are appealing to the science
+community as these materials are composed of dynamic bonding mechanisms, which theoretically are
+qualiﬁed for repetitively repair at the same deformed site [74].
+
+Polymeric self-healing is based on a three-step process. Polymeric self-healing can be considered
+analogous to the biological healing process in living creatures [75]. An example of this process is the
+process of self-repair of bone after injury, which is shown in Figure 7. The ﬁrst stage is the formation of
+hematoma, the blood vessels, and tissues on the fragmented bone are torn, resulting in a hematoma
+mass of clotted cells between and around the fracture, developing and stabilizing the inﬂammatory
+cells to damaged sites. This step is followed by the formation of ﬁbro-cartilaginous callus, which is
+characterized by the conversion of the hematoma to a ﬁbro-cartilaginous mass to bridge the fracture.
+Next, bone callus formation occurs, where a ﬁbrous bone (spongy bone) is formed. Finally, the
+woven bone of the hard callus matures and organizes into a trabecular structure to recreate the native
+pre-injury structures; this step is classiﬁed as the bone remodeling stage [72,76–78]. The process of
+repairing a fractured bone can be adapted in the polymeric self-healing process, where the ﬁrst step is
+the triggering action that happens immediately after the occurrence of the damage/crack. The second
+step involves the transportation of the healing agent to an affected area, the third step is the chemical
+repair process, and ﬁnally is the remodelling of the healed polymer material [78,79].
+
+Figure 7. Representation of bone in bone healing. Reproduced with permission from ref. [80].
+
+There are several approaches used to synthesise self-repairing materials, depending on the
+material class. Self-repairing materials can be classiﬁed into two categories, depending on the necessary
+
+Polymers 2017, 9, 535  7 of 22  system or device. Therefore, self-repair in principle is an automatically and autonomously initiated response to damage or failure [71,72]. Self-healing materials are motivated by living systems; biological systems/material are functional systems optimized by evolution [33]. This concept of autonomic healing in biological systems has inspired continuous efforts to mimic biological materials and to incorporate self-healing abilities into polymers and polymer nanocomposites for engineering applications [34,73]. Self-healing materials can be further subdivided into subclasses that are used to describe the self-healing properties; these classes are usually termed extrinsically and intrinsically self-repairing [33]. The extrinsically self-repairing process is based on exterior modules, such as micro-or nanocapsules with self-healing agents, which are deliberately enclosed into the matrix materials to create self-healing properties [33,66,74]. Whereas, intrinsic self-healing requires no healing agent, thus, the material itself possesses healing properties [66]. Intrinsically repairing materials are appealing to the science community as these materials are composed of dynamic bonding mechanisms, which theoretically are qualified for repetitively repair at the same deformed site [74]. Polymeric self-healing is based on a three-step process. Polymeric self-healing can be considered analogous to the biological healing process in living creatures [75]. An example of this process is the process of self-repair of bone after injury, which is shown in Figure 7. The first stage is the formation of hematoma, the blood vessels, and tissues on the fragmented bone are torn, resulting in a hematoma mass of clotted cells between and around the fracture, developing and stabilizing the inflammatory cells to damaged sites. This step is followed by the formation of fibro-cartilaginous callus, which is characterized by the conversion of the hematoma to a fibro-cartilaginous mass to bridge the fracture. Next, bone callus formation occurs, where a fibrous bone (spongy bone) is formed. Finally, the woven bone of the hard callus matures and organizes into a trabecular structure to recreate the native pre-injury structures; this step is classified as the bone remodeling stage [72,76–78]. The process of repairing a fractured bone can be adapted in the polymeric self-healing process, where the first step is the triggering action that happens immediately after the occurrence of the damage/crack. The second step involves the transportation of the healing agent to an affected area, the third step is the chemical repair process, and finally is the remodelling of the healed polymer material [78,79].  Figure 7. Representation of bone in bone healing. Reproduced with permission from ref. [80]. There are several approaches used to synthesise self-repairing materials, depending on the material class. Self-repairing materials can be classified into two categories, depending on the necessary trigger and the nature of the self-repairing procedure (i.e., autonomic and non-autonomic) [33]. Autonomic self-repairing materials do not need an external stimuli, the damage itself is the stimulus for the repair. Examples include capsules or fibres with a healing agent which are Polymers 2017, 9, 535
+
+8 of 22
+
+trigger and the nature of the self-repairing procedure (i.e., autonomic and non-autonomic) [33].
+Autonomic self-repairing materials do not need an external stimuli, the damage itself is the stimulus for
+the repair. Examples include capsules or ﬁbres with a healing agent which are deliberately enclosed in
+the matrix to create self-healing properties [66,74]. Whereas the non-autonomic self-repairing process
+requires external triggers such as light, heat, laser beam, chemical, mechanical, and so on, so healing
+can occur (Figure 8) [33,66].
+
+Figure 8.
+The concept has been redesign on the basis of ref. [66].
+
+Illustrate the difference between autonomic and non-autonomic self-repairing process.
+
+4. Extrinsic and Intrinsic Self-Healing Materials
+
+The difference between extrinsic and intrinsic materials is that in extrinsic healing the healing
+agents is used to facilitate the repair of a structure, and intrinsic healing is achieved by the material
+repairing itself by its own ability (see Figure 9).
+
+Figure 9. Distinction between extrinsic and intrinsic self-repairing materials. The concept has been
+redesign on the basis of ref. [81].
+
+Polymers 2017, 9, 535  8 of 22  deliberately enclosed in the matrix to create self-healing properties [66,74]. Whereas the non-autonomic self-repairing process requires external triggers such as light, heat, laser beam, chemical, mechanical, and so on, so healing can occur (Figure 8) [33,66].   Figure 8. Illustrate the difference between autonomic and non-autonomic self-repairing process. The concept has been redesign on the basis of ref. [66]. 4. Extrinsic and Intrinsic Self-Healing Materials The difference between extrinsic and intrinsic materials is that in extrinsic healing the healing agents is used to facilitate the repair of a structure, and intrinsic healing is achieved by the material repairing itself by its own ability (see Figure 9).  Figure 9. Distinction between extrinsic and intrinsic self-repairing materials. The concept has been redesign on the basis of ref. [81].   Polymers 2017, 9, 535  8 of 22  deliberately enclosed in the matrix to create self-healing properties [66,74]. Whereas the non-autonomic self-repairing process requires external triggers such as light, heat, laser beam, chemical, mechanical, and so on, so healing can occur (Figure 8) [33,66].   Figure 8. Illustrate the difference between autonomic and non-autonomic self-repairing process. The concept has been redesign on the basis of ref. [66]. 4. Extrinsic and Intrinsic Self-Healing Materials The difference between extrinsic and intrinsic materials is that in extrinsic healing the healing agents is used to facilitate the repair of a structure, and intrinsic healing is achieved by the material repairing itself by its own ability (see Figure 9).  Figure 9. Distinction between extrinsic and intrinsic self-repairing materials. The concept has been redesign on the basis of ref. [81].   Polymers 2017, 9, 535
+
+9 of 22
+
+4.1. Intrinsic Self-Repairing Materials
+
+As discussed in the previous paragraphs, intrinsic self-healing polymers are capable of restoring
+molecular and macro-scale damages via a momentary local increase in the mobility of polymeric
+chains [33,68]. This behaviour is based on the precise molecular structures of the polymers that permit
+a marked step in (effective) inter-chain mobility upon the supply of modest amounts of energy such
+as temperature, static load, UV, and, ﬁnally, a method of repairing the chemical and physical bond
+strength upon removal of the stimulus follows. The advantage of intrinsic healing over extrinsic healing
+it that it relies on the prospect of full or partial repairing of the initial properties multiple times [68,82].
+Intrinsic healing can be grouped into two wide classes: (a) dynamic covalent bonds [82,83]; and
+(b) supramolecular interactions, ref. [82] discussed below.
+
+4.2. Intrinsic Self-Healing
+
+This section discusses dynamics; which is deﬁned as constitutional dynamic polymers, that is,
+polymeric entities whose monomeric constituents are connected through reversible networks and have
+therefore the ability to modify their composition by exchange and reshufﬂing of their components.
+They may be either of molecular or supramolecular systems depending on whether the connections
+are dynamic covalent bonds or non-covalent interactions [84].
+
+The basic principle of dynamic covalent bond formation is that the bulk polymer comprises
+of covalent crosslinks [85,86] that experience distinct and complete reversible bond breaking and
+bond forming reactions during repair. Thus, the material inside the repaired region can be chemically
+indistinguishable from that of the body of the polymeric material [83]. Such a reversible modiﬁcation in
+composition allows the structure to have great motorized attributes when they are in the polymer phase,
+and mobility when they are monomeric, oligomeric or non-crosslinked. These are the chief necessities
+for understanding of self-healing in materials because it permits mass transport of species towards the
+deformed area only when it is preferred [81]. Perhaps the most recognised chemical reaction used for
+intrinsic self-healing materials is the Diels-Alder (andretro-Diels-Alder) reaction [81,82]. The reaction
+relies on a trigger/stimulus like thermal energy to regulate of bond formation and breaking [87].
+Three-dimensional cross-linked networks can be created using several systems based on the [4 + 2]
+Diels-Alder reaction and its reverse [87]. These structures comprise numerous dienophile and diene
+moieties of low molecular weight, dienes or dienophiles attached to polymer spines cross-linked with
+bi-functional low molecular weight cross-linker, or polymeric chains with both diene and dienophile.
+There are numerous chemical clusters that can react through the Diels-Alder mechanism, which include
+fulvenes, cyclopentadiene, anthracene and others, but the most explored involves furan as the diene
+and maleimide as the dienophile [88]. This is perhaps because of the rapid kinetics, which makes
+them attractive for prospective engineering applications [89]. Regarding the Diels–Alder chemical
+reactions, several di-enes and di-enophiles can be used but the furan–maleimide interaction with a
+repairing temperature range of 100–150 ◦C is best known [82,90]. Disulﬁde bonds are versatile and
+relatively easy to implement in existing networks. Disulﬁde encouraged healing has been established
+in conventional epoxy-based thermosets utilizing aliphatic disulﬁdes with chains, with thiols as the
+precursors, and at mild healing temperatures (60–70 ◦C), in ambient-temperature elastomers based
+on aromatic disulﬁde metathesis and in hybrid sol–gel based coatings [91–93]. It is extraordinary
+to consider that although the reversible chemical principles of the Dies-Alder/reverse Diels-Alder
+reaction and disulﬁde bonds have been known for years, it has not been until relatively recently that
+these principles have been applied to yield self-healing polymeric materials [82].
+
+The theory of supramolecular self-healing materials is dependent on the use of noncovalent,
+transient bonds to generate networks, which are capable to heal the damaged location, putting the
+aspect of reversibility and dynamics of a network and its fundamental supramolecular bonds in the
+spotlight for the understanding and design of self-healing polymers via this concept of self-healing.
+Furthermore, supramolecular interactions can affect material properties such as the polymers’ strength
+(moduli), its viscosity and ﬂow, as well as the intrinsic organization of polymer chains [84,93–96].
+
+Polymers 2017, 9, 535
+
+10 of 22
+
+Perhaps the two most studied interactions so far are those found in ionomers for ballistic [82,97] and
+coating applications and hydrogen bonding represented by the well-deﬁned ureidopyrimidinone
+constituent and the use of randomly branched oligomers equipped with self-complementary and
+complementary hydrogen bonding groups [82].
+
+The self-healing method of ionomers originates from the intrinsic chemical structure [94] and
+morphology of copolymers containing 15 mol % ions [98], and in which the bulk properties are directed
+by ionic interfaces within the polymer [99,100]. The subsequent reversible physical crosslinks joined
+with a compound microstructure have a great effect on the physical and mechanical properties of
+the polymer and reinforces the self-healing performance [99]. The formation of an order to disorder
+transition (Todt) efﬁciently produces a network polymer comprising of reversible crosslinks and is
+similar to a glass transition temperature in thermosets. The process can in principle repeat several times,
+thus, it is unique from other structures which typically cannot mend themselves continuously [98].
+Zhang et al., reported using the thermal adhesiveness of poly(ethylene-co-methacrylic acid) (EMAA)
+copolymer, a new approach for a thermoplastic healing agent. EMAA particles (250–425 µm) are
+directly added into triethylene tetramine (TETA) cured diglycidylether of bisphenol A (DGEBA) epoxy
+resin. Impaired distinct edge tapered double and notched bars cantilever beams (TDCB) were repaired
+at 150 ◦C for 30 min to achieve up to an 85% recovery in critical stress intensity and above 100%
+recovery in maintainable peak load [16].
+
+4.3. Extrinsic Self-Healing Materials
+
+Capsule-based self-healing materials fall under the category of autonomic repairing materials.
+Thus, the healing agent is encapsulated until damage activates ﬁssures and discharges the healant.
+There are several techniques used for encapsulation of reactive materials. For self-healing materials,
+interfacial,
+in situ and meltable dispersions are commonly used [69]. To date, self-healing
+materials involving embedded microcapsules have been widely investigated [97]. Materials such as
+micro-encapsulated dicyclopentadiene reacting with Grubb’s catalyst implanted in the polymer matrix
+to cure damage have been widely studied and reported. White et al. reported on microcapsules ﬁlled
+with remedial agent encapsulated in the polymer matrix. In this example, crack propagates to the
+microcapsules causing the restorative agent to stream into the crack. An embedded catalyst initiates
+polymerization of the restorative agent with up to 75% fracture toughness recovery reported [21].
+The effects of size and concentration of microcapsules on the fracture toughness and healing
+effectiveness were described by Brown et al., they reported a 90% recovery of fracture toughness
+after healing [100]. Similarly, Kessler et al., utilised a comparable technique for to establishing
+up to 80% recovery in carbon ﬁbre-reinforcement at high temperatures, with up to 45% recovery
+at ambient temperature [29]. Tao et al. described the use of a two-component healing agent
+which comprises an epoxy that was micro-encapsulated as a polymerisable remedial resin, ensuring
+miscibility between the healant and an epoxy based composites. The complex of CuBr2 and
+2-methylimidazole (CuBr2(2-MeIm)4) was manufactured as the latent hardener of an epoxy restorative
+agent. The complex possesses lasting stability and dissociates into CuBr2 and 2-methylimidazole again
+at around 130–170 ◦C. A 111% recovery in fracture toughness of the epoxy, with no loss of fracture
+toughness paralleled that of neat epoxy [93].
+
+Vascular self-healing materials are similar to the capsule-based method. The restorative agent is
+embedded in a network in vessels or hollow canals, which are interconnected until damage prompts
+self-healing. In this vascular self-healing materials, the interactions between the matrix materials,
+the healant, and the network materials play a vital role in the successful creation of a self-healing
+organization [67]. Vascular systems are arranged according to the connectivity of the vascular networks,
+leading to one, two and three-dimensional networks. Initial models of self-healing materials were
+reported by Dry et al., and White et al. In these studies, empty glass ﬁbres packed with a healing
+agent were embedded in a polymer matrix. The healing agent kept in the hollow ﬁbre is discharged
+into the deformed area to heal the composite upon rupture caused by mechanical loading of the
+
+Polymers 2017, 9, 535
+
+11 of 22
+
+hollow ﬁbre. The chemical enclosed within the hollow ﬁbres is typically adhesive or air-curing
+polymer/monomers. Repair using of this technique was veriﬁed in both impact and ﬁbre pull-out
+testing method [97,101–103]. Bleay et al. studied a composite material self-repairing system. Hollow
+glass ﬁbre composites were ﬁlled with an X-ray dense dye penetrant and one and two-part curing
+resin systems. These were then evaluated for the capability of both self-repair and improving damage
+recognition. A vacuum aided capillary action loading method was established and used to effectively
+pack the hollow ﬁbres. Different treatments were applied to drive the resin out of the ﬁbres after
+impact. Synchronising heat and vacuum proved to be the most effective technique. The damage
+recognition method was enhanced by using an X-ray opaque dye. It exposed both the damaged area
+and the entrance of the dye penetrant into the damage zone after impact analysis. The post-repair
+compression strength after impact testing showed about a 10% strength improvement [102,104].
+
+It is challenging to incorporate self-healing characteristics into a material without meaningfully
+altering its physical and mechanical characteristics. For example, an addition of ﬁbres, microcapsules,
+or micro-vascular networks may modify the elasticity or toughness of the prime material signiﬁcantly.
+Because of this, one may favour an intrinsically repairing material over an extrinsically repairing
+material. However, there are other drawbacks of using intrinsically healing materials. As an illustration,
+other dynamic bond-based self-healing mechanisms can only be realistic for a speciﬁc polymer, whether
+it is a polymer with a low Tg, a thermoset, a polymer at basic pH values, or an ionic polymer. Another
+disadvantage of materials depending on dynamic bonds, either covalent or non-covalent bonds, is that
+damage on the nanoscale must be distributed only on the dynamic bonds in order to allow 100% repair
+and recovery of mechanical properties. However, repair using dynamic bonds can only accommodate
+so much of the damage that is sustained by non-dynamic bonds before the mechanical strength of the
+structure weakens [74].
+
+5. Fracture Mechanics of Polymeric Materials
+
+Structural Aspect of Composite Failure
+
+There are several reinforcements in composites that consist of brittle ﬁbres (i.e., glass or
+carbon) [105,106], in a brittle polymer matrix, such as epoxy or polyester resin. Because of
+their heterogeneous nature and construction, composite materials have improved mechanical
+properties [105], but propagation of a crack is more complex than that in homogeneous materials.
+
+The fracturing of a composite involves the breaking of the load-bearing ﬁbres and the weak
+matrix, and a complex mixture of crack deviances along these weak interfaces [107,108]. The fracture
+of these materials is not a simple process because of the microstructural heterogeneity and anisotropy
+of ﬁbre composites. Although the complex combination of micro failure leads to a weakening of the
+load-bearing ability, it is also responsible for high levels of toughness, and the same complexity makes
+it problematic to use techniques based on fracture mechanics for design purposes [107]. The compiled
+geometry of a composite inﬂuences crack spreading, because some laminates seem to be extremely
+notch-sensitive while others are absolutely unsusceptible to the presence of stress concentrators.
+The choice of resins and ﬁbres, the manner of combination in the composite, and the quality of
+the industrially made composite should all be judiciously organised if ideal toughness is to be
+achieved [105–109]. Moreover, materials conditions for the optimum tensile and shear strengths
+of the laminates are rarely compatible with the prerequisites for the highest toughness. Research into
+the fracture mechanics of composites is in its early stages, in comparison to fracture mechanics in
+homogeneous material such as metals. The basic research background has not yet been completely
+established, and there is no simple formulation for computing the toughness of all composites.
+Engineers and scientists are unable to design with conﬁdence the structure of any composite so
+as to deliver the optimal arrangement of strength and toughness [106,110].
+
+In metallic and plastic structures, even moderately fragile ones, energy is scattered in non-elastic
+distortion mechanisms in the section of the crack tip. This energy is lost in moving displacements
+
+Polymers 2017, 9, 535
+
+12 of 22
+
+in metallic and viscoelastic ﬂow development in a polymer. In composites, the ﬁbres affect crack
+progression, but their consequence depends on the strength of the bond between the ﬁbre/matrix
+(resin). For instance, if the ﬁbre/matrix bond is robust, crack may propagate via both the ﬁbre and the
+matrix with consistency. In this case the composite toughness would be low and roughly equivalent to
+the quantity of the distinct module toughness. On the contrary, if the ﬁbre/matrix bond is weak, crack
+transmission becomes difﬁcult and other deformation mechanisms may inﬂuence to the complete
+fracture mechanism of the composite [107].
+
+6. Early Facture Testing
+
+6.1. Linear Elastic Fracture Mechanics
+
+Fracture mechanics is a failure theory that uses energy principles, possibly in conjunction with
+strength criteria, and takes into account failure propagation through the structure [111]. The primary
+theory of fracture called linear elastic fracture mechanics (LEFM) is an uncompromised body of
+knowledge. LEFM is the basic theory of fracture, initially established by Grifﬁth (1921–1924) and
+ﬁnalized in its critical form by Irwin and Rice [110]. LEFM is a straightforward, although complex,
+concept that deals with sharp cracks in elastic forms [112]. The basic fundamentals of fracture
+mechanics may be summarized as manner of a triangle with three critical constraints positioned at
+each apex: operational stress, fracture toughness and critical defect size [113].
+
+LEFM presents an exceptional quantiﬁable depiction of both a crack’s mobility and of the elastic
+ﬁelds enclosing its tip [114,115]. Here, assumptions underlying the validity LEFM are only the
+dynamic behaviour of straight distinct crack states are accounted for, but LEFM cannot correctly
+calculate the behaviours of complex dynamic states like micro-branching. Presently, there is no ﬁrst
+method guidance for what route a crack needs to take [115]. In LEFM, it is assumed that linear
+elasticity is viable away from the crack tip. Fundamentally, for enormous samples, this hypothesis can
+constantly be made as precise as desired, but for ﬁxed sized samples it is essential to check the linear
+elasticity [115,116]. Moderate production is assumed, all nonlinear and/or dissipative procedures are
+presumed to occur in a section of insigniﬁcant size at the tip of a crack. LEFM is a scale-free model,
+thus, the measures at which these multifaceted procedures occur are insigniﬁcant [117]. The actuality
+of added scales inside the crack tip area has a great effect on crack dynamics. The general assumption
+regarding the energy balance is that energy has to move into a crack tip, or else a crack cannot
+spread [115].
+
+6.1.1. Grifﬁth Theory of Brittle Fracture
+
+An examination of the initial fracture was established using the energy method that deﬁnes
+the occurrence of fracture when the energy accessible for crack evolution is adequate to overcome
+the resistance of the material. Grifﬁth was the ﬁrst to recommend the essential energy principle for
+inelastic materials like glass, where the resistance was presumed to arise completely from the surface
+development energy of the structure [105,106,118]. It is imperative to recognise that the Grifﬁth relation
+was derived for an ideal elastic material containing a very sharp crack.
+
+Grifﬁth’s concept states that solids possess surface energy, thus, for the propagation of a crack, the
+parallel surface energy must be balanced through the externally supplemented or internally discharged
+energy. For a linear elastic solid, this donated energy, which is essential for increasing the crack, might
+be estimated from the resolution of the consequent crack dilemma. Using Inglis’ explanation for a
+homogeneously loaded plate with an oval void, Grifﬁth premeditated the growth in strain energy and,
+from the energy balance, acquired the stress equivalent to fracture as [119,120]:
+
+σ = (
+
+1/2
+
+2γsE∗
+Πa
+
+)
+
+(1)
+
+Polymers 2017, 9, 535
+
+13 of 22
+
+where E∗ = E for a plane stress and E∗ =
+(1−v2) for the plane strain condition, γs is the speciﬁc surface
+energy, a is the half crack length, E is the elastic modulus, σ is the applied stress and v is the Poisson’s
+ratio. Grifﬁth was able to interpret the inﬁnite stress inconsistency acknowledged by Wieghardt and to
+demonstrate that the fracture stress is reliant on the ﬂaw size through the equation σ = m√
+a , where m
+is the material constant [119].
+
+E
+
+6.1.2. Irwin and Orowan’s Modiﬁcation to Grifﬁth Theory of Brittle Fracture
+
+The Grifﬁth theory is strongly dependent on the magnitude of the crack and satisﬁes only ideally
+brittle materials like glass. Thus, Irwin and Orowan explained that in common engineering materials
+the energy used in creating new surfaces had two constituents: initially, the typical surface energy
+expression studied by Grifﬁth, and secondly, the energy absorbed by plastic distortion, the latter
+being dominant.
+
+Therefore, Irwin and Orowan independently modiﬁed Grifﬁth’s theory to take into account the
+plasticity constant which was observed to accompany fracture in metals. Equation (1) was revised
+with an additional term, γp, the plastic work per unit area of the new surface created:
+
+σ = (
+
+2E∗(cid:0)γs + γp
+Πa
+
+(cid:1)
+
+1/2
+
+)
+
+(2)
+
+However, γp is typically greater than γs, and it relates to the energy dissipated by dislocation
+movement within the material near the crack. Therefore, the modiﬁed Grifﬁth’s equation can be
+written as follows:
+
+σ = (
+
+2E∗(cid:0)γs + γp
+Πa
+
+(cid:1)
+
+1/2
+
+)
+
+≈ (
+
+E∗2γp
+Πa
+
+)1/2, when γp >> γs
+
+(3)
+
+Irwin’s second modiﬁcation to the Grifﬁth theory was replacing the term 2γp with the potential
+strain energy release rate G. He showed that G is measurable and can relate to the stress intensity
+factor, K, obtained from the examination of the sharp crack fracture toughness. The critical condition
+at which the crack spreads to cause a global failure is when the value of G exceeds the critical value.
+
+σ = (
+
+1/2
+
+GE∗
+Πa
+
+)
+
+(4)
+
+Sneddon’s study on a plane and axisymmetric crack used Westergaard’s resolution for plane
+problems and by resolving a penny-shaped crack. Sneddon acquired the precise asymptotic behaviour
+of the stress ﬁeld close to the crack tip and presented that the outcome of the two circumstances
+varies only by an arithmetic factor of 2
+Π [119]. For the penny-shaped crack, Sneddon also got a correct
+expression of Grifﬁth’s energy balance equation [120–122]. However, Sneddon inaccurately declared
+that σθθ, which seems in the axisymmetric problem has no analog in the plane problem, therefore,
+Sneddon failed to recognize the universal nature of the crack tip stress ﬁeld. Irwin later indicated,
+asymptotically, that the stress formed around the boundary of the penny-shaped crack is one of plane
+strain and the recognition of the ‘numerical factor’ perceived by Sneddon it is a crucial aspect in
+simplifying the results. Irwin’s key inﬂuence, therefore, was an identiﬁcation of the universal nature of
+the asymptotic stress and displacement ﬁelds around the crack interior in linear elastic solid. It was
+reported that the symmetric crack clariﬁcations speciﬁed by Sneddon and Westergaard might be
+simpliﬁed to incorporate the asymptotic quantiﬁed for all crack problems and, for a small distance
+from the crack tip [119], the stresses might be deﬁned as:
+
+∼= (
+
+√
+
+σij
+
+K
+
+2Πr
+
+) fij(θ)
+
+(5)
+
+Polymers 2017, 9, 535
+
+14 of 22
+
+where fij is the function obtained earlier by Wieghardt, Westergaard and Sneddon for a speciﬁc crack
+geometries and loading condition and K is the stress intensity factor.
+
+6.1.3. Stress Intensity Factor
+
+The stress intensity factor [123] concept was initially established in the framework of fracture
+mechanics. For fracture considerations, both brittle fracture and fatigue failure, the asymptotic singular
+stress ﬁeld at the directed crack is critical. The stress level around the singularity is described by
+the stress intensity factor (SIF), perhaps overlaid by the crack parallel to the nonsingular T-stress.
+In particular, in circumstances such as thin-sheet lap joints, it is essential, to take the complex order
+expressing of the stress ﬁeld estimate into account [124].
+
+The local three-dimensional stress originality at a speciﬁc point of the crack or slit front is usually
+deﬁned by the superimposition of three two-dimensional stress individualities analogous to three
+unrelated loading or opening methods of the crack tip (see Figure 10): mode I is in-plane opening,
+mode II is in-plane shear and mode III is the out-of-plane shear loading [125]. The related SIFs
+are KI, KII and KIII [124]. Non-singular stresses might be overlaid, and these stresses include the
+crack-parallel stresses (the T-stress), normal stresses and the symmetric shear stresses in the crack
+front direction. In usual instances, separation of the rudimentary slit tip loading modes is impossible,
+linking effects with the transverse singular effects occur, for example, where the crack front butts on a
+free surface [124,125].
+
+Figure 10. Characterization of three distinct fracture methods: mode I is an in-plane opening; mode II
+is an in-plane shear; and mode III is an out-of-plane shear loading.
+
+Three types of fractures deﬁne the relative motion through a fracture close to its boundary: modes
+I, II, and III (i.e., Figure 10). In mode I, which is referred to as the in-plane opening, the frame is
+loaded by tensile forces, so that the crack surfaces are torn separately in the y-direction. The distortions
+are then equal with regard to the planes perpendicular to the y-axis and the z-axis [126–128]. In the
+in-plane shear mode or mode II, the body is loaded by shear forces parallel to the crack surfaces, which
+glide over each other in the x-direction. The distortions are then symmetric with respect to the plane
+perpendicular to the z-axis and skew equal with regard to the plane perpendicular to the y-axis [129].
+Lastly, is the out-of-plane shear loading which is also known as mode III, the body is loaded by shear
+forces parallel to the crack front of the crack surfaces, and the crack surfaces glide over each other in
+the z-direction. The deformations are then skew-symmetric with regard to the plane perpendicular to
+the z and the y-axis [115,128,129].
+
+7. Modelling
+
+Theoretical modelling and application of computational design devices to calculate the attributes
+of self-healing materials are still in their infancy. The modelling attempts to relate self-healing of
+thermoplastics and numerous facets of thermoset materials have been discussed, but with a strong
+focus on the microencapsulation methodology in recent journals [31]. The concept of modelling
+self-healing materials was ﬁrst described in the early 1980s, which focus on understanding the processes
+in damage and the repair of thermoplastics [14]. Five phases of crack repair in thermoplastics were
+represented as: (i) the surface reorganization stage, which starts the diffusion function; (ii) the method
+
+Polymers 2017, 9, 535  14 of 22  The local three-dimensional stress originality at a specific point of the crack or slit front is usually defined by the superimposition of three two-dimensional stress individualities analogous to three unrelated loading or opening methods of the crack tip (see Figure 10): mode I is in-plane opening, mode II is in-plane shear and mode III is the out-of-plane shear loading [125]. The related SIFs are KI, KII and KIII [124]. Non-singular stresses might be overlaid, and these stresses include the crack-parallel stresses (the T-stress), normal stresses and the symmetric shear stresses in the crack front direction. In usual instances, separation of the rudimentary slit tip loading modes is impossible, linking effects with the transverse singular effects occur, for example, where the crack front butts on a free surface [124,125].  Figure 10. Characterization of three distinct fracture methods: mode I is an in-plane opening; mode II is an in-plane shear; and mode III is an out-of-plane shear loading. Three types of fractures define the relative motion through a fracture close to its boundary: modes I, II, and III (i.e., Figure 10). In mode I, which is referred to as the in-plane opening, the frame is loaded by tensile forces, so that the crack surfaces are torn separately in the y-direction. The distortions are then equal with regard to the planes perpendicular to the y-axis and the z-axis [126–128]. In the in-plane shear mode or mode II, the body is loaded by shear forces parallel to the crack surfaces, which glide over each other in the x-direction. The distortions are then symmetric with respect to the plane perpendicular to the z-axis and skew equal with regard to the plane perpendicular to the y-axis [129]. Lastly, is the out-of-plane shear loading which is also known as mode III, the body is loaded by shear forces parallel to the crack front of the crack surfaces, and the crack surfaces glide over each other in the z-direction. The deformations are then skew-symmetric with regard to the plane perpendicular to the z and the y-axis [115,128,129]. 7. Modelling Theoretical modelling and application of computational design devices to calculate the attributes of self-healing materials are still in their infancy. The modelling attempts to relate self-healing of thermoplastics and numerous facets of thermoset materials have been discussed, but with a strong focus on the microencapsulation methodology in recent journals [31]. The concept of modelling self-healing materials was first described in the early 1980s, which focus on understanding the processes in damage and the repair of thermoplastics [14]. Five phases of crack repair in thermoplastics were represented as: (i) the surface reorganization stage, which starts the diffusion function; (ii) the method phase directs the manner of restoration; (iii) the wetting step shapes the wetting diffusion function; (iv) the diffusion phase is thought to be as the most significant stage where restoration of mechanical properties occurs; and (v) the randomization phase includes a complete loss of memory of the crack interface [14,31]. While this model is suitable for thermoplastics, the opposite was observed for thermoset materials because the chain mobility of the former is expected to fit into the five phase repairing classification [31]. In recent years the emphasis has shifted to the development of self-healing materials of thermoset-based structures [130,131], in conjunction with the latest modelling trends to model characteristics of these self-healing materials. Three modelling concepts for thermoset based self-healing have been studied; these include micro-mechanical modelling, continuum damage mechanics, and, cohesive modelling. Polymers 2017, 9, 535
+
+15 of 22
+
+phase directs the manner of restoration; (iii) the wetting step shapes the wetting diffusion function;
+(iv) the diffusion phase is thought to be as the most signiﬁcant stage where restoration of mechanical
+properties occurs; and (v) the randomization phase includes a complete loss of memory of the crack
+interface [14,31]. While this model is suitable for thermoplastics, the opposite was observed for
+thermoset materials because the chain mobility of the former is expected to ﬁt into the ﬁve phase
+repairing classiﬁcation [31].
+
+In recent years the emphasis has shifted to the development of self-healing materials of
+thermoset-based structures [130,131], in conjunction with the latest modelling trends to model
+characteristics of these self-healing materials. Three modelling concepts for thermoset based
+self-healing have been studied; these include micro-mechanical modelling, continuum damage
+mechanics, and, cohesive modelling.
+
+White et al. reported on the effect of microcapsule geometry and properties on the mechanical
+activating procedure. Design parameters such as the toughness, the comparative stiffness of the
+microcapsules, and the strength of the interface amongst the microcapsule and the matrix were
+investigated. Micromechanical modelling with the aid of the Eshelby–Mura equivalent inclusion
+technique was applied to study numerous characteristics of the compound three-dimensional
+correlation between a crack and a microcapsule [21,31]. Optical and scanning electron microscopy
+was used to established the repair theory [21]. The second modelling concept for self-healing material
+is the continuum damage mechanics. This concept of modelling was pioneered by Kachanov in
+1958 [132,133]. This was extended to simulate the irreversible repairing mechanism, which accelerated
+the advancements of a numerical model of damage, plasticity, and repair for ﬁbre-reinforced polymer
+composites [31]. The third modelling concept is cohesive modelling, which is recognized as a
+method that is used to simulate different crack growths in a uniﬁed system under complicated
+geometric and loading conditions [134]. The cohesive modelling of fracture assumes that fracture
+development occurs in a vanishingly thin region ahead of the crack tip. This method seems suitable
+for summarising the failure of polymeric structures, where the growth of a thin crazing zone is an
+important constituent. Cohesive models have been researched for quasi-static and dynamic crack
+transmission in polymers [135]. Yang et al. deﬁned a mixed mode cohesive zone model (CZM),
+which led to correct predictions of mixed mode fracture (i.e., mode I, mode II, and mode III) of
+adhesively bonded joints with large non-linear deformation. The CZM uses autonomous cohesive
+laws for the opening mode (mode I) and shear modes (modes II and III), such that the durability and
+cohesive strengths for the three modes can be diverse [108]. Maiti et al. used molecular-scale level
+simulation to investigate the healing kinetics of a healing agent, to correlate precisely the relation
+between the mechanical reaction of the repairing agent and its structure as a function of the degree
+of treatment. In their approach three levels are incorporated. First, is a fully atomistic level, where
+all atoms restricted in the system are absolutely characterised at this level where reaction rates and
+structural information can be deﬁned, the second phase, is the ﬁrst coarse-graining level, where larger
+polymeric systems are simulated and the connection between structure and localized mechanical
+attributes are recognised, and last, is the second coarse-graining level, in which reaction rates and
+damages degrees are resolved and an inclusive mechanical response of the repairing agent under the
+process circumstances is established [136].
+
+However, advancement in this area can eventually enable the manufacture of robust materials
+that can both screen their structural reliability and heal themselves before any disastrous failure
+occur. What is still needed in the scientiﬁc community are operative principles to improve the
+design and allows the effective synthesis of these materials. It is in this area that theoretical and
+computational modelling can play an important role. Particularly, simulations models for ﬂuid
+interactions can enlighten researchers about the dynamic behaviour at the interface of a ﬂuid-packed
+network and the surrounding solid structure. Furthermore, models can disclose how to plan
+receptive polymeric materials that vigorously contribute in reinforcing the arrangement when it
+is damage or subjected to different environmental conditions [137]. While these models have vastly
+
+Polymers 2017, 9, 535
+
+16 of 22
+
+contributed to our understanding of crack propagation in composite materials, they have drawbacks
+when used alone. For example the continuum modelling technique does not quantify morphology
+and transport characteristics of the healing agent, whereas, the cohesive ﬁnite element technique
+hypothesizes immediate repairing, compared to the experimental adherence of rest periods on the
+fatigue response that achieved repair [31]. A good model should address the fracture of composite
+laminates, it is prompted by the beginning and development of four failure modes such as matrix
+cracks, ﬁbre breakage, delamination between neighbouring layers of the laminate and interfacial
+debonding [138,139]. There are four stages of deformation in composites. The ﬁrst stage is where the
+matrix debonds from the ﬁbre ends, regularly at an initial point of loading. It does not automatically
+advance to the other damage instantaneously, but rather triggers localized plastic deformation. In the
+second phase the matrix cracking and ﬁbre/matrix interface debonding are caused by the stress
+concentration from the debonded ﬁbre end. The boundary crack and/or matrix crack transmits
+with ampliﬁed loading. In the third phase the individually fashioned micro-cracks cleave and form
+macroscopic cracks. The fourth phase is where a macroscopic crack spreads unsteadily, causing ﬁnal
+failure. Materializing these descriptive interpretations into measurable micro-mechanics models is
+difﬁcult [139].
+
+Illustrations where computational theories have provided strategies for manipulating self-healing
+structures were highlighted above, and suggest new areas for further examination. While there have
+been several attempts in this area, theoretical and computational research into self-healing in synthetic
+materials is still in its infancy. Advancement in this area requires an improvement of effective models
+that can explore the structural progression of multicomponent, multiphase structures. At the same
+time, the models should not only describe how the mechanical forces in the system relate to the
+structure, but also consequential structural alterations modify the mechanics [140].
+
+The ﬁrst fundamental problem with advanced materials and composites used for engineering
+structures, spacecraft, and vehicle applications is that they are rigid solids. It is into these materials that
+the self-healing characteristics must eventually be used to improve the durability and safety of these
+materials. Therefore, the essential design and fabrication challenge is to introduce ﬂuidity into these
+systems and do so without changing the mechanical attributes of the structure. A solution proposed
+was to implant a three-dimensional vascular network inside the structural materials. Such research has
+recently appeared in some publications [141,142], where vascular ﬁbres channels spread throughout
+the structures and contain repairing agents. When a crack occurs, the healant ﬂows to the deformed
+area and seal the crack. Such integrated system present opportunities in the establishment of
+these autonomous and continuous healing materials. However, operative standards to improve
+the design and allow effective synthesis of these materials are still needed. Particularly, computational
+representations for ﬂuid-structure relations may offer information about the dynamic behaviour at
+the interface of a ﬂuid-packed network and the surrounding solid walls. Furthermore, models can
+disclose how to design responsive polymeric materials that vigorously contribute in reinforcing the
+structure when it is damaged or exposed to differences in environmental situations.
+
+8. Conclusions
+
+This study has sought to provide information on studies conducted on self-healing polymeric
+and polymeric composites materials. Polymeric and polymeric composite materials are widely used
+globally because of their cost effectiveness and availability. Methods of integrating self-healing
+competencies in polymeric structures can now efﬁciently tackle several deformation mechanisms
+at molecular and structural phases. Although highly signiﬁcant information has been reported
+for self-healing properties in different materials, limited information is available on self-healing
+polymeric/composites. The inherent complications of their damage restoration are still limiting
+In particular, if repeated healing is incorporated in these
+their use in various applications.
+polymer/composite materials, it would make them smart materials with multi-functional capabilities
+(i.e., self-diagnosis, self-control and self-healing). Effective strategies are highly desired for improving
+
+Polymers 2017, 9, 535
+
+17 of 22
+
+the design, and facilitating the proﬁcient synthesis and application, of polymeric/composite systems.
+It is in this regard that theoretical and computational modelling shows a promising solution,
+particularly, computational simulations for ﬂuid-ﬂow relations, which can provide information
+about the dynamic behaviour at the interface of a ﬂuid packed network and the surrounding solid
+structure. However, before engineers can focus on computational modelling, they need to comprehend
+and consider the fundamental nature of fracture (i.e., fracture formation and propagation); these
+fundamentals are signiﬁcant research in the material scientiﬁc society which will present essential
+theories for modelling self-healing polymer/composites. Although signiﬁcant advancement has
+been made in the past several years, the ﬁeld is still in its infancy. Many of the ambiguous
+fundamental concerns like environmental degradation, oxidation and elevated temperature behaviour
+are multifaceted and need an understanding and analysis of the topic from different perspectives
+such as material science, electrochemistry and solid mechanics.
+
+Acknowledgments: The authors (Keletso Mphahlele and Suprakas Sinha Ray) are grateful to the Department
+of Science and Technology (DST, project No. HGERA8X) and the Council for Scientiﬁc and Industrial Research
+(CSIR, project No. HGER20S) of South Africa for ﬁnancial support. The authors would also like to thank the
+DST-CSIR National Centre for Nanostructured Materials characterization facility team members for their support.
+
+Author Contributions: Keletso Mphahlele drafted manuscript. Suprakas Sinha Ray extensively corrected and
+ﬁnalizes manuscript. Andrie Kolesnikov went through manuscript and gave comments.
+
+Conﬂicts of Interest: The authors declare no conﬂict of interest.
+
+References
+
+1.
+
+2.
+
+3.
+4.
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+Bonfoh, N.; Coulibaly, M.; Sabar, H. Effective properties of elastic composite materials with multi-coated
+reinforcements: A new micromechanical modelling and applications. Compos. Struct. 2014, 115, 111–119.
+[CrossRef]
+Ageorges, C.; Ye, L.; Hou, M. Advances in fusion bonding techniques for joining thermoplastic matrix
+composites: A review. Compos. Part A Appl. Sci. Manuf. 2001, 32, 839–857. [CrossRef]
+Vinson, J.R. Adhesive bonding of polymer composites. Polym. Eng. Sci. 1989, 29, 1325–1331. [CrossRef]
+Vinson, J.R. Mechanical fastening of polymer composites. Polym. Eng. Sci. 1989, 29, 1332–1339. [CrossRef]
+Esteves, J.V.; Goushegir, S.M.; dos Santos, J.F.; Canto, L.B.; Hage, E., Jr.; Amancio-Filho, S.T. Friction spot
+joining of aluminum AA6181-T4 and carbon ﬁber-reinforced poly(phenylene sulﬁde): Effects of process
+parameters on the microstructure and mechanical strength. Mater. Des. 2014, 66, 437–445. [CrossRef]
+Grewell, D.; Benatar, A. Welding of Plastics: Fundamentals and New Developments. Int. Polym. Process.
+2007, 22, 43–60. [CrossRef]
+Caminero, M.A.; Pavlopoulou, S.; Lopez-Pedrosa, M.; Nicolaisson, B.G.; Pinna, C.; Soutis, C. Analysis
+of adhesively bonded repairs in composites: Damage detection and prognosis. Compos. Struct. 2013, 95,
+500–517. [CrossRef]
+Benyahia, F.; Albedah, A.; Bachir Bouiadjra, B. Analysis of the adhesive damage for different patch shapes in
+bonded composite repair of aircraft structures. Mater. Des. 2014, 54, 18–24. [CrossRef]
+Ageorges, C.; Ye, L. Resistance welding of thermosetting composite/thermoplastic composite joints.
+Compos. Part A Appl. Sci. Manuf. 2001, 32, 1603–1612. [CrossRef]
+
+10. Liu, X.; Wang, G. Progressive failure analysis of bonded composite repairs. Compos. Struct. 2007, 81, 331–340.
+
+[CrossRef]
+
+11. Banea, M.D.; da Silva, L.F.M. Adhesively bonded joints in composite materials: An overview. Proc. Inst.
+
+Mech. Eng. Part L J. Mater. Des. Appl. 2009, 223, 1–18. [CrossRef]
+
+12. Custódio, J.; Broughton, J.; Cruz, H. A review of factors inﬂuencing the durability of structural bonded
+
+timber joints. Int. J. Adhes. Adhes. 2009, 29, 173–185. [CrossRef]
+
+13. Rosso, M. Ceramic and metal matrix composites: Routes and properties. J. Mater. Process. Technol. 2006, 175,
+
+364–375. [CrossRef]
+
+14. Kim, Y.H.; Woo, R.P. A theory of healing at polymer-polymer interface. Macromolecules 1983, 16, 1115–1120.
+
+[CrossRef]
+
+Polymers 2017, 9, 535
+
+18 of 22
+
+15. Mallick, P.K. Fiber-Reinforced Composites: Materials, Manufacturing and Design; CRC Press: Boca Raton, FL,
+
+USA, 2007.
+
+16. Zhang, M.Q.; Rong, M.Z. Basics of self-healing: State of the art.
+
+In Self-Healing Polymers and Polymer
+
+Composites; John Wiley & Sons: Hoboken, NJ, USA, 2011; pp. 1–81.
+
+17. Wambua, P.; Ivens, J.; Verpoest, I. Natural ﬁbres: Can they replace glass in ﬁbre reinforced plastics?
+
+Compos. Sci. Technol. 2003, 63, 1259–1264. [CrossRef]
+
+18. Williams, J.C.; Starke, E.A., Jr. Progress in structural materials for aerospace systems. Acta Mater. 2003, 51,
+
+5775–5799. [CrossRef]
+
+19. Ma, X.; Scarpa, F.; Peng, H.-X.; Allegri, G.; Yuan, J.; Ciobanu, R. Design of a hybrid carbon ﬁbre/carbon
+nanotube composite for enhanced lightning strike resistance. Aerosp. Sci. Technol. 2015, 47, 367–377.
+[CrossRef]
+
+20. Peterson, A.M.; Kotthapalli, H.; Rahmathullah, M.A.M.; Palmese, G.R. Investigation of interpenetrating
+
+polymer networks for self-healing applications. Compos. Sci. Technol. 2012, 72, 330–336. [CrossRef]
+
+21. White, S.R.; Sottos, N.R.; Geubelle, P.H.; Moore, J.S.; Kessler, M.R.; Sriram, S.R.; Brown, E.N.; Viswanathan, S.
+
+Autonomic healing of polymer composites. Nature 2001, 409, 794–797. [CrossRef] [PubMed]
+
+22. McCann, D.M.; Forde, M.C. Review of NDT methods in the assessment of concrete and masonry structures.
+
+NDT E Int. 2001, 34, 71–84. [CrossRef]
+
+23. Dimarogonas, A.D. Vibration of cracked structures: A state of the art review. Eng. Fract. Mech. 1996, 55,
+
+831–857. [CrossRef]
+
+24. Boller, C. Next generation structural health monitoring and its integration into aircraft design. Int. J. Syst. Sci.
+
+2000, 31, 1333–1349. [CrossRef]
+
+25. Giurgiutiu, V.; Cuc, A. Embedded non-destructive evaluation for structural health monitoring, damage
+
+detection, and failure prevention. Shock Vib. Dig. 2005, 37, 83–105. [CrossRef]
+
+26. Titman, D.J. Applications of thermography in non-destructive testing of structures. NDT E Int. 2001, 34,
+
+149–154. [CrossRef]
+
+27. Verma, S.K.; Bhadauria, S.S.; Akhtar, S. Review of nondestructive testing methods for condition monitoring
+
+28.
+
+of concrete structures. J. Constr. Eng. 2013, 834572. [CrossRef]
+Salawu, O.S. Detection of structural damage through changes in frequency: A review. Eng. Struct. 1997, 19,
+718–723. [CrossRef]
+
+29. Meure, S.; Wu, D.Y. The biomimetic approach to self healing composite development in the aerospace
+industry. In Proceedings of the 1st International Self-healing Materials Conference, Noordwijk aan Zee,
+The Netherlands, 18–20 April 2007.
+
+30. Aïssa, B.; Therriault, D.; Haddad, E.; Jamroz, W. Self-Healing materials systems: Overview of major
+
+approaches and recent developed technologies. Adv. Mater. Sci. Eng. 2012, 854203. [CrossRef]
+
+31. Wu, D.Y.; Meure, S.; Solomon, D. Self-healing polymeric materials: A review of recent developments.
+
+Prog. Polym. Sci. 2008, 33, 479–522. [CrossRef]
+
+32. Ye, L.; Lu, Y.; Su, Z.; Meng, G. Functionalized composite structures for new generation airframes: A review.
+
+Compos. Sci. Technol. 2005, 65, 1436–1446. [CrossRef]
+
+33. Hager, M.D.; Greil, P.; Leyens, C.; van der Zwaag, S.; Schubert, U.S. Self-healing materials. Adv. Mater. 2010,
+
+22, 5424–5430.
+
+34. Trask, R.; Williams, H.; Bond, I. Self-healing polymer composites: Mimicking nature to enhance performance.
+
+Bioinspir. Biomim. 2007, 2. [CrossRef] [PubMed]
+
+35. Tzetzis, D.; Hogg, P.J. Experimental and ﬁnite element analysis on the performance of vacuum-assisted resin
+
+infused single scarf repairs. Mater. Des. 2008, 29, 436–449. [CrossRef]
+
+36. Ellyin, F.; Ozah, F.; Xia, Z. 3-D modelling of cyclically loaded composite patch repair of a cracked plate.
+
+Compos. Struct. 2007, 78, 486–494. [CrossRef]
+
+37. Katnam, K.B.; Da Silva, L.F.M.; Young, T. M Bonded repair of composite aircraft structures: A review of
+
+scientiﬁc challenges and opportunities. Prog. Aerosp. Sci. 2013, 61, 26–42. [CrossRef]
+
+38. Baker, A. Bonded composite repair of fatigue-cracked primary aircraft structure. Compos. Struct. 1999, 47,
+
+431–443. [CrossRef]
+
+39. Whittingham, B.; Baker, A.A.; Harman, A.; Bitton, D. Micrographic studies on adhesively bonded scarf
+repairs to thick composite aircraft structure. Compos. Part A Appl. Sci. Manuf. 2009, 40, 1419–1432. [CrossRef]
+
+Polymers 2017, 9, 535
+
+19 of 22
+
+40. Wang, C.H.; Gunnion, A.J. On the design methodology of scarf repairs to composite laminates. Compos. Sci.
+
+Technol. 2008, 68, 35–46. [CrossRef]
+
+41. Gunnion, A.J.; Herszberg, I. Parametric study of scarf joints in composite structures. Compos. Struct. 2006, 75,
+
+364–376. [CrossRef]
+
+42. Constantin, N.; Sandu, M.; Sorohan, ¸S. Restoration of the mechanical performance of damaged Al panels
+
+using bonded composite repair patches. Inter. J. Adhes. Adhes. 2013, 42, 69–76. [CrossRef]
+
+43. Yala, A.A.; Megueni, A. Optimisation of composite patches repairs with the design of experiments method.
+
+Mater. Des. 2009, 30, 200–205. [CrossRef]
+
+44. Cheng, P.; Gong, X.-J.; Aivazzadeh, S.; Xiao, X. Experimental observation of tensile behavior of patch repaired
+
+45.
+
+composites. Polym. Test. 2014, 34, 146–154. [CrossRef]
+Shams, S.S.; El-Hajjar, R.F. Overlay patch repair of scratch damage in carbon ﬁber/epoxy laminated
+composites. Compos. Part A Appl. Sci. Manuf. 2013, 49, 148–156. [CrossRef]
+
+46. Typical Composite Repair Flowchart. Available online: https://en.wikipedia.org/wiki/Composite_repairs#
+
+/media/File:Figure-3-typical-composite-repair-ﬂowchart.jpg8 (accessed on 9 September 2017).
+
+47. Takeda, N.; Okabe, Y.; Kuwahara, J.; Kojima, S.; Ogisu, T. Development of smart composite structures with
+small-diameter ﬁber Bragg grating sensors for damage detection: Quantitative evaluation of delamination
+length in CFRP laminates using Lamb wave sensing. Compos. Sci. Technol. 2005, 65, 2575–2587. [CrossRef]
+48. Kamsu-Foguem, B. Knowledge-based support in Non-Destructive Testing for health monitoring of aircraft
+
+structures. Adv. Eng. Inform. 2012, 26, 859–869. [CrossRef]
+
+49. Mouritz, A.P.; Townsend, C.; Shah Khan, M.Z. Non-destructive detection of fatigue damage in thick
+
+composites by pulse-echo ultrasonics. Compos. Sci. Technol. 2000, 60, 23–32. [CrossRef]
+
+50. Moropoulou, A.; Labropoulos, K.C.; Delegou, E.T.; Karoglou, M.; Bakolas, A. Non-destructive techniques as
+a tool for the protection of built cultural heritage. Constr. Build. Mater. 2013, 48, 1222–1239. [CrossRef]
+51. Pramanik, A. Developments in the non-traditional machining of particle reinforced metal matrix composites.
+
+Int. J. Mach. Tools Manuf. 2014, 86, 44–61. [CrossRef]
+
+52. Müller, F.; Monaghan, J. Non-conventional machining of particle reinforced metal matrix composites. J. Mater.
+
+Process. Technol. 2001, 118, 278–285. [CrossRef]
+
+53. Gomes, W.J.S.; Beck, A.T. Optimal inspection planning and repair under random crack propagation.
+
+Eng. Struct. 2014, 69, 285–296. [CrossRef]
+
+54. Hatsukade, Y.; Kasai, N.; Kurosawa, M.; Kawai, R.; Takashima, H.; Kojima, F.; Ishiyama, A. Detection of internal
+cracks and delamination in carbon-fiber-reinforced plastics using SQUID-NDI system. Phys. C Supercond. 2002,
+372–376, 267–270. [CrossRef]
+
+55. Popovi´c, O.; Proki´c-Cvetkovi´c, R.; Burzi´c, M.; Luki´c, U.; Belji´c, B. Fume and gas emission during arc welding:
+
+Hazards and recommendation. Renew. Sustain. Energy Rev. 2014, 37, 509–516. [CrossRef]
+
+56. Qin, R.; He, G. Mass transfer of the nickel-base alloy covered electrode with neutral ﬂux coating during
+
+shielded metal arc welding. Int. J. Heat Mass Trans. 2014, 78, 1095–1104. [CrossRef]
+
+57. Tong, Z.; Zhentai, Z.; Rui, Z. A dynamic welding heat source model in pulsed current gas tungsten arc
+
+welding. J. Mater. Process. Technol. 2013, 213, 2329–2338. [CrossRef]
+
+58. Mohamat, S.A.; Ibrahim, I.A.; Amir, A.; Ghalib, A. The effect of ﬂux core arc welding (FCAW) processes on
+
+different parameters. Proc. Eng. 2012, 41, 1497–1501. [CrossRef]
+
+59. Kiran, D.V.; Cho, D.W.; Song, W.H.; Na, S.J. Arc behavior in two wire tandem submerged arc welding.
+
+60.
+
+J. Mater. Process. Technol. 2014, 214, 1546–1556. [CrossRef]
+Stokes, V.K. Joining methods for plastics and plastic composites: An overvie. Polym. Eng. Sci. 1989, 29,
+1310–1324. [CrossRef]
+
+61. Groche, P.; Wohletz, S.; Brenneis, M.; Pabst, C.; Resch, F. Joining by forming—A review on joint mechanisms,
+
+applications and future trends. J. Mater. Process. Technol. 2014, 214, 1972–1994. [CrossRef]
+
+62. Gibson, B.T.; Lammlein, D.H.; Prater, T.J.; Longhurst, W.R.; Cox, C.D.; Ballun, M.C.; Dharmaraj, K.J.;
+Cook, G.E.; Strauss, A.M. Friction stir welding: Process, automation, and control. J. Manuf. Process. 2014, 16,
+56–73. [CrossRef]
+Jenkins, N.; Pierce, W.; Eagar, T. Particle size distribution of gas metal and ﬂux cored arc welding fumes.
+Weld. J. 2005, 84, 158–163.
+
+63.
+
+64. Dasch, J.; D’Arcy, J. Physical and chemical characterization of airborne particles from welding operations in
+
+automotive plants. J. Occup. Environ. Hyg. 2008, 5, 444–454. [CrossRef] [PubMed]
+
+Polymers 2017, 9, 535
+
+20 of 22
+
+65. Klinge, S.; Bartels, A.; Steinmann, P. The multiscale approach to the curing of polymers incorporating viscous
+
+and shrinkage effects. Int. J. Solids Struct. 2012, 49, 3883–3900. [CrossRef]
+
+66. Puretskiy, N. Design of Self-Repairable Superhydrophobic and Switchable Surfaces Using Colloidal Particles;
+
+Technische Universitat Dresden: Dresden, Germany, 2013.
+
+67. Chotard, T.J.; Pasquiet, J.; Benzeggagh, M.L. Residual performance of scarf patch-repaired pultruded shapes
+
+initially impact damaged. Compos. Struct. 2001, 53, 317–331. [CrossRef]
+
+68. Blaiszik, B.J.; Sottos, N.R.; White, S.R. Nanocapsules for self-healing materials. Compos. Sci. Technol. 2008, 68,
+
+978–986. [CrossRef]
+
+69. Blaiszik, B.; Kramer, S.; Olugebefola, S.; Moore, J.S.; Sottos, N.R.; White, S.R. Self-healing polymers and
+
+70.
+
+composites. Annu. Rev. Mater. Res. 2010, 40, 179–211. [CrossRef]
+Filipovic, N.; Petrovic, D.; Jovanovic, A.; Jovanovic, S.; Balos, D.; Kojic, M. DPD simulation of self-healing
+process of nanocoating. J. Serb. Soc. Comp. Mech. 2008, 2, 42–50.
+
+71. Ghosh, S.K. Self-Healing Materials: Fundamentals, Design Strategies, and Applications. In Self-Healing
+
+Materials; Wiley-VCH Verlag GmbH & Co. KGaA: Weinheim, Germany, 2009; pp. 1–28.
+Fischer, H. Self-repairing materials systems—A dream or a reality? Nat. Sci. 2010, 2, 873–901. [CrossRef]
+
+72.
+73. Wang, Y.; Pham, D.T.; Ji, C. Self-healing composites: A review. Cogent Eng. 2015, 2, 1075686. [CrossRef]
+74. Guimard, N.K.; Oehlenschlaeger, K.K.; Zhou, J.; Hilf, S.; Schmidt, F.G.; Barner-Kowollik, C. Current trends in
+
+the ﬁeld of self-healing materials. Macromol. Chem. Phys. 2012, 213, 131–143. [CrossRef]
+
+75. Wool, R.P. Self-healing materials: A review. Soft Mater. 2008, 4, 400–418. [CrossRef]
+76. Doblaré, M.; García, J.M.; Gómez, M.J. Modelling bone tissue fracture and healing: A review. Eng. Fract. Mech.
+
+2004, 71, 1809–1840. [CrossRef]
+
+77. Kyllönen, L.; D’Este, M.; Alini, M.; Eglin, D. Local drug delivery for enhancing fracture healing in osteoporotic
+
+78.
+
+bone. Acta Biomater. 2014, 11, 412–434. [CrossRef] [PubMed]
+Sangadji, S.; Schlangen, E. Mimicking none healing process to self repair concrete structure novel approach
+using porous network concrete. Proc. Eng. 2013, 54, 315–326. [CrossRef]
+
+79. Thomas, G.P. Self-Healing Materials—The Future of Repairs. Available online: https://www.azom.com/
+
+article.aspx?ArticleID=7902 (accessed on 18 October 2017).
+
+80. Ghaisi, M.S.; Chen, J.; Vaziri, A.; Rodriguez, E.K.; Nazarian, A. Bone fracture healing in mechanobiological
+
+modeling: A review of principles and methods. Bone Rep. 2017, 6, 87–100. [CrossRef] [PubMed]
+
+81. Billiet, S.; Hillewaere, X.K.D.; Teixeira, R.F.A.; Du Prez, F.E. Chemistry of crosslinking processes for
+
+self-healing polymers. Macromol. Rapid Commun. 2013, 34, 290–309. [CrossRef] [PubMed]
+
+82. Garcia, S.J. Effect of polymer architecture on the intrinsic self-healing character of polymers. Eur. Polym. J.
+
+2014, 53, 118–125. [CrossRef]
+
+83. Burattini, S.; Greenland, B.W.; Chappell, D.; Colquhoun, H.M.; Hayes, W. Healable polymeric materials:
+
+A tutorial review. Chem. Soc. Rev. 2010, 39, 1973–1985. [CrossRef] [PubMed]
+
+84. Lehn, J.-M. Dynamers: Dynamic molecular and supramolecular polymers. Prog. Polym. Sci. 2005, 30,
+
+814–831. [CrossRef]
+
+85. Chao, A.; Negulescu, I.; Zhang, D. Dynamic covalent polymer networks based on degenerative imine bond
+exchange; tuning the malleability and self-healing properties by solvent. Macromolecules 2016, 49, 6277–6284.
+[CrossRef]
+
+86. Zhang, L.; Rowan, S.J. Effect of sterics and degree of cross-linking on the mechanical properties of dynamic
+
+poly(alkylurea-urethane) networks. Macromolecules 2017, 50, 5051–5060. [CrossRef]
+
+87. Deng, G.; Li, F.; Yu, H.; Liu, F.; Liu, C.; Sun, W.; Jiang, H.; Chen, Y. Dynamic hydrogels with an environmental
+adaptive self-healing ability and dual responsive sol–gel transitions. ACS Macro Lett. 2012, 1, 275–279.
+[CrossRef]
+
+88. Kloxin, C.J.; Scott, T.F.; Adzima, B.J.; Bowman, C.N. Covalent adaptable networks (CANs): A unique
+
+paradigm in crosslinked polymers. Macromolecules 2010, 43, 2643–2653. [CrossRef] [PubMed]
+
+89. Hizal, G.; Tunca, U.; Sanyal, A. Discrete macromolecular constructs via the Diels–Alder “Click” reaction.
+
+J. Polym. Sci. Part A Polym. Chem. 2011, 49, 4103–4120. [CrossRef]
+
+90. Toncelli, C.; De Reus, D.C.; Picchioni, F.; Broekhuis, A.A. Properties of reversible diels–alder furan/maleimide
+
+polymer networks as function of crosslink density. Macromol. Chem. Phys. 2012, 213, 157–165. [CrossRef]
+
+91. García, S.J.; Fischer, H.R.; van der Zwaag, S. A critical appraisal of the potential of self healing polymeric
+
+coatings. Prog. Organ. Coat. 2011, 72, 211–221. [CrossRef]
+
+Polymers 2017, 9, 535
+
+21 of 22
+
+92. Canadell, J.; Goossens, H.; Klumperman, B. Self-Healing materials based on disulﬁde links. Macromoleculs
+
+2011, 44, 2536–2541.
+
+93. Zhang, L.; Chen, L.; Rowan, S.J. Trapping dynamic disulﬁde bond in the hare segments of thermoplastic
+
+polyurethane elastomers. Macromol. Chem. Phys. 2017, 218. [CrossRef]
+
+94. Zhang, L.; Brostowitz, N.R.; Cavicchi, K.A.; Weiss, R.A. Perspective: Ionomer research and application.
+
+Macromolecules 2014, 8, 81–99. [CrossRef]
+
+95. Herbst, F.; Binder, W.H. Self-Healing Polymers via Supramolecular, Hydrogen-Bonded Networks.
+
+In
+Self-Healing Polymers: From Principles to Applications; Wiley-VCH Verlag GmbH & Co. KGaA: Weinheim,
+Germany, 2013. [CrossRef]
+
+96. Heinzamann, C.; Weder, C.; de Espinosa, L.M. Supramolecular polymers adhesive: Advanced materials
+
+inspired by nature. Chem. Soc. Rev. 2016, 45, 342–358. [CrossRef] [PubMed]
+
+97. Varley, R.J.; van der Zwaag, S. Towards an understanding of thermally activated self-healing of an ionomer
+
+systems during ballistic penetration. Acta Mater. 2008, 56, 5737–5750. [CrossRef]
+
+98. Rhaman, M.A.; Penco, M.; Spagnoli, G.; Grande, A.M.; Di Landro, L. Self-healing behavior of blends based
+on ionomers with ethylene/vinyl alcohol copolymer or epoxidized natural rubber. Macromol. Mater. Eng.
+2011, 296, 1119–1127. [CrossRef]
+
+99. Kalista, S.J.; Ward, T.C.; Oyetunji, Z. Self-healing of poly(ethylene-co-methacrylic acid) copolymers following
+
+projectile puncture. Mech. Adv. Mater. Struct. 2007, 14, 391–397. [CrossRef]
+
+100. Varley, R.J.; Shen, S.; van der Zwaag, S. The effect of cluster plasticisation on the self healing behaviour of
+
+ionomers. Polymer 2010, 51, 679–686. [CrossRef]
+
+101. Brown, E.N.; Sottos, N.R.; White, S.R. Fracture testing of a self-healing polymer composite. Exp. Mech. 2002,
+
+42, 372–379. [CrossRef]
+
+102. Vijayaraghavan, A.; Dornfeld, D.A. Challenges in Modeling Machining of Multilayer Materials.
+
+In
+Proceedings of the 8th CIRP International Workshop on Modeling of Mechining Operations, Chemnitz,
+Germany, 10–11 May 2005.
+
+103. Dry, C.M.; Sottos, N.R. Passive smart self-repair in polymer matrix composite materials. Smart Struct. Mater.
+
+1993, 1916, 438–444.
+
+104. Bleay, S.M.; Loader, C.B.; Hawyes, V.J.; Humberstone, L.; Curtis, P.T. A smart repair system for polymer
+
+matrix composites. Compos. Part A Appl. Sci. Manuf. 2001, 32, 1767–1776. [CrossRef]
+
+105. Soutis, C. Carbon ﬁber reinforced plastics in aircraft construction. Mater. Sci. Eng. A 2005, 412, 171–176.
+
+[CrossRef]
+
+106. Soutis, C. Fibre reinforced composites in aircraft construction. Prog. Aerosp. Sci. 2005, 41, 143–151. [CrossRef]
+107. Harris, B. Engineering Composite Materials; Institute of Metals London: London, UK, 1986.
+108. Yang, Q.; Cox, B. Cohesive models for damage evolution in laminated composites. Int. J. Fract. 2005, 133,
+
+107–137. [CrossRef]
+
+109. Soutis, C.; Duan, D.M.; Goutas, P. Compressive behaviour of CFRP laminates repaired with adhesively
+
+bonded external patches. Compos. Struct. 1999, 45, 289–301. [CrossRef]
+
+110. Phil, E.; Soutis, C. Polymer Composites in the Aerospace Industry; Elsevier: Cambridge, UK, 2014.
+111. Bazant, Z.P.; Planas, J. Fracture and Size Effect in Concrete and other Quasibrittle Materials; CRC Press: New York,
+
+NY, USA, 1997.
+
+112. Perez, N. Linear Elastic Fracture Mechanics. In Fracture Mechanics; Springer: New York, NY, USA, 2004;
+
+pp. 39–72.
+
+113. Shrotriya, P.; Allameh, S.; Brown, S.; Suo, Z.; Soboyejo, W. Fatigue damage evolution in silicon ﬁlms for
+
+micromechanical applications. Exp. Mech. 2003, 43, 289–302. [CrossRef]
+
+114. Dorgan, K.M.; Arwade, S.R.; Jumars, P.A. Burrowing in marine muds by crack propagation: Kinematics and
+
+forces. J.Exp. Biol. 2007, 210, 4198–4212. [CrossRef] [PubMed]
+
+115. Bouchbinder, E.; Fineberg, J.; Marder, M. Dynamics of simple cracks. arXiv 2009.
+116. Draper, D. Assessment and propagation of model uncertainty. J. R. Stat. Soc. Ser. B 1995, 57, 45–97.
+117. Alava, M.J.; Nukala, P.K.; Zapperi, S. Statistical models of fracture. Adv. Phys. 2006, 55, 349–476. [CrossRef]
+118. Larsen, C.J. Models for dynamic fracture based on Grifﬁth’s criterion. In IUTAM Symposium on Variational
+Concepts with Applications to the Mechanics of Materials; Springer: Bochum, Germany, 2010; pp. 131–140.
+
+119. Erdogan, F. Fracture mechanics. Int. J. Solids Struct. 2000, 37, 171–183. [CrossRef]
+
+Polymers 2017, 9, 535
+
+22 of 22
+
+120. McCarron, A. A Synergistic Approach to Modeling Crack Propagation in Nanoreinforced Polymer
+
+Composites. Master’s Thesis, University of Massachusetts Amherst, Amherst, MA, USA, 2008.
+
+121. Ficher-Cripps, A.C. Linear Elastic Fracture Mechanics.
+
+In Introduction to Contact Mechanics; Springer:
+
+New York, NY, USA, 2007; pp. 31–48.
+
+122. Sneddon, I.N. The distribution of stress in the neighbourhood of a crack in an elastic solid. In Proceedings
+of the Royal Society of London A: Mathematical, Physical and Engineering Sciences, Cambridge, UK,
+22 October 1946; Volume 187, pp. 229–260.
+
+123. Zhu, X.-K.; Joyce, J.A. Review of fracture toughness (G, K, J, CTOD, CTOA) testing and standardization.
+
+Eng. Fract. Mech. 2012, 85, 1–46. [CrossRef]
+
+124. Radaj, D.; Vormwald, M. Extended Stress Intensity Factor Concepts. In Advanced Methods of Fatigue Assessment;
+
+Springer: Berlin/Heidlberg, Germany, 2013; pp. 101–265.
+
+125. Shmueli, J.; Eder, M.A.; Tesauro, A. A versatile stereo photogrammetry based technique for measuring
+
+fracture mode displacements in structures. Precis. Eng. 2015, 39, 38–46. [CrossRef]
+
+126. Valvo, P.S. A Physically consistent virtual crack closure technique for I/II/III mixed-mode fracture problems.
+
+Proc. Mater. Sci. 2014, 3, 1983–1987. [CrossRef]
+
+127. Ricel, J. The mechanics of crack tip deformation and extension by fatigue. In Fatigue Crack Propagation; ASTM
+
+International: Amsterdam, The Netherlands, 1966.
+
+128. Patrıcio, M.; Mattheij, R. Crack Propagation Analysis; CASA Report; Technishe Universiteit Eindhoven:
+
+Eindhoven, The Netherlands, 2007.
+
+129. Martel, S.J. Mechanics of landslide initiation as a shear fracture phenomenon. Mar. Geol. 2004, 203, 319–339.
+
+[CrossRef]
+
+130. Drenchev, L.; Sobczak, J.J. Self-Healing Materials as Biomimetic Smart Structures; Polish Academy of Sciences:
+
+Krakow, Poland, 2014.
+
+131. Mauldin, T.C. Self-Healing Polymers—The Importance of Choosing an Adequate Healing Monomer, and
+the Oleﬁn Metathesis Polymerization of Agricultural Oils. Ph.D. Thesis, Iowa State University, Ames, IA,
+USA, 2011.
+
+132. Darabi, M.K.; Abu Al-Rub, R.K.; Little, D.N. A continuum damage mechanics framework for modeling
+
+micro-damage healing. Int. J. Solids Struct. 2012, 49, 492–513. [CrossRef]
+
+133. Liu, L.; Katsabanis, P.D. Development of a continuum damage model for blasting analysis. Int. J. Rock Mech.
+
+Min. Sci. 1997, 34, 217–231. [CrossRef]
+
+134. Maiti, S.; Geubelle, P.H. Cohesive modeling of fatigue crack retardation in polymers: Crack closure effect.
+
+Eng. Fract. Mech. 2006, 73, 22–41. [CrossRef]
+
+135. Maiti, S.; Geubelle, P.H. A cohesive model for fatigue failure of polymers. Eng. Fract. Mech. 2005, 72, 691–708.
+
+[CrossRef]
+
+136. Chowdhury, R.A.; Hosur, M.V.; Nuruddin, M.; Tcherbi-Narteh, A.; Kumar, A.; Boddu, V.; Jeelani, S. Self-healing
+epoxy composites: Preparation, characterization and healing performance. J. Mater. Res. Technol. 2015, 4, 33–43.
+[CrossRef]
+
+137. Chow, C.L.; Wang, J. An anisotropic theory of elasticity for continuum damage mechanics. Int. J. Fract. 1987,
+
+33, 3–16. [CrossRef]
+
+138. Muc, A.; Krawiec, Z. Design of composite plates under cyclic loading. Compos. Struct. 2000, 48, 139–144.
+
+[CrossRef]
+
+139. Huang, H.; Talreja, R. Numerical simulation of matrix micro-cracking in short ﬁber reinforced polymer
+
+composites: Initiation and propagation. Compos. Sci. Technol. 2006, 66, 2743–2757. [CrossRef]
+
+140. Balazs, A.C. Modeling self-healing materials. Mater. Today 2007, 10, 18–23. [CrossRef]
+141. Patrick, J.F.; Hart, K.R.; Krull, B.P.; Diesendruck, C.E.; Moore, J.S.; White, S.R.; Sottos, N.R. Self-healing:
+Continuous self-healing life cycle in vascularized structural composites. Adv. Mater. 2014, 26, 4302–4308.
+[CrossRef] [PubMed]
+
+142. Patrick, J.F.; Sottos, N.R.; White, S.R. Microvascular based self-healing polymeric foam. Polymer 2012, 53,
+
+4231–4240. [CrossRef]
+
+© 2017 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access
+article distributed under the terms and conditions of the Creative Commons Attribution
+(CC BY) license (http://creativecommons.org/licenses/by/4.0/).
+
+

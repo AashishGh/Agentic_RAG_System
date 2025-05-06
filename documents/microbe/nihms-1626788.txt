@@ -1,0 +1,2751 @@
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+HHS Public Access
+Author manuscript
+Mol Aspects Med. Author manuscript; available in PMC 2021 October 01.
+
+Published in final edited form as:
+
+Mol Aspects Med. 2020 October ; 75: 100895. doi:10.1016/j.mam.2020.100895.
+
+Molecular Aspects of Medicine
+
+Romana R. Gerner1,2, Sean-Paul Nuccio1, Manuela Raffatellu1,3,4
+1Division of Host-Microbe Systems and Therapeutics, Department of Pediatrics, University of 
+California, San Diego, La Jolla, CA
+
+2Division of Internal Medicine I, Department of Medicine, Innsbruck Medical University, Innsbruck, 
+Austria
+
+3Center for Microbiome Innovation, University of California, San Diego, La Jolla, CA
+
+4Chiba University-UC San Diego Center for Mucosal Immunology, Allergy, and Vaccines (CU-
+UCSD cMAV), La Jolla, CA
+
+Abstract
+
+Iron is an essential micronutrient for nearly all living organisms. In addition to facilitating redox 
+reactions, iron is bound by metalloproteins that participate in a variety of biological processes. As 
+the bioavailability of free iron in host environments is extremely low, iron lies at the center of a 
+battle for nutrients between microbes and their host. Mucosal surfaces such as the respiratory and 
+gastrointestinal tracts are constantly exposed to commensal and pathogenic microorganisms. 
+Whereas a key strategy of mammalian antimicrobial defense is to deprive microbes of iron, 
+pathogens and some commensals have evolved effective strategies to circumvent iron limitation. 
+Here we provide an overview of mechanisms underpinning the tug-of-war for iron between 
+microbes and their host, with a particular focus on mucosal surfaces.
+
+1. 
+
+Introduction
+
+Iron (Fe) is a vital micronutrient for nearly all forms of life, and is involved in critical 
+physiological processes including oxygen transportation, energy metabolism, and DNA 
+replication (Lieu et al., 2001). By existing primarily in two oxidation states, ferrous (Fe2+) 
+and ferric (Fe3+) iron, this element has the flexibility to serve as a key cofactor in many 
+enzymes as well as play a crucial role in facilitating a variety of redox reactions. 
+Nevertheless, despite iron’s essential roles in the beneficial chemistry of life, its redox 
+potential can negatively impact biological molecules and cells; for example, the Fenton 
+reaction involving Fe2+ and hydrogen peroxide yields reactive oxygen species (ROS) that 
+can damage biomolecules including lipids, proteins, and DNA. Oxidative stress, in turn, is 
+linked to aging, cardiovascular disorders, neurodegenerative diseases, and cancer (Liu et al., 
+2018). To minimize iron’s reactivity and toxicity, the vast majority of iron in mammals is 
+found in intracellular compartments, complexed with hemoproteins (e.g., hemoglobin, 
+
+Publisher's Disclaimer: This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our 
+customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of 
+the resulting proof before it is published in its final form. Please note that during the production process errors may be discovered 
+which could affect the content, and all legal disclaimers that apply to the journal pertain.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Gerner et al.
+
+Page 2
+
+myoglobin), or the iron-storage protein ferritin (Lieu et al., 2001). Thus, the bioavailability 
+of free iron is low in the mammalian environment, even during homeostasis. Moreover, in a 
+process known as nutritional immunity, extracellular and intracellular iron is further 
+decreased during infection to prevent the outgrowth of pathogens (Hood and Skaar, 2012). 
+Successful pathogens have therefore evolved strategies to compete for and obtain iron from 
+the host in order to replicate and thrive despite limited nutrient availability.
+
+Mucosal surfaces constitute a physical barrier between the external environment and the 
+inner body. During homeostasis, many of these surfaces are colonized by an assortment of 
+microbes that are collectively referred to as the commensal microbiota, and typically include 
+non-pathogenic bacteria, fungi, archaea, and viruses (Lozupone et al., 2012). Among the 
+body sites with a commensal microbiota, the gastrointestinal (GI) tract, and in particular the 
+colon, is home to the body’s largest and most diverse microbial community. The host and its 
+commensal microbiota have evolved a mutualistic interdependency that significantly 
+contributes to many aspects of the host’s normal physiology, ranging from metabolism, to 
+resisting pathogen colonization (Dethlefsen et al., 2007), to shaping and maintaining the 
+host’s immune system (Belkaid and Hand, 2014). The host, in turn, provides its microbiota 
+with nutrients and environments suitable for growth. Even so, not all microbes are able to 
+colonize and/or flourish in a given host, as the availability of specific nutrients controls the 
+abundance of certain microbes (Pereira and Berry, 2017). The ability to acquire and utilize 
+nutrients is thus essential for commensal microbes to stably colonize their host.
+
+Despite this coevolved mutualism, the mucosal immune system must still prevent 
+microorganisms, be they commensals or pathogens, from disseminating beyond mucosal 
+surfaces. On this front, iron sequestration by the host represents a conserved innate immune 
+mechanism for limiting microbial growth. Nevertheless, pathogens have evolved strategies 
+to circumvent these defenses. Here we provide an overview of mechanisms underpinning the 
+tug-of-war for iron between microbes and their host, which ultimately determines the health 
+of the host and the survival of pathogenic microbes.
+
+2. 
+
+Iron regulation in humans
+
+Regulation of iron metabolism is a balance of iron absorption, recycling, and loss. Iron 
+levels must be tightly controlled to avoid iron deficiency (which can result in anemia) and to 
+prevent toxicity due to excess iron. Trafficking and systemic metabolism of iron have been 
+the subject of excellent reviews (e.g., (Hentze et al., 2010)). In this section, we provide a 
+brief synopsis. Dietary iron is generally acquired as heme or non-heme iron, and is absorbed 
+in the duodenum and proximal jejunum (Hentze et al., 2010). Whereas heme iron is 
+efficiently absorbed, likely via receptor-mediated endocytosis, non-heme iron (typically 
+ferric iron) has a much lower bioavailability (approximately 10%). In the duodenum, 
+insoluble ferric iron (Fe3+) is reduced to the soluble ferrous (Fe2+) form by ferric reductases 
+including duodenal cytochrome b (DCYTB). Ferrous iron is then taken up by various iron 
+transporters, including its primary transporter DMT1 (also known as NRAMP2). Absorbed 
+iron is either utilized by enterocytes, where it is stored in association with ferritin, or 
+released into the plasma via the basolateral export protein ferroportin (FPN1). Once in the 
+plasma, iron is complexed with transferrin (Tf), then distributed to target organs and cells 
+
+Mol Aspects Med. Author manuscript; available in PMC 2021 October 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Gerner et al.
+
+Page 3
+
+such as erythroid precursor cells (Hentze et al., 2010). Of important note, humans lack a 
+discrete mechanism for excreting surplus iron from the body, so the body’s total iron content 
+is solely regulated at the level of intestinal absorption. Dietary iron absorption and 
+distribution throughout the body are governed by the liver hormone hepcidin, the master 
+regulator of iron homeostasis (Drakesmith and Prentice, 2012). In addition to maintaining a 
+healthy level of iron in the body, hepcidin is also leveraged by the immune system to fight 
+infection. One of the first acute phase responses following an infectious and/or inflammatory 
+insult is the substantial and rapid decrease of plasma iron. This process, known as 
+hypoferremia of inflammation, is cytokine-driven and results in the upregulation of hepcidin, 
+which reduces intestinal iron absorption and promotes systemic iron sequestration (Soares 
+and Weiss, 2015).
+
+Unabsorbed dietary iron (primarily heme and ferric iron) passes from the small intestine into 
+the colon, where it can be scavenged by the microbiota and by pathogens. Indeed, several 
+studies have shown that dietary iron and iron fortification can impact the composition of the 
+microbiota as well as increase susceptibility to enteric pathogens (e.g., (Jaeggi et al., 2015)). 
+This is particularly relevant in patients with inflammatory bowel disease (IBD) who develop 
+anemia (Werner et al., 2011), and is discussed in a section further below. Beyond nourishing 
+intestinal microbes, dietary iron can also have a profound impact on host physiology and on 
+bacterial pathogenesis at extraintestinal sites (reviewed in (Lopez and Skaar, 2018)). Of note, 
+as iron uptake primarily occurs in the proximal small intestine, patients that have their colon 
+resected (colectomy) exhibit normal systemic iron levels, unless complications arise. For 
+example, pouchitis is a complication resulting from the ileal pouch-anal anastomosis created 
+during colectomy of UC patients (Ferrante et al., 2008). Recent studies have established a 
+role for the microbiota in the pathophysiology of pouchitis (Machiels et al., 2017), and the 
+administration of a probiotic cocktail has been shown to be effective in preventing onset and 
+relapses of the disease (Gionchetti et al., 2012; Mimura et al., 2004). Whether and how iron 
+impacts the development of pouchitis remains to be established.
+
+3. 
+
+Iron limitation at mucosal surfaces during health and disease
+
+A number of mechanisms contribute to defense at mucosal surfaces, including colonization 
+resistance mediated by the microbiota (Sassone-Corsi and Raffatellu, 2015) and microbial 
+growth restriction mediated by nutritional immunity (Hood and Skaar, 2012). Iron represents 
+an important battleground in both of these processes as it is a key nutrient that must be 
+scavenged from the host environment by commensals and by pathogens. On the host side, 
+intestinal homeostasis and restriction of pathogen growth at mucosal surfaces are, in part, 
+accomplished by the secretion of potent metal-chelating proteins.
+
+Lactoferrin (Lf), a widely conserved protein belonging to the transferrin family, contains two 
+binding sites for ferric iron that enable tight but reversible iron sequestration (Ward and 
+Conneely, 2004). A variety of functions are attributable to Lf, ranging from antimicrobial 
+activities to iron-independent, immunomodulatory roles (Kruzel et al., 2017; Ward and 
+Conneely, 2004). Lf’s antimicrobial activity is thus far based on two characterized 
+properties: (i) its strong iron-binding capacity; (ii) its high affinity for lipopolysaccharide 
+(LPS). While predominantly found in milk, Lf is also present in mucosal secretions 
+
+Mol Aspects Med. Author manuscript; available in PMC 2021 October 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Gerner et al.
+
+Page 4
+
+including tears as well as bronchial and vaginal mucus (Levay and Viljoen, 1995). Lf is also 
+an important component of neutrophil secondary granules and can bind to iron at a low pH, 
+a trait that might be beneficial in inflammatory and infectious foci, which are often more 
+acidic.
+
+In addition to directly inhibiting pathogen growth in vitro, Lf can also promote colonization 
+resistance and general health through shaping the microbiota. A newborn’s immune system 
+is immature and thus infants are at higher risk of infection. This susceptibility is partly 
+compensated for by passive transfer of maternal antibodies through the placenta and by 
+ingestion of human milk. In the latter context, Lf in human milk appears to beneficially 
+modulate the neonatal microbiota composition. Although the antimicrobial effects of Lf are 
+well supported by in vitro studies, the in vivo role of Lf against pathogens is less well 
+defined (Sánchez et al., 1992). Nevertheless, evidence indicates that Lf promotes the growth 
+of beneficial bacteria with low iron requirements, including intestinal and vaginal 
+Lactobacillus spp. (Vega-Bautista et al., 2019). Moreover, Lf has been shown to promote the 
+growth of probiotic strains belonging to the genus Bifidobacterium, which are among the 
+first anaerobes to colonize and predominate the gut of breast-fed infants, although this effect 
+might be attributable to roles associated with both the iron-bound and the iron-free forms of 
+Lf (Vega-Bautista et al., 2019).
+
+Lipocalin-2 (Lcn2; also known as neutrophil gelatinase-associated lipocalin [NGAL], 
+siderocalin, or 24p3) is a small glycoprotein secreted by myeloid and epithelial cells in an 
+interleukin-22-dependent manner upon infection and inflammation (Flo et al., 2004; 
+Raffatellu et al., 2009). Lcn2’s antimicrobial properties derive primarily from its ability to 
+bind to a subset of bacterial siderophores, small molecules that are produced by bacteria to 
+scavenge iron (described further in Section 4.1). One such siderophore is enterobactin, 
+which is produced by commensal and pathogenic Gram-negative bacteria belonging to the 
+family Enterobacteriaceae. By binding to enterobactin, Lcn2 limits bacterial iron acquisition 
+and subsequently hampers the growth of enterobactin-dependent microbes (Figure 1) (Flo et 
+al., 2004). In addition to siderophore binding, Lcn2 also exhibits activities that include 
+inducing cytokines, mediating the recruitment of inflammatory cells, promoting apoptosis, 
+and T-cell priming (Moschen et al., 2017).
+
+Calprotectin (CP; a heterodimer of the S100A8 and S100A9 proteins) is another 
+antimicrobial host product with metal-chelating properties. Although CP has been widely 
+characterized for its roles in scavenging zinc and manganese (Corbin et al., 2008), recent in 
+vitro studies indicate that CP can also chelate Fe2+ (Nakashige et al., 2015) and induce Fe 
+starvation in Pseudomonas aeruginosa and Acinetobacter baumannii (Wang et al., 2019; 
+Zygiel et al., 2019), however an in vivo context for these findings remains to be described. 
+Neutrophils are the main source of CP, and release it at sites of infection (Corbin et al., 
+2008). Similar to Lf and Lcn2, fecal CP correlates with disease activity in patients with 
+Crohn’s disease and ulcerative colitis (Zollner et al., 2020), and is thus frequently utilized to 
+aid in the diagnosis and monitoring of patients with IBD (Sipponen et al., 2008).
+
+In addition to the iron-binding proteins produced by the host, members of the commensal 
+microbiota can also play a key role in limiting iron availability to pathogens. For example, 
+
+Mol Aspects Med. Author manuscript; available in PMC 2021 October 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Gerner et al.
+
+Page 5
+
+the probiotic bacterium E. coli Nissle 1917 (EcN) deploys multiple iron acquisition systems 
+to compete with pathogens in iron-limited environments such as the inflamed gut (Deriu et 
+al., 2013).
+
+4.  Microbial iron metabolism, with a focus on Gram-negative bacteria
+
+With the exception of some non-pathogenic lactic acid bacteria and the Lyme disease 
+pathogen Borrelia burgdorferi, most microorganisms rely on micromolar iron concentrations 
+for metabolism and replication(Archibald, 1983; Posey and Gherardini, 2000; Weinberg, 
+1978). However, iron in the mammalian host is largely bound to host proteins (e.g., ferritin, 
+Tf, Lf, hemoproteins), thereby reducing iron’s toxicity and accessibility. As such, microbes 
+have evolved a variety of iron acquisition strategies to colonize iron-limited niches within 
+the host, with some bacteria even being able to reside within intracellular compartments. 
+Microbial iron acquisition mechanisms include the secretion and uptake of siderophores, and 
+the import of host-derived Tf and heme. Many mechanisms of bacterial iron homeostasis are 
+regulated at the transcriptional level. Under iron-rich conditions, iron-acquisition 
+mechanisms are repressed by Fur, the ferric uptake regulator. Fur is a global iron regulator in 
+many characterized Gram-negative (e.g., enterobacteria) and some Gram-positive (e.g., 
+Bacillus spp.) bacteria (Miethke and Marahiel, 2007). The diphtheria toxin regulator DtxR 
+plays a comparable role in many characterized Gram-positive bacteria with a high genomic 
+GC content (e.g., corynebacteria, mycobacteria) (Miethke and Marahiel, 2007). In Gram-
+negative bacteria, TonB-dependent receptor complexes play a key role for energizing the 
+transport of iron across the bacterial outer membrane via various uptake systems for 
+siderophores, heme, or Tf/Lf, among others (Krewulak and Vogel, 2008; Noinaj et al., 
+2010). Nevertheless, much like mammals, iron overload can be toxic to bacteria, which is 
+why iron assimilation is tightly regulated. Therefore, the mechanisms described below are 
+generally expressed in iron-limiting conditions.
+
+4.1.  Siderophore-based iron acquisition systems
+
+Many bacterial species, including members of the microbiota and various human pathogens, 
+secrete structurally diverse, high-affinity, iron-chelating molecules known as siderophores 
+(Figure 2a) (Crosa, 1989). For many Gram-negative bacteria, siderophores are essential 
+virulence factors. Enterobactin, a catecholate-type siderophore, and the related siderophore 
+salmochelin, a C-glucosylated derivative of enterobactin, are the most common siderophores 
+utilized by enterobacteria such as E. coli, Klebsiella spp., and Salmonella enterica (Figure 1) 
+(Raymond et al., 2003). Other siderophores include yersiniabactin (produced by Yersinia 
+pestis and Y. enterocolitica, but also by other Enterobacteriaceae including E. coli and 
+Klebsiella), aerobactin (E. coli), and vibriobactin (Vibrio cholerae) (Miethke and Marahiel, 
+2007). Of note, in a process termed ‘iron piracy’, some bacterial species are capable of 
+acquiring siderophores that they do not synthesize, generally termed xenosiderophores (e.g., 
+Salmonella and Yersinia acquire, but do not make, ferrioxamine). Moreover, a subset of 
+these bacteria do not produce siderophores at all (e.g., Bacteroides thetaiotaomicron does not 
+produce siderophores, but can acquire enterobactin and salmochelin) (Figure 3b) (Zhu et al., 
+2020). As the biosynthesis of siderophores is an energy-intensive process, iron piracy via 
+xenosiderophores is a lucrative iron-acquisition mechanism for the non-producing strains. In 
+
+Mol Aspects Med. Author manuscript; available in PMC 2021 October 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Gerner et al.
+
+Page 6
+
+addition to bacteria, fungi also produce and uptake siderophores. For reference, in 1952, the 
+fungal siderophores ferrichrome and coprogen were among the first siderophores to be 
+described (Hesseltine et al., 1952; Neilands, 1952). Furthermore, several fungal species 
+including Candida spp. and Saccharomyces spp. engage in iron piracy by importing 
+xenosiderophores (Almeida et al., 2009; Winkelmann, 2007).
+
+During iron limitation, microbes release siderophores into the environment to capture iron. 
+Importantly, siderophores’ high affinity for ferric iron enables them to outcompete host 
+proteins (e.g., Tf) for this metal (Caza and Kronstad, 2013). To recover the captured iron, 
+Gram-negative bacteria express outer membrane receptors that import iron-laden 
+siderophores in a TonB-dependent fashion. The evolutionary importance of siderophores is 
+reflected by the co-evolution of siderophore neutralization strategies by mammals. As 
+discussed in Section 3, the host antimicrobial protein Lcn2 efficiently neutralizes bacterial 
+enterobactin; accordingly, Lcn2-deficient mice are highly susceptible to infection with 
+microbes that utilize enterobactin for iron acquisition (Flo et al., 2004; Moschen et al., 
+2016). However, many bacterial pathogens circumvent Lcn2-mediated enterobactin 
+sequestration by producing salmochelin, a chemically modified form of enterobactin that 
+cannot be bound by Lcn2 (Fischbach et al., 2006; Raffatellu et al., 2009). Thus, salmochelin 
+and other “stealth siderophores” enable pathogens to evade host nutritional immunity 
+(Figure 1 and Figure 2b).
+
+4.2.  Heme acquisition systems
+
+Heme is comprised of an iron ion bound to a porphyrin ring. Most of the heme in humans is 
+associated with intracellular metalloproteins (hemoproteins) including hemoglobin, 
+myoglobin, and cytochromes. Many bacterial pathogens have evolved specific mechanisms 
+to liberate heme from vertebrate hemoproteins (Runyen-Janecky, 2013). Moreover, although 
+free heme is limited and usually scavenged by host hemopexin or serum albumin, small 
+amounts can become available to microbes, for example from lysed erythrocytes or from 
+host cells damaged during infection (Runyen-Janecky, 2013). In the gut, dietary heme 
+represents another source of iron that can be utilized by intestinal bacteria (Figure 2). In 
+Gram-negative bacteria, general mechanisms of heme acquisition involve receptors that 
+directly bind heme or hemoproteins (e.g., hemoglobin, hemopexin, haptoglobin) or involve 
+scavenging and uptake of heme via bacterial hemophores (Runyen-Janecky, 2013). Heme is 
+then internalized across the outer membrane via TonB-dependent transport, after which it is 
+brought across the cytoplasmic membrane by ABC transporters. Once heme arrives in the 
+cytoplasm, specific heme oxygenases cleave the porphyrin ring to release the iron (Runyen-
+Janecky, 2013).
+
+One example of a Gram-negative pathogen that relies on heme for its growth is the “heme-
+loving” opportunistic human pathogen Haemophilus influenzae, which colonizes the upper 
+respiratory tract and is a frequent cause of pneumonia, otitis, and meningitis. The iron-
+limited host environment triggers the pathogen to express several heme acquisition systems 
+(Hup, HgpA, HgpB, HgpC, HxuA, HxuC), which in turn mediate acquisition of heme 
+directly and from various hemoproteins (Runyen-Janecky, 2013).
+
+Mol Aspects Med. Author manuscript; available in PMC 2021 October 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Gerner et al.
+
+Page 7
+
+Alternative bacterial strategies to obtain iron from heme include secreting hemolysins to lyse 
+red blood cells or producing proteases that degrade hemoglobin. Such mechanisms are 
+employed by several Gram-negative pathogens including pathogenic E. coli, V. cholerae, and 
+Bordetella pertussis, as well as by the Gram-positive pathogen Staphylococcus aureus (Caza 
+and Kronstad, 2013).
+
+Heme uptake is also employed by certain fungal pathogens (Bairwa et al., 2017). The 
+polymorphic fungus and opportunistic pathogen Candida albicans can be part of the 
+commensal microbiota and inhabit the oral cavity, the GI tract, and/or the female 
+reproductive tract. In most individuals, C. albicans is harmless because it is kept under 
+control by the microbiota through nutrient competition. However, under circumstances such 
+as immunodeficiency, antibiotic treatment, or immunosuppressive therapy, C. albicans can 
+cause diseases ranging from cutaneous infections to life-threatening systemic candidiasis 
+(Mayer et al., 2013). In addition to xenosiderophore uptake, C. albicans also relies on iron 
+acquisition via heme/hemoglobin (Bairwa et al., 2017).
+
+4.3.  Transferrin/lactoferrin receptor-based systems
+
+The iron-carrying host glycoproteins Tf and Lf exhibit structural similarities, and this is 
+reflected in the similarities of bacterial Tf and Lf receptors (Gray-Owen and Schyvers, 
+1996). Tf in the serum is primarily exploited as a source of iron by pathogens during 
+bloodstream or systemic infections, whereas Lf is generally leveraged by pathogens at 
+mucosal surfaces (Morgenthau et al., 2013). Tf and Lf can be exploited by pathogens 
+expressing bacterial outer membrane receptors including transferrin-binding-protein A and 
+B (TbpAB) and lactoferrin-binding-protein A and B (LbpAB), respectively (Morgenthau et 
+al., 2013). Both uptake systems function in a similar fashion in that the receptors remove 
+ferric iron from Tf or Lf, and then transport the iron across the outer membrane in a TonB-
+dependent manner (Caza and Kronstad, 2013; Morgenthau et al., 2013). The specific 
+mechanisms and the order of the steps, however, remain to be elucidated. The utilization of 
+Tf or Lf as iron sources has been described for important human pathogens including 
+Neisseria spp. and Helicobacter pylori (Caza and Kronstad, 2013; Morgenthau et al., 2013).
+
+5.  Regulation of mucosal iron metabolism during infection and 
+
+inflammation
+
+Mucosal surfaces including the eyes and oropharynx, as well as the GI, respiratory, and 
+urogenital tracts, use various antimicrobial defense strategies that interfere with microbial 
+adhesion and survival. Among these defenses is the upregulation of Lf and Lcn2. Although 
+both host proteins play additional roles in other cells and body sites (Kruzel et al., 2017; 
+Moschen et al., 2017), here we focus on their roles at mucosal surfaces.
+
+5.1 
+
+Iron metabolism during intestinal inflammation
+
+The lower GI tract is a complex ecosystem and harbors the most abundant and diverse 
+microbial community of the human body (Huttenhower et al., 2012). The commensal gut 
+microbiota is dominated by anaerobic microbes that mainly belong to the phyla Firmicutes 
+and Bacteroidetes. E. coli and other Enterobacteriaceae family members (belonging to the 
+
+Mol Aspects Med. Author manuscript; available in PMC 2021 October 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Gerner et al.
+
+Page 8
+
+phylum Proteobacteria) typically comprise a minor fraction of the microbiota in the non-
+inflamed gut. One of the main mechanisms by which beneficial commensal microbes 
+prevent the outgrowth of potentially harmful microbes is through the competition for iron. In 
+the healthy gut, commensal microbes consume available micronutrients and heme, which 
+provides an ideal environment for the microbiota to reside in. In turn, the gut microbiota 
+provides a variety of beneficial metabolites to the host, such as B vitamins (Celis and 
+Relman, 2020). This mutual relationship between the host and commensal microbes makes 
+it difficult for pathogens to become established in these densely colonized host 
+compartments (Vonaesch et al., 2018) (Figure. 3a).
+
+Numerous intrinsic and extrinsic factors modulate the microbiota’s composition. For 
+example, intestinal inflammation (regardless of etiology) and antibiotic administration have 
+a major impact on the microbiota which is typified by a decrease in microbial diversity 
+(Bäumler and Sperandio, 2016). The inflamed gut exhibits an altered nutritional 
+environment, generated in part by host-mediated iron limitation (Deriu et al., 2013; 
+Raffatellu et al., 2009) (Figure 2b). Gut inflammation is also frequently associated with the 
+loss of Bacteroidetes and Firmicutes in favor of a bloom of Gammaproteobacteria (usually 
+members of the Enterobacteriaceae, Figure 3c) (Baumler and Sperandio, 2016). Overall, the 
+observed decreases in microbial diversity generally lead to, and sometimes overtly favor, 
+pathogen outgrowth. Lcn2 is highly upregulated in the gut as part of the inflammatory 
+response to restrict blooms of harmful microbes (Moschen et al., 2016; Raffatellu et al., 
+2009), for instance during chronic intestinal inflammation. In this context, Lcn2 greatly 
+prevented the exacerbation of colitis and spontaneous colonic tumor formation by impeding 
+the growth of enterobactin-utilizing, pro-colitogenic bacterial species in mice (Figure 3c) 
+(Moschen et al., 2016). Nevertheless, some successful enterobacterial pathogens, including 
+Salmonella, Klebsiella and pathogenic E. coli, circumvent Lcn2-mediated iron restriction by 
+secreting stealth siderophores including salmochelin, which cannot be sequestered by Lcn2 
+(Figure 2b) (Bachman et al., 2012; Fischbach et al., 2006; Flo et al., 2004; Raffatellu et al., 
+2009).
+
+It is worth noting that Lcn2 can also restrict the growth of enterobactin-secreting commensal 
+bacteria (Figure 2b). However, certain members of the commensal microbiota have, similar 
+to pathogens, evolved resistance to some host antimicrobial responses. For example, 
+beneficial species including EcN, Bifidobacterium spp., and Lactobacillus spp. exhibit some 
+resistance to host-mediated iron limitation (Deriu et al., 2013; Vega-Bautista et al., 2019). 
+Intriguingly, the aforementioned microbes have been administered as probiotics for a long 
+time, despite the mechanistic basis of their beneficial properties being unknown. Recent 
+studies, however, have shed light on some of these mechanisms. The probiotic EcN employs 
+multiple systems to acquire iron from the intestinal environment, including multiple 
+siderophores (enterobactin, yersiniabactin, aerobactin, salmochelin) (Valdebenito et al., 
+2006). These mechanisms of iron acquisition collectively increase EcN’s ability to compete 
+with other microbes, including Salmonella, during colitis (Deriu et al., 2013) (Figure 3b). 
+Siderophore cross-feeding between different bacterial taxa offers another mechanism for 
+commensals to obtain iron. For example, B. thetaiotaomicron, a member of the phylum 
+Bacteroidetes, pirates xenosiderophores from commensal and pathogenic Enterobacteriaceae 
+
+Mol Aspects Med. Author manuscript; available in PMC 2021 October 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Gerner et al.
+
+Page 9
+
+(phylum Proteobacteria) in the inflamed gut, thereby contributing to the resilience of the 
+commensal gut microbiota (Zhu et al., 2020) (Figure 3b).
+
+Some studies in model organisms have proposed that the host might benefit from microbe-
+associated iron metabolism and sensing. A study by Qi et al. demonstrated that enterobactin 
+produced by commensal E. coli increased mitochondrial iron levels and promoted growth of 
+the worm Caenorhabditis elegans (Qi and Han, 2018). Another study reported that intestinal 
+commensals such as Lactobacillus spp. can sense levels of iron in the gut and subsequently 
+modulate the host’s systemic iron metabolism. Here, microbe-derived metabolites 
+suppressed the host transcription factor HIF-2α and increased the expression of ferritin, 
+thereby reducing systemic iron overload in an experimental model of hemochromatosis (Das 
+et al., 2020). The microbiota has also been shown to modulate host expression of hepcidin in 
+the gut (Bessman et al., 2020). In this study, commensal microbes were shown to induce 
+hepcidin expression in dendritic cells, which in turn promoted iron sequestration by 
+macrophages. In addition to modulating gut microbiota composition, this process also 
+contributed to mucosal healing in an experimental IBD model (Bessman et al., 2020).
+
+5.2. 
+
+Iron in the context of inflammatory bowel disease
+
+IBD, including Crohn’s disease (CD) and ulcerative colitis (UC), comprises a heterogeneous 
+spectrum of chronic and/or relapsing episodes of intestinal inflammation. Alterations of the 
+gut microbiota and microbial interactions with the perturbed mucosal barrier are prominent 
+features of IBD (Caruso et al., 2020). The inflamed gut mucosa is also responsible for 
+chronic GI blood loss and reduced intestinal iron absorption, which is frequently 
+accompanied by iron deficiency and anemia of chronic disease (Nielsen et al., 2018). Iron 
+supplementation in anemic IBD patients, however, differs from standard approaches, and 
+several considerations need to be taken into account (outlined in (Nielsen et al., 2018)).
+
+In animal models of IBD, it has been shown that high concentrations of luminal iron or 
+heme iron alter gut microbial communities, further exacerbating the bloom of 
+Gammaproteobacteria and worsening colitis (Constante et al., 2017; Mahalhal et al.; Werner 
+et al., 2011) (Figure 3c). Importantly, these effects were only observed when iron was 
+administered orally, whereas intravenous iron did not induce such changes. These findings 
+are in line with a study in IBD patients, showing that oral iron therapy is associated with 
+distinct and unfavorable changes in gut microbial ecology (Lee et al., 2017).
+
+In stark contrast to these findings, a recently published study demonstrated that a short 
+course of dietary iron supplementation attenuated the virulence of an enteric pathogen 
+(Sanchez et al., 2018). Following infection of mice with the murine pathogen Citrobacter 
+rodentium, a common model for human enteropathogenic E. coli (EPEC) and 
+enterohemorrhagic E. coli (EHEC) infections, dietary iron supplementation promoted host 
+survival by increasing intestinal glucose content and insulin resistance. Elevated glucose 
+resulted in suppression of virulence factors in the pathogen, which resulted in the pathogen 
+colonizing, but not killing, its host. This phenomenon was termed a ‘cooperative response’ 
+by the authors (Sanchez et al., 2018). Although iron supplementation during infection has 
+previously been shown to be detrimental to humans and model organisms by promoting the 
+growth of pathogens, it is possible that oral iron supplementation may promote such a 
+
+Mol Aspects Med. Author manuscript; available in PMC 2021 October 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Gerner et al.
+
+Page 10
+
+cooperative response in some contexts of localized infection or microbiota composition. 
+Future studies are needed to show whether this result applies to other microbes and in the 
+context of other hosts.
+
+In patients with ileal CD, a distinct pathovar of E. coli is abnormally prevalent. Termed 
+adherent-invasive E. coli (AIEC), these mucosa-associated bacteria are able to adhere to and 
+invade intestinal epithelial cells, a process that likely contributes to the progression of CD 
+(Shaler et al., 2019). In addition to other virulence factors, iron metabolism likely plays a 
+key role in AIEC’s pathogenicity (Figure 3c). Iron acquisition systems that are most 
+frequently found in pathogenic Enterobacteriaceae, such as the synthesis and uptake of 
+yersiniabactin and salmochelin, are present in many AIEC strains. Moreover, the presence of 
+a heme acquisition system correlates with AIEC’s intracellular persistence in macrophages 
+(Dogan et al., 2014). Notably, there are currently no treatments available that specifically 
+eradicate CD-associated AIEC from the gut of these patients. Although the gut microbiota 
+plays a key role in the pathogenesis of IBD, current standard treatments focus on targeting 
+the immune system rather than the intestinal microbiota. Routine administration of 
+antibiotics in IBD patients remains controversial because it further disrupts the gut 
+microbiota, promoting bacterial dysbiosis. Moreover, antibiotics have been linked to 
+potentiating AIEC infection and outgrowth (Shaler et al., 2019). Thus, antimicrobial 
+strategies that selectively target pathogenic Enterobacteriaceae in IBD are highly desirable. 
+Because iron metabolism is an important virulence factor for IBD-associated bacteria, 
+developing strategies to impede pathogenic iron metabolism could be useful.
+
+6. 
+
+Iron metabolism in the respiratory and genito-urinary tract
+
+6.1.  The respiratory tract
+
+Bacterial communities of the respiratory tract are more dynamic, albeit less well 
+characterized, than those of the gut (Huffnagle et al., 2017). Similar to the gut, however, iron 
+acquisition is also important for bacterial pathogens that infect the airways. 
+Correspondingly, Lcn2 is also highly upregulated in human pulmonary tissue during 
+bacterial pneumonia (Warszawska et al., 2013). However, whether this increased expression 
+of Lcn2 results in beneficial or detrimental outcomes strongly depends on the pathogen. The 
+Gram-negative pathogen Klebsiella pneumoniae is a common cause of bacterial pneumonia 
+and sepsis. Clinical isolates of K. pneumoniae have been shown to either produce 
+enterobactin alone, or a combination of enterobactin, salmochelin, and yersiniabactin 
+(Bachman et al., 2011). Whereas salmochelin and yersiniabactin enabled K. pneumoniae 
+isolates to evade Lcn2-mediated iron sequestration and to disseminate systemically, Lcn2 
+conferred substantial protection against isolates that only produce enterobactin (Bachman et 
+al., 2012). Of note, siderophores in this context also exhibited a noncanonical role by acting 
+directly on the host to induce inflammatory cytokines (Holden et al., 2016). In contrast to K. 
+pneumoniae, the Gram-positive pathogen Streptococcus pneumoniae, the most prevalent 
+bacterial cause of respiratory tract infections, acquires iron via hemoproteins instead of 
+siderophores. Furthermore, instead of helping the host, increased Lcn2 expression worsened 
+the outcome of S. pneumoniae infection by skewing macrophage polarization towards an 
+anti-inflammatory phenotype (Warszawska et al., 2013). The differing impact of Lcn2 in 
+
+Mol Aspects Med. Author manuscript; available in PMC 2021 October 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Gerner et al.
+
+Page 11
+
+these examples highlights the protein’s context-dependent roles during infection, which stem 
+from its siderophore-neutralizing and immunomodulatory properties.
+
+Increased iron levels have been observed in the sputum of patients with the chronic 
+pulmonary disease cystic fibrosis (CF), which has implications for a range of CF-related 
+bacterial and fungal pathogens (Tyrrell and Callaghan, 2016). For example, Pseudomonas 
+aeruginosa is a frequent cause of CF exacerbations, and studies have shown that this 
+pathogen has a plethora of iron acquisition systems, including heme uptake and the 
+production of siderophores such as pyoverdine and pyochelin (Minandri et al., 2016; Vasil 
+and Ochsner, 1999).
+
+6.2.  The genitourinary tract
+
+Similar to other mucosal sites, the genitourinary tract is colonized by microbes, although 
+distinct differences exist between males and females (Gottschick et al., 2017). The healthy 
+female vaginal microbiota is largely dominated by members of the lactic acid-producing 
+bacteria Lactobacillus spp. (Huttenhower et al., 2012). These iron-independent commensals 
+together with host-derived Lf represent essential factors to maintain a healthy vaginal 
+environment. Bacterial vaginosis (BV) is a common disorder in women of reproductive age 
+and is predominantly caused by Gardnerella vaginalis. Besides BV, G. vaginalis can also 
+cause urinary tract infections (UTIs), amniotic infections, and pelvic inflammatory disease. 
+Numerous iron-acquisition mechanisms have been shown for this pathogen, including 
+siderophore and heme utilization as well as Lf uptake (Jarosik et al., 1998).
+
+UTIs are another common infectious disease in otherwise healthy women, which is 
+complicated by the rise of antimicrobial resistance. Uropathogenic E. coli (UPEC) is the 
+primary cause of such infections, and iron acquisition gene clusters have been identified as 
+important virulence factors to successfully colonize the urinary tract (Garcia et al., 2011; 
+Mike et al., 2016). Lcn2 is secreted by the urinary tract mucosa of women with UTI and 
+represents a colonization barrier that pathogens must overcome (Steigedal et al., 2014). 
+UPEC is able to successfully colonize this environment by importing heme and by deploying 
+the stealth siderophores salmochelin, yersiniabactin, and aerobactin (Garcia et al., 2011; 
+Mike et al., 2016). In light of recent findings indicating the presence of a urinary tract 
+microbiome (the so-called urobiome) (Wolfe and Brubaker, 2019), future studies may 
+elucidate mechanisms of competition for iron between pathogens and the urobiome.
+
+7.  Exploiting microbial iron acquisition for therapy and diagnosis
+
+As many pathogens require iron during infection, their means of iron acquisition constitute 
+attractive therapeutic targets (Figure 4). For example, as described above, many pathogens 
+require siderophores for iron uptake. As such, siderophore immunization might be a 
+promising approach to limit microbial iron acquisition during infection. To this end, 
+immunization against yersiniabactin and aerobactin in the context of UTIs protected from 
+systemic infection with UPEC (Figure 4a) (Mike et al., 2016). Similarly, immunization with 
+the siderophore enterobactin, which resulted in the production of antibodies against both 
+enterobactin and salmochelin, protected against intestinal Salmonella infection (Figure 4a) 
+(Sassone-Corsi et al., 2016a). Intriguingly, the reduced Salmonella burden in enterobactin-
+
+Mol Aspects Med. Author manuscript; available in PMC 2021 October 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Gerner et al.
+
+Page 12
+
+immunized mice was paralleled by increased levels of Lactobacillus spp. This could be due 
+to a growth advantage of Lactobacillus over other commensals in the inflamed, iron-
+deprived intestine, although the overall impact of enterobactin immunization on the gut 
+microbiota warrants further investigation.
+
+Another way to exploit siderophore-mediated iron acquisition is by employing “Trojan 
+horse” antimicrobials, wherein an antimicrobial molecule is conjugated to a natural product 
+that is taken up by the targeted microbe. Although such compounds can be generated in the 
+lab, it is worth noting that siderophore-antibiotic conjugates exist in nature; these so-called 
+sideromycins constitute important fitness factors as they mediate microbial competition in 
+nutrient-limited environments (Braun et al., 2009). One class of sideromycins are the 
+microcins, which are comprised of an antibacterial peptide that is covalently attached to a 
+siderophore (Braun et al., 2009). By secreting microcins, EcN is able to inhibit the growth of 
+enteric pathogens during intestinal inflammation without broadly affecting the gut 
+microbiota (Figure 4a, panel II) (Sassone-Corsi et al., 2016b). Inspired by sideromycins that 
+exhibit narrow-spectrum activity, researchers have generated synthetic siderophore-antibiotic 
+conjugates with the goal of more specifically targeting pathogens. For example, conjugating 
+enterobactin to the broad-spectrum antibiotic ciprofloxacin yielded a narrow-spectrum 
+antibacterial compound. This molecule only targeted E. coli that express the salmochelin 
+system’s IroD esterase, an enzyme that hydrolyzes enterobactin and salmochelin, and is thus 
+predicted to preferentially target pathogens instead of commensals (Neumann et al., 2018) 
+(Figure 4b, panel I).
+
+In addition to being a target for antimicrobial therapy, siderophores can be used directly as 
+therapeutic and diagnostic agents. Desferrioxamine B (desferal), a siderophore naturally 
+produced by Streptomyces spp., is an iron chelator approved for use in humans to treat iron 
+overload syndromes. Siderophores are also being investigated for use in the molecular 
+imaging of bacterial and fungal infections (Petrik et al., 2017) (Figure 4c). As a proof of 
+principle, the Aspergillus siderophore triacetylfusarinine C was labeled with a positron-
+emitting gallium radioisotope (68Ga), then injected into mice and imaged by positron 
+emission tomography (PET) to detect localization of the fungal pathogen Aspergillus 
+fumigatus (Haas et al., 2015). This approach could be helpful to better diagnose and monitor 
+infectious agents in complex disease scenarios.
+
+8.  Conclusions
+
+With antimicrobial resistance posing an increasing threat to humans, alternative strategies to 
+combat infections are in urgent need. As iron is a key micronutrient for most microbes, its 
+abundance is tightly controlled by the host in order to restrict microbial growth. In addition 
+to host-encoded mechanisms of iron sequestration, the microbiota also contributes to reduce 
+iron availability to pathogens. Thus, to colonize the host, pathogens often deploy a variety of 
+virulence factors that evade or subvert these iron-withholding mechanisms. Targeting 
+microbial iron metabolism and virulence factors associated with iron acquisition hold 
+promise as therapeutic strategies to reduce pathogen colonization and limit the severity of 
+infection. Furthermore, such strategies could be advantageous for shifting the composition 
+of the microbiota at mucosal surfaces by promoting the growth of beneficial microbes (e.g., 
+
+Mol Aspects Med. Author manuscript; available in PMC 2021 October 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Gerner et al.
+
+Page 13
+
+Bifidobacterium and Lactobacillus spp.). These properties are particularly attractive in the 
+context of diseases with underlying dysbiosis, including IBD. Collectively, iron metabolism 
+at the host-microbe interface constitutes an important area for future investigations and for 
+the potential development of novel therapeutics.
+
+Acknowledgements
+
+Work in MR lab is supported by Public Health Service Grants AI126277, AI114625, AI145325, by the Chiba 
+University-UCSD Center for Mucosal Immunology, Allergy, and Vaccines, and by the UCSD Department of 
+Pediatrics. M.R. also holds an Investigator in the Pathogenesis of Infectious Disease Award from the Burroughs 
+Wellcome Fund. RRG was partly supported by a fellowship from the Max Kade Foundation and by a fellowship 
+from the Crohn’s and Colitis Foundation. Figures were created with BioRender.com
+
+9.  References
+
+Almeida RS, Wilson D, and Hube B (2009). Candida albicans iron acquisition within the host. FEMS 
+
+Yeast Res. 9, 1000–1012. [PubMed: 19788558] 
+
+Archibald F (1983). Lactobacillus plantarum, an organism not requiring iron. FEMS Microbiol. Lett. 
+
+19, 29–32.
+
+Bachman MA, Oyler JE, Burns SH, Caza M, Lépine F, Dozois CM, and Weiser JN (2011). Klebsiella 
+pneumoniae Yersiniabactin Promotes Respiratory Tract Infection through Evasion of Lipocalin 2. 
+Infect. Immun. 79, 3309–3316. [PubMed: 21576334] 
+
+Bachman MA, Lenio S, Schmidt L, Oyler JE, and Weiser JN (2012). Interaction of Lipocalin 2, 
+
+Transferrin, and Siderophores Determines the Replicative Niche of Klebsiella pneumoniae during 
+Pneumonia. MBio 3.
+
+Bairwa G, Jung WH, and Kronstad JW (2017). Iron acquisition in fungal pathogens of humans. Met. 
+
+Integr. Biometal Sci. 9, 215–227.
+
+Baumler AJ, and Sperandio V (2016). Interactions between the microbiota and pathogenic bacteria in 
+
+the gut. Nature 535, 85–93. [PubMed: 27383983] 
+
+Belkaid Y, and Hand T (2014). Role of the Microbiota in Immunity and inflammation. Cell 157, 121–
+
+141. [PubMed: 24679531] 
+
+Bessman NJ, Mathieu JRR, Renassia C, Zhou L, Fung TC, Fernandez KC, Austin C, Moeller JB, 
+Zumerle S, Louis S, et al. (2020). Dendritic cell-derived hepcidin sequesters iron from the 
+microbiota to promote mucosal healing. Science 368, 186–189. [PubMed: 32273468] 
+
+Braun V, Pramanik A, Gwinner T, Koberle M, and Bohn E (2009). Sideromycins: tools and antibiotics. 
+
+Biometals 22, 3–13. [PubMed: 19130258] 
+
+Caruso R, Lo BC, and Núñez G (2020). Host–microbiota interactions in inflammatory bowel disease. 
+
+Nat. Rev. Immunol. 1–16. [PubMed: 31792373] 
+
+Caza M, and Kronstad JW (2013). Shared and distinct mechanisms of iron acquisition by bacterial and 
+
+fungal pathogens of humans. Front. Cell. Infect. Microbiol. 3.
+
+Celis AI, and Relman DA (2020). Competitors versus Collaborators: Micronutrient Processing by 
+
+Pathogenic and Commensal Human-Associated Gut Bacteria. Mol. Cell 78, 570–576. [PubMed: 
+32442503] 
+
+Constante M, Fragoso G, Calvé A, Samba-Mondonga M, and Santos MM (2017). Dietary Heme 
+Induces Gut Dysbiosis, Aggravates Colitis, and Potentiates the Development of Adenomas in 
+Mice. Front. Microbiol. 8.
+
+Corbin BD, Seeley EH, Raab A, Feldmann J, Miller MR, Torres VJ, Anderson KL, Dattilo BM, 
+Dunman PM, Gerads R, et al. (2008). Metal Chelation and Inhibition of Bacterial Growth in 
+Tissue Abscesses. Science 319, 962–965. [PubMed: 18276893] 
+
+Crosa JH (1989). Genetics and molecular biology of siderophore-mediated iron transport in bacteria. 
+
+Microbiol. Mol. Biol. Rev. 53, 517–530.
+
+Mol Aspects Med. Author manuscript; available in PMC 2021 October 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Gerner et al.
+
+Page 14
+
+Das NK, Schwartz AJ, Barthel G, Inohara N, Liu Q, Sankar A, Hill DR, Ma X, Lamberg O, Schnizlein 
+MK, et al. (2020). Microbial Metabolite Signaling Is Required for Systemic Iron Homeostasis. 
+Cell Metab. 31, 115–130.e6. [PubMed: 31708445] 
+
+Deriu E, Liu JZ, Pezeshki M, Edwards RA, Ochoa RJ, Contreras H, Libby SJ, Fang FC, and Raffatellu 
+
+M (2013). Probiotic Bacteria Reduce Salmonella Typhimurium Intestinal Colonization by 
+Competing for Iron. Cell Host Microbe 14, 26–37. [PubMed: 23870311] 
+
+Dethlefsen L, McFall-Ngai M, and Relman DA (2007). An ecological and evolutionary perspective on 
+
+human–microbe mutualism and disease. Nature 449, 811–818. [PubMed: 17943117] 
+
+Dogan B, Suzuki H, Herlekar D, Sartor RB, Campbell BJ, Roberts CL, Stewart K, Scherl EJ, Araz Y, 
+Bitar PP, et al. (2014). Inflammation-associated Adherent-invasive Escherichia coli Are Enriched 
+in Pathways for Use of Propanediol and Iron and M-cell Translocation. Inflamm. Bowel Dis. 20, 
+1919–1932. [PubMed: 25230163] 
+
+Drakesmith H, and Prentice AM (2012). Hepcidin and the Iron-Infection Axis. Science 338, 768–772. 
+
+[PubMed: 23139325] 
+
+Ferrante M, Declerck S, De Hertogh G, Van Assche G, Geboes K, Rutgeerts P, Penninckx F, Vermeire 
+
+S, and D’Hoore A (2008). Outcome after proctocolectomy with ileal pouch-anal anastomosis for 
+ulcerative colitis. Inflamm. Bowel Dis. 14, 20–28. [PubMed: 17973304] 
+
+Fischbach MA, Lin H, Zhou L, Yu Y, Abergel RJ, Liu DR, Raymond KN, Wanner BL, Strong RK, 
+
+Walsh CT, et al. (2006). The pathogen-associated iroA gene cluster mediates bacterial evasion of 
+lipocalin 2. Proc. Natl. Acad. Sci. 103, 16502–16507. [PubMed: 17060628] 
+
+Flo TH, Smith KD, Sato S, Rodriguez DJ, Holmes MA, Strong RK, Akira S, and Aderem A (2004). 
+Lipocalin 2 mediates an innate immune response to bacterial infection by sequestrating iron. 
+Nature 432, 917–921. [PubMed: 15531878] 
+
+Garcia EC, Brumbaugh AR, and Mobley HLT (2011). Redundancy and specificity of Escherichia coli 
+iron acquisition systems during urinary tract infection. Infect Immun 79, 1225–1235. [PubMed: 
+21220482] 
+
+Gionchetti P, Calafiore A, Riso D, Liguori G, Calabrese C, Vitali G, Laureti S, Poggioli G, Campieri 
+M, and Rizzello F (2012). The role of antibiotics and probiotics in pouchitis. Ann. Gastroenterol. 
+25, 100–105. [PubMed: 24714229] 
+
+Gottschick C, Deng Z-L, Vital M, Masur C, Abels C, Pieper DH, and Wagner-Dobler I (2017). The 
+urinary microbiota of men and women and its changes in women during bacterial vaginosis and 
+antibiotic treatment. Microbiome 5, 99. [PubMed: 28807017] 
+
+Gray-Owen SD, and Schyvers AB (1996). Bacterial transferrin and lactoferrin receptors. Trends 
+
+Microbiol. 4, 185–191. [PubMed: 8727598] 
+
+Haas H, Petrik M, and Decristoforo C (2015). An Iron-Mimicking, Trojan Horse-Entering Fungi—Has 
+
+the Time Come for Molecular Imaging of Fungal Infections? PLoS Pathog. 11.
+
+Hentze MW, Muckenthaler MU, Galy B, and Camaschella C (2010). Two to Tango: Regulation of 
+
+Mammalian Iron Metabolism. Cell 142, 24–38. [PubMed: 20603012] 
+
+Hesseltine CW, Pidacks C, Whitehill AR, Bohonos N, Hutchings BL, and Williams JH (1952). 
+Coprogen, a new growth factor for coprophilic fungi. J. Am. Chem. Soc. 74, 1362–1362.
+Holden VI, Breen P, Houle S, Dozois CM, and Bachman MA (2016). Klebsiella pneumoniae 
+
+Siderophores Induce Inflammation, Bacterial Dissemination, and HIF-1α Stabilization during 
+Pneumonia. MBio 7.
+
+Hood MI, and Skaar EP (2012). Nutritional immunity: transition metals at the pathogen–host interface. 
+
+Nat. Rev. Microbiol. 10, 525–537. [PubMed: 22796883] 
+
+Huffnagle GB, Dickson RP, and Lukacs NW (2017). The respiratory tract microbiome and lung 
+inflammation: a two-way street. Mucosal Immunol. 10, 299–306. [PubMed: 27966551] 
+
+Huttenhower C, Gevers D, Knight R, Abubucker S, Badger JH, Chinwalla AT, Creasy HH, Earl AM, 
+FitzGerald MG, Fulton RS, et al. (2012). Structure, function and diversity of the healthy human 
+microbiome. Nature 486, 207–214. [PubMed: 22699609] 
+
+Jaeggi T, Kortman GAM, Moretti D, Chassard C, Holding P, Dostal A, Boekhorst J, Timmerman HM, 
+Swinkels DW, Tjalsma H, et al. (2015). Iron fortification adversely affects the gut microbiome, 
+increases pathogen abundance and induces intestinal inflammation in Kenyan infants. Gut 64, 
+731–742. [PubMed: 25143342] 
+
+Mol Aspects Med. Author manuscript; available in PMC 2021 October 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Gerner et al.
+
+Page 15
+
+Jarosik GP, Land CB, Duhon P, Chandler R, and Mercer T (1998). Acquisition of Iron by Gardnerella 
+
+vaginalis. Infect. Immun. 66, 5041–5047. [PubMed: 9746616] 
+
+Krewulak KD, and Vogel HJ (2008). Structural biology of bacterial iron uptake. Biochim Biophys 
+
+Acta Biomembr 1778, 1781–1804.
+
+Kruzel ML, Zimecki M, and Actor JK (2017). Lactoferrin in a Context of Inflammation-Induced 
+
+Pathology. Front. Immunol. 8, 1438. [PubMed: 29163511] 
+
+Lee T, Clavel T, Smirnov K, Schmidt A, Lagkouvardos I, Walker A, Lucio M, Michalke B, Schmitt-
+Kopplin P, Fedorak R, et al. (2017). Oral versus intravenous iron replacement therapy distinctly 
+alters the gut microbiota and metabolome in patients with IBD. Gut 66, 863–871. [PubMed: 
+26848182] 
+
+Levay PF, and Viljoen M (1995). Lactoferrin: a general review. Haematologica 80, 252–267. [PubMed: 
+
+7672721] 
+
+Lieu PT, Heiskala M, Peterson PA, and Yang Y (2001). The roles of iron in health and disease. Mol. 
+
+Aspects Med. 22, 1–87. [PubMed: 11207374] 
+
+Liu Z, Ren Z, Zhang J, Chuang C-C, Kandaswamy E, Zhou T, and Zuo L (2018). Role of ROS and 
+Nutritional Antioxidants in Human Diseases. Front. Physiol. 9, 477. [PubMed: 29867535] 
+
+Lopez CA, and Skaar EP (2018). The Impact of Dietary Transition Metals on Host-Bacterial 
+
+Interactions. Cell Host Microbe 23, 737–748. [PubMed: 29902439] 
+
+Lozupone CA, Stombaugh JI, Gordon JI, Jansson JK, and Knight R (2012). Diversity, stability and 
+
+resilience of the human gut microbiota. Nature 489, 220–230. [PubMed: 22972295] 
+
+Machiels K, Sabino J, Vandermosten L, Joossens M, Arijs I, Bruyn M. de, Eeckhaut V, Assche GV, 
+Ferrante M, Verhaegen J, et al. (2017). Specific members of the predominant gut microbiota 
+predict pouchitis following colectomy and IPAA in UC. Gut 66, 79–88. [PubMed: 26423113] 
+
+Mahalhal A, Williams JM, Johnson S, Ellaby N, Duckworth CA, Burkitt MD, Liu X, Hold GL, 
+Campbell BJ, Pritchard DM, et al. Oral iron exacerbates colitis and influences the intestinal 
+microbiome. 18.
+
+Mayer FL, Wilson D, and Hube B (2013). Candida albicans pathogenicity mechanisms. Virulence 4, 
+
+119–128. [PubMed: 23302789] 
+
+Miethke M, and Marahiel MA (2007). Siderophore-Based Iron Acquisition and Pathogen Control. 
+
+Microbiol. Mol. Biol. Rev. 71, 413–451. [PubMed: 17804665] 
+
+Mike LA, Smith SN, Sumner CA, Eaton KA, and Mobley HLT (2016). Siderophore vaccine 
+
+conjugates protect against uropathogenic Escherichia coli urinary tract infection. Proc. Natl. Acad. 
+Sci. 113, 13468–13473. [PubMed: 27821778] 
+
+Mimura T, Rizzello F, Helwig U, Poggioli G, Schreiber S, Talbot IC, Nicholls RJ, Gionchetti P, 
+
+Campieri M, and Kamm MA (2004). Once daily high dose probiotic therapy (VSL#3) for 
+maintaining remission in recurrent or refractory pouchitis. Gut 53, 108–114. [PubMed: 14684584] 
+
+Minandri F, Imperi F, Frangipani E, Bonchi C, Visaggio D, Facchini M, Pasquali P, Bragonzi A, and 
+Visca P (2016). Role of Iron Uptake Systems in Pseudomonas aeruginosa Virulence and Airway 
+Infection. Infect. Immun. 84, 2324–2335. [PubMed: 27271740] 
+
+Morgenthau A, Pogoutse A, Adamiak P, Moraes TF, and Schryvers AB (2013). Bacterial receptors for 
+host transferrin and lactoferrin: molecular mechanisms and role in host-microbe interactions. 
+Future Microbiol. 8, 1575–1585. [PubMed: 24266357] 
+
+Moschen AR, Gerner RR, Wang J, Klepsch V, Adolph TE, Reider SJ, Hackl H, Pfister A, Schilling J, 
+
+Moser PL, et al. (2016). Lipocalin 2 Protects from Inflammation and Tumorigenesis Associated 
+with Gut Microbiota Alterations. Cell Host Microbe 19, 455–469. [PubMed: 27078067] 
+
+Moschen AR, Adolph TE, Gerner RR, Wieser V, and Tilg H (2017). Lipocalin-2: A Master Mediator 
+of Intestinal and Metabolic Inflammation. Trends Endocrinol. Metab. 28, 388–397. [PubMed: 
+28214071] 
+
+Nakashige TG, Zhang B, Krebs C, and Nolan EM (2015). Human Calprotectin Is an Iron-Sequestering 
+
+Host-Defense Protein. Nat. Chem. Biol. 11, 765–771. [PubMed: 26302479] 
+
+Neilands JB (1952). A Crystalline Organo-iron Pigment from a Rust Fungus (Ustilago sphaerogena)1. 
+
+J. Am. Chem. Soc. 74, 4846–4847.
+
+Mol Aspects Med. Author manuscript; available in PMC 2021 October 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Gerner et al.
+
+Page 16
+
+Neumann W, Sassone-Corsi M, Raffatellu M, and Nolan EM (2018). Esterase-Catalyzed Siderophore 
+
+Hydrolysis Activates an Enterobactin-Ciprofloxacin Conjugate and Confers Targeted Antibacterial 
+Activity. J. Am. Chem. Soc. 140, 5193–5201. [PubMed: 29578687] 
+
+Nielsen OH, Soendergaard C, Vikner ME, and Weiss G (2018). Rational Management of Iron-
+
+Deficiency Anaemia in Inflammatory Bowel Disease. Nutrients 10, 82.
+
+Noinaj N, Guillier M, Barnard TJ, and Buchanan SK (2010). TonB-dependent transporters: regulation, 
+
+structure, and function. Annu. Rev. Microbiol. 64, 43–60. [PubMed: 20420522] 
+
+Pereira FC, and Berry D (2017). Microbial nutrient niches in the gut. Environ. Microbiol. 19, 1366–
+
+1378. [PubMed: 28035742] 
+
+Petrik M, Zhai C, Haas H, and Decristoforo C (2017). Siderophores for molecular imaging 
+
+applications. Clin. Transl. Imaging 5, 15–27. [PubMed: 28138436] 
+
+Posey JE, and Gherardini FC (2000). Lack of a Role for Iron in the Lyme Disease Pathogen. Science 
+
+288, 1651–1653. [PubMed: 10834845] 
+
+Qi B, and Han M (2018). Microbial Siderophore Enterobactin Promotes Mitochondrial Iron Uptake 
+and Development of the Host via Interaction with ATP Synthase. Cell 175, 571–582.e11. 
+[PubMed: 30146159] 
+
+Raffatellu M, George MD, Akiyama Y, Hornsby MJ, Nuccio S-P, Paixao TA, Butler BP, Chu H, Santos 
+RL, Berger T, et al. (2009). Lipocalin-2 Resistance Confers an Advantage to Salmonella enterica 
+Serotype Typhimurium for Growth and Survival in the Inflamed Intestine. Cell Host Microbe 5, 
+476–486. [PubMed: 19454351] 
+
+Raymond KN, Dertz EA, and Kim SS (2003). Enterobactin: An archetype for microbial iron transport. 
+
+Proc. Natl. Acad. Sci. 100, 3584–3588. [PubMed: 12655062] 
+
+Runyen-Janecky LJ (2013). Role and regulation of heme iron acquisition in gram-negative pathogens. 
+
+Front. Cell. Infect. Microbiol. 3.
+
+Sanchez KK, Chen GY, Schieber AMP, Redford SE, Shokhirev MN, Leblanc M, Lee YM, and Ayres 
+
+JS (2018). Cooperative Metabolic Adaptations in the Host Can Favor Asymptomatic Infection and 
+Select for Attenuated Virulence in an Enteric Pathogen. Cell 175, 146–158.e15. [PubMed: 
+30100182] 
+
+Sánchez L, Calvo M, and Brock JH (1992). Biological role of lactoferrin. Arch. Dis. Child. 67, 657–
+
+661. [PubMed: 1599309] 
+
+Sassone-Corsi M, and Raffatellu M (2015). No Vacancy: How Beneficial Microbes Cooperate with 
+Immunity To Provide Colonization Resistance to Pathogens. J. Immunol. 194, 4081–4087. 
+[PubMed: 25888704] 
+
+Sassone-Corsi M, Chairatana P, Zheng T, Perez-Lopez A, Edwards RA, George MD, Nolan EM, and 
+Raffatellu M (2016a). Siderophore-based immunization strategy to inhibit growth of enteric 
+pathogens. Proc. Natl. Acad. Sci. U. S. A. 113, 13462–13467. [PubMed: 27821741] 
+Sassone-Corsi M, Nuccio S-P, Liu H, Hernandez D, Vu C, Takahashi ASA, Edwards RA, and 
+
+Raffatellu M (2016b). Microcins mediate competition among Enterobacteriaceae in the inflamed 
+gut. In Nature, p.
+
+Shaler CR, Elhenawy W, and Coombes BK (2019). The Unique Lifestyle of Crohn’s Disease-
+Associated Adherent-Invasive Escherichia coli. J. Mol. Biol. 431, 2970–2981. [PubMed: 
+31029703] 
+
+Sipponen T, Savilahti E, Kolho K-L, Nuutinen H, Turunen U, and Fárkkilá M (2008). Crohn’s disease 
+activity assessed by fecal calprotectin and lactoferrin: correlation with Crohn’s disease activity 
+index and endoscopic findings. Inflamm. Bowel Dis. 14, 40–46. [PubMed: 18022866] 
+
+Soares MP, and Weiss G (2015). The Iron age of host-microbe interactions. EMBO Rep. 16, 1482–
+
+1500. [PubMed: 26474900] 
+
+Steigedal M, Marstad A, Haug M, Damas JK, Strong RK, Roberts PL, Himpsl SD, Stapleton A, 
+Hooton TM, Mobley HLT, et al. (2014). Lipocalin 2 Imparts Selective Pressure on Bacterial 
+Growth in the Bladder and Is Elevated in Women with Urinary Tract Infection. J. Immunol. Author 
+Choice 193, 6081–6089.
+
+Tyrrell J, and Callaghan M (2016). Iron acquisition in the cystic fibrosis lung and potential for novel 
+
+therapeutic strategies. Microbiology 162, 191–205. [PubMed: 26643057] 
+
+Mol Aspects Med. Author manuscript; available in PMC 2021 October 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Gerner et al.
+
+Page 17
+
+Valdebenito M, Crumbliss AL, Winkelmann G, and Hantke K (2006). Environmental factors influence 
+the production of enterobactin, salmochelin, aerobactin, and yersiniabactin in Escherichia coli 
+strain Nissle 1917. Int. J. Med. Microbiol. 296, 513–520. [PubMed: 17008127] 
+
+Vasil ML, and Ochsner UA (1999). The response of Pseudomonas aeruginosa to iron: genetics, 
+
+biochemistry and virulence. Mol. Microbiol. 34, 399–413. [PubMed: 10564483] 
+
+Vega-Bautista A, de la Garza M, Carrero JC, Campos-Rodríguez R, Godínez-Victoria M, and Drago-
+
+Serrano ME (2019). The Impact of Lactoferrin on the Growth of Intestinal Inhabitant Bacteria. Int. 
+J. Mol. Sci. 20, 4101.
+
+Vonaesch P, Anderson M, and Sansonetti PJ (2018). Pathogens, microbiome and the host: emergence 
+of the ecological Koch’s postulates. FEMS Microbiol. Rev. 42, 273–292. [PubMed: 29325027] 
+Wang J, Lonergan ZR, Gonzalez-Gutierrez G, Nairn BL, Maxwell CN, Zhang Y, Andreini C, Karty 
+
+JA, Chazin WJ, Trinidad JC, et al. (2019). Multi-metal restriction by calprotectin impacts de novo 
+flavin biosynthesis in Acinetobacter baumannii. Cell Chem. Biol. 26, 745–755.e7. [PubMed: 
+30905682] 
+
+Ward PP, and Conneely OM (2004). Lactoferrin: Role in iron homeostasis and host defense against 
+
+microbial infection. Biometals 17, 203–208. [PubMed: 15222466] 
+
+Warszawska JM, Gawish R, Sharif O, Sigel S, Doninger B, Lakovits K, Mesteri I, Nairz M, Boon L, 
+
+Spiel A, et al. (2013). Lipocalin 2 deactivates macrophages and worsens pneumococcal pneumonia 
+outcomes. J. Clin. Invest. 123, 3363–3372. [PubMed: 23863624] 
+
+Weinberg ED (1978). Iron and infection. Microbiol. Rev. 42, 45–66. [PubMed: 379572] 
+Werner T, Wagner SJ, Martínez I, Walter J, Chang J-S, Clavel T, Kisling S, Schuemann K, and Haller 
+D (2011). Depletion of luminal iron alters the gut microbiota and prevents Crohn’s disease-like 
+ileitis. Gut 60, 325–333. [PubMed: 21076126] 
+
+Winkelmann G (2007). Ecology of siderophores with special reference to the fungi. BioMetals 20, 379. 
+
+[PubMed: 17235665] 
+
+Wolfe AJ, and Brubaker L (2019). Urobiome updates: advances in urinary microbiome research. Nat. 
+
+Rev. Urol. 16, 73–74. [PubMed: 30510275] 
+
+Zhu W, Winter MG, Spiga L, Hughes ER, Chanin R, Mulgaonkar A, Pennington J, Maas M, Behrendt 
+CL, Kim J, et al. (2020). Xenosiderophore Utilization Promotes Bacteroides thetaiotaomicron 
+Resilience during Colitis. Cell Host Microbe 27, 376–388.e8. [PubMed: 32075741] 
+
+Zollner A, Schmiderer A, Reider SJ, Oberhuber G, Pfister A, Texler B, Watschinger C, Koch R, 
+Effenberger M, Raine T, et al. (2020). Fecal biomarkers in inflammatory bowel diseases: 
+calprotectin versus lipocalin-2 - a comparative study. J. Crohns Colitis.
+
+Zygiel EM, Nelson CE, Brewer LK, Oglesby-Sherrouse AG, and Nolan EM (2019). The human innate 
+immune protein calprotectin induces iron starvation responses in Pseudomonas aeruginosa. J. Biol. 
+Chem. 294, 3549–3562. [PubMed: 30622135] 
+
+Mol Aspects Med. Author manuscript; available in PMC 2021 October 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Gerner et al.
+
+Page 18
+
+Figure 1. Evasion of Lcn2-mediated antimicrobial activity.
+Members of the family Enterobacteriaceae can secrete siderophores such as enterobactin and 
+salmochelin into the intestinal lumen to scavenge iron from the host environment. Some 
+immune cells (e.g., neutrophils) and epithelial cells (in response to cytokines including 
+interleukin-22) produce Lcn2, which sequesters enterobactin and thus limits the growth of 
+enterobactin-dependent bacteria by depriving them of iron. In contrast, salmochelin and 
+other ‘stealth’ siderophores enable certain bacteria (mostly pathogens) to evade Lcn2-
+dependent iron limitation.
+
+Mol Aspects Med. Author manuscript; available in PMC 2021 October 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Gerner et al.
+
+Page 19
+
+Figure 2. Model of host-microbe competition for iron in the gut during homeostasis and disease.
+(a) Under homeostatic conditions, members of the commensal microbiota acquire iron in the 
+form of heme or by scavenging ferric iron with siderophores such as enterobactin. Low 
+levels of antimicrobial proteins including lactoferrin (Lf) and lipocalin-2 (Lcn2) are present 
+in the gut lumen. Lf sequesters luminal ferric iron, whereas Lcn2 sequesters iron-laden 
+enterobactin. (b) Antibiotic treatment, infection and inflammation can induce IL-22-
+mediated secretion of Lcn2 from intestinal epithelial cells, and of Lcn2 and Lf from 
+neutrophils that are recruited to the gut. The consequent iron limitation, in turn, induces 
+commensals and pathogens to upregulate various iron uptake mechanisms, including 
+increasing production and secretion of siderophores. Many enteric pathogens secrete stealth 
+siderophores that promote evasion of lipocalin-2-mediated iron sequestration, thus enabling 
+these pathogens to outcompete the gut microbiota and thrive.
+
+Mol Aspects Med. Author manuscript; available in PMC 2021 October 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Gerner et al.
+
+Page 20
+
+Figure 3. Iron acquisition by pathogens and commensals.
+(a) In the healthy gut, the microbiota is primarily comprised of obligate anaerobes (the phyla 
+Firmicutes and Bacteroidetes). These commensals occupy local niches, consume luminal 
+nutrients and uptake iron (Fe), thereby providing colonization resistance to pathogenic 
+microbes. (b) Intestinal inflammation causes a dramatic reduction in luminal Fe content. The 
+enteric pathogen Salmonella is able to scavenge Fe3+ in this environment, due to the 
+production of salmochelin. However, secretion of multiple siderophores enables the 
+probiotic bacterium E. coli Nissle 1917 to outcompete Salmonella. Moreover, the 
+commensal bacterium Bacteroides thetaiotaomicron sustains colonization during 
+inflammation by utilizing xenosiderophores, a critical mechanism to restore its original 
+colonization state after inflammation is resolved. (c) IBD is characterized by chronic 
+relapsing or remittent intestinal inflammation. During colitis, the increased secretion of host 
+antimicrobial proteins lactoferrin (Lf) and lipocalin-2 (Lcn2) limits the availability of iron to 
+gut microbes. However, the low Fe content induces the upregulation of bacterial Fe uptake 
+genes, which contributes to the blooms of Proteobacteria frequently observed. Even high 
+luminal Fe content (e.g., due to Fe supplementation) promotes the growth of Proteobacteria 
+in the inflamed gut. In patients with Crohn’s disease, adherent-invasive E. coli (AIEC) 
+strains express a variety of Fe-uptake genes, which contribute to the pathogen’s growth 
+during colitis.
+
+Mol Aspects Med. Author manuscript; available in PMC 2021 October 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Gerner et al.
+
+Page 21
+
+Figure 4. Siderophores as therapeutic targets and diagnostic tools.
+(a) During infection, various siderophores are secreted by pathogens to thrive in the host 
+despite host-mediated iron limitation. In experimental models, siderophores have been 
+targeted for vaccination by linkage to a carrier protein in order to generate anti-siderophore 
+antibodies. Whereas pathogens (e.g., Salmonella, UPEC) were able to successfully replicate 
+in naïve hosts, siderophore-based immunization reduced their colonization levels. (b) 
+Conjugation of antimicrobial peptides or antibiotics to siderophores. (b.I) An enterobactin-
+ciprofloxacin conjugate is transported through a common siderophore receptor found in the 
+outer membrane of all E. coli strains. Once in the cytoplasm, the IroD esterase, which is 
+mainly found in pathogenic E. coli strains, processes the enterobactin-ciprofloxacin prodrug 
+and thereby enables ciprofloxacin-mediated inhibition of DNA synthesis. (b.II) Certain 
+strains of Enterobacteriaceae, such as E. coli Nissle or K. pneumoniae, secrete microcins in 
+response to nutrient (e.g., Fe) limitation. It is generally thought that the siderophore moiety 
+enables these small antimicrobial peptides to better target susceptible strains of 
+Enterobacteriaceae by utilizing their siderophore receptors for import. (c) Microbial 
+siderophore uptake during infection can be leveraged for imaging applications. During lung 
+infection, Aspergillus scavenges iron (Fe) via siderophores. Injection of siderophores 
+radiolabeled with 68Ga in experimental Aspergillus infections enabled the visualization of 
+the lung infection site by PET/CT.
+
+Mol Aspects Med. Author manuscript; available in PMC 2021 October 01.
+
+ 
+ 
+ 
+ 
+

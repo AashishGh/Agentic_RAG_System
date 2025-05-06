@@ -1,0 +1,1268 @@
+Review
+Preparation and Performance of Water-Active Polyurethane
+Grouting Material in Engineering: A Review
+
+Juan Wang 1,2, Shuang Gao 1, Chao Zhang 1,*
+
+, Yu Deng 3
+
+and Peng Zhang 1
+
+1 Yellow River Laboratory, School of Water Conservancy Engineering, Zhengzhou University,
+
+Zhengzhou 450001, China
+State Key Laboratory of Hydroscience and Engineering, Tsinghua University, Beijing 100084, China
+
+2
+
+3 Yellow River Institute of Hydraulic Research, Zhengzhou 450003, China
+* Correspondence: chao.zhang.zzu@outlook.com
+
+Abstract: Polyurethane foam materials have broad application prospects in practical engineering
+as ﬂame retardants, waterproof coatings, and grout repair materials due to advantages such as
+light weight, quick forming, and good durability. Due to water’s low cost and convenience, water-
+reactive Polyurethane foam materials are widely used in engineering. The content of the water has a
+signiﬁcant effect on the performance of polyurethane foams after molding. Polyurethane foams with
+anti-seepage and reinforcement effects are used in complex water environments for long durations.
+This study analyzed the effects of water content on properties and the diffusion mechanism of
+polyurethane foam materials in water. Additionally, the effect of the water environment on the
+polyurethane grouting material’s properties was summarized. Finally, this study discussed the future
+research directions of polyurethane foam materials in a water environment.
+
+Keywords: polyurethane foams; water content; water environment; mechanical properties; grout diffusion
+
+Citation: Wang, J.; Gao, S.; Zhang, C.;
+
+Deng, Y.; Zhang, P. Preparation and
+
+1. Introduction
+
+Performance of Water-Active
+
+Polyurethane Grouting Material in
+
+Engineering: A Review. Polymers
+
+2022, 14, 5099. https://doi.org/
+
+10.3390/polym14235099
+
+Academic Editor: Sándor Kéki
+
+Received: 23 September 2022
+
+Accepted: 15 November 2022
+
+Published: 24 November 2022
+
+Publisher’s Note: MDPI stays neutral
+
+with regard to jurisdictional claims in
+
+published maps and institutional afﬁl-
+
+iations.
+
+Copyright: © 2022 by the authors.
+
+Licensee MDPI, Basel, Switzerland.
+
+This article is an open access article
+
+distributed under
+
+the terms and
+
+conditions of the Creative Commons
+
+Attribution (CC BY) license (https://
+
+creativecommons.org/licenses/by/
+
+4.0/).
+
+Polyurethane is a block copolymer, and it was the ﬁrst material used for the prepara-
+tion of foam. The main chain is composed of repeated structural units of the carbamate
+(-NHCOO-), which is prepared by a reaction of isocyanate and polyol [1–3]. Polyurethane
+has a wide range of applications because it is adaptable and can be used under differ-
+ent conditions by adjusting its constituent materials. Polyurethane can be divided into
+polyurethane aqueous solution, dispersion, and emulsion based on the dispersion mor-
+phology and particle size. It can be divided into single and double components according
+to the form of use. It can be divided into polyurethane soft foam, polyurethane hard
+foam, polyurethane semi-hard foam, polyurethane elastomer, polyurethane slurry, and
+polyurethane coating based on its application [4].
+
+China’s polyurethane industry began in the middle of the 20th century. After nearly
+50 years of development, a variety of new or modiﬁed polyurethane grouting foam materi-
+als have been formed. Polyurethane foams are mainly composed of isocyanate, polyols,
+and polymer additives. The additives are divided into three categories, which are foaming
+agents, foam stabilizers, and catalysts. According to whether there is water involved in
+the reaction process, polyurethane grouting materials can be divided into water reactions
+and non-water reactions. Water-reactive polyurethane can be divided into hydrophilic and
+hydrophobic types according to the response of the cured body to water [5]. Compared
+with cement-based geopolymer [6–8] and other grouting materials, polyurethane foam
+material has irreplaceable advantages. High expansion is the polymer volume expansion
+after a reaction up to 25 times the maximum expansion force of 10 Mpa [9]. Adjustable
+reaction time is where polyurethane foam material can adjust the curing time of the material
+by changing the additives; the fastest ten seconds can freely expand to the ﬁnal 80% [10].
+Good impermeability is where the permeability coefﬁcient can reach 10−8 cm/s below [9].
+
+Polymers 2022, 14, 5099. https://doi.org/10.3390/polym14235099
+
+https://www.mdpi.com/journal/polymers
+
+polymersPolymers 2022, 14, 5099
+
+2 of 17
+
+In recent years, polymer foam grouting materials have made signiﬁcant breakthroughs
+in engineering applications. The problem that cement mortar is not suitable for wet-set
+loess areas can be solved by using the characteristics of rapid reaction of the polymer [11].
+In order to solve the problem of track deformation caused by the settlement of ballast-
+less track roadbeds of a high-speed railroad, the polymer grouting technology for rapid
+repair of settlement of roadbeds of the high-speed railroad was developed [12]. In order
+to solve the problem of water leakage and sand surging caused by uneven settlement
+of underground pipelines, the polymer grouting method for sealing sand surging from
+underground pipeline leakage was proposed [13]. For the problem of water surging from
+tunnel leakage, the polymer grouting technology for rapid treatment of tunnel leakage
+was proposed [14]. High polymer foam materials are widely used in rapid rescue projects
+in the ﬁelds of water conservancy, transportation, and tunnels due to their fast reaction
+and good impermeability. However, due to the complex environment of the building,
+polyurethane foam materials are mostly used in water environments. Therefore, it is of
+practical signiﬁcance to study the effect of water on polyurethane foam materials for its
+applications in practical engineering. In recent years, several scholars have studied the
+effects of water as a blowing agent on polyurethane and the evolution of polyurethane
+properties in a water environment.
+
+This study focuses on the following aspects: (1) the effect of water as a foaming
+agent on the physical properties of polyurethane foam materials; (2) the evolution of the
+performance of polyurethane foam materials in a water environment considering moisture
+absorption, mechanical properties, permeability, and grout diffusion behavior; and (3)
+analysis of the mechanism of water on polyurethane foam materials. Studying the effect
+of water on polyurethane foam materials using existing research can lay a theoretical
+foundation for the subsequent research on the fracture performance of polyurethane grout
+in a water environment and can provide a reference for the relevant tests of polyurethane
+foam materials under water service conditions. It is crucial for the wide applications
+of polyurethane foam materials, such as grouting repair material, in water conservancy
+projects with large water inﬂow and strong permeability.
+
+2. Water Content Effect on the Properties of Polyurethane Foams
+
+The type and amount of polyurethane foaming agent play a critical role in obtaining
+the ideal hard foam [15]. Water, with its largest amount of activity, is selected as the
+foaming agent among the formulations of all-water foaming polyurethane, one-component
+water-active polyurethane grouting material, and rigid polyurethane foam because it is
+economical, non-toxic, environmentally friendly, and has a simple reaction. Its content has
+a signiﬁcant effect on the performance of polyurethane foams.
+
+2.1. Effect of Water Content on the Density of Polyurethane Foams
+
+The density determines the performance of foaming materials. Several scholars [16–19]
+investigated the effect of water as a foaming agent on the density of polyurethane foam and
+observed that the foaming reaction gradually increases, and the density gradually decreases
+with an increase in the water content. Song [20] investigated the effect of water content in
+the polyether component on the process, properties, and microstructure of polyurethane
+microporous elastomer using a one-step method. Han [21] studied the bubble morphology
+of rigid polyurethane foam materials with different water contents using scanning electron
+microscopy and observed that the cell diameter increases with the increase in water content,
+and the density of polyurethane with higher water content was low. Wang [22] and
+Amman [23] analyzed the effect of water on the density of the rigid polyurethane-imide
+foam and obtained a similar conclusion.
+
+The normalization method was used in this study to integrate the data to observe
+the effect of foaming agent (water) consumption on the density of polyurethane foam
+materials (Figure 1). The normalization method is a way to simplify the calculation; that is,
+the dimensionless expression is transformed into a dimensionless expression. It is mainly
+
+Polymers 2022, 14, 5099
+
+3 of 17
+
+proposed for the convenience of data processing. It can be observed from the results
+that the density gradually decreases with an increase in the water content because the
+CO2 in the pores of polyurethane foam materials is obtained by the reaction of water and
+isocyanate. The increase in the water content increases the production of CO2 and the
+number of micropores in the unit volume and decreases the thickness of the pore wall [24].
+The formation of macropores by foaming is enhanced, which increases the pore size and
+porosity of the foaming body. This results in a decrease in the density of polyurethane foam
+materials [18]. The amount of CO2 and urea bonds generated by the reaction of water and
+isocyanate increases accordingly, and the reaction releases excessive heat. The urea bond
+further reacts with excess isocyanate at high temperatures to form a biuret compound. The
+polyurethane foams formation reaction is as follows:
+
+∼∼ NCO + H2O
+
+slow→ ∼∼ NH −
+
+O
+(cid:107)
+C − OH
+
+slow→ ∼∼ NH2 + CO2 ↑
+
+∼∼ NH2+ ∼∼ NCO
+
+fast→∼∼ NH −
+
+O
+(cid:107)
+C − NH
+
+(1)
+
+(2)
+
+Figure 1. The relationship between foaming agent (water) and density (normalization) [17,19–21,23].
+
+2.2. Effect of Water Content on the Mechanical Properties of Polyurethane Foams
+
+The mechanical properties of polyurethane foam materials are signiﬁcantly dependent
+upon their density. Various methods have been used to investigate the effect of water
+on the mechanical properties of polyurethane foam materials. Ding [17] and Du [19]
+investigated the effect of using water as a foaming agent on the tensile, ﬂexural, and
+compressive strength of polyurethane foam materials. The results demonstrated that the
+tensile, ﬂexural, and compressive strengths gradually decreased with an increase in the
+water content. Song [20] investigated the effect of water content in a polyether component
+on the tensile strength of polyurethane microporous elastomer and observed that the tensile
+strength of the material signiﬁcantly decreased with an increase in the water content in the
+polyether component. Chen [25] used the method of polyether compounding to control
+the viscosity of polyether, studied the mechanism of water dosage on the morphology
+and mechanical properties of the foam, and explained the effect of water dosage on the
+strength of polyurethane foam from a microscopic point of view. Liang [26] and Li [18]
+studied the relationship between water as a foaming agent and the mechanical properties of
+polyurethane foam plastics and obtained similar results. Ye [27] systematically explored the
+effect of water on the mechanical properties of prepolymers by adding a certain proportion
+of water to the prepolymer and using Fourier transformation infrared spectroscopy and
+differential scanning calorimetry. It was found that the hardness of polyurethane elastomer
+
+Polymers 2022, 14, x FOR PEER REVIEW 3 of 18   The normalization method was used in this study to integrate the data to observe the effect of foaming agent (water) consumption on the density of polyurethane foam materi-als (Figure 1). The normalization method is a way to simplify the calculation; that is, the dimensionless expression is transformed into a dimensionless expression. It is mainly pro-posed for the convenience of data processing. It can be observed from the results that the density gradually decreases with an increase in the water content because the CO2 in the pores of polyurethane foam materials is obtained by the reaction of water and isocyanate. The increase in the water content increases the production of CO2 and the number of mi-cropores in the unit volume and decreases the thickness of the pore wall [24]. The for-mation of macropores by foaming is enhanced, which increases the pore size and porosity of the foaming body. This results in a decrease in the density of polyurethane foam mate-rials [18]. The amount of CO2 and urea bonds generated by the reaction of water and iso-cyanate increases accordingly, and the reaction releases excessive heat. The urea bond further reacts with excess isocyanate at high temperatures to form a biuret compound. The polyurethane foams formation reaction is as follows: Oslowslow222NCOHONHCOHNHCO+⎯⎯⎯→−−⎯⎯⎯→+↑ (1)fastO2NHNCONHCNH+⎯⎯→−− (2) Figure 1. The relationship between foaming agent (water) and density (normalization) [17,19–21,23]. 2.2. Effect of Water Content on the Mechanical Properties of Polyurethane Foams The mechanical properties of polyurethane foam materials are significantly depend-ent upon their density. Various methods have been used to investigate the effect of water on the mechanical properties of polyurethane foam materials. Ding [17] and Du [19] in-vestigated the effect of using water as a foaming agent on the tensile, flexural, and com-pressive strength of polyurethane foam materials. The results demonstrated that the ten-sile, flexural, and compressive strengths gradually decreased with an increase in the water content. Song [20] investigated the effect of water content in a polyether component on the tensile strength of polyurethane microporous elastomer and observed that the tensile strength of the material significantly decreased with an increase in the water content in the polyether component. Chen [25] used the method of polyether compounding to con-trol the viscosity of polyether, studied the mechanism of water dosage on the morphology and mechanical properties of the foam, and explained the effect of water dosage on the strength of polyurethane foam from a microscopic point of view. Liang [26] and Li [18] Polymers 2022, 14, 5099
+
+4 of 17
+
+decreased with the increase in water content. Zhao [28] studied the effect of water content
+on the compressive strength of polyurethane foam. It was found that the compressive
+strength decreased with the increase of water content. The method of normalization
+processing was used to integrate the large range of research data obtained from various
+studies to effectively observe the change in the trend of the data. The increase in foaming
+agent content decreases the strength of the polyurethane foam (Figure 2).
+
+Figure 2.
+(a) Relationship between foaming agent (water) and tensile strength (normaliza-
+tion) [17,19,20,26]; (b) Relationship between foaming agent (water) and compressive strength (nor-
+malization) [17,26,28].
+
+2.3. Effect of Water Content on Gelation Time, Cell Morphology, and Stability of Polyurethane
+Foams
+
+In addition to density and basic mechanical properties, the water content affects the
+gelation time and thermal conductivity of polyurethane. The gel time of polymer foam
+means the period from slurry mixing to curing and forming, which is one of the important
+physical properties of polyurethane foam. Li [29], Song [20], and Wang [30] studied the
+effect of water consumption on gelation time. The gelation time of polyurethane foam ma-
+terials increased with an increase in the water content. The gelation time slightly decreased
+with an increase in water consumption when the water consumption was low. Subse-
+quently, the gelation time was gradually prolonged with an increase in water consumption.
+The cellular morphology became larger and non-uniform when the water content was
+increased [21,31]. Because of the fast reaction rate between the water molecule and iso-
+cyanate group, the cell structure of polyurethane foam materials was brittle [32,33]. Luo [34]
+discussed the effect of water content on the properties of waterborne polyurethane foam
+materials. The increase in water content increased the strength of the hydrogen bond of the
+N-H stretching vibration peak and widened the average particle size distribution of the
+emulsion. Zheng [35] studied the polyurethane foaming and hydrolysis resistance of the
+foam in a highly humid environment using infrared spectroscopy, scanning electron micro-
+scope, and compression performance tests. The water content affected the thermoacoustic
+performance of polyurethane foam when it was used as a thermal insulation material.
+Polyurethane foam absorbed a small amount of water and had good impermeability [36].
+Lu [37] investigated the stimulation response to polyurethane shape memory polymer
+hydrogen bonding by changing the water content in ethanol/water mixtures. In addition,
+the humidity had a signiﬁcant effect on the viscoelastic mechanical properties [38] and
+dimensional changes [39,40] in rigid polyurethane foam. Moreover, trace amounts of water
+can be used as chain extenders to improve the molecular weight and mechanical properties
+of polyurethane prepolymers [41].
+
+Polymers 2022, 14, x FOR PEER REVIEW 4 of 18   studied the relationship between water as a foaming agent and the mechanical properties of polyurethane foam plastics and obtained similar results. Ye [27] systematically ex-plored the effect of water on the mechanical properties of prepolymers by adding a certain proportion of water to the prepolymer and using Fourier transformation infrared spec-troscopy and differential scanning calorimetry. It was found that the hardness of polyu-rethane elastomer decreased with the increase in water content. Zhao [28] studied the ef-fect of water content on the compressive strength of polyurethane foam. It was found that the compressive strength decreased with the increase of water content. The method of normalization processing was used to integrate the large range of research data obtained from various studies to effectively observe the change in the trend of the data. The increase in foaming agent content decreases the strength of the polyurethane foam (Figure 2).     (a) (b) Figure 2. (a) Relationship between foaming agent (water) and tensile strength (normalization) [17,19,20,26]; (b) Relationship between foaming agent (water) and compressive strength (normali-zation) [17,26,28]. 2.3. Effect of Water Content on Gelation Time, Cell Morphology, and Stability of Polyurethane Foams In addition to density and basic mechanical properties, the water content affects the gelation time and thermal conductivity of polyurethane. The gel time of polymer foam means the period from slurry mixing to curing and forming, which is one of the important physical properties of polyurethane foam. Li [29], Song [20], and Wang [30] studied the effect of water consumption on gelation time. The gelation time of polyurethane foam materials increased with an increase in the water content. The gelation time slightly de-creased with an increase in water consumption when the water consumption was low. Subsequently, the gelation time was gradually prolonged with an increase in water con-sumption. The cellular morphology became larger and non-uniform when the water con-tent was increased [21,31]. Because of the fast reaction rate between the water molecule and isocyanate group, the cell structure of polyurethane foam materials was brittle [32,33]. Luo [34] discussed the effect of water content on the properties of waterborne polyure-thane foam materials. The increase in water content increased the strength of the hydro-gen bond of the N-H stretching vibration peak and widened the average particle size dis-tribution of the emulsion. Zheng [35] studied the polyurethane foaming and hydrolysis resistance of the foam in a highly humid environment using infrared spectroscopy, scan-ning electron microscope, and compression performance tests. The water content affected the thermoacoustic performance of polyurethane foam when it was used as a thermal in-sulation material. Polyurethane foam absorbed a small amount of water and had good impermeability [36]. Lu [37] investigated the stimulation response to polyurethane shape Polymers 2022, 14, 5099
+
+5 of 17
+
+3. The Diffusion of Polyurethane Grout in Water Environment
+3.1. Experimental Studies of Polyurethane Grout Diffusion
+
+Polyurethane foam materials are widely used in engineering due to their good scour
+resistance when used as a grouting material [42]. In practical engineering applications,
+polyurethane foam materials are injected into the repair area in the form of grout. Before
+forming, the grout comes into contact with the repair area, and then it is solidiﬁed and
+formed after a period of time. Polyurethane foam materials have different diffusion
+behaviors in different media and are characterized by sheet-splitting diffusion in the soil.
+Figure 3 shows the form and dimensions of foam spreading through soil ﬁssures of different
+widths [43]. Figure 3a shows foam spreading through a 20 mm crack, whereas Figure 3b
+shows that the foam can ﬁll much smaller cracks. In general, the wider the crack, the
+farther the polyurethane foam diffuses, as shown in Figure 3a, where foam dendrites
+form at the soil foam interface. The diffusion characteristics of cleavage and penetration
+cementation exist in the dry sand layer, which forms a curing body that is thick at the center
+and thin on both sides [44]. The experiment and simulation calculation of fracture grouting
+were applied to study the diffusion form of polyurethane in anhydrous rock.
+It was
+found that the polyurethane grout diffused concentrically, and the diffusion rate decreased
+continuously [45,46]. The diffusion form and range of polyurethane grout directly affect
+the strength of polyurethane foam after molding. Therefore, it is of practical signiﬁcance to
+study the diffusion characteristics of polyurethane grout to enhance the controllability of
+grouting.
+
+Figure 3. (a) View of foam formed in the ground; (b) view of foam injected soil specimen. Reproduced
+from [43], with permission from Elsevier, 2008.
+
+The above studies were aimed at the changes in the properties of polyurethane foam
+materials in dry environments. In the application of practical engineering, polyurethane
+grout was used in a complex service environment. The diffusion behavior of polyurethane
+grouting in water-bearing cracks was affected by groundwater pressure and groundwater
+temperature [45]. The research object of grout diffusion under the inﬂuence of dynamic
+water was constant density grout in several studies [47–51]. The ﬁrst domestic and foreign
+dynamic water grouting model test bench was developed in 2008. The test bench performed
+ﬁssure dynamic water environment simulation and conducted ﬁssure dynamic water
+grouting sealing tests [52]. However, this research focused on cement grouting. Li [53]
+developed a model test device and test method for polymer fracture grouting under
+dynamic water conditions, which provided a more complete means for testing the diffusion
+characteristics of polymer fracture grouting under dynamic water conditions. It was found
+that polyurethane diffused approximately circularly in the center of the grouting hole in
+ﬁssure water with this test device (Figure 4). The diffusion radius decreased with an increase
+in the water pressure when the grouting amount was constant [45]. Zhang [54] used a
+
+Polymers 2022, 14, x FOR PEER REVIEW 5 of 18   memory polymer hydrogen bonding by changing the water content in ethanol/water mix-tures. In addition, the humidity had a significant effect on the viscoelastic mechanical properties [38] and dimensional changes [39,40] in rigid polyurethane foam. Moreover, trace amounts of water can be used as chain extenders to improve the molecular weight and mechanical properties of polyurethane prepolymers [41]. 3. The Diffusion of Polyurethane Grout in Water Environment 3.1. Experimental Studies of Polyurethane Grout Diffusion  Polyurethane foam materials are widely used in engineering due to their good scour resistance when used as a grouting material [42]. In practical engineering applications, polyurethane foam materials are injected into the repair area in the form of grout. Before forming, the grout comes into contact with the repair area, and then it is solidified and formed after a period of time. Polyurethane foam materials have different diffusion be-haviors in different media and are characterized by sheet-splitting diffusion in the soil. Figure 3 shows the form and dimensions of foam spreading through soil fissures of dif-ferent widths [43]. Figure 3a shows foam spreading through a 20 mm crack, whereas Fig-ure 3b shows that the foam can fill much smaller cracks. In general, the wider the crack, the farther the polyurethane foam diffuses, as shown in Figure 3a, where foam dendrites form at the soil foam interface. The diffusion characteristics of cleavage and penetration cementation exist in the dry sand layer, which forms a curing body that is thick at the center and thin on both sides [44]. The experiment and simulation calculation of fracture grouting were applied to study the diffusion form of polyurethane in anhydrous rock. It was found that the polyurethane grout diffused concentrically, and the diffusion rate de-creased continuously [45,46]. The diffusion form and range of polyurethane grout directly affect the strength of polyurethane foam after molding. Therefore, it is of practical signif-icance to study the diffusion characteristics of polyurethane grout to enhance the control-lability of grouting.    (a) (b) Figure 3. (a) View of foam formed in the ground; (b) view of foam injected soil specimen. Repro-duced from [43], with permission from Elsevier, 2008. The above studies were aimed at the changes in the properties of polyurethane foam materials in dry environments. In the application of practical engineering, polyurethane grout was used in a complex service environment. The diffusion behavior of polyurethane grouting in water-bearing cracks was affected by groundwater pressure and groundwater temperature [45]. The research object of grout diffusion under the influence of dynamic water was constant density grout in several studies [47–51]. The first domestic and foreign dynamic water grouting model test bench was developed in 2008. The test bench per-formed fissure dynamic water environment simulation and conducted fissure dynamic Polymers 2022, 14, 5099
+
+6 of 17
+
+concrete slab to simulate dam cracks for a water penetration model test and established
+the relationship between grouting pressure, fracture characteristics and slurry diffusion
+It was observed that the pressure ﬁeld change in the grouting–water system
+radius.
+could be divided into three stages. The pressure sharply increased under the driving and
+transmission of grouting pressure in the ﬁrst stage. The ﬂow ﬁeld pressure increased
+in the second stage due to the secondary pressure caused by the foam expansion of the
+polyurethane grouting. Finally, the slurry stopped diffusion in the third stage [55].
+
+Figure 4. Change in ﬂow-ﬁeld pressure and grout diffusion morphology with time. (a) The end of the
+static pressure injection stage was set as the initial time (0 s) at which the initial diffusion radius was
+deﬁned. (b) The shape of grout diffusion for 10 s. (c) The shape of grout diffusion for 20 s. (d) The
+shape of grout diffusion for 30 s. Scale bar is 0.1 cm. Reproduced from [45], with permission from
+Elsevier, 2021.
+
+3.2. Diffusion Mechanism of Polyurethane Grout
+
+According to the different rheological types of grout, the grouting diffusion theories
+of the fractured rock mass can be divided into the Newton and Bingham grout diffusion
+theories [56–58]. The ﬂuidity of a Newtonian grout depends only on its viscosity, which is
+constant at a certain pressure and temperature. The grouting material is an organic grouting
+material. Its viscosity gradually changes with time, and it has a viscosity-time-varying
+characteristic. The diffusion morphology and law are different from those of conventional
+grouting materials such as cement slurry and sodium silicate. It is a typical non-Newtonian
+ﬂuid. The Bingham ﬂuid model can determine the viscosity-time-varying characteristics
+of organic grouting materials, which are closely related to the properties of the grout [59].
+Liu [49] divided the diffusion of polyurethane grout into grouting diffusion and secondary
+expansion diffusion stages based on the Bingham ﬂuid model and deduced the diffusion
+radius of waterborne polyurethane in dynamic water.
+
+The grouting diffusion radius formula of the grouting diffusion stage is as follows:
+
+
+
+
+
+
+t =
+
+(r−r0)2
+
+6η ln r
+r0
+(p0+pw−pc)·b2−τ0·b·(r−r0)
+2 ρw(ν cos θ)2
+
+pw = ± 1
+
+(3)
+
+The ﬁnal diffusion radius formula after grouting stops is as follows:
+
+Polymers 2022, 14, x FOR PEER REVIEW 6 of 18   water grouting sealing tests [52]. However, this research focused on cement grouting. Li [53] developed a model test device and test method for polymer fracture grouting under dynamic water conditions, which provided a more complete means for testing the diffu-sion characteristics of polymer fracture grouting under dynamic water conditions. It was found that polyurethane diffused approximately circularly in the center of the grouting hole in fissure water with this test device (Figure 4). The diffusion radius decreased with an increase in the water pressure when the grouting amount was constant [45]. Zhang [54] used a concrete slab to simulate dam cracks for a water penetration model test and estab-lished the relationship between grouting pressure, fracture characteristics and slurry dif-fusion radius. It was observed that the pressure field change in the grouting–water system could be divided into three stages. The pressure sharply increased under the driving and transmission of grouting pressure in the first stage. The flow field pressure increased in the second stage due to the secondary pressure caused by the foam expansion of the pol-yurethane grouting. Finally, the slurry stopped diffusion in the third stage [55].  Figure 4. Change in flow-field pressure and grout diffusion morphology with time. (a) The end of the static pressure injection stage was set as the initial time (0 s) at which the initial diffusion ra-dius was defined. (b) The shape of grout diffusion for 10 seconds. (c) The shape of grout diffusion for 20 seconds. (d) The shape of grout diffusion for 30 s. Scale bar is 0.1 cm. Reproduced from [45], with permission from Elsevier, 2021. 3.2. Diffusion Mechanism of Polyurethane Grout  According to the different rheological types of grout, the grouting diffusion theories of the fractured rock mass can be divided into the Newton and Bingham grout diffusion theories [56–58]. The fluidity of a Newtonian grout depends only on its viscosity, which is constant at a certain pressure and temperature. The grouting material is an organic grouting material. Its viscosity gradually changes with time, and it has a viscosity-time-varying characteristic. The diffusion morphology and law are different from those of con-ventional grouting materials such as cement slurry and sodium silicate. It is a typical non-Newtonian fluid. The Bingham fluid model can determine the viscosity-time-varying characteristics of organic grouting materials, which are closely related to the properties of the grout [59]. Liu [49] divided the diffusion of polyurethane grout into grouting diffusion and secondary expansion diffusion stages based on the Bingham fluid model and deduced the diffusion radius of waterborne polyurethane in dynamic water. The grouting diffusion radius formula of the grouting diffusion stage is as follows: Polymers 2022, 14, 5099
+
+
+
+
+
+√
+
+R = r0eA
+eA − 1
+
+pw = ± 1
+
+1 + 2ω
+(cid:105)
+(cid:104) 6r0η
+τ0tb A − 1
+2 ρw(ν cos θ)2
+
+= b(p0+pw−pc)
+τ0r0
+
+7 of 17
+
+(4)
+
+In the formula: Pw—dynamic hydrostatic energy; adjacent diffusion considers “+”,
+countercurrent diffusion considers “−”; R—ﬁnal diffusion radius of slurry; t—grouting
+time; b—fracture opening; P0—injection pressure; Pc—hydrostatic pressure; ρw—density
+of water; ν—water ﬂow rate; r—diffusion radius during grouting process; r0—radius of
+grouting hole; τ0—shear yield stress of slurry; η—initial viscosity of slurry; ω—injected
+water expansion rate; and θ—angle between diffusion radius and hydrodynamic ﬂow
+direction.
+
+Numerical simulation is widely used in the study of polyurethane grout diffusion
+due to its simple advantages [48,60,61]. A numerical approach for simulating the grout
+diffusion with variable density in two-dimensional fracture was developed based on the
+computational ﬂuid dynamics theory, and the numerical solution of the two-phase ﬂow
+system of polymer and water was attained [62]. The Bingham constitutive model was
+applied to describe the grouting ﬂow behavior, and the numerical model was established
+to determine the effect of various grouting parameters on the grouting diffusion erosion
+process [48]. Statistical analysis demonstrated that the grouting effect under the same
+roughness and the ﬂow condition was related to the aperture variation coefﬁcient (COV).
+Hao [46] regarded the expansion and diffusion of polymer grout in water-ﬁlled cracks as
+the mutual displacement process between grout and water. A three-dimensional simulation
+method for the ﬂow and diffusion of self-expanding grout in ﬂat cracks was established
+based on the structured grid system. The diffusion characteristics of polymer grout were
+studied considering the grouting hole as the center; the diffusion of polymer grout in the
+cracks was approximately disk-shaped to uniform around.
+
+The abovementioned studies investigated the diffusion mechanism of polyurethane
+grout under the condition of ﬁssure dynamic water using theoretical formulas and numeri-
+cal simulation. The results demonstrated that the diffusion radius of polyurethane could
+be deduced using the Bingham grout diffusion theory, and its underwater diffusion was
+divided into the grouting diffusion and secondary expansion diffusion stages. However, at
+present, the diffusion model and theory of grouting materials under dynamic water cracks
+are mostly biased towards non-expansive grout such as cement, which cannot evaluate the
+diffusion characteristics of polymer grouting materials with self-expansion characteristics
+in cracks.
+
+4. Effect of Water Environment on the Polyurethane Foams Material’s Properties
+
+Multiple studies were conducted to evaluate the hygroscopic properties of com-
+posite polyurethane foam materials under an unpressurized water environment [63–69].
+Polyurethane foam materials are a multifunctional polymer compound that has been mainly
+used in water conservancy projects for anti-seepage reinforcement, pipeline insulation,
+and mechanical wear-resistant coating. Polyurethane foam materials are affected by water
+molecules due to the complexity of the engineering environment. Several studies demon-
+strated that the morphology, quality, and mechanical properties of polyurethane foam
+materials change in a humid environment. Polyurethane foam materials in the service state
+underwater are subjected to high water pressure when they are used as repair materials in
+deep water engineering, and moisture has a higher degree of penetration into the material
+along its internal micropores [70–72]. Additionally, the performance of polyurethane foam
+materials varies depending on the depth of the water environment [13].
+
+4.1. Effect of Water Environment on Moisture Absorption Rate and Volume Shrinkage of
+Polyurethane Foams
+
+Polyurethane foam materials have water swelling properties [73], and the change in
+the moisture absorption rate affects its water absorption performance. Sabbahi et al. [74–77]
+
+Polymers 2022, 14, 5099
+
+8 of 17
+
+conducted experiments on the water absorption of polyurethane foam using the gravimetric
+method. The polyurethane foam materials repeatedly adsorbed and desorbed water, and
+it was observed that the diffusion rate constantly changed. The absorption kinetics in the
+ﬁrst stage is slower than that after several soaking treatments. The diffusion rate during
+the ﬁrst immersion was low, and the material transfer coefﬁcient on the surface of the
+ﬁrst stage was limited. Mei [70] and Li [78] investigated the moisture absorption rate of
+reinforced polyurethane foam. It was observed that the diffusion of water in the material
+was rapid in the initial stage, and the diffusion rate decreased with the passage of time
+and ﬁnally reached saturation. Wang [79] investigated the durability of polyurethane
+foam materials using polyurethane foam soaked in water as a control group and studied
+the variation in the elastic modulus of polyurethane foam materials of different densities
+with soaking time. The elastic modulus of polyurethane foam samples ﬂuctuated near the
+initial value with an increase in the soaking time and did not signiﬁcantly change with
+soaking time. A few scholars [80–83] studied the physical properties of polyurethane foam
+materials in frozen soil environments and found that the water absorption increased with
+the increase in soaking time. Figure 5 summarizes the change in the moisture absorption
+rate of foam materials with soaking time. The study demonstrated that the moisture
+absorption rate of polyurethane foam materials gradually increased with an increase in
+the soaking time until saturation, and the moisture absorption rate rapidly increased in
+the initial stage. The change in the moisture absorption rate gradually decreased with the
+passage of time [84]. As can be seen from the ﬁgure, the moisture absorption rate was
+faster in Mei’s study [70] than in the other studies. Because Mei [70] adds a certain amount
+of hollow beads to polyurethane, the main component of hollow beads is polar material,
+and the speciﬁc surface area is large, so hollow beads are easy to absorb water. Water
+also has varying degrees of effect on the shrinkage of polyurethane foam materials. Water
+penetrates into the material during absorption and occupies the internal pores, reducing
+the crystallization rate of the material. This offsets the shear stress between a few molecules.
+Therefore, the shrinkage of polyurethane foam materials after water absorption is less than
+that before water absorption. Shi [85] and Lu [86] investigated the change in the volume of
+polyurethane foam materials with different densities before and after water absorption and
+observed that the volume of polyurethane foam materials decreased after water absorption,
+which is consistent with that of the abovementioned results.
+
+Figure 5. Variation curve of moisture absorption rate of polyurethane foam materials with soaking
+time [28,35,64,70,84].
+
+The moisture absorption rate of polyurethane foam materials is affected by several
+factors. Density is an important factor that affects the moisture absorption properties of
+polyurethane foam materials. High-density polyurethane foam materials have a dense
+interior and fewer pores, which results in higher moisture absorption than that of low-
+density polyurethane foam materials [85,87]. Additionally, temperature and humidity are
+
+Polymers 2022, 14, x FOR PEER REVIEW 9 of 18    Figure 5. Variation curve of moisture absorption rate of polyurethane foam materials with soaking time [28,35,64,70,84]. The moisture absorption rate of polyurethane foam materials is affected by several factors. Density is an important factor that affects the moisture absorption properties of polyurethane foam materials. High-density polyurethane foam materials have a dense in-terior and fewer pores, which results in higher moisture absorption than that of low-den-sity polyurethane foam materials [85,87]. Additionally, temperature and humidity are im-portant factors that affect material properties, wherein humidity is an important factor that leads to the aging reactions of polyurethane foam materials. The moisture absorption of polyurethane foam materials has been extensively studied in temperature and humid-ity environments. The water diffusion rate increases with increasing temperature and hu-midity, and the moisture absorption rate significantly increases with an increase in envi-ronmental temperature and humidity [78,88]. Additionally, the surface state of polyure-thane foam materials affects water absorption. Chen et al. [89] investigated the effect of the surface state of polyurethane foam on their water absorption rate. The results showed that the water absorption of the uncoated sample was 2.2%, while the water absorption of the coated sample was 0.1%. They observed that the water absorption rate was low when the metal film was coated on the surface of the foam material because the metal material had a very low water permeability, and it acted as a barrier layer to the foam. In addition, the moisture absorption rate of polyurethane changes with a change in the pore size and specific surface area [90]. 4.2. Effect of Water Environment on Mechanical Properties of Polyurethane Foams Water can considerably affect the mechanical properties of polyurethane foam mate-rials. Mourad [91] and Chou [92] evaluated the effect of moisture absorption of polyure-thane foam materials on their modulus of elasticity and strength. The change in the com-pressive properties of polyurethane foam materials can be neglected in a saline environ-ment. However, its flexural modulus and strength decrease [93]. Yang [94] studied the water absorption of polyurethane foam materials after soaking for 24 h and measured the compressive strength before and after water absorption. The results demonstrated that the compressive strength after water absorption was slightly lower than that before water absorption. However, the overall difference was low. Subsequently, in 2017, Lu [86] stud-ied the water absorption and compressive strength of polyurethane foam materials soaked for 96 h and observed that their compressive strength after water absorption was higher. The explanation for this phenomenon was that water molecules occupied the pores inside polyurethane foam materials and increased their strength. Liang [95] studied the compressive and flexural strength of polyurethane foam before and after water ab-sorption in 2019. With the change in water absorption time, it was observed that the com-pressive strength of liquid polymer foam was divided into two stages. The compressive Polymers 2022, 14, 5099
+
+9 of 17
+
+important factors that affect material properties, wherein humidity is an important factor
+that leads to the aging reactions of polyurethane foam materials. The moisture absorption
+of polyurethane foam materials has been extensively studied in temperature and humidity
+environments. The water diffusion rate increases with increasing temperature and humidity,
+and the moisture absorption rate signiﬁcantly increases with an increase in environmental
+temperature and humidity [78,88]. Additionally, the surface state of polyurethane foam
+materials affects water absorption. Chen et al. [89] investigated the effect of the surface state
+of polyurethane foam on their water absorption rate. The results showed that the water
+absorption of the uncoated sample was 2.2%, while the water absorption of the coated
+sample was 0.1%. They observed that the water absorption rate was low when the metal
+ﬁlm was coated on the surface of the foam material because the metal material had a very
+low water permeability, and it acted as a barrier layer to the foam. In addition, the moisture
+absorption rate of polyurethane changes with a change in the pore size and speciﬁc surface
+area [90].
+
+4.2. Effect of Water Environment on Mechanical Properties of Polyurethane Foams
+
+Water can considerably affect the mechanical properties of polyurethane foam materi-
+als. Mourad [91] and Chou [92] evaluated the effect of moisture absorption of polyurethane
+foam materials on their modulus of elasticity and strength. The change in the compres-
+sive properties of polyurethane foam materials can be neglected in a saline environment.
+However, its ﬂexural modulus and strength decrease [93]. Yang [94] studied the water
+absorption of polyurethane foam materials after soaking for 24 h and measured the com-
+pressive strength before and after water absorption. The results demonstrated that the
+compressive strength after water absorption was slightly lower than that before water
+absorption. However, the overall difference was low. Subsequently, in 2017, Lu [86] studied
+the water absorption and compressive strength of polyurethane foam materials soaked
+for 96 h and observed that their compressive strength after water absorption was higher.
+The explanation for this phenomenon was that water molecules occupied the pores inside
+polyurethane foam materials and increased their strength. Liang [95] studied the compres-
+sive and ﬂexural strength of polyurethane foam before and after water absorption in 2019.
+With the change in water absorption time, it was observed that the compressive strength
+of liquid polymer foam was divided into two stages. The compressive strength increased
+in the ﬁrst stage with an increase in soaking time, wherein the water penetrated the open
+pores of the polyurethane foam materials and ﬁlled the pores, which increased its strength.
+The compressive strength gradually decreased with an increase in the immersion time
+after the water saturation. The water destroyed the cell wall in this stage, which resulted
+in a decrease in the material strength. The former phenomenon was summarized and
+explained in this paper. Gibson and Ashby [96,97] studied the mechanical properties of
+foam materials. Studies have shown that the mechanical properties of the foam are related
+to the characteristics of its cell wall, which veriﬁes the accuracy of the above research.
+A few studies have been conducted on the effect of moisture absorption on the tensile
+strength of polyurethane foam materials. It was observed that the tensile strength and
+tensile modulus decreased with an increase in the moisture absorption time of polyurethane
+foam materials [91,95,98].
+
+4.3. Effect of Water Environment on Permeability of Polyurethane Foams
+
+Previous studies demonstrated that polyurethane grouting materials have a continu-
+ous self-contained skin and can attain greater than 95% of the high-strength interconnection
+wall closed pore with ideal impermeability, and its permeability coefﬁcient is approximately
+10−8 cm/s [43,99–101]. Okumura [102] conducted a water permeability test on rutted slabs
+after polymer repair to verify the waterprooﬁng effect of polymer adhesion. However,
+these studies did not provide test methods and relevant test data.
+
+In 1966, Gent [103] performed experimental and theoretical research on the perme-
+ability of ordinary polyurethane I and membrane-free polyurethane II. The porosity of
+
+Polymers 2022, 14, 5099
+
+10 of 17
+
+each foam was calculated according to the volume density of the foam and the density of
+the matrix material, which was approximately 0.97. The relationship between the perme-
+ability and average pore diameter was obtained by experiments. However, the seepage
+pressure of polyurethane foam materials was not provided. Xin [104] investigated the per-
+meability of composite material and observed that it had optimum water retention capacity.
+Mondal [105] studied the water resistance of rigid polyurethane foam by simulation, dis-
+cussed the effect of sample size, different rupture strength functions, average cell number,
+the minimum distance between cells, cell volume distribution, different assumptions of
+rupture strength and random distribution of window rupture strength on the hydraulic
+resistance of the model foam, and experimentally veriﬁed the results. Wang [106] and
+Zhang [54] investigated the permeability properties of polyurethane foam materials with
+densities in the range of 0.11–0.61 g/cm3 and observed that the permeability resistance
+of polymeric materials increased with an increase in the density of polymeric materials.
+The test results are shown in Figure 6; however, because they employed the permeability
+evaluation method of hydraulic concrete, they were unsuitable for polyurethane foam
+materials. Subsequently, permeation tests were conducted using Global Digital Systems
+(GDS) pressure controllers in Rowe cells on polyurethane foams with a density in the range
+of 37–145 kg/m3 and investigated the relationship between polyurethane foam materials
+density and permeability at a pressure of 25 kPa [43]. It was observed that the permeability
+of polyurethane foam in this density range varied in the range of 10−8–10−9, and the
+uniform material with a large density did not allow the ﬂow of water due to the closed
+pore structure of the material. Although the tensile strength and elongation at break of
+polyurethane foam materials soaked in water, acid, and alkali solution for a long time
+exhibited a decreasing trend, it exhibited good impermeability [107]. The abovementioned
+studies have experimentally and theoretically proved that polyurethane foam materials
+have good impermeability, which can be applied to anti-seepage and leakage compensation
+in practical engineering.
+
+Figure 6. Polyurethane seepage pressure versus density [54,106].
+
+4.4. Moisture Absorption Mechanism of Polyurethane Foams
+
+The physical and mechanical properties of polyurethane foam materials are closely
+related to their microstructure. Hence, a qualitative and quantitative analysis of the polymer
+microstructure is crucial. Polyurethane foam materials can be considered three-dimensional
+foam material according to the stacking pattern of the foam body and the characteristics of
+the cell surface and cell edge [5,108]. The corresponding micromechanical model can be
+obtained by studying the cell wall and cell pore size of polyurethane foam [109]. At present,
+the analysis of the moisture absorption mechanism of polyurethane foam materials mainly
+observes the change in the polyurethane foam after water treatment through microscopic
+experiments. Liang [95] selected specimens before and after water absorption and observed
+
+Polymers 2022, 14, x FOR PEER REVIEW 11 of 18    Figure 6. Polyurethane seepage pressure versus density [54,106]. 4.4. Moisture Absorption Mechanism of Polyurethane Foams The physical and mechanical properties of polyurethane foam materials are closely related to their microstructure. Hence, a qualitative and quantitative analysis of the poly-mer microstructure is crucial. Polyurethane foam materials can be considered three-di-mensional foam material according to the stacking pattern of the foam body and the char-acteristics of the cell surface and cell edge [5,108]. The corresponding micromechanical model can be obtained by studying the cell wall and cell pore size of polyurethane foam [109]. At present, the analysis of the moisture absorption mechanism of polyurethane foam materials mainly observes the change in the polyurethane foam after water treat-ment through microscopic experiments. Liang [95] selected specimens before and after water absorption and observed that the vesicle wall of liquid-containing foam was se-verely damaged. This was due to the immersion of the foam material in water. The water in the bubble structure of the specimens initially destroyed the bubble wall. A few scholars [86,89] analyzed the water absorption and desorption mechanism of foam materials from the perspective of bubble structure. Figure 7 shows the water penetration and cell expan-sion of the foam after different soaking times [69]. Lu [86] observed the vesicles of polyu-rethane foam materials before and after water absorption using scanning electron micros-copy and divided the diffusion of water in polymers into the following three parts: diffu-sion of water on the surface of materials; diffusion of water in closed pores; and the diffu-sion of water in fractured pores. The diffusion of water in the above three aspects did not have a distinct order because a few bubbles deformed and collapsed during the foaming process, which resulted in the rupture of the pore wall to form cracks or holes, and the location of these cracks and holes were randomly distributed.  Polymers 2022, 14, 5099
+
+11 of 17
+
+that the vesicle wall of liquid-containing foam was severely damaged. This was due to the
+immersion of the foam material in water. The water in the bubble structure of the specimens
+initially destroyed the bubble wall. A few scholars [86,89] analyzed the water absorption
+and desorption mechanism of foam materials from the perspective of bubble structure.
+Figure 7 shows the water penetration and cell expansion of the foam after different soaking
+times [69]. Lu [86] observed the vesicles of polyurethane foam materials before and after
+water absorption using scanning electron microscopy and divided the diffusion of water
+in polymers into the following three parts: diffusion of water on the surface of materials;
+diffusion of water in closed pores; and the diffusion of water in fractured pores. The
+diffusion of water in the above three aspects did not have a distinct order because a few
+bubbles deformed and collapsed during the foaming process, which resulted in the rupture
+of the pore wall to form cracks or holes, and the location of these cracks and holes were
+randomly distributed.
+
+Figure 7. Optical micrographs of inner cross sections of the foam after 6 and 12 months of immersion.
+Scale bar is 0.5 mm. Reproduced from [69], with permission from Elsevier, 2014.
+
+Braun [110] used magnetic resonance imaging to study the water absorption of
+polyurethane foam. He conducted non-destructive and three-dimensional monitoring and
+analysis of the liquid absorption behavior of different parts of the material. Cnudde [111]
+applied high-speed neutron probing to the study of ﬂuid absorption in porous materials
+and obtained optimum results. Pilli [112] measured the diffusion of water in polyurethane
+foam materials using the nuclear reaction analysis (NRA) technique. Idolor et al. [113]
+proposed a damage detection technique for polymer composites using naturally absorbed
+water as an imaging reagent to analyze the interaction and damage correlation lag be-
+tween polymer and water. Wang [114] analyzed the mechanism of water damage at the
+interface between polyurethane and rock using surface free energy (SFE) theory. X-ray
+microscopy [115], digital imaging correlation (DIC), acoustic emission (AE) [116], and the
+ﬂuorescence probe in situ ﬂuorescence method [117] can monitor the moisture absorption
+and damage mechanism of polyurethane foam materials.
+
+The diffusion of small molecules in polyurethane foam materials can be studied by
+adsorption kinetics. Hakala [117] obtained the water absorption quality of polyurethane
+foam materials by using the integral Equation (5):
+
+Mt
+M∞
+
+= 1 −
+
+8
+π2
+
+∞
+∑
+n=0
+
+1
+(2n + 1)2 exp
+
+(cid:34)
+
+(cid:35)
+
+−D(2n + 1)2π2t
+l2
+
+(5)
+
+where Mt is the moisture absorption rate of the sample at t time, M∞ is the moisture
+absorption rate when the sample reaches saturation, D is the diffusion coefﬁcient, and l is
+the sample thickness.
+
+Polymers 2022, 14, x FOR PEER REVIEW 11 of 18    Figure 6. Polyurethane seepage pressure versus density [54,106]. 4.4. Moisture Absorption Mechanism of Polyurethane Foams The physical and mechanical properties of polyurethane foam materials are closely related to their microstructure. Hence, a qualitative and quantitative analysis of the poly-mer microstructure is crucial. Polyurethane foam materials can be considered three-di-mensional foam material according to the stacking pattern of the foam body and the char-acteristics of the cell surface and cell edge [5,108]. The corresponding micromechanical model can be obtained by studying the cell wall and cell pore size of polyurethane foam [109]. At present, the analysis of the moisture absorption mechanism of polyurethane foam materials mainly observes the change in the polyurethane foam after water treat-ment through microscopic experiments. Liang [95] selected specimens before and after water absorption and observed that the vesicle wall of liquid-containing foam was se-verely damaged. This was due to the immersion of the foam material in water. The water in the bubble structure of the specimens initially destroyed the bubble wall. A few scholars [86,89] analyzed the water absorption and desorption mechanism of foam materials from the perspective of bubble structure. Figure 7 shows the water penetration and cell expan-sion of the foam after different soaking times [69]. Lu [86] observed the vesicles of polyu-rethane foam materials before and after water absorption using scanning electron micros-copy and divided the diffusion of water in polymers into the following three parts: diffu-sion of water on the surface of materials; diffusion of water in closed pores; and the diffu-sion of water in fractured pores. The diffusion of water in the above three aspects did not have a distinct order because a few bubbles deformed and collapsed during the foaming process, which resulted in the rupture of the pore wall to form cracks or holes, and the location of these cracks and holes were randomly distributed.  Polymers 2022, 14, 5099
+
+12 of 17
+
+At the initial stage of moisture absorption, both absorption and desorption curves are
+
+functions of t1/2, so Equation (5) can be simpliﬁed to:
+
+Mt
+M∞
+
+=
+
+(cid:18) D
+π
+
+4
+l
+
+(cid:19)1/2
+
+t1/2
+
+(6)
+
+The theoretical data of diffusion coefﬁcient obtained by the traditional one-dimensional
+diffusion numerical model are not universal. Therefore, ref. [118] studied the diffusion
+of water in rigid polyurethane foam materials from the static and dynamic aspects by
+dissolving soluble NaCl in water and determining the correlation between the change in
+impedance spectroscopy resistance value and the microscopic diffusion. The mechanism
+of water collapse diffusion was proposed by combining it with the dynamic diffusion
+results of water on the surface and inside the foam system (Figure 8). The water molecules
+gradually expanded to form a ﬁlm with an increase in adsorption, and the thickness of the
+ﬁlm increased with an increase in water absorption. The ruptured ﬁlm collapsed into the
+next layer when the water weight reached the yield point of the ﬁlm. Finally, the water
+reached the bottom layer of the foam.
+
+Figure 8. Diffusion process of water in a foam.
+
+The abovementioned studies demonstrated that water damages the internal bubbles
+of polyurethane foam materials, which affects the performance of polyurethane foam
+materials. However, polyurethane foam materials include open and closed pores. Therefore,
+water cannot enter the closed pores when the water pressure is insufﬁcient and can only
+damage the open pores. The research conducted on polyurethane foam materials in the
+water environment has focused on parameters such as hygroscopicity or impermeability.
+The abovementioned research demonstrates that polyurethane foam materials have good
+water pressure resistance in different environments. However, a uniform speciﬁcation was
+absent for this aspect in the existing literature, and the test methods and equipment were
+different. Moreover, polyurethane should be in a state of multi-axial water pressure when
+it is used as a repair material in deep water engineering. However, a detailed study on
+this aspect has not been conducted. Moreover, a few studies have been conducted on the
+change in the water absorption process (cell diameter) in the existing literature. However,
+the overall moisture absorption capacity of the system has not been evaluated.
+
+5. Conclusions
+
+Polyurethane foam materials are widely used in various ﬁelds due to their light
+weight, high strength, and good durability. It is used in construction industries such as
+water conservancy roadbeds as a repair material due to its short reaction time and high
+expansion. The methods, contents, and results of the research on the effect of water on the
+performance of polyurethane foam materials are summarized using three aspects: effect
+of water content on polyurethane foam materials preparation, moisture absorption of
+polyurethane foam, and polyurethane foam materials performance in a water environment.
+The literature was reviewed as follows:
+
+(1) The polyurethane foaming reaction is enhanced when water is used as a foaming
+agent, but the density, as well as the mechanical properties, such as tensile and compres-
+
+Polymers 2022, 14, x FOR PEER REVIEW 12 of 18   Figure 7. Optical micrographs of inner cross sections of the foam after 6 and 12 months of immer-sion. Scale bar is 0.5 mm. Reproduced from [69], with permission from Elsevier, 2014. Braun [110] used magnetic resonance imaging to study the water absorption of pol-yurethane foam. He conducted non-destructive and three-dimensional monitoring and analysis of the liquid absorption behavior of different parts of the material. Cnudde [111] applied high-speed neutron probing to the study of fluid absorption in porous materials and obtained optimum results. Pilli [112] measured the diffusion of water in polyurethane foam materials using the nuclear reaction analysis (NRA) technique. Idolor et al. [113] proposed a damage detection technique for polymer composites using naturally absorbed water as an imaging reagent to analyze the interaction and damage correlation lag be-tween polymer and water. Wang [114] analyzed the mechanism of water damage at the interface between polyurethane and rock using surface free energy (SFE) theory. X-ray microscopy [115], digital imaging correlation (DIC), acoustic emission (AE) [116], and the fluorescence probe in situ fluorescence method [117] can monitor the moisture absorption and damage mechanism of polyurethane foam materials. The diffusion of small molecules in polyurethane foam materials can be studied by adsorption kinetics. Hakala [117] obtained the water absorption quality of polyurethane foam materials by using the integral Equation (5): 22220281(2n1)1exp(2n1)tnMDtMlππ∞=∞−+=−+ (5) where 𝑀(cid:3047) is the moisture absorption rate of the sample at t time, 𝑀(cid:2998) is the moisture absorption rate when the sample reaches saturation, D is the diffusion coefficient, and 𝑙 is the sample thickness. At the initial stage of moisture absorption, both absorption and desorption curves are functions of 𝑡(cid:2869)/(cid:2870), so Equation (5) can be simplified to: 1/21/24tMDtMlπ∞= (6) The theoretical data of diffusion coefficient obtained by the traditional one-dimen-sional diffusion numerical model are not universal. Therefore, ref. [118] studied the diffu-sion of water in rigid polyurethane foam materials from the static and dynamic aspects by dissolving soluble NaCl in water and determining the correlation between the change in impedance spectroscopy resistance value and the microscopic diffusion. The mecha-nism of water collapse diffusion was proposed by combining it with the dynamic diffu-sion results of water on the surface and inside the foam system (Figure 8). The water mol-ecules gradually expanded to form a film with an increase in adsorption, and the thickness of the film increased with an increase in water absorption. The ruptured film collapsed into the next layer when the water weight reached the yield point of the film. Finally, the water reached the bottom layer of the foam.  Figure 8. Diffusion process of water in a foam. Polymers 2022, 14, 5099
+
+13 of 17
+
+sive strength, is gradually reduced with an increase in the amount of water. Due to the
+hydrophilic nature of the polymer chain in the polyurethane foam materials, it can absorb
+a large amount of water, resulting in the gradual transformation of the consolidation from
+a porous bubble to a gelatin, so the gelation time of the hydrophilic polyurethane slurry
+gradually increases with the increase in water content;
+
+(2) The diffusion of polyurethane grouting under water is divided into the grouting
+diffusion stage and the secondary expansion diffusion stage. The diffusion characteristics
+are centered on the grouting hole and uniformly diffused around the crack in a disk shape;
+(3) The moisture absorption rate gradually increases with an increase in the water
+immersion time until saturation when polyurethane foam is in the water environment.
+Additionally, the shrinkage rate is reduced, and the compressive strength initially increases
+and subsequently decreases. This is observed because water ﬁlls the open pores when it
+enters the polyurethane foam materials, which increases the strength and subsequently
+damages the walls of the bubble pores, which reduces the strength.
+
+The challenges for the application of polyurethane foam materials are as follows:
+(1) At present, the research on the moisture absorption performance of polyurethane
+foam materials mostly focuses on macroscopy, microscopic and microscopic research and
+lacks a complete moisture absorption evaluation system;
+
+(2) Polyurethane foam materials are subjected to multi-axial water pressure when it
+is used in deep water projects. However, the study conducted on the water pressure of
+polyurethane foam has not considered the effect of multi-axial water pressure;
+
+(3) The change in the performance of polyurethane foam materials in the water envi-
+ronment lacks a complete system. An analytical and in-depth discussion on the fracture
+mechanism of water affecting polyurethane foam materials has not been performed.
+
+Author Contributions: Conceptualization, methodology, investigation, data curation, validation, and
+writing—original draft preparation, J.W.; formal analysis, data curation, and writing—review and
+editing, S.G.; resources and writing—review and editing, C.Z.; supervision and writing—review and
+editing, Y.D. and P.Z. All authors have read and agreed to the published version of the manuscript.
+
+Funding: This research was supported by the National Key R&D Program of China (2022YFC3004401);
+Open Research Fund Program of State Key Laboratory of Hydroscience and Engineering (sklhse-
+2022-C-01); National Natural Science Foundation of China (52179145); Scientiﬁc and Technological
+Research Project in Henan Province (N0.222300420081); Program for Science and Technology Innova-
+tion Talents in Universities of Henan Province, China (No. 23HASTIT007).
+
+Institutional Review Board Statement: Not applicable.
+
+Acknowledgments: The authors gratefully acknowledge the support provided by the above funding.
+
+Conﬂicts of Interest: The authors declare no conﬂict of interest.
+
+References
+
+1.
+
+Cheng, Z.; Li, Q.T.; Yan, Z.; Liao, G.F.; Zhang, B.X.; Yu, Y.M.; Yi, C.F.; Xu, Z.S. Design and synthesis of novel aminosiloxane
+crosslinked linseed oil-based waterborne polyurethane composites and its physicochemical properties. Prog. Org. Coat. 2019, 127,
+194–201. [CrossRef]
+
+2. Wu, G.M.; Di, L.; Jian, C.; Liu, G.F.; Kong, Z.W. Preparation and properties of super hydrophobic ﬁlms from siloxane-modiﬁed
+
+two-component waterborne polyurethane and hydrophobic nano SiO2. Prog. Org. Coat. 2019, 127, 80–87. [CrossRef]
+
+3. Mwema, M.F.; Njuguna, J.; Muchiri, P.; Karuri, N.; Herzog, T.M.; Dimitrov, K. Determination of Thermo-Mechanical Properties of
+
+Recycled Polyurethane from Glycolysis Polyol. Int. J. Manuf. Mater. Mech. Eng. IJMMME 2021, 11, 75–87. [CrossRef]
+
+4. Naudts, A. Irreversible changes in the grouting industry caused by polyurethane grouting: An overview of 30 years of
+
+polyurethane grouting. Geotech. Spec. Publ. 2003, 120, 1266–1280. [CrossRef]
+Gibson, J.L.; Ashby, F.M. Cellular Solids: Structure and Properties; Cambridge University Press: Cambridge, UK, 1997; p. 510.
+5.
+6. Han, Q.; Zhang, P.; Wu, J.; Jing, Y.; Zhang, D.; Zhang, T. Comprehensive review of the properties of ﬂy ash-based geopolymer
+
+7.
+
+with additive of nano-SiO2. Nanotechnol. Rev. 2022, 11, 1478–1498. [CrossRef]
+Zhang, P.; Gao, Z.; Wang, J.; Guo, J.; Wang, T. Inﬂuencing factors analysis and optimized prediction model for rheology and
+ﬂowability of nano-SiO2 and PVA ﬁber reinforced alkali-activated composites. J. Clean Prod. 2022, 366, 132988. [CrossRef]
+
+Polymers 2022, 14, 5099
+
+14 of 17
+
+9.
+
+8.
+
+Zhang, P.; Kang, L.; Zheng, Y.; Zhang, T.; Zhang, B. Inﬂuence of SiO2 /Na2O molar ratio on mechanical properties and durability
+of metakaolin-ﬂy ash blend alkali-activated sustainable mortar incorporating manufactured sand. J. Mater. Res. Technol. 2022, 18,
+3553–3563. [CrossRef]
+Shi, M.S. Research on the Characteristics of Polymer Injection Paddle Material and The Mechanism of Directional Splitting Paddle
+Injection for Dyke. Ph.D. Thesis, Dalian University of Technology, Dalian, China, 2011.
+Shi, M.; Yu, D.; Wang, F. Bending properties of a polymer grout. J. Mater. Sci. Eng. 2010, 28, 514–517. [CrossRef]
+10.
+11. Wang, F.; Shi, M.; Guo, C.; Chen, H. Polymers Anchor Grouting Method. CN Patent 103215952A, 24 July 2013.
+12. Bian, X.; Chen, C.; Wang, F. Experimental Study on Dynamic Performance and Long-Term Durability of High-Speed Railway
+Subgrade Rehabilitated by Polymer Injection Technology Polymers Anchor Grouting Method. Chin. J. Geotech. Eng. 2014, 36,
+562–568. [CrossRef]
+
+13. Xu, J.; Hu, H.; Zhong, Y.H. Numerical Analysis on Underground Pipe Settlement and Vacancy R Epairing with Polymer Injection.
+
+Chin. J. Undergr. Space Eng. 2017, 13, 1165–1172.
+
+14. Guo, C.; Wang, F. Research on Polymer Injection Technology for Quick Tunnel Repairment. In Proceedings of the GeoHunan
+
+International Conference, Changsha, China, 3–6 August 2009; pp. 110–117. [CrossRef]
+
+15. Kuang, R.; Zang, F.Y.; Zhang, A.Q.; Xie, H. Synthetic routes to ﬂame retardant isocyanurate of rigid polyurethane foams. IOP
+
+Conf. Ser. Mater. Sci. Eng. 2019, 479, 012105. [CrossRef]
+Song, B.; Wei, Y.X.; Xie, Y.; Tong, J. Preparation of water-blown rigid polyurethane foams. Polyurethane Ind. 2002, 17, 32–34.
+16.
+17. Han, H.J.; Ding, X.J.; Zhang, L.J.; Zhang, D.Q. Research on the effect of H2O on the properties of the rigid polyurethane foam.
+
+Eng. Plast. Appl. 2011, 39, 18–20. [CrossRef]
+
+18. Li, X.B.; Cao, H.B.; Zhang, Y. Structures and physical properties of rigid polyurethane foams with water as the sole blowing agent.
+
+Sci. China Ser. B Chem. 2006, 49, 363–370. [CrossRef]
+
+19. Du, F.; Xiang, S.L.; Zhou, T.; Zhou, W.W.; Zhang, W.G.; Duan, J.W. Effects of chemical foaming agent on properties of oil-absorbing
+
+20.
+
+polyurethane foam. Plastics 2014, 43, 71–74.
+Song, W.S.; Li, H.; Zheng, Z.; Zheng, Y.L.; Li, P. Effects of water content on the process, properties and microstructure of
+polyurethane microcellular elastomers. China Elastomer. 2009, 19, 1–4. [CrossRef]
+
+21. Han, J.; Ren, H.T.; Li, T.T.; Liu, B.B.; Lou, J.W. Inﬂuence of water content on the properties of sandwich polyurethane foam. China
+
+Plast. 2018, 32, 20–25. [CrossRef]
+
+22. Wang, Z.J.; Ma, C.Y.; Zhang, C.Y.; Li, X.H.; Duan, S.L.; Chen, M.J. Study on all water foaming of rigid polyurethane foam and
+
+design of high-performance formula. IOP Conf. Ser. Earth Environ. Sci. 2020, 446, 22082. [CrossRef]
+
+23. An, M.; Chen, X.G.; Hou, G.X.; Sang, X.M. Effect of water on cellular structure and properties of rigid polyurethane-imide foams.
+
+J. Mater. Eng. 2013, 3, 39–44. [CrossRef]
+
+24. Li, X.; Cao, H.; Zhang, Y. Progress of Research on Rigid Polyurethane Foams with Water as the Sole Foaming Agent. China Plast.
+
+2004, 18, 1–4. [CrossRef]
+
+25. Chen, T.; Du, H.J.; Mi, Y.; Gao, Z.H. Effect of water levels on morphologies and mechanical properties of water-blown polyurethane.
+
+Polym. Mater. Sci. Eng. 2012, 28, 67–71. [CrossRef]
+
+26. Liang, J.C.; Lin, L.; Li, Y.; Ma, Y.; Yang, F.; Song, P. Effect of dosage of water on the characteristics of water blown polyurethane
+
+foam. Polym. Mater. Sci. Eng. 2010, 26, 40–43. [CrossRef]
+
+27. Ye, H.M.; Hou, K.; Zhou, Q. Improve the Thermal and Mechanical Properties of Poly(L-lactide) by Forming Nanocomposites
+
+with Pristine Vermiculite. Chin. J. Polym. Sci. 2016, 36, 1–12. [CrossRef]
+
+28. Zhao, X. Study on A Kind of Polyether Polyol and Polyurethane Waterproof Grouting Material Prepared with It. Chem. Propellants
+
+Polym. Mater. 2021, 19, 46–51. [CrossRef]
+
+29. Li, C.L.; Jiang, D.Y.; Jiang, X.X. Preparation and properties of solvent–free polyurethane grouting material. China Elastomer. 2021,
+
+31, 55–58. [CrossRef]
+
+30. Wang, H.; Li, H.L.; Han, J.L. Discussion of the gel time of water-soluble polyurethane grouting material. Mod. Plast. Process. Appl.
+
+31.
+
+2017, 29, 27–29. [CrossRef]
+Ioannis, T.; Georgia, S.; Eleni, P.; Costas, P. Foaming of polymers with supercritical ﬂuids: A thermodynamic investigation. J.
+Supercrit. Fluids 2016, 110, 240–250. [CrossRef]
+
+32. Nie, Y.N.; Yu, F.; Ye, S.J.; Gu, K.P.; Wang, C.Q. Preparation and application of two components polyurethane grouting for water
+
+plugging and reinforcement. Resin 2018, 33, 38–41. [CrossRef]
+
+33. Wei, H.L.; Li, H.L.; Han, J.L.; Zhang, T.; Wei, K. Preparation of one-component water-soluble polyurethane plugging grouting
+
+material. China Adhes. 2016, 25, 25–28.
+
+34. Luo, Z.; Tao, C.; Han, X.X.; Bao, J.J.; Cheng, Q.; Huang, Y.P.; Xu, G.W. Effect of water content on the aggregation and adhesion
+
+properties of waterborne polyurethane. J. Chem. Eng. Chin. 2017, 31, 641–649. [CrossRef]
+
+35. Zheng, X.G.; Liu, Y.X.; Zhang, J.Y.; Ren, L.; Wang, W.M. Effect of Cellular Structure on Mechanical Properties of Polyurethane
+
+36.
+
+Foam Curing Materials. J. Wuhan Univ. Technol. Mater. Sci. Ed. 2019, 34, 1371–1375. [CrossRef]
+Francesco, D.; Giorgio, B.; Francesco, B.; Sara, S.; Alessandra, R. Experimental assessment of the water content inﬂuence on
+thermo-acoustic performance of building insulation materials. Constr. Build. Mater. 2018, 158, 264–274. [CrossRef]
+
+37. Lu, H.; Wei, M.H.; Fu, Y.Q.; Leng, J. Quantitative separation of the inﬂuence of hydrogen bonding of ethanol/water mixture on
+the shape recovery behavior of polyurethane shape memory polymer. Smart Mater. Struct. 2014, 23, 311–320. [CrossRef]
+
+Polymers 2022, 14, 5099
+
+15 of 17
+
+38. Wei, X.W.; Li, M.; Zhou, X.Y.; Wang, Y.; Li, J.M. Inﬂuence of humidity on viscoelastic behavior of glass reinforced rigid
+
+polyurethane syntactic foam. Acta Mater. Compos. Sin. 2013, 30, 218–222. [CrossRef]
+
+39. Yang, J.B.; Zhang, W.R. Study on the humidity expansion property of PURF. Polyurethane Ind. 2009, 24, 9–12. [CrossRef]
+40. Zhan, M.S.; Xu, X.Q.; Pan, L.Y. Effect of water blowing agent on structures and properties of polyimide foams. J. Aeronaut. Mater.
+
+41.
+
+2010, 30, 55–60. [CrossRef]
+Jiang, Y.X.; Cheng, X.; Wu, Y.; Du, Z.L. Effects of trace water on the structure and dissolving capacity of polyurethane prepolymer.
+J. Funct. Mater. 2013, 44, 1538–1542. [CrossRef]
+
+42. Yuan, J.Q.; Chen, W.Z.; Tan, X.J.; Yang, D.S.; Zhang, Q.Y. New Method to Evaluate Antiwashout Performance of Grout for
+
+Preventing Water-Inrush Disasters. Int. J. Geomech. 2020, 20, 6019021. [CrossRef]
+
+43. Buzzi, O.; Fityus, S.; Sasaki, Y.; Sloan, S. Structure and properties of expanding polyurethane foam in the context of foundation
+
+remediation in expansive soil. Mech. Mater. 2008, 40, 1012–1021. [CrossRef]
+
+44. Guo, C.; Hu, D.; Wang, F. Diffusion Behavior of Polymer Grouting Materials in Sand and Gravel. Soil Mech. Found. Eng. 2021, 57,
+
+440–444. [CrossRef]
+
+45. Li, X.L.; Hao, M.M.; Zhong, Y.H.; Zhang, B.; Wang, F.M.; Wang, L.B. Experimental study on the diffusion characteristics of
+
+polyurethane grout in a fracture. Constr. Build. Mater. 2020, 273, 121711. [CrossRef]
+
+46. Hao, M.M.; Wang, F.M.; Li, X.L.; Zhang, B.; Zhong, Y.H. Numerical and Experimental Studies of Diffusion Law of Grouting with
+
+Expansible Polymer. J. Mater. Civ. Eng. 2018, 30, 4017290. [CrossRef]
+
+47. Zheng, Z.; Yang, H.L.; Gao, Y. Mechanism of grout diffusion in single ﬂat fracture with dynamic water. J. Basic Sci. Eng. 2022, 30,
+
+154–165. [CrossRef]
+
+48. Wang, Y.; Yang, P.; Li, Z.; Wu, S.; Zhao, Z. Experimental-numerical investigation on grout diffusion and washout in rough rock
+
+fractures under ﬂowing water. Comput. Geotech. 2020, 126, 103717. [CrossRef]
+
+49. Liu, X.F.; Wang, J.G.; Huang, K.; Li, F.Y. Experimental Study on Dynamic Water Grouting of Modiﬁed Water-Soluble Polyurethane.
+
+50.
+
+KSCE J. Civ. Eng. 2019, 23, 3897–3906. [CrossRef]
+Sui, W.H.; Liu, J.Y.; Hu, W.; Qi, J.F.; Zhan, K.Y. Experimental investigation on sealing efﬁciency of chemical grouting in rock
+fracture with ﬂowing water. Tunn. Undergr. Space Technol. 2015, 50, 239–249. [CrossRef]
+
+51. Hang, B.L.; Tae-Min, O.; Eui-Seob, P.; Jong-Won, L.; Hyung-Mok, K. Factors affecting waterproof efﬁciency of grouting in single
+
+rock fracture. Geomech. Eng. 2017, 12, 771–783. [CrossRef]
+
+52. Yu, W.S.; Li, P.; Zhang, X.; Wang, Q. Model test research on hydrodynamic grouting for single fracture with variable inclinations.
+
+Rock Soil Mech. 2014, 35, 2137–2143. [CrossRef]
+
+53. Li, X.L.; Zhong, Y.H.; Zhang, B.; Zhao, P.; Hao, M.M. Model Test Device and Test Method of Polymer Fissure Grouting under
+
+Hydrodynamic Pressure. CN Patent 109342274A, 15 February 2019.
+
+54. Zhang, X.J.; Wang, C.J.; Tian, H.; Shi, M.S. Interface Bonding Properties between Nonwater Reaction Polyurethane Polymer
+
+Materials and Concrete. Adv. Mater. Sci. Eng. 2021, 23, 3897–3906. [CrossRef]
+
+55. Hao, M.M.; Li, X.L.; Zhong, Y.H.; Bei, Z.; Wang, F.M. Experimental Study of Polyurethane Grout Diffusion in a Water-Bearing
+
+Fracture. J. Mater. Civ. Eng. 2021, 33, 4020485. [CrossRef]
+
+56. Lu, Q.; Yang, Z.Q.; Yu, R.X.; Zhu, Y.Y. Penetration grouting mechanism of Binham ﬂuid considering diffusion paths. Rock Soil
+
+Mech. 2022, 43, 385–394. [CrossRef]
+
+57. Zhang, G.L.; Zhan, K.Y.; Gao, Y.; Wang, W.X. Comparative experimental investigation of chemical grouting into a fracture with
+
+ﬂowing and static water. Min. Sci. Technol. 2010, 21, 201–205. [CrossRef]
+
+58. Hao, Z.; Wang, J.Q.; He, X.R. Computerized simulation of crack grouting in rock mass. Chin. J. Geotech. Eng. 1999, 21, 727–730.
+
+[CrossRef]
+
+59. Huang, K. Experimental Study on the Mechanism of Water Plugging by Organic Grouting Material under the Condition of
+
+Engineering Water Burst. Master’s Thesis, Wuhan Light Industry University, Wuhan, China, 2018.
+
+60. Tetsuo, M.; Hiroyuki, H. Prediction of ﬂow patterns in the polyurethane foaming process by numerical simulation considering
+
+foam expansion. Polym. Eng. Sci. 2003, 43, 1603–1612. [CrossRef]
+
+61. Hao, M.M.; Li, X.L.; Zhong, Y.H.; Zhang, B.; Jin, D.; Chen, G.G. Numerical simulation of polymer grout diffusion in a single
+
+fracture. AIP Adv. 2018, 8, 105329. [CrossRef]
+
+62. Li, X.L.; Wang, F.M.; Zhong, Y.H.; Guo, C.C.; Zhang, B. Simulation on ﬂowing and diffusing of expansible grouting material of
+
+polymer in two-dimensional fractures. Chin. J. Rock Mech. Eng. 2015, 34, 1188–1197. [CrossRef]
+
+63. Gupta, N.; Woldesenbet, E. Hygrothermal studies on syntactic foams and compressive strength determination. Compos. Struct.
+
+2003, 61, 311–320. [CrossRef]
+
+64. Tagliavia, G.; Porﬁri, M.; Gupta, N. Inﬂuence of moisture absorption on ﬂexural properties of syntactic foams. Compos. Part B
+
+2012, 43, 115–123. [CrossRef]
+
+65. Gu, L.H.; Wang, Y.L.; Wan, X.F. Study on moisture absorption behavior of MC nylon/carbon ﬁber composites. Eng. Plast. Appl.
+
+66.
+
+67.
+
+2005, 33, 45–48. [CrossRef]
+Sakdirat, K.; Chayut, N.; Mayorkinos, P.; Clive, R. Wet/dry inﬂuence on behaviors of closed-cell polymeric cross-linked foams
+under static, dynamic and impact loads. Constr. Build. Mater. 2018, 187, 1092–1102. [CrossRef]
+Sadler, R.L.; Sharpe, M.; Panduranga, R.; Shivakumar, K. Water immersion effect on swelling and compression properties of
+Eco-Core, PVC foam and balsa wood. Compos. Struct. 2009, 90, 330–336. [CrossRef]
+
+Polymers 2022, 14, 5099
+
+16 of 17
+
+68.
+
+Siriruk, A.; Penumadu, D.; Sharma, A. Effects of Seawater and Low Temperatures on Polymeric Foam Core Material. Exp. Mech.
+2012, 52, 25–36. [CrossRef]
+
+69. May-Pat, A.; Avilés, F. Long term water uptake of a low density polyvinyl chloride foam and its effect on the foam microstructure
+
+and mechanical properties. Mater. Des. 2014, 57, 728–735. [CrossRef]
+
+70. Mei, Q.L.; Du, M.; Huang, Z.X.; Wang, F.L. Research on the Behavior of Reinforced PolyurethaneFoam Composite Under Deep
+
+water. J. Wuhan Univ. Technol. 2007, 29, 12–15. [CrossRef]
+
+71. Opreni, A.; Mariani, S.; Dossi, M.; Brennan, M. Combined effects of temperature and humidity on the mechanical properties of
+
+polyurethane foams. J. Rheol. 2020, 64, 161–176. [CrossRef]
+
+72. Launay, A.; Marco, Y.; Maitournam, M.H.; Raoult, I. Modelling the inﬂuence of temperature and relative humidity on the
+time-dependent mechanical behaviour of a short glass ﬁbre reinforced polyamide. Mech. Mater. 2013, 56, 1–10. [CrossRef]
+73. Liu, J.; Zhang, Y.F.; Zou, H.L. The preparation and property of two-component water swelling polyurethane grouting materials.
+
+74.
+75.
+
+76.
+
+77.
+
+Polyurethane Ind. 2010, 25, 17–20. [CrossRef]
+Sabbahi, A.; Vergnaud, J.M. Absorption of water at 100◦C by polyurethane foam. Eur. Polym. J. 1991, 27, 845–850. [CrossRef]
+Sabbahi, A.; Vergnaud, J.M. Absorption of water by polyurethane foam. modelling and experiments. Eur. Polym. J. 1993, 29,
+1243–1246. [CrossRef]
+Sabbahi, A.; Bouzon, J.; Vergnaud, J.M. Absorption-desorption history of water at 100◦ by polyurethane foam. Eur. Polym. J. 1994,
+30, 657–660. [CrossRef]
+Sabbahi, A.; Bouzon, J.; Vergnaud, J.M. Modelling of the drying process of polyurethane foam. Eur. Polym. J. 1992, 28, 305–309.
+[CrossRef]
+
+78. Li, J.M.; Zhou, X.Y.; Yan, X.L. Moisture absorption effect study of reinforced rigid polyurethane foams. China Plast. Ind. 2009, 37,
+
+54–56. [CrossRef]
+
+79. Wang, Z.Y.; Du, M.R.; Fang, H.Y.; Zhang, C.; Li, M.J.; Shi, M.S. Inﬂuence of different corrosion environments on mechanical
+properties of a roadbed rehabilitation polyurethane grouting material under uniaxial compression. Constr. Build. Mater. 2021, 301,
+124092. [CrossRef]
+
+80. Zhang, B.; Zhang, X.; Zhong, Y.H.; Li, X.L.; Hao, M.M.; Sang, X.W.; Wang, X.L.; Liu, J.Y. Research on Fatigue Model of Semi-Rigid
+
+Base Asphalt Pavement before and after Polymer Grouting. Adv. Civ. Eng. 2021, 2021, 6658943. [CrossRef]
+
+81. Li, Y.Y.; Wang, H.; Yang, L.; Su, S.Q. Study on Water Absorption and Thermal Conductivity of Tunnel Insulation Materials in a
+
+Cold Region under Freeze-Thaw Conditions. Adv. Mater. Sci. Eng. 2020, 2020, 5301968. [CrossRef]
+
+82. Zhang, B.; Wang, B.L.; Zhong, Y.H.; Li, X.L.; Zhang, Y.; Li, S.T. Damage characteristics and microstructures of low-exothermic
+
+polymer grouting materials under F–T cycles. Constr. Build. Mater. 2021, 294, 123390. [CrossRef]
+
+83. Zhang, B.; Zhang, X.; Zhong, Y.H.; Li, X.L.; Hao, M.M.; Liu, J.B. Dynamic Inversion Analysis of Structural Layer Modulus of
+Semirigid Base Pavement considering the Inﬂuence of Temperature and Humidity. Adv. Civ. Eng. 2020, 2020, 8899888. [CrossRef]
+84. Yu, W.; Xue, H.L. Effect of Soaking Corrosion on Flexural Properties of Foam Aluminum-Epoxy Composites. Mater. Rev. 2017, 31,
+
+85.
+
+111–115. [CrossRef]
+Shi, M.S.; Luo, J.; Zhang, B. Experimental study on water absorption characteristics of polymer grouting materials and the effect
+of temperature change on volume. J. China Foreign Highw. 2010, 30, 289–291. [CrossRef]
+
+86. Lu, L. Research on the Structure and Performance of Polymers and Their Composite Mixes. Master’s Thesis, Hefei University of
+
+Technology, Hefei, China, 2017.
+
+87. Liu, Z.Y. Experimental Study of Engineering Properties of Polymer Grouting Materials. Master’s Thesis, Zhengzhou University,
+
+Zhengzhou, China, 2007.
+
+88. Baschek, G.; Hartwig, G.; Zahradnik, F. Effect of water absorption in polymers at low and high temperatures. Polymer 1999, 40,
+
+3433–3441. [CrossRef]
+
+89. Chen, X.L.; Wang, T.W.; Jiang, R.F.; Zhou, D.H. Water absorption-desorption and microstructure of three types of foam materials.
+
+Plastics 2003, 32, 37–40. [CrossRef]
+
+90. Dai, W.Y.; Zou, Y.C.; Wang, H.G.; Zhang, Q.; Cao, X.C.; Li, G.D. Effect of Regulation of speciﬁc surface area and pore diameter on
+
+adsorption kinetics of lysozyme on SBA-15. J. Jilin Univ. Sci. Ed. 2011, 49, 139–144.
+
+91. Mourad, A.-H.I.; Abdel-Magid, B.M.; El-Maaddawy, T.; Grami, M.E. Effect of Seawater and Warm Environment on Glass/Epoxy
+
+and Glass/Polyurethane Composites. Appl. Compos. Mater. 2010, 17, 557–573. [CrossRef]
+
+92. Chou, P.; Ding, D. Characterization of Moisture Absorption and Its Inﬂuence on Composite Structures. J. Thermoplast. Compos.
+
+Mater. 2000, 13, 207–225. [CrossRef]
+
+93. Huo, Z.; Mohamed, M.; Nicholas, J.R.; Anandan, S.; Chandrashekhara, K. Effect of salt water exposure on foam-cored polyurethane
+
+sandwich composites. J. Sandw. Struct. Mater. 2020, 22, 1256–1273. [CrossRef]
+
+94. Yang, D.Y. Study on the Application of Polymer Grouting in the Rapid Repair of Asphalt Pavement Internal Damage of Highway.
+
+Master’s Thesis, Wuhan Engineering University, Wuhan, China, 2015.
+
+95. Liang, W. Research on the Mechanical Properties of Polymers and Their Liquid-Containing Foams. Master’s Thesis, Hefei
+
+University of Technology, Hefei, China, 2019.
+
+96. Gibson, I.J.; Ashby, M.F. The Mechanics of Three-Dimensional Cellular Materials. Proc. R. Soc. London. Ser. A Math. Phys. Sci.
+
+1982, 382, 43–59. [CrossRef]
+
+97. Ashby, M.F.; Medalist, R.F. The mechanical properties of cellular solids. Metall. Trans. A 1983, 14, 1755–1769. [CrossRef]
+
+Polymers 2022, 14, 5099
+
+17 of 17
+
+98. Ya-Jen, Y.; Keith, H.; Thomas, S.W.; Duncan, J.M. The effect of moisture absorption on the physical properties of polyurethane
+
+shape memorypolymer foams. Smart Mater. Struct. 2011, 20, 1571–1574. [CrossRef]
+
+99. Akihiko, G. Modeling of Cell Structure in Polyurethane Foam. J. Cell. Plast. 2004, 40, 481–488. [CrossRef]
+100. Lu, Z.X.; Li, H.X.; Tian, C.J. Determination of structural properties of polyurethane foam cells. Polym. Mater. Sci. Eng. 1995, 11,
+
+86–91. [CrossRef]
+
+101. Liang, S.E. Study on the Relationship between Polyurethane Foam Bubble Structure and Mechanical Properties. Master’s Thesis,
+
+China Academy of Engineering Physics, Mianyang, China, 2005.
+
+102. Yunming, O.; Zhao, Z.W.; Zhu, H.Y.; Zhang, T.T. Polymer Experimental Study on Crack Repair of Asphalt Pavement. Henan Sci.
+
+2018, 36, 893–897. [CrossRef]
+
+103. Gent, A.N. Permeability of Open-cell Foamed Materials. J. Cell. Plast. 1966, 2, 46–51. [CrossRef]
+104. Rong, X.; Zhang, L.; Zhang, X.; Liang, Z.; Wei, J. Preparation of hydrophilic reactive polyurethane and its application of anti-water
+
+erodibility in ecological restoration. J. Polym. Eng. 2019, 39, 736–743. [CrossRef]
+
+105. Mondal, P.; Khakhar, D.V. Simulation of the percolation of water into rigid polyurethane foams at applied hydraulic pressures.
+
+Polym. Eng. Sci. 2006, 46, 970–983. [CrossRef]
+
+106. Wang, F.M.; Li, J.; Shi, M.S.; Guo, C.C. New seepage-proof and reinforcing technologies for dikes and dams and their applications.
+
+J. Hydroelectr. Eng. 2016, 35, 1–11. [CrossRef]
+
+107. Yi, Y.H.; Chen, W.B. Effect factors of acid and alkali resistance of polyurethane elastomer. China Elastomer. 2010, 20, 64–67.
+
+[CrossRef]
+
+108. Olurin, O.B.; Fleck, N.A.; Ashby, M.F. Tensile and Compressive Failure of Notched Cellular Foams. Adv. Eng. Mater. 2001, 3,
+
+55–58. [CrossRef]
+
+109. Gibson, L.J. Mechanical Behavior of Metallic Foams. Annu. Rev. Mater. Sci. 2000, 30, 191–227. [CrossRef]
+110. Braun, J.; Klein, M.O.; Bernarding, J.; Leitner, M.B.; Mika, H.D. Non-destructive, three-dimensional monitoring of water absorption
+
+in polyurethane foams using magnetic resonance imaging. Polym. Test 2003, 22, 761–767. [CrossRef]
+
+111. Cnudde, V.; Dierick, M.; Vlassenbroeck, J.; Masschaele, B. High-speed neutron radiography for monitoring the water absorption
+by capillarity in porous materials. Nucl. Instrum. Methods Phys. Research. Sect. B Beam Interact. Mater. At. 2008, 266, 155–163.
+[CrossRef]
+
+112. Pilli, S.P.; Simmons, K.L.; Holbery, J.D.; Shutthanandan, V.; Stickler, P.B.; Smith, L.V. A novel accelerated moisture absorption test
+
+and characterization. Compos. Part A Appl. Sci. Manuf. 2009, 40, 1501–1505. [CrossRef]
+
+113. Idolor, O.; Berkowitz, K.; Guha, R.D.; Grace, L. Nondestructive examination of polymer composites by analysis of polymer-water
+
+interactions and damage-dependent hysteresis. Compos. Struct. 2022, 287, 115377. [CrossRef]
+
+114. Wang, W.Z.; Shen, A.Q.; Yang, X.L.; Guo, Y.C.; Zhao, T.Y. Surface free energy method for evaluating the effects of anti-stripping
+
+agents on the moisture damage to asphalt mixtures. J. Adhes. Sci. Technol. 2020, 34, 1947–1970. [CrossRef]
+
+115. Lachambre, J.; Maire, E.; Adrien, J.; Choqueuse, D. In situ observation of syntactic foams under hydrostatic pressure using X-ray
+
+tomography. Acta Mater. 2013, 61, 4035–4043. [CrossRef]
+
+116. Li, X.X.; Wan, J.C.; Zheng, D.; Fang, H.Y.; Wang, F.M.; Hu, S.W. Compressive mechanical properties of self-expanding grouting
+
+materials with different densities. Constr. Build. Mater. 2022, 332, 127308. [CrossRef]
+
+117. Hakala, K.; Vatanparast, R.; Vuorimaa, E.; Lemmetyinen, H. Monitoring water uptake of polyurethanes by in situ ﬂuorescence
+
+technique. J. Appl. Polym. Sci. 2001, 82, 1593–1599. [CrossRef]
+
+118. Zhang, T.C. Study on the Diffusion Mechanism of Water in Rigid Polyurethane Foam and Water Repellent Structure Effect.
+
+Master’s Thesis, Jiangsu University of Science and Technology, Zhenjiang, China, 2009.
+
+

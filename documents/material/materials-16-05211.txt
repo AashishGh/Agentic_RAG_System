@@ -1,0 +1,1136 @@
+Article
+Gypsum-Based Humidity-Control Material: Preparation,
+Performance and Its Impact on Building Energy Consumption
+
+Xi Li 1,2
+
+and Maoyu Ran 1,2,*
+
+1
+
+School of Architecture, Huaqiao University, Xiamen 361021, China
+
+2 Xiamen Key Laboratory of Ecological Building Construction, Xiamen 361021, China
+* Correspondence: ranmaoyu@hqu.edu.cn
+
+Abstract: This paper introduces a new type of gypsum-based humidity-control material. The material
+combines gypsum–silica gel humidity-control material with 20% sepiolite powder activated by
+calcium chloride. Both experimental and simulation studies were conducted to assess its humidity-
+control performance. The experimental results indicate that gypsum-based humidity-control material
+has the property of absorbing moisture in high-humidity environments and releasing moisture in
+low-humidity environments. Moreover, both environmental temperature and relative humidity (RH)
+have an impact on the material’s humidity-control performance. At a relative humidity of 97.4%,
+the maximum equilibrium moisture content of the material is 0.225 g/g, which is 1.4 times that of
+the gypsum–silica gel humidity-control material and 4.5 times that of pure gypsum material. The
+simulation results indicate that gypsum-based humidity-control material effectively mitigates indoor
+relative humidity ﬂuctuations and maintains indoor air relative humidity within a narrow range.
+Furthermore, the material has the potential to reduce building energy consumption. This is especially
+evident under climate conditions with large temperature and relative humidity differences between
+day and night, such as in Beijing, Paris, and Atlanta. The maximum potential energy-saving rate in
+Beijing can reach up to 19.31%.
+
+Keywords: humidity control; composite material; energy saving simulation; gypsum
+
+Citation: Li, X.; Ran, M. Gypsum-
+
+Based Humidity-Control Material:
+
+Preparation, Performance and Its
+
+Impact on Building Energy
+
+Consumption. Materials 2023, 16,
+
+5211. https://doi.org/10.3390/
+
+ma16155211
+
+Academic Editor: Gabriele Milani
+
+Received: 7 June 2023
+
+Revised: 20 July 2023
+
+Accepted: 21 July 2023
+
+Published: 25 July 2023
+
+Copyright: © 2023 by the authors.
+
+Licensee MDPI, Basel, Switzerland.
+
+This article is an open access article
+
+distributed under
+
+the terms and
+
+conditions of the Creative Commons
+
+Attribution (CC BY) license (https://
+
+creativecommons.org/licenses/by/
+
+4.0/).
+
+1. Introduction
+
+The indoor environment plays a crucial role in determining individuals’ physical and
+mental well-being, a relationship that is primarily affected by indoor environmental param-
+eters [1–3]. Relative humidity is one such parameter that significantly influences thermal
+comfort, building load, indoor air quality, and occupant work efficiency [4,5]. To create a
+comfortable indoor environment, it is pivotal to regulate relative humidity based on active
+or passive methods. The former involves using heat, ventilation, and air conditioning
+systems to either humidify or dehumidify indoor air, thereby keeping relative humidity
+at cozy levels for occupants. However, this method consumes energy and causes envi-
+ronmental pollution, undermining China’s strategy for renewable energy development.
+Reports indicate an average annual growth rate of 5.39% in China’s energy consumption
+during building operations from 2005 to 2018 [6]. In contrast, the latter method utilizes
+renewable energy or materials with moisture absorption and desorption capabilities. This
+approach aims to achieve the same goal of enhancing comfort while reducing building
+energy consumption [7–9]. This ecological approach holds great signiﬁcance for improving
+indoor living space and building energy conservation.
+
+As a passive energy-saving technology for regulating indoor humidity, humidity-
+control materials stand out among numerous passive technologies. The concept of humidity-
+control materials was initially proposed by Nishito and Miyano in Japan in the 1940s [10].
+It refers to the method of automatically regulating indoor air humidity without relying on
+energy-consuming equipment, based on the moisture absorption and desorption charac-
+teristics of the material. It is acknowledged as an environmentally benign passive control
+
+Materials 2023, 16, 5211. https://doi.org/10.3390/ma16155211
+
+https://www.mdpi.com/journal/materials
+
+materialsMaterials 2023, 16, 5211
+
+2 of 16
+
+method. It can manage indoor relative humidity ﬂuctuations and maintain indoor relative
+humidity within a comfortable range, thereby avoiding negative impacts on human health
+caused by high or low relative humidity environments [11,12].
+
+In recent years, the utilization of humidity-control materials for regulating indoor
+relative humidity has yielded promising results [13–15]. Zhang’s experimentation with
+humidity-control materials placed in an artiﬁcial climate chamber indicated their effec-
+tiveness in regulating indoor humidity levels [16]. Ge’s inquiry focused on the moisture
+buffering performance of common humidity-control materials. The results revealed sig-
+niﬁcant variations in the moisture absorption and desorption capabilities across similar
+materials [17]. Simonson’s numerical simulation study demonstrated that incorporating
+humidity-control materials in indoor spaces led to a reduction in required ventilation rates.
+Importantly, this reduction was achieved without compromising comfort or air quality [18].
+Zhang’s application of numerical simulation techniques revealed the signiﬁcant impact
+of humidity-control materials on building energy consumption in different climatic condi-
+tions. This study highlights their potential for up to 25% energy savings in temperate and
+semi-arid climates [19].
+
+Currently, various types of humidity-control materials have been developed and
+classiﬁed as biomass, organic, inorganic, and composite materials [20]. Biomass materials
+have relatively large moisture capacity, but they exhibit smaller vapor permeability and
+slower moisture transfer rate [21]. Organic materials can absorb moisture hundreds of
+times their own weight, but they have weaker desorption ability [22]. Inorganic materials
+possess open porous structures and strong adsorption capabilities. Among them, gypsum
+is a widely used lightweight construction material known for its cost-effectiveness and
+eco-friendly production process. Its high porosity and uniform pore size distribution
+enable favorable permeability, making it suitable for humidity-control applications. Roel
+investigated the moisture absorption and desorption performance of gypsum boards
+coated with latex paint compared to bare gypsum boards. The ﬁndings indicated that
+applying latex paint on the surface of gypsum boards signiﬁcantly diminishes their moisture
+buffering capacity [23]. Zhang evaluated the humidity-control capabilities of magnesite
+board, diatomaceous earth, and gypsum board. The results revealed that they all possess
+varying degrees of humidity-control capabilities, with magnesite board performing the best,
+followed by diatomaceous earth, and gypsum board performing poorly [24]. Shahrzad
+found that placing gypsum inside concrete walls under higher indoor ventilation rates can
+maintain indoor relative humidity at approximately 60% [25]. Although gypsum possesses
+certain moisture control capabilities, it presents two limitations in terms of its moisture
+absorption and desorption performance. Firstly, within the relative humidity range of
+40–70%, gypsum exhibits relatively low equilibrium moisture content, which fails to meet
+the demand for substantial moisture absorption within the standard humidity range.
+Secondly, gypsum displays a slow rate of moisture absorption and desorption, making it
+challenging to promptly respond to dynamic humidity changes.
+
+To enhance the humidity-control performance of gypsum, numerous researchers have
+chosen gypsum as the matrix and incorporated other materials to develop gypsum-based
+composite materials [26,27]. Jiang employed sepiolite powder activated by calcium chlo-
+ride as an additive and incorporated it into gypsum to prepare a composite material. The
+adsorption and desorption performance were tested, revealing that the adsorption and
+desorption capacity of the samples increased with the increase in the dosage of activated
+sepiolite powder. However, with a continuous increase in the content of activated sepiolite
+powder, wetting phenomena were observed on the sample surface. Consequently, the
+optimal additive content was found to be 20% of activated sepiolite powder [28]. Shang
+introduced lithium chloride into gypsum and developed a novel material. The research in-
+dicated that this material exhibited good humidity absorption and desorption performance,
+with a maximum moisture absorption capacity of 0.410 g/g [29]. Lee added activated
+clay into gypsum to fabricate a new gypsum-based composite material. The experimental
+results showed that the humidity absorption and desorption performance of the material
+
+Materials 2023, 16, 5211
+
+3 of 16
+
+improved with an increasing amount of clay addition, reaching its peak when the clay
+content reached 70% [30]. Shang successfully developed a gypsum-based humidity-control
+material by mixing it with adsorbent materials such as plant ﬁber, kaolin, and activated
+carbon [31].
+
+In conclusion, gypsum is a traditional building material with humidity-control proper-
+ties, but it has limitations in terms of moisture absorption and desorption performance. The
+current focus of research lies on composite humidity-control materials [32,33], but there
+has been no study on the preparation of a novel composite material by mixing gypsum
+with silica gel. Therefore, in previous studies, the author employed silica gel as a functional
+material to modify gypsum and prepare a gypsum–silica gel composite [34]. Through ex-
+perimental measurements, the composite material exhibited markedly enhanced moisture
+absorption and desorption capacity as well as rate compared to pure gypsum. To further
+enhance the humidity-control capabilities of this composite material, we developed a novel
+gypsum-based humidity-control material. This was achieved by adding sepiolite powder
+activated by calcium chloride at a mass ratio of 20%, based on existing research [28,35]. The
+humidity-control performance of the material was then evaluated through experiments and
+simulated tests. The study aims to provide a new idea for continuously seeking low-cost
+and practical humidity-control building materials suitable for the construction ﬁeld.
+
+2. Materials and Methods
+2.1. Materials
+
+The study used gypsum material and calcium chloride from Sinopharm Chemical
+Reagent Co., Ltd., Shanghai, China. Silica gel was obtained from Henan Pubang Environ-
+mental Protection Materials Co., Ltd., Henan, China. Sepiolite powder was provided by
+Aladdin Biochemical Technology Co., Ltd., Shanghai, China. The preparation process of
+gypsum-based humidity-control material is described as follows.
+
+2.1.1. Preparation of Activated Sepiolite Powder
+
+The sepiolite powder was placed in an air-drying oven (10HS, made in China) to
+dry at a temperature of 90 ◦C until the change in weight did not exceed 0.1% over three
+consecutive days. Subsequently, a 3 mol/L calcium chloride solution was formulated and
+blended with the dried sepiolite powder at a mass ratio of 8:2 with the aid of an electronic
+balance (TP-213, accuracy: ±0.01 g). The mixture was subsequently homogenized using a
+glass rod until it attained a dry and friable consistency to obtain sepiolite power activated
+by calcium chloride.
+
+2.1.2. Preparation of Gypsum–Silica Gel Humidity-Control Material
+
+Firstly, the silica gel was crushed using a crusher (MT-10S, made in China) and sieved
+through a mesh to obtain 3 mm particle-size silica gel. Then, gypsum and silica gel were
+separately weighed in a mass ratio of 6:4 using an electronic balance (TP-213, accuracy:
+±0.01 g). After thoroughly mixing the materials in a beaker, the desired amount of distilled
+water was added and stirred well. Finally, the well-mixed composite slurry was poured
+into a precast mold with dimensions of 50 × 50 × 5 mm and allowed to solidify. It was
+then cured for 24 h at a temperature of 50 ± 2 ◦C and a relative humidity of 40 ± 5%. This
+resulted in the formation of the gypsum–silica gel humidity-control material. The detailed
+preparation procedure can be found in reference [34].
+
+2.1.3. Preparation of Gypsum-Based Humidity-Control Material
+
+The uncured gypsum–silica gel humidity-control material slurry was mixed with acti-
+vated sepiolite powder in a mass ratio of 8:2. The mixture was poured into a beaker and the
+desired amount of distilled water was added, then stirred thoroughly to achieve uniformity.
+The well-mixed composite slurry was poured into a precast mold with dimensions of 50 ×
+50 × 5 mm and allowed to solidify. It was then cured for 24 h at a temperature of 50 ± 2 ◦C
+
+Materials 2023, 16, 5211
+
+4 of 16
+
+and a relative humidity of 40 ± 5%. This resulted in the formation of the gypsum-based
+humidity-control material.
+
+The raw materials used in the sample preparation process, as well as the samples
+
+employed during the experimental procedure, are illustrated in Figure 1.
+
+Figure 1. Raw materials and sample.
+
+The material composition parameters are shown in Table 1. The ratio of materials to
+
+water was determined based on the results of multiple preliminary experiments.
+
+Table 1. Materials composition parameters.
+
+Material
+
+Material Mass Ratio
+
+Material to Water Mass Ratio
+
+activated sepiolite power
+gypsum–silica gel material
+gypsum-based material
+gypsum material
+
+80% sepiolite power + 20% calcium chloride
+60% gypsum + 40% silica gel
+80% gypsum–silica gel material + 20% activated sepiolite power
+100% gypsum
+
+-
+
+1:0.7
+
+2.2. Testing Methods
+2.2.1. Experimental Testing
+
+1. Humidity-control performance
+
+To test the humidity-control performance of the gypsum-based humidity-control
+material, two experimental schemes were designed. First, the gypsum-based humidity-
+control material was used to dehumidify and humidify high-humidity (85%) and low-
+humidity (25%) environments consecutively. This continuous humidity-control test was
+repeated three times. Second, the gypsum-based humidity-control material was used
+to dehumidify the high-humidity environment (85%) and immediately humidify the
+low-humidity environment (25%). This intermittent humidity-control test was repeated
+three times.
+
+The experimental setup design schematic diagram illustrated in Figure 2a consisted
+of a box and an adsorbent cylinder situated outside it. The outer magnet block slid
+along the outer guide rail, controlling the inner magnet block inside the box via magnetic
+attraction. This allowed for the opening or sealing of the partition between the box and
+the adsorbent cylinder as required. The experiment involved establishing high- or low-
+humidity conditions within the box by humidifying or dehumidifying through the piston
+port. After that, the dehumidiﬁcation and humidiﬁcation process was initiated by opening
+the sealing partition using the outer magnet block. In situ relative humidity measurements
+were performed using a temperature and humidity recorder (AZ8829, made in China)
+placed in the box every minute. The experimental temperature was maintained at 23 ◦C.
+The actual image of the experimental setup is shown in Figure 2b.
+
+2.
+
+The impact of the environment on humidity-control performance
+
+To test the effect of environmental temperature on the humidity-control performance
+of gypsum-based humidity-control material, the programmable temp&humi chamber
+(LY-2150B, made in China, accuracy: +2 ◦C; +3%RH) was utilized. A constant relative
+
+Materials 2023, 16, x FOR PEER REVIEW 4 of 18   the desired amount of distilled water was added, then stirred thoroughly to achieve uni-formity. The well-mixed composite slurry was poured into a precast mold with dimen-sions of 50 × 50 × 5 mm and allowed to solidify. It was then cured for 24 h at a temperature of 50 ± 2 °C and a relative humidity of 40 ± 5%. This resulted in the formation of the gyp-sum-based humidity-control material. The raw materials used in the sample preparation process, as well as the samples employed during the experimental procedure, are illustrated in Figure 1.  Figure 1. Raw materials and sample. The material composition parameters are shown in Table 1. The ratio of materials to water was determined based on the results of multiple preliminary experiments. Table 1. Materials composition parameters. Material Material Mass Ratio Material to Water Mass Ratio activated sepiolite power 80% sepiolite power + 20% calcium chloride - gypsum–silica gel material 60% gypsum + 40% silica gel 1:0.7 gypsum-based material 80% gypsum–silica gel material + 20% activated sepiolite power gypsum material 100% gypsum 2.2. Testing Methods 2.2.1. Experimental Testing 1. Humidity-control performance To test the humidity-control performance of the gypsum-based humidity-control ma-terial, two experimental schemes were designed. First, the gypsum-based humidity-con-trol material was used to dehumidify and humidify high-humidity (85%) and low-humid-ity (25%) environments consecutively. This continuous humidity-control test was re-peated three times. Second, the gypsum-based humidity-control material was used to de-humidify the high-humidity environment (85%) and immediately humidify the low-hu-midity environment (25%). This intermittent humidity-control test was repeated three times. The experimental setup design schematic diagram illustrated in Figure 2a consisted of a box and an adsorbent cylinder situated outside it. The outer magnet block slid along the outer guide rail, controlling the inner magnet block inside the box via magnetic attrac-tion. This allowed for the opening or sealing of the partition between the box and the adsorbent cylinder as required. The experiment involved establishing high- or low-hu-midity conditions within the box by humidifying or dehumidifying through the piston port. After that, the dehumidiﬁcation and humidiﬁcation process was initiated by opening the sealing partition using the outer magnet block. In situ relative humidity measurements were performed using a temperature and humidity recorder (AZ8829, made in China) placed in the box every minute. The experimental temperature was maintained at 23 °C. The actual image of the experimental setup is shown in Figure 2b. Materials 2023, 16, 5211
+
+5 of 16
+
+humidity of 80% and 20%, respectively, was maintained for the experiment. The materials
+were placed in an air-drying oven to dry at a temperature of 80 ◦C until the change in
+weight did not exceed 0.1% over three consecutive days. The dry materials were placed
+in the chamber with a constant relative humidity of 80% to absorb moisture. In contrast,
+the materials that had reached the maximum equilibrium moisture absorption at a relative
+humidity of 97.4% were placed in the chamber with a constant relative humidity of 20% to
+desorb moisture. The chamber was set to 13 ◦C, 23 ◦C, and 33 ◦C, respectively.
+
+To test the effect of environmental relative humidity on the humidity-control per-
+formance of gypsum-based humidity-control material, the internal temperature of the
+programmable temp&humi chamber was kept at 23 ◦C. The dry materials were placed
+in the chamber to absorb moisture, and the relative humidity inside the chamber was
+controlled at a constant level of 50%, 60%, 70%, and 80%, respectively. The materials that
+had reached the maximum equilibrium moisture absorption at a relative humidity of 97.4%
+were placed in the chamber to desorb moisture. Inside the chamber, the relative humidity
+was controlled at constant levels of 20%, 30%, 40%, and 50%, respectively.
+
+Figure 2. Experimental setup (a) design schematic diagram; (b) actual image.
+
+3.
+
+Isothermal moisture adsorption–desorption curve
+
+In accordance with the Chinese standard GB/T 20312-2006 [36], the isothermal mois-
+ture adsorption–desorption curve was tested using the programmable temp&humi chamber
+method, and the internal temperature of the chamber was kept at 23 ◦C. The dry mate-
+rials were placed in the chamber to absorb moisture. Inside the chamber, the relative
+humidity was controlled at constant levels of 22.5%, 32.9%, 43.2%, 53.5%, 64.9%, 75.4%,
+84.6%, and 97.4%. The materials that had reached the maximum equilibrium moisture
+absorption at a relative humidity of 97.4% were placed in the chamber to desorb moisture.
+Inside the chamber, the relative humidity was controlled at a constant relative humidity of
+84.6%, 75.4%, 64.9%, 53.5%, 43.2%, 32.9%, and 22.5%.
+
+The equilibrium moisture content u during the process of moisture adsorption and
+
+desorption of the above material can be calculated using Formula (1),
+
+u = (m − m0)/m0
+
+(1)
+
+where m0 is the dry mass of material (g), m is the mass of the material at moisture equilib-
+rium (g).
+
+Materials 2023, 16, x FOR PEER REVIEW 5 of 18     (a) (b) Figure 2. Experimental setup (a) design schematic diagram; (b) actual image. 2. The impact of the environment on humidity-control performance To test the eﬀect of environmental temperature on the humidity-control performance of gypsum-based humidity-control material, the programmable temp&humi chamber (LY-2150B, made in China, accuracy: +2 °C; +3%RH) was utilized. A constant relative hu-midity of 80% and 20%, respectively, was maintained for the experiment. The materials were placed in an air-drying oven to dry at a temperature of 80 °C until the change in weight did not exceed 0.1% over three consecutive days. The dry materials were placed in the chamber with a constant relative humidity of 80% to absorb moisture. In contrast, the materials that had reached the maximum equilibrium moisture absorption at a relative humidity of 97.4% were placed in the chamber with a constant relative humidity of 20% to desorb moisture. The chamber was set to 13 °C, 23 °C, and 33 °C, respectively. To test the eﬀect of environmental relative humidity on the humidity-control perfor-mance of gypsum-based humidity-control material, the internal temperature of the pro-grammable temp&humi chamber was kept at 23 °C. The dry materials were placed in the chamber to absorb moisture, and the relative humidity inside the chamber was controlled at a constant level of 50%, 60%, 70%, and 80%, respectively. The materials that had reached the maximum equilibrium moisture absorption at a relative humidity of 97.4% were placed in the chamber to desorb moisture. Inside the chamber, the relative humidity was controlled at constant levels of 20%, 30%, 40%, and 50%, respectively. 3. Isothermal moisture adsorption–desorption curve In accordance with the Chinese standard GB/T 20312-2006 [36], the isothermal mois-ture adsorption–desorption curve was tested using the programmable temp&humi cham-ber method, and the internal temperature of the chamber was kept at 23 °C. The dry ma-terials were placed in the chamber to absorb moisture. Inside the chamber, the relative humidity was controlled at constant levels of 22.5%, 32.9%, 43.2%, 53.5%, 64.9%, 75.4%, 84.6%, and 97.4%. The materials that had reached the maximum equilibrium moisture ab-sorption at a relative humidity of 97.4% were placed in the chamber to desorb moisture. Inside the chamber, the relative humidity was controlled at a constant relative humidity of 84.6%, 75.4%, 64.9%, 53.5%, 43.2%, 32.9%, and 22.5%. The equilibrium moisture content u during the process of moisture adsorption and desorption of the above material can be calculated using Formula (1), u = (m − m0)/m0 (1)where m0 is the dry mass of material (g), m is the mass of the material at moisture equi-librium (g). Materials 2023, 16, 5211
+
+6 of 16
+
+The moisture content U during the process of moisture adsorption and desorption of
+
+the above material can be calculated using Formula (2),
+
+U = (u1 − u2) ∗ 100
+
+(2)
+
+where u1 is the moisture content of the material after adsorption or before desorption (g/g),
+u2 is the moisture content of the material before adsorption or after desorption (g/g).
+
+The actual image showcasing the experimental process of using the programmable
+
+temp&humi chamber is illustrated in Figure 3.
+
+Figure 3. Experimental process of using the programmable temp&humi chamber.
+
+2.2.2. Simulation Testing
+
+To test the humidity-control effect of gypsum-based humidity-control material applied
+in the building, EnergyPlus software (EnergyPlus 9.6.0) was used. The study focused on
+investigating the impact of material thickness and material laying area on the indoor air
+parameter changes in a room under summer climate conditions in Xiamen. The simulation
+period spanned from 1 August to 7 August.
+
+To test the energy-saving effect of gypsum-based humidity-control material applied in
+buildings, EnergyPlus software was used. The study focused on investigating the impact
+of the laying and non-laying of material on building energy consumption under various
+climatic conditions. Four cities worldwide characterized by typical urban climates were
+selected for analysis. These cities include Beijing, China (continental monsoon climate),
+Paris, France (temperate oceanic climate), Atlanta, United States (subtropical and sub-
+humid climate), and Xiamen, China (subtropical oceanic monsoon climate).
+
+For accurate and typical results, the BESTEST base case building (shown in Figure 4)
+from the IEA ECBCS Annex 21 was selected as the test building. The BESTEST base case is
+assumed to be a typical ofﬁce house. The room is occupied during the daytime from 8:00 to
+18:00 and unoccupied the rest of the day.
+
+Figure 4. The BESTEST base case building.
+
+Materials 2023, 16, x FOR PEER REVIEW 6 of 18   The moisture content U during the process of moisture adsorption and desorption of the above material can be calculated using Formula (2), U = (u1 − u2) ∗ 100 (2)where u1 is the moisture content of the material after adsorption or before desorption (g/g), u2 is the moisture content of the material before adsorption or after desorption (g/g). The actual image showcasing the experimental process of using the programmable temp&humi chamber is illustrated in Figure 3.  Figure 3. Experimental process of using the programmable temp&humi chamber. 2.2.2. Simulation Testing To test the humidity-control eﬀect of gypsum-based humidity-control material ap-plied in the building, EnergyPlus software (EnergyPlus 9.6.0) was used. The study focused on investigating the impact of material thickness and material laying area on the indoor air parameter changes in a room under summer climate conditions in Xiamen. The simu-lation period spanned from 1 August to 7 August. To test the energy-saving eﬀect of gypsum-based humidity-control material applied in buildings, EnergyPlus software was used. The study focused on investigating the im-pact of the laying and non-laying of material on building energy consumption under var-ious climatic conditions. Four cities worldwide characterized by typical urban climates were selected for analysis. These cities include Beijing, China (continental monsoon cli-mate), Paris, France (temperate oceanic climate), Atlanta, United States (subtropical and sub-humid climate), and Xiamen, China (subtropical oceanic monsoon climate). For accurate and typical results, the BESTEST base case building (shown in Figure 4) from the IEA ECBCS Annex 21 was selected as the test building. The BESTEST base case is assumed to be a typical oﬃce house. The room is occupied during the daytime from 8:00 to 18:00 and unoccupied the rest of the day. Materials 2023, 16, x FOR PEER REVIEW 7 of 18    Figure 4. The BESTEST base case building. The detailed physical property parameters of each layer in the BESTEST base case building are presented in Table 2. Table 2. Physical parameters of diﬀerent layers in building envelopes. Construction Material d (m) 𝛒  (kg/m3) 𝐜𝐩  (J/kg·K) K (W/m·K) U (W/m2·K) Wall (from outer layer to inner layer) Wooden board 0.01 530 900 0.14 0.474 Rock wool board 0.066 60 850 0.04 - Concrete 0.1 1400 1000 0.51 - gypsum-based material - 1000 2250 0.45 - Roof (from outer layer to inner layer) Cement panel 0.012 1130 840 0.255 0.307 Rock wool board 0.066 60 850 0.04 - gypsum-based material - 1000 2250 0.45 - Floor (from outer layer to inner layer) Thermal insulating 1 60 850 0.04 0.04 layer - - - - - gypsum-based material - 1000 2250 0.45 - Window Double glazing unit - - - - 1.99 The simulation settings and boundary conditions are shown in Table 3. Table 3. Simulation settings and boundary conditions. Conditions Oﬃce Case Occupied period 8:00–18:00 Unoccupied period The rest of the day Air conditioning running time Occupied period Air conditioning running temperature (°C) 18–26 Air conditioning running relative humidity (%) 30–70 Air change rate (ACH) 0.5 Air inﬁltration No Table 4 displays the materials utilized in the simulation. Case A studied the inﬂuence of gypsum-based humidity-control material thickness on its regulating humidity eﬀec-tiveness. The thickness ranged from 0.01 m to 0.05 m, and the material laying area was 159.6 m2 (internal walls, ﬂoor, and ceiling). Case B studied the impact of gypsum-based humidity-control material laying area on its regulating humidity eﬀectiveness. The mate-rial laying area was 63.6 m2 (internal walls) and 159.6 m2 (internal walls, ﬂoor, and ceiling), and the material thickness was 0.03 m. Finally, Case C acted as the reference group where no gypsum-based humidity-control material was applied in the room.   Materials 2023, 16, 5211
+
+7 of 16
+
+The detailed physical property parameters of each layer in the BESTEST base case
+
+building are presented in Table 2.
+
+Table 2. Physical parameters of different layers in building envelopes.
+
+Construction
+
+Material
+
+d (m)
+
+ρ (kg/m3)
+
+cp (J/kg·K)
+
+K
+(W/m·K)
+
+U
+(W/m2·K)
+
+Wall (from outer layer to
+inner layer)
+
+Roof (from outer layer to
+inner layer)
+
+Floor (from outer layer to
+inner layer)
+
+Window
+
+Wooden board
+Rock wool board
+Concrete
+gypsum-based material
+Cement panel
+Rock wool board
+gypsum-based material
+Thermal insulating
+layer
+gypsum-based material
+Double glazing unit
+
+0.01
+0.066
+0.1
+-
+0.012
+0.066
+-
+1
+-
+-
+-
+
+530
+60
+1400
+1000
+1130
+60
+1000
+60
+-
+1000
+-
+
+900
+850
+1000
+2250
+840
+850
+2250
+850
+-
+2250
+-
+
+0.14
+0.04
+0.51
+0.45
+0.255
+0.04
+0.45
+0.04
+-
+0.45
+-
+
+0.474
+-
+-
+-
+0.307
+-
+-
+0.04
+-
+-
+1.99
+
+The simulation settings and boundary conditions are shown in Table 3.
+
+Table 3. Simulation settings and boundary conditions.
+
+Conditions
+
+Occupied period
+Unoccupied period
+Air conditioning running time
+Air conditioning running temperature (◦C)
+Air conditioning running relative humidity (%)
+Air change rate (ACH)
+Air inﬁltration
+
+Ofﬁce Case
+
+8:00–18:00
+The rest of the day
+Occupied period
+18–26
+30–70
+0.5
+No
+
+Table 4 displays the materials utilized in the simulation. Case A studied the inﬂuence of
+gypsum-based humidity-control material thickness on its regulating humidity effectiveness.
+The thickness ranged from 0.01 m to 0.05 m, and the material laying area was 159.6 m2
+(internal walls, ﬂoor, and ceiling). Case B studied the impact of gypsum-based humidity-
+control material laying area on its regulating humidity effectiveness. The material laying
+area was 63.6 m2 (internal walls) and 159.6 m2 (internal walls, ﬂoor, and ceiling), and
+the material thickness was 0.03 m. Finally, Case C acted as the reference group where no
+gypsum-based humidity-control material was applied in the room.
+
+Table 4. Simulating material.
+
+Case ID
+
+Case A.1
+Case A.2
+Case A.3
+Case A.4
+Case A.5
+Case B.1
+Case B.2
+Case C
+
+Thickness (m)
+
+Area (m2)
+
+0.01
+0.02
+0.03
+0.04
+0.05
+
+0.03
+
+-
+
+159.6
+
+63.6
+159.6
+0
+
+Materials 2023, 16, 5211
+
+8 of 16
+
+3. Results
+3.1. Experimental Testing
+3.1.1. Humidity-Control Performance
+
+The results of the continuous dehumidiﬁcation and humidiﬁcation tests of the gypsum-
+based humidity-control material are shown in Figure 5. Figure 5a shows the results of
+continuous dehumidiﬁcation tests. These results reveal that the dehumidiﬁcation capacity
+of the material continuously decreases during three consecutive dehumidiﬁcation tests.
+The ﬁrst dehumidiﬁcation reduces the relative humidity from 85% to 68%, the second
+dehumidiﬁcation reduces it to 70%, and the third dehumidiﬁcation only reduces it to 72%.
+Figure 5b presents the results of continuous humidiﬁcation tests. These results demonstrate
+that the humidiﬁcation capacity of the material exhibits a continuing downward trend
+during three consecutive humidiﬁcation. The ﬁrst humidiﬁcation increases the relative
+humidity from 25% to 45%, the second humidiﬁcation increases it to 43%, and the third
+humidiﬁcation only increases it to 41%.
+
+Figure 5. Results of (a) continuous dehumidiﬁcation tests; (b) continuous humidiﬁcation tests.
+
+The results of the intermittent dehumidiﬁcation and humidiﬁcation tests of the
+gypsum-based humidity-control material are shown in Figure 6. Figure 6a shows the
+results of intermittent dehumidiﬁcation tests. These results reveal that there is no atten-
+uation in the dehumidiﬁcation ability of the material during the three dehumidiﬁcation
+tests. The relative humidity inside the box can be reduced from 85% to 70% in 130, 170,
+and 100 min for the ﬁrst, second, and third dehumidiﬁcation, respectively. Additionally,
+all three dehumidiﬁcation tests achieve a stabilized relative humidity of 65% ± 2% within
+200 min. Figure 6b shows the results of intermittent humidiﬁcation tests. These results
+demonstrate that there is also no attenuation in the humidiﬁcation ability of the material
+during the three humidiﬁcation tests. The relative humidity can be increased from 25% to
+40% in 100, 150, and 110 min for the ﬁrst, second, and third humidiﬁcation, respectively.
+Additionally, all three humidiﬁcation tests can stabilize the relative humidity at 43% ± 2%
+within 200 min.
+
+3.1.2. The Impact of the Environment on Humidity-Control Performance
+
+Figure 7 illustrates the absorption and desorption of the moisture content variations
+of gypsum-based humidity control under different ambient temperatures. As observed
+in Figure 7a, all dry materials under various ambient temperatures reached absorption
+moisture equilibrium after 100 h. Notably, there is a 2% increase in the equilibrium moisture
+absorption content when the ambient temperature changes from 13 ◦C to 33 ◦C. As ob-
+served in Figure 7b, all the materials that had reached the maximum equilibrium moisture
+absorption at a relative humidity of 97.4% under various ambient temperatures reached
+desorption moisture equilibrium after 100 h. The moisture desorption content also increases
+
+Materials 2023, 16, x FOR PEER REVIEW 8 of 18   Table 4. Simulating material. Case ID Thickness (m) Area (m2) Case A.1 0.01 159.6 Case A.2 0.02 Case A.3 0.03 Case A.4 0.04 Case A.5 0.05 Case B.1 0.03 63.6 Case B.2 159.6 Case C - 0 3. Results 3.1. Experimental Testing 3.1.1. Humidity-Control Performance The results of the continuous dehumidiﬁcation and humidiﬁcation tests of the gyp-sum-based humidity-control material are shown in Figure 5. Figure 5a shows the results of continuous dehumidiﬁcation tests. These results reveal that the dehumidiﬁcation ca-pacity of the material continuously decreases during three consecutive dehumidiﬁcation tests. The ﬁrst dehumidiﬁcation reduces the relative humidity from 85% to 68%, the sec-ond dehumidiﬁcation reduces it to 70%, and the third dehumidiﬁcation only reduces it to 72%. Figure 5b presents the results of continuous humidiﬁcation tests. These results demonstrate that the humidiﬁcation capacity of the material exhibits a continuing down-ward trend during three consecutive humidiﬁcation. The ﬁrst humidiﬁcation increases the relative humidity from 25% to 45%, the second humidiﬁcation increases it to 43%, and the third humidiﬁcation only increases it to 41%.   Figure 5. results of (a) continuous dehumidiﬁcation tests; (b) continuous humidiﬁcation tests. The results of the intermittent dehumidiﬁcation and humidiﬁcation tests of the gyp-sum-based humidity-control material are shown in Figure 6. Figure 6a shows the results of intermittent dehumidiﬁcation tests. These results reveal that there is no attenuation in the dehumidiﬁcation ability of the material during the three dehumidiﬁcation tests. The relative humidity inside the box can be reduced from 85% to 70% in 130, 170, and 100 min for the ﬁrst, second, and third dehumidiﬁcation, respectively. Additionally, all three de-humidiﬁcation tests achieve a stabilized relative humidity of 65% ± 2% within 200 min. Figure 6b shows the results of intermittent humidiﬁcation tests. These results demonstrate Materials 2023, 16, 5211
+
+9 of 16
+
+by 6%, when the ambient temperature increases from 13 ◦C to 33 ◦C. Observations demon-
+strate that alterations in ambient temperature minimally impact the moisture absorption
+content of the material. However, temperature ﬂuctuations signiﬁcantly affect the moisture
+desorption content of the material. The presence of silica gel in gypsum-based hygroscopic
+materials can account for this phenomenon. With increasing ambient temperature, the
+moisture absorption capacity of silica gel strengthens, consequently enhancing the moisture
+absorption capacity of the material.
+
+Figure 6. Results of (a) intermittent dehumidiﬁcation tests; (b) intermittent humidiﬁcation tests.
+
+Figure 7. The impact of temperature on the (a) moisture absorption; (b) moisture desorption.
+
+Figure 8 illustrates the absorption and desorption moisture content variations of
+gypsum-based humidity control under different ambient relative humidities. As depicted
+in Figure 8a, the material’s moisture absorption content was augmented by 6% upon an
+increase in relative humidity from 50% to 80%. This increase culminated at 15.88% at a
+relative humidity of 80%. As demonstrated in Figure 8b, the material’s moisture desorption
+content was augmented by 6% upon a decline in relative humidity from 50% to 20%. This
+increase culminated at 9.02% at a relative humidity of 20%. The experimental outcomes
+evince that the ambient relative humidity engenders an inﬂuence on both moisture ab-
+sorption and desorption content of the material. Additionally, the greater the gap between
+the ambient relative humidity and the internal moisture content of the material, the more
+superior its performance in regulating moisture.
+
+3.1.3. Isothermal Moisture Adsorption–Desorption Curve
+
+To evaluate and compare the humidity-control performance of pure gypsum, gypsum–
+silica gel humidity-control material, and gypsum-based humidity-control material, an
+
+Materials 2023, 16, x FOR PEER REVIEW 9 of 18   that there is also no attenuation in the humidiﬁcation ability of the material during the three humidiﬁcation tests. The relative humidity can be increased from 25% to 40% in 100, 150, and 110 min for the ﬁrst, second, and third humidiﬁcation, respectively. Additionally, all three humidiﬁcation tests can stabilize the relative humidity at 43% ± 2% within 200 min.   Figure 6. results of (a) intermittent dehumidiﬁcation tests; (b) intermittent humidiﬁcation tests. 3.1.2. The Impact of the Environment on Humidity-Control Performance Figure 7 illustrates the absorption and desorption of the moisture content variations of gypsum-based humidity control under diﬀerent ambient temperatures. As observed in Figure 7a, all dry materials under various ambient temperatures reached absorption mois-ture equilibrium after 100 h. Notably, there is a 2% increase in the equilibrium moisture absorption content when the ambient temperature changes from 13 °C to 33 °C. As ob-served in Figure 7b, all the materials that had reached the maximum equilibrium moisture absorption at a relative humidity of 97.4% under various ambient temperatures reached desorption moisture equilibrium after 100 h. The moisture desorption content also in-creases by 6%, when the ambient temperature increases from 13 °C to 33 °C. Observations demonstrate that alterations in ambient temperature minimally impact the moisture ab-sorption content of the material. However, temperature ﬂuctuations signiﬁcantly aﬀect the moisture desorption content of the material. The presence of silica gel in gypsum-based hygroscopic materials can account for this phenomenon. With increasing ambient temperature, the moisture absorption capacity of silica gel strengthens, consequently en-hancing the moisture absorption capacity of the material. Materials 2023, 16, x FOR PEER REVIEW 10 of 18     Figure 7. The impact of temperature on the (a) moisture absorption; (b) moisture desorption. Figure 8 illustrates the absorption and desorption moisture content variations of gyp-sum-based humidity control under diﬀerent ambient relative humidities. As depicted in Figure 8a, the material’s moisture absorption content was augmented by 6% upon an in-crease in relative humidity from 50% to 80%. This increase culminated at 15.88% at a rel-ative humidity of 80%. As demonstrated in Figure 8b, the material’s moisture desorption content was augmented by 6% upon a decline in relative humidity from 50% to 20%. This increase culminated at 9.02% at a relative humidity of 20%. The experimental outcomes evince that the ambient relative humidity engenders an inﬂuence on both moisture ab-sorption and desorption content of the material. Additionally, the greater the gap between the ambient relative humidity and the internal moisture content of the material, the more superior its performance in regulating moisture.   Figure 8. The impact of relative humidities on the (a) moisture absorption; (b) moisture desorp-tion. 3.1.3. Isothermal Moisture Adsorption–Desorption Curve To evaluate and compare the humidity-control performance of pure gypsum, gyp-sum–silica gel humidity-control material, and gypsum-based humidity-control material, an isothermal moisture absorption and desorption test was conducted. Figure 9 indicated that the gypsum-based humidity-control material exhibited signiﬁcantly superior Materials 2023, 16, 5211
+
+10 of 16
+
+isothermal moisture absorption and desorption test was conducted. Figure 9 indicated
+that the gypsum-based humidity-control material exhibited signiﬁcantly superior moisture
+absorption and desorption performance compared to the other two materials. The humidity-
+control performance ranking was determined as follows: gypsum-based humidity-control
+material > gypsum–silica gel humidity-control material > pure gypsum. The maximum
+equilibrium moisture content of the gypsum-based humidity-control material was
+0.225 g/g at 97.4% relative humidity. This value exceeded that of the gypsum–silica
+gel humidity-control material by 1.4 times and pure gypsum by 4.5 times. Incorporating
+sepiolite powder activated by calcium chloride resulted in further enhancement of the
+adsorption and desorption capacity of gypsum. This improvement led to better humidity-
+control performance compared to the gypsum–silica gel humidity-control material.
+
+Figure 8. The impact of relative humidities on the (a) moisture absorption; (b) moisture desorption.
+
+Figure 9. Isothermal moisture adsorption–desorption curve.
+
+The ExpDec1 model in Origin software (Origin 2017) was used to ﬁt the isothermal
+
+equilibrium moisture content curve, the formula is as follows,
+
+y = y0 + A1e−x/t1
+
+(3)
+
+relevant parameters of the ﬁtting curve are listed in Table 5.
+
+Materials 2023, 16, x FOR PEER REVIEW 10 of 18     Figure 7. The impact of temperature on the (a) moisture absorption; (b) moisture desorption. Figure 8 illustrates the absorption and desorption moisture content variations of gyp-sum-based humidity control under diﬀerent ambient relative humidities. As depicted in Figure 8a, the material’s moisture absorption content was augmented by 6% upon an in-crease in relative humidity from 50% to 80%. This increase culminated at 15.88% at a rel-ative humidity of 80%. As demonstrated in Figure 8b, the material’s moisture desorption content was augmented by 6% upon a decline in relative humidity from 50% to 20%. This increase culminated at 9.02% at a relative humidity of 20%. The experimental outcomes evince that the ambient relative humidity engenders an inﬂuence on both moisture ab-sorption and desorption content of the material. Additionally, the greater the gap between the ambient relative humidity and the internal moisture content of the material, the more superior its performance in regulating moisture.   Figure 8. The impact of relative humidities on the (a) moisture absorption; (b) moisture desorp-tion. 3.1.3. Isothermal Moisture Adsorption–Desorption Curve To evaluate and compare the humidity-control performance of pure gypsum, gyp-sum–silica gel humidity-control material, and gypsum-based humidity-control material, an isothermal moisture absorption and desorption test was conducted. Figure 9 indicated that the gypsum-based humidity-control material exhibited signiﬁcantly superior Materials 2023, 16, x FOR PEER REVIEW 11 of 18   moisture absorption and desorption performance compared to the other two materials. The humidity-control performance ranking was determined as follows: gypsum-based humidity-control material > gypsum–silica gel humidity-control material > pure gypsum. The maximum equilibrium moisture content of the gypsum-based humidity-control ma-terial was 0.225 g/g at 97.4% relative humidity. This value exceeded that of the gypsum–silica gel humidity-control material by 1.4 times and pure gypsum by 4.5 times. Incorpo-rating sepiolite powder activated by calcium chloride resulted in further enhancement of the adsorption and desorption capacity of gypsum. This improvement led to better hu-midity-control performance compared to the gypsum–silica gel humidity-control mate-rial.  Figure 9. Isothermal moisture adsorption–desorption curve. The ExpDec1 model in Origin software (Origin 2017) was used to ﬁt the isothermal equilibrium moisture content curve, the formula is as follows, y = y0 + A1e−x/t1 (3)relevant parameters of the ﬁtting curve are listed in Table 5. Table 5. Parameters of sample isothermal equilibrium moisture content ﬁtting curve.  Parameters Gypsum-Based Material Gypsum–Silica Gel Material Gypsum Absorption process y0 −0.08307 −0.654 0.00327 A1 0.09532 0.65651 2.5 × 10−4 t1 −82.5884 −455.15 −18.7285 R2 0.97 0.98 0.97 Desorption process y0 0.24001 0.16084 0.06589 A1 −0.24108 −0.16068 −0.06519 t1 34.41 23.24 78.49  R2 0.99 0.99 0.98 3.2. Simulation Testing 3.2.1. The Impact of Material Thickness on Indoor Air Parameters After conducting a simulated study on the impact of diﬀerent thicknesses of materi-als laid on the interior of rooms under Xiamen’s summer climate conditions. These results are illustrated in Figure 10. The study found that the temperature trends of rooms with diﬀerent thickness materials were similar. It was observed that as the thickness increased, the average indoor air temperature slightly increased. The average temperature of the room with a 0.05 m thickness material was 0.26 °C higher than that with a 0.01 m thickness Materials 2023, 16, 5211
+
+11 of 16
+
+Table 5. Parameters of sample isothermal equilibrium moisture content ﬁtting curve.
+
+Parameters
+
+Gypsum-Based Material
+
+Gypsum–Silica Gel Material
+
+Gypsum
+
+Absorption process
+
+Desorption process
+
+y0
+A1
+t1
+R2
+y0
+A1
+t1
+R2
+
+−0.08307
+0.09532
+−82.5884
+0.97
+0.24001
+−0.24108
+34.41
+0.99
+
+−0.654
+0.65651
+−455.15
+0.98
+0.16084
+−0.16068
+23.24
+0.99
+
+0.00327
+2.5 × 10−4
+−18.7285
+0.97
+0.06589
+−0.06519
+78.49
+0.98
+
+3.2. Simulation Testing
+3.2.1. The Impact of Material Thickness on Indoor Air Parameters
+
+After conducting a simulated study on the impact of different thicknesses of materials
+laid on the interior of rooms under Xiamen’s summer climate conditions. These results
+are illustrated in Figure 10. The study found that the temperature trends of rooms with
+different thickness materials were similar. It was observed that as the thickness increased,
+the average indoor air temperature slightly increased. The average temperature of the
+room with a 0.05 m thickness material was 0.26 ◦C higher than that with a 0.01 m thickness
+material. Furthermore, the relative humidity in rooms with different thickness materials
+could be stabilized within the range of 40% to 70%. After laying the 0.05 m thick material,
+the change in indoor air relative humidity was the smallest and the trend was the most
+stable. However, there was not a signiﬁcant difference compared to other thicknesses.
+The mean relative humidity of rooms with a 0.05 m thickness material was only 0.78%
+lower than rooms with a 0.01 m thickness material. In conclusion, the variation in material
+thickness has a negligible effect on indoor air parameters. This may be due to the large
+range of the laying area, and the change in material thickness almost does not affect the
+total amount of material used.
+
+Figure 10. The impact of material thickness on (a) indoor temperature; (b) indoor relative humidity.
+
+Based on the simulation results, the optimal thickness value of the material cannot
+be determined solely by changes in indoor air parameters. However, a speciﬁc thickness
+value needs to be determined in subsequent simulations. Figure 11 shows the energy
+consumption of the room with different thickness materials laid on the inside of the room.
+As apparent from Figure 11, as the laying thickness increases, energy consumption shows a
+signiﬁcant downward trend. It is worth noting that when the laying thickness is 0.03 m,
+0.04 m, and 0.05 m, the energy consumption is relatively close, at 89 ± 1 kwh/m2, which is
+signiﬁcantly better than the energy consumption of 0.01 m and 0.02 m. Compared with
+laying thicknesses of 0.01 m and 0.02 m, energy efﬁciency has been improved by 7.25% and
+
+Materials 2023, 16, x FOR PEER REVIEW 12 of 18   material. Furthermore, the relative humidity in rooms with diﬀerent thickness materials could be stabilized within the range of 40% to 70%. After laying the 0.05 m thick material, the change in indoor air relative humidity was the smallest and the trend was the most stable. However, there was not a signiﬁcant diﬀerence compared to other thicknesses. The mean relative humidity of rooms with a 0.05 m thickness material was only 0.78% lower than rooms with a 0.01 m thickness material. In conclusion, the variation in material thick-ness has a negligible eﬀect on indoor air parameters. This may be due to the large range of the laying area, and the change in material thickness almost does not aﬀect the total amount of material used.  Figure 10. The impact of material thickness on (a) indoor temperature; (b) indoor relative humid-ity. Based on the simulation results, the optimal thickness value of the material cannot be determined solely by changes in indoor air parameters. However, a speciﬁc thickness value needs to be determined in subsequent simulations. Figure 11 shows the energy con-sumption of the room with diﬀerent thickness materials laid on the inside of the room. As apparent from Figure 11, as the laying thickness increases, energy consumption shows a signiﬁcant downward trend. It is worth noting that when the laying thickness is 0.03 m, 0.04 m, and 0.05 m, the energy consumption is relatively close, at 89 ± 1 kwh/m2, which is signiﬁcantly better than the energy consumption of 0.01 m and 0.02 m. Compared with laying thicknesses of 0.01 m and 0.02 m, energy eﬃciency has been improved by 7.25% and 3.17%, respectively. Considering economic factors, we choose 0.03 m as the laying thickness for subsequent simulations. Materials 2023, 16, 5211
+
+12 of 16
+
+3.17%, respectively. Considering economic factors, we choose 0.03 m as the laying thickness
+for subsequent simulations.
+
+Figure 11. The impact of material thickness on energy-saving.
+
+3.2.2. The Impact of Material Area on Indoor Air Parameters
+
+Then, a simulated study was conducted on the impact of different areas of materials
+laid on the interior of rooms on the indoor air parameters under Xiamen’s summer climate
+conditions. These results are illustrated in Figure 12. Figure 12a reveals that the average
+room temperature with laid material is higher than that without it, and the indoor tempera-
+ture intensiﬁes as the area of the material increases. This can be attributed to the exchange
+of outdoor heat into the indoor environment. It occurs due to high outdoor temperatures
+combined with strong sunlight, where the material retains some of the indoor heat load.
+As a result, there is an increase in the average indoor temperature. Figure 12b deduces that
+relative humidity outside remains high for most of the time. During the air conditioning
+operation period (8:00–18:00), both rooms exhibit comfortable levels of relative humidity.
+However, when the air conditioning is turned off, the relative humidity in the room with-
+out laid material may reach 80%, while the room with laid material can maintain indoor
+relative humidity at around 65%. This implies that the material has the potential to regulate
+indoor humidity ﬂuctuations and stabilize indoor relative humidity within a narrow range
+as the area increases. Compared to the room without laid material and the room with a
+63.6 m2 area, the room with a 159.6 m2 area exhibits a smaller amplitude of moisture
+content ﬂuctuation.
+
+Figure 12. The impact of material area on (a) indoor temperature; (b) indoor relative humidity.
+
+Materials 2023, 16, x FOR PEER REVIEW 13 of 18    Figure 11. The impact of material thickness on energy-saving. 3.2.2. The Impact of Material Area on Indoor Air Parameters Then, a simulated study was conducted on the impact of diﬀerent areas of materials laid on the interior of rooms on the indoor air parameters under Xiamen’s summer climate conditions. These results are illustrated in Figure 12. Figure 12a reveals that the average room temperature with laid material is higher than that without it, and the indoor tem-perature intensiﬁes as the area of the material increases. This can be attributed to the ex-change of outdoor heat into the indoor environment. It occurs due to high outdoor tem-peratures combined with strong sunlight, where the material retains some of the indoor heat load. As a result, there is an increase in the average indoor temperature. Figure 12b deduces that relative humidity outside remains high for most of the time. During the air conditioning operation period (8:00–18:00), both rooms exhibit comfortable levels of rela-tive humidity. However, when the air conditioning is turned oﬀ, the relative humidity in the room without laid material may reach 80%, while the room with laid material can maintain indoor relative humidity at around 65%. This implies that the material has the potential to regulate indoor humidity ﬂuctuations and stabilize indoor relative humidity within a narrow range as the area increases. Compared to the room without laid material and the room with a 63.6 m2 area, the room with a 159.6 m2 area exhibits a smaller ampli-tude of moisture content ﬂuctuation.   Figure 12. The impact of material area on (a) indoor temperature; (b) indoor relative humidity. Materials 2023, 16, x FOR PEER REVIEW 13 of 18    Figure 11. The impact of material thickness on energy-saving. 3.2.2. The Impact of Material Area on Indoor Air Parameters Then, a simulated study was conducted on the impact of diﬀerent areas of materials laid on the interior of rooms on the indoor air parameters under Xiamen’s summer climate conditions. These results are illustrated in Figure 12. Figure 12a reveals that the average room temperature with laid material is higher than that without it, and the indoor tem-perature intensiﬁes as the area of the material increases. This can be attributed to the ex-change of outdoor heat into the indoor environment. It occurs due to high outdoor tem-peratures combined with strong sunlight, where the material retains some of the indoor heat load. As a result, there is an increase in the average indoor temperature. Figure 12b deduces that relative humidity outside remains high for most of the time. During the air conditioning operation period (8:00–18:00), both rooms exhibit comfortable levels of rela-tive humidity. However, when the air conditioning is turned oﬀ, the relative humidity in the room without laid material may reach 80%, while the room with laid material can maintain indoor relative humidity at around 65%. This implies that the material has the potential to regulate indoor humidity ﬂuctuations and stabilize indoor relative humidity within a narrow range as the area increases. Compared to the room without laid material and the room with a 63.6 m2 area, the room with a 159.6 m2 area exhibits a smaller ampli-tude of moisture content ﬂuctuation.   Figure 12. The impact of material area on (a) indoor temperature; (b) indoor relative humidity. Materials 2023, 16, 5211
+
+13 of 16
+
+3.2.3. Analysis of Energy-Saving
+
+Table 6 presents a comparative analysis of the annual energy consumption and energy-
+saving efﬁciency achieved by using gypsum-based humidity-control material in the interior
+of buildings located in different cities. These cities include Beijing, Paris, Atlanta, and
+Xiamen. The analysis reveals that the energy-saving efﬁciencies for these cities are 19.31%,
+18.48%, 18.04%, and 10.81%, respectively. These ﬁndings demonstrate that the utilization of
+such material can effectively reduce building energy consumption, and their energy-saving
+effect is substantial. However, in Xiamen’s hot and humid climate, it should be noted
+that high outdoor temperatures elevate the thermal load accumulated by the material.
+Additionally, the outdoor relative humidity impedes the desorption process of the material,
+leading to suboptimal discharge of internal moisture. Consequently, in areas with large
+temperature and relative humidity ﬂuctuations throughout the year, such as Beijing, Paris,
+and Atlanta, the materials manifest excellent energy-saving capabilities. This suggests
+that if the heat and moisture retained by the material are expelled promptly, and the heat
+dissipation and desorption processes are facilitated, the energy-saving performance of the
+material will improve.
+
+Table 6. Annual energy consumption and energy saving of different cities in ofﬁce buildings.
+
+City
+
+Beijing
+
+Paris
+
+Atlanta
+
+Xiamen
+
+Load and Efﬁciency
+
+Total load (kwh/m2)
+Energy saving (%)
+Total load (kwh/m2)
+Energy saving (%)
+Total load (kwh/m2)
+Energy saving (%)
+Total load (kwh/m2)
+Energy saving (%)
+
+4. Discussion
+
+Case ID
+
+Reference
+
+CaseB.2
+
+77.88
+-
+60.77
+-
+112.13
+-
+100.34
+-
+
+62.84
+19.31
+49.54
+18.48
+91.9
+18.04
+89.49
+10.81
+
+Through the analysis of experimental results, it was found that intermittent dehu-
+midiﬁcation and humidiﬁcation have shown more beneﬁcial long-term performance for
+the material compared to continuous dehumidiﬁcation and humidiﬁcation. Moreover,
+although high temperature can promote the desorption process of gypsum-based humidity-
+control material, its desorption capacity is still limited under continuously high-humidity
+conditions. In contrast to temperature, relative humidity has a more signiﬁcant impact on
+the material’s humidity-control performance.
+
+The simulation results also conﬁrmed the ﬁndings.
+
+In climates characterized by
+sustained high temperature and humidity, such as Xiamen, outdoor high temperature
+increases the accumulated heat load on the material. Additionally, outdoor high humidity
+hinders the desorption process, resulting in suboptimal discharge of internal moisture.
+Conversely, in regions with greater ﬂuctuations in temperature and relative humidity
+throughout the year, such as Beijing, Paris, and Atlanta, the material exhibits excellent
+energy-saving performance.
+
+To better elucidate this ﬁnding, Xiamen was taken as an example to categorize the im-
+pact of gypsum-based humidity-control material on annual building energy consumption
+according to the seasons: spring, summer, autumn, and winter. The results are presented in
+Figure 13. During spring, it can be observed that there is a large temperature and relative
+humidity difference between daytime and nighttime. The temperature is higher during
+the day, and the relative humidity is lower. Under this circumstance, the material can
+absorb the heat from the surrounding environment by releasing the moisture stored in
+the internal capillary pores, thereby effectively reducing the indoor temperature. Con-
+versely, at night, the temperature drops, and the relative humidity increases, allowing the
+material to absorb moisture from the air that condenses inside the material and releases
+heat, leading to an increase in indoor temperature. Consequently, this material exhibits
+excellent energy-saving performance during spring. During summer, due to the continuous
+
+Materials 2023, 16, 5211
+
+14 of 16
+
+high temperature and humidity in Xiamen, the internal waste heat and moisture are not
+fully discharged and released. As a result, this limits the energy-saving capacity of the
+material. Similarly, during autumn, although outdoor temperature and humidity decrease
+relative to summer, they remain relatively high overall. This indicates that the material
+cannot efﬁciently discharge excess internal heat and moisture, thereby resulting in weak
+energy-saving performance. During winter, it exhibits similar characteristics to spring,
+with signiﬁcant diurnal temperature variation and relative humidity. However, the average
+temperature and average relative humidity are the lowest throughout the year, with an
+average temperature of 17.43 ◦C and an average relative humidity of 58.3%. During the
+daytime, the temperature is relatively high, and the humidity is lower. This creates an
+environment where the material can release moisture from its pores, effectively reducing
+the indoor temperature and decreasing the cooling load on air conditioning. However, as
+the nighttime temperature drops, the remaining moisture may further lower the indoor
+temperature, increasing the heating load on air conditioning. Overall, the material still
+demonstrates good energy-saving effects in winter.
+
+Figure 13. Energy consumption of Xiamen ofﬁce buildings in (a) spring, (b) summer, (c) autumn, and
+(d) winter.
+
+5. Conclusions
+
+To improve the humidity-control performance of traditional building materials and
+augment their efﬁcacy in regulating indoor relative humidity, this study incorporated
+sepiolite powder activated by calcium chloride into gypsum–silica gel humidity-control
+material to prepare a new type of gypsum-based humidity-control material. Through
+experimental and simulation studies, the following main conclusions were drawn:
+
+(1) Gypsum-based humidity-control material exhibits the ability to absorb moisture in
+high-humidity environments and desorb moisture in low-humidity environments. How-
+ever, the material’s humidity-control capacity decreases over time during continuous
+dehumidiﬁcation or humidiﬁcation. Therefore, intermittent dehumidiﬁcation and humidi-
+ﬁcation are more conducive to maintaining relative humidity stability for extended periods
+of time.
+
+(2) The moisture absorption content of the gypsum-based humidity-control material
+is minimally inﬂuenced by changes in environmental temperatures, while its moisture
+desorption content is noticeably affected. On the other hand, variations in relative humidity
+impact both the moisture adsorption and desorption content of the material. The larger the
+discrepancy between environmental relative humidity and the internal moisture content of
+the material, the greater the effectiveness of the material’s humidity-control performance.
+
+Materials 2023, 16, x FOR PEER REVIEW 15 of 18   Conversely, at night, the temperature drops, and the relative humidity increases, allowing the material to absorb moisture from the air that condenses inside the material and re-leases heat, leading to an increase in indoor temperature. Consequently, this material ex-hibits excellent energy-saving performance during spring. During summer, due to the continuous high temperature and humidity in Xiamen, the internal waste heat and mois-ture are not fully discharged and released. As a result, this limits the energy-saving capac-ity of the material. Similarly, during autumn, although outdoor temperature and humid-ity decrease relative to summer, they remain relatively high overall. This indicates that the material cannot eﬃciently discharge excess internal heat and moisture, thereby resulting in weak energy-saving performance. During winter, it exhibits similar characteristics to spring, with signiﬁcant diurnal temperature variation and relative humidity. However, the average temperature and average relative humidity are the lowest throughout the year, with an average temperature of 17.43 °C and an average relative humidity of 58.3%. During the daytime, the temperature is relatively high, and the humidity is lower. This creates an environment where the material can release moisture from its pores, eﬀectively reducing the indoor temperature and decreasing the cooling load on air conditioning. However, as the nighttime temperature drops, the remaining moisture may further lower the indoor temperature, increasing the heating load on air conditioning. Overall, the ma-terial still demonstrates good energy-saving eﬀects in winter.  Figure 13. Energy consumption of Xiamen oﬃce buildings in (a) spring, (b) summer, (c) autumn, and (d) winter. 5. Conclusions To improve the humidity-control performance of traditional building materials and augment their eﬃcacy in regulating indoor relative humidity, this study incorporated se-piolite powder activated by calcium chloride into gypsum–silica gel humidity-control ma-terial to prepare a new type of gypsum-based humidity-control material. Through exper-imental and simulation studies, the following main conclusions were drawn: (1) Gypsum-based humidity-control material exhibits the ability to absorb moisture in high-humidity environments and desorb moisture in low-humidity environments. However, the material’s humidity-control capacity decreases over time during continuous dehumidiﬁcation or humidiﬁcation. Therefore, intermittent dehumidiﬁcation and humid-iﬁcation are more conducive to maintaining relative humidity stability for extended peri-ods of time. Materials 2023, 16, 5211
+
+15 of 16
+
+(3) Addition of calcium-chloride-activated sepiolite powder signiﬁcantly enhances
+the adsorption and desorption abilities of the gypsum–silica gel humidity-control material.
+At a relative humidity of 97.4%, the equilibrium moisture content of the gypsum-based
+humidity-control material can reach a maximum of 0.225 g/g. It is 1.4 times higher than
+that of gypsum–silica gel material, and 4.5 times than that of pure gypsum materials.
+
+(4) Gypsum-based humidity-control material can mitigate the inﬂuence of exterior and
+interior humidity loads on indoor relative humidity. The material can reduce ﬂuctuations
+in indoor relative humidity and maintain it within a narrow range, providing a more stable
+indoor environment.
+
+(5) Gypsum-based humidity-control material has the potential to reduce building
+energy consumption. Simulation results show that compared with regions with high
+temperatures and high humidity throughout the year, this material is more suitable for
+areas with large diurnal temperature differences and differences in relative humidity.
+
+The uniqueness of this study lies in the successful preparation of a novel gypsum-based
+humidity-control material. It provides a new approach for low-cost and practical humidity-
+control building materials in the ﬁeld of architecture. However, there are still several
+limitations to be considered. This study explores the practical application of gypsum-based
+humidity-control materials through simulation research methods. Further work requires
+long-term monitoring and analysis in actual architectural environments to evaluate their
+actual moisture regulation performance. Additionally, during the preparation process
+of gypsum-based composite materials, the silica gel and activated sepiolite powder as
+additives signiﬁcantly enhance the moisture absorption and desorption properties of the
+materials. However, considering that silica gel itself belongs to a “strong absorption and
+weak desorption” material, it leads to relatively poor desorption performance of gypsum-
+based materials. The next focus of research will concentrate on exploring modiﬁcation
+methods to improve the moisture desorption performance of the materials. Simultaneously,
+it aims to achieve cost reduction objectives and ensure meet energy-saving requirements in
+continuous high-temperature and high-humidity environments.
+
+Author Contributions: X.L.: Writing—original draft, Software, Methodology, Formal analysis.
+M.R.: Writing—review and editing. All authors have read and agreed to the published version of
+the manuscript.
+
+Funding: This research was funded by the National Natural Science Foundation of China (No. 51678254).
+
+Institutional Review Board Statement: Not applicable.
+
+Informed Consent Statement: Not applicable.
+
+Data Availability Statement: Data sharing not applicable.
+
+Conﬂicts of Interest: The authors declare that they have no known competing ﬁnancial interest or
+personal relationships that could have appeared to inﬂuence the work reported in this paper.
+
+References
+
+3.
+
+2.
+
+1.
+
+Arundel, A.V.; Sterling, E.M.; Biggin, J.H.; Sterling, T.D. Indirect health effects of relative humidity in indoor environments.
+Environ. Health Perspect. 1986, 65, 351–361.
+Khaled, S.; Collet, F.; Prétot, S.; Bart, M. Effect of Air Velocity and Initial Conditioning on the Moisture Buffer Value of Four
+Different Building Materials. Materials 2023, 16, 3284. [CrossRef]
+Rao, Z.; Wang, S.; Zhang, Z. Energy saving latent heat storage and environmental friendly humidity-controlled materials for
+indoor climate. Renew. Sustain. Energy Rev. 2012, 16, 3136–3145. [CrossRef]
+Atthajariyakul, S.; Leephakpreeda, T. Real-time determination of optimal indoor-air condition for thermal comfort, air quality
+and efﬁcient energy usage. Energy Build. 2004, 36, 720–733. [CrossRef]
+Fang, L.; Clausen, G.; Fanger, P.O. Impact of Temperature and Humidity on Perception of Indoor Air Quality during Immediate
+and Longer Whole-Body Exposures. Indoor Air 1998, 8, 276–284. [CrossRef]
+China Building Energy Conservation Association. China Building Energy Consumption Annual Report 2020. J. BEE 2021, 49, 1–6.
+6.
+7. He, X.; Zhang, H.; Qiu, L.; Mao, Z.; Shi, C. Hygrothermal performance of temperature-humidity controlling materials with
+
+4.
+
+5.
+
+different compositions. Energy Build. 2021, 236, 110792. [CrossRef]
+
+Materials 2023, 16, 5211
+
+16 of 16
+
+8. Mingyu, H.; Ye, L.; Xingguo, G.; Xiangwei, L.; Zhangjun, L.; Chao, F. Effect of Diatomite/Sphagnum Composite Humidity-
+
+Controlling Materials on Temperature and Humidity Control. Build. Sci. 2019, 35, 50–59.
+Ran, M. Review of Research and Application of Air Humidity Controlling Materials in Japan. Mater. Rep. 2002, 16, 42–44.
+
+9.
+10. Nishito, I.; Miyano, A.; Yan, Q. About the changes in indoor humidity. Trans. Archit. Inst. Jpn. 1952, 44, 73–81.
+11. Osanyintola, O.F.; Simonson, C.J. Moisture buffering capacity of hygroscopic building materials: Experimental facilities and
+
+energy impact. Energy Build. 2006, 38, 1270–1282. [CrossRef]
+
+12. Zhang, H.; Yoshino, H.; Hasegawa, K.; Liu, J.; Zhang, W.; Xuan, H. Practical moisture buffering effect of three hygroscopic
+
+materials in real-world conditions. Energy Build. 2017, 139, 214–223. [CrossRef]
+
+13. Colinart, T.; Glouannec, P.; Pierre, T.; Chauvelon, P.; Magueresse, A. Experimental Study on the Hygrothermal Behavior of a
+
+Coated Sprayed Hemp Concrete Wall. Buildings 2013, 3, 79–99. [CrossRef]
+
+14. Gómez, I.; Guths, S.; Souza, R.; Millan, J.A.; Martín, K.; Sala, J.M. Moisture buffering performance of a new pozolanic ceramic
+
+material: Inﬂuence of the ﬁlm layer resistance. Energy Build. 2011, 43, 873–878. [CrossRef]
+
+15. Kim, H.-J. The Hygric Performances of Moisture Adsorbing/Desorbing Building Materials. Aerosol Air Qual. Res. 2010, 10,
+
+625–634. [CrossRef]
+
+16. Zhang, H.; Yoshino, H.; Hasegawa, K. Assessing the moisture buffering performance of hygroscopic material by using experi-
+
+mental method. Build. Environ. 2012, 48, 27–34. [CrossRef]
+
+17. Ge, H.; Yang, X.; Fazio, P.; Rao, J. Inﬂuence of moisture load proﬁles on moisture buffering potential and moisture residuals of
+
+18.
+
+three groups of hygroscopic materials. Build. Environ. 2014, 81, 162–171. [CrossRef]
+Simonson, C.J.; Salonvaara, M.; Ojanen, T. Moderating Indoor Conditions with Hygroscopic Building Materials and Outdoor
+Ventilation/Discussion. Ashrae Trans. 2004, 110, 804–819.
+
+19. Zhang, M.; Qin, M.; Rode, C.; Chen, Z. Moisture buffering phenomenon and its impact on building energy consumption.
+
+Appl. Therm. Eng. 2017, 124, 337–345. [CrossRef]
+
+20. Xu, Z.; Liting, Y. Recent progress on composite humidity control materials. Chem. Ind. Eng. Prog. 2020, 39, 1378–1388.
+21. Guanyi, C.; Xiaoling, B.; Xiumei, Z.; Qiang, L. Research on characteristics of biomass-based humidity-controlling materials.
+
+HV&AC 2007, 37, 14–17.
+
+22. Hongyi, J.; Yiping, W.; Hailaing, W. Explorative Research of the Organic Humidity Controlling Materials. J. Wuhan Univ. Technol.
+
+2007, 28, 6–8.
+
+23. Roels, S.; Janssen, H.; Carmeliet, J.; Diepens, J.; de Wit, M. Hygric buffering capacities of uncoated and coated gypsum board. In
+
+Research in Building Physics and Building Engineering; CRC Press: Boca Raton, FL, USA, 2006; pp. 27–32.
+
+24. Zhang, Y.; Chen, J.; Liang, X.; Wei, X.; Zhang, Z.; Wang, R. Experimental Research on the Effect of Humidity Controlling Materials
+
+on Indoor Humidity Environment. J. BEE 2016, 44, 48–51+87.
+
+25. Pedram, S.; Tariku, F. Moisture Buffering Effect of Gypsum Board in a Marine Climate: A Field Experimental Study. Adv. Mater.
+
+26.
+
+Res. 2014, 1051, 763–773. [CrossRef]
+Jianli, S.; Hao, Z.; Li, D. Preparation of composite material of gypsum-based double-shell micro-nano phase change capsules and
+performance research of temperature-humidity control. Acta Energiae Solaris Sin. 2016, 37, 1481–1487.
+
+27. Zong, Z.; Chen, D.; Zhao, C.; Tang, G.; Ji, Y.; Zhang, H.; Lv, Z. Application of Ce–Eu/TiO2 phase change material as the wall
+
+28.
+
+29.
+
+material to improve the indoor environment. J. Mater. Res. 2021, 36, 615–627. [CrossRef]
+Jiang, H.; Luan, C. Preparation and absorption/desorption performance of gypsum-based humidity controlling materials.
+J. Wuhan Univ. Technol. Mater. Sci. Ed. 2011, 26, 684–686. [CrossRef]
+Shang, J.L.; Zong, Z.F.; Zhang, H. Synthesis and analysis of new humidity-controlling composite materials. Int. J. Miner. Metall.
+Mater. 2017, 24, 594–602. [CrossRef]
+
+30. Lee, J.-K.; Kim, T.-Y. Evaluation of Humidity Control Ceramic Paint Using Gypsum Binder. J. Korean Ceram. Soc. 2018, 55, 74–79.
+
+31.
+
+[CrossRef]
+Jianli, S.; Dan, C.; Bin, W. Preparation of the biomass porous phase change materials and its thermal and moisture properties.
+New Chem. Mater. 2015, 43, 107–109+113.
+
+32. Guitang, X.; Jun, Z.; Ming, Y.; Yuchuan, W.; Guochang, J.; Zhiguo, J. Research and Application Status of Humidity-controlling
+
+Materials. Mater. Rep. 2021, 35, 634–638.
+Jihui, W.; Zhiwei, W. Advances in Humidity-controlling Composite Materials. Mater. Rep. 2007, 21, 55–58.
+
+33.
+34. Xi, L.; Maoyu, R. Gypsum-based silica gel humidity-controlling composite materials: Preparation, characterization, and perfor-
+
+mance. J. Wuhan Univ. Technol. Mater. Sci. Ed. Accepted.
+
+35. Luan, C. The Preparation and Performance of Gypsum-Based Humidity Controlling Materials. Master’s Thesis, Wuhan University
+
+of Technology, Wuhan, China, 2008.
+
+36. GB/T 20313-2006; Hygrothermal Performance of Building Materials and Products—Determination of Moisture Content by Drying
+
+at Elevated Temperature. China Building Materials Industry Association: Beijing, China, 2006.
+
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual
+author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to
+people or property resulting from any ideas, methods, instructions or products referred to in the content.
+
+

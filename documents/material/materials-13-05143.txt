@@ -1,0 +1,805 @@
+Article
+A Constitutive Material Model Applied to
+Microforming Processes
+
+Zbigniew Zimniak
+
+Department of Metal Forming, Welding and Metrology, Wrocław University of Science and Technology,
+ul. Łukasiewicza 5, 50-371 Wrocław, Poland; zbigniew.zimniak@pwr.edu.pl; Tel.: +48-713-202-162
+
+Received: 20 October 2020; Accepted: 13 November 2020; Published: 15 November 2020
+
+Abstract: The plastic treatment of products reduced to sizes corresponding to the microscale poses
+diﬃculties, due to the occurrence of the so-called size eﬀect, which is responsible for the diﬀerent
+behavior of the material during the realization of microforming. In this study, a constitutive equation
+was elaborated taking into account two types of size eﬀects, with the use of a surface model as well
+as a composite material model. The inﬂuence of the size eﬀect referring to both the material grain
+size and the geometric scaling of the sample size on the material’s ﬂow stresses was considered.
+The surface model took into account the diﬀerent grain shapes present in actual polycrystalline
+materials. After the application of the presented model for titanium Grade 2, a good agreement of the
+experimental results with the FEM simulation results was obtained. Thus, the proper FEM modeling
+of microforming processes should be conducted with the use of a material model, taking into account
+the occurring size eﬀects.
+
+Keywords: constitutive model; microforming; size eﬀect; FEM
+
+1. Introduction
+
+One of the modern plastic treatment technologies is microforming, which makes it possible
+to produce metal components with dimensions below 1 mm [1–8]. At this scale, there are various
+factors aﬀecting the deformation behavior, process performance, and quality of microformed parts.
+Microstructures of a material become increasingly important as the size of the material is reduced to
+the microscale. When sheet metal is only a few grains thick, its mechanical properties may diﬀer from
+those of the bulk metal with a regular scale. An important issue in the examination of microforming
+processes is the so-called size eﬀect. Size eﬀects can be described as deviations from the expected
+result, which take place when the size of the examined object changes. They play a signiﬁcant role in
+processes involving scaling. Size eﬀects can be helpful in the development of knowledge as well as
+in the understanding of the phenomena occurring in micro- and nanotechnology. It was observed
+that a change in the geometrical dimensions of the sample also causes a change in its mechanical
+properties [8].
+
+Various theories have been developed for the modeling of macroscale plastic deformation
+during metal forming. The traditional constitutive model is no longer valid for accurate analysis of
+microforming processes. In order to obtain a relation between the material’s plastic deformation and
+the size eﬀects, investigations referring to the microforming of copper and aluminum alloys were
+performed [9]. The results obtained by the authors showed that the yield stresses decrease with
+an increasing miniaturization, with a constant grain size of the material [10]. Miyazaki et al. [11]
+investigated the eﬀect of specimen size on the ﬂow stress of a rod specimen of polycrystalline Cu–Al
+alloy and an aﬀected zone model was proposed to explain why the ﬂow stress decreases with the
+dimensional reduction of the specimen. Kals et al. [12] and Engel et al. [13] proposed a model called
+the “surface model”, which is currently applied to analyze the inﬂuence of the size eﬀect on yield
+
+Materials 2020, 13, 5143; doi:10.3390/ma13225143
+
+www.mdpi.com/journal/materials
+
+materials(cid:1)(cid:2)(cid:3)(cid:1)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:1)(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)Materials 2020, 13, 5143
+
+2 of 10
+
+stresses. The model assumes that the sample consists of two separate parts (the internal part and the
+surface layer). The percentage share of the surface layer grains increases with an increase in the grain
+size or with a decrease in the geometrical dimensions of the object [12,13].
+
+The study presented below uses a model which consists of a surface model [13] and a composite
+model of polycrystalline materials [14]. The composite model [14] assumes that grains are spherical
+and are composed of grain boundary layers and grain interiors. This model has been proven to be a
+valid and eﬀective approach to describe the relationship between the ﬂow stress of the polycrystalline
+aggregate and grain size.
+
+The model takes into account the phenomenon of grain boundary hardening of the external grain
+surface under the eﬀect of plastic deformations. The yield stresses in the given grain change according
+to the “mixture law” [11].
+
+The model proposed in the study takes into consideration two size eﬀects: one connected with the
+grain size and the other related to the geometrical dimensions of the sample. Experimental studies were
+conducted on cylindrical samples made of pure titanium Grade 2, which were deformed as samples in a
+uniaxial compression test. Pure titanium is often used for the manufacture of microparts in biomedical
+devices and implants because of its light weight, biocompatibility, and outstanding corrosion resistance.
+The obtained experimental results were then analyzed using the proposed model taking into account the
+two size eﬀects. The model was then applied in FEM calculations. Next, the experimental results were
+compared with the results of numerical simulations. The simulations were helpful in the development
+of tools for microforming implants for a total ossicular replacement prosthesis.
+
+2. The Grain Size Eﬀect
+
+For the material taking into account the size eﬀect referring to grain size, the composite material
+model by Kocks [15] and Meyers and Ashworth [14] was applied. The test showed that, in the given
+grain, the grain boundary zone exhibits better hardening than its interior zone [16]. Meyers and
+Ashworth [14] divided the grain into two parts (the grain interior and the grain boundary). This division
+has been presented in Figure 1 for a few selected grain shapes: a regular hexagon, a rhomb, and a
+symmetric trapezium, assuming that the grain size is d and the thickness of the grain boundary layer
+is tz.
+
+Figure 1. Grain interior and grain boundary models.
+
+According to the material composite model, the yield stresses are calculated from the equation
+
+S = σZW fZW + σZZ fZZ
+σ
+
+(1)
+
+where: σ
+S —the ﬂow stresses of the polycrystalline aggregate (MPa), fZW, fZZ —the area fraction of the
+interior and boundary grains, and σZW, σZZ —the ﬂow stresses occurring for the interior and boundary
+grains (MPa).
+
+Materials 2020, 13, x FOR PEER REVIEW 2 of 9  surface layer). The percentage share of the surface layer grains increases with an increase in the grain size or with a decrease in the geometrical dimensions of the object [12,13]. The study presented below uses a model which consists of a surface model [13] and a composite model of polycrystalline materials [14]. The composite model [14] assumes that grains are spherical and are composed of grain boundary layers and grain interiors. This model has been proven to be a valid and effective approach to describe the relationship between the flow stress of the polycrystalline aggregate and grain size. The model takes into account the phenomenon of grain boundary hardening of the external grain surface under the effect of plastic deformations. The yield stresses in the given grain change according to the “mixture law” [11]. The model proposed in the study takes into consideration two size effects: one connected with the grain size and the other related to the geometrical dimensions of the sample. Experimental studies were conducted on cylindrical samples made of pure titanium Grade 2, which were deformed as samples in a uniaxial compression test. Pure titanium is often used for the manufacture of microparts in biomedical devices and implants because of its light weight, biocompatibility, and outstanding corrosion resistance. The obtained experimental results were then analyzed using the proposed model taking into account the two size effects. The model was then applied in FEM calculations. Next, the experimental results were compared with the results of numerical simulations. The simulations were helpful in the development of tools for microforming implants for a total ossicular replacement prosthesis. 2. The Grain Size Effect For the material taking into account the size effect referring to grain size, the composite material model by Kocks [15] and Meyers and Ashworth [14] was applied. The test showed that, in the given grain, the grain boundary zone exhibits better hardening than its interior zone [16]. Meyers and Ashworth [14] divided the grain into two parts (the grain interior and the grain boundary). This division has been presented in Figure 1 for a few selected grain shapes: a regular hexagon, a rhomb, and a symmetric trapezium, assuming that the grain size is d and the thickness of the grain boundary layer is tz.  Figure 1. Grain interior and grain boundary models. According to the material composite model, the yield stresses are calculated from the equation 𝜎(cid:3020)=𝜎(cid:3027)(cid:3024)𝑓(cid:3027)(cid:3024)+𝜎(cid:3027)(cid:3027)𝑓(cid:3027)(cid:3027) (1) where: 𝜎(cid:3020) —the flow stresses of the polycrystalline aggregate (MPa), 𝑓(cid:3027)(cid:3024),𝑓(cid:3027)(cid:3027) —the area fraction of the interior and boundary grains, and 𝜎(cid:3027)(cid:3024),𝜎(cid:3027)(cid:3027) —the flow stresses occurring for the interior and boundary grains (MPa). The area fractions for the grain model with a regular hexagon shape are as follows: 𝑓(cid:3027)(cid:3024)=3√32(𝑑2−2𝑡(cid:3027)√3)(cid:2870)3√32(𝑑2)(cid:2870)=1−8 √3𝑡(cid:3027)𝑑+163𝑡(cid:3027)(cid:2870)𝑑(cid:2870) (2) Materials 2020, 13, 5143
+
+The area fractions for the grain model with a regular hexagon shape are as follows:
+
+3
+
+fZW =
+
+− 2tZ√
+3
+
+√
+3
+2 ( d
+2
+√
+3
+3
+2 ( d
+
+2 )2
+
+2
+
+)
+
+= 1 − 8√
+3
+
+tZ
+d
+
++
+
+16
+3
+
+2
+
+tZ
+d2
+
+3
+
+fZZ =
+
+√
+3
+2 ( d
+
+2 )2 − 3
+
+√
+3
+2 ( d
+2
+2 )2
+
+√
+3
+2 ( d
+
+3
+
+2
+
+)
+
+− 2tZ√
+3
+
+= 1 − fZW =
+
+8√
+
+3
+
+tZ
+d
+
+− 16
+3
+
+2
+
+tZ
+d2
+
+3 of 10
+
+(2)
+
+(3)
+
+After the substitution of Equations (2) and (3) into Equation (1), the ﬂow stress for the polycrystalline
+
+aggregate will equal
+
+σs = σZW +
+
+8√
+3
+
+tZ(σZZ − σZW)d
+
+−1 − 16
+3
+
+2(σZZ − σZW)d
+
+−2
+
+tZ
+
+(4)
+
+Taking into account the fact that the interior grain and the boundary grain have diﬀerent surface
+
+fractions in diﬀerent sections, the mean values for tz and d were applied:
+
+σs = σZW +
+
+8√
+3
+
+tZ(σZZ − σZW)d
+
+−1 − 16
+3
+
+2(σZZ − σZW)d
+
+−2
+
+tZ
+
+The dependence between d and d, as well as between tz and tz, is as follows [14]:
+
+d =
+
+π
+
+4
+
+d; tZ = 1.57 tZ
+
+Therefore,
+
+σs = σZW +
+
+16√
+3
+
+tZ(σZZ − σZW)d
+
+−1 − 64
+3
+
+2(σZZ − σZW)d
+
+−2
+
+tZ
+
+(5)
+
+(6)
+
+(7)
+
+The thickness of the boundary grain layer is connected with the grain size in the following
+
+formula [17]:
+
+tZ = k·dn(0 < n < 1)
+
+(8)
+
+where k and n are treated as constants for the given material, which can be obtained from the Hall–Petch
+relation, where, for titanium, k = 0.4, and n = 0.5 [10].
+
+After the substitution of Equation (9) into Equation (8), the following relation was obtained:
+
+σs = σZW +
+
+16√
+3
+
+0.4(σZZ − σZW)d
+
+−0.5 − 64
+3
+
+(0.4)2(σZZ − σZW)d
+
+−1
+
+(9)
+
+Similar considerations can be performed for a grain with a rhomb and symmetric trapezium
+shape, which can be isolated in titanium Grade 2. It was assumed that in the case of a rhomb, its shorter
+◦
+diagonal is equal to the diameter of the grain d. It was assumed that the angles in the rhomb equal 65
+, whereas the thickness of the external grain layer tz was calculated based on trigonometrical
+and 115
+equations. The area fractions of the particular parts of the grain equal
+
+◦
+
+fZW =
+
+1
+
+2 (d − 2 tz
+
+◦ )( dπ
+2
+sin 57.5
+2 d· dπ
+1
+
+2
+
+− 2tz
+
+sin 32.5
+
+◦ )
+
+d2π
+2
+
+fZZ =
+
+− 1
+
+2 (d − 2 tz
+
+◦ )( dπ
+2
+
+sin 57.5
+1
+
+2 d· dπ
+
+2
+
+− 2tz
+
+sin 32.5
+
+◦ )
+
+= 1 − fZW
+
+(10)
+
+(11)
+
+Materials 2020, 13, 5143
+
+Therefore, the yield stress for the polycrystalline aggregate will equal
+
+σs = σZW + 4.77·tz(σZZ − σZW)d
+
+−1 − 5.68·tz2(σZZ − σZW)d
+
+−2
+
+Similar to the case of a regular hexagon, the following ﬁnal relation was obtained:
+
+σs = σZW + 9.57·k(σZZ − σZW)dn−1 − 22.72·k2(σZZ − σZW)d2n−2
+
+4 of 10
+
+(12)
+
+(13)
+
+Similar calculations were made for the composite model with the grain shape of a symmetric
+trapezium. In this case, it was assumed that the height of a symmetric trapezium h is equal to the
+grain diameter d and the lower base is twice as long as the upper base. The angels in the assumed
+. For such a model, the area fractions of the particular parts of the grain
+trapezium equal 75
+were calculated:
+
+◦
+and 105
+
+◦
+
+1
+
+2 ( dπ
+
+2
+
+− 2.56tz)(d − 2tz)
+
+fZW =
+
+1
+
+4 dπ·d − 1
+
+2 ( dπ
+
+2
+
+1
+
+4 dπ·d
+− 2.56tz)(d − 2tz)
+4 dπ·d
+1
+
+= 1 − fZW
+
+fZZ =
+
+The yield stress equals
+
+σs = σZW + 7.12·tz(σZZ − σZW)d
+
+−1 − 10.24·tz2(σZZ − σZW)d
+
+−2
+
+Ultimately, the following relation for the yield stress of the polycrystalline aggregate was obtained:
+
+σs = σZW + 14.24·k(σZZ − σZW)dn−1 − 40.96·k2(σZZ − σZW)d2n−2
+
+(17)
+
+3. Geometrical Size Eﬀect
+
+The other analyzed size eﬀect is the geometrical eﬀect. In order to consider this eﬀect, a surface
+material model was applied. The aim was to determine the inﬂuence of the geometrical size eﬀect
+on the changes in the ﬂow stresses. The surface model divides the analyzed samples into two parts:
+the surface layer and the inner section. The yield stress can be calculated from the formula
+
+σ = ησwewn + (1 − η)σpow
+
+(18)
+
+where: σ —the material’s ﬂow stresses (MPa), η —the geometric scale coeﬃcient (–), and σwewn,
+σpow —the ﬂow stresses for the inner and the surface grains (MPa).
+
+The grains in the inner portion of the specimen for the surface model consist of the interior and
+grain boundary. Therefore, the ﬂow stresses of the inner grains are equal to the ﬂow stress of the
+polycrystalline aggregate: σwewn = σs. The grains located at the free surfaces have less hardening
+eﬀect than the inner grains. It is assumed that in the surface layer, the phenomenon of external grain
+hardening occurs, so the ﬂow stress of the surface layer in the surface model will be equal to the ﬂow
+stress of the interior grain of the composite model: σpow = σZW. It was assumed that the thickness
+of the surface layer is equal to the thickness of one grain [10]. Figure 2 shows a cross-section of a
+cylindrical sample with its marked layers.
+
+(14)
+
+(15)
+
+(16)
+
+Materials 2020, 13, 5143
+
+5 of 10
+
+Figure 2. Surface layer and inner portions in a specimen section.
+
+The surface model will consist of diﬀerent grain shapes, so the ﬂow stresses for this model will be
+
+represented by the following formula:
+
+n(cid:88)
+
+r·σ
+si
+
+σ
+S =
+
+(19)
+
+i=1
+where: r—the particular shares of the grains in the structure, and σsi —the given yield stress for the
+particular grain shape.
+
+By analyzing the microsection composition of titanium Grade 2, it is possible to determine the
+shares of the particular grain shapes in the material. It was assumed that the rhomb-shaped grains
+occupy approximately 50%, the trapezium-shaped grains 40%, and the hexagon-shaped grains 10%.
+Presented below is an equation which takes into account the particular shares.
+
+σ = σZW + (0, 1· 16√
+3
+3 + 0.4·40.96 + 0.5·22.72)k2η(σZZ − σZW)d2n−2
+· 64
+
++ 0.4·14.24 + 0.5·9.57)kη(σZZ − σZW)dn−1 − (0.1
+
+In order to lower the parameter η for the cylindrical sample, we use the geometric relation
+
+η =
+
+·π
+
+(D−2d)2
+4
+D2
+4
+
+π
+
+(20)
+
+(21)
+
+Therefore, the elaborated model (21) takes into account the eﬀects connected with the grain size
+
+and the geometrical dimensions of the sample.
+
+4. Determination of the Parameters for a Model Considering Two Size Eﬀects
+
+In the analyzed material model (21), there are two unknowns, which are the ﬂow stresses of the
+interior grain σZW and the boundary grain σZZ. We assume that the ﬂow stresses can be presented in
+the form of the following linear function [10]:
+
+σ = A + Bη
+
+where:
+
+A = σZW; B = (0.1 × 16√
+3
+−(0.1 × 64
+
++ 0.4 × 14.24 + 0.5 × 9.57)k(σZZ − σZW)dn−1
+3 + 0.4 × 40.96 + 0.5 × 22.72)k2(σZZ − σZW)d2n−2
+
+(22)
+
+(23)
+
+When there are more than two experimentally determined reinforcement curves with diﬀerent
+geometrical scale factors η, it is possible to determine the model parameters (A and B). In order to
+determine the form of the linear function (22), parameters A and B from diﬀerent reinforcement curves
+were matched in such a way so as to obtain the ﬁnal form of Equation (22). In this way, we can
+determine the values for σZW and σZZ.
+
+Materials 2020, 13, x FOR PEER REVIEW 4 of 9  trapezium equal 75° and 105°. For such a model, the area fractions of the particular parts of the grain were calculated: 𝑓(cid:3027)(cid:3024)=(cid:3117)(cid:3118)((cid:3279)(cid:3343)(cid:3118)(cid:2879)(cid:2870).(cid:2873)(cid:2874)(cid:3047)(cid:3053))((cid:3031)(cid:2879)(cid:2870)(cid:3047)(cid:3053))(cid:3117)(cid:3120)(cid:3031)(cid:3095)∙(cid:3031)  (14)  𝑓(cid:3027)(cid:3027)=14𝑑𝜋∙𝑑−12(𝑑𝜋2−2.56𝑡𝑧)(𝑑−2𝑡𝑧)14𝑑𝜋∙𝑑=1−𝑓(cid:3027)(cid:3024)  (15) The yield stress equals 𝜎(cid:3046)=𝜎(cid:3027)(cid:3024)+7.12∙𝑡𝑧(𝜎(cid:3027)(cid:3027)−𝜎(cid:3027)(cid:3024))𝑑(cid:2879)(cid:2869)−10.24∙𝑡𝑧(cid:2870)(𝜎(cid:3027)(cid:3027)−𝜎(cid:3027)(cid:3024))𝑑(cid:2879)(cid:2870) (16) Ultimately, the following relation for the yield stress of the polycrystalline aggregate was obtained: 𝜎(cid:3046)=𝜎(cid:3027)(cid:3024)+14.24∙𝑘(𝜎(cid:3027)(cid:3027)−𝜎(cid:3027)(cid:3024))𝑑(cid:3041)(cid:2879)(cid:2869)−40.96∙𝑘(cid:2870)(𝜎(cid:3027)(cid:3027)−𝜎(cid:3027)(cid:3024))𝑑(cid:2870)(cid:3041)(cid:2879)(cid:2870)  (17) 3. Geometrical Size Effect The other analyzed size effect is the geometrical effect. In order to consider this effect, a surface material model was applied. The aim was to determine the influence of the geometrical size effect on the changes in the flow stresses. The surface model divides the analyzed samples into two parts: the surface layer and the inner section. The yield stress can be calculated from the formula 𝜎=𝜂𝜎(cid:3050)(cid:3032)(cid:3050)(cid:3041)+(1−𝜂)𝜎(cid:3043)(cid:3042)(cid:3050) (18) where: 𝜎 —the material’s flow stresses (MPa), 𝜂 —the geometric scale coefficient (–), and 𝜎(cid:3050)(cid:3032)(cid:3050)(cid:3041),𝜎(cid:3043)(cid:3042)(cid:3050) —the flow stresses for the inner and the surface grains (MPa). The grains in the inner portion of the specimen for the surface model consist of the interior and grain boundary. Therefore, the flow stresses of the inner grains are equal to the flow stress of the polycrystalline aggregate: 𝜎(cid:3050)(cid:3032)(cid:3050)(cid:3041)  =  𝜎(cid:3046). The grains located at the free surfaces have less hardening effect than the inner grains. It is assumed that in the surface layer, the phenomenon of external grain hardening occurs, so the flow stress of the surface layer in the surface model will be equal to the flow stress of the interior grain of the composite model: 𝜎(cid:3043)(cid:3042)(cid:3050)  =  𝜎(cid:3027)(cid:3024). It was assumed that the thickness of the surface layer is equal to the thickness of one grain [10]. Figure 2 shows a cross-section of a cylindrical sample with its marked layers.  Figure 2. Surface layer and inner portions in a specimen section. The surface model will consist of different grain shapes, so the flow stresses for this model will be represented by the following formula: Materials 2020, 13, 5143
+
+5. Experimental Tests
+
+6 of 10
+
+In order to verify the correctness of the assumed model, an experiential compression test was
+performed on cylindrical samples made of titanium Grade 2 with the mean grain size of d = 37 µm.
+To guarantee each specimen has a similar deformation, a scaling factor λ is introduced to scale-down
+the specimen geometry and process parameters. In the tests, three diﬀerent scale factors λ and η were
+applied, which have been compiled with the assumed sample dimensions in Table 1.
+
+Table 1. Geometrical dimensions and process parameters for micro-upsetting.
+
+Sample Data/Number
+
+Height (mm)
+Diameter (mm)
+Compression rate (mm/s)
+Scale factor (λ)
+Geometrical scale factor (η)
+
+1
+
+3.00
+2.00
+0.007
+1
+0.93
+
+2
+
+1.50
+1.00
+0.0035
+0.5
+0.86
+
+3
+
+0.72
+0.48
+0.0016
+0.24
+0.73
+
+The tests involved the use of a microprocessing machine constructed by the authors [18,19]
+(Figure 3), with a maximal force of 5000 N and a tool positioning accuracy of ±500 nanometers,
+C.
+equipped with an automatic feeder and with the possibility of tool work at a temperature up to 400
+
+◦
+
+Figure 3. Machine for microforming processes.
+
+With the application of the results obtained from the uniaxial compression test, the ﬂow stresses for
+the interior and boundary grains were calculated based on Equation (22). According to the composite
+material model, the ﬂow stress of the grain boundary is higher than that of the grain interior. The ﬂow
+curves for the boundary and interior grains determined based on the calculation procedure described
+in Section 4 are shown in Figure 4.
+
+Materials 2020, 13, x FOR PEER REVIEW 6 of 9  Table 1. Geometrical dimensions and process parameters for micro-upsetting. Sample Data/Number 1 2 3 Height (mm) Diameter (mm) 3.00 2.00 1.50 1.00 0.72 0.48 Compression rate (mm/s) 0.007 0.0035 0.0016 Scale factor (λ) 1 0.5 0.24 Geometrical scale factor (η) 0.93 0.86 0.73 The tests involved the use of a microprocessing machine constructed by the authors [18,19] (Figure 3), with a maximal force of 5000 N and a tool positioning accuracy of ±500 nanometers, equipped with an automatic feeder and with the possibility of tool work at a temperature up to 400 °C.  Figure 3. Machine for microforming processes. With the application of the results obtained from the uniaxial compression test, the flow stresses for the interior and boundary grains were calculated based on Equation (22). According to the composite material model, the flow stress of the grain boundary is higher than that of the grain interior. The flow curves for the boundary and interior grains determined based on the calculation procedure described in Section 4 are shown in Figure 4.  Materials 2020, 13, 5143
+
+7 of 10
+
+Figure 4. Flow curves for boundary and interior grains, a diagram obtained based on a uniaxial
+compression test.
+
+6. FEM Simulation
+
+FEM modeling of uniaxial compression tests was performed with the use of the MSC MarcMentat
+2016 program. For the FEM calculations, the ﬂow curves determined based on Equation (22) were
+applied. An elastic–plastic model with isotropic hardening was used. The model used symmetry in
+respect to the axis of the cylindrical sample, and rigid tools were applied. For the creation of the ﬁnal
+element grid, the four-node element number 10 was applied and the Coulomb friction model was used
+(µ = 0.2) [20].
+
+Figure 5 shows a comparison of the experimental results and the theoretical results obtained based
+
+on the constitutive model presented earlier.
+
+Figure 5. Comparison of the stress–strain curves obtained from the experiment and the simulation.
+
+In the experiment, the grain size is constant, and the dimension of the billet as well as other
+conditions is varied according to the similarity principle. The miniaturization resulted in lower ﬂow
+stresses. A very good agreement of the experimental results and the FEM simulation results of three
+titanium samples made with diﬀerent scale factors λ was obtained. For larger deformations, we can
+observe the inﬂuence of the size eﬀect on the obtained yield stress values. The phenomenon of
+decreasing ﬂow stress curves occurs. The model can be used to reveal the eﬀect of geometry size on
+the deformation of bulk metals.
+
+Materials 2020, 13, x FOR PEER REVIEW 6 of 9  Table 1. Geometrical dimensions and process parameters for micro-upsetting. Sample Data/Number 1 2 3 Height (mm) Diameter (mm) 3.00 2.00 1.50 1.00 0.72 0.48 Compression rate (mm/s) 0.007 0.0035 0.0016 Scale factor (λ) 1 0.5 0.24 Geometrical scale factor (η) 0.93 0.86 0.73 The tests involved the use of a microprocessing machine constructed by the authors [18,19] (Figure 3), with a maximal force of 5000 N and a tool positioning accuracy of ±500 nanometers, equipped with an automatic feeder and with the possibility of tool work at a temperature up to 400 °C.  Figure 3. Machine for microforming processes. With the application of the results obtained from the uniaxial compression test, the flow stresses for the interior and boundary grains were calculated based on Equation (22). According to the composite material model, the flow stress of the grain boundary is higher than that of the grain interior. The flow curves for the boundary and interior grains determined based on the calculation procedure described in Section 4 are shown in Figure 4.  Materials 2020, 13, x FOR PEER REVIEW 7 of 9  Figure 4. Flow curves for boundary and interior grains, a diagram obtained based on a uniaxial compression test. 6. FEM Simulation FEM modeling of uniaxial compression tests was performed with the use of the MSC MarcMentat 2016 program. For the FEM calculations, the flow curves determined based on Equation (22) were applied. An elastic–plastic model with isotropic hardening was used. The model used symmetry in respect to the axis of the cylindrical sample, and rigid tools were applied. For the creation of the final element grid, the four-node element number 10 was applied and the Coulomb friction model was used (µ = 0.2) [20]. Figure 5 shows a comparison of the experimental results and the theoretical results obtained based on the constitutive model presented earlier.  Figure 5. Comparison of the stress–strain curves obtained from the experiment and the simulation. In the experiment, the grain size is constant, and the dimension of the billet as well as other conditions is varied according to the similarity principle. The miniaturization resulted in lower flow stresses. A very good agreement of the experimental results and the FEM simulation results of three titanium samples made with different scale factors λ was obtained. For larger deformations, we can observe the influence of the size effect on the obtained yield stress values. The phenomenon of decreasing flow stress curves occurs. The model can be used to reveal the effect of geometry size on the deformation of bulk metals. The material model was also used for a simulation of the backward microextrusion process of titanium Grade 2. The analysis covered the geometrical shape of the product obtained from the simulations with the use of a material model taking into account the size effect and from the experiment performed on the microforming machine (Figure 6). The experimental measurements were conducted with the use of a confocal microscope Olympus LEXT 3D Measurine Laser Microscope OLS 4000.  Materials 2020, 13, 5143
+
+8 of 10
+
+The material model was also used for a simulation of the backward microextrusion process
+of titanium Grade 2. The analysis covered the geometrical shape of the product obtained from the
+simulations with the use of a material model taking into account the size eﬀect and from the experiment
+performed on the microforming machine (Figure 6). The experimental measurements were conducted
+with the use of a confocal microscope Olympus LEXT 3D Measurine Laser Microscope OLS 4000.
+
+Figure 6. Comparison of the geometry of the backward extrusion workpiece obtained from the
+experiment and the simulation.
+
+We can see a good representation of the shape of the workpiece obtained in the FEM model
+(Figure 6). The numerical simulations of the microextrusion and micropressing processes were helpful
+in the development of tools for microforming a TOPR-type implant, which is shown in Figure 7.
+
+Figure 7. Experimentally made ossicle implant.
+
+The elaborated material model considering the size eﬀects ensured the proper FEM modeling of
+
+the microformed components of an ossicle implant.
+
+7. Conclusions
+
+The size eﬀect is considered as an important factor in microforming processes. This study applied
+a constitutive model taking into account two size eﬀects: one is attributed to the grain size and the
+other is related to the geometrical dimensions of the sample. The model consists of a surface model
+and a composite material model. Additionally, the surface model considered diﬀerent grain shapes
+present in the actual polycrystalline material such as pure titanium Grade 2. Titanium is often used for
+the manufacture of microparts in biomedical devices and implants.
+
+Materials 2020, 13, x FOR PEER REVIEW 7 of 9  Figure 4. Flow curves for boundary and interior grains, a diagram obtained based on a uniaxial compression test. 6. FEM Simulation FEM modeling of uniaxial compression tests was performed with the use of the MSC MarcMentat 2016 program. For the FEM calculations, the flow curves determined based on Equation (22) were applied. An elastic–plastic model with isotropic hardening was used. The model used symmetry in respect to the axis of the cylindrical sample, and rigid tools were applied. For the creation of the final element grid, the four-node element number 10 was applied and the Coulomb friction model was used (µ = 0.2) [20]. Figure 5 shows a comparison of the experimental results and the theoretical results obtained based on the constitutive model presented earlier.  Figure 5. Comparison of the stress–strain curves obtained from the experiment and the simulation. In the experiment, the grain size is constant, and the dimension of the billet as well as other conditions is varied according to the similarity principle. The miniaturization resulted in lower flow stresses. A very good agreement of the experimental results and the FEM simulation results of three titanium samples made with different scale factors λ was obtained. For larger deformations, we can observe the influence of the size effect on the obtained yield stress values. The phenomenon of decreasing flow stress curves occurs. The model can be used to reveal the effect of geometry size on the deformation of bulk metals. The material model was also used for a simulation of the backward microextrusion process of titanium Grade 2. The analysis covered the geometrical shape of the product obtained from the simulations with the use of a material model taking into account the size effect and from the experiment performed on the microforming machine (Figure 6). The experimental measurements were conducted with the use of a confocal microscope Olympus LEXT 3D Measurine Laser Microscope OLS 4000.  Materials 2020, 13, x FOR PEER REVIEW 8 of 9  Figure 6. Comparison of the geometry of the backward extrusion workpiece obtained from the experiment and the simulation. We can see a good representation of the shape of the workpiece obtained in the FEM model (Figure 6). The numerical simulations of the microextrusion and micropressing processes were helpful in the development of tools for microforming a TOPR-type implant, which is shown in Figure 7.  Figure 7. Experimentally made ossicle implant. The elaborated material model considering the size effects ensured the proper FEM modeling of the microformed components of an ossicle implant. 7. Conclusions The size effect is considered as an important factor in microforming processes. This study applied a constitutive model taking into account two size effects: one is attributed to the grain size and the other is related to the geometrical dimensions of the sample. The model consists of a surface model and a composite material model. Additionally, the surface model considered different grain shapes present in the actual polycrystalline material such as pure titanium Grade 2. Titanium is often used for the manufacture of microparts in biomedical devices and implants. The novelty of the work is the use of a few selected grain shapes: a regular hexagon, a rhomb, and a symmetric trapezium. The model parameters (A and B) determined for samples made of titanium Grade 2 were used to describe the hardening curves applied in the FEM simulations performed for the process of uniaxial compression. The results obtained from the experiments and the simulation are similar. The developed material model can be used for the description of a wide range of materials with diversified grain shapes and should be applied during the FEM modeling of microforming processes in order to consider the various size effects occurring during deformation. Examples of such materials are copper and aluminum alloys. They contain selected grain shapes used in the new material model. The developed material model was used with success for a simulation of the backward microextrusion process component of an ossicle implant. Funding: The author would like to acknowledge the funding support to this research from the National Scientific Centre’s (Poland, Grant No. NN503206240). Conflicts of Interest: The author declares no conflict of interest. Materials 2020, 13, 5143
+
+9 of 10
+
+The novelty of the work is the use of a few selected grain shapes: a regular hexagon, a rhomb,
+and a symmetric trapezium. The model parameters (A and B) determined for samples made of titanium
+Grade 2 were used to describe the hardening curves applied in the FEM simulations performed for
+the process of uniaxial compression. The results obtained from the experiments and the simulation
+are similar.
+
+The developed material model can be used for the description of a wide range of materials with
+diversiﬁed grain shapes and should be applied during the FEM modeling of microforming processes
+in order to consider the various size eﬀects occurring during deformation. Examples of such materials
+are copper and aluminum alloys. They contain selected grain shapes used in the new material model.
+The developed material model was used with success for a simulation of the backward microextrusion
+process component of an ossicle implant.
+
+Funding: The author would like to acknowledge the funding support to this research from the National Scientiﬁc
+Centre’s (Poland, Grant No. NN503206240).
+
+Conﬂicts of Interest: The author declares no conﬂict of interest.
+
+A List of Acronyms
+
+Grade 2
+FEM
+TOPR
+
+type of titanium according to ASTM F67 (ISO 5832-2), material for medical applications.
+ﬁnite element method.
+total ossicular replacement prosthesis.
+
+References
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+Xu, J.; Wang, X.; Wang, C.; Yuan, L.; Chen, W.; Bao, J.; Su, Q.; Xu, Z.; Wang, C.; Wang, Z.; et al. A Review on
+Micro/Nanoforming to Fabricate 3D Metallic Structures. Adv. Mater. 2020, 8, 2000893. [CrossRef] [PubMed]
+Fu, M.W.; Chan, W.L. A review on the state-of-the-art microforming technologies. Int. J. Adv. Manuf. Technol.
+2013, 67, 2411–2437. [CrossRef]
+Jeswiet, J.; Geiger, M.; Engel, U.; Kleiner, M.; Schikorra, M.; Duﬂou, J.; Neugebauer, R.; Bariani, P.; Bruschi, S.
+Metal forming process since 2000. CIRP J. Manuf. Sci. Technol. 2008, 1, 2–17. [CrossRef]
+Xu, J.; Guo, B.; Shan, D. Size eﬀects in micro blanking of metal foil with miniaturization.
+Manuf. Technol. 2011, 56, 515–522. [CrossRef]
+Fu, M.W.; Chan, W.L. Geometry and grain size eﬀects on the fracture behavior of sheet metal in micro-scale
+plastic deformation. Mater. Des. 2011, 32, 4738–4746. [CrossRef]
+Shi, J.; Meng, B.; Cheng, C.; Wan, M. Size eﬀect on the subsequent yield and hardening behavior of metal foil.
+Int. J. Mech. Sc. 2020, 180, 105686. [CrossRef]
+Yalcinkaya, T.; Ozdemir, I.; Simonovski, I. Micromechanical modeling of intrinsic and specimen size eﬀects
+in microforming. Int. J. Mater. Form. 2018, 11, 729–741. [CrossRef]
+Geiger, M.; Kleiner, M.; Eckstein, R.; Tiesler, N.; Engel, U. Microforming. Ann. CIRP 2001, 50, 445–462.
+[CrossRef]
+Parasiz, S.A.; Kinsey, B.; Krishnan, N.; Cao, J.; Li, M. Investigation of Deformation Size Eﬀects During
+Microextrusion. J. Manuf. Sci. Eng. 2006, 129, 690–697. [CrossRef]
+
+J. Adv.
+
+Int.
+
+10. Liu, J.G.; Fu, M.W.; Chan, W.L. A constitutive model for modeling of the deformation behavior in microforming
+with a consideration of grain boundary strengthening. Comput. Mater. Sci. 2012, 55, 85–94. [CrossRef]
+11. Miyazaki, S.; Shibata, K.; Fujita, H. Eﬀect of specimen thickness on mechanical-properties of polycrystalline
+
+aggregates with various grain sizes. Acta Metall. 1979, 27, 855–862. [CrossRef]
+
+12. Kals, R.; Vollertsen, F.; Geiger, M. Scaling eﬀects in sheet metal forming. In Papers of the International Conference
+of Sheet Metal Forming in Enschede; Enschede, HJJ Kals, University of Twente: Enschede, The Netherlands,
+1996; pp. 65–75.
+
+13. Engel, U.; Eckstein, R. Microforming- from basic research to its realization. J. Mater. Process. Technol. 2002,
+
+125, 35–44.
+
+14. Meyers, M.A.; Ashworth, E. A model for the eﬀect of grain size on the yield stress of metals. Philos. Mag.
+
+1982, 46, 737–759. [CrossRef]
+
+Materials 2020, 13, 5143
+
+10 of 10
+
+15. Kocks, U.F. The relation between polycrystal deformation and single-crystal deformation. Metall. Mater.
+
+Trans. B 1970, 1, 1121–1143. [CrossRef]
+
+16. Hirth, J.P. The inﬂuence of grain boundaries on mechanical properties. Metall. Trans. 1972, 3, 3047–3067.
+
+17.
+
+[CrossRef]
+Fu, H.H.; Benson, D.J.; Meyers, M.A. Analytical and computational description of eﬀect of grain size on yield
+stress of metals. Acta Mater. 2001, 49, 2567–2582. [CrossRef]
+
+18. Zimniak, Z.; Marciniak, M.; Polak, S. Finite element analysis of the pillar-guide tool setup of the machine for
+
+microforming processes. Comput. Methods Mater. Sci. 2013, 13, 402–406.
+
+19. Zimniak, Z.; Marciniak, M.; Wiercioch, M. Electromagnetic microforming of titanium foils used in biomedical
+
+engineering. J. Chin. Soc. Mech. Eng. 2016, 37, 31–38.
+
+20. Adamus, J. Some problems with forming of the titanium sheets. Metal Form. 2008, 19, 29–36.
+
+Publisher’s Note: MDPI stays neutral with regard to jurisdictional claims in published maps and institutional
+aﬃliations.
+
+© 2020 by the author. Licensee MDPI, Basel, Switzerland. This article is an open access
+article distributed under the terms and conditions of the Creative Commons Attribution
+(CC BY) license (http://creativecommons.org/licenses/by/4.0/).
+
+

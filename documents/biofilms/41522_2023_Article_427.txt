@@ -1,0 +1,2294 @@
+www.nature.com/npjbioﬁlms
+
+OPEN
+
+REVIEW ARTICLE
+Strategy to combat bioﬁlms: a focus on bioﬁlm dispersal
+enzymes
+Shaochi Wang 1,2, Yanteng Zhao2, Alexandra P. Breslawec3, Tingting Liang4, Zhifen Deng2, Laura L. Kuperman 3,5 ✉
+Qiuning Yu 1 ✉
+
+and
+
+Bacterial bioﬁlms, which consist of three-dimensional extracellular polymeric substance (EPS), not only function as signaling
+networks, provide nutritional support, and facilitate surface adhesion, but also serve as a protective shield for the residing bacterial
+inhabitants against external stress, such as antibiotics, antimicrobials, and host immune responses. Bioﬁlm-associated infections
+account for 65-80% of all human microbial infections that lead to serious mortality and morbidity. Tremendous effort has been
+spent to address the problem by developing bioﬁlm-dispersing agents to discharge colonized microbial cells to a more vulnerable
+planktonic state. Here, we discuss the recent progress of enzymatic eradicating strategies against medical bioﬁlms, with a focus on
+dispersal mechanisms. Particularly, we review three enzyme classes that have been extensively investigated, namely glycoside
+hydrolases, proteases, and deoxyribonucleases.
+npj Bioﬁlms and Microbiomes  
+
+ (2023) 9:63  ; https://doi.org/10.1038/s41522-023-00427-y
+
+;
+,
+:
+)
+(
+0
+9
+8
+7
+6
+5
+4
+3
+2
+1
+
+INTRODUCTION
+Bacterial Bioﬁlms
+Bacterial bioﬁlms consist of surface-attached, and sometimes non-
+surface attached, colonies embedded within a self-produced
+extracellular matrix known as the extracellular polymeric sub-
+stance (EPS). The EPS is composed of extracellular proteins, lipids,
+nucleic acids (extracellular-DNA and extracellular-RNA), polysac-
+charides, and secondary metabolites1–3 Bioﬁlms are not only
+capable of reversible surface attachment, but also serve to trap
+nutrients, as well as shield cells against host immune responses
+and antimicrobial treatments4 Besides these functional roles, the
+EPS also provides structural support and holds the bacterial cells in
+close proximity,
+thereby enabling the exchange of genetic
+material and facilitating quorum sensing5,6 Bioﬁlm-associated
+infections are common and account for 65-80% of all human
+infections7, such as vaginitis8, colitis9, conjunctivitis10,
+microbial
+gingivitis11, urethritis12, and otitis13. Additionally, bioﬁlms formed
+by adherent bacteria on medical implants and devices can result
+in serious mortality and morbidity14 Furthermore, sessile bacterial
+colonies covered by established bioﬁlms are more difﬁcult to
+eradicate than planktonic cells. Bioﬁlms not only function as the
+physical shield against exogeneous stress, but also lower the
+metabolic rates of the inhabiting cells to survive harsh environ-
+ments. As a result, bioﬁlm-associated infections are difﬁcult to
+chronic
+eradicate and pose a danger
+persistentillnesses15.
+
+to prevalence of
+
+Bioﬁlm formation
+Bioﬁlm formation proves to occur in diverse scenarios and the
+environment poses a signiﬁcant inﬂuence on bioﬁlm establish-
+ment
+through impacting gene expression and modulating
+bacteria behaviors. As shown in Fig. 1, an expanded bioﬁlm
+model was proposed by Sauer et al. and is still growing to reﬂect
+all processes involved in the bioﬁlm life cycle16. The most
+
+that,
+
+commonly accepted model of bioﬁlm formation, typically based
+on the in vitro bioﬁlm developed by Pseudomonas aeruginosa, can
+be subdivided into ﬁve major stages5. In the beginning, individual
+planktonic cells, or preformed aggregates in some cases, migrate
+and reversibly adhere to a surface. If the surface is suitable for
+growth, the newly adherent bacterial cells proliferate and initiate
+bioﬁlm production on the surface. Then,
+the adherent cells
+irreversibly attach to the surface, facilitating cell aggregation and
+EPS production. Later, the bioﬁlm reaches the ﬁrst stage of
+maturation (maturation I) and starts to develop mushroom-like
+structures, which becomes more layered and develop three-
+dimensional microstructures, including nutrient and water chan-
+the bioﬁlm reaches a fully mature status
+nels. After
+(maturation II) with maximal cell density and is now regarded as
+a three-dimensional community17. In the ﬁnal stage, the mature
+bioﬁlm releases planktonic cells, with the help of hydrolase
+enzymes, to migrate and spread to new, unoccupied surfaces18,19.
+However, this model does not entirely represent the complex
+bioﬁlms formed in the real world including those in industrial,
+clinical, and natural environments. Indeed, a more inclusive model
+involving three major events was recently proposed: aggregation,
+growth, and disaggregation16. Besides the in vitro model, bioﬁlms
+also develop in vivo, in situ, and ex vivo, each of which follows
+different bioﬁlm developmental pathways in response to diverse
+environmental
+In various settings such as on cell
+surfaces, in ﬂuids, and on transplant devices, surface association
+is not required and diversely shaped microbial communities are
+observed. Additionally, in open systems like human gastrointest-
+inal and circulatory systems, there tends to be a consistent inﬂux
+of new microbial bodies or bioﬁlm aggregates to microbial
+communities undergoing establishment16.
+
+factors16.
+
+Bioﬁlms serve as an effective protective shield for the encased
+bacterial cells, providing protection from antimicrobial treatments,
+immune responses, bacteriophages, and other external
+host
+
+1Otorhinolaryngology Hospital, The First Afﬁliated Hospital of Zhengzhou University, 450052 Zhengzhou, China. 2Translational Medicine Center, The First Afﬁliated Hospital of
+Zhengzhou University, 450052 Zhengzhou, China. 3Department of Chemistry and Biochemistry, University of Maryland, College Park, MD 20740, USA. 4Key Laboratory of Natural
+Medicine and Immune-Engineering of Henan Province, Henan University Jinming Campus, 475004 Kaifeng, Henan, China. 5Present address: Mirimus Inc., 760 Parkside Avenue,
+Brooklyn, NY 11226, USA.
+
+email: lkuperma@terpmail.umd.edu; yuqiuning@126.com
+
+✉
+
+Published in partnership with Nanyang Technological University
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2
+
+S. Wang et al.
+
+;
+,
+:
+)
+(
+0
+9
+8
+7
+6
+5
+4
+3
+2
+1
+
+Fig. 1 Expanded bioﬁlm formation model. Bacteria can exist as both single cells and bioﬁlm aggregates with regard to environment cues. In
+vivo, ex vivo, and in situ, bacteria can remain in a planktonic state or reside within non-surface-attached bioﬁlms and these two existing forms
+are interchangeable depending on the environment. The commonly accepted bioﬁlm formation model, typically the in vitro bioﬁlm
+developed by P. aeruginosa, can be subdivided into ﬁve major stages consisting of reversible attachment, irreversible attachment, maturation
+I, maturation II, and dispersion16.
+
+stressors, which frequently results in persistent and chronic
+infections20. In fact, studies have shown that bacteria growing in
+bioﬁlms are often thousands of times more tolerant to antibiotic
+treatment than their planktonic counterparts21. This is in part due
+to the limited diffusion of nutrients throughout the bioﬁlm EPS
+resulting in cell heterogeneity (Fig. 2)22. Bacterial cells near the
+bioﬁlm surface are highly metabolically active and more
+susceptible to antibiotic treatments, while cells in the core of
+the bioﬁlm exist within a low-oxygen microenvironment, causing
+these cells to have a decreased metabolic rate, facilitating their
+resistance to antibiotics23. Furthermore, there is a small sub-
+population of cells within the bioﬁlm community, known as
+persister cells, that tend to adopt a dormant state with extreme
+these
+antimicrobial
+persister cells contribute signiﬁcantly to the pathogenesis of
+bioﬁlm infections25,26. Studies indicate that small populations of
+treatment
+persister cells are able to survive antimicrobial
+regardless of the concentration of antibiotic utilized27. Once the
+antibiotic treatment ceases,
+these remaining persister cells
+repopulate the microbial community and ultimately lead to a
+relapsing bioﬁlm infection28.
+
+tolerance24. Despite their small numbers,
+
+Bioﬁlm dispersal strategies
+There are a number of promising bioﬁlm eradication strategies
+that have been developed to hinder bacterial bioﬁlm formation or
+disrupt maturation by dysregulating bioﬁlm growth. These
+proactive approaches include the use of antimicrobial peptides
+and lipids29–31, medical device surface modiﬁcations32,33, qua-
+ternary ammonium compounds (QACs)34, nitric oxide-releasing
+compounds35,36,
+antibiotic-
+conjugation39, and direct surgical removal of bioﬁlm biomass40.
+
+inhibitors37,38,
+
+cell-signaling
+
+Bioﬁlm dispersal is an intense area of study that may lead to the
+development of novel agents that inhibit bioﬁlm formation or
+promote bioﬁlm cell detachment. Such agents may be useful for
+the prevention and treatment of bioﬁlms in a variety of industrial
+and clinical settings41.
+
+In clinical settings, enzymes, small molecules, surgical removal,
+and other strategies have been successfully applied to break
+down bioﬁlms and release microbes to a more vulnerable
+planktonic state42. Thus, dispersal agents are utilized to improve
+therapeutic outcomes by increasing access of antimicrobials and
+host immune cells to the bacteria43. Compared with other bioﬁlm
+dispersal strategies, enzymatic treatments have more advantages.
+Bioﬁlm-dispersing enzymes are more effective on both growing
+and pre-existing bioﬁlms, and relatively low concentrations are
+required to achieve high speciﬁcity and efﬁcacy towards the
+targeted bioﬁlms. Additionally, antibiotic resistance, the issue that
+many small molecule drugs face, is a less likely occurrence for
+bioﬁlm-dispersing enzymes, which function extracellularly without
+the need to be transported across the outer membrane.
+
+Bioﬁlm dispersal enzymes
+Extracellular enzymes can effectively disperse bacterial bioﬁlms by
+degrading the EPS, speciﬁcally by targeting exopolysaccharides,
+extracellular DNA, and extracellular proteins within in the EPS. By
+hydrolyzing the microbe bioﬁlm,
+these enzymes initiate the
+detachment of sessile bacterial cells and convert them to a
+planktonic state, which causes increased susceptibility to anti-
+biotics and the host immune system. By laboratory approaches of
+isolation or over-expression in model organisms, bioﬁlm-
+dispersing enzymes can be procured at high concentrations and
+added exogenously to microbial colonies to efﬁciently break down
+
+npj Bioﬁlms and Microbiomes (2023)  
+
+ 63 
+
+Published in partnership with Nanyang Technological University
+
+ 
+S. Wang et al.
+
+3
+
+Fig. 2 The microbial community enclosed by a bioﬁlm serving as a protective layer against external stress. The bioﬁlm EPS protects the
+residing bacteria against threats like antibiotics, bacteriophages, and host immune response. While metabolically active surface-residing cells
+in the nutrition-rich outer portion of the bioﬁlm may be less resistant to environmental pressure, bottom-residing bacteria have greater
+resistance due to their low metabolic rate. Dormant persister cells can repopulate the bacterial community after antibiotic courses, leading to
+chronic infections.
+
+bioﬁlms. Herein, we review the recent progress of bioﬁlm
+disruption via three major enzyme classes: glycoside hydro-
+lases44,45, deoxyribonucleases46,47, and proteases48,49.
+
+Exopolysaccharides within the EPS
+As the major component of
+the EPS, secreted extracellular
+polysaccharides are critical for bioﬁlm integrity. Exopolysacchar-
+ides widely exist as structural components in microbial bioﬁlms
+including poly-N-acetylglucosamine (dPNAG), alginate, Psl, Pel,
+amylose-like glucan, cellulose, galactosaminogalactan, β-(1,3)-
+glucan, levan, and inulin (Fig. 3)50–54.
+
+dPNAG Exopolysaccharide. Many medically relevant microbial
+pathogens produce a common exopolysaccharide, partially de-
+N-acetylated poly β-(1,6)-N-acetyl-D-glucosamine (dPNAG), as a key
+component of their bioﬁlm matrix (Fig. 3A)55. Both Gram-positive
+and Gram-negative bacteria have been conﬁrmed to produce
+dPNAG (sometimes referred to as polysaccharide intercellular
+adhesin in Gram-positive strains) as a bioﬁlm exopolysaccharide,
+including Staphylococcus aureus56, Escherichia coli57, Yersinia
+pestis58, Actinobacillus pleuropneumoniae59, Aggregatibacter acti-
+nomycetemcomitans60, Bordetella species61, Acinetobacter bauman-
+nii62, Burkoholderia species63, Klebsiella pneumoniae64, Vibrio
+parahaemolyticus65, and Bacillus
+Individual dPNAG
+polysaccharides are tens to hundreds of monosaccharide units
+in length67.
+the icaABCD locus is
+responsible for dPNAG production, whereas Gram-negative
+bacteria the homologous pgaABCD operon regulates its forma-
+tion54,68,69. Chemical modiﬁcations of dPNAG,
+such as N-
+deacetylation and O-succinylation, play key roles in the adhesive-
+ness and structural integrity of the bioﬁlm matrices70. In Gram-
+IcaB is responsible for the N-deacetylation of
+positive bacteria,
+PNAG, and O-succinylation of PNAG is catalyzed by IcaC71.
+In
+Gram-negative bacteria, PgaB C-terminal domain functions as N-
+deacetylase towards PNAG polymers72.
+
+In Gram-positive bacteria,
+
+subtilis66.
+
+Alginate exopolysaccharide. Alginate was the ﬁrst and most
+thoroughly studied bioﬁlm exopolysaccharide discovered and is
+produced by P. aeruginosa, a pathogenic bacterial species
+associated with lung infections in cystic ﬁbrosis patients73.
+Alginate is composed of β-D-mannuronic acid and its C-5 epimer,
+α-L-guluronic acid, connected through (1,4)-glycosidic linkages
+(Fig. 3B). Most of the enzymes responsible for alginate biosynth-
+esis are encoded by the alg operon (algACD844KEGXLIJF) in the P.
+aeruginosa genome74. The synthesis of
+the sugar-nucleotide
+precursors of alginate require the algACD operon; algA and algD
+are found on the alginate operon while algC is located in the
+genome at PA532275. Chemical modiﬁcations are commonly
+found at the C-2 and C-3 positions of mannuronate residues in
+alginate polymers. They are frequently acetylated, which is driven
+by the combined effect of the acetyltransferases AlgI, AlgJ, AlgF
+and AlgX with varied acetylation rates from 4 to 57%76,77.
+In
+addition to acetylation, AlgG also catalyzes the epimerization of β-
+D-mannuronic acid to α-L-guluronic acid78. Alginate can facilitate
+the formation of gel-like structures in the presence of cations,
+including sodium and calcium, with functional properties strongly
+correlated to the ManA/GulA ratio and sequence79.
+
+Psl exopolysaccharide. Psl exopolysaccharide serves as structural
+scaffold, and plays a key role in surface attachment and eDNA
+interactions in the bioﬁlm matrix of the opportunistic pathogen, P.
+aeruginosa80. The Psl exopolysaccharide contains a penta-
+saccharide repeating unit consisting of D-mannose, L-rhamnose,
+and deoxyglucose (Fig. 3C). The biosynthesis of
+the Psl
+exopolysaccharide occurs via a Wzx/Wzy-dependent mechanism
+and is accomplished by 12 proteins encoded by the pslABCDEF-
+GHIJKL operon73.
+
+Pel exopolysaccharide. Pel
+is one of the most phylogenetically
+widespread bioﬁlm matrix determinants in both Gram-negative
+and Gram-positive bacteria (Fig. 3D)81. A recent study shows that
+
+Published in partnership with Nanyang Technological University
+
+npj Bioﬁlms and Microbiomes (2023)  
+
+ 63 
+
+ 
+4
+
+S. Wang et al.
+
+Fig. 3 Structures of the most common bioﬁlm exopolysaccharides. dPNAG (A), alginate (B), Psl (C), Pel (D), amylose (E), cellulose (F),
+galactosaminogalactan (G), β-(1,3)-Glucan (H),
+levan (I), and inulin (J), produced by various bacterial species. The important chemical
+modiﬁcations are colored.
+
+npj Bioﬁlms and Microbiomes (2023)  
+
+ 63 
+
+Published in partnership with Nanyang Technological University
+
+ 
+S. Wang et al.
+
+5
+
+is a partially de-N-acetylated linear polymer of α-1,4-N-
+Pel
+acetylgalactosamine, comprised predominantly of dimeric repeats
+of galactosamine and N-acetylgalactosamine82. Gram-negative
+bacteria, P. aeruginosa, forms Pel-dependent bioﬁlms regulated by
+a seven gene operon (pelABCDEFG), whereas numerous Gram-
+positive bacterial species use a variant form of this gene cluster
+(pelDEADAFG)
+In P.
+aeruginosa bioﬁlms, PelDEFG mediates sugar polymerization and
+transport across the cytoplasm, while PelBC is responsible for
+export83,86. PelA exhibits hydrolase and deacetylase activities and
+regulates the deacetylation of Pel polymers87.
+
+to produce Pel-like polysaccharide83–85.
+
+Amylose-like glucan. Gram-negative bacterial species, such as
+Francisella tularensis and Pasteurella multocida, produce bioﬁlm
+matrices containing amylose-like glucan, an exopolysaccharide
+made of α-D-glucose units connected through α-(1,4) glycosidic
+bonds (Fig. 3E)88,89. In the production of capsular polysaccharide
+(CPS) by P. multocida bioﬁlms, which consist of amylose-like
+glucan, capsular polysaccharide production was found to be
+inversely related to bioﬁlm formation89. Little is known about the
+genes of amylose exopolysaccharides; more work is needed to
+reveal its biosynthetic mechanism.
+
+Cellulose exopolysaccharide. Cellulose, composed of β-(1,4)-D-
+glucose (Glc) monomer subunits (Fig. 3F), has been identiﬁed as
+a bioﬁlm matrix component of several bacterial species including
+Agrobacterium tumefaciens90, Escherichia coli91, Pseudomonas
+ﬂurescens92, and Gluconacetobacter xylinus51. The cellulose biosyn-
+thetic and secretive machineries of various bacteria are extremely
+diverse, and different bacteria utilize varying bacterial cellulose
+synthase (bcs) operons to produce this exopolysaccharide93.
+Multiple chains of cellulose can begin to form greater aggregates
+through hydrogen bonding interactions between cellulose poly-
+this, phosphoethanolamine-modiﬁed
+mer
+cellulose generated by E. coli is required for extracellular matrix
+assembly and bioﬁlm architecture95. The modiﬁcation is catalyzed
+by phosphoethanolamine transferase, BcsG,
+in the presence of
+bioﬁlm-promoting cyclic diguanylate monophosphate95.
+
+strands94. Besides
+
+(GAG),
+
+com-
+Galactosaminogalactan. Galactosaminogalactan
+monly found in the bioﬁlms of various fungal species,
+is a
+heteroglycan composed of galactose and N-acetylgalactosamine
+(GalNAc) linked by α-(1,4) glycosidic bonds (Fig. 3G)96. In bioﬁlm-
+associated infections, GAG serves as an adhesion factor to the host,
+and mediates virulence by masking other pathogen-associated
+molecular patterns (PAMPs). The synthesis of GAG is regulated by a
+cluster of genes (gtb3, agd3, ega3, sph3, and uge3) encoding ﬁve
+eponymic, carbohydrate-active enzymes97. Agd3, categorized as a
+carbohydrate esterase family CE18 enzyme, deacetylates GAG in a
+metal-dependent manner98. Deacetylation of GAG serves as a key
+factor for adherence to hyphae and mediates bioﬁlm formation97.
+
+β-(1,3)-Glucans. β-(1,3)-glucans are glucose polymers mainly
+linked by β-(1,3)-glycosidic bonds with branched side chains
+attaching to the backbone through 1,6-linkages (Fig. 3H)99.
+Synthesis of the linear β-(1,3)-glucan polymer is catalyzed by
+UDP-glucose glucosyltransferase in many microbial
+species
+including Candida albicans, Aspergillus fumigatus and Cryptococcus
+neoformans100. β-(1,3)-glucans are the primary components of the
+C. albicans bioﬁlm EPS and are important for C. albicans bioﬁlm
+formation and stress resistance101.
+
+Levan and inulin (Fig. 3I-J) are two
+Fructan exopolysaccharide.
+primary fructans discovered in many microbial bioﬁlms including
+the genera Acetobacter, Bacillus, Erwinia, Gluconobacter, Halomo-
+nas, Microbacterium, Pseudomonas, Streptococcus, and Zymomo-
+nas102. Levan is composed of β-(2, 6) glycosidic fructosyl bonds
+with occasional β-(2, 1) branching103, while inulin is primarily
+
+comprised of β-(2, 1) fructosyl linkages and some β-(2, 6) linkages
+at the branching point104. Microbial levan is synthesized through
+transfructosylation by a secreted levansucase (EC: 2.4.1.10) from
+sucrose substrates in Bacillus species105.
+
+These exopolysaccharides play important roles in bioﬁlm estab-
+lishment and persistence through enhancing structural stability,
+defense against environmental stress, adhesion and aggregation of
+cells, absorption of exogenous compounds, and providing a carbon
+source during starvation. Because of their indispensable function in
+bioﬁlm integrity, glycosidase enzymes that target exopolysacchar-
+ides are emerging as an effective means to disperse bioﬁlms106–108.
+The glycol-hydrolases discussed are in the same order as the
+introduced corresponding exopolysaccharides.
+
+Glycoside hydrolase enzymes
+dPNAG glycoside hydrolase—Dispersin B. Dispersin B (DspB)
+belongs to glycoside hydrolase family 20 (GH20) and was ﬁrst
+isolated from Aggregatibacter actinomycetemcomitans109. DspB is
+known to hydrolyze the exopolysaccharide dPNAG in bioﬁlm
+matrices
+through both endo- and exo-glycoside hydrolase
+activity110–112. DspB utilizes a substrate-assisted mechanism in
+dPNAG hydrolysis in which the substrate’s 2-acetamido group
+facilitates glycoside hydrolysis through formation of a character-
+istic oxazolinium ion intermediate113. Within the catalytic site, the
+amino acid residue, D183, serves as catalytic acid and D184
+stabilizes the oxazolinium ion intermediate113.
+In vitro studies
+show that DspB can effectively disperse bioﬁlms formed by
+bacteria like S. aureus, A. actinomycetemcomitans, S. epidermidis, A.
+baumannii, K. pneumoniae, E. coli, Burkholderia spp., A. pleurop-
+neumoniae, Y. pestis, and P. ﬂuorescens. In an in vivo study, DspB
+was prepared into DispersinB® wound gel by Kane Biotech Inc.,
+which signiﬁcantly accelerated the healing of both infected and
+non-infected dermal wounds compared to controls114. Compared
+with wild-type DspB, most DspB mutants present signiﬁcantly
+reduced activity on synthetic PNAG probes106,107. However,
+DspBE248Q demonstrates remarkably increased dPNAG breakdown
+and effective dispersal of S. aureus preformed bioﬁlms115.
+
+dPNAG glycoside hydrolase—PgaB. PgaB is a glycoside hydrolase
+encoded by the PNAG biosynthetic operon, namely by the gene
+pgaB, and has
+the capability to degrade PNAG synthetic
+analogues, as well as disrupt PNAG-dependent bioﬁlms formed
+by Bordetella pertussis, Staphylococcus carnosus, S. epidermidis, and
+E. coli116,117. PgaB is a two-domain periplasmic protein that
+contains an N-terminal deacetylase domain that regulates PNAG
+deacetylation and a C-terminal PNAG binding domain that
+modulates PNAG export118. Detailed analysis shows that PgaB
+contains a C-terminal CAZy GH153 family glycosyl hydrolase that
+catalyzes the endoglycosidic cleavage of dPNAG containing de-N-
+in the −3 binding site116. The
+acetylated glucosamine (GlcN)
+C-terminal domain of PgaB produced by Bordetella bronchiseptica
+has a central cavity within an elongated surface groove that
+preferably recognizes the GlcN-GlcNAc-GlcNAc motif
+(where
+GlcNAc is N-acetylglucosamine), and the catalytic site amino
+residue, D474, functions as a catalytic acid to digest the dPNAG
+substrate. After hydrolysis, mass spectrometry reveals the GlcN-
+GlcNAc-GlcNAc motif at the new reducing end116. This research
+shows that PgaB not only serves as a deacetylase within the PNAG
+biosynthetic machinery, but also possesses glycoside hydrolase
+activity and may be used as a therapeutic agent against PNAG-
+dependent bioﬁlm infections116.
+
+Alginate glycoside hydrolase.
+In addition to dPNAG hydrolases,
+alginate lyase enzymes have been shown to exhibit effective
+dispersal of mature bioﬁlms119. Alginate lyases catalyze the
+degradation of alginate, and have been isolated from various
+organisms with different substrate speciﬁcities,
+including algae,
+
+Published in partnership with Nanyang Technological University
+
+npj Bioﬁlms and Microbiomes (2023)  
+
+ 63 
+
+ 
+6
+
+S. Wang et al.
+
+marine mollusks, marine and terrestrial bacteria, and some viruses
+and fungi120. Many studies demonstrating the antibioﬁlm activity of
+alginases have used crude cell extracts from Flavobacterium
+multivorum, but the synergistic effect with antibiotics remains
+contradictory121. Two distinct alginate lyase enzymes in F. multi-
+vorum extract have been discovered and characterized: one of
+which exhibits degradation towards both poly-β-D-mannuronate
+(polyM) and poly-α-L-guluronate (polyG), while the other only has
+polyG degradation activity119. Only alginate lyase enzymes with
+polyM/G activity are effective in destroying preformed mature
+bioﬁlms and have a synergistic effect with antibiotics119. A recent
+study shows that puriﬁed marine alginate lyase enzyme (AlyP1400)
+is able to degrade P. aeruginosa bioﬁlms and enhances bactericidal
+activity of
+tobramycin, while also modulating
+expression of efﬂux antibiotic resistance-related genes; bdlA, mexF,
+mexY, and ndvB; suggesting an increased susceptibility of P.
+aeruginosa bioﬁlms to this combinatorial treatment122.
+
+the antibiotic,
+
+Psl glycoside hydrolase. PslG, a member of glycoside hydrolase
+family 39 (GH39), is periplasmic glycoside hydrolase encoded by the
+Psl exopolysaccharide biosynthetic operon123. After removal of the
+N-terminal transmembrane domain, PslGh (which has a soluble
+catalytically active glycoside hydrolase domain) can hydrolyze Psl in
+P. aeruginosa bioﬁlms123. PslGh inhibits clinical and environmental
+isolates of P. aeruginosa bioﬁlm formation over a 24-h period and is
+also capable of disrupting newly formed bioﬁlms but is less potent
+to disperse mature bioﬁlms. Further, PslGh can potentiate the
+antibacterial effect of colistin, an antibiotic used to treat Gram-
+negative multi-drug resistant infections124. PslGh is noncytotoxic and
+support immune defenses; the enzyme does not impact host cell
+morphology and enhances neutrophil killing activity124.
+
+Pel glycoside hydrolase. PelA, a periplasmic glycoside hydrolase
+encoded in the Pel exopolysaccharide biosynthetic operons,
+contains at least two catalytic domains—a putative glycoside
+hydrolase domain and a CE4 deacetylase domain87. Based on a
+bioinformatic analysis.
+the N-terminal domain of PelA was
+removed, generating the PelA47–303 construct (referred as PelAh),
+was expressed and puriﬁed in a study of its glycoside hydrolase
+activity124. Prophylactic treatment with PelAh resulted in a 2.5-log
+reduction of P. aeruginosa bacterial colony-forming units, and
+application of PelAh to established bioﬁlms resulted in signiﬁcant
+bioﬁlm dispersal within 24 h124. Furthermore bioﬁlm disruption
+with PelAh is not sensitive to the maturation state of
+the
+bioﬁlm124. PelAh also boosted the antibiotic efﬁcacy of colistin
+and increased neutrophil killing by ~50%124.
+
+Endo-acting α-amylase, of the glyco-
+Amylose glycoside hydrolase.
+side hydrolase family 13 (GH13), cleaves α-(1,4)-D-glucosidic linkages
+at random sites of amylose exopolysaccharide in bioﬁlm matrices
+leading to bioﬁlm dispersing events125. Research shows that α-
+amylase from Aspergillus oryzae, Bacillus subtilis, human saliva, and
+sweet potato demonstrates a strong inhibiting effect on S. aureus
+bioﬁlm buildup, as well as degrade existing pre-formed S. aureus
+bioﬁlms126. However, a less severe inhibiting effect was observed
+for β-amylase from sweet potato (~50% inhibition versus 77-89%
+inhibtion from the others) because it is an exo-acting GH14
+carbohydrolase which hydrolyzes the α-1,4-glucosidic linkages of
+amylose exopolysaccharide only from the nonreducing end126.
+
+Cellulose glycoside hydrolase. Cellulase is a glycoside hydrolase
+produced chieﬂy by fungi, bacteria, and protozoans that acts
+speciﬁcally by breaking down the β-(1,4) linkages in polysacchar-
+ides, such as cellulose, an exopolysaccharide commonly found in
+the bioﬁlm of several bacteria,
+including E. coli, Salmonella,
+Citrobacter, Enterobacter, and Pseudomonas as well as Agrobacterium
+tumefaciens127. Cellulase from various sources such as Penicillium
+funiculosum and Trichaderma reseei can inhibit bioﬁlm formation of
+
+P. aeruginosa in a pH dependent manner, in which exogenously
+added cellulase is more effective at pH 5 than pH 7128. Treatment
+combining cellulase with ceftazidime, an antibiotic, can more
+effectively inhibit P. aeruginosa bioﬁlm formation and attach-
+ment129. In vitro testing also shows that Levoﬂoxacin, an antibiotic
+for severe infection, combined with cellulase can powerfully
+disperse mature bioﬁlms formed by bacille CalmetteGuerin130.
+
+Galactosaminogalactan glycoside hydrolase.
+Sph3 is encoded by
+the Sph3 gene, which belongs to the ﬁve gene cluster regulating
+GAG biosynthesis. The glycol-hydrolase domain (Sph3h) of Sph3 is
+classiﬁed as glycoside hydrolase family 135 (GH135)131. Sph3 has the
+(β/α)8 fold structure that many glycoside hydrolase enzymes possess,
+and contains putative catalytic amino acid residues (Asp-166, Glu-
+167, and Glu-222) in the active site131. The hydrolase domains of
+Sph3 and PelA (Sph3h and PelAh, respectively) share structural and
+functional similarities given their ability to degrade GAG and disrupt
+preformed Aspergillus fumigatus bioﬁlms in vitro132. A mechanistic
+study revealed that both Sph3h and PelAh function as retaining
+endo-α-(1,4)-N-acetylgalactosaminidases producing a minimal sub-
+strate size of seven residues132. Ega3 is another gene in the GAG
+biosynthesis cluster encoding a putative α-(1,4)-galactosaminidase
+belonging to glycoside hydrolase family 114 (GH114) which also has
+the (β/α)8 fold structure; its activity depends on the conserved acidic
+residues, Asp-189 and Glu-247133. Recombinant Ega3 is an endo-
+acting α-(1,4)-galactosaminidase that disrupts GAG-dependent A.
+fumigatus and Pel polysaccharide-dependent P. aeruginosa pre-
+formed bioﬁlms in vitro at nanomolar concentrations133.
+
+β-(1,3) glucan glycoside hydrolase. β-(1,3) glucanases, which
+belong to the pathogenesis-related-2 family (PR-2), are abundant
+in nature and have been characterized from a wide range of
+species134. They successively cleave at the nonreducing end of β-
+glucose134.
+(1,3)
+β-glucanase derived from Arthrobacter luteus is able to degrade
+poly-β-(1,3)-glucose in Candida albicans preformed bioﬁlms
+in vitro but has no effect on planktonic growth or adhesion101.
+
+oligosaccharides
+
+producing
+
+glucan
+
+and
+
+Fructan glycoside hydrolase—levanase.
+Levanase, SacC, is an exo-
+fructosidase belonging to Glycoside Hydrolase Family 32 (GH32)
+and hydrolyzes the terminal β-(2,1)- D-fructofuranose residues of
+fructans from the non-reducing end135. Levanase SacC is able to
+hydrolyze both levan and inulin to produce fructose, and is also
+able to hydrolyze sucrose and rafﬁnose135. Levanase cannot be
+detected in the wild-type Bacillus subtilis, but levanase SacC could
+be found in the culture medium of laboratory grown B. subtilis in
+the form of SacL mutated extracellular enzymes136. A recent study
+shows that extracellular levanase SacC from B. subtilis disrupts
+preformed P. aeruginosa bioﬁlms in vitro, increasing the efﬁciency
+of conventional the antibiotics, ciproﬂoxacin and amikacin137.
+
+Fructan glycoside hydrolase—inulinase.
+Inulinase is an enzyme
+that catalyzes the hydrolysis of β-(2,1)-D-fructosidic linkages in inulin
+and is part of a group of naturally occurring polysaccharides138.
+Inulinase can be subcategorized into exo-inulinase (EC 3.2.1.80) and
+endo-inulinase (EC3.2.1.7) based on hydrolysis patterns. Exo-
+inulinase hydrolyzes the terminal fructose residue of inulin from
+the non-reducing end, whereas endo-inulinase initiates hydrolysis
+at random positions within inulin to give fructooligosaccharides139.
+Inulinase is capable of degrading in vitro pre-formed bioﬁlms on
+reverse osmosis RO membranes by composed by multiple bacterial
+species. The mechanism of its destructive process is degrading the
+β-(2, 6)-glucan fructosidic bonds of inulin140 (Table 1).
+
+Proteases
+Exoproteins, another major component of the EPS, is account for a
+considerable portion of the biomass of most bioﬁlms. Exoproteins
+
+npj Bioﬁlms and Microbiomes (2023)  
+
+ 63 
+
+Published in partnership with Nanyang Technological University
+
+ 
+S. Wang et al.
+
+7
+
+Table 1.
+
+Summary of glycoside hydrolase enzymes as bioﬁlms dispersing agents.
+
+Glycoside Hydrolase Target
+
+Summary
+
+Dispersin B
+(DspB)
+
+dPNAG
+
+1. Glycoside hydrolase family 20 (GH20).
+2. Hydrolyzes dPNAG via a substrate-assisted mechanism and has both endo- and exo-glycoside hydrolase
+
+PgaB
+
+dPNAG
+
+Alginate Lyase
+
+Alginate
+
+activity.
+
+3. Disperses preformed mature bioﬁlms of various Gram-positive and Gram-negative bacterial species.
+
+DspBE248Q is more active than the wildtype.
+
+4. Commercialized as wound gel by Kane Biotech Inc, Dispersin B®.
+1. Contains a C-terminal CAZy GH153 family of glycosyl hydrolase that catalyzes the endoglycosidic
+
+cleavage of dPNAG.
+
+2. Disrupts PNAG-dependent preformed mature bioﬁlms by B. pertussis, S. carnosus, S. epidermidis, and E. coli.
+1. Alginate lyase derived from F. multivorum with polyM/G activity is effective in dispersing preformed
+
+mature bioﬁlms and has a synergistic effect with antibiotics.
+
+2. Marine alginate lyase enzyme (AlyP1400) degrades preformed P. aeruginosa bioﬁlms and enhances the
+bactericidal activity of tobramycin by modulating expression of efﬂux antibiotic resistance-related genes.
+
+PslGh
+
+Psl
+
+1. Glycoside hydrolase family 39 (GH39).
+2. The glycol-hydrolase domain of PslG, is a periplasmic glycoside hydrolase encoded by the Psl
+
+PelAh
+
+Pel
+GAG
+
+Amylase
+
+Amylose
+
+Cellulase
+
+Cellulose
+
+Sph3h
+
+GAG
+
+Ega3
+
+GAG
+
+biosynthetic operon.
+
+3. Inhibits bioﬁlm formation of clinical and environmental isolates of P. aeruginosa over a 24-h period and is
+
+capable of disrupting newly formed bioﬁlms but is less potent to against mature bioﬁlms.
+
+4. PslGh is noncytotoxic and supports host immune responses.
+1. PelA47–303 is constructed from the glycoside hydrolase domain of PelA which is a periplasmic enzyme
+
+encoded by the Pel biosynthetic operons.
+
+2. PelAh inhibits bioﬁlms formed by clinical and environmental isolates of P. aeruginosa over a 24-h period. It
+is capable of disrupting newly formed bioﬁlms but is less potent against disperse mature bioﬁlms.
+
+3. Boosts the efﬁcacy of colistin and increases neutrophil killing by ~50%.
+4. Shares structural and functional similarities with Sph3h, allowing degradation of GAG and disruption of
+
+preformed A. fumigatus bioﬁlms in vitro.
+
+1. Glycoside hydrolase family 13 (GH13).
+2. Cleaves α-(1,4)-D-glucosidic linkages at random sites of amylose in bioﬁlms.
+3. Has a strong inhibiting effect on forming bioﬁlms and degradation of pre-existing bioﬁlms.
+4. β-amylase, an exo-acting GH14 carbohydrolase, is less potent to disrupt bioﬁlms. It hydrolyzes the α-(1,4)-
+
+glucosidic linkages of amylose only from the nonreducing end.
+
+1. Cellulase from various sources, such as P. funiculosum and T. reseei, inhibits bioﬁlm formation of P.
+
+aeruginosa in a pH dependent manner but is less effective for mature bioﬁlms.
+
+2. Cellulase combined with levoﬂoxacin can powerfully disperse mature bioﬁlms formed by B.
+
+CalmetteGuerin.
+
+1. Glycoside hydrolase family 135 (GH135).
+2. Glycol-hydrolase domain (Sph3h) of Sph3 is encoded by the GAG biosynthesis gene.
+3. A retaining endo-α-(1,4)-N-acetylgalactosaminidase that produces a minimal substrate size of seven
+
+residues.
+
+4. Degrades GAG and disrupts preformed A. fumigatus bioﬁlms in vitro.
+1. Glycoside hydrolase family 114 (GH114).
+2. Encoded by the GAG biosynthesis cluster, it is an endo-acting α-(1,4)-galactosaminidase.
+3. Disrupts GAG-dependent A. fumigatus and Pel-dependent P. aeruginosa preformed bioﬁlms in vitro at
+
+nanomolar concentrations.
+
+(1,3)-β-Glucanase
+
+(1,3)-β-Glucan
+
+1. Exo-acting glycohydrolase, pathogenesis-related-2 family (PR-2), cleaving at the nonreducing end of β-
+
+Levanase SacC
+
+Inulinase
+
+Levan
+Inulin
+Sucrose Rafﬁnose
+Inulin
+
+(1,3) glucan oligosaccharides and glucose.
+
+2. Derived from A. luteus and degrades poly-(1,3)-glucose in C. albicans preformed bioﬁlms in vitro.
+1. Exo-fructosidase in glycoside hydrolase family 32 (GH32). Hydrolyzes terminal β-(2, 1)-D-fructofuranose
+
+residues of fructans from the non-reducing end.
+
+2. Can be procured in the culture medium of B. subtilis SacL mutants as extracellular enzymes.
+1. Hydrolyzes β-(2, 1)-D-fructosidic linkages in inulin. Subcategorized into exo- and endo-inulinase based on
+
+hydrolysis patterns.
+
+2. Degrades in vitro pre-formed bioﬁlms on reverse osmosis membrane comprised by multiple bacterial
+
+species.
+
+are crucial to bacterial cell aggregation, surface adhesion, and
+structural integrity of bioﬁlm matrices141,142. Enzymatic degrada-
+tion of EPS exoproteins is one of the most effective ways to
+eradicate bioﬁlms. To date, a number of proteases capable of
+bioﬁlm dispersal have been discovered and investigated.
+
+Proteinase K. Proteinase K is a broad-spectrum serine protease
+with a wide pH tolerance (pH 4 - 12) and thermostability (37 -
+It speciﬁcally cleaves peptide bonds in proximity to
+60°C)143.
+
+carboxylic groups of aliphatic and aromatic amino acids144.
+Proteinase K is capable of inhibiting S. aureus bioﬁlm formation
+by hampering early adhesion, but also disperses 24-h- and 48-h-
+old bioﬁlms144. Recent
+show that co-treatment of
+studies
+proteinase K with antibiotics has a synergistic effect
+that
+thoroughly degrades preformed bioﬁlms produced by a range
+of bacteria, including S. aureus, E. coli, Staphylococcus lugdunensis,
+Staphylococcus heamolyticus, Listeria monocytogenes, Gardnerella
+vaginalis, and Bdellovibrio bacteriovorus144–149.
+
+Published in partnership with Nanyang Technological University
+
+npj Bioﬁlms and Microbiomes (2023)  
+
+ 63 
+
+ 
+8
+
+S. Wang et al.
+
+Trypsin, a pancreatic serine protease that speciﬁcally
+Trypsin.
+acts on the carboxyl side of lysine and arginine, has been applied
+to disperse bioﬁlms formed on teeth and wounds150–152. Bovine
+trypsin can degrade mature bioﬁlms of various Gram-positive and
+Gram-negative bacterial species153. Trypsin alone is able to reduce
+the preformed 24-h-old bioﬁlms of both P.
+the biomass of
+aeruginosa and Enterococcus
+faecalis but cannot completely
+remove bioﬁlms regardless of the treatment time and enzyme
+concentrations154. However, trypsin combined with pepsin and
+Carvacrol is able to fully disperse mature bioﬁlms of P. aeruginosa
+and E. faecalis on various abiotic surfaces154.
+
+Pepsin. Pepsin is a promiscuous endopeptidase with a catalytic
+aspartate in its active site to favorably cleave Phe and Leu residues;
+however, His, Lys, Arg, and Pro residues prohibit cleavage155. Pepsin
+reduces the biomass of the preformed 24-h-old bioﬁlms of both P.
+aeruginosa and E. faecalis, but cannot completely remove bioﬁlms
+from polystyrene surfaces regardless of the treatment time and
+enzyme concentrations used, like trypsin154. Co-administered with
+trypsin and carvacrol,
+it can effectively irradicate preformed P.
+aeruginosa and E. faecalis bioﬁlms154,156.
+
+Aureolysin. Aureolysin (Aur), an S. aureus expressed extracellular
+metalloprotease, down-regulates the formation of bioﬁlms and
+allows for the mobility of bacteria by cleavage of surface binding
+proteins, such as clumping factor B which causes loss of ﬁbrinogen
+binding in S. aureus157. Aur is a major contributor to bacterial
+the innate host
+pathogenicity via cleaving components of
+immune system and regulating bacterial toxins and cell wall
+proteins158,159. Aur is associated with the processing of other
+bioﬁlm proteases, such as V8, SspB, and ScpA which together are
+known as the Staphylococcal proteolytic cascade. These proteases
+are secreted into the environment with the pro-peptide inhibiting
+their activation. Aur undergoes autocatalysis and becomes active
+by the degrading the pro-peptide, then mature aur cleaves the
+pro-peptide from V8 to generate active V8 protease. Finally, V8 will
+cleave the SspB pro-peptide to complete cascade48. Puriﬁed aur
+suppresses bioﬁlm formation and disperses established bioﬁlms of
+various S. aureus strains160.
+
+V8 serine protease.
+The V8 serine protease, also known as SspA
+protease, is the major extracellular protease secreted by S. aureus. It
+is secreted as a proenzyme before being proteolytically cleaved by
+aur to become the mature V8 enzyme48. Research shows that
+V8 serine protease added at the beginning of cell culture prevents
+the S. epidermidis bioﬁlm formation by degrading Bap protein, a
+surface-anchored protein161. Esp protease, produced by S. epidermi-
+dis, is structurally highly similar to that of V8. Puriﬁed Esp protease
+prevents bioﬁlm formation, promotes disassembly of pre-established
+bioﬁlms by cleaving autolysin (Atl)-derived murein hydrolases, and
+prevents staphylococcal release of extracellular DNA49.
+
+Staphopain A (ScpA), encoded by the scpAB
+Staphopain A.
+operon,
+is also a participant of the staphylococcal proteolytic
+cascade. It is an extracellular cysteine protease generated by S.
+aureus and demonstrates a very broad range of substrate
+speciﬁcity162. Puriﬁed ScpA inhibits S. aureus formation and
+disperses established bioﬁlms. The antibioﬁlm properties of ScpA
+are conserved across S. aureus strain lineages. Additionally,
+inhibition of ScpA restores the bioﬁlm forming capacity of the
+bioﬁlm-negative S. aureus mutant, the sigma factor B (ΔsigB)
+mutantt163. Puriﬁed ScpA enzyme inhibited S. aureus formation as
+well as to disperse the established bioﬁlms, and the antibioﬁlm
+properties of ScpA were conserved across S. aureus strain
+lineages163.
+
+Staphopain B.
+Staphopain B (SspB) is encoded by the sspABC
+operon and is a cysteine protease secreted by S. aureus. SspA
+
+cleaves proSspB to activate SspB in the last step of
+the
+staphylococcal proteolytic cascade48. Silencing expression of SspB
+can enable the bioﬁlm-deﬁcient S. aureus mutant (ΔsigB) to gain
+bioﬁlm-forming abilities163. However, bacteria-derived proteinase
+could facilitate the bacterial colony survival by degrading
+antimicrobial peptides (AMPs) generated by the host immune
+system, which leads to chronic infections164. Fragments of the
+AMP, cathelicidin LL-37, have been discovered as part of the
+innate immune response in skin diseases such as atopic dermatitis
+and acne rosacea164. S. aureus derived proteinases aureolysin, V8,
+and SspB have been observed in staphylococcal
+isolates from
+atopic dermatitis patients and contributed to bacterial virulence
+through degradation of the AMP cathelicidin LL-37, resulting in
+loss of inhibitory activity on bioﬁlm formation and ultimately
+leading to bacterial persistence in atopic dermatitis165.
+
+Spl proteases consists of
+
+SplABCDEF.
+six serine proteases,
+SplABCDEF, encoded by the νSaβ gene in S. aureus166. Spl
+proteases modulate S. aureus physiology and virulence, and can
+induce disseminated lung damage during pneumonia likely by
+degrading surface-associated proteins
+in staphylococcal and
+human proteins166. In S. aureus, deletion of the genes encoding
+the extracellular proteases, aureolysin and Spl, encourages bioﬁlm
+formation in planktonic cells167. These ﬁndings indicate that Spl
+proteases have the ability to disperse S. aureus bioﬁlms, but more
+research is needed to elucidate the dispersal mechanism.
+
+Endogenous surface
+Surface protein-releasing enzyme (SPRE).
+protein-releasing enzyme (SPRE), produced by S. mutans NG8,
+can disperse the preformed monolayer bioﬁlm of S. mutans and
+detach cells from colonized surfaces168. SPRE cleaves the bacterial
+surface anchoring protein, adhesin P1, by dissociating the bonds
+between the C-terminus of adhesin P1 and other cell surface
+components169. SPRE degrades preformed bioﬁlms in a pH-
+dependent manner with the optimal pH range from 5 to 6, and
+can also detach bioﬁlms of non-dividing cells, indicating that cells
+detached from bioﬁlms were not daughter cells168.
+
+Streptococcal cysteine
+Streptococcal cysteine protease (SpeB).
+protease (SpeB)
+secreted by Streptococcus pyogenes, an
+is
+exclusively Gram-positive human pathogen that causes a wide
+spectrum of diseases such as pharyngitis, impetigo, toxic shock,
+and necrotizing fasciitis170. SpeB is a promiscuous enzyme
+displaying a broad range enzymatic activities including degrada-
+tion of bioﬁlm, cytokines, chemokines, complement components,
+immunoglobulins, and serum protease inhibitors. It is also capable
+of degrading and releasing other streptococcal proteins from the
+bacterial surface170. The constitutive production of SpeB by an S.
+pyogenes mutant strain is responsible for a signiﬁcant reduction of
+bioﬁlm formation. Beyond this, addition of puriﬁed SpeB to
+actively growing wild-type cultures signiﬁcantly inhibits bioﬁlm
+formation171. SpeB disperses bioﬁlms and facilitates bacterial
+colonization and occupation of new areas, resulting in infections
+caused by S. pyogenes to vary from mild to severe172. However, a
+recent study shows that SpeB exhibits potent activity towards
+bioﬁlm disruption at multiple stages of S. aureus bioﬁlm formation
+by cleaving SdrC adhesin, which renders the bacteria more
+immune
+to
+susceptible
+components173.
+
+antimicrobial
+
+agents
+
+host
+
+and
+
+is
+
+Peptidase M16. Peptidase M16
+a Microbacterium sp.
+SKS10 secreted metalloprotease that exhibits optimal activity at
+60°C, pH 12174. Peptidase M16 shows low cytotoxicity and
+excellent stability in the presence of various salts and organic
+solvents. Besides this, peptidase M16 can disperse mature S.
+aureus bioﬁlms at concentrations lower
+than trypsin and α-
+amylase, and can be co-treated with kanamycin to enhance
+antimicrobial efﬁcacy174 (Table 2).
+
+npj Bioﬁlms and Microbiomes (2023)  
+
+ 63 
+
+Published in partnership with Nanyang Technological University
+
+ 
+Table 2.
+
+Summary of proteases as bioﬁlm dispersing agents.
+
+S. Wang et al.
+
+9
+
+Protease
+
+Proteinase K
+
+Trypsin
+
+Pepsin
+
+Aureolysin
+(Aur)
+
+V8 serine protease
+(V8)
+(SspA)
+
+Staphopain A
+(ScpA)
+
+Staphopain B
+(SspB)
+
+Spl proteases
+
+Surface protein releasing enzyme
+(SPRE)
+
+Summary
+
+1. Broad-spectrum serine protease with remarkable pH tolerance and thermostability.
+2. Inhibits new bioﬁlm formation and disperses preformed bioﬁlms of various bacterial strains.
+1. Pancreatic serine protease that speciﬁcally acts on the carboxyl side of lysine and arginine.
+2. Degrades mature bioﬁlms of various Gram-positive and Gram-negative bacterial species.
+1. Promiscuous endopeptidase with a catalytic aspartate in its active site to favorably cleave Phe and Leu
+
+residues.
+
+2. Reduces the biomass of preformed bioﬁlms of both P. aeruginosa and E. faecalis.
+1. S. aureus expressed extracellular metalloprotease.
+2. Puriﬁed aureolysin can suppress bioﬁlm formation and disperse established bioﬁlms of various S. aureus
+
+strains.
+
+1. The main extracellular protease secreted by S. aureus.
+2. Prevents formation of S. epidermidis bioﬁlms by degrading Bap, a surface-anchored protein.
+
+1. Extracellular promiscuous cysteine protease generated by S. aureus.
+2. Puriﬁed ScpA inhibits S. aureus bioﬁlm formation and disperses established bioﬁlms.
+1. Secreted cysteine protease by S. aureus.
+2. Inhibition enables the bioﬁlm-deﬁcient S. aureus mutant (ΔsigB) to restore bioﬁlm forming abilities.
+3. Degrades the AMP, cathelicidin LL-37, resulting in loss of inhibitory activity on bioﬁlm formation.
+1. Consists of six serine proteases, SplABCDEF, modulating S. aureus physiology and virulence.
+2. Degrade surface-associated proteins in S. aureus, and deletion of the genes encoding the extracellular Spl
+
+proteases encourages bioﬁlm formation.
+
+1. Produced by Streptococcus mutans NG8, it can disperse the preformed monolayer bioﬁlm of Streptococcus
+
+mutans.
+
+2. Cleaves the bacterial surface anchoring protein, adhesin P1.
+
+Streptococcal cysteine protease (SpeB) 1. Secreted by S. pyogenes, a Gram-positive human pathogen causing a wide spectrum of diseases.
+2. Disperse bioﬁlms and facilitates bacterial occupation of new areas, leading to serious infections.
+3. Exhibits potent bioﬁlm disruptive activity at multiple stages of S. aureus bioﬁlm formation by cleaving SdrC
+
+adhesin.
+
+Peptidase M16
+
+1. Metalloprotease secreted by Microbacterium sp. SKS10.
+2. Disperses mature S. aureus bioﬁlms at low concentrations and can be co-treated with kanamycin to
+
+enhance antimicrobial efﬁcacy.
+
+Deoxyribonucleases
+is a ubiquitous and vital structural
+Extracellular DNA (eDNA)
+including microbial
+the EPS with functions
+component of
+signaling, gene transfer, and bioﬁlm matrix
+adhesion, cell
+stabilization175–177. Despite the importance of eDNA in bacterial
+bioﬁlms,
+it had not attracted much attention until 2002 when
+Whitchurch et al. exogenously added DNase I to disperse bioﬁlms
+and boost bactericidal efﬁciency when combined with antibio-
+tics46. Since then, substantial work has been done to employ
+various DNases targeting eDNA to eradicate bioﬁlm infections.
+
+It
+
+DNase I. DNase I is a widely used pancreatic endonuclease that
+speciﬁcally digests DNA.
+is secreted in the extracellular
+environment
+to degrade both single-stranded and double-
+stranded DNA into oligonucleotides with 5′ monophosphate and
+3′ hydroxyl DNA ends178,179. DNase I can disrupt the formation of
+both mono- and polymicrobial bioﬁlms179. Bioﬁlms formed in the
+presence of DNase I display reduced bioﬁlm biomass,
+total
+bacterial biomass, decreased viability of bacteria, and decreased
+tolerance to antibiotics180. However, DNase I
+is more effective
+rapidly growing bioﬁlms. Newly
+towards the destruction of
+established bioﬁlms (up to 60-h old) were also dissolved by
+DNase I treatment, whereas more mature bioﬁlms (over 84-h old)
+exhibited strong resistance to DNase I degradation. This is likely
+due to mature bioﬁlms being strengthened by other substances
+such as exopolysaccharides and exoproteins, additionally, mature
+bioﬁlms may have produced sufﬁcient proteolytic exoenzymes to
+locally inactivate DNase I46. Besides this, recombinant human
+DNase I (rhDNase) has been clinically applied in cystic ﬁbrosis
+patients to reduce the viscosity of purulent sputum181. rhDNase
+exhibits strong antibioﬁlm activity and reduces the antibiotic
+
+resistance of S. aureus and S. epidermidis182. Recent studies show
+that DNase I also presents a wide compatibility with various
+antimicrobial agents such as ceftazidime, proteinase K, and silver
+sulfadiazine183–185. DNase I-like protein 2 (DNase1L2), found in the
+human stratum corneum of the epidermis, is able to suppress P.
+aeruginosa and S. aureus bioﬁlm formation,
+indicating that
+DNase1L2 is an innate antimicrobial defense of the epidermis186.
+
+Nucleases Xds and Dns.
+Extracellular nucleases, Xds and Dns, are
+produced by Vibrio cholerae and act as virulence factors in an
+infant mouse cholera model187. Xds, a Mg2+ dependent nuclease,
+belongs to the protein family PF03372 and exerts both endo- and
+exonuclease activity188. Dns, also known as VcEndA, belongs to
+the endonuclease I superfamily and does not have a speciﬁc
+nucleic acid cleavage site189. These two extracellular nucleases can
+degrade both circular and linearized DNA within bioﬁlms, and
+the genes encoding these nucleases results in
+deletion of
+increased bioﬁlm formation47.
+It would be worth directly
+determining their bioﬁlm dispersing activity since Xds and Dns
+are secreted enzymes with good stability.
+
+Streptodornase, also known as Varidase,
+
+is a
+Streptodornase.
+commercial mixture of
+four DNase enzymes produced by P.
+aeruginosa, which reduces the viscosity of bioﬁlm matrices by
+digesting the eDNA of bioﬁlms190. An in vitro study found
+streptodornase is more active against the pre-formed bioﬁlms of
+P. aeruginosa than DNase I, and has been successfully applied in P.
+aeruginosa focal infections, such as urinary tract infection191.
+
+NucB. NucB, a bioﬁlm-dispersing nuclease from the marine
+Bacillus licheniformis strain, also disperses newly formed bioﬁlms
+
+Published in partnership with Nanyang Technological University
+
+npj Bioﬁlms and Microbiomes (2023)  
+
+ 63 
+
+ 
+10
+
+S. Wang et al.
+
+Table 3.
+
+Summary of deoxyribonucleases as bioﬁlms dispersing agents.
+
+Deoxyribonuclease
+
+Summary
+
+DNase I
+
+Nuclease Xds
+
+Nuclease Dns
+(VcEndA)
+
+Streptodornase
+(Varidase)
+
+NucB
+
+1. Widely used pancreatic endonuclease speciﬁc to the digestion of both single-stranded and double-stranded DNA.
+2. More effective at preventing bioﬁlm formation, and disrupts newly formed bioﬁlms better than mature bioﬁlms.
+3. rhDNase has been clinically applied in cystic ﬁbrosis patients to combat bacterial infection.
+1. Secreted Mg2+ dependent nuclease produced by V. cholerae with both endo and exo activity.
+2. Belongs to protein family PF03372 and can degrade both circular and linearized DNA within bioﬁlms.
+3. Deletion of its encoding gene increases bioﬁlm formation.
+1. Member of endonuclease I superfamily produced by V. cholerae.
+2. Degrades both circular and linearized DNA within bioﬁlms.
+3. Deletion of its encoding gene increases bioﬁlm formation.
+1. Mixture of four DNase enzymes produced by P. aeruginosa.
+2. Actively disrupts in vitro preformed bioﬁlms of P. aeruginosa and is used against P. aeruginosa focal infections.
+1. ββα metal-dependent nuclease derived from marine B. licheniformis disperses preformed bioﬁlms by degrading eDNA.
+2. Degrades the preformed bioﬁlms of bacterial strains isolated from chronic rhinosinusitis infections.
+
+It
+
+is a non-speciﬁc endonuclease
+by degradation of eDNA.
+belonging to the ββα metal-dependent nuclease subfamily192,
+and can degrade preformed bioﬁlms of coagulase-negative
+staphylococci, S. aureus, and α-hemolytic streptococci isolated from
+chronic rhinosinusitis infections, offering a promising therapeutic
+approach for chronic rhinosinusitis patients193 (Table 3).
+
+Current barriers and future directions of bioﬁlm-dispersing
+enzymes
+Utilization of enzymes to disperse bioﬁlms has been a popular
+research topic for decades, and a number of dispersing enzymes
+have proven effective for inhibiting bioﬁlm formation in diverse in
+vivo animal infection models including wound, nasal cavity, lung,
+and urinary tract108. Further, the rhDNase I, Dornase alfa, has been
+applied via inhalation in cystic ﬁbrosis patients to reduce the
+viscosity of purulent sputum by preventing the establishment of
+chronic P. aeruginosa infection through inhibiting bioﬁlm forma-
+tion181. DispersinB® wound gel developed by Kane Biotech Inc.
+showed positive results in biocompatibility and in vivo preclinical
+studies and has been undergoing human clinical trials since 2022114.
+However, in practice most enzymatic bioﬁlm eradication assays are
+carried out by in vitro testing against monomicrobial bioﬁlms instead
+of multispecies-based bioﬁlms that occur in nature. Thus, advancing
+the research of bioﬁlm-dispersing enzymes is bottlenecked by the
+lack of the reliable bioﬁlm models that mimic the true complexity of
+microbial colonization in humans and the world we live in.
+
+Scientists must ascertain the compatibility of these enzymes
+and antibiotics with prudence. In order to enhance the potency of
+bioﬁlm eradication, bioﬁlm dispersing enzymes are always co-
+administered with antimicrobial agents, thereby providing an
+entryway to allow the antibiotics reach to the bacteria194.
+However, antibiotics can impact bioﬁlm dispersing enzymes, for
+example, S. aureus micrococcal nuclease activity is modulated by
+sub-minimum inhibitory concentrations of antibiotics such as
+erythromycin and doxycycline195. Besides this, antibiotics bearing
+varied pKa values may also inﬂuence the activity of dispersing
+enzymes,
+ranges of pH
+tolerance are more likely to be regarded as potential candidates
+for co-administration196. In the early stages of development, it is
+necessary to systematically characterize dispersing enzymes using
+artiﬁcial substrates that may need organic solvents in the testing
+buffer197. In preparations for manufacture and storage, enzymes
+therapeutic
+thermostability will be favored for
+with better
+development196. Therefore, it is necessary to consider enzymatic
+stability; including by not limited to thermostability, pH tolerance,
+and durability in organic solvents; when developing such dispersal
+agents for clinical application. Bioﬁlm-dispersing enzymes, such as
+peptidase M16 and proteinase K, demonstrate remarkable stability
+
+thus robust enzymes with greater
+
+in organic solvents, a wide pH tolerance, and great thermostability
+(37-60°C)143,174, but not all enzymes can maintain activity under
+harsh conditions. For example, DspB will denature when over 5%
+DMSO is present in solution106, and SPRE disperses bioﬁlm in a pH-
+dependent manner, ranging between pH 5 – 6168.
+
+Toxicity is another issue to be addressed in the development of
+enzymatic bioﬁlm dispersal approaches, as these exogeneous agents
+could elicit strong immune responses or exhibit cellular toxicity. In a
+study on glycosidases to degrade bioﬁlm, a total of 12 glycol-
+hydrolases including alginate lyase, amylase, amyloglucosidase,
+xylanase, cellulase, and pectinase were found to be cytotoxic
+towards human epithelial ﬁbroblasts and human normal colonic
+cells108. Furthermore, xylanase displayed harmful effects in wound
+tissue at the wound site and even negatively impacted the spleen108.
+Additionally, dispersing enzymes cannot achieve bactericidal
+activity and even facilitate bacterial colonization of new areas,
+leading to new or ongoing infections172. Research even shows
+that aureolysin and staphopain are able to degrade AMPs
+produced by the host immune system, resulting chronic atopic
+dermatitis172. Thus, bioﬁlm dispersal enzymes are always com-
+bined with an antibiotic or other therapies to combat bacterial
+infections and may come into clinical applications in the near
+future, but careful consideration must be placed into the selection
+of agents for co-administration. Scientists have utilized enzyme
+engineering coupled with high-throughput screening to discover
+new enzymes as bioﬁlm-dispersing agents106,107,140,198.
+
+In summary, the capability of traditional antibiotics has been
+greatly compromised in recent years by increasing antibiotic
+tolerance of bioﬁlm-embedded microbial pathogens. Clinically,
+bioﬁlm-associated infections account for around 80% of human
+infections. Thus, effective bioﬁlm dispersal strategies
+bacterial
+have been extensively sought after, and enzymatic dispersal
+stands out from other bioﬁlm degrading methods due to its
+efﬁciency and speciﬁcity without causing selective pressure on
+bacteria. Bioﬁlm-dispersing enzymes can effectively break down
+leading to a collapse of bioﬁlm matrices and making
+the EPS,
+microbial cells accessible to antibiotic treatments or host immune
+responses. In this review, we have summarized the three major
+families of bioﬁlm dispersal enzymes; glycosidases, proteases, and
+deoxyribonucleases; which target bioﬁlm exopolysaccharides,
+extracellular proteins, and eDNA, respectively. Although numerous
+enzymes with bioﬁlm-dispersing abilities have been discovered
+and demonstrate promising results in vitro, only a few in vivo
+studies have been performed, with clinical trials conducted for
+even less enzymes. Issues like toxicity, compatibility, and stability
+of bioﬁlm-degrading enzymes have not yet been fully addressed.
+Further efforts are needed to develop robust, safe, and potent
+bioﬁlm-dispersing enzymes for clinical applications.
+
+npj Bioﬁlms and Microbiomes (2023)  
+
+ 63 
+
+Published in partnership with Nanyang Technological University
+
+ 
+Received: 20 April 2023; Accepted: 15 August 2023;
+
+REFERENCES
+
+1. Joo, H. S. & Otto, M. Molecular basis of in vivo bioﬁlm formation by bacterial
+
+pathogens. Chem. Biol. 19, 1503–1513 (2012).
+
+2. Taylor, P. K., Van Kessel, A. T. M., Colavita, A., Hancock, R. E. W. & Mah, T. F. A
+novel small RNA is important for bioﬁlm formation and pathogenicity in Pseu-
+domonas aeruginosa. PLoS ONE 12, e0182582 (2017).
+
+3. Das, T., Kutty, S. K., Kumar, N. & Maneﬁeld, M. Pyocyanin facilitates extracellular
+DNA binding to Pseudomonas aeruginosa inﬂuencing cell surface properties
+and aggregation. PLoS ONE 8, e58299 (2013).
+
+4. Flemming, H. C., Neu, T. R. & Wozniak, D. J. The EPS matrix: the “house of bioﬁlm
+
+cells”. J. Bacteriol. 189, 7945–7947 (2007).
+
+5. Schachter, B. Slimy business—the biotechnology of bioﬁlms. Nat. Biotechnol. 21,
+
+361–365 (2003).
+
+S. Wang et al.
+
+11
+
+31. Yoon, B. K., Jackman, J. A., Valle-Gonzalez, E. R. & Cho, N. J. Antibacterial free fatty
+acids and monoglycerides: biological activities, experimental testing, and ther-
+apeutic applications. Int. J. Mol. Sci. 19, 1114 (2018).
+
+32. Arciola, C. R., Campoccia, D., Speziale, P., Montanaro, L. & Costerton, J. W. Bioﬁlm
+formation in Staphylococcus implant
+infections. A review of molecular
+mechanisms and implications for bioﬁlm-resistant materials. Biomaterials 33,
+5967–5982 (2012).
+
+33. Katsikogianni, M. & Missirlis, Y. F. Concise review of mechanisms of bacterial
+adhesion to biomaterials and of techniques used in estimating bacteria-material
+interactions. Eur. Cell Mater. 8, 37–57 (2004).
+
+34. Russell, A. D. Biocide use and antibiotic resistance: the relevance of laboratory
+ﬁndings to clinical and environmental situations. Lancet Infect. Dis. 3, 794–803
+(2003).
+
+35. Barraud, N. et al. Involvement of nitric oxide in bioﬁlm dispersal of Pseudo-
+
+monas aeruginosa. J. Bacteriol. 188, 7344–7353 (2006).
+
+36. Barraud, N., Kelso, M. J., Rice, S. A. & Kjelleberg, S. Nitric oxide: a key mediator of
+bioﬁlm dispersal with applications in infectious diseases. Curr. Pharm. Des. 21,
+31–42 (2015).
+
+37. Brackman, G. & Coenye, T. Quorum sensing inhibitors as anti-bioﬁlm agents.
+
+6. Nadell, C. D., Xavier, J. B., Levin, S. A. & Foster, K. R. The evolution of quorum
+
+Curr. Pharm. Des. 21, 5–11 (2015).
+
+sensing in bacterial bioﬁlms. PLoS Biol. 6, e14 (2008).
+
+7. Davies, D. Understanding bioﬁlm resistance to antibacterial agents. Nat. Rev.
+
+Drug Discov. 2, 114–122 (2003).
+
+8. Machado, D., Castro, J., Palmeira-de-Oliveira, A., Martinez-de-Oliveira, J. & Cerca,
+N. Bacterial vaginosis bioﬁlms: challenges to current therapies and emerging
+solutions. Front. Microbiol. 6, 1528 (2015).
+
+9. von Rosenvinge, E. C., O’May, G. A., Macfarlane, S., Macfarlane, G. T. & Shirtliff, M.
+E. Microbial bioﬁlms and gastrointestinal diseases. Pathog. Dis. 67, 25–38 (2013).
+10. Behlau, I. & Gilmore, M. S. Microbial bioﬁlms in ophthalmology and infectious
+
+disease. Arch. Ophthalmol. 126, 1572–1581 (2008).
+
+38. Poulin, M. B. & Kuperman, L. L. Regulation of bioﬁlm exopolysaccharide pro-
+duction by cyclic di-guanosine monophosphate. Front. Microbiol. 12, 730980
+(2021).
+
+39. Zhou, C. et al. Pharmacokinetics and pharmacodynamics of DSTA4637A: a novel
+THIOMAB antibody antibiotic conjugate against Staphylococcus aureus in mice.
+MAbs 8, 1612–1619 (2016).
+
+40. Buhmann, M. T. et al. Extraction of bioﬁlms from ureteral stents for quantiﬁca-
+tion and cultivation-dependent and -independent analyses. Front. Microbiol. 9,
+1470 (2018).
+
+41. Kaplan, J. B. Bioﬁlm dispersal: mechanisms, clinical implications, and potential
+
+11. Vieira Colombo, A. P. et al. Periodontal-disease-associated bioﬁlm: a reservoir for
+
+therapeutic uses. J. Dent. Res. 89, 205–218 (2010).
+
+pathogens of medical importance. Microb. Pathog. 94, 27–34 (2016).
+
+12. Delcaru, C. et al. Microbial bioﬁlms in urinary tract infections and prostatitis:
+etiology, pathogenicity, and combating strategies. Pathogens 5, https://doi.org/
+10.3390/pathogens5040065 (2016).
+
+13. Post, J. C. Direct evidence of bacterial bioﬁlms in otitis media. Laryngoscope 111,
+
+2083–2094 (2001).
+
+14. Francolini,
+
+I. & Donelli, G. Prevention and control of bioﬁlm-based medical-
+
+device-related infections. FEMS Immunol. Med. Microbiol. 59, 227–238 (2010).
+15. Fisher, R. A., Gollan, B. & Helaine, S. Persistent bacterial infections and persister
+
+cells. Nat. Rev. Microbiol. 15, 453–464 (2017).
+
+16. Sauer, K. et al. The bioﬁlm life cycle: expanding the conceptual model of bioﬁlm
+
+formation. Nat. Rev. Microbiol. 20, 608–620 (2022).
+
+17. Arjes, H. A. et al. Three-dimensional bioﬁlm colony growth supports a mutualism
+sharing. Elife 10, https://doi.org/10.7554/
+
+involving matrix and nutrient
+eLife.64145 (2021).
+
+18. Cherny, K. E. & Sauer, K. Untethering and degradation of the polysaccharide
+matrix are essential steps in the dispersion response of pseudomonas aerugi-
+nosa bioﬁlms. J. Bacteriol. 202, https://doi.org/10.1128/JB.00575-19 (2020).
+19. Rumbaugh, K. P. & Sauer, K. Bioﬁlm dispersion. Nat. Rev. Microbiol. 18, 571–586
+
+(2020).
+
+42. Snarr, B. D., Howell, P. L. & Sheppard, D. C. Hoisted by their own petard: do
+microbial enzymes hold the solution to treating and preventing bioﬁlm infec-
+tions? Future Microbiol. 13, 395–398 (2018).
+
+43. Fleming, D. & Rumbaugh, K. P. Approaches to Dispersing Medical Bioﬁlms.
+Microorganisms 5, https://doi.org/10.3390/microorganisms5020015 (2017).
+Izano, E. A., Wang, H., Ragunath, C., Ramasubbu, N. & Kaplan, J. B. Detachment
+and killing of Aggregatibacter actinomycetemcomitans bioﬁlms by dispersin B
+and SDS. J. Dent. Res. 86, 618–622 (2007).
+
+44.
+
+45. Fazekas, E., Kandra, L. & Gyemant, G. Model for beta-1,6-N-acetylglucosamine
+oligomer hydrolysis catalysed by DispersinB, a bioﬁlm degrading enzyme. Car-
+bohydr. Res. 363, 7–13 (2012).
+
+46. Whitchurch, C. B., Tolker-Nielsen, T., Ragas, P. C. & Mattick, J. S. Extracellular DNA
+
+required for bacterial bioﬁlm formation. Science 295, 1487 (2002).
+
+47. Seper, A. et al. Extracellular nucleases and extracellular DNA play important
+roles in Vibrio cholerae bioﬁlm formation. Mol. Microbiol. 82, 1015–1037
+(2011).
+
+48. Shaw, L., Golonka, E., Potempa, J. & Foster, S. J. The role and regulation of the
+extracellular proteases of Staphylococcus aureus. Microbiology (Reading) 150,
+217–228 (2004).
+
+49. Marti, M. et al. Extracellular proteases inhibit protein-dependent bioﬁlm for-
+
+20. Stewart, P. S. Antimicrobial tolerance in bioﬁlms. Microbiol. Spectr. 3, https://
+
+mation in Staphylococcus aureus. Microbes Infect. 12, 55–64 (2010).
+
+doi.org/10.1128/microbiolspec.MB-0010-2014 (2015).
+
+21. Stewart, P. S. & Costerton, J. W. Antibiotic resistance of bacteria in bioﬁlms.
+
+Lancet 358, 135–138 (2001).
+
+22. Brown, M. R., Allison, D. G. & Gilbert, P. Resistance of bacterial bioﬁlms to anti-
+biotics: a growth-rate related effect? J. Antimicrob. Chemother. 22, 777–780 (1988).
+23. Singh, S., Singh, S. K., Chowdhury, I. & Singh, R. Understanding the mechanism
+of bacterial bioﬁlms resistance to antimicrobial agents. Open Microbiol. J. 11,
+53–62 (2017).
+
+24. Wood, T. K., Knabel, S. J. & Kwan, B. W. Bacterial persister cell formation and
+
+dormancy. Appl Environ. Microbiol. 79, 7116–7121 (2013).
+
+25. Lewis, K. Persister cells and the riddle of bioﬁlm survival. Biochemistry (Mosc.) 70,
+
+267–274 (2005).
+
+26. Lewis, K. Persister cells. Annu. Rev. Microbiol. 64, 357–372 (2010).
+27. LaFleur, M. D., Kumamoto, C. A. & Lewis, K. Candida albicans bioﬁlms produce
+antifungal-tolerant persister cells. Antimicrob. Agents Chemother. 50, 3839–3846
+(2006).
+
+28. Lewis, K. Riddle of bioﬁlm resistance. Antimicrob. Agents Chemother. 45,
+
+999–1007 (2001).
+
+29. Baltzer, S. A. & Brown, M. H. Antimicrobial peptides: promising alternatives to
+conventional antibiotics. J. Mol. Microbiol. Biotechnol. 20, 228–235 (2011).
+30. Mookherjee, N., Anderson, M. A., Haagsman, H. P. & Davidson, D. J. Antimicrobial
+host defence peptides: functions and clinical potential. Nat. Rev. Drug Discov. 19,
+311–332 (2020).
+
+50. Ryder, C., Byrd, M. & Wozniak, D. J. Role of polysaccharides in Pseudomonas
+aeruginosa bioﬁlm development. Curr. Opin. Microbiol. 10, 644–648 (2007).
+51. Ross, P., Mayer, R. & Benziman, M. Cellulose biosynthesis and function in bac-
+
+teria. Microbiol. Rev. 55, 35–58 (1991).
+
+52. Jackson, K. D., Starkey, M., Kremer, S., Parsek, M. R. & Wozniak, D. J. Identiﬁcation
+of psl, a locus encoding a potential exopolysaccharide that is essential for
+Pseudomonas aeruginosa PAO1 bioﬁlm formation. J. Bacteriol. 186, 4466–4475
+(2004).
+
+53. Friedman, L. & Kolter, R. Two genetic loci produce distinct carbohydrate-rich
+structural components of the Pseudomonas aeruginosa bioﬁlm matrix. J. Bac-
+teriol. 186, 4457–4465 (2004).
+
+54. Heilmann, C. et al. Molecular basis of intercellular adhesion in the bioﬁlm-
+forming Staphylococcus epidermidis. Mol. Microbiol. 20, 1083–1091 (1996).
+55. Rinehart, K. L. et al. Bioactive compounds from aquatic and terrestrial sources. J.
+
+Nat. Prod. 53, 771–792 (1990).
+
+56. Vocadlo, D. J. & Withers, S. G. Detailed comparative analysis of the catalytic
+mechanisms of beta-N-acetylglucosaminidases from families 3 and 20 of gly-
+coside hydrolases. Biochemistry 44, 12809–12818 (2005).
+
+57. Wang, X., Preston, J. F. 3rd & Romeo, T. The pgaABCD locus of Escherichia coli
+promotes the synthesis of a polysaccharide adhesin required for bioﬁlm for-
+mation. J. Bacteriol. 186, 2724–2734 (2004).
+
+58. Jarrett, C. O. et al. Transmission of Yersinia pestis from an infectious bioﬁlm in
+
+the ﬂea vector. J. Infect. Dis. 190, 783–792 (2004).
+
+Published in partnership with Nanyang Technological University
+
+npj Bioﬁlms and Microbiomes (2023)  
+
+ 63 
+
+ 
+12
+
+S. Wang et al.
+
+59.
+
+60.
+
+Izano, E. A. et al. Poly-N-acetylglucosamine mediates bioﬁlm formation and
+antibiotic resistance in Actinobacillus pleuropneumoniae. Microb. Pathog. 43,
+1–9 (2007).
+Izano, E. A. et al. Poly-N-acetylglucosamine mediates bioﬁlm formation and
+detergent
+resistance in Aggregatibacter actinomycetemcomitans. Microb.
+Pathog. 44, 52–60 (2008).
+
+61. Parise, G., Mishra, M., Itoh, Y., Romeo, T. & Deora, R. Role of a putative polysaccharide
+
+locus in Bordetella bioﬁlm development. J. Bacteriol. 189, 750–760 (2007).
+
+62. Choi, A. H., Slamti, L., Avci, F. Y., Pier, G. B. & Maira-Litran, T. The pgaABCD locus
+of Acinetobacter baumannii encodes the production of poly-beta-1-6-N-acet-
+ylglucosamine, which is critical
+J. Bacteriol. 191,
+5953–5963 (2009).
+63. Yakandawala, N.
+
+the poly-beta-1,6-N-acet-
+ylglucosamine polysaccharide component of Burkholderia bioﬁlms. Appl.
+Environ. Microbiol. 77, 8303–8309 (2011).
+
+for bioﬁlm formation.
+
+al. Characterization of
+
+et
+
+64. Chen, K. M. et al. The role of pgaC in Klebsiella pneumoniae virulence and
+
+bioﬁlm formation. Microb. Pathog. 77, 89–99 (2014).
+
+65. Ye, L., Zheng, X. & Zheng, H. Effect of sypQ gene on poly-N-acetylglucosamine
+biosynthesis in Vibrio parahaemolyticus and its role in infection process. Gly-
+cobiol 24, 351–358 (2014).
+
+66. Roux, D. et al.
+
+Identiﬁcation of poly-N-acetylglucosamine as a major poly-
+saccharide component of the bacillus subtilis bioﬁlm matrix. J. Biol. Chem. 290,
+19261–19272 (2015).
+
+67. Maira-Litran, T. et al. Immunochemical properties of the staphylococcal poly-N-
+acetylglucosamine surface polysaccharide. Infect. Immun. 70, 4433–4440 (2002).
+68. McKenney, D. et al. The ica locus of Staphylococcus epidermidis encodes produc-
+tion of the capsular polysaccharide/adhesin. Infect. Immun. 66, 4711–4720 (1998).
+69. Cramton, S. E., Gerke, C., Schnell, N. F., Nichols, W. W. & Gotz, F. The intercellular
+adhesion (ica) locus is present in Staphylococcus aureus and is required for
+bioﬁlm formation. Infect. Immun. 67, 5427–5433 (1999).
+
+70. Little, D. J. et al. Structural basis for the De-N-acetylation of poly-beta-1,6-N-
+acetyl-D-glucosamine in Gram-positive bacteria. J. Biol. Chem. 289, 35907–35917
+(2014).
+
+71. Atkin, K. E., MacDonald, S. J., Brentnall, A. S., Potts, J. R. & Thomas, G. H. A
+different path: revealing the function of staphylococcal proteins in bioﬁlm for-
+mation. FEBS Lett. 588, 1869–1872 (2014).
+
+72. Nishiyama, T., Noguchi, H., Yoshida, H., Park, S. Y. & Tame, J. R. The structure of
+the deacetylase domain of Escherichia coli PgaB, an enzyme required for bioﬁlm
+formation: a circularly permuted member of the carbohydrate esterase 4 family.
+Acta Crystallogr. D: Biol. Crystallogr. 69, 44–51 (2013).
+
+73. Franklin, M. J., Nivens, D. E., Weadge, J. T. & Howell, P. L. Biosynthesis of the
+Pseudomonas aeruginosa extracellular polysaccharides, alginate, Pel, and Psl.
+Front. Microbiol. 2, 167 (2011).
+
+74. Stover, C. K. et al. Complete genome sequence of Pseudomonas aeruginosa
+
+PAO1, an opportunistic pathogen. Nature 406, 959–964 (2000).
+
+75. Zielinski, N. A., Chakrabarty, A. M. & Berry, A. Characterization and regulation of
+the Pseudomonas aeruginosa algC gene encoding phosphomannomutase. J.
+Biol. Chem. 266, 9754–9763 (1991).
+
+76. Baker, P. et al. P. aeruginosa SGNH hydrolase-like proteins AlgJ and AlgX have
+similar topology but separate and distinct roles in alginate acetylation. PLoS
+Pathog. 10, e1004334 (2014).
+
+77. Gheorghita, A. A. et al. Structure of the AlgKX modiﬁcation and secretion
+complex required for alginate production and bioﬁlm attachment in Pseudo-
+monas aeruginosa. Nat. Commun. 13, 7631 (2022).
+
+78. Wolfram, F. et al. Catalytic mechanism and mode of action of the periplasmic
+
+alginate epimerase AlgG. J. Biol. Chem. 289, 6006–6019 (2014).
+
+79. Blasi, P. et al. Preparation and in vitro and in vivo characterization of composite
+
+microcapsules for cell encapsulation. Int J. Pharm. 324, 27–36 (2006).
+
+80. Colvin, K. M. et al. The Pel and Psl polysaccharides provide Pseudomonas aer-
+uginosa structural redundancy within the bioﬁlm matrix. Environ. Microbiol 14,
+1913–1928 (2012).
+
+81. Whitﬁeld, G. B. & Howell, P. L. The matrix revisited: opening night for the pel
+14,
+
+kingdoms. Microbiol
+
+eubacterial
+
+Insights
+
+across
+
+polysaccharide
+1178636120988588 (2021).
+
+82. Le Mauff, F. et al. The Pel polysaccharide is predominantly composed of a
+dimeric repeat of alpha-1,4 linked galactosamine and N-acetylgalactosamine.
+Commun. Biol. 5, 502 (2022).
+
+83. Whitﬁeld, G. B. et al. Pel polysaccharide biosynthesis requires an inner mem-
+brane complex comprised of PelD, PelE, PelF, and PelG. J. Bacteriol. 202, https://
+doi.org/10.1128/JB.00684-19 (2020).
+
+84. Whitﬁeld, G. B. et al. Discovery and characterization of a Gram-positive Pel
+polysaccharide biosynthetic gene cluster. PLoS Pathog. 16, e1008281 (2020).
+85. Bundalovic-Torma, C., Whitﬁeld, G. B., Marmont, L. S., Howell, P. L. & Parkinson, J.
+A systematic pipeline for classifying bacterial operons reveals the evolutionary
+landscape of bioﬁlm machineries. PLoS Comput. Biol. 16, e1007721 (2020).
+
+86. Friedman, L. & Kolter, R. Genes involved in matrix formation in Pseudomonas
+
+aeruginosa PA14 bioﬁlms. Mol. Microbiol. 51, 675–690 (2004).
+
+87. Colvin, K. M. et al. PelA deacetylase activity is required for Pel polysaccharide
+synthesis in Pseudomonas aeruginosa. J. Bacteriol. 195, 2329–2339 (2013).
+88. Champion, A. E., Catanzaro, K. C. F., Bandara, A. B. & Inzana, T. J. Formation of the
+Francisella tularensis bioﬁlm is affected by cell surface glycosylation, growth
+medium, and a glucan exopolysaccharide. Sci. Rep. 9, 12252 (2019).
+
+89. Petruzzi, B. et al. Capsular polysaccharide interferes with bioﬁlm formation by
+Pasteurella multocida Serogroup A. mBio 8, https://doi.org/10.1128/mBio.01843-17
+(2017).
+
+90. Matthysse, A. G., Thomas, D. L. & White, A. R. Mechanism of cellulose synthesis in
+
+Agrobacterium tumefaciens. J. Bacteriol. 177, 1076–1081 (1995).
+
+91. Zogaj, X., Nimtz, M., Rohde, M., Bokranz, W. & Romling, U. The multicellular
+morphotypes of Salmonella typhimurium and Escherichia coli produce cellulose
+as the second component of the extracellular matrix. Mol. Microbiol. 39,
+1452–1463 (2001).
+
+92. Gal, M., Preston, G. M., Massey, R. C., Spiers, A. J. & Rainey, P. B. Genes encoding a
+cellulosic polymer contribute toward the ecological success of Pseudomonas
+ﬂuorescens SBW25 on plant surfaces. Mol. Ecol. 12, 3109–3121 (2003).
+
+93. Romling, U. & Galperin, M. Y. Bacterial cellulose biosynthesis: diversity of
+operons, subunits, products, and functions. Trends Microbiol. 23, 545–557
+(2015).
+
+94. Shen, T. & Gnanakaran, S. The stability of cellulose: a statistical perspective from
+a coarse-grained model of hydrogen-bond networks. Biophys. J. 96, 3032–3040
+(2009).
+
+95. Thongsomboon, W. et al. Phosphoethanolamine cellulose: a naturally produced
+
+chemically modiﬁed cellulose. Science 359, 334–338 (2018).
+
+96. Fontaine, T. et al. Galactosaminogalactan, a new immunosuppressive poly-
+
+saccharide of Aspergillus fumigatus. PLoS Pathog. 7, e1002372 (2011).
+
+97. Lee, M. J. et al. Deacetylation of fungal exopolysaccharide mediates adhesion
+
+and bioﬁlm formation. mBio 7, e00252–00216 (2016).
+
+98. Bamford, N. C. et al. Structural and biochemical characterization of the exopo-
+lysaccharide deacetylase Agd3 required for Aspergillus fumigatus bioﬁlm for-
+mation. Nat. Commun. 11, 2450 (2020).
+
+99. Matyjaszewski, K. & Möller, M. Polymer science: a comprehensive reference.
+
+Chapter 2, 111–184 (2012).
+
+100. Douglas, C. Fungal β (1, 3)-D-glucan synthesis. Sabouraudia 39, 55–66 (2001).
+101. Tan, Y., Ma, S., Leonhard, M., Moser, D. & Schneider-Stickler, B. beta-1,3-gluca-
+nase disrupts bioﬁlm formation and increases antifungal susceptibility of Can-
+dida albicans DAY185. Int J. Biol. Macromol. 108, 942–946 (2018).
+
+102. Oner, E. T., Hernandez, L. & Combie, J. Review of Levan polysaccharide: from a
+century of past experiences to future prospects. Biotechnol. Adv. 34, 827–844
+(2016).
+
+103. Han, Y. W. Microbial levan. Adv. Appl. Microbiol. 35, 171–194 (1990).
+104. Zhang, W. et al. An overview of levan-degrading enzyme from microbes. Appl.
+
+Microbiol. Biotechnol. 103, 7891–7902 (2019).
+
+105. Dedonder, R. In Methods in Enzymology Vol. 8, 500–505 (Elsevier, 1966). https://
+
+www.sciencedirect.com/science/article/abs/pii/0076687966080911.
+
+106. Wang, S., Breslawec, A. P., Li, C. & Poulin, M. B. A colorimetric assay to enable
+identiﬁcation of bioﬁlm exopolysaccharide-hydrolyzing
+
+high-throughput
+enzymes. Chemistry 26, 10719–10723 (2020).
+
+107. Wang, S., Breslawec, A. P. & Poulin, M. B. Multifunctional ﬂuorescent probes for
+high-throughput characterization of hexosaminidase enzyme activity. Bioorg.
+Chem. 119, 105532 (2022).
+
+108. Redman, W. K. et al. Efﬁcacy and safety of bioﬁlm dispersal by glycoside
+
+hydrolases in wounds. Bioﬁlm 3, 100061 (2021).
+
+109. Kaplan, J. B., Ragunath, C., Ramasubbu, N. & Fine, D. H. Detachment of Actino-
+bacillus actinomycetemcomitans bioﬁlm cells by an endogenous beta-
+hexosaminidase activity. J. Bacteriol. 185, 4693–4698 (2003).
+
+110. Kerrigan, J. E. et al. Modeling and biochemical analysis of the activity of anti-
+
+bioﬁlm agent Dispersin B. Acta Biol. Hung. 59, 439–451 (2008).
+
+111. Wang, S. et al. Differential recognition of deacetylated PNAG oligosaccharides
+by a bioﬁlm degrading glycosidase. ACS Chem. Biol. 14, 1998–2005 (2019).
+112. Breslawec, A. P., Wang, S., Monahan, K. N., Barry, L. L. & Poulin, M. B. The
+endoglycosidase activity of Dispersin B is mediated through electrostatic
+interactions with cationic poly-beta-(1–>6)-N-acetylglucosamine. FEBS J. 290,
+1049–1059 (2023).
+
+113. Manuel, S. G. et al. Role of active-site residues of dispersin B, a bioﬁlm-releasing
+beta-hexosaminidase from a periodontal pathogen, in substrate hydrolysis. FEBS
+J. 274, 5987–5999 (2007).
+
+114. Gawande, P. V. et al. Antibioﬁlm efﬁcacy of DispersinB((R)) wound spray used in
+combination with a silver wound dressing. Microbiol Insights 7, 9–13 (2014).
+115. Breslawec, A. P., Wang, S., Li, C. & Poulin, M. B. Anionic amino acids support
+hydrolysis of poly-beta-(1,6)-N-acetylglucosamine exopolysaccharides by the
+bioﬁlm dispersing glycosidase Dispersin B. J. Biol. Chem. 296, 100203 (2021).
+
+npj Bioﬁlms and Microbiomes (2023)  
+
+ 63 
+
+Published in partnership with Nanyang Technological University
+
+ 
+116. Little, D. J. et al. PgaB orthologues contain a glycoside hydrolase domain that
+cleaves deacetylated poly-beta(1,6)-N-acetylglucosamine and can disrupt bac-
+terial bioﬁlms. PLoS Pathog. 14, e1006998 (2018).
+
+117. Forman, A., Pfoh, R., Eddenden, A., Howell, P. L. & Nitz, M. Synthesis of deﬁned
+mono-de-N-acetylated beta-(1–>6)-N-acetyl-d-glucosamine oligosaccharides to
+characterize PgaB hydrolase activity. Org. Biomol. Chem. 17, 9456–9466 (2019).
+118. Little, D. J. et al. Modiﬁcation and periplasmic translocation of the bioﬁlm
+exopolysaccharide poly-beta-1,6-N-acetyl-D-glucosamine. Proc. Natl Acad. Sci.
+USA 111, 11013–11018 (2014).
+
+119. Blanco-Cabra, N. et al. Characterization of different alginate lyases for dissolving
+
+Pseudomonas aeruginosa bioﬁlms. Sci. Rep. 10, 9390 (2020).
+
+120. Zhu, B. & Yin, H. Alginate lyase: Review of major sources and classiﬁcation,
+structure-function analysis and applications. Bioengineered 6,
+
+properties,
+125–131 (2015).
+
+121. Jang, C. H. et al. Modeling and re-engineering of azotobacter vinelandii alginate
+lyase to enhance its catalytic efﬁciency for accelerating bioﬁlm degradation.
+PLoS ONE 11, e0156197 (2016).
+
+122. Daboor, S. M., Raudonis, R. & Cheng, Z. Characterizations of the viability and
+gene expression of dispersal cells from Pseudomonas aeruginosa bioﬁlms
+released by alginate lyase and tobramycin. PLoS ONE 16, e0258950 (2021).
+123. Baker, P. et al. Characterization of the Pseudomonas aeruginosa glycoside
+hydrolase PslG reveals that its levels are critical for Psl polysaccharide bio-
+synthesis and bioﬁlm formation. J. Biol. Chem. 290, 28374–28387 (2015).
+124. Baker, P. et al. Exopolysaccharide biosynthetic glycoside hydrolases can be
+utilized to disrupt and prevent Pseudomonas aeruginosa bioﬁlms. Sci. Adv. 2,
+e1501632 (2016).
+
+125. Paul, J. S., Gupta, N., Beliya, E., Tiwari, S. & Jadhav, S. K. Aspects and recent trends
+in microbial alpha-amylase: a review. Appl. Biochem. Biotechnol. 193, 2649–2698
+(2021).
+
+126. Craigen, B., Dashiff, A. & Kadouri, D. E. The use of commercially available alpha-
+amylase compounds to inhibit and remove Staphylococcus aureus bioﬁlms.
+Open Microbiol J. 5, 21–31 (2011).
+
+127. Karatan, E. & Watnick, P. Signals, regulatory networks, and materials that build
+and break bacterial bioﬁlms. Microbiol. Mol. Biol. Rev. 73, 310–347 (2009).
+128. Loiselle, M. & Anderson, K. W. The use of cellulase in inhibiting bioﬁlm formation
+from organisms commonly found on medical implants. Biofouling 19, 77–85
+(2003).
+
+129. Kamali, E., Jamali, A., Izanloo, A. & Ardebili, A. In vitro activities of cellulase and
+ceftazidime, alone and in combination against Pseudomonas aeruginosa bio-
+ﬁlms. BMC Microbiol. 21, 347 (2021).
+
+130. Zhang, Z., Liao, H., Yang, M., Hu, C. & Du, Y. [Levoﬂoxacin combined with cel-
+lulase can eradicate bacille Calmette-Guerin bioﬁlm infection]. Nan Fang Yi Ke
+Da Xue Xue Bao 43, 257–264 (2023).
+
+131. Bamford, N. C. et al. Sph3 is a glycoside hydrolase required for the biosynthesis
+J. Biol. Chem. 290,
+
+fumigatus.
+
+of galactosaminogalactan in Aspergillus
+27438–27450 (2015).
+
+132. Le Mauff, F. et al. Molecular mechanism of Aspergillus fumigatus bioﬁlm dis-
+ruption by fungal and bacterial glycoside hydrolases. J. Biol. Chem. 294,
+10760–10772 (2019).
+
+133. Bamford, N. C. et al. Ega3 from the fungal pathogen Aspergillus fumigatus is an
+endo-alpha-1,4-galactosaminidase that disrupts microbial bioﬁlms. J. Biol. Chem.
+294, 13833–13849 (2019).
+
+134. Balasubramanian, V., Vashisht, D., Cletus, J. & Sakthivel, N. Plant beta-1,3-glu-
+canases: their biological functions and transgenic expression against phyto-
+pathogenic fungi. Biotechnol. Lett. 34, 1983–1990 (2012).
+
+135. Wanker, E., Huber, A. & Schwab, H. Puriﬁcation and characterization of the
+Bacillus subtilis levanase produced in Escherichia coli. Appl. Environ. Microbiol.
+61, 1953–1958 (1995).
+
+136. Shida, T., Mukaijo, K., Ishikawa, S., Yamamoto, H. & Sekiguchi, J. Production of
+long-chain levan by a sacC insertional mutant from Bacillus subtilis 327UH.
+Biosci. Biotechnol. Biochem. 66, 1555–1558 (2002).
+
+137. Trizna, E., Bogachev, M. I. & Kayumov, A. Degrading of the Pseudomonas aer-
+uginosa bioﬁlm by extracellular levanase SacC from Bacillus subtilis. BioNa-
+noScience 9, 48–52 (2019).
+
+S. Wang et al.
+
+13
+
+143. Ebeling, W. et al. Proteinase K from Tritirachium album Limber. Eur. J. Biochem.
+
+47, 91–97 (1974).
+
+144. Kumar Shukla, S. & Rao, T. S. Dispersal of Bap-mediated Staphylococcus aureus
+
+bioﬁlm by proteinase K. J. Antibiot. (Tokyo) 66, 55–60 (2013).
+
+145. Nguyen, U. T. & Burrows, L. L. DNase I and proteinase K impair Listeria mono-
+cytogenes bioﬁlm formation and induce dispersal of pre-existing bioﬁlms. Int J.
+Food Microbiol. 187, 26–32 (2014).
+
+146. Cui, H., Ma, C. & Lin, L. Co-loaded proteinase K/thyme oil liposomes for inacti-
+vation of Escherichia coli O157:H7 bioﬁlms on cucumber. Food Funct. 7,
+4030–4040 (2016).
+
+147. Richert, A. & Dabrowska, G. B. Enzymatic degradation and bioﬁlm formation
+during biodegradation of polylactide and polycaprolactone polymers in various
+environments. Int J. Biol. Macromol. 176, 226–232 (2021).
+
+148. Radwan, A. A., Darwesh, O. M., Emam, M. T., Mohamed, K. A. & Shady, H. M. A.
+A combined treatment of Proteinase K and biosynthesized ZnO-NPs for
+eradication of dairy bioﬁlm of sporeformers. AIMS Microbiol. 8, 507–527
+(2022).
+
+149. Hu, W. S., Min Nam, D., Kim, J. S. & Koo, O. K. Synergistic anti-bioﬁlm effects of
+Brassicaceae plant extracts in combination with proteinase K against Escherichia
+coli O157:H7. Sci. Rep. 10, 21090 (2020).
+
+150. Thomas, R. E. & Thomas, B. C. Reducing bioﬁlm infections in burn patients’
+wounds and bioﬁlms on surfaces in hospitals, medical facilities and medical
+equipment to improve burn care: a systematic review. Int. J. Environ. Res. Public
+Health 18, https://doi.org/10.3390/ijerph182413195 (2021).
+
+151. Mugita, N., Nambu, T., Takahashi, K., Wang, P. L. & Komasa, Y. Proteases, acti-
+nidin, papain and trypsin reduce oral bioﬁlm on the tongue in elderly subjects
+and in vitro. Arch. Oral. Biol. 82, 233–240 (2017).
+
+152. Banar, M. et al. Evaluation of mannosidase and trypsin enzymes effects on
+bioﬁlm production of Pseudomonas aeruginosa isolated from burn wound
+infections. PLoS ONE 11, e0164622 (2016).
+
+153. Zhou, J. et al. An in vitro study on the degradation of multispecies bioﬁlm of
+periodontitis-related microorganisms by bovine trypsin. Front. Microbiol. 13,
+951291 (2022).
+
+154. Mechmechani, S. et al. Pepsin and trypsin treatment combined with carvacrol:
+an efﬁcient strategy to ﬁght Pseudomonas aeruginosa and Enterococcus fae-
+calis bioﬁlms. Microorganisms 11, 143 (2023).
+
+155. Hamuro, Y., Coales, S. J., Molnar, K. S., Tuske, S. J. & Morrow, J. A. Speciﬁcity of
+immobilized porcine pepsin in H/D exchange compatible conditions. Rapid
+Commun. Mass Spectrom. 22, 1041–1046 (2008).
+
+156. Mechmechani, S. et al. Hurdle technology based on the use of micro-
+encapsulated pepsin, trypsin and carvacrol to eradicate Pseudomonas aerugi-
+nosa and Enterococcus faecalis bioﬁlms. Biofouling 38, 903–915 (2022).
+
+157. Potempa, J. & Shaw, L. N.
+
+In Handbook of Proteolytic Enzymes 3rd edn (eds
+
+Rawlings, N. D. & Guy, S.) 563-569 (Academic Press, 2013).
+
+158. Laarman, A. J. et al. Staphylococcus aureus metalloprotease aureolysin cleaves
+Immunol. 186, 6445–6453
+
+complement C3 to mediate immune evasion. J.
+(2011).
+
+159. Pietrocola, G., Nobile, G., Rindi, S. & Speziale, P. Staphylococcus aureus manip-
+ulates innate immunity through own and host-expressed proteases. Front. Cell
+Infect. Microbiol. 7, 166 (2017).
+
+160. Loughran, A. J. et al. Impact of individual extracellular proteases on Staphylo-
+coccus aureus bioﬁlm formation in diverse clinical isolates and their isogenic
+sarA mutants. Microbiologyopen 3, 897–909 (2014).
+
+161. Chen, C. et al. Secreted proteases control autolysin-mediated bioﬁlm growth of
+
+Staphylococcus aureus. J. Biol. Chem. 288, 29440–29452 (2013).
+
+162. Barrett, A., Rawlings, N. & Woessner, J. Handbook of Proteolytic Enzymes (Aca-
+
+demic Press, 1998).
+
+163. Mootz, J. M., Malone, C. L., Shaw, L. N. & Horswill, A. R. Staphopains modulate
+Staphylococcus aureus bioﬁlm integrity. Infect. Immun. 81, 3227–3238 (2013).
+164. Yamasaki, K. et al. Increased serine protease activity and cathelicidin promotes
+
+skin inﬂammation in rosacea. Nat. Med. 13, 975–980 (2007).
+
+165. Sonesson, A. et al. Identiﬁcation of bacterial bioﬁlm and the Staphylococcus
+aureus derived protease, staphopain, on the skin surface of patients with atopic
+dermatitis. Sci. Rep. 7, 1–12 (2017).
+
+138. Liu, Y. et al. Synergistic effect between the recombinant exo-inulinase and endo-
+inulinase on inulin hydrolysis. J. Mol. Catal. B: Enzym. 128, 27–38 (2016).
+139. Liu, G.-L., Chi, Z. & Chi, Z.-M. Molecular characterization and expression of
+
+166. Paharik, A. E. et al. The Spl serine proteases modulate staphylococcus aureus
+protein production and virulence in a rabbit model of pneumonia. mSphere 1,
+https://doi.org/10.1128/mSphere.00208-16 (2016).
+
+microbial inulinase genes. Crit. Rev. Microbiol. 39, 152–165 (2013).
+
+140. Møllebjerg, A. et al. Novel high-throughput screening platform identiﬁes
+enzymes to tackle biofouling on reverse osmosis membranes. Desalination 554,
+116485 (2023).
+
+141. Alav, I., Sutton, J. M. & Rahman, K. M. Role of bacterial efﬂux pumps in bioﬁlm
+
+167. Boles, B. R. & Horswill, A. R. Agr-mediated dispersal of Staphylococcus aureus
+
+bioﬁlms. PLoS Pathog. 4, e1000052 (2008).
+
+168. Lee, S. F., Li, Y. H. & Bowden, G. H. Detachment of Streptococcus mutans
+Immun. 64,
+
+bioﬁlm cells by an endogenous enzymatic activity.
+1035–1038 (1996).
+
+Infect.
+
+formation. J. Antimicrob. Chemother. 73, 2003–2020 (2018).
+
+169. Lee, S. F.
+
+142. Erskine, E., MacPhee, C. E. & Stanley-Wall, N. R. Functional amyloid and other
+protein ﬁbers in the bioﬁlm matrix. J. Mol. Biol. 430, 3642–3656 (2018).
+
+Identiﬁcation and characterization of a surface protein-releasing
+Infect.
+
+activity in Streptococcus mutans and other pathogenic streptococci.
+Immun. 60, 4032–4039 (1992).
+
+Published in partnership with Nanyang Technological University
+
+npj Bioﬁlms and Microbiomes (2023)  
+
+ 63 
+
+ 
+14
+
+S. Wang et al.
+
+170. Nelson, D. C., Garbe, J. & Collin, M. Cysteine proteinase SpeB from Streptococcus
+pyogenes—a potent modiﬁer of immunologically important host and bacterial
+proteins. Biol. Chem. 392, 1077–1088 (2011).
+
+171. Roberts, A. L., Holder, R. C. & Reid, S. D. Allelic replacement of the streptococcal
+cysteine protease SpeB in a Δ srv mutant background restores bioﬁlm forma-
+tion. BMC Res. Notes 3, 1–7 (2010).
+
+172. Connolly, K. L., Roberts, A. L., Holder, R. C. & Reid, S. D. Dispersal of Group A
+streptococcal bioﬁlms by the cysteine protease SpeB leads to increased disease
+severity in a murine model. PLoS ONE 6, e18984 (2011).
+
+173. Carothers, K. E. et al. The streptococcal protease SpeB antagonizes the bio-
+ﬁlms of the human pathogen Staphylococcus aureus USA300 through clea-
+vage of the staphylococcal SdrC protein. J. Bacteriol. 202, e00008–e00020
+(2020).
+
+174. Saggu, S. K., Jha, G. & Mishra, P. C. Enzymatic degradation of bioﬁlm by
+metalloprotease from microbacterium sp. SKS10. Front. Bioeng. Biotechnol. 7,
+192 (2019).
+
+175. Panlilio, H. & Rice, C. V. The role of extracellular DNA in the formation, archi-
+tecture, stability, and treatment of bacterial bioﬁlms. Biotechnol. Bioeng. 118,
+2129–2141 (2021).
+
+176. Okshevsky, M. & Meyer, R. L. The role of extracellular DNA in the establishment,
+maintenance and perpetuation of bacterial bioﬁlms. Crit. Rev. Microbiol. 41,
+341–352 (2015).
+
+177. Alhede, M., Bjarnsholt, T., Givskov, M. & Alhede, M. Pseudomonas aeruginosa
+bioﬁlms: mechanisms of immune evasion. Adv. Appl. Microbiol. 86, 1–40
+(2014).
+
+178. Baranovskii, A. G., Buneva, V. N. & Nevinsky, G. A. Human deoxyribonucleases.
+
+Biochemistry (Mosc.) 69, 587–601 (2004).
+
+179. Sharma, K. & Pagedar Singh, A. Antibioﬁlm effect of DNase against single and
+
+mixed species bioﬁlm. Foods 7, https://doi.org/10.3390/foods7030042 (2018).
+
+180. Tetz, V. V. & Tetz, G. V. Effect of extracellular DNA destruction by DNase I on
+
+characteristics of forming bioﬁlms. DNA Cell Biol. 29, 399–405 (2010).
+
+181. Wagener, J. S. & Kupfer, O. Dornase alfa (Pulmozyme). Curr. Opin. Pulm. Med. 18,
+
+609–614 (2012).
+
+182. Kaplan, J. B. et al. Recombinant human DNase I decreases bioﬁlm and
+increases antimicrobial susceptibility in staphylococci. J. Antibiot. (Tokyo) 65,
+73–77 (2012).
+
+183. Pakkulnan, R., Thonglao, N. & Chareonsudjai, S. DNase I and chitosan enhance
+efﬁcacy of ceftazidime to eradicate Burkholderia pseudomallei bioﬁlm cells. Sci.
+Rep. 13, 1059 (2023).
+
+184. Fang, J. Y. et al. Facile bioﬁlm penetration of cationic liposomes loaded with
+DNase I/Proteinase K to eradicate cutibacterium acnes for treating cutaneous
+and catheter infections. Int. J. Nanomed. 16, 8121–8138 (2021).
+
+185. Patel, K. K. et al. Antibioﬁlm potential of silver sulfadiazine-loaded nanoparticle
+formulations: a study on the effect of DNase-I on microbial bioﬁlm and wound
+healing activity. Mol. Pharm. 16, 3916–3925 (2019).
+
+186. Eckhart, L., Fischer, H., Barken, K. B., Tolker-Nielsen, T. & Tschachler, E.
+DNase1L2 suppresses bioﬁlm formation by Pseudomonas aeruginosa and Sta-
+phylococcus aureus. Br. J. Dermatol. 156, 1342–1345 (2007).
+
+187. Focareta, T. & Manning, P. A. Distinguishing between the extracellular DNases of
+Vibrio cholerae and development of a transformation system. Mol. Microbiol. 5,
+2547–2555 (1991).
+
+188. Dlakic, M. Functionally unrelated signalling proteins contain a fold similar to
+Mg2+-dependent endonucleases. Trends Biochem. Sci. 25, 272–273 (2000).
+189. Niiranen, L. et al. Effects of salt on the kinetics and thermodynamic stability of
+endonuclease I from Vibrio salmonicida and Vibrio cholerae. FEBS J. 275,
+1593–1605 (2008).
+
+190. Tang, Y.-W., Liu, D., Sussman, M., Poxton, I. & Schwartzman, J. Molecular Medical
+
+Microbiology (Academic Press, 2014).
+
+192. Basle, A. et al. Crystal structure of NucB, a bioﬁlm-degrading endonuclease.
+
+Nucleic Acids Res. 46, 473–484 (2018).
+
+193. Shields, R. C. et al. Efﬁcacy of a marine bacterial nuclease against bioﬁlm forming
+microorganisms isolated from chronic rhinosinusitis. PLoS ONE 8, e55339 (2013).
+194. Fanaei Pirlar, R. et al. Combinatorial effects of antibiotics and enzymes against
+dual-species Staphylococcus aureus and Pseudomonas aeruginosa bioﬁlms in
+the wound-like medium. PLoS ONE 15, e0235093 (2020).
+
+195. Rosman, C. W. K., van der Mei, H. C. & Sjollema, J. Inﬂuence of sub-inhibitory
+concentrations of antimicrobials on micrococcal nuclease and bioﬁlm formation
+in Staphylococcus aureus. Sci. Rep. 11, 13241 (2021).
+
+196. Thapa, S. et al. Biochemical characteristics of microbial enzymes and their
+
+signiﬁcance from industrial perspectives. Mol. Biotechnol. 61, 579–601 (2019).
+
+197. Borooah, J., Leaback, D. H. & Walker, P. G. Studies on glucosaminidase. 2. Sub-
+strates for N-acetyl-β-glucosaminidase*. Biochem. J. 78, 106–110 (1961).
+198. Ngara, T. R. & Zhang, H. Recent advances in function-based metagenomic
+
+screening. Genomics Proteom. Bioinform. 16, 405–415 (2018).
+
+ACKNOWLEDGEMENTS
+This work was supported by Henan Province in 2023 Key scientiﬁc research project
+plan of colleges and universities (Grant No. 23A310029) to Dr. Shaochi Wang.
+
+AUTHOR CONTRIBUTIONS
+S.W., L.L.K., and Q.Y. took the lead in writing the manuscript. A.P.B., Y.Z., and Z.D.
+provided critical feedback and helped shape the manuscript. T.L. helped revise the
+manuscript.
+
+COMPETING INTERESTS
+The authors declare no competing interests.
+
+ADDITIONAL INFORMATION
+Correspondence and requests for materials should be addressed to Laura L.
+Kuperman or Qiuning Yu.
+
+Reprints and permission information is available at http://www.nature.com/
+reprints
+
+Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims
+in published maps and institutional afﬁliations.
+
+Open Access This article is licensed under a Creative Commons
+Attribution 4.0 International License, which permits use, sharing,
+adaptation, distribution and reproduction in any medium or format, as long as you give
+appropriate credit to the original author(s) and the source, provide a link to the Creative
+Commons license, and indicate if changes were made. The images or other third party
+material in this article are included in the article’s Creative Commons license, unless
+indicated otherwise in a credit line to the material. If material is not included in the
+article’s Creative Commons license and your intended use is not permitted by statutory
+regulation or exceeds the permitted use, you will need to obtain permission directly
+from the copyright holder. To view a copy of
+license, visit http://
+creativecommons.org/licenses/by/4.0/.
+
+this
+
+191. Nemoto, K. et al. Effect of Varidase (streptodornase) on bioﬁlm formed by
+
+Pseudomonas aeruginosa. Chemotherapy 49, 121–125 (2003).
+
+© The Author(s) 2023
+
+npj Bioﬁlms and Microbiomes (2023)  
+
+ 63 
+
+Published in partnership with Nanyang Technological University
+
+ 
+

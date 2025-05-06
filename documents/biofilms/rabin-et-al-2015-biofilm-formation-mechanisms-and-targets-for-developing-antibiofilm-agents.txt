@@ -1,0 +1,2734 @@
+Review
+
+7
+
+Future Med. Chem.
+
+4
+
+2015
+
+Nira Rabin1, Yue Zheng1, 
+Clement Opoku-Temeng1, 
+Yixuan Du1, Eric Bonsu2 
+& Herman O Sintim*,1
+1Department of Chemistry 
+& Biochemistry, University of Maryland, 
+College Park, MD 20742, USA 
+2Department of Natural Sciences, 
+Bowie State University, 14000 Jericho 
+Park Road, Bowie, MD 20715, USA 
+*Author for correspondence:  
+Tel.: +1 301 405 0633  
+Fax: +1 301 314 9121  
+hsintim@umd.edu
+
+Review
+
+Biofilm formation mechanisms and targets 
+for developing antibiofilm agents
+
+Biofilms are communities of microorganisms that are attached to a surface and play a 
+significant role in the persistence of bacterial infections. Bacteria within a biofilm are 
+several  orders  of  magnitude  more  resistant  to  antibiotics,  compared  with  planktonic 
+bacteria. Thus far, no drugs are in clinical use that specifically target bacterial biofilms. This 
+is probably because until recently the molecular details of biofilm formation were poorly 
+understood.  Bacteria  integrate  information  from  the  environment,  such  as  quorum-
+sensing autoinducers and nutrients, into appropriate biofilm-related gene expression, 
+and the identity of the key players, such as cyclic dinucleotide second messengers and 
+regulatory  RNAs  are  beginning  to  be  uncovered.  Herein,  we  highlight  the  current 
+understanding of the processes that lead to biofilm formation in many bacteria.
+
+Dating back to the seminal works of Robert 
+Koch, the father of modern microbiology, to 
+the 1970s, bacteria were largely considered as 
+single free-floating microorganisms. Using the 
+planktonic pure bacterial culture model, scien-
+tists have been able to study many deadly bac-
+teria and developed biocides to kill such bac-
+teria. The emergence of drug-resistant bacteria 
+and the difficulty in killing some bacteria led 
+to a re-evaluation of the bacterial lifestyle and 
+it is now acknowledged that the aggregation of 
+bacteria within self-produced matrices, called 
+biofilms, endows bacteria with mechanisms to 
+resist  biocides.  Biofilms  were  observed  a  few 
+centuries before their relevance to the persis-
+tence of disease was realized. In 1684, a Dutch 
+scientist, Antonie van Leeuwenhoek, saw den-
+tal  plaque  using  his  self-constructed  micro-
+scope and he described it as scurf. During the 
+early part of the 20th century many scientists 
+reported that most bacteria were not free-float-
+ing but were attached to surfaces, such as the 
+bottom of lakes [1,2]. Scientists began to realize 
+that some sessile bacteria were directly related 
+to disease when in 1977 Pseudomonas aerugi-
+nosa  aggregation  was  found  in  sputum  from 
+the lungs of infected cystic fibrosis patients [3]. 
+In  1978,  Clark  reported  that  an  important 
+component  of  Streptococcus  mutans  biofilm, 
+
+polysaccharide  glycocalyx  formed  on  teeth. 
+The  term  ‘biofilm’  was  formally  introduced 
+in 1978 by Costerton [4]. Biofilms have varied 
+morphologies,  depending  on  the  constituent 
+bacteria as well as the conditions under which 
+that biofilm was formed. See Figure 1 for a few 
+examples of bacterial biofilms.
+
+In  the  last  few  years,  interests  in  biofilm 
+formation  by  a  group  of  clinically  relevant 
+bacteria,  which  cause  high  mortality,  called 
+ESKAPE (Enterococcus faecalis, Staphylococcus 
+aureus,  Klebsiella  pneumoniae,  Acinetobacter 
+baumannii,  P.  aeruginosa  and  Enterobacter 
+spp.) have intensified. There is an interest in 
+understanding biofilm formation by bacteria 
+that  cause  dental  caries,  such  as  Streptococ-
+cus  sobrinus  and  S.  mutans,  and  also  there 
+are many efforts to delineate biofilm mecha-
+nisms of bacteria that foul implants, such as 
+Proteus mirabilis. In the sections that follow, 
+we  highlight  current  understanding  in  how 
+the aforementioned and other bacteria form 
+biofilms  and  targets  or  processes,  for  which 
+small molecules can be developed against to 
+inhibit bacterial biofilm formation.
+
+Biofilm structure
+the  extracellular 
+The 
+polymeric substance (EPS) matrix of bio-
+
+structure  of 
+
+10.4155/FMC.15.6 © N Rabin et al.
+
+Future Med. Chem. (2015) 7(4), 493–512
+
+ISSN 1756-8919
+
+493
+
+FutureMedicinalChemistry part ofFor reprint orders, please contact reprints@future-science.comReview    Rabin, Zheng, Opoku-Temeng, Du, Bonsu & Sintim
+
+Key terms
+
+Extracellular polymeric substances: The biofilm is 
+supported by a matrix of polymeric compounds. These 
+compounds are secreted by bacteria into the environment. 
+EPS are usually composed of exopolysaccharides, proteins 
+and nucleic acids.
+
+Exopolysaccharides: Exopolysaccharides are high-
+molecular-weight polymers that are composed of sugar 
+residues and are secreted by bacteria into the surrounding 
+environment.
+
+films is composed of one or more of extracellular poly-
+saccharides,  DNA  and  proteins  (Figure  2)  [11].  Chan-
+nels in the biofilm allow for water, air and nutrients to 
+get to all parts of the structure [12].
+
+Exopolysaccharides
+Exopolysaccharides are either synthesized extracel-
+lularly or intracellularly and secreted into the outside 
+
+environment [13]. In electron microscopy, they look like 
+linear  or  branched  long  strands  that  are  attached  to 
+cell surfaces and stretched out to form large networks 
+(Figure  3).  Exopolysaccharides  serve  as  scaffolds  for 
+other carbohydrates, proteins, nucleic acids and lipids 
+to adhere. The components, structures and properties 
+of the exopolysaccharides differ from one another.
+
+Nelson  and  coworkers  analyzed  the  compositions 
+and linkages of EPS matrix from E. faecalis, S. aureus, 
+K.  pneumoniae,  A.  baumannii,  P.  aeruginosa  and 
+E.  spp.  biofilms  [15].  Mannose,  galactose  and  glucose 
+are  the  most  abundant  carbohydrates,  followed  by 
+N-acetyl-glucosamine,  galacturonic  acid,  arabinose, 
+fucose, rhamnose and xylose. Most exopolysaccharides 
+are not biofilm specific, but their production increases 
+as a result of a stress response, such as colanic acid pro-
+duction in Escherichia coli [16] and alginate synthesis in 
+P. aeruginosa [17]. Colanic acid (also known as M anti-
+gen) is an extracellular heteropolysaccharide found in 
+
+A
+
+D
+
+B
+
+C
+
+1 µm
+
+10 µm
+
+E
+
+10 µm
+
+F
+
+Figure 1. Bacterial biofilms. (A) SEM image of Pseudomonas aeruginosa isolates attaching to glass surfaces; 
+(B) biofilm formation of Escherichia coli on titanium oxide surface; (C) SEM image of catheter-associated 
+Staphylococcus aureus biofilm growth in vivo; (D) electron microscopy of Staphylococcus epidermidis biofilm 
+formation on Teflon catheter; (E) SEM image showing attachment and biofilm formation by Salmonella enterica 
+serovar Poona cells inside the netting of inoculated cantaloupe; (F) SEM of mature mixed biofilms formed on 
+discs of hydroxyapatite, demonstrating the affinity of Streptococcus mutans to the hyphal elements of Candida 
+albicans.  SEM: Scanning electron microscopy. 
+ (A) Reproduced from [5]. 
+ (B) Reproduced from [6]. 
+ (C) Reproduced with permission from [7] © The Americanl Association of Immunologists, Inc. (2011). 
+ (D) Rreproduced with permission from [8] © Nature Publishing Group (2011). 
+ (E) Rreproduced with permission from [9] © John Wiley & Sons (2008). 
+ (F) Reproduced from [10].
+
+494
+
+Future Med. Chem. (2015) 7(4)
+
+future science group 
+ 
+ 
+ 
+Biofilm formation mechanisms & targets for developing antibiofilm agents    Review
+
+Bacterial cell
+
+Enzyme
+
+Exopolysaccharide
+
+DNA
+
+Protein
+
+Water channel
+
+genes  are  responsible  for  glucose-rich  exopolysaccha-
+rides  formation  in  the  strain  PA14[22]  and  psl  genes 
+are  involved  in  mannose-rich  exopolysaccharides  for-
+mation  in  strains  ZK2870 [23]  and  PAO1[24].  A  psl-
+deficient PAO1 strain could still form mature biofilm 
+by upregulating pel genes [30]. It was shown that AlgC 
+enzyme  is  also  needed  for  the  synthesis  of  Psl  and 
+Pel [28]. Man-1-P is a common intermediate in the syn-
+thesis of Psl, alginate and LPS, and the productions of 
+these biofilm components were found to be influenced 
+by each other (Figure 6A)  [28]. That is, if one of them 
+was over produced, then the production of the others 
+would be reduced.
+
+In total, there are 24 genes involved in the produc-
+tion  and  secretion  of  alginate  in  P.  aeruginosa.  Eight 
+of them regulate the exportation of alginic acids, and 
+12  are  responsible  for  the  biosynthesis  of  the  poly-
+saccharide.  The  four  remaining  genes  regulate  the 
+synthesis [32,33].
+
+In  Staphylococcus,  the  biofilm-related  exopolysac-
+charide  is  polysaccharide  intercellular  adhesin  (PIA), 
+
+×10,000
+
+Enlargement
+
+Figure 3. Scanning electron microscopy visualization 
+of biofilm. The bacteria and the extracellular 
+polymeric substance matrix were visualized by SEM at 
+×10,000 magnification. The white box indicates the 
+enlarged section, and the white arrow indicates the 
+connections between bacteria in 3-day old biofilm 
+(scale bar = 1 μm).  
+SEM: Scanning electron microscopy. 
+Reproduced from [14].
+
+www.future-science.com
+
+495
+
+Figure 2. Biofilm structure.
+
+Enterobacteriaceae [18]. The colanic acid repeat unit is 
+made  up  of  l-fucose,  d-galactose,  d-glucuronate  and 
+d-glucose  and  decorated  with  O-acetyl  and  pyruvate 
+side chains [19]. The repeat units are assembled by gly-
+cosyl transferases on the cytoplasmic side of the inner 
+cell membrane. Then the repeat units are flipped from 
+the  cytoplasm  into  the  periplasm  by  Wzx.  Wzy  sys-
+tem is responsible for initial polymerization and high-
+level  polymerization  is  conducted  by  Wzc  and  Wzb. 
+The  outer-membrane  protein  Wza  transports  colanic 
+acid  polymers  into  the  extracellular  space  [20].  E.  coli 
+K-12 strain defective in colanic acid production has a 
+slower  initial  attachment  rate,  but  the  attachment  is 
+not completely abolished [21].
+
+There are three exopolysaccharides associated with 
+P. aeruginosa biofilms: Pel  [22], Psl  [23,24] and alginate 
+(Figure 4) [25]. Alginate is composed of d-mannuronic 
+acid  residues  interspersed  with  l-guluronic  acid  resi-
+dues  (Figure  5B).  Alginate  is  not  involved  in  biofilm 
+initiation, but it is a critical virulence factor in chronic 
+infections.  Alginate  protects  P.  aeruginosa  cells  from 
+antibiotics  such  as  ciprofloxacin,  gentamicin,  ticar-
+cillin  and  ceftazidime  [26],  and  it  suppresses  host 
+immune response  [27]. AlgC enzyme was found to be 
+involved in the synthesis of alginate and lipopolysac-
+charide  (LPS)  (Figure  5A)  [28].  The  enzyme,  encoded 
+by algC gene, has both phosphomannomutase activity 
+and phosphoglucomutase activity. The conversions of 
+Man-6-P into Man-1-P and glucose-6-P into glucose-
+1-P  are  catalyzed  by  this  enzyme.  Man-1-P  is  a  cru-
+cial intermediate in the synthesis pathway of alginate 
+and LPS [29]. Apart from alginate and LPS, Psl and Pel 
+are also two major biofilm matrix exopolysaccharides. 
+Pel  and  Psl  are  both  important  materials  in  mature 
+P. aeruginosa biofilms. Psl polysaccharide is composed 
+of  a  repeating  pentamer  consisting  of  d-mannose, 
+l-rhamnose and  d-glucose residues  (Figure  6B) and it 
+promotes  the  initial  surface  attachment  process.  Pel 
+
+future science groupReview    Rabin, Zheng, Opoku-Temeng, Du, Bonsu & Sintim
+
+A
+10 µm
+
+0
+
+8
+
+6
+
+4
+
+2
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10 µm
+
+B
+
+C
+
+10 µm
+
+8
+
+6
+
+4
+
+2
+
+0
+
+0
+
+24
+
+6
+
+8
+
+10 µm
+
+Figure 4. Extracellular polysaccharides in Escherichia coli and Pseudomonas aeruginosa. (A) Atomic force 
+microscopy image of alginate in P. aeruginosa FRD1. (B) Confocal laser scanning microscopy image of Psl in 
+hydrated P. aeruginosa PAO1. (C) SEM image of Pel in P. aeruginosa PA14.SEM: Scanning electron microscopy. 
+Reproduced from [31].
+
+which was characterized by Mack and coworkers  [34]. 
+PIA,  also  known  as  poly  N-acetyl  glucosamine,  is  a 
+linear polymer composed of β-1,6-linked glucosamine 
+residues. More than 80% of the PIA residues in Staphy-
+lococcus  epidermidis  are  N-acetylated  and  the  rest  are 
+positively  charged  [34].  Biosynthesis  of  PIA  is  con-
+ducted  by  four  proteins:  IcaA,  IcaB,  IcaC  and  IcaD. 
+The N-acetylglucosaminyltransferases IcaA and IcaD 
+synthesize  20  residue  oligomers  from  UDP-GlcNAc. 
+IcaC is involved in long oligomer formation (>130 resi-
+dues) and transportation of the oligomers to the extra-
+cellular space. Deacetylation by IcaB results in positive 
+charges,  which  is  essential  for  interactions  with  cell 
+membranes [35].
+
+In  Bacillus  subtilis  the  biofilm-related  exopolysac-
+charide can be EPS or poly-δ-glutamate, depending on 
+the strain and the conditions [36,37].
+
+Extracellular proteins
+Extracellular  proteins  are  another  major  EPS  matrix 
+component  [38].  Some  proteins  are  attached  to  cell 
+surfaces and polysaccharides to help with biofilm for-
+mation and stabilization. One example is the glucan-
+binding proteins (Gbps) in S. mutans biofilm [39]. Gbps 
+play  an  important  role  in  biofilm  architecture  main-
+tenance  by  linking  bacteria  and  exopolysaccharides. 
+Biofilms produced by Gbps mutants have significantly 
+reduced height.
+
+Amyloids  are  also  insoluble  fibrous  proteins  that 
+play  a  supportive  role  in  biofilm  architecture.  One 
+example  is  the  Fap  amyloids  in  Pseudomonas  spp. 
+Overexpression  of  Fap  amyloids  leads  to  cell  aggre-
+gation  and  increased  biofilm  formation  [40].  Amy-
+loid  protein  TasA  is  one  of  the  major  components 
+of  B.  subtilis  biofilms  [41].  TasA  forms  strong  fibers 
+that can hold biofilm cells together and tolerate harsh 
+
+destructive  forces.  Another  example  is  the  biofilm-
+associated  protein  (bap)  family.  The  bap  family 
+includes Bap protein from S. aureus [42] and Esp pro-
+tein from E. faecalis  [43]. The bap family is involved 
+in  biofilm  formation  and  infection  processes  [44]. 
+Other  examples  include  outer-membrane  lectins  of 
+Azospirillum brasiliense [45] and the galactophilic lec-
+tin  le-cA  [46]  and l-fucose  binding  lectin  lecB [47]  of 
+P. aeruginosa.
+
+Some enzymes are involved in degradation processes 
+within biofilms. The enzymes’ substrates include poly-
+saccharides,  proteins,  nucleic  acids,  cellulose,  lipids, 
+other  EPS  matrix  components  and  objects  that  are 
+trapped in the EPS matrix. These enzymes can break 
+down  biopolymers  and  provide  carbon  and  energy 
+resources  to  biofilm  cells,  especially  during  starva-
+tion  [48].  The  detachment  and  dispersal  of  biofilm 
+also require enzymatic functions. Degradation of EPS 
+matrix internally by enzymes releases biofilm cells and 
+initiate  a  new  biofilm  lifecycle.  For  example,  DspB 
+protein  is  responsible  for  the  surface  detachment  of 
+Actinobacillus pleuropneumoniae biofilms [49].
+
+eDNA
+Extracellular  DNAs  (eDNAs)  were  previously  con-
+sidered as leftovers from lyzed cells until Mattick and 
+coworkers found that DNase I could prevent P. aerugi-
+nosa biofilm formation [50]. The fact that eDNA not only 
+comes from lyzed cells but also is actively secreted [51] 
+indicates that eDNA has an important role in biofilm 
+formation. It is found to be critical for biofilm attach-
+ment (Figure 7). Its negative charge works as a repulse 
+force in the initial attachment, but when the distance 
+between  cell  and  surface  becomes  a  few  nanometers, 
+eDNA interacts with receptors on substratum surface 
+to  facilitate  adhesion  [52].  Also,  eDNA  was  found  to 
+
+496
+
+Future Med. Chem. (2015) 7(4)
+
+future science groupBiofilm formation mechanisms & targets for developing antibiofilm agents    Review
+
+A
+
+Alginate biosynthesis
+
+AlgE
+
+AlgL
+
+AlgX
+
+AlgF
+
+AlgK
+
+AlgJ
+
+AlgG
+
+Algl
+
+Alg44
+
+Alg8
+
+c-di-GMP
+
+GDP-mannuronic acid
+
+AlgD
+
+GDP-mannose
+
+AlgA
+
+Mannose-1-phosphate
+
+AlgC
+
+AlgA
+
+Mannose-6-phosphate
+
+Fructose-6-phosphate
+
+Outer
+membrane
+
+Cytoplasmic
+membrane
+
+B
+
+Alginate structure
+
+-
+O
+
+O
+
+O
+HO
+
+O
+
+HO
+
+O
+
+O
+
+O
+
+O
+
+O
+-
+
+O
+
+HO
+
+-
+O
+
+O
+
+O
+
+HO
+
+HO
+
+O
+
+O
+
+O
+
+HO
+
+HO
+
+O
+
+O
+
+O
+-
+
+Figure 5. Alginate (A) biosynthesis and (B) chemical structure.
+
+coordinate  cell  movement  in  the  twitching  motility-
+mediated  P.  aeruginosa  biofilm  expansion  [53].  Due 
+to its negative charge, eDNA is able to chelate metal 
+cations and some positively charged antibiotics. eDNA 
+can  chelate  Mg2+  and  activate  PhoPQ/PmrAB  two-
+component  systems,  leading  to  antimicrobial  peptide 
+resistance  in  P.  aeruginosa  [54,55],  Salmonella  enterica 
+serovar  Typhimurium  [56]  and  other  Gram-negative 
+bacteria.  In  S.  epidermidis,  eDNA  was  also  found  to 
+inhibit  the  transportation  of  vancomycin  within  bio-
+
+films and hence protect the bacteria embedded within 
+the biofilm [57,58].
+
+The current knowledge about the roles that eDNA 
+plays in biofilm maturation and persistence is limited 
+and more research is warranted to shed light on its role 
+in biofilm development.
+
+Reason for biofilm formation
+Many bacteria can switch between planktonic form and 
+biofilm  form.  The  planktonic  bacteria  have  relatively 
+
+www.future-science.com
+
+497
+
+future science groupReview    Rabin, Zheng, Opoku-Temeng, Du, Bonsu & Sintim
+
+A
+
+PsI biosynthesis
+
+PsID
+
+PsIG
+
+PsIE
+
+PsIA
+
+PsIJ
+???
+
+PsIK
+???
+
+PsIL
+???
+
+Outer
+membrane
+
+Cytoplasmc 
+membrane
+
+PsIH
+
+PsII
+
+PsIC
+
+PsIF
+
+PsIB
+
+Mannose-1-phosphate
+
+GDP-D- mannose
+
+AlgC
+
+Mannose-6-phosphate
+
+dTDP-L-Rhamnose
+
+UCP-D-glucose
+
+RmIABCD
+
+GalU
+
+PsIB
+
+PGI
+
+AlgC
+
+Fructose-6-phosphate
+
+Glucose-6-phosphate
+
+Glucose-1-phosphate
+
+B
+
+PsI structure
+
+OH
+
+HO
+
+O
+
+HO
+
+HO
+
+OOH
+
+HO
+
+O
+
+O
+
+HO
+
+O
+
+OH
+
+OH
+
+HO
+
+O
+
+OH
+
+O
+
+OH
+
+O
+
+HO
+O
+
+O
+
+O
+
+OH
+
+Figure 6. Psl (A) biosynthesis and (B) chemical structure.
+
+high cell growth and reproduction rate. However, the 
+biofilm  state  appears  to  be  natural  and  predominant 
+state of bacteria. Several reasons could account for the 
+need for a bacterial biofilm state [60]. First, biofilm can 
+enhance  the  tolerance  of  bacteria  to  harsh  environ-
+mental  conditions.  Bacteria  can  avoid  being  washed 
+away by water flow or blood stream by simply attach-
+ing to a surface or tissue. The oral biofilms can stand 
+up to repeated, strong, shear forces. Cells in biofilms 
+are about 1000 times more resistant than their plank-
+tonic  [61].  Second,  the  EPS  matrix  protects  bacteria 
+cells,  in  deeper  layers,  against  antimicrobial  agents 
+
+probably  by  limiting  the  diffusion  of  these  agents. 
+Biofilm  restricts  bacterial  mobility  and  increases  cell 
+density, which also provides an optimal environment 
+for eDNA (plasmid) exchange (via conjugation), some 
+of which encode for antibiotic resistance. As reported 
+by  Hausner  and  Wuertz,  the  horizontal  gene  trans-
+fer rate is significantly higher in biofilms than in the 
+planktonic cells [62].
+
+Process of biofilm formation
+A  prerequisite  of  biofilm  formation  is  that  bacte-
+ria  should  get  close  enough  to  a  surface.  As  bacteria 
+
+498
+
+Future Med. Chem. (2015) 7(4)
+
+future science groupBiofilm formation mechanisms & targets for developing antibiofilm agents    Review
+
+approach  a  surface  several  forces,  both  attractive  and 
+repulsive, come into play. At about 10–20 nm distance 
+from  the  surface,  the  negative  charges  on  the  bacte-
+rial  surface  are  repelled  by  negative  charges  on  most 
+environmental surfaces [63]. This repulsion could, how-
+ever,  be  overcome  by  attractive  van  der  Waals  forces 
+between  the  bacterial  cells  and  the  surface  as  well  as 
+the use of fimbriae and flagella to provide mechanical 
+attachment to the surface  [63]. Biofilm formation can 
+be  described  in  three  stages:  attachment,  maturation 
+and dispersion (Figure 8).
+
+The attachment step could be further categorized as 
+a  two-stage  process:  initial  reversible  attachment  and 
+irreversible  attachment  [64].  The  irreversible  attached 
+biofilm can tolerate stronger physical or chemical shear 
+forces.  [65] In the initial attachment, flagella and type 
+IV pili-mediated motilities are important. Flagella are 
+critical  for  initial  interactions  between  cells  and  sur-
+face. Type IV pili-mediated twitching motilities enable 
+attached  cells  to  aggregate  and  form  microcolonies. 
+O’Toole  and  Kolter  demonstrated  that  P.  aeruginosa 
+flagella-deficient mutants could not land onto surfaces 
+and  type  IV  pili-deficient  mutants  could  not  form 
+microcolonies [66].
+
+For  the  human  pathogens  S.  epidermidis  and 
+S.  aureus  the  initial  step  of  biofilm  formation  is  the 
+attachment  to  human  matrix  proteins,  such  as  fibro-
+nectin  (Fn),  fibrinogen  (Fg),  vitronectin  (Vn),  etc. 
+Microbial  surface  components  recognizing  adhesive 
+matrix  molecules  dependent  adhesions  are  covalently 
+linked to the peptidoglycan on the cell wall. S. aureus 
+has  more  than  20  microbial  surface  components 
+recognizing  adhesive  matrix  molecule  genes  while 
+S.  epidermidis  RP62A  has  only  12  [67].  Noncovalent 
+adhesions, such as those mediated by autolysins, also 
+contribute to initial attachment of biofilms [68].
+
+The production of EPS matrix signifies the irrevers-
+ible  phase  of  bacterial  attachment  to  a  surface.  The 
+EPS  matrix  of  P.  aeruginosa  has  been  well  studied, 
+probably  due  to  the  role  that  P.  aeruginosa  biofilms 
+play  in  the  progression  of  cystic  fibrosis.  Alginate,  a 
+major polysaccharide component of P. aeruginosa EPS 
+matrix, is produced by bacteria that are attached to a 
+surface  (recently  attached  bacteria)  in  quantities  that 
+are  several  folds  more  than  by  planktonic  cells  [69]. 
+The σ factor AlgT, which is also required for alginate 
+production, downregulates flagella genes [70].
+
+Once  the  first  layer  of  the  biofilm  is  established, 
+cells of the same species or other species are recruited 
+to the biofilm from the bulk fluid. Biofilm grows from 
+a thin layer to a ‘mushroom’ or ‘tower’ shape structure. 
+In a thick biofilm (>100 layers), bacteria are arranged 
+according to their metabolism and aero tolerance. For 
+example, anaerobic bacteria prefer to live in deeper lay-
+
+Key terms
+
+Planktonic cells: Bacteria that float or swim as single cells.
+
+Dispersion: The release of planktonic cells from the biofilm 
+as a result of unfavorable conditions for the biofilm form. 
+This is the final step in biofilm development, from a mature 
+biofilm to the planktonic form. Usually few parts of the 
+biofilm are dispersed and it is a continuous process. This 
+step allows the biofilm to spread and colonize on a new 
+surface.
+
+ers to avoid exposure to oxygen. Bacteria within biofilm 
+communities ‘talk’ to each other and take specialized 
+functions. As the biofilm matures, more biofilm scaf-
+folds, such as proteins, DNA, polysaccharides, etc. are 
+secreted into the biofilm by the entrapped bacteria.
+
+After biofilm maturation the dispersal step, which is 
+also critical for the biofilm life cycle, follows. Biofilms 
+disperse because of myriads of factors, such as lack of 
+nutrients,  intense  competition,  outgrown  population, 
+etc. Dispersal could occur in the whole biofilm or just 
+a part of it. Release of planktonic bacteria promotes the 
+initiation of new biofilms at other sites.
+
+Biofilm-related diseases
+Biofilms  are  linked  to  various  human  diseases  [71]. 
+Many  bacterial  infections  are  biofilm  related,  for 
+example, chronic lung, wound and ear infections [72]. 
+Bioflms  are  also  able  to  colonize  on  medical  devices 
+such as catheters and implants. According to the NIH 
+more  than  80%  of  all  microbial  infections  are  bio-
+film related [73]. These kinds of infections are hard to 
+diagnose and treat.
+
+Cystic fibrosis
+Cystic fibrosis (CF) in the lung causes the formation 
+of  thick  and  sticky  mucus,  which  blocks  airway  and 
+
+Figure 7. Extracellular DNA in Enterococcus faecalis 
+biofilm. Visualization of labeled strands by using an 
+anti-dsDNA monoclonal antibody conjugated to an 
+immunogold particle (asterisks; scale bar = 250 nm). 
+Reproduced from [59].
+
+www.future-science.com
+
+499
+
+future science groupReview    Rabin, Zheng, Opoku-Temeng, Du, Bonsu & Sintim
+
+Planktonic cells
+
+Dispersion
+
+Attachment
+
+Microcolony
+
+Mature biofilm
+
+Figure 8. Biofilm formation process.
+makes it hard for patients breath [74]. Eighty percent of 
+CF patients are chronically infected by P. aeruginosa. 
+Medical  instruments,  devices  and  tools  can  also  be 
+contaminated  with  P.  aeruginosa.  Several  cases  of 
+hospital-acquired  P.  aeruginosa  infections  have  been 
+reported [75,76], but unfortunately, there are not many 
+good antibiotics that are available for treating recalci-
+trant P. aeruginosa infection [77]. For patients who are 
+infected with P. aeruginosa, antibiotic treatment often 
+relieves  the  symptom  of  the  infection  but  not  neces-
+sarily cures the infection. The lack of complete cure is 
+mainly due to P. aeruginosa biofilms that act as reser-
+voirs for disease recurrence [78]. This calls for the devel-
+opment of drugs that can act on P. aeruginosa biofilms. 
+These future drugs could either kill the bacteria in the 
+biofilm or cause the dispersal of the biofilm into plank-
+tonic  state  and  by  that  enabling  drugs  that  work  on 
+planktonic bacteria to take effect [79]. Beyond acting as 
+disease reservoirs, the components of biofilms, such as 
+the major polysaccharide of P. aeruginosa matrix (algi-
+nate), are virulence factors. For example, alginate can 
+cause lung damage [80].
+
+Dental plaque
+Biofilms play an important role in dentistry and there 
+have been many studies on dental biofilms [81,82]. Over 
+700 species of bacteria and archaea have been reported 
+to exist in dental plaque [83,84]. Dental plaque is actually 
+composed  of  mixed  biofilms  [85].  However,  the  com-
+position  of  the  healthy  plaque  biofilm  is  significantly 
+different from disease-associated plaque biofilms.
+
+The mouth is a unique microenvinronment that is 
+characterized by water, temperature fluctuations, hard 
+surface,  and  carbon  and  nitrogen  input.  Changes  in 
+the  local  environment  influence  the  biofilm  bacterial 
+composition. Acid is a major cause of tooth decay and 
+innocuous bacteria species in healthy biofilms, includ-
+ing Streptococcus sanguis, Streptococcus gordonii, Strep-
+tococcus oralis, Actinomyces species, etc. often show low 
+acid tolerance  [86]. On the contrary, bacteria involved 
+in dental caries, such as S. sobrinus and S. mutans, have 
+very  high  acid  tolerance.  These  acid-tolerant  bacte-
+ria that can also form robust biofilms are responsible 
+
+500
+
+Future Med. Chem. (2015) 7(4)
+
+for  many  oral  cavity  diseases,  such  as  dental  caries, 
+periodontitis, gingivitis, etc. [87].
+
+Communication among bacteria is essential for ini-
+tial  colonization  and  successive  biofilm  formation  on 
+the  enamel  surfaces.  If  bacteria  do  not  retain  on  the 
+tooth surface, the bacteria are washed with the mouth 
+fluid.  If  they  do  manage  to  hold  to  the  surface,  they 
+organized  as  a  multispecies  to  form  a  dental  plaque. 
+Oral microorganisms adhere to surfaces such as teeth, 
+epithelial  tissues  or  to  other  bacteria  that  is  immobi-
+lized on the surface (coadhesion). Cell–cell interaction 
+between genetically distinct cells can also occur in sus-
+pension (coaggregation). Oral bacteria have at least one 
+coaggregation partner. A diagram illustrating competi-
+tion and co-operation among early and late colonizers 
+of the tooth is shown in Figure 9. The initial colonizers 
+are  streptococci  and  actinomyces  [88,89].  Receptors  are 
+recognized by the primary colonizers of dental plaque. 
+Among the receptors are found phosphate-rich proteins 
+such as statherin, and enzymes such as α-amylase. Strep-
+tococci recognize receptors in the salivary pellicle (coats 
+the  enamel).  Actinomyces  bind  to  proline-rich  pro-
+teins  and  statherin  (Figure  9).  Fusobacteria,  anaerobic 
+Gram-negative bacteria, also bind to statherin.
+
+Bacteria  communicate  in  the  oral  biofilm  through 
+the  secretion  and  accumulation  of  small  molecules. 
+Autoinducer  (AI)-2  is  a  universal  intergeneric  signal-
+ing  molecule  that  plays  an  important  role  in  biofilm 
+development [91,92]. AI-2 stimulates the coaggregation 
+of S. oralis and Actinomyces oris T14V. Small concen-
+trations of AI-2 are sufficient for coaggregation of oral 
+bacteria, less for oral pathogens. As the cell density of 
+the  commensal  bacteria  increases,  the  AI-2  concen-
+tration  increases.  At  the  highest  concentration,  the 
+pathogens grow and develop the biofilm. At low con-
+centration the conditions do not support their growth. 
+Fusobacteria  produce  high  levels  of  AI-2,  then  coag-
+gregate  with  variety  of  colonizers  and  become  domi-
+nant bacteria in biofilms associate with healthy gums 
+and plaque.
+
+Wounds
+Biofilms are commonly found in chronic wounds [93]. 
+Compared  with  an  acute  wound,  which  is  usually 
+not associated with biofilm, a biofilm-related chronic 
+wound  persists  and  only  slowly  heals.  Biofilms  usu-
+ally form on the outer layer of wounds but some bio-
+films are also embedded in the deep layers of a wound, 
+such as P. aeruginosa biofilms, and they are difficult to 
+diagnose using a traditional wound swab culture [71].
+
+Urinary infection
+Biomaterials  in  the  urinary  tract,  such  as  catheters, 
+increase  the  chance  of  bacterial  biofilm  formation, 
+
+future science groupBiofilm formation mechanisms & targets for developing antibiofilm agents    Review
+
+i
+
+l
+
+s
+r
+e
+z
+n
+o
+o
+c
+e
+t
+a
+L
+
+16
+
+14
+
+13
+
+17
+
+18
+
+19
+
+14
+
+18
+
+20
+
+20
+
+21
+
+14
+
+22
+
+11
+
+12
+
+i
+
+s
+r
+e
+z
+n
+o
+o
+c
+
+l
+
+y
+l
+r
+a
+E
+
+20
+
+5
+
+3
+
+6
+
+4
+
+2
+
+7
+
+1
+
+15
+
+14
+
+9
+
+8
+
+9
+
+10
+
+3
+
+Statherin
+
+Bacterial cell
+fragment
+
+Sialylated
+mucins
+
+Salivary
+agglutinin
+
+α-amylase
+
+Proline-rich
+protein
+
+Salaivary pellicle
+
+Tooth surface
+
+1. Streptococcus oralis and 
+Streptococcus sanguinis
+2. Streptococcus  mitis
+3. Streptococcus gordonii
+4. Capnocytophaga ochraccea
+5. Propionibacterium acnes
+6. Haemophilus parainfluenzae
+7. Prevotella loescheii
+8. Veillonella spp.
+9. Actinomyces oris and
+Actinomyces naeslundii
+10. Eikenella corrodens
+11. Actinomyces israelii
+12. Capnocytophaga gingivalis
+13. Capnocytophaga sputigena
+14. Fusobacterium nucleatum
+15.  Prevotella denticola
+16.  Aggregatibacter
+actinomycetemcomitans
+17.  Eubacterium spp. 
+18. Treponema denticola
+19. Tannerella forsythia
+20. Porphyromonas gingivalis
+21. Prevotella intermedia
+22. Selenomonas flueggei
+
+Figure 9. Oral bacterial colonization. Spatiotemporal model of oral bacterial colonization showing recognition of salivary pellicle 
+receptors by initial colonizing bacteria and coaggregations between initial colonizers, fusobacteria and late colonizers of the tooth 
+surface. Collectively, these interactions are proposed to represent development of dental plaque. Starting at the bottom, initial 
+colonizers, Streptococcus gordonii, Streptococcus mitis, Streptococcus oralis and Streptococcus sanguinis, bind to complementary 
+salivary receptors (sialylated mucins, proline-rich protein, α-amylase, salivary agglutinin and bacterial cell fragments) in the acquired 
+pellicle coating the tooth surface. Late colonizers bind to previously bound bacteria. Sequential binding results in the appearance 
+of nascent surfaces that bridge with the next coaggregating partner cell. Coaggregation is different from aggregation that occurs 
+between genetically identical cells and from agglutination of cells through interaction of cells with soluble molecules, for example, 
+antibodies. Most coaggregations are between cells of different genera; Fusobacterium nucleatum strains, for example, coaggregate 
+intergenerically with representatives of all oral bacterial species. However, intrageneric coaggregation among fusobacterial strains 
+is only rarely observed. In sharp contrast, streptococci exhibit broad intrageneric coaggregation partnerships (e.g., S. gordonii and 
+S. oralis) as well as intraspecies partnerships (e.g., S. gordonii DL1 and S. gordonii 38). Each bacterial strain exhibits specificity in 
+partners. For example, some streptococci are capable of coaggregating with certain Veillonella spp., whereas other streptococci 
+cannot coaggregate with those veillonellae but do coaggregate with a separate group of veillonellae. 
+Reproduced with permission from [90] © Macmillan Publishers Ltd (2010).
+
+leading  to  urinary  infection  [94].  The  synthetic 
+foreign body provides surfaces for bacteria to attach. 
+Almost  all  urinary  catheters  (both  the  inner  and 
+outer  surfaces)  are  infected  with  bacterial  biofilms 
+(Figure 10). These biofilms, for example, P. mirabilis 
+biofilms,  which  can  be  crystalline  in  nature,  can 
+block  catheters  and  patients  have  to  replace  the 
+blocked catheters [95].
+
+Prosthetic joint infection
+Bacteria causing prosthetic joint infection are usually 
+Gram-positive, such as staphylococci  [96]. Most often 
+immediately after surgery, bacteria (which could come 
+from blood or the lymph) attach to the surface of pros-
+thetic joints to form biofilms. Unlike typical bacterial 
+
+infections that give symptoms like fever, it could take 
+a  while  before  symptoms  of  the  biofilms  on  these 
+implants, such as pain, emerge [97].
+
+Cardiac valve infection
+Bacterial biofilm on mechanical cardiac valve causes a 
+disease called prosthetic valve endocarditis. The species 
+involved in endocarditis are S. epidermidis, S. aureus, 
+Streptococcus  spp.,  Corynebacterium  spp.,  Enterococcus 
+spp.  and  Candida  spp  [98].  Accumulated  biofilm  can 
+disrupt or block the artificial cardiac valve, resulting in 
+diminished flow, turbulence or even leaking. Detached 
+biofilm cells can migrate along with the blood stream 
+and cause infection in other organs. Biofilm fragments 
+in the blood circulation can block blood at the terminal 
+
+www.future-science.com
+
+501
+
+future science group 
+ 
+Review    Rabin, Zheng, Opoku-Temeng, Du, Bonsu & Sintim
+
+A
+
+B
+
+Figure 10. Biofilm on urethral stents. Scanning electron 
+microscopic picture of a developing biofilm on urethral 
+stents that is lying completely within the urinary tract.  
+Reproduced with kind permission from [94] © Springer 
+Science and Business Media (2006).
+
+points, such as the brain and kidney.
+
+Biofilm resistance to antibiotics & host 
+immune system
+Bacteria  in  a  biofilm  are  more  resistant  to  antibiot-
+ics or the reactive molecules that are produced by the 
+host immune systems than planktonic bacteria. It has 
+been estimated that biofilm cells can be up to 10,000 
+times  more  resistant  to  antibiotics  than  planktonic 
+cells  [99,100].  Costerton  and  coworkers  observed  that 
+when  they  treated  P.  aeruginosa  biofilm  and  plank-
+tonic  cells  with  tobramycin,  planktonic  cells  could 
+not  survive  greater  than  50  μg/ml  tobramycin,  but 
+biofilm cells could tolerate 1 mg/ml tobramycin  [100]. 
+Abee  and  coworkers  also  reported  that  with  two  dif-
+ferent  disinfectants,  benzalkonium  chloride  and 
+the  oxidizing  agent  sodium  hypochlorite,  the  effec-
+tive  inhibitory  concentrations  on  S.  aureus  biofilms 
+are  50-  and  600-times  higher  than  planktonic  cells, 
+respectively  [101].  The  reason(s)  for  increased  antibi-
+otic resistance by bacterial biofilms is/are not yet fully 
+understood. It is highly probable that multiple factors 
+work together to protect biofilm cells from antibiotic 
+treatment. Some of the possible mechanisms for anti-
+biotic  resistance  exhibited  by  bacterial  biofilms  are 
+as follows.
+
+Limited antibiotic penetration
+As  previously  described,  EPS  matrix  plays  an  impor-
+tant  role  in  antibiotic  resistance  by  limiting  antimi-
+crobial  agents’  penetration  into  the  biofilm.  Charged 
+polysaccharides  and  eDNA  can  trap  several  kinds  of 
+antibiotics.  The  penetration  property  of  antibiotics 
+has  been  measured  by  the  concentration  at  the  base 
+of the biofilm by Suci and coworkers. Results showed 
+that  ciprofloxacin  concentration  in  P.  aeruginosa  bio-
+film  was  dramatically  reduced,  but  not  completely 
+blocked  [102]. Steward and coworkers investigated the 
+penetration  limitation  of  ampicillin  and  ciprofloxa-
+cin on K. pneumoniae. Ciprofloxacin has a much bet-
+ter penetration capability than ampicillin. As a result, 
+
+502
+
+Future Med. Chem. (2015) 7(4)
+
+biofilm cells could tolerate concentrated ampicillin but 
+their resistance to ciprofloxacin is poor [103].
+
+Horizontal gene transfer
+Some  bacteria  can  acquire  antibiotic  resistance  via 
+random mutations on genes. Others also harbor anti-
+biotic-resistant  genes  on  plasmids.  Plasmids  can  be 
+easily passed on to other cells by horizontal gene trans-
+fer. In biofilms, the frequencies of horizontal plasmid 
+transfer  are  much  higher  than  between  planktonic 
+cells.  Studies  on S.  aureus  biofilms  showed  that  bio-
+films promote the spread of plasmid-borne antibiotic 
+resistance genes by conjugation/mobilization [104].
+
+Reduced growth rate
+There  is  limited  availability  of  oxygen  and  nutrients 
+inside  biofilms,  so  biofilm  cells,  especially  those  in 
+the deep layers, have a slow metabolic rate, as well as 
+growth  rate  and  division  rate.  These  features  make 
+biofilm  bacteria  insensitive  to  antibiotic  drugs  that 
+target  dividing  cells.  For  example,  the  targets  of 
+β-lactams  are  dividing  cells,  so  when  they  are  used 
+on  E.  coli  biofilms,  their  bacteriolytic  activity  is 
+diminished [105].
+
+Persister cells
+In  biofilms,  there  is  a  small  subpopulation  of  cells 
+called persister cells [106,107]. Their growth rate is zero 
+or extremely slow. Most of the antibiotics that are cur-
+rently used in the clinic, which target processes that 
+are relevant for cell growth or division, are not effec-
+tive against persister cells. Therefore, these cells act as 
+disease reservoirs that could reactivate into infectious 
+particles once the antibiotic stress has been removed.
+
+Efflux pumps
+Efflux  pumps  allow  bacteria  cells  to  pump  intracel-
+lular  toxins  out,  including  antibiotic  drugs.  Efflux 
+pumps are also expressed in planktonic cells, but some 
+efflux  pump  genes  are  upregulated  in  biofilm,  indi-
+cating  that  they  contribute  to  antibiotic  resistance. 
+Zhang and coworkers identified a novel P. aeruginosa 
+efflux  pump  gene  PA1874–1877  and  the  expression 
+level of PA1874–1877 gene in biofilm is much higher 
+than  in  planktonic  cells  [108].  Efflux  pump  encoded 
+by  this  gene  increases  the  resistance  to  tobramycin, 
+gentamicin and ciprofloxacin.
+
+EPS matrix protection
+EPS  matrix  provides  physical  protection  to  the 
+aggregated  biofilm  cells.  Lei  and  coworkers  showed 
+that exopolysaccharide alginate in P. aeruginosa bio-
+films  kept  biofilm  bacteria  from  human  leukocyte 
+killing [109].
+
+future science groupBiofilm formation mechanisms & targets for developing antibiofilm agents    Review
+
+Signaling in biofilm formation
+Quorum sensing
+In order to form a biofilm, bacteria have to synchronize 
+their gene expression and some use quorum-sensing 
+(QS)  systems  to  achieve  this.  QS  is  a  mechanism  by 
+which  bacteria  apparently  monitor  cell  density  and 
+regulate  collective  behaviors  [110].  It  is  worth  point-
+ing out that the issue of bacterial population monitor-
+ing via QS is still hotly debated and many alternative 
+hypotheses  have  been  proposed  for  the  role  of  mole-
+cules  that  are  involved  in  QS  [111].  Bacterial  popula-
+tions  coordinate  their  gene  expression  by  producing 
+and responding to a variety of intra and intercellular 
+signals  termed  ‘autoinducers’  [112].  Bacteria  ‘talk’  to 
+each other using chemicals for ‘words’ including small 
+molecules (Figure 11A). For example, acyl-homoserine 
+lactones  (AHLs)  mediate  QS  in  Gram-negative  bac-
+teria.  There  are  several  types  of  AHL,  depending  on 
+the length and functionalization of the acyl side chain. 
+Small peptides regulate QS-mediated gene expression 
+in Gram-positive bacteria and AI-2 mediate QS in both 
+Gram-positive  and  Gram-negative  bacteria,  although 
+its role in cell signaling is still controversial [113]. At low 
+cell  densities,  a  small  amount  of  autoinducer  is  pres-
+ent in the extracellular media; however, it is too dilute 
+to  be  detected.  As  cell  density  increases,  the  autoin-
+ducer  concentration  reaches  a  threshold  and  at  this 
+point the autoinducer/regulatory protein (the receptor) 
+
+Key term
+
+Quorum sensing: Cell – cell communication process that 
+regulates gene expression at high cell density. At high 
+cell density the concentration of an autoinducer, which is 
+secreted by the bacteria to the environment, reaches to 
+a certain threshold, which leads to gene expression and 
+regulation of diverse physiological activities.
+
+complex acts to induce or repress expression of target 
+genes (Figure 11B) [114]. QS controls diverse physiologi-
+cal processes: for example, bioluminescence, secretion 
+of virulence factors, biofilm formation, antibiotic resis-
+tance and more. QS has been shown to regulate bioflm 
+formation in several bacterial species [115].
+
+In PAO1 strain of P. aeruginosa, AHL QS systems 
+are responsible for eDNA release and for biofilm struc-
+ture [116]. In PA14 strain, the QS system regulates the 
+production of PEL exopolysaccharide [117]. In S. aureus, 
+the  QS  system  regulates  biofilm  dispersal.  The  QS 
+molecule in S. aureus is a peptide (AIP) derived from 
+the product of the agrD gene, which is then detected by 
+AgrC and activate the regulator AgrA. AgrA regulates 
+the transcription of genes that code proteases that are 
+involved in biofilm dispersal [118,119]. In B. subtilis, the 
+QS molecule surfactin is important for biofilm forma-
+tion [120]. Surfactin causes potassium leakage from the 
+cytoplasm  which  triggers  the  expression  of  the  genes 
+involved in extracellular matrix production.
+
+A
+
+R
+
+O
+
+(CH2)n
+
+N
+H
+
+O
+
+O
+
+O
+
+MS
+
+R = -H, -OH, = O; n = 3-11
+
+Y
+
+S T C Y
+
+AHLs
+
+AIPs
+
+B Autoinducer
+
+I
+F
+
+OH
+B
+O
+
+OH
+O
+
+HO
+
+O
+
+HO
+
+O
+
+AI-2
+
+Receptor
+
+Synthase
+
+Receptor
+
+Gene
+expression
+
+• Biofilm formation
+• Motility
+• Virulence
+• Pigment production
+• Luminescence
+
+Figure 11. Quorum sensing. (A) Main quorum-sensing autoinducers. (B) Quorum-sensing circuit. 
+AHL: Acylhomoserine lactone; AIP: Autoinducing peptide; AI: Autoinducer. 
+
+www.future-science.com
+
+503
+
+future science groupReview    Rabin, Zheng, Opoku-Temeng, Du, Bonsu & Sintim
+
+Diguanylate
+cyclase
+
+2GTP
+
+O
+
+NH
+
+N
+
+NH2
+
+O
+
+OH O
+
+-
+O
+
+O
+
+P
+
+N
+
+N
+
+O
+
+O
+
+N
+
+N
+
+OH
+
+O
+
+O
+-
+
+P
+
+O
+
+O
+
+C-di-GMP
+
+H2N
+
+N
+
+HN
+
+O
+
+Phosphodiesterases
+
+2GMP
+
+Biofilm formation
+
+Motility
+
+Figure 12. Cyclic dinucleotide signaling pathway.
+c-di-GMP
+C-di-GMP has emerged as an important second mes-
+senger involved in biofilm formation. It was originally 
+found  to  allosterically  activate  cellulose  synthase  in 
+Acetobacter xylinus [121,122]. This signaling molecule has 
+been found to modulate a variety of bacterial growth 
+phenotypes  including  but  not  limited  to  biofilm  for-
+mation, motility and virulence factor production [123]. 
+In  the  cell,  c-di-GMP  is  synthesized  from  two  GTP 
+molecules  by  diguanylate  cyclases  characterized  by  a 
+GGDEF domain, a set of highly conserved active site 
+residues,  whereas  the  second  messenger  is  degraded 
+into  pGpG  or  GMP  by  phosphodiesterases  (PDEs) 
+containing EAL domain or HD-GYP domain, respec-
+tively  (Figure 12)  [122,124–127]. These enzymes function 
+in concert to regulate the intracellular c-di-GMP levels.
+The  correlation  between  intracellular  c-di-GMP 
+concentration and biofilm formation has been observed 
+in  several  clinically  relevant  bacteria  (Table  1).  For  a 
+detailed  review  of  how  fluctuating  levels  of  cellular 
+
+c-di-GMP  affect  biofilm  formation  and  some  effec-
+tor systems involved, the reader is referred to an excel-
+lent review by Boyd and O’Toole [128]. Briefly, in most 
+bacteria the transition from motile to sessile mode of 
+life is regulated by various effector proteins that bind 
+c-di-GMP  resulting  in  varying  outputs  via  cell–sur-
+face  protein  localization,  protein–protein  interaction, 
+transcriptional activation and DNA binding [128]. In P. 
+fluorescens, biofilm formation is initiated when an inner 
+membrane effector protein, LapD binds cellular c-di-
+GMP to facilitate the transport of the biofilm adhesion 
+LapA  to  the  cell  surface  [129,130].  Other  studies  have 
+revealed that in the presence of RapA PDE (suggesting 
+decreased  cellular  c-di-GMP  levels),  the  secretion  of 
+LapA is inhibited and hence biofilm formation is abol-
+ished [131]. A protein–protein interaction was observed 
+in E. coli, with YcgR protein integrating cellular c-di-
+GMP  levels  and  interacting  with  components  of  the 
+flagellar  motor  to  modulate  motile-to-sessile  transi-
+tion  [132–134]. Other studies showed that a VieS/VieA 
+
+Table 1. Clinically relevant bacteria that use c-di-GMP second messenger.
+
+Bacteria
+
+Vibrio cholerae
+
+Pseudomonas aeruginosa
+
+Yersinia pestis
+
+Klebsiella pneumoniae
+
+Diseases
+
+Cholera
+
+Pulmonary and urinary tracts infections 
+Burn injuries infections 
+Blood infections
+
+Plague of Justinian 
+Black Death 
+Third Pandemic
+
+Pneumonia 
+Urinary tract 
+Lower biliary tract Wound infections
+
+Legionella pneumophila
+
+Legionnaires’ disease
+
+Vibrio vulnificus
+
+Cellulitis 
+Septicemia
+
+Ref.
+
+ [127]
+
+ [137]
+
+[138]
+
+ [139]
+
+[140]
+
+ [141]
+
+504
+
+Future Med. Chem. (2015) 7(4)
+
+future science groupBiofilm formation mechanisms & targets for developing antibiofilm agents    Review
+
+sensor  kinase/response  regulator  pair  function  to 
+reduce  cellular  c-di-GMP  concentration  and  inhibit 
+biofilm formation in Vibrio cholerae [135]. It was deter-
+mined  that  VieA  PDE  degraded  c-di-GMP  when 
+phosphorylated by VieS sensor kinase. The decreased 
+cellular  c-di-GMP  concentration  was  concomitant 
+with  a  repressed  expression  of  vps  (vibro  exopolysac-
+charide sysnthesis) genes, responsible for EPS synthesis 
+and biofilm formation in V. cholerae [135,136]. Previous 
+studies also observed an increased vps gene expression 
+and subsequent induction of biofilm formation either 
+by  overexpression  of  putative  diguanylate  cyclases  or 
+inactivation of VieA PDE; both of which correspond 
+to a high cellular c-di-GMP concentration [127].
+
+sRNAs
+Small noncoding RNAs (sRNAs) also play an impor-
+tant role in the bacterial regulatory networks controlling 
+the switch between planktonic mode and biofilm mode. 
+The  regulatory  functions  of  sRNAs  are  achieved  by 
+base pairing with other RNAs or binding with proteins. 
+After  Romeo  and  coworkers  found  the  RNA-binding 
+proteins CsrA and sRNA CsrB and revealed their roles 
+in E. coli biofilm formation and dispersal [142–144], more 
+sRNAs have been identified to participate in the biofilm 
+regulatory networks in many bacteria.
+
+One  well-studied  example  is  P.  aeruginosa  GAC 
+signal-transduction  network  (Figure  13).  GacS  is  a 
+transmembrane  sensor  kinase,  which  induces  the 
+phosphorylation of its cognate regulator, GacA. GacA 
+phosphorylation  is  also  promoted  by  sensor  kinase 
+LadS and blocked by RetS [145]. Phosphorylated GacA 
+stimulates  the  production  of  two  sRNAs:  RsmY  and 
+RsmZ  [146].  RsmY  and  RsmZ  have  multiple  binding 
+sites  for  the  regulatory  protein  RsmA.  As  a  transla-
+tional  repressor,  RsmA  binds  to  the  target  mRNAs 
+to promote bacterial motility and repress biofilm for-
+mation. Sequestration of RsmA by sRNAs RsmY and 
+RsmZ switches planktonic mode to biofilm formation.
+The  first  identified  global  biofilm  regulator  is 
+CsrA  [142]. The structure of CsrA regulatory network 
+in E. coli is similar to the previously described RsmA 
+system. CsrA’s target mRNA binding ability is inhib-
+ited by two sRNAs, CsrB and CsrC. In the absence of 
+CsrB and CsrC sRNAs, CsrA represses mRNA trans-
+lation  and  leads  to  increased  cell  motility.  CsrB  and 
+CsrC  sRNAs  trap  CsrA,  enable  mRNA  translation 
+and promote biofilm formation [148].
+
+Another  master  biofilm  regulator  in  E.  coli  and 
+S. Typhimurium is CsgD. CsgD regulation is at tran-
+scriptional  level,  by  selectively  activating  curli  fim-
+briae  and  extracellular  polysaccharides  genes  and 
+repressing  flagella  genes  [149].  The  activity  of  CsgD 
+is  under  the  regulation  of  sRNAs  (McaS,  RprA, 
+
+RetS
+
+GacS
+
+LadS
+
+GacA
+
+P
+
+GacA
+
+RsmY
+
+RsmZ
+
+RsmA
+
+Planktonic mode
+
+Biofilm formation
+
+Figure 13. Pseudomonas aeruginosa GAC regulatory 
+network. The phosphorylation of regulatory protein 
+GacA is activated by GacS and LadS, but inhibited by 
+RetS. Phosphorylated GacA promotes the production of 
+two sRNAs, RsmY and RsmZ. RsmY and RsmZ sequester 
+RsmA and block its mRNA-binding function. In the 
+absence of RsmY and RsmZ, RsmA binds to target 
+mRNA, prevents translation and resulted in increased 
+cell motility and decreased biofilm formation.  
+Adapted from [147].
+
+~20 µm
+
+5 µm
+
+Figure 14. Biofilm aggregates of Pseudomonas 
+aeruginosa in a chronic infected cystic fibrosis lung. 
+Using a specific P. aeruginosa PNA fluorescence in situ 
+hybridization probe, the bacteria are visualized in red, 
+whereas the inflammatory cells surrounding the biofilm 
+patches are counterstained with 4’,6-diamidino-2-
+phenylindole, DAPI (blue). 
+Reproduced with permission from [158] © Wiley-Liss, Inc. 
+(2009).
+
+www.future-science.com
+
+505
+
+future science groupReview    Rabin, Zheng, Opoku-Temeng, Du, Bonsu & Sintim
+
+A
+
+B
+
+C
+
+506
+
+Future Med. Chem. (2015) 7(4)
+
+Figure 15. Evidence of catheter-associated biofilm 
+growth in vivo. (A) Original magnification ×200 
+demonstrating the irregular undulating pattern of the 
+biofilm surface. (B) Higher magnification of a tower 
+from the image shown in (A) revealing a predominantly 
+hollow interior with numerous cocci at the margins 
+(original magnification ×800). The image has been 
+pseudocolored to highlight Staphylococcus aureus 
+(gold) and presumably matrix material (green), which 
+likely aggregated during the SEM dehydration process, 
+from remaining biofilm structure (gray). The smooth 
+surface at the upper right represents the catheter 
+(salmon) with biofilm visible on the internal face. (C) 
+Original magnification ×3000 of an Staphylococcus 
+aureus cluster within the tower depicted in (B). 
+SEM:Scanning electron microscopy. 
+Reproduced with permission from [7] © The American 
+Association of Immunologists, Inc. (2011).
+OmrA/OmrB,  GcvB,  etc.).  These  sRNAs  are  pro-
+duced in response to different environmental condi-
+tions.  Some  sRNAs  act  as  CsgB  repressors,  such  as 
+OmrA/OmrB,  but  some  are  CsgB  activators,  such 
+as ArcZ [150].
+
+For  more  detailed 
+
+information,  the  reader 
+
+is 
+referred to a more thorough review of the role of small 
+regulatory RNAs and biofilm formation by Chambers 
+and Sauer [151].
+
+Biofilms in vivo
+The dynamics of the microenvironment in vivo is dif-
+ferent from that seen in vitro. This raises the question 
+of whether observations from in vitro experiments are 
+directly  amenable  to  in  vivo  studies.  It  is  therefore 
+important  to  study  biofilms  in  vivo.  Animal  models 
+such  as  mice  [152,153],  rabbits  [154]  and  rats  [155]  have 
+been used to investigate the effects of biofilm-mediated 
+infections.  It  is  important  to  note  that  these  models 
+may not exactly depict conditions in a human host but 
+can provide good predictive power.
+
+One of such infection caused by P. aeruginosa is the 
+catheter-associated urinary tract infection. Cole et al. 
+demonstrated  that  the  biofilms  formed  in  a  murine 
+model  of  catheter-associated  urinary  tract  infection 
+were independent of extracellular polysaccharides [156]. 
+This observation was achieved by using mutant PA14 
+and PAO1 strains, which lacked the ability to produce 
+exopolysaccharides.  The  biofilm  formed  was  found 
+to  be  composed  of  eDNA,  as  DNAse  1  treatment 
+decreased the biofilm. Watters et al. used streptozoto-
+cin to induce diabetes in healthy mice. They infected a 
+surgical excision wound with P. aeruginosa PAO1 and 
+investigated the effect of the infection on the murine 
+model wound healing [157]. It was observed that wound 
+healing for diabetic mice was slow relative to healthy 
+mice.  Analysis  of  tissue  extract  of  wound  from  dia-
+betic  mice  revealed  aggregates  of  P.  aeruginosa.  The 
+biofilm  did  not  respond  to  gentamicin  treatment  as 
+
+future science groupBiofilm formation mechanisms & targets for developing antibiofilm agents    Review
+
+was  expected.  P.  aeruginosa  biofilms  are  also  known 
+to  cause  CF.  Bjarnsholt  et  al.  showed  using  various 
+imaging  techniques  that  P.  aeruginosa  biofilms  were 
+localized in the conductive zone of CF-infected lungs 
+as opposed to the respiratory zone, which is enriched 
+with  polymorphonuclear  leukocytes  (Figure  14)  [158]. 
+In  the  conductive  zone,  the  study  suggested  that  the 
+mucoid biofilms formed by the bacteria in the mucus 
+are protected from antibiotics and host defense.
+
+In an earlier study, Dalton et al. seeded multispecies 
+biofilms  from  an  in  vitro  culture  into  the  wounds  of 
+mice to generate a polymicrobial wound infection [152]. 
+This study also observed an impaired wound healing of 
+wounded mice infected with the multispecies biofilm, 
+and an increased tolerance to antimicrobial treatment. 
+The in vitro-to-in vivo multispecies biofilm was made 
+up of S. aureus, P. aeruginosa, E. faecalis and Finegoldia 
+magna.  It  was  observed  within  48  h  postup  that  P. 
+aeruginosa  took  over  the  infection  and  was  typically 
+present at the leading edge of the infection.
+
+The response of the innate immunity system to bio-
+film infection has been investigated. S. aureus biofilms 
+were established on surgically implanted catheters in a 
+mouse model  (Figure 15)  [7]. The study observed that 
+the biofilms evaded TLR2 and TLR9 which are bacte-
+rial recognition receptors used by macrophages. Host 
+inflammatory  responses  such  as  TNF-α,  IL-1β  and 
+several others were found to be attenuated. The levels 
+of iNOS, responsible for synthesizing reactive nitrogen 
+intermediates which have microbicidal activities, were 
+observed to be significantly reduced. A corresponding 
+increase  in  arginase-1  expression  levels  was  observed. 
+In  fact,  the  overall  response  of  the  innate  immunity 
+was observed to be altered; a plausible explanation for 
+the persistence of biofilms in vivo.
+
+Conclusion & future perspective
+A  major  setback  in  the  treatment  of  biofilm-related 
+infections is the ineffectiveness of existing antibiotics 
+due  to  the  protective  layers  built  by  cells  in  the  bio-
+film. There is therefore limited antibiotic penetration, 
+so  the  community  of  sedentary  cells  persists  even  in 
+the presence of antibiotics effective against their motile 
+counterparts. The dispersion of matured biofilms may 
+primarily  require  the  disruption  of  the  EPS  matrix. 
+Components  of  the  EPS  matrix  such  as  alginate,  Pel 
+and  Psl  in  P.  aeruginosa  biofilms  could,  therefore,  be 
+vital targets in the disruption of biofilm structure. With 
+cells  exposed,  the  drug  compound  may  then  exhibit 
+bactericidal activity or act by dispersing the cells. On 
+the  other  hand,  the  formation  of  new  biofilms  could 
+be inhibited by preventing initial processes like attach-
+ment of cells to surfaces. This would be crucial in the 
+development of medical and dental implants as they are 
+easily colonized by biofilm-forming pathogenic bacte-
+ria. Nevertheless, the gap between observations made 
+from an in vitro model and an in vivo model continues 
+to be problematic. Choice of animal model, depending 
+on how closely related the model is to humans, would 
+be a critical parameter in the successful development of 
+any antibiofilm drug.
+
+Open Access
+This work is licensed under the Creative Commons Attribution-
+
+NonCommercial 3.0 Unported License. To view a copy of this 
+
+license, visit http://creativecommons.org/licenses/by-nc-nd/3.0/
+
+Financial & competing interests disclosure
+We are grateful to NSF (CBET 1264509) and Camille Dreyfus 
+
+Foundation (Teacher–Scholar fellowship to HOS) for funding. 
+
+Y Zheng is supported by Kraybill biochemistry fellowship. The 
+
+Executive summary
+
+Background
+•	 Biofilms are defined as aggregated microorganism communities attached to surfaces and embedded in a self-
+
+produced matrix which is composed of extracellular polysaccharide, DNA and proteins.
+
+•	 There are three steps in biofilm formation: attachment, maturation and dispersion.
+•	 The biofilm structure provides the bacteria with the ability to tolerate harsh environmental conditions, 
+
+resistance to antibiotics and host immune systems, and provides an optimal environment for extracellular DNA 
+(plasmid) exchange.
+
+•	 Various human diseases are related to biofilm. Biofilms play an important role in dental diseases.
+Signaling in biofilm formation
+•	 Bacteria synchronize their gene expression by producing and responding to autoinducers. Quorum sensing 
+
+regulates bioflm formation in several bacterial species.
+
+•	 c-di-GMP is a second messenger that modulates a variety of bacterial growth phenotypes including biofilm 
+
+formation.
+
+•	 sRNAs are also biofilm regulators
+Biofilms in vivo
+•	 The microenvironment in vivo is different from that in vitro. It is important to investigate biofilms inhibition 
+
+in vivo in animal models.
+
+www.future-science.com
+
+507
+
+future science groupReview    Rabin, Zheng, Opoku-Temeng, Du, Bonsu & Sintim
+
+authors have no other relevant affiliations or financial involve-
+
+discussed  in  the  manuscript  apart  from  those  disclosed. 
+
+ment with any organization or entity with a financial interest 
+
+No  writing  assistance  was  utilized  in  the  production  of  this 
+
+in  or  financial  conflict  with  the  subject  matter  or  materials 
+
+manuscript.
+
+References
+
+1  Henrici AT. Studies of freshwater bacteria: I. A direct 
+
+microscopic technique. J. Bacteriol. 25(3), 277–287 (1933).
+
+2  Heukelekian H, Heller A. Relation between food 
+
+concentration and surface for bacterial growth. J. Bacteriol. 
+40 (4), 547–558 (1940).
+
+3  Hoiby N, Flensborg E, Beck B, Friis B, Jacobsen S, Jacobsen 
+L. Pseudomonas aeruginosa infection in cystic fibrosis. 
+Diagnostic and prognostic significance of Pseudomonas 
+aeruginosa precipitins determined by means of crossed 
+immunoelectrophoresis. Scand. J. Respir. Dis. 58(2), 65–79 
+(1977).
+
+4 
+
+Costerton JW, Geesey GG, Cheng KJ. How bacteria stick. 
+Sci. Am. 238(1), 86–95 (1978).
+
+5  Deligianni E, Pattison S, Berrar D et al. Pseudomonas 
+
+aeruginosa cystic fibrosis isolates of similar RAPD genotype 
+exhibit diversity in biofilm forming ability in vitro. BMC 
+Microbiol. 10, 38 (2010).
+
+Ludecke C, Jandt KD, Siegismund D et al. Reproducible 
+biofilm cultivation of chemostat-grown Escherichia coli and 
+investigation of bacterial adhesion on biomaterials using a 
+non-constant-depth film fermenter. PLoS One 9(1), e84837 
+(2014).
+
+Thurlow LR, Hanke ML, Fritz T et al. Staphylococcus aureus 
+biofilms prevent macrophage phagocytosis and attenuate 
+inflammation in vivo. J. Immunol. 186(11), 6585–6596 
+(2011).
+
+Pammi M, Liang R, Hicks JM, Barrish J, Versalovic J. 
+Farnesol decreases biofilms of Staphylococcus epidermidis and 
+exhibits synergy with nafcillin and vancomycin. Pediatr. 
+Res. 70 (6), 578–583 (2011).
+
+Annous BA, Fratamico PM, Smith JL. Scientific status 
+summary. J. Food Sci. 74(1), R24–R37 (2009).
+
+6 
+
+7 
+
+8 
+
+9 
+
+10  Metwalli KH, Khan SA, Krom BP, Jabra-Rizk MA. 
+
+Streptococcus mutans Candida albicans and the human mouth: 
+a sticky situation. PLoS Pathog. 9 (10), e1003616 (2013).
+
+11 
+
+Flemming HC, Neu TR, Wozniak DJ. The EPS matrix: the 
+“house of biofilm cells”. J. Bacteriol. 189(22), 7945–7947 
+(2007).
+
+12  Zhang X, Bishop PL, Kupferle MJ. Measurement of 
+polysaccharides and proteins in biofilm extracellular 
+polymers. Water Sci. Technol. 37 (45), 345–348 (1998).
+
+13  Nwodo UU, Green E, Okoh AI. Bacterial 
+
+16  Prigent-Combaret C, Vidal O, Dorel C, Lejeune P. Abiotic 
+surface sensing and biofilm-dependent regulation of 
+gene expression in Escherichia coli. J. Bacteriol. 181(19), 
+5993–6002 (1999).
+
+17  Davies DG, Geesey GG. Regulation of the alginate 
+
+biosynthesis gene algC in Pseudomonas aeruginosa during 
+biofilm development in continuous culture. Appl. Environ. 
+Microbiol. 61(3), 860–867 (1995).
+
+18  Grant WD, Sutherland IW, Wilkinson JF. Exopolysaccharide 
+colanic acid and its occurrence in the Enterobacteriaceae. 
+J. Bacteriol. 100(3), 1187–1193 (1969).
+
+19 
+
+Stevenson G, Andrianopoulos K, Hobbs M, Reeves PR. 
+Organization of the Escherichia coli K-12 gene cluster 
+responsible for production of the extracellular polysaccharide 
+colanic acid. J. Bacteriol. 178(16), 4885–4893 (1996).
+
+20  Reid AN, Whitfield C. Functional analysis of conserved gene 
+products involved in assembly of Escherichia coli capsules 
+and exopolysaccharides: evidence for molecular recognition 
+between Wza and Wzc for colanic acid biosynthesis. 
+J. Bacteriol. 187(15), 5470–5481 (2005).
+
+21  Danese PN, Pratt LA, Kolter R. Exopolysaccharide 
+
+production is required for development of Escherichia coli 
+K-12 biofilm architecture. J. Bacteriol. 182(12), 3593–3596 
+(2000).
+
+22  Friedman L, Kolter R. Genes involved in matrix formation in 
+Pseudomonas aeruginosa PA14 biofilms. Mol. Microbiol. 51(3), 
+675–690 (2004).
+
+23  Friedman L, Kolter R. Two genetic loci produce distinct 
+
+carbohydrate-rich structural components of the Pseudomonas 
+aeruginosa biofilm matrix. J. Bacteriol. 186(14), 4457–4465 
+(2004).
+
+24 
+
+Jackson KD, Starkey M, Kremer S, Parsek MR, Wozniak DJ. 
+Identification of psl, a locus encoding a potential 
+exopolysaccharide that is essential for Pseudomonas aeruginosa 
+PAO1 biofilm formation. J. Bacteriol. 186(14), 4466–4475 
+(2004).
+
+25  May TB, Shinabarger D, Maharaj R et al. Alginate synthesis 
+by Pseudomonas aeruginosa: a key pathogenic factor in 
+chronic pulmonary infections of cystic fibrosis patients. Clin. 
+Microbiol. Rev. 4(2), 191–206 (1991).
+
+26  Hodges NA, Gordon CA. Protection of Pseudomonas 
+aeruginosa against ciprofloxacin and beta-lactams by 
+homologous alginate. Antimicrob. Agents Chemother. 35(11), 
+2450–2452 (1991).
+
+exopolysaccharides: functionality and prospects. Int. J. Mol. 
+Sci. 13(11), 14002–14015 (2012).
+
+27 
+
+14  Dawson LF, Valiente E, Faulds-Pain A, Donahue EH, 
+
+Wren BW. Characterisation of clostridium difficile biofilm 
+formation, a role for Spo0A. PLoS One 7(12), e50527 (2012).
+
+15  Bales PM, Renke EM, May SL, Shen Y, Nelson DC. 
+
+Purification and characterization of biofilm-associated EPS 
+exopolysaccharides from ESKAPE organisms and other 
+pathogens. PLoS One 8(6), e67950 (2013).
+
+508
+
+Future Med. Chem. (2015) 7(4)
+
+Simpson JA, Smith SE, Dean RT. Alginate inhibition of the 
+uptake of Pseudomonas aeruginosa by macrophages. J. Gen. 
+Microbiol. 134(1), 29–36 (1988).
+
+28  Ma L, Wang J, Wang S et al. Synthesis of multiple 
+
+Pseudomonas aeruginosa biofilm matrix exopolysaccharides is 
+post-transcriptionally regulated. Environ. Microbiol. 14(8), 
+1995– 2005 (2012).
+
+29  Coyne MJ, Russell KS, Coyle CL, Goldberg JB. 
+The Pseudomonas aeruginosa algC gene encodes 
+
+future science groupBiofilm formation mechanisms & targets for developing antibiofilm agents    Review
+
+phosphoglucomutase, required for the synthesis of a complete 
+lipopolysaccharide core. J. Bacteriol. 176(12), 3500–3507 
+(1994).
+
+30  Colvin KM, Irie Y, Tart CS et al. The Pel and Psl 
+
+polysaccharides provide Pseudomonas aeruginosa structural 
+redundancy within the biofilm matrix. Environ. 
+Microbiol. 14(8), 1913–1928 (2012).
+
+31  Franklin MJ, Nivens DE, Weadge JT, Howell PL. 
+
+Biosynthesis of the Pseudomonas aeruginosa extracellular 
+polysaccharides, alginate, Pel, and Psl. Front. Microbiol. 2, 
+167 (2011).
+
+32  Gacesa P. Bacterial alginate biosynthesis – recent progress 
+and future prospects. Microbiology 144 (5), 1133–1143 
+(1998).
+
+33 
+
+Stokke BT, Draget KI, SmidsrØd O, Yuguchi Y, Urakawa H, 
+Kajiwara K. Small-angle x-ray scattering and rheological 
+characterization of alginate Gels. 1. Ca-Alginate Gels. 
+Macromolecules 33(5), 1853–1863 (2000).
+
+34  Mack D, Fischer W, Krokotsch A et al. The intercellular 
+
+adhesin involved in biofilm accumulation of Staphylococcus 
+epidermidis is a linear beta-1,6-linked glucosaminoglycan: 
+purification and structural analysis. J. Bacteriol. 178(1), 
+175–183 (1996).
+
+35  Cue DR, Lei MG, Lee C. Genetic regulation of the 
+
+intercellular adhesion locus in staphylococci. Front. Cell. 
+Infect. Microbiol. 2, 38 (2012).
+
+36 
+
+Stanley NR, Lazazzera BA. Defining the genetic differences 
+between wild and domestic strains of Bacillus subtilis that 
+affect poly-γ-dl-glutamic acid production and biofilm 
+formation. Mol. Microbiol. 57(4), 1143–1158 (2005).
+
+37  Branda SS, Chu F, Kearns DB, Losick R, Kolter R. A major 
+
+protein component of the Bacillus subtilis biofilm matrix. 
+Mol. Microbiol. 59 (4), 1229–1238 (2006).
+
+38  FrØlund B, Palmgren R, Keiding K, Nielsen PH. Extraction 
+of extracellular polymers from activated sludge using a cation 
+exchange resin. Water Res. 30(8), 1749–1758 (1996).
+
+39  Lynch DJ, Fountain TL, Mazurkiewicz JE, Banas JA. 
+Glucan-binding proteins are essential for shaping 
+Streptococcus mutans biofilm architecture. FEMS Microbiol. 
+Lett. 268(2), 158–165 (2007).
+
+40  Dueholm MS, SØndergaard MT, Nilsson M et al. Expression 
+of Fap amyloids in Pseudomonas aeruginosa, P. fluorescens, 
+and P. putida results in aggregation and increased biofilm 
+formation. Microbiologyopen 2(3), 365–382 (2013).
+
+41  Romero D, Aguilar C, Losick R, Kolter R. Amyloid fibers 
+
+provide structural integrity to Bacillus subtilis biofilms. Proc. 
+Natl. Acad. Sci. USA 107(5), 2230–2234 (2010).
+
+42  Cucarella C, Solano C, Valle J, Amorena B, Lasa I, 
+
+Penadés JR. Bap, a Staphylococcus aureus surface protein 
+involved in biofilm formation. J. Bacteriol. 183(9), 
+2888–2896 (2001).
+
+43  Toledo-Arana A, Valle J, Solano C et al. The enterococcal 
+surface protein, Esp, is involved in Enterococcus faecalis 
+biofilm formation. Appl. Environ. Microbiol. 67(10), 
+4538–4545 (2001).
+
+44  Lasa I, Penadés JR. Bap: a family of surface proteins involved 
+in biofilm formation. Res. Microbiol. 157(2), 99–107 (2006).
+
+45  Mora P, Rosconi F, Franco Fraguas L, Castro-Sowinski S. 
+
+Azospirillum brasilense Sp7 produces an outer-membrane 
+lectin that specifically binds to surface-exposed extracellular 
+polysaccharide produced by the bacterium. Arch. 
+Microbiol. 189(5), 519–524 (2008).
+
+46  Diggle SP, Stacey RE, Dodd C, Cámara M, Williams P, 
+Winzer K. The galactophilic lectin, LecA, contributes to 
+biofilm development in Pseudomonas aeruginosa. Environ. 
+Microbiol. 8(6), 1095–1104 (2006).
+
+47  Tielker D, Hacker S, Loris R et al. Pseudomonas aeruginosa 
+
+lectin LecB is located in the outer membrane and is involved 
+in biofilm formation. Microbiology 151(5), 1313–1323 
+(2005).
+
+48  Zhang X, Bishop PL. Biodegradability of biofilm extracellular 
+polymeric substances. Chemosphere 50(1), 63–69 (2003).
+
+49  Kaplan JB, Velliyagounder K, Ragunath C et al. Genes 
+involved in the synthesis and degradation of matrix 
+polysaccharide in Actinobacillus actinomycetemcomitans 
+and Actinobacillus pleuropneumoniae biofilms. 
+J. Bacteriol. 186(24), 8213–8220 (2004).
+
+50  Whitchurch CB, Tolker-Nielsen T, Ragas PC, Mattick JS. 
+
+Extracellular DNA required for bacterial biofilm formation. 
+Science 295(5559), 1487 (2002).
+
+51  Hamilton HL, Domínguez NM, Schwartz KJ, Hackett KT, 
+Dillard JP. Neisseria gonorrhoeae secretes chromosomal DNA 
+via a novel type IV secretion system. Mol. Microbiol. 55(6), 
+1704–1721 (2005).
+
+52  Das T, Sharma PK, Busscher HJ, van der Mei HC, Krom BP. 
+Role of extracellular DNA in initial bacterial adhesion 
+and surface aggregation. Appl. Environ. Microbiol. 76(10), 
+3405–3408 (2010).
+
+53  Gloag ES, Turnbull L, Huang A et al. Self-organization 
+of bacterial biofilms is facilitated by extracellular DNA. 
+Proc. Natl. Acad. Sci. USA 110(28), 11541–11546 (2013).
+
+54  Lewenza S. Extracellular DNA-induced antimicrobial peptide 
+resistance mechanisms in Pseudomonas aeruginosa. Front. 
+Microbiol. 4, 21 (2013).
+
+55  Mulcahy H, Charron-Mazenod L, Lewenza S. Extracellular 
+DNA chelates cations and induces antibiotic resistance 
+in Pseudomonas aeruginosa biofilms. PLoS Pathog. 4(11), 
+e1000213 (2008).
+
+56 
+
+Johnson L, Horsman SR, Charron-Mazenod L et al. 
+Extracellular DNA-induced antimicrobial peptide resistance 
+in Salmonella enterica serovar Typhimurium. BMC 
+Microbiol. 13, 115 (2013).
+
+57  Doroshenko N, Tseng BS, Howlin RP et al. Extracellular 
+
+DNA impedes the transport of vancomycin in Staphylococcus 
+epidermidis biofilms pre-exposed to sub-inhibitory 
+concentrations of vancomycin. Antimicrob. Agents 
+Chemother.58(12), 7273–7282 (2014).
+
+58  Otto M. Staphylococcus epidermidis Pathogenesis. Methods 
+
+Mol. Biol. 1106, 17–31 (2014). 
+
+59  Barnes AMT, Ballering KS, Leibman RS, Wells CL, 
+Dunny GM. Enterococcus faecalis produces abundant 
+extracellular structures containing DNA in the absence of cell 
+lysis during early biofilm formation. MBio. 3(4), e00193-12 
+(2012).
+
+www.future-science.com
+
+509
+
+future science groupReview    Rabin, Zheng, Opoku-Temeng, Du, Bonsu & Sintim
+
+60 
+
+Jefferson KK. What drives bacteria to produce a 
+biofilm? FEMS Microbiol. Lett. 236(2), 163–173 (2004).
+
+61  Rasmussen TB, Givskov M. Quorum-sensing inhibitors 
+
+as anti-pathogenic drugs. Int. J. Med. Microbiol. 296(23), 
+149–161 (2006).
+
+62  Hausner M, Wuertz S. High rates of conjugation in 
+
+78  Costerton JW, Stewart PS, Greenberg EP. Bacterial 
+
+biofilms: a common cause of persistent infections. 
+Science 284(5418), 1318–1322 (1999).
+
+79  Moreau-Marquis S, Stanton BA, O’Toole GA. Pseudomonas 
+
+aeruginosa biofilm formation in the cystic fibrosis airway. 
+Pulm. Pharmacol. Ther. 21(4), 595–599 (2008).
+
+bacterial biofilms as determined by quantitative in situ 
+analysis. Appl. Environ. Microbiol. 65(8), 3710–3713 
+(1999).
+
+80  Pedersen SS, HØiby N, Espersen F, Koch C. Role of 
+
+alginate in infection with mucoid Pseudomonas aeruginosa 
+in cystic fibrosis. Thorax 47(1), 6–13 (1992).
+
+63  Palmer J, Flint S, Brooks J. Bacterial cell attachment, the 
+
+81  Hojo K, Nagaoka S, Ohshima T, Maeda N. Bacterial 
+
+beginning of a biofilm. J. Ind. Microbiol. Biotechnol. 34(9), 
+577–588 (2007). 
+
+interactions in dental biofilm development. J. Dent. 
+Res. 88(11), 982–990 (2009).
+
+64  Renner LD, Weibel DB. Physicochemical regulation of 
+
+82  Marsh PD. Dental plaque as a microbial biofilm. Caries 
+
+biofilm formation. MRS Bull. 36(5), 347–355  
+(2011).
+
+Res. 38(3), 204–211 (2004).
+
+83  Marsh PD. Dental plaque as a biofilm and a microbial 
+
+65 
+
+Sutherland I. Biofilm exopolysaccharides: a strong and 
+sticky framework. Microbiology 147(1), 3–9 (2001).
+
+community – implications for health and disease. BMC 
+Oral Health 6(Suppl 1), 14 (2006).
+
+66  O’Toole GA, Kolter R. Flagellar and twitching motility are 
+necessary for Pseudomonas aeruginosa biofilm development. 
+Mol. Microbiol. 30(2), 295–304 (1998).
+
+84  Zaura E, Keijser B, Huse S, Crielaard W. Defining the 
+
+healthy “core microbiome” of oral microbial communities. 
+BMC Microbiol. 9(1), 259 (2009).
+
+67  Otto M. Staphylococcal biofilms. Curr. Top. 
+Microbiol. Immunol. 207–228 (2008).
+
+68  Heilmann C, Hussain M, Peters G, Götz F. Evidence for 
+autolysin-mediated primary attachment of Staphylococcus 
+epidermidis to a polystyrene surface. Mol. Microbiol. 24(5), 
+1013–1024 (1997).
+
+85  Li J, Helmerhorst EJ, Leone CW et al. Identification of 
+
+early microbial colonizers in human dental biofilm. J. Appl. 
+Microbiol. 97(6), 1311–1318 (2004).
+
+86  Marquis RE. Oxygen metabolism, oxidative stress and 
+acid–base physiology of dental plaque biofilms. J. Ind. 
+Microbiol. 15(3), 198–207 (1995).
+
+69  Davies DG, Chakrabarty AM, Geesey GG. 
+
+87 
+
+Exopolysaccharide production in biofilms: substratum 
+activation of alginate gene expression by Pseudomonas 
+aeruginosa. Appl. Environ. Microbiol. 59(4), 1181–1186 
+(1993).
+
+70  Garrett ES, Perlegas D, Wozniak DJ. Negative control 
+of flagellum synthesis in Pseudomonas aeruginosa is 
+modulated by the alternative sigma factor AlgT (AlgU). 
+J. Bacteriol. 181(23), 7401–7404 (1999).
+
+Sbordone L, Bortolaia C. Oral microbial biofilms and 
+plaque-related diseases: microbial communities and their 
+role in the shift from oral health to disease. Clin. Oral 
+Investig. 7(4), 181–188 (2003).
+
+88  Dige I, Nilsson H, Kilian M, Nyvad B. In situ 
+
+identification of streptococci and other bacteria in initial 
+dental biofilm by confocal laser scanning microscopy and 
+fluorescence in situ hybridization. Eur. J. Oral Sci. 115(6), 
+459–467 (2007).
+
+71  Hall MR, McGillicuddy E, Kaplan LJ. Biofilm: basic 
+
+principles, pathophysiology, and implications for clinicians. 
+Surg. Infect. (Larchmt.) 15(1), 1–7 (2014).
+
+89  Dige I, Raarup MK, Nyengaard JR, Kilian M, Nyvad B. 
+Actinomyces naeslundii in initial dental biofilm formation. 
+Microbiology 155(7), 2116–2126 (2009).
+
+72  Fux CA, Costerton JW, Stewart PS, Stoodley P. Survival 
+strategies of infectious biofilms. Trends Microbiol. 13(1), 
+34–40 (2005).
+
+73  Davies D. Understanding biofilm resistance to antibacterial 
+agents. Nat. Rev. Drug Discov. 2(2), 114–122 (2003).
+
+74  Lyczak JB, Cannon CL, Pier GB. Lung infections associated 
+with cystic fibrosis. Clin. Microbiol. Rev. 15(2), 194–222 
+(2002).
+
+75  Pedersen SS, Koch C, HØiby N, Rosendal K. An epidemic 
+spread of multiresistant Pseudomonas aeruginosa in a cystic 
+fibrosis centre. J. Antimicrob. Chemother. 17(4), 505–516 
+(1986).
+
+76 
+
+Jones AM, Govan JR, Doherty CJ et al. Spread of a 
+multiresistant strain of Pseudomonas aeruginosa in an adult 
+cystic fibrosis clinic. Lancet 358(9281), 557–558 (2001).
+
+90  Kolenbrander PE, Palmer RJ Jr, Periasamy S, Jakubovics 
+NS. Oral multispecies biofilm development and the key 
+role of cell–cell distance. Nat. Rev. Micro. 8(7), 471–480 
+(2010). 
+
+91  Hardie KR, Heurlier K. Establishing bacterial communities 
+by ‘word of mouth’: LuxS and autoinducer 2 in biofilm 
+development. Nat. Rev. Micro. 6(8), 635–643 (2008).
+
+92  Bassler BL, Greenberg EP, Stevens AM. Cross-species 
+induction of luminescence in the quorum-sensing 
+bacterium Vibrio harveyi. J. Bacteriol. 179(12), 4043–4045 
+(1997).
+
+93 
+
+James GA, Swogger E, Wolcott R et al. Biofilms in chronic 
+wounds. Wound Repair Regen. 16(1), 37–44 (2008).
+
+94  Tenke P, Kovacs B, Jäckel M, Nagy E. The role of biofilm 
+infection in urology. World J. Urol. 24(1), 13–20 (2006).
+
+77  Römling U, Fiedler B, Bosshammer J et al. Epidemiology of 
+chronic Pseudomonas aeruginosa infections in cystic fibrosis. 
+J. Infect. Dis. 170(6), 1616–1621 (1994).
+
+95 
+
+Jacobsen SM, Stickler DJ, Mobley HL, Shirtliff ME. 
+Complicated catheter-associated urinary tract infections 
+due to Escherichia coli and Proteus mirabilis. Clin. 
+Microbiol. Rev. 21(1), 26–59 (2008).
+
+510
+
+Future Med. Chem. (2015) 7(4)
+
+future science groupBiofilm formation mechanisms & targets for developing antibiofilm agents    Review
+
+96  Matthews PC, Berendt AR, McNally MA, Byren I. 
+
+Diagnosis and management of prosthetic joint infection. 
+BMJ 338, b1773 (2009).
+
+113  Rezzonico F, Duffy B. Lack of genomic evidence of AI-2 
+receptors suggests a non-quorum sensing role for luxS in 
+most bacteria. BMC Microbiol. 8, 154 (2008).
+
+97  Trampuz A, Zimmerli W. Prosthetic joint infections: 
+update in diagnosis and treatment. Swiss Med. 
+Wkly. 135(1718), 243–251 (2005).
+
+98  Khardori N, Yassien M. Biofilms in device-related 
+
+infections. J. Ind. Microbiol. 15(3), 141–147 (1995).
+
+114  Miller MB, Bassler BL. Quorum sensing in bacteria. Annu. 
+
+Rev. Microbiol. 55(1), 165–199 (2001).
+
+115  Romeo T, Irie Y, Parsek MR. Quorum sensing and microbial 
+biofilms. Curr. Top. Microbiol. Immunol. 67–84 (2008).
+
+116  Allesen-Holm M, Barken KB, Yang L et al. A 
+
+99  Costerton JW, Lewandowski Z, Caldwell DE, Korber 
+
+DR, Lappin-Scott HM. Microbial Biofilms. Annu. Rev. 
+Microbiol. 49(1), 711–745 (1995).
+
+characterization of DNA release in Pseudomonas aeruginosa 
+cultures and biofilms. Mol. Microbiol. 59(4), 1114–1128 
+(2006).
+
+100  Nickel JC, Ruseska I, Wright JB, Costerton JW. 
+
+Tobramycin resistance of Pseudomonas aeruginosa cells 
+growing as a biofilm on urinary catheter material. 
+Antimicrob. Agents Chemother. 27(4), 619–624 (1985).
+
+101  Luppens SB, Reij MW, van der Heijden RW, Rombouts 
+
+FM, Abee T. Development of a standard test to assess 
+the resistance of Staphylococcus aureus biofilm cells to 
+disinfectants. Appl. Environ. Microbiol. 68(9), 4194–4200 
+(2002).
+
+102  Suci PA, Mittelman MW, Yu FP, Geesey GG. Investigation 
+of ciprofloxacin penetration into Pseudomonas aeruginosa 
+biofilms. Antimicrob. Agents Chemother. 38(9), 2125–2133 
+(1994).
+
+103  Anderl JN, Franklin MJ, Stewart PS. Role of antibiotic 
+penetration limitation in Klebsiella pneumoniae biofilm 
+resistance to ampicillin and ciprofloxacin. Antimicrob. 
+Agents Chemother. 44(7), 1818–1824 (2000).
+
+104  Savage VJ, Chopra I, O’Neill AJ. Staphylococcus aureus 
+biofilms promote horizontal transfer of antibiotic 
+resistance. Antimicrob. Agents Chemother. 57(4), 1968–1970 
+(2013).
+
+105  Ashby MJ, Neale JE, Knott SJ, Critchley IA. Effect of 
+
+antibiotics on non-growing planktonic cells and biofilms of 
+Escherichia coli. J. Antimicrob. Chemother. 33(3), 443–452 
+(1994).
+
+106  Lewis K. Persister cells, dormancy and infectious disease. 
+
+Nat. Rev. Microbiol. 5(1), 48–56 (2007).
+
+107  Keren I, Shah D, Spoering A, Kaldalu N, Lewis K. 
+
+Specialized persister cells and the mechanism of multidrug 
+tolerance in Escherichia coli. J. Bacteriol. 186(24), 
+8172–8180 (2004).
+
+108  Zhang L, Mah TF. Involvement of a novel efflux 
+
+system in biofilm-specific resistance to antibiotics. J. 
+Bacteriol. 190(13), 4447–4452 (2008).
+
+109  Leid JG, Willson CJ, Shirtliff ME, Hassett DJ, Parsek MR, 
+
+Jeffers AK. The exopolysaccharide alginate protects 
+Pseudomonas aeruginosa biofilm bacteria from IFN-
+gamma-mediated macrophage killing. J. Immunol. 175(11), 
+7512–7518 (2005).
+
+110  Lyon GJ, Muir TW. Chemical signaling among bacteria 
+
+and its inhibition. Chem. Biol. 10(11), 1007–1021 (2003).
+
+111  West SA, Winzer K, Gardner A, Diggle SP. Quorum 
+sensing and the confusion about diffusion. Trends 
+Microbiol. 20(12), 586–594 (2012).
+
+112  Camilli A, Bassler BL. Bacterial small-molecule signaling 
+
+pathways. Science 311(5764), 1113–1116 (2006).
+
+117  Sakuragi Y, Kolter R. Quorum-sensing regulation of the 
+biofilm matrix genes (pel) of Pseudomonas aeruginosa. 
+J. Bacteriol. 189(14), 5383–5386 (2007).
+
+118  Boles BR, Horswill AR. Agr-mediated dispersal of 
+
+Staphylococcus aureus biofilms. PLoS Pathog. 4(4), e1000052 
+(2008).
+
+119  Novick RP, Geisinger E. Quorum sensing in staphylococci. 
+
+Annu. Rev. Genet. 42, 541–564 (2008).
+
+120  López D, Fischbach MA, Chu F, Losick R, Kolter R. 
+
+Structurally diverse natural products that cause potassium 
+leakage trigger multicellularity in Bacillus subtilis. Proc. Natl. 
+Acad. Sci. USA 106(1), 280–285 (2009).
+
+121  Weinhouse H, Sapir S, Amikam D et al. c-di-GMP-binding 
+protein, a new factor regulating cellulose synthesis in 
+Acetobacter xylinum. FEBS Lett. 416(2), 207–211 ( 1997). 
+
+122  Ross P, Mayer R, Weinhouse H et al. The cyclic diguanylic 
+acid regulatory system of cellulose synthesis in Acetobacter 
+xylinum chemical synthesis and biological activity of cyclic 
+nucleotide dimer, trimer, and phosphothioate derivatives. 
+J. Biol. Chem. 265(31), 18933–18943 (1990).
+
+123  Kalia D, Merey G, Nakayama S et al. Nucleotide, c-di-GMP, 
+c-di-AMP, cGMP, cAMP, (p)ppGpp signaling in bacteria 
+and implications in pathogenesis. Chem. Soc. Rev. 42(1), 
+305–341 ( 2013). 
+
+124  Ross P, Weinhouse H, Aloni Y et al. Regulation of cellulose 
+
+synthesis in Acetobacter xylinum by cyclic diguanylic acid. 
+Nature 325(6101), 279–281 (1987).
+
+125  Ryjenkov DA, Tarutina M, Moskvin OV, Gomelsky M. 
+Cyclic diguanylate is a ubiquitous signaling molecule in 
+bacteria: insights into biochemistry of the GGDEF protein 
+domain. J. Bacteriol. 187(5), 1792–1798 (2005).
+
+126  Paul R, Weiser S, Amiot NC et al. Cell cycle-dependent 
+
+dynamic localization of a bacterial response regulator with a 
+novel di-guanylate cyclase output domain. Genes Dev. 18(6), 
+715–727 (2004).
+
+127  Tischler AD, Camilli A. Cyclic diguanylate regulates Vibrio 
+cholerae virulence gene expression. Infect. Immun. 73(9), 
+5873–5882 (2005).
+
+128  Boyd CD, O’Toole GA. Second messenger regulation 
+of biofilm formation: breakthroughs in understanding 
+c-di-GMP effector systems. Annu. Rev. Cell Dev. Biol. 28, 
+439–462 (2012).
+
+129  Newell PD, Monds RD, O’Toole GA. LapD is a bis-(3′,5′)-
+cyclic dimeric GMP-binding protein that regulates surface 
+attachment by Pseudomonas fluorescens Pf0-1. Proc. Natl 
+Acad. Sci. USA 106(9), 3461–3466 (2009).
+
+www.future-science.com
+
+511
+
+future science groupReview    Rabin, Zheng, Opoku-Temeng, Du, Bonsu & Sintim
+
+130  Newell PD, Boyd CD, Sondermann H, O’Toole GA. 
+
+A c-di-GMP effector system controls cell adhesion by inside-
+out signaling and surface protein cleavage. PLoS Biol. 9(2), 
+e1000587 (2011).
+
+131  Monds RD, Newell PD, Gross RH, O’Toole GA. 
+
+Phosphate-dependent modulation of c-di-GMP levels 
+regulates Pseudomonas fluorescens Pf0–1 biofilm formation 
+by controlling secretion of the adhesin LapA. Mol. 
+Microbiol. 63(3), 656–679 (2007).
+
+132  Ryjenkov DA, Simm R, Römling U, Gomelsky M. The PilZ 
+domain is a receptor for the second messenger c-di-GMP: 
+the PilZ domain protein YcgR controls motility in 
+enterobacteria. J. Biol. Chem. 281(41), 30310–30314 (2006).
+
+133  Boehm A, Kaiser M, Li H et al. Second messenger-mediated 
+adjustment of bacterial swimming velocity. Cell 141(1), 
+107–116 (2010). 
+
+134  Paul K, Nieto V, Carlquist WC, Blair DF, Harshey RM. The 
+c-di-GMP binding protein YcgR controls flagellar motor 
+direction and speed to affect chemotaxis by a “backstop 
+brake” mechanism. Mol. Cell 38(1), 128–139 (2010). 
+
+135  Martinez-Wilson HF, Tamayo R, Tischler AD, Lazinski 
+DW, Camilli A. The Vibrio cholerae hybrid sensor kinase 
+VieS contributes to motility and biofilm regulation by 
+altering the cyclic diguanylate level. J. Bacteriol. 190(19), 
+6439–6447 (2008).
+
+136  Tamayo R, Tischler AD, Camilli A. The EAL Domain 
+protein VieA is a cyclic diguanylate phosphodiesterase. 
+J. Biol. Chem. 280(39), 33324–33330 (2005).
+
+137  Simm R, Morr M, Kader A, Nimtz M, Römling U. 
+
+GGDEF and EAL domains inversely regulate cyclic di-
+GMP levels and transition from sessility to motility. Mol. 
+Microbiol. 53(4), 1123–1134 (2004).
+
+138  Kirillina O, Fetherston JD, Bobrov AG, Abney J, Perry RD. 
+HmsP, a putative phosphodiesterase, and HmsT, a putative 
+diguanylate cyclase, control Hms-dependent biofilm 
+formation in Yersinia pestis. Mol. Microbiol. 54(1), 75–88 
+(2004).
+
+139  Wilksch JJ, Yang J, Clements A et al. MrkH, a novel 
+
+c-di-GMP-dependent transcriptional activator, controls 
+Klebsiella pneumoniae biofilm formation by regulating type 3 
+fimbriae expression. PLoS Pathog. 7(8), e1002204 (2011). 
+
+140  Carlson HK, Vance RE, Marletta MA. H-NOX regulation 
+
+of c-di-GMP metabolism and biofilm formation in Legionella 
+pneumophila. Mol. Microbiol. 77(4), 930–942 (2010).
+
+141  Nakhamchik A, Wilde C, Rowe-Magnus DA. Cyclic-di-
+GMP regulates extracellular polysaccharide production, 
+biofilm formation, and rugose colony development by Vibrio 
+vulnificus. Appl. Environ. Microbiol. 74(13), 4199–4209 
+(2008).
+
+142  Romeo T, Gong M, Liu MY, Brun-Zinkernagel AM. 
+
+Identification and molecular characterization of csrA, a 
+pleiotropic gene from Escherichia coli that affects glycogen 
+biosynthesis, gluconeogenesis, cell size, and surface 
+properties. J. Bacteriol. 175(15), 4744–4755 (1993).
+
+143  Liu MY, Gui G, Wei B et al. The RNA molecule CsrB binds 
+to the global regulatory protein CsrA and antagonizes its 
+activity in Escherichia coli. J. Biol. Chem. 272(28), 17502–
+17510 (1997).
+
+144  Jackson DW, Suzuki K, Oakford L, Simecka JW, Hart ME, 
+Romeo T. Biofilm formation and dispersal under the 
+influence of the global regulator CsrA of Escherichia coli. J. 
+Bacteriol. 184(1), 290–301 (2002).
+
+145  Ventre I, Goodman AL, Vallet-Gely I et al. Multiple sensors 
+control reciprocal expression of Pseudomonas aeruginosa 
+regulatory RNA and virulence genes. Proc. Natl Acad. Sci. 
+USA 103(1), 171–176 (2006).
+
+146  Kay E, Humair B, Dénervaud V et al. Two GacA-dependent 
+small RNAs modulate the quorum-sensing response in 
+Pseudomonas aeruginosa. J. Bacteriol. 188(16), 6026–6033 
+(2006).
+
+147  Jimenez PN, Koch G, Thompson JA, Xavier KB, Cool RH, 
+Quax WJ. The multiple signaling systems regulating 
+virulence in Pseudomonas aeruginosa. Microbiol. Mol. Biol. 
+Rev. 76(1), 46–65 (2012).
+
+148  Babitzke P, Romeo T. CsrB sRNA family: sequestration 
+of RNA-binding regulatory proteins. Curr. Opin. 
+Microbiol. 10(2), 156–163 (2007).
+
+149  Ogasawara H, Yamamoto K, Ishihama A. Role of the biofilm 
+
+master regulator CsgD in cross-regulation between biofilm 
+formation and flagellar synthesis. J. Bacteriol. 193(10), 
+2587–2597 (2011).
+
+150  Mika F, Hengge R. Small RNAs in the control of RpoS, 
+CsgD, and biofilm architecture of Escherichia coli. RNA 
+Biol. 11(5), 494–507 (2014).
+
+151  Chambers JR, Sauer K. Small RNAs and their role in biofilm 
+
+formation. Trends Microbiol. 21(1), 39–49 (2013).
+
+152  Dalton T, Dowd SE, Wolcott RD et al. An in vivo 
+
+polymicrobial biofilm wound infection model to study 
+interspecies interactions. PLoS One 6(11), e27317 (2011).
+
+153  Hoffmann N, Rasmussen TB, Jensen PØ et al. Novel mouse 
+model of chronic Pseudomonas aeruginosa lung infection 
+mimicking cystic fibrosis. Infect. Immun. 73(4), 2504–2514 
+(2005).
+
+154  Buret A, Ward KH, Olson ME, Costerton JW. An in vivo 
+model to study the pathobiology of infectious biofilms on 
+biomaterial surfaces. J. Biomed. Mater. Res. 25(7), 865–874 
+(1991).
+
+155  Chauhan A, Lebeaux D, Decante B et al. A rat model of 
+
+central venous catheter to study establishment of long-term 
+bacterial biofilm and related acute and chronic infections. 
+PLoS One 7(5), e37281 (2012).
+
+156  Cole SJ, Records AR, Orr MW, Linden SB, Lee VT. 
+
+Catheter-associated urinary tract infection by Pseudomonas 
+aeruginosa is mediated by exopolysaccharide independent 
+biofilms. Infect. Immun. 82(5), 2048–2058 (2014).
+
+157  Watters C, DeLeon K, Trivedi U et al. Pseudomonas 
+
+aeruginosa biofilms perturb wound resolution and antibiotic 
+tolerance in diabetic mice. Med. Microbiol. Immunol. 202(2), 
+131–141 (2013).
+
+158  Bjarnsholt T, Jensen PØ, Fiandaca MJ et al. Pseudomonas 
+
+aeruginosa biofilms in the respiratory tract of cystic fibrosis 
+patients. Pediatr. Pulmonol. 44(6), 547–558 (2009).
+
+512
+
+Future Med. Chem. (2015) 7(4)
+
+future science group

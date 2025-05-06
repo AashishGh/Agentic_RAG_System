@@ -1,0 +1,807 @@
+Article
+Changes in Permittivity of the Piezoelectric Material PVDF as
+Functions of the Electrical Field and Temperature
+
+You Zhou *
+
+and Mona Zaghloul *
+
+School of Engineering and Applied Science, The George Washington University, Washington, DC 20052, USA
+* Correspondence: yzhou57@gwu.edu (Y.Z.); zaghloul@gwu.edu (M.Z.)
+
+Abstract: Polyvinylidene Fluoride (PVDF) is becoming a widely used piezoelectric material because
+of its ﬂexibility, low cost, light weight, and biocompatibility. Its electronic properties, such as its
+permittivity, can be affected by material crystal structure variations, which also greatly impact the
+material’s application. It is known that external stress and electrical ﬁelds can alter the crystal
+structure of piezoelectric material. In this research, we aim to investigate the relationship between
+the external electrical ﬁeld and the permittivity property of PVDF material. The basic standard
+equations, ﬁnite element analysis, and experimental measurement are included in this paper. By using
+sweeping voltages from −25 V to +25 V using an Agilent Technologies B1500A Semiconductor Device
+Analyzer, an increase in the permittivity of the PVDF material is observed. In this work, the study
+of the permittivity change under the application of different electrical ﬁelds at room temperature
+is presented, and the application of the electrical ﬁeld under different temperatures is also studied
+and presented.
+
+Keywords: Polyvinylidene Fluoride; PVDF; permittivity; piezoelectric material; COMSOL simulation
+
+Citation: Zhou, Y.; Zaghloul, M.
+
+Changes in Permittivity of the
+
+Piezoelectric Material PVDF as
+
+Functions of the Electrical Field and
+
+Temperature. Materials 2021, 14, 5736.
+
+https://doi.org/10.3390/ma14195736
+
+Academic Editor: Albena Paskaleva
+
+Received: 11 September 2021
+
+Accepted: 29 September 2021
+
+Published: 1 October 2021
+
+Publisher’s Note: MDPI stays neutral
+
+with regard to jurisdictional claims in
+
+published maps and institutional afﬁl-
+
+iations.
+
+Copyright: © 2021 by the authors.
+
+Licensee MDPI, Basel, Switzerland.
+
+This article is an open access article
+
+distributed under
+
+the terms and
+
+conditions of the Creative Commons
+
+Attribution (CC BY) license (https://
+
+creativecommons.org/licenses/by/
+
+4.0/).
+
+1. Introduction
+
+The piezoelectric effect was ﬁrst discovered by Pierre Curie and Jacques in the 1880s [1].
+This effect describes the conversion of mechanical energy into electrical energy and vice
+versa [2,3]. Piezoelectric materials are available in natural form and can also be artiﬁcially
+synthesized. Quartz, Rochelle salt, and tourmaline are examples of natural piezoelectric
+materials. Some piezoelectric materials, such as Lead Zirconium Titanate (PZT), Lead
+Lanthanum Zirconate Titanate (PLZT), Aluminum Nitride (ALN), Zinc Oxide (ZnO),
+and Polyvinylidene Fluoride (PVDF) are artiﬁcially synthesized [3,4]. The piezoelectric
+property is related to the material’s non-centrosymmetric crystal structure [5]. Polarization
+happens when an external force is applied to the material and the electrical potential is
+exhibited within the material at the same time [6].
+
+In addition to the external force case, the electrical ﬁeld can also affect the crystal
+structure of the piezoelectric material, which also leads to a change in permittivity [3].
+An increase in the value of the permittivity of PZT-5H was reported following the applica-
+tion of an AC bias [7]. This is critical for applications of piezoelectrical material because the
+inﬂuence of dielectric constant variations on the piezoelectric material is not neglectable.
+No matter whether the material is used as a sensor or as an actuator, the performance of
+the piezoelectric material changes if an external electrical ﬁeld can change the material’s
+properties. However, if the dielectric constant of the material can be controlled precisely,
+the unstable performance problem can be solved.
+
+PVDF is a commonly used piezoelectric material because of its good ﬂexibility, light
+weight, low cost, and biocompatibility, and it has the potential to be used in many biomedi-
+cal applications [8–10]. For example, PVDF, a ﬂexible piezoelectric material can be used to
+measure cardiorespiratory signals [11–13]. PVDF cable sensors are commercially available
+to detect thorax displacement by respiratory and ballistic movement by heartbeat [14,15].
+
+Materials 2021, 14, 5736. https://doi.org/10.3390/ma14195736
+
+https://www.mdpi.com/journal/materials
+
+materials(cid:1)(cid:2)(cid:3)(cid:1)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:1)(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)Materials 2021, 14, 5736
+
+2 of 9
+
+The cable is a capacitor made of a long single PVDF ﬁlm, outer conductive braid shield,
+and inner copper center core. A charge is generated between the center core and the outer
+braid shield when the cable is stretched or compressed by the movement [16]. However,
+this charge is usually very small and can be easily affected. Even small capacitance vari-
+ations can affect the measurement result. When the temperature changes or an external
+electrical ﬁeld is applied to the material, the permittivity will change, which results in a
+capacitance change. This change will lead to an unexpected charge change that may affect
+the measurement results. Since these kinds of biomedical devices usually work at body
+temperature or room temperature, which do not change a lot, this work mainly focuses on
+the effect of the electrical ﬁeld on the permittivity of PVDF. The permittivity of PVDF can
+be changed by mixing it with BaTiO3 [17]. In this work, we consider the characterization
+of the permittivity of PVDF under the inﬂuence of an external electric ﬁeld. We study the
+piezoelectric property and the permittivity of the PVDF material. By using a COMSOL
+simulation and experiment measurements, we measure the capacitance versus the applied
+voltage and calculate the permittivity change under the application of an electrical ﬁeld at
+room temperature and different temperatures.
+
+2. Materials and Methods
+2.1. Basic Standard Equations for Piezoelectric Materials
+
+Strain–Charge and Stress–Charge equations are usually used to express the piezoelec-
+tric effect. Most material data show the Strain–Charge form instead of the Stress–Charge
+form. However, data in Strain–Charge form can be transformed into Stress–Charge form
+for the variation formulation used by the COMSOL simulator for discretization and com-
+putation [18]. In this paper, we only show the Strain–Charge form equations to explain the
+piezoelectric effect.
+
+2.1.1. Strain-Charge Form
+
+Equations (1) and (2) express the piezoelectric effect in the Strain–Charge form.
+
+D = dT + εE
+
+S = sET + dT E
+
+(1)
+
+(2)
+
+where S, D, T, and E are the strain, electric displacement, external mechanical stress,
+and electric ﬁeld in Equation (1), respectively. The material parameters sE, ε, and d are
+material compliance, permittivity, and piezoelectric coefﬁcients, respectively [12]. From
+these two equations, we know that when no external stress is applied to a piezoelectric
+material, the strain mainly depends on the external electrical ﬁeld. To illustrate the di-
+rections of the piezoelectric effect, matrix forms of Equations (1) and (2) are expressed as
+Equations (3) and (4).
+
+
+ =
+
+
+
+
+
+
+
+
+
+
+D1
+D2
+D3
+
+d11
+...
+d31
+
+· · ·
+. . .
+· · ·
+
+d16
+...
+d36
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+S1
+S2
+S3
+S4
+S5
+S6
+
+
+
+
+
+
+=
+
+sE11
+...
+sE61
+
+· · ·
+. . .
+· · ·
+
+sE16
+...
+sE66
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+T1
+T2
+T3
+T4
+T5
+T6
+
+T1
+T2
+T3
+T4
+T5
+T6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
++
+
+ε11
+ε21
+ε31
+
+ε12
+ε22
+ε32
+
+ε13
+ε23
+ε33
+
+
+
+
+
+
+
+
+
+
+
+
+
+E1
+E2
+E3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
++
+
+d11
+...
+d16
+
+· · ·
+. . .
+· · ·
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E1
+E2
+E3
+
+d31
+...
+d36
+
+(3)
+
+(4)
+
+Materials 2021, 14, 5736
+
+3 of 9
+
+where subscripts 1, 2, and 3 are used to deﬁne the directions along the X, Y, and Z axes,
+respectively. Subscripts 4, 5, and 6 show the shear directions of the X, Y, and Z axes, respec-
+tively.
+
+2.1.2. Permittivity Calculation
+
+Consider a rectangular PVDF sheet with surface area A and thickness Th, as shown in
+Figure 1. When applying an electrical ﬁeld with the same direction as the polling direction
+of the piezoelectric material, the thickness increases and the area decreases. On the other
+hand, when applying an electrical ﬁeld with the opposite direction to the polling direction
+of the piezoelectrical material, the thickness decreases while the area increases [19].
+
+Figure 1. Illustration of the PVDF response to an applied electrical ﬁeld (a) piezoelectric PVDF under
+no electrical ﬁeld. (b) PVDF sheet under an electrical ﬁeld with the opposite direction to the polling
+direction (c) PVDF sheet under electrical ﬁeld with the same direction as the polling direction.
+
+Permittivity, which is also called the dielectric constant, refers to the ability of a
+material to store electrical energy under the inﬂuence of an electrical ﬁeld. Figure 2 shows a
+capacitor with double-sided metal contacts used to apply an electrical ﬁeld and a dielectric
+material between the metal contacts.
+
+Figure 2. Illustration of a capacitor used for the measurement of permittivity.
+
+Permittivity can be determined from the measurement of capacitance, area, and thick-
+
+ness under an electric ﬁeld, according to Equation (5).
+
+C = εA/Th
+
+(5)
+
+C, ε, A, and Th are the capacitance, permittivity, surface area, and thickness, respectively.
+ε = εr × ε0, where ε0 is the vacuum permittivity and εr is the relative permittivity or di-
+electric constant of the material. Due to the non-centrosymmetric crystal structure effect,
+the applied electric ﬁeld will change the thickness and surface area as well as the permittiv-
+ity of the PVDF sheet.
+
+2.2. Material Properties
+
+The material used in this work was PVDF. It was provided by Measurement Specialties,
+Inc., a TE Connectivity Company [20]. The material used was a metalized PVDF ﬁlm sheet
+with electrodes on both sides with part number 1-1004347-0. The surface area of the
+overlapping electrodes was 0.02413 m2 while the thickness was 28 um, according to the
+datasheet. Since we were interested in the permittivity change under an electrical ﬁeld
+
+Materials 2021, 14, 5736 3 of 10   ⎣⎢⎢⎢⎢⎡𝑆(cid:2869)𝑆(cid:2870)𝑆(cid:2871)𝑆(cid:2872)𝑆(cid:2873)𝑆(cid:2874)⎦⎥⎥⎥⎥⎤=(cid:3429)𝑠(cid:3006)(cid:2869)(cid:2869)⋯𝑠(cid:3006)(cid:2869)(cid:2874)⋮⋱⋮𝑠(cid:3006)(cid:2874)(cid:2869)⋯𝑠(cid:3006)(cid:2874)(cid:2874)(cid:3433)⎣⎢⎢⎢⎢⎡𝑇(cid:2869)𝑇(cid:2870)𝑇(cid:2871)𝑇(cid:2872)𝑇(cid:2873)𝑇(cid:2874)⎦⎥⎥⎥⎥⎤+ (cid:3429)𝑑(cid:2869)(cid:2869)⋯𝑑(cid:2871)(cid:2869)⋮⋱⋮𝑑(cid:2869)(cid:2874)⋯𝑑(cid:2871)(cid:2874)(cid:3433)(cid:3429)𝐸(cid:2869)𝐸(cid:2870)𝐸(cid:2871)(cid:3433) (4)where subscripts 1, 2, and 3 are used to define the directions along the X, Y, and Z axes, respectively. Subscripts 4, 5, and 6 show the shear directions of the X, Y, and Z axes, respectively. 2.1.2. Permittivity Calculation Consider a rectangular PVDF sheet with surface area A and thickness Th, as shown in Figure 1. When applying an electrical field with the same direction as the polling direction of the piezoelectric material, the thickness increases and the area decreases. On the other hand, when applying an electrical field with the opposite direction to the polling direction of the piezoelectrical material, the thickness decreases while the area increases [19].   Figure 1. Illustration of the PVDF response to an applied electrical field (a) piezoelectric PVDF under no electrical field. (b) PVDF sheet under an electrical field with the opposite direction to the polling direction (c) PVDF sheet under electrical field with the same direction as the polling direction. Permittivity, which is also called the dielectric constant, refers to the ability of a material to store electrical energy under the influence of an electrical field. Figure 2 shows a capacitor with double-sided metal contacts used to apply an electrical field and a dielectric material between the metal contacts.  Figure 2. Illustration of a capacitor used for the measurement of permittivity. Permittivity can be determined from the measurement of capacitance, area, and thickness under an electric field, according to Equation (5).  𝐶= 𝜀A/Th (5)Materials 2021, 14, 5736 3 of 10   ⎣⎢⎢⎢⎢⎡𝑆(cid:2869)𝑆(cid:2870)𝑆(cid:2871)𝑆(cid:2872)𝑆(cid:2873)𝑆(cid:2874)⎦⎥⎥⎥⎥⎤=(cid:3429)𝑠(cid:3006)(cid:2869)(cid:2869)⋯𝑠(cid:3006)(cid:2869)(cid:2874)⋮⋱⋮𝑠(cid:3006)(cid:2874)(cid:2869)⋯𝑠(cid:3006)(cid:2874)(cid:2874)(cid:3433)⎣⎢⎢⎢⎢⎡𝑇(cid:2869)𝑇(cid:2870)𝑇(cid:2871)𝑇(cid:2872)𝑇(cid:2873)𝑇(cid:2874)⎦⎥⎥⎥⎥⎤+ (cid:3429)𝑑(cid:2869)(cid:2869)⋯𝑑(cid:2871)(cid:2869)⋮⋱⋮𝑑(cid:2869)(cid:2874)⋯𝑑(cid:2871)(cid:2874)(cid:3433)(cid:3429)𝐸(cid:2869)𝐸(cid:2870)𝐸(cid:2871)(cid:3433) (4)where subscripts 1, 2, and 3 are used to define the directions along the X, Y, and Z axes, respectively. Subscripts 4, 5, and 6 show the shear directions of the X, Y, and Z axes, respectively. 2.1.2. Permittivity Calculation Consider a rectangular PVDF sheet with surface area A and thickness Th, as shown in Figure 1. When applying an electrical field with the same direction as the polling direction of the piezoelectric material, the thickness increases and the area decreases. On the other hand, when applying an electrical field with the opposite direction to the polling direction of the piezoelectrical material, the thickness decreases while the area increases [19].   Figure 1. Illustration of the PVDF response to an applied electrical field (a) piezoelectric PVDF under no electrical field. (b) PVDF sheet under an electrical field with the opposite direction to the polling direction (c) PVDF sheet under electrical field with the same direction as the polling direction. Permittivity, which is also called the dielectric constant, refers to the ability of a material to store electrical energy under the influence of an electrical field. Figure 2 shows a capacitor with double-sided metal contacts used to apply an electrical field and a dielectric material between the metal contacts.  Figure 2. Illustration of a capacitor used for the measurement of permittivity. Permittivity can be determined from the measurement of capacitance, area, and thickness under an electric field, according to Equation (5).  𝐶= 𝜀A/Th (5)Materials 2021, 14, 5736
+
+4 of 9
+
+rather than the permittivity under no electrical ﬁeld, the small difference between the real
+value and value on the datasheet would not affect the results.
+
+The piezoelectric constant d33 was −33 × 10−12 m/V and the density ρ was 1780 kg/m3.
+
+The elastic compliance sE was
+
+sE=
+
+
+
+
+
+
+
+
+
+
+
+=
+
+
+
+
+
+
+
+
+
+
+
+· · ·
+. . .
+· · ·
+
+sE16
+...
+sE66
+
+sE11
+...
+sE61
+3.781 −1.482 −1.724
+3.781 −1.724
+−1.482
+−1.724 −1.724
+10.92
+0
+0
+0
+
+0
+0
+0
+
+0
+0
+0
+
+0
+0
+0
+14.28
+0
+0
+
+0
+0
+0
+0
+11.1
+0
+
+
+
+
+
+
+
+
+
+
+
+0
+0
+0
+0
+0
+11.1
+
+× 10−10(1/Pa)
+
+The piezoelectric coefﬁcient dij was
+
+
+
+dij =
+
+
+
+0
+0
+23
+
+0
+0
+
+0
+0
+
+1.476 −33
+
+0
+0
+0
+
+0
+0
+0
+
+0
+0
+0
+
+
+[pC/N]
+
+(6)
+
+(7)
+
+d31 and d33 were 23 pC/N and −33 pC/N, respectively. They were obtained from the
+datasheet. d32 was 1.476 pC/N, as determined with COMSOL.
+
+2.3. Simulation in COMSOL 5.6
+
+To calculate the permittivity, the values of thickness, area, and capacitance were
+needed. However, the thickness change under the electrical ﬁeld could not be directly
+measured because the material was too thin. Thus, a ﬁrst simple estimation of the variation
+in the thickness was done by multiplying the d33 parameter by the electrical ﬁeld and
+further multiplying it by the thickness of the PVDF sheet. The applied voltage was divided
+by the thickness of the material into electrical ﬁelds between the top and bottom surfaces
+of the PVDF sheet. The calculation shows that the estimated thickness change was about
+0.8 nm, a small and negligible amount for the capacitance analysis when applying 25 V.
+To verify the estimation, a COMSOL 5.6 simulation was used to determine the change
+in thickness under the applied electrical voltage. The advantage of COMSOL is the ease
+of setting up a multi-physics simulation. As it uses one pre-processor, solver, and post-
+processor, simulation analysts do not have to use a wide range of tools. In this work,
+we used piezoelectric effect Multiphysics in the COMSOL simulator, which includes Solid
+Mechanic Physics and Electrostatic Physics. The dimensions of the model assigned in
+the simulation were the same as what we used in the experiment. The area of the PVDF
+sheet was 0.02413 m2, while the thickness was 28 um. Under different applied voltages,
+the changes in the area and thickness were different. For example, if 25 V was applied to the
+material (the range for the Agilent Technologies B1500A Semiconductor Device used in the
+laboratory), a thickness change of 0.6 nm occurred, as illustrated in Figure 3. This calculated
+result was close to the simulation result. However, when compared to the thickness under
+a zero electrical ﬁeld, this small thickness variation is negligible. In addition, since the
+PVDF sheet was embedded with metalized electrodes on both sides, the surface area of
+the metalized electrodes did not change. This implies that the variation in thickness and
+surface area for this material can be neglected for this speciﬁc PVDF material packaging.
+Thus, the capacitance change of the capacitor only depended on the permittivity change.
+
+Materials 2021, 14, 5736
+
+5 of 9
+
+Figure 3. Simulation of thickness variation when applying 25 V to the PVDF.
+
+2.4. Experimental Measurement
+
+The PVDF sheet used in the experiment had the same dimensions as in the simulation.
+The Agilent Technologies B1500A Semiconductor Device Analyzer was used to obtain the
+C-V curve of the piezoelectric PVDF in this work. The measurement settings used for
+this machine are shown in Figure 4. The maximum DC output voltage this machine can
+generate is 25 V and the minimum voltage is −25 V, so the start and stop DC voltages were
+−25 V and 25 V while the voltage increase step was 500 mV. To measure the capacitance,
+a 30 mV AC voltage with a frequency of 1 kHz was used. The C-V curve was recorded while
+sweeping DC voltages from −25 V to +25 V. The same measurement settings were used to
+measure the capacitance change under different DC voltages at different temperatures of
+25, 40, 50, 60, and 70 ◦C.
+
+Figure 4. Measurement settings for the B1500A Semiconductor Device Analyzer.
+
+3. Results
+
+The results include the capacitance of the VS applied voltage and permittivity of
+the VS electrical ﬁeld. The capacitance of the VS applied voltage was obtained with the
+Agilent Semiconductor Device Analyzer. The thickness and surface area were constant.
+The variation in capacitance was due to variations in permittivity. According to Equation (5),
+the value of permittivity as the capacitance changes can be calculated.
+
+Materials 2021, 14, 5736 5 of 10   compared to the thickness under a zero electrical field, this small thickness variation is negligible. In addition, since the PVDF sheet was embedded with metalized electrodes on both sides, the surface area of the metalized electrodes did not change. This implies that the variation in thickness and surface area for this material can be neglected for this specific PVDF material packaging. Thus, the capacitance change of the capacitor only depended on the permittivity change.   Figure 3. Simulation of thickness variation when applying 25 V to the PVDF. 2.4. Experimental Measurement The PVDF sheet used in the experiment had the same dimensions as in the simulation. The Agilent Technologies B1500A Semiconductor Device Analyzer was used to obtain the C-V curve of the piezoelectric PVDF in this work. The measurement settings used for this machine are shown in Figure 4. The maximum DC output voltage this machine can generate is 25 V and the minimum voltage is −25 V, so the start and stop DC voltages were −25 V and 25 V while the voltage increase step was 500 mV. To measure the capacitance, a 30 mV AC voltage with a frequency of 1 kHz was used. The C-V curve was recorded while sweeping DC voltages from −25 V to +25 V. The same measurement settings were used to measure the capacitance change under different DC voltages at different temperatures of 25, 40, 50, 60, and 70 ℃.  Figure 4. Measurement settings for the B1500A Semiconductor Device Analyzer. Materials 2021, 14, 5736 5 of 10   compared to the thickness under a zero electrical field, this small thickness variation is negligible. In addition, since the PVDF sheet was embedded with metalized electrodes on both sides, the surface area of the metalized electrodes did not change. This implies that the variation in thickness and surface area for this material can be neglected for this specific PVDF material packaging. Thus, the capacitance change of the capacitor only depended on the permittivity change.   Figure 3. Simulation of thickness variation when applying 25 V to the PVDF. 2.4. Experimental Measurement The PVDF sheet used in the experiment had the same dimensions as in the simulation. The Agilent Technologies B1500A Semiconductor Device Analyzer was used to obtain the C-V curve of the piezoelectric PVDF in this work. The measurement settings used for this machine are shown in Figure 4. The maximum DC output voltage this machine can generate is 25 V and the minimum voltage is −25 V, so the start and stop DC voltages were −25 V and 25 V while the voltage increase step was 500 mV. To measure the capacitance, a 30 mV AC voltage with a frequency of 1 kHz was used. The C-V curve was recorded while sweeping DC voltages from −25 V to +25 V. The same measurement settings were used to measure the capacitance change under different DC voltages at different temperatures of 25, 40, 50, 60, and 70 ℃.  Figure 4. Measurement settings for the B1500A Semiconductor Device Analyzer. Materials 2021, 14, 5736
+
+6 of 9
+
+The C-V curve obtained from the B1500A Semiconductor Device Analyzer at room
+temperature (25 ◦C) is shown in Figure 5. The applied voltage ranged from −25 V to +25 V.
+When the voltage increased, the measured capacitance of the PVDF sheet increased.
+
+Figure 5. Measured C-V curve when applying voltages ranging from −25 V to +25 V at room
+temperature (25 ◦C).
+
+The permittivity of this PVDF sheet was determined based on ε = C × Th/A. The ap-
+plied voltage divided by the thickness was used to determine the electrical ﬁeld based on
+E = Applied voltage/Th. The area and thickness were unchangeable in the equations when
+different voltages were applied. Thus, as shown in Figure 5, the electrical ﬁeld could be
+used to replace voltage/Th. Thus, the permittivity was taken as C × Th/A. Figure 6 plots
+the permittivity vs. the electrical ﬁeld with linear ﬁtting. From this ﬁgure, we can see that
+the permittivity of the PVDF sheet increased from 9.6867 × 10−11 to 9.6961 × 10−11 F/m
+as the electrical ﬁeld increased from −0.89 × 106 to 0.89 × 106 V/m.
+
+We also measured the capacitance change under bias voltages at different tempera-
+tures. The PVDF sheet was placed on a temperature controllable plot. At the same time,
+we used the Agilent Technologies B1500A Semiconductor Device Analyzer to measure the
+capacitance under bias voltages from −25 V to 25 V at different temperatures. Capacitance
+vs. Bias Voltage at different temperatures is shown in Figure 7. The capacitance increased
+not only when temperature increased, but also as the bias voltage increased. At room
+temperature (25 ◦C), the permittivity with zero electrical ﬁeld was 9.6909 × 10−11 (F/m),
+and it ranged from 9.6867 × 10−11 to 9.6961 × 10−11 F/m under bias voltages from −25 V
+to 25 V. At 40 ◦C, the permittivity with zero electrical ﬁeld was 9.9793 × 10−11 (F/m), and it
+ranged from 9.977 × 10−11 to 9.9886 × 10−11 F/m under bias voltages from −25 V to 25 V.
+At 50 ◦C, the permittivity at zero electrical ﬁeld is 10.048 × 10−11 (F/m) and it ranges
+from 10.038 × 10−11 F/m to 10.051 × 10−11 F/m under the bias voltage from −25 V to
+25 V. At 60 ◦C, the permittivity with zero electrical ﬁeld was 10.135 × 10−11 (F/m), and it
+ranged from 10.127 × 10−11 to 10.142 × 10−11 F/m under bias voltages from −25 V to 25 V.
+At 70 ◦C, the permittivity with zero electrical ﬁeld was 10.197 × 10−11 (F/m), and it ranged
+from 10.19 × 10−11 to 10.211 × 10−11 F/m under bias voltages from −25 V to 25 V.
+
+Materials 2021, 14, 5736 6 of 10   3. Results The results include the capacitance of the VS applied voltage and permittivity of the VS electrical field. The capacitance of the VS applied voltage was obtained with the Agilent Semiconductor Device Analyzer. The thickness and surface area were constant. The variation in capacitance was due to variations in permittivity. According to equation 5, the value of permittivity as the capacitance changes can be calculated.  The C-V curve obtained from the B1500A Semiconductor Device Analyzer at room temperature (25 ℃(cid:4667) is shown in Figure 5. The applied voltage ranged from −25 V to +25 V. When the voltage increased, the measured capacitance of the PVDF sheet increased.   Figure 5. Measured C-V curve when applying voltages ranging from −25 V to +25 V at room temperature (25 ℃(cid:4667). The permittivity of this PVDF sheet was determined based on 𝜀 = C × Th/A. The applied voltage divided by the thickness was used to determine the electrical field based on E = Applied voltage/Th. The area and thickness were unchangeable in the equations when different voltages were applied. Thus, as shown in Figure 5, the electrical field could be used to replace voltage/Th. Thus, the permittivity was taken as C × Th/A. Figure 6 plots the permittivity vs. the electrical field with linear fitting. From this figure, we can see that the permittivity of the PVDF sheet increased from 9.6867 × 10−11 to 9.6961 × 10−11 F/m as the electrical field increased from −0.89 × 106 to 0.89 × 106 V/m.  Materials 2021, 14, 5736
+
+7 of 9
+
+Figure 6. Permittivity vs. Electrical ﬁeld at room temperature (25 ◦C).
+
+Figure 7. Capacitance vs. voltage at temperatures of (a) 40 ◦C, (b) 50 ◦C, (c) 60 ◦C, (d) 70 ◦C.
+
+The difference in permittivity under an applied voltage of −25 V versus the permit-
+tivity under an applied voltage of 25 V at 25, 40, 50, 60, and 70 ◦C was 0.0092 × 10−11,
+0.0116 × 10−11, 0.013 × 10−11, 0.015 × 10−11, and 0.021 × 10−11 F/m, respectively, as shown
+in Figure 8.
+
+Materials 2021, 14, 5736 7 of 10    Figure 6. Permittivity vs. Electrical field at room temperature (25 ℃(cid:4667). We also measured the capacitance change under bias voltages at different temperatures. The PVDF sheet was placed on a temperature controllable plot. At the same time, we used the Agilent Technologies B1500A Semiconductor Device Analyzer to measure the capacitance under bias voltages from −25 V to 25 V at different temperatures. Capacitance vs. Bias Voltage at different temperatures is shown in Figure 7. The capacitance increased not only when temperature increased, but also as the bias voltage increased. At room temperature (25 ℃), the permittivity with zero electrical field was 9.6909 × 10−11 (F/m), and it ranged from 9.6867 × 10−11 to 9.6961 × 10−11 F/m under bias voltages from −25 V to 25 V. At 40 ℃, the permittivity with zero electrical field was 9.9793 × 10−11 (F/m), and it ranged from 9.977 × 10−11 to 9.9886 × 10−11 F/m under bias voltages from −25 V to 25 V. At 50 ℃, the permittivity at zero electrical field is 10.048 × 10−11 (F/m) and it ranges from 10.038 × 10−11 F/m to 10.051 × 10−11 F/m under the bias voltage from −25 V to 25 V. At 60 ℃, the permittivity with zero electrical field was 10.135 × 10−11 (F/m), and it ranged from 10.127 × 10−11 to 10.142 × 10−11 F/m under bias voltages from −25 V to 25 V. At 70 ℃, the permittivity with zero electrical field was 10.197 × 10−11 (F/m), and it ranged from 10.19 × 10−11 to 10.211 × 10−11 F/m under bias voltages from −25 V to 25 V.   Materials 2021, 14, 5736 8 of 10   (a) (b)   (c) (d) Figure 7. Capacitance vs. voltage at temperatures of (a) 40 ℃, (b) 50 ℃, (c) 60 ℃, (d) 70 ℃. The difference in permittivity under an applied voltage of −25 V versus the permittivity under an applied voltage of 25 V at 25, 40, 50,60, and 70 ℃ was 0.0092 × 10−11, 0.0116 × 10−11, 0.013 × 10−11, 0.015 × 10−11, and 0.021 × 10−11 F/m, respectively, as shown in Figure 8.  From the above data, we conclude that the electrical field can cause increases in the permittivity change at high temperatures. However, since most PVDF-based biomedical devices work at body temperature or room temperature, it is more important to know the permittivity change under an electrical field at a fixed temperature. All measurements were repeated under the same applied conditions, and the same results were obtained.   Figure 8. Difference in permittivity under applied voltages of −25 V and 25 V vs. Temperature. Materials 2021, 14, 5736
+
+8 of 9
+
+Figure 8. Difference in permittivity under applied voltages of −25 V and 25 V vs. Temperature.
+
+From the above data, we conclude that the electrical ﬁeld can cause increases in the
+permittivity change at high temperatures. However, since most PVDF-based biomedical
+devices work at body temperature or room temperature, it is more important to know the
+permittivity change under an electrical ﬁeld at a ﬁxed temperature. All measurements
+were repeated under the same applied conditions, and the same results were obtained.
+
+4. Discussion
+
+To the best of our knowledge, this is the ﬁrst study to measure the permittivity of PVDF
+under the inﬂuence of an electrical ﬁeld. By sweeping the voltage from negative to positive
+values, the capacitance change was observed through measurement with a Semiconductor
+Device Analyzer. The thickness change was obtained by COMSOL simulation, although the
+change was negligible. The area did not change due to the presence of metalized electrodes
+on both sides. Thus, the value of permittivity could be calculated from these results using
+the equation ε = C × Th/A. This proposed method for calculating permittivity does not
+require high resolution displacement measurement instruments, since the variations in
+geometric dimensions were obtained from simulation and the simulation proved that the
+thickness change is ignorable. In addition, the metalized electrodes on both sides kept
+the capacitor area nearly unchangeable. For the material sample used here, there were
+very small variations in the thickness and area of the sample. However, we obtained
+large variations in the permittivity of the material in the range from 9.6867 × 10−11 to
+9.6961 × 10−11 F/m. In addition, we measured the permittivity change by applying an
+electrical ﬁeld at different temperatures. The results show that at high temperatures,
+the electrical ﬁeld caused more variation in permittivity. However, most PVDF-based
+biomedical devices are wearable at room temperature or implanted at body temperature,
+which does not change a lot. Thus, the permittivity change under an electrical ﬁeld is more
+important. Further studies will investigate changes in piezoelectric coefﬁcients of PVDF
+and other materials under different electrical ﬁelds and temperatures.
+
+Author Contributions: Conceptualization, Y.Z. and M.Z.; modeling and simulation, Y.Z.; theoretical
+calculation, Y.Z. and M.Z.; measurement, Y.Z.; resources, M.Z.; writing—original draft, Y.Z.; writing—
+review and editing, M.Z.; funding acquisition, M.Z. Both authors have read and agreed to the
+published version of the manuscript.
+
+Materials 2021, 14, 5736 8 of 10   (a) (b)   (c) (d) Figure 7. Capacitance vs. voltage at temperatures of (a) 40 ℃, (b) 50 ℃, (c) 60 ℃, (d) 70 ℃. The difference in permittivity under an applied voltage of −25 V versus the permittivity under an applied voltage of 25 V at 25, 40, 50,60, and 70 ℃ was 0.0092 × 10−11, 0.0116 × 10−11, 0.013 × 10−11, 0.015 × 10−11, and 0.021 × 10−11 F/m, respectively, as shown in Figure 8.  From the above data, we conclude that the electrical field can cause increases in the permittivity change at high temperatures. However, since most PVDF-based biomedical devices work at body temperature or room temperature, it is more important to know the permittivity change under an electrical field at a fixed temperature. All measurements were repeated under the same applied conditions, and the same results were obtained.   Figure 8. Difference in permittivity under applied voltages of −25 V and 25 V vs. Temperature. Materials 2021, 14, 5736
+
+9 of 9
+
+Funding: This research was funded by the U.S. National Science Foundation (NSF) under award
+number 2033044. Award Title: “Enhancement of Piezoelectric Properties in two-dimensional materials
+and its application”.
+
+Institutional Review Board Statement: Not applicable.
+
+Informed Consent Statement: Not applicable.
+
+Data Availability Statement: Publicly available datasets were analyzed in this study. This data can
+be found here: https://www.cdiweb.com/products/detail/1-1004347-0/185115/.
+
+Acknowledgments: We appreciate the support from George Washington University Nanofabrica-
+tion and Imaging Center (GWNIC). We acknowledge the funding received from the U.S. National
+Science Foundation.
+
+Conﬂicts of Interest: The authors declare no conﬂict of interest.
+
+References
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+Liu, C. Piezoelectric Sensing and Actuation. In Foundations of MEMS; Pearson Prentice Hall: Upper Saddle River, NJ, USA, 2006;
+pp. 245–246.
+Dong, B.; Zaghloul, M. Generation and enhancement of surface acoustic waves on a highly doped p-type GaAs substrate.
+Nanoscale Adv. 2019, 1, 3537–3546. [CrossRef]
+Sukesha Vig, R.; Kumar, N. Effect of Electric Field and Temperature on Dielectric Constant and Piezoelectric Constant of
+Piezoelectric Materials: A Review. Integr. Ferroelectr. 2015, 167, 154–175. [CrossRef]
+Dong, B.; Afanasev, A.; Johnson, R.; Zaghloul, M. Enhancement of Photoemission on p-Type GaAs Using Surface Acoustic Waves.
+Sensors 2020, 20, 2419. [CrossRef] [PubMed]
+Hinchet, R.; Khan, U.; Falconi, C.; Kim, S.W. Piezoelectric properties in two-dimensional materials: Simulations and experiments.
+Mater. Today 2018, 21, 611–630. [CrossRef]
+Zhou, Y. Design and Simulation of SAW-Driven Drug Delivery Device. Master’s Thesis, The George Washington University,
+Washington, DC, USA, 2020.
+Sukesha, R.; Kumar, N. Variation of piezoelectric coefﬁcient and dielectric constant with electric ﬁeld and temperature: A review.
+In Proceedings of the 2014 Recent Advances in Engineering and Computational Sciences (RAECS), Panjab, India, 6–8 March 2014.
+Park, W.; Yang, J.S.; Kang, C.G.; Lee, Y.S.; Hwang, H.J.; Cho, C.; Lim, S.K.; Kang, S.C.; Hong, W.K.; Lee, S.K.; et al. Characteristics
+of a pressure sensitive touch sensor using a piezoelectric PVDF-TrFE/MoS2 stack. Nanotechnology 2013, 24, 475501. [CrossRef]
+[PubMed]
+Abbasipour, M.; Khajavi, R.; Youseﬁ, A.A.; Yazdanshenas, M.E.; Razaghian, F. The piezoelectric response of electrospun PVDF
+nanoﬁbers with graphene oxide, graphene, and halloysite nanoﬁllers: A comparative study. J. Mater. Sci. Mater. Electron. 2017, 28,
+15942–15952. [CrossRef]
+
+10. Wang, S.; Dong, B.; Zaghloul, M. Interface Electronics Design for Wireless Generation of Surface Acoustic Wave Utilized in
+Wearable Drug Delivery Application. In Proceedings of the 2020 XXXIIIrd General Assembly and Scientiﬁc Symposium of the
+International Union of Radio Science (URSI GASS), Rome, Italy, 29 August–5 September 2020.
+
+11. Rajala, S.; Lekkala, J. Film-Type Sensor Materials PVDF and EMFi in Measurement of Cardiorespiratory Signals—A Review. IEEE
+
+12.
+
+Sens. J. 2012, 12, 439–446. [CrossRef]
+Jacobs, J.L.; Embree, P.; Glei, M.; Christensen, S.; Sullivan, P.K. Characterization of a novel heart and respiratory rate sensor.
+Proceedings of The 26th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, San Francisco,
+CA, USA, 1–5 September 2004.
+
+13. Choi, S.; Jiang, Z. A novel wearable sensor device with conductive fabric and PVDF ﬁlm for monitoring cardiorespiratory signals.
+
+Sens. Actuators A Phys. 2006, 128, 317–326. [CrossRef]
+
+14. Ansourian, M.N.; Dripps, J.H.; Jordan, J.R.; Beattie, G.J.; Boddy, K. A transducer for detecting foetal breathing movements using
+
+PVDF ﬁlm. Physiol. Meas. 1993, 14, 365–372. [CrossRef] [PubMed]
+
+15. Chen, W.; Zhu, X.; Nemoto, T.; Kanemitsu, Y.; Kitamura, K.; Yamakoshi, K. Unconstrained detection of respiration rhythm and
+
+pulse rate with one under-pillow sensor during sleep. Med. Biol. Eng. Comput. 2005, 43, 306–312. [CrossRef] [PubMed]
+
+16. Niizeki, K.; Nishidate, I.; Uchida, K.; Kuwahara, M. Unconstrained cardiorespiratory and body movement monitoring system for
+
+home care. Med. Biol. Eng. Comput. 2005, 43, 716–724. [CrossRef] [PubMed]
+
+17. Bai, P.; Wang, S.; Jia, J.; Wang, H.; Yang, W. Effect of BaTiO3 nanowire on effective permittivity of the PVDF composites. AIP Adv.
+
+2021, 11, 045018. [CrossRef]
+
+18. Piezoelectric Materials: Understanding the Standards. Available online: https://www.comsol.com/blogs/piezoelectric-materials-
+
+understanding-standards/ (accessed on 12 June 2021).
+
+19. Ahmad, M.A.; Allataifeh, A. Electrical extraction of piezoelectric constants. Heliyon 2018, 4, e00910. [CrossRef] [PubMed]
+20. Piezo Film Sheets from TE Connectivity. Available online: https://www.cdiweb.com/portalproductdetail.aspx?ProdId=185115
+
+&ManufId=355 (accessed on 29 September 2021).
+
+

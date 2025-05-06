@@ -1,0 +1,829 @@
+MINI REVIEW
+published: 31 January 2022
+doi: 10.3389/fbioe.2021.815181
+
+Photocatalytic Material–Microbe
+Hybrids: Applications in
+Environmental Remediations
+
+Yadong Yu 1†, Shanshan Wang 1†, Jinrui Teng 2, Anze Zupanic 3, Shuxian Guo 4, Xiaobin Tang 5*
+and Heng Liang 5*
+
+1College of Biotechnology and Pharmaceutical Engineering, Nanjing Tech University, Nanjing, China, 22011 College, Nanjing Tech
+University, Nanjing, China, 3Department of Biotechnology and Systems Biology, National Institute of Biology, Ljubljana, Slovenia,
+4Henan Key Laboratory of Industrial Microbial Resources and Fermentation Technology, Nanyang Institute of Technology,
+Nanyang, China, 5State Key Laboratory of Urban Water Resource and Environment, Harbin Institute of Technology, Harbin, China
+
+Interestingly,
+
+Environmental pollution has become one of the most urgent global issues that we have
+issues is of great
+to face now. Searching new technologies to solve environmental
+signiﬁcance. By intimately coupling photocatalytic materials with microbes,
+the
+emerging photocatalytic material–microbe hybrid (PMH) system takes advantages of
+the high-efﬁciency, broad-spectrum light capture capability of
+the photocatalytic
+material and the selectivity of microbial enzymatic catalysis to efﬁciently convert
+solar energy into chemical energy. The PMH system is originally applied for the
+solar-to-chemical production.
+this
+in treating environmental contaminations. The
+system also has great potential
+photogenerated electrons produced by
+the PMH system can reductively
+decompose organic pollutants with oxidative nature (e.g., refractory azo dyes) under
+anaerobic circumstances. Moreover, based on the redox reactions occurring on the
+surface of photocatalysts and the enzymatic reactions in microbes, the PMH system can
+convert the valences of multiple heavy metal ions into less toxic or even nontoxic status
+simultaneously. In this review, we introduce the recent advances of using the PMH
+system in treating environmental pollutions and compare this system with another
+similar system, the traditional
+intimately coupled photocatalysis and biodegradation
+(ICPB) system. Finally, the current challenges and future directions in this ﬁeld are
+discussed as well.
+
+recent studies demonstrate that
+
+Keywords: photocatalytic material, microbe, hybrid, environmental remediation, solar power
+
+INTRODUCTION
+
+Environmental pollution is one of the world’s most severe problems that we have to face nowadays.
+This has caused great concern globally, and it is urgent to develop more efﬁcient methods to handle
+environmental issues. Photocatalytic oxidation and microbe bioremediation are considered as two
+promising methods and have been extensively explored (Lin et al., 2012; Karim et al., 2021).
+Photocatalytic oxidation-based approaches mainly utilize the photogenerated holes and electrons on
+the surfaces of photocatalytic materials to generate reactive oxygen species (ROS), which will then
+oxidatively decompose pollutants (Byrne et al., 2018). Photocatalytic oxidation provides the
+possibility of utilizing sustainable and green solar energy to remove pollutants. As for microbe-
+
+Edited by:
+
+Bo Wang,
+Shenzhen Institutes of Advanced
+Technology (CAS), China
+
+Reviewed by:
+
+Xin Tian,
+Soochow University, China
+
+*Correspondence:
+
+Xiaobin Tang
+tang5462@163.com
+Heng Liang
+hitliangheng@163.com
+
+†These authors have contributed
+equally to this work
+
+Specialty section:
+
+This article was submitted to
+Synthetic Biology,
+a section of the journal
+Frontiers in Bioengineering and
+Biotechnology
+
+Received: 15 November 2021
+Accepted: 16 December 2021
+Published: 31 January 2022
+
+Citation:
+
+Yu Y, Wang S, Teng J, Zupanic A,
+Guo S, Tang X and Liang H (2022)
+Photocatalytic Material–Microbe
+Hybrids: Applications in
+Environmental Remediations.
+Front. Bioeng. Biotechnol. 9:815181.
+doi: 10.3389/fbioe.2021.815181
+
+Frontiers in Bioengineering and Biotechnology | www.frontiersin.org
+
+1
+
+January 2022 | Volume 9 | Article 815181
+
+Yu et al.
+
+Photocatalytic Material–Microbe Hybrids
+
+based bioremediation, pollutants are removed by the versatile
+catabolic processes in microbes, and thereby, this method is cost-
+effective and eco-friendly (Juan-Luis et al., 2011).
+
+the
+
+to form the
+
+Recently, photocatalytic materials and microbes are intimately
+combined together
+so-called photocatalytic
+material–microbe hybrid (PMH) system (Du et al., 2020). In
+2016, the PMH system is ﬁrstly built by Professor Peidong Yang’
+group in Berkeley, University of California, to realize solar-to-
+chemical production (Sakimoto et al., 2016). The PMH system
+and
+combines
+biotransformation for the production of value-added chemicals
+and fuels. Photocatalytic materials sustainably provide reducing
+power from light to microbe, which then uses these reducing
+equivalents to synthesize products. Currently, PMH systems are
+mainly applied for H2 evolution (Jiang et al., 2018; Wei et al.,
+2018), CO2 conversion (Ye et al., 2019), N2 ﬁxation (Wang B.
+et al., 2019; Chen et al., 2019), and chemical manufacturing (Guo
+et al., 2018; Zhang et al., 2020).
+
+advantages
+
+catalysis
+
+abiotic
+
+of
+
+Interestingly, this PMH system has also shown great potential
+in treating environmental pollutants in some very recent reports
+(Wang X. et al., 2019). Yet, to the best of our knowledge, there is
+no review summarizing these advances. Therefore, we summarize
+the current advances of using the PMH system in environmental
+remediation and compare it with another similar system, the
+intimately coupled photocatalysis and biodegradation (ICPB).
+Current research gaps and future perspectives are also given in
+the end. We believe this review will be helpful for the future
+development of this direction.
+
+APPLICATION OF PMHS IN
+ENVIRONMENTAL REMEDIATION
+
+Most organic contaminants can be gradually biodegraded and
+completely mineralized through the aerobic respiration of
+microbes. Yet, the conventional aerobic treatment increases
+the energy consumption because of
+the high aeration rate
+during the operation process (Mitsugu and Yasumoto, 2003).
+In addition, some pollutants with oxidative nature (such as
+refractory azo dyes and halogenated organic and nitroaromatic
+tend to be degraded reductively rather than
+compounds)
+oxidatively (Liu P.-C. et al., 2020). Therefore, it is meaningful
+to develop new technologies which can provide adequate
+reducing power to fulﬁll the reduction degradation of these
+pollutants under anaerobic conditions. In this context, Xiao
+et al. (2019) coupled an electrochemically active bacterium,
+Shewanella oneidensis MR-1, with the Ag3PO4 photocatalyst to
+build a PMH system, which can remove almost 100% of 15 mg/L
+rhodamine B after 7 days under visible light irradiation. Blocking
+the Mtr
+respiratory pathway (a transmembrane electron
+transport chain) or dosing additional riboﬂavin (an electron
+shuttle) could interfere with the extracellular electron transfer
+of S. oneidensis MR-1 and decrease the degradation rate of
+rhodamine B. The authors believed that the photogenerated
+holes on the Ag3PO4 photocatalyst were scavenged by the
+electrons released from S. oneidensis MR-1, and thereby, the
+photogenerated electrons on the Ag3PO4 photocatalyst were
+
+efﬁciently transferred to rhodamine B and achieve the photo-
+reductive degradation (Figure 1A). Xiao et al. also used this PMH
+system to reductively decompose
+p-chlorophenol under
+anaerobic circumstances. The results of density functional
+theory calculations further proved that the electrochemically
+active bacterium S. oneidensis MR-1 could act as a biological
+hole scavenger (Liu P.-C. et al., 2020). In another of their work,
+they used CdS nanocrystals instead of Ag3PO4 to combine with
+S. oneidensis MR-1 and form a PMH system for the treatment of
+trypan blue (Xiao et al., 2020). Again, the biogenic electrons
+produced by the anaerobic respiration of S. oneidensis MR-1
+eliminated the photogenerated holes on CdS nanocrystals and
+maintained the ongoing photoexcitation to produce electrons,
+cleaving the azo bonds in trypan blue.
+
+C
+
+on
+
+the
+
+cytochrome
+
+outer-membrane
+
+Similarly, to degrade another azo dye, methyl orange (MO),
+Huang et al. (2019) built a PMH system by precipitating CdS
+nanoparticles on the surface of Geobacter sulfurreducens (an
+electrochemically active bacterium). This PMH system can
+light
+completely degrade 40 mg/L MO after 3 h under
+irradiation. Different from the mechanism proposed by Liu et al.
+(2020b) and Xiao et al. (2019, 2020), Huang et al. believed that there
+were two degradation pathways working simultaneously in their
+PMH system (Figure 1B): (1) the photogenerated electrons were
+stored
+of
+G. sulfurreducens, and these electrons were then transferred to
+the terminal reductase for mineralizing MO; and (2) the
+photogenerated electrons could be directly transferred to the
+MO and degrade it. Huang et al. (2019) hypothesized that the
+photogenerated holes were scavenged by the intermediates
+produced during the decolorization process of MO as they
+found that dosing additional sacriﬁcial reagents in the PMH
+system did not affect the MO degradation rate. In the report
+contributed by Chen et al. (2019), a PMH system containing CdS
+nanomaterials and Thiobacillus denitriﬁcans was used to supply
+electrons for the denitriﬁcation process. After 68 h of visible light
+irradiation, this PMH system converted more than 72.1% of the
+-N into N2O-N. Lactate was chosen as the sacriﬁcial reagent
+NO3
+to scavenge the photogenerated holes. The authors proposed that
+the excited photoelectrons
+from CdS nanomaterials were
+transferred into microbes through the electron acceptors in
+cell membranes like C-type cytochrome and then to those
+enzymes involved in the denitriﬁcation pathway (Figure 1C).
+
+−
+
+Apart from persistent organic pollutants, the PMH system can
+also be used to treat heavy metal contamination. Our group
+deposited CdS nanomaterials on the surface of Bacillus
+thuringiensis HM-311 (a multiple-heavy-metal-tolerant strain
+isolated from heavy-metal-polluted soil (Berrazeg et al., 2019))
+to form the PMH system (Zuo et al., 2021b). Then this PMH
+system was operated in the simulated Cr6+ (100 mg/L) and As3+
+(100 mg/L) co-contaminated water under visible light. After 24 h
+of operation, 99.25% of Cr6+ was reduced. Meanwhile, As3+ was
+simultaneously oxidized into As5+ by this PMH system, and up to
+62.74 mg/L of As5+ was detected. We believed that with the help
+of solar energy and microbial enzymatic reactions, electrons can
+be transferred from heavy metal ions that need to be oxidized to
+detoxify them and donated to heavy metal ions that need to be
+reduced to become less toxic (Figures 1D,E). This PMH system
+
+Frontiers in Bioengineering and Biotechnology | www.frontiersin.org
+
+2
+
+January 2022 | Volume 9 | Article 815181
+
+Yu et al.
+
+Photocatalytic Material–Microbe Hybrids
+
+FIGURE 1 | (A) Schematic illustration of the light-driven degradation pathway of rhodamine B using the Ag3PO4–S. oneidensis MR-1 hybrid system (reprinted with
+permission from Xiao et al., 2019). (B) Schematic illustration of the degradation pathway of MO using the CdS–G. sulfurreducens hybrid system (reprinted with
+permission from Huang et al., 2019). (C) Schematic illustration of the denitriﬁcation mechanism in the CdS–T. denitriﬁcans hybrid system driven by light (reprinted with
+permission from Chen et al., 2019). (D, E) Mechanism of fabricating the CdS nanomaterial–B. thuringiensis HM-311 hybrid based on the microbial mineralization
+ability (D) and the electron transfer between different heavy metal ions in the hybrid system (E) (reprinted with permission from Zuo et al., 2021a).
+
+Frontiers in Bioengineering and Biotechnology | www.frontiersin.org
+
+3
+
+January 2022 | Volume 9 | Article 815181
+
+Yu et al.
+
+Photocatalytic Material–Microbe Hybrids
+
+might realize the electron transfer between different heavy metal
+ions, achieving the repair of multiple metal ions in wastewater
+simultaneously.
+
+COMPARE PMH WITH ICPB
+
+In fact, it is not the ﬁrst time that photocatalysts are combined
+with microbes intimately for environmental remediation. The
+group led by Professor Rittmann at Arizona State University ﬁrst
+built a system which intimately coupled photocatalytic oxidation
+with microbial degradation (ICPB) for wastewater treatment in
+2008 (Marsolek et al., 2010). Herein, we compare the ICPB
+system with the PMH system. This will help researchers
+understand the differences and connections between these two
+systems and apply them more properly for wastewater treatment.
+
+−
+
+an
+
+bioﬁlms,
+
+illuminated
+
+Mechanisms and Target Pollutants
+A typical ICPB system mainly consists of porous carriers,
+photocatalysts,
+reactor.
+and
+Photocatalysts are loaded on the surface of the carriers, and
+the bioﬁlms are cultivated in the carriers. The porous carrier can
+adsorb refractory pollutants from the solution and enhance its
+mass transfer to the surface of the photocatalysts. In the process
+of photocatalytic degradation, a photocatalyst absorbs photon
+energy and generates electron–hole pairs, which will cause ROS
+such as (cid:129)OH and (cid:129)O2
+. These ROS will attack and destroy the
+refractory organic contaminants and convert
+them into
+biodegradable products, which are completely degraded by
+the bioﬁlms afterwards (Liu J. et al., 2020; Wu et al., 2020).
+ICPB systems are suitable to mineralize most of the refractory
+(e.g., antibiotics, dyes, and polycyclic
+organic pollutants
+aromatic hydrocarbons). A typical PMH system is mainly
+composed of microbial cells and photocatalytic materials
+deposited directly on their
+surfaces. For environmental
+remediation, electrochemically active bacteria are often used
+in PMH systems to provide the biogenic electrons to eliminate
+the photogenerated holes on the photocatalysts. In this case, the
+photogenerated electrons are able to reductively degrade those
+organic pollutants with oxidative natures (such as nitroaromatic
+compounds and azo dyes). In the PMH system for treating
+heavy metals, electrons generated by photocatalysts can be
+to promote intracellular
+transferred into microbial cells
+enzymatic reductions, reducing heavy metal
+ions such as
+Cr6+ and Se4+. Heavy metal ions like As3+ and Sb3+ can be
+oxidized by photogenerated holes as sacriﬁcial electron donors.
+
+that most microbes
+
+Light Source
+In the PMH system, additional carriers are not required as
+photocatalysts are directly coated on the surface of bacteria.
+Considering
+survive under
+ultraviolet (UV) light irradiation, the PMH system is often
+driven by visible light. For the ICPB system, the excitation
+light can be UV light or visible light since the bioﬁlms are
+that
+protected by the carriers. Yet, we have to point out
+although UV-light-excited
+good
+efﬁciencies in ICPB, their practical applications are still not
+
+photocatalysts
+
+display
+
+cannot
+
+widespread because UV light accounts for only 4% of sunlight
+(Zhang et al., 2016). Plus, UV light exhibits a strong killing ability
+on microorganisms. Under UV light irradiation, bioﬁlms are
+detached from the carriers and the soluble microbial products are
+generated, which increase the turbidity of the reaction mixture.
+This could in turn hinder the penetration of UV light and thereby
+reduce the photocatalytic degradation efﬁciency (Zuo et al.,
+2021a). Therefore, most ICPB systems are driven by visible
+light now.
+
+it
+
+different
+
+consortium contains
+
+Microbes
+In the ICPB system, microbes are the implementers of
+biodegradation. It could be single strain with the ability to
+degrade the products from the photooxidation stage. Yet,
+more ICPB systems choose the microbial consortium as the
+implementers of biodegradation because
+is hard to
+completely degrade organic pollutants by one microbial strain.
+Microbial
+of
+microorganisms, can corporate with each other, and show a
+synergy effect when they degrade organic pollutants. Thus, the
+microbial consortium can degrade different types of organic
+pollutants and their toxic intermediate metabolites, achieving a
+complete-degradation effect. In the PMH systems designed for
+removing organic pollutants, electrochemically active bacteria are
+usually chosen. These bacteria can provide bio-electrons via their
+anaerobic respiration to scavenge the photogenerated holes on
+the photocatalysts and maintain the ongoing photoreductive
+degradation of
+those oxidative organic pollutants. These
+bacteria are not capable of decomposing the intermediates
+produced from the photoreductive degradation process.
+
+types
+
+the
+
+photocatalysis
+could
+remain refractory or
+
+Electron Donors
+For ICPB systems, microbes are key degraders which completely
+this
+mineralize
+products. However,
+if
+biodegradation process
+the
+compromised
+be
+inhibitory.
+photocatalysis products
+Providing readily biodegradable co-substrates such as acetate
+which could act as extra electron donors and energy sources
+will improve the microbial metabolic activity, counteract toxicity
+effects, and accelerate oxygenation reactions, resulting in a great
+increase of the removal rate (Bai et al., 2015; Xiong et al., 2018). In
+PMH systems, photogenerated holes need to be scavenged, which
+will ensure the system will provide reductive electrons for
+microbial synthesis or the photoreductive degradation of target
+pollutants. For those PMH systems used for environmental
+purposes, the hole scavengers are the electrochemically active
+bacteria, which need carbon sources and electron donors such as
+lactate and sodium acetate trihydrate. In our previous work, some
+heavy metal ions (e.g., As3+ and Sb3+) can be used as sacriﬁcial
+electron donors to maintain the continuous operation of the
+PMH system (Zuo et al., 2021b).
+
+Operation Conditions
+As shown in Figure 2, the ICPB system is agitated and operated in
+an illuminated reactor coupled with an aeration pump, which
+supplies enough oxygen for the photocatalysis oxidation and
+microbial respiration. In contrast, PMH systems can work
+
+Frontiers in Bioengineering and Biotechnology | www.frontiersin.org
+
+4
+
+January 2022 | Volume 9 | Article 815181
+
+Yu et al.
+
+Photocatalytic Material–Microbe Hybrids
+
+FIGURE 2 | Comparisons between the ICPB system and PMH system.
+
+anaerobic
+
+conditions
+
+photoreductive
+under
+degradation of those oxidative organic pollutants. Since it does
+not need to aerate, the PMH system decreases the energy
+consumption during the operation process.
+
+achieve
+
+to
+
+CONCLUSIONS AND PERSPECTIVE
+
+Herein, we summarize the recent advances of using the PMH
+systems for environmental remediations. Driven by sustainable,
+green sunlight, these emerging PMH systems may provide new
+and promising alternatives for anaerobically photoreductive
+decomposing organic pollutants with oxidative natures and
+in
+repairing multiple heavy metal
+wastewater. While some exciting results have already been
+obtained, the PMH system is still
+in its infancy, and some
+gaps that need more effort to address remain:
+
+simultaneously
+
+ions
+
+are
+
+needed
+
+investigations
+
+1) The photocatalytic materials used in PMH systems now often
+contain heavy metals or noble metals (e.g., CdS and Ag3PO4);
+address
+more
+their
+to
+biocompatibility, cost, and environmental
+impacts before
+implementing real environmental applications. Interestingly,
+some microbes can utilize natural extracellular semiconducting
+minerals
+synthesize
+photosensitizers, which can decorate microbial membranes,
+facilitate the transmembrane electron transfer, and achieve
+light harvesting (Lu et al., 2019; Yu and Leadbetter, 2020).
+Thus, it might be a promising direction to synthesize earth-
+abundant
+compatible
+photosensitizers for PMH systems based on the microbes’
+biomineralization capabilities.
+
+semiconductor minerals
+
+and manganese)
+
+(e.g.,
+
+iron
+
+to
+
+as
+
+2) Microorganisms are the other key component in the PMH
+system. It is critical to improve the microbes’ capability to
+yield and transfer electrons, which requires us to discover and
+
+Frontiers in Bioengineering and Biotechnology | www.frontiersin.org
+
+5
+
+January 2022 | Volume 9 | Article 815181
+
+Yu et al.
+
+Photocatalytic Material–Microbe Hybrids
+
+redesign the corresponding molecular pathways rationally in
+the future. The incorporation of more biology scientists
+especially with omics and synthetic biology backgrounds
+will be great.
+
+3) Electron donors, either for the microbial growth or for the
+scavenging of the photogenerated holes on the photocatalysts
+directly, are crucial for the continuous operation of PMH
+systems. The costs of those typical hole scavengers such as
+cysteine, ascorbic acid, and HEPES are too high for large-scale
+application. Finding electron donors that can be regenerated
+and have low cost, as well as being biocompatible, will be of
+great beneﬁt to ensure economic viability and applicability of
+PMH systems in environmental applications.
+
+REFERENCES
+
+Bai, Q., Yang, L., Li, R., Chen, B., Zhang, L., Zhang, Y., et al. (2015). Accelerating
+Quinoline Biodegradation and Oxidation with Endogenous Electron Donors.
+Environ. Sci. Technol. 49 (19), 11536–11542. doi:10.1021/acs.est.5b03293
+Berrazeg, M., Deriet, A., De Keersmaecker, S. C. J., Verhaegen, B., Vanneste, K.,
+Botteldoorn, N., et al. (2019). Whole-Genome Sequencing of Multidrug-
+Resistant Escherichia coli Strains Harboring the Mcr-1 Gene, Isolated from
+Seawater of the Algiers Coast in Algeria. Microbiol. Resour. Announc 8 (34),
+e00638–19. doi:10.1128/MRA.00638-19
+
+Byrne, C., Subramanian, G., and Pillai, S. C. (2018). Recent Advances in
+Photocatalysis for Environmental Applications. J. Environ. Chem. Eng. 6 (3),
+3531–3555. doi:10.1016/j.jece.2017.07.080
+
+Chen, M., Zhou, X.-F., Yu, Y.-Q., Liu, X., Zeng, R. J.-X., Zhou, S.-G., et al. (2019).
+Light-driven Nitrous Oxide Production via Autotrophic Denitriﬁcation by Self-
+Photosensitized Thiobacillus Denitriﬁcans. Environ.
+Int. 127, 353–360.
+doi:10.1016/j.envint.2019.03.045
+
+Du, Y., Guo, J., Chen, Z., Song, Y., Lu, C., Han, Y., et al. (2020). A New Solar-Driven
+Biological Wastewater Treatment Technology Based on the Synergy of
+Int. Biodeterioration
+Photosensitizers and Non-photosynthetic Bacteria.
+Biodegradation 155, 105111. doi:10.1016/j.ibiod.2020.105111
+
+Guo, J., Suástegui, M., Sakimoto, K. K., Moody, V. M., Xiao, G., Nocera, D. G., et al.
+(2018). Light-driven ﬁne Chemical Production in Yeast Biohybrids. Science 362
+(6416), 813–816. doi:10.1126/science.aat9777
+
+Huang, S., Tang, J., Liu, X., Dong, G., and Zhou, S. (2019). Fast Light-Driven
+Biodecolorization by a Geobacter Sulfurreducens-Cds Biohybrid. ACS
+Sustain.
+doi:10.1021/
+(18),
+acssuschemeng.9b02870
+
+15427–15433.
+
+Chem.
+
+Eng.
+
+7
+
+Jiang, Z., Wang, B., Yu, J. C., Wang, J., An, T., Zhao, H., et al. (2018). AglnS2/In2S3
+Heterostructure Sensitization of Escherichia coli for Sustainable Hydrogen
+Production. Nano Energy 46, 234–240. doi:10.1016/j.nanoen.2018.02.001
+Karim, A., Islam, M. A., Khalid, Z. B., Yousuf, A., Khan, M. M. R., and Mohammad
+Faizal, C. K. (2021). Microbial Lipid Accumulation through Bioremediation of
+palm Oil Mill Efﬂuent Using a Yeast-Bacteria Co-culture. Renew. Energ. 176,
+106–114. doi:10.1016/j.renene.2021.05.055
+
+Lin, F., Zhang, Y., Wang, L., Zhang, Y., Wang, D., Yang, M., et al. (2012). Highly
+Efﬁcient Photocatalytic Oxidation of Sulfur-Containing Organic Compounds
+and Dyes on Tio2 with Dual Cocatalysts Pt and Ruo2. Appl. Catal. B: Environ.
+127, 363–370. doi:10.1016/j.apcatb.2012.08.024
+
+Liu, J., Luo, Z., Han, W., Zhao, Y., and Li, P. (2020a). Preparation of ZnO/
+Bi2WO6 Heterostructures with Improved Photocatalytic Performance.
+Mater.
+doi:10.1016/
+Process.
+j.mssp.2019.104761
+
+Semiconductor
+
+104761.
+
+106,
+
+Sci.
+
+Liu, P.-C., Ma, X.-L., Li, T.-T., Yan, F., Wu, L.-J., and Xiao, X. (2020b).
+Elucidation of Photodegradation of P-Chlorophenol in a Biophotoelectric
+Reductive Degradation System by Density Functional Theory Calculations.
+Int.
+doi:10.1016/
+j.ibiod.2020.104969
+
+Biodeterioration
+
+Biodegradation
+
+104969.
+
+151,
+
+Lu, A., Li, Y., Ding, H., Xu, X., Li, Y., Ren, G., et al. (2019). Photoelectric
+Conversion on Earth’s Surface via Widespread Fe- and Mn-mineral Coatings.
+
+AUTHOR CONTRIBUTIONS
+
+YY, SW, and JT contributed to the ﬁgure and manuscript draft
+preparations. AZ, SG, XT, and HL revised the manuscript. All
+authors approved it for publication.
+
+FUNDING
+
+This work was supported by the Open Project of State Key
+Laboratory of Urban Water Resource and Environment (Grant
+No. HC202147) and Slovenian Research Agency (ARRS: P4-
+0165).
+
+Proc. Natl. Acad.
+pnas.1902473116
+
+Sci. USA 116
+
+(20),
+
+9741–9746.
+
+doi:10.1073/
+
+Marsolek, M. D., Torres, C. I., Hausner, M., and Rittmann, B. E. (2008). Intimate
+Coupling of Photocatalysis and Biodegradation in a Photocatalytic
+Circulating-Bed Bioﬁlm Reactor. Biotechnol. Bioeng. 101 (1), 83–92.
+doi:10.1002/bit.21889
+
+Ramos, J.-L., Marqués, S., van Dillewijn, P., Espinosa-Urgel, M., Segura, A., Duque,
+E., et al. (2011). Laboratory Research Aimed at Closing the Gaps in Microbial
+Bioremediation. Trends Biotechnol.
+doi:10.1016/
+j.tibtech.2011.06.007
+
+641–647.
+
+(12),
+
+29
+
+Saito, M., and Magara, Y. (2003). Removal of Organic Pollutants and Metabolic
+Adaptation of Microorganisms by Micro-aeration. J. Environ. Sci. Health A 38
+(6), 991–1005. doi:10.1081/ESE-120019858
+
+Sakimoto, K. K., Wong, A. B., and Yang, P. (2016). Self-photosensitization of
+Nonphotosynthetic Bacteria for Solar-To-Chemical Production. Science 351,
+74–77. doi:10.1126/science.aad3317
+
+Wang, B., Xiao, K., Jiang, Z., Wang, J., Yu, J. C., and Wong, P. K. (2019a). Biohybrid
+Photoheterotrophic Metabolism for Signiﬁcant Enhancement of Biological
+Nitrogen Fixation in Pure Microbial Cultures. Energy Environ. Sci. 12 (7),
+2185–2191. doi:10.1039/C9EE00705A
+
+Wang, X., Pu, J., Liu, Y., Ba, F., Cui, M., Li, K., et al. (2019b). Immobilization of
+Functional Nano-Objects in Living Engineered Bacterial Bioﬁlms for
+Catalytic Applications. Natl. Sci. Rev. 6 (5), 929–943. doi:10.1093/nsr/
+nwz104
+
+Wei, W., Sun, P., Li, Z., Song, K., Su, W., Wang, B., et al. (2018). A Surface-Display
+Biohybrid Approach to Light-Driven Hydrogen Production in Air. Sci. Adv. 4
+(2), eaap9253. doi:10.1126/sciadv.aap9253
+
+Wu, Y., Zhong, L., Yuan, J., Xiang, W., Xin, X., Liu, H., et al. (2020).
+Photocatalytic Optical Fibers for Degradation of Organic Pollutants in
+a Review. Environ. Chem. Lett. 19 (70), 1335–1346.
+Wastewater:
+doi:10.1007/s10311-020-01141-3
+
+Xiao, X., Han, X., Wang, L.-G., Long, F., Ma, X.-L., Xu, C.-C., et al. (2020).
+Anaerobically
+by Cds Nanocrystal:
+Biofabrication Process and Bioelectron-Driven Reaction Coupled with
+Shewanella Oneidensis MR-1. Biochem. Eng.
+J. 154 (15), 107466.
+doi:10.1016/j.bej.2019.107466
+
+Photoreductive Degradation
+
+Xiao, X., Ma, X.-L., Liu, Z.-Y., Li, W.-W., Yuan, H., Ma, X.-B., et al. (2019).
+Degradation of Rhodamine B in a Novel Bio-Photoelectric Reductive System
+Composed of Shewanella Oneidensis Mr-1 and Ag3PO4. Environ. Int. 126,
+560–567. doi:10.1016/j.envint.2019.03.010
+
+Xiong, H., Dong, S., Zhang, J., Zhou, D., and Rittmann, B. E. (2018). Roles of an
+Easily Biodegradable Co-substrate in Enhancing Tetracycline Treatment in an
+Intimately Coupled Photocatalytic-Biological Reactor. Water Res. 136, 75–83.
+doi:10.1016/j.watres.2018.02.061
+
+Ye, J., Yu, J., Zhang, Y., Chen, M., Liu, X., Zhou, S., et al. (2019). Light-driven
+Carbon Dioxide Reduction to Methane by Methanosarcina Barkeri-CdS
+Biohybrid. Appl. Catal. B: Environ. 257 (15), 117916. doi:10.1016/
+j.apcatb.2019.117916
+Yu, H., and Leadbetter,
+
+J. R. (2020). Bacterial Chemolithoautotrophy via
+Manganese Oxidation. Nature 583 (7816), 453–458. doi:10.1038/s41586-020-
+2468-5
+
+Frontiers in Bioengineering and Biotechnology | www.frontiersin.org
+
+6
+
+January 2022 | Volume 9 | Article 815181
+
+Yu et al.
+
+Photocatalytic Material–Microbe Hybrids
+
+Zhang, L., Xing, Z., Zhang, H., Li, Z., Wu, X., Zhang, X., et al. (2016). High
+Thermostable Ordered Mesoporous SiO2-TiO2 Coated Circulating-Bed
+Bioﬁlm Reactor
+for Unpredictable Photocatalytic and Biocatalytic
+Performance. Appl. Catal. B: Environ. 180, 521–529. doi:10.1016/
+j.apcatb.2015.07.002
+
+Zhang, R., He, Y., Yi, J., Zhang, L., Shen, C., Liu, S., et al. (2020). Proteomic
+and Metabolic Elucidation of Solar-Powered Biomanufacturing by Bio-
+Abiotic Hybrid
+doi:10.1016/
+j.chempr.2019.11.002
+
+234–249.
+
+chem 6
+
+System.
+
+(1),
+
+Zuo, W., Yu, Y., and Huang, H.
+
+(2021a). Making Waves: Microbe-
+Photocatalyst Hybrids May Provide New Opportunities for Treating
+Heavy Metal Polluted Wastewater. Water Res. 195, 116984. doi:10.1016/
+j.watres.2021.116984
+
+Zuo, W., Zhang, L., Zhang, Z., Tang, S., Sun, Y., Huang, H., et al. (2021b).
+Degradation of Organic Pollutants by Intimately Coupling Photocatalytic
+Materials with Microbes: a Review. Crit. Rev. Biotechnol. 41 (6), 273–299.
+doi:10.1080/07388551.2020.1869689
+
+Conﬂict of Interest: The authors declare that the research was conducted in the
+absence of any commercial or ﬁnancial relationships that could be construed as a
+potential conﬂict of interest.
+
+Publisher’s Note: All claims expressed in this article are solely those of the authors
+and do not necessarily represent those of their afﬁliated organizations, or those of
+the publisher, the editors and the reviewers. Any product that may be evaluated in
+this article, or claim that may be made by its manufacturer, is not guaranteed or
+endorsed by the publisher.
+
+Copyright © 2022 Yu, Wang, Teng, Zupanic, Guo, Tang and Liang. This is an open-
+access article distributed under the terms of the Creative Commons Attribution
+License (CC BY). The use, distribution or reproduction in other forums is permitted,
+provided the original author(s) and the copyright owner(s) are credited and that the
+original publication in this journal is cited, in accordance with accepted academic
+practice. No use, distribution or reproduction is permitted which does not comply
+with these terms.
+
+Frontiers in Bioengineering and Biotechnology | www.frontiersin.org
+
+7
+
+January 2022 | Volume 9 | Article 815181
+
+

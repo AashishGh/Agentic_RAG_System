@@ -1,0 +1,1370 @@
+Journal of Vision (2020) 20(7):10, 1–17
+
+1
+
+Eﬀect of geometric sharpness on translucent material
+perception
+
+Bei Xiao
+
+Shuang Zhao
+
+Ioannis Gkioulekas
+
+Wenyan Bi
+
+Kavita Bala
+
+Department of Computer Science, American University,
+Washington, DC, USA
+
+Department of Computer Science, University of
+California, Irvine, Irvine, CA, USA
+
+Robotics Institute, Carnegie Mellon University,
+Pittsburgh, PA, USA
+
+Department of Computer Science, American University,
+Washington, DC, USA
+
+Computer Science, Cornell University, Ithaca, NY, USA
+
+When judging the optical properties of a translucent
+object, humans often look at sharp geometric features
+such as edges and thin parts. An analysis of the physics
+of light transport shows that these sharp geometries are
+necessary for scientiﬁc imaging systems to be able to
+accurately measure the underlying material optical
+properties. In this article, we examine whether human
+perception of translucency is likewise aﬀected by the
+presence of sharp geometry, by confounding our
+perceptual inferences about an object’s optical
+properties. We use physically accurate simulations to
+create visual stimuli of translucent materials with
+varying shapes and optical properties under diﬀerent
+illuminations. We then use these stimuli in
+psychophysical experiments, where human observers
+are asked to match an image of a target object by
+adjusting the material parameters of a match object
+with diﬀerent geometric sharpness, lighting, and
+three-dimensional geometry. We ﬁnd that the level of
+geometric sharpness signiﬁcantly aﬀects perceived
+translucency by observers. These ﬁndings generalize
+across a few illumination conditions and object shapes.
+Our results suggest that the perceived translucency of an
+object depends on both the underlying material’s optical
+parameters and the three-dimensional shape of the
+object. We also ﬁnd that models based on image
+contrast cannot fully predict the perceptual results.
+
+Introduction
+
+every day lives. Examples include human skin, most
+foods, minerals, wooden objects, and chemical products
+(e.g., soap and wax). Compared with opaque materials,
+translucent ones have a characteristic appearance that
+results from light penetrating their surfaces, scattering
+internally, and eventually reemerging from different
+surface locations. This kind of light-material interaction
+is known as subsurface scattering (Ishimaru, 1991).
+The ubiquity and importance of translucent materials
+has long motivated research toward modeling and
+understanding their appearance. In recent years, there
+has been significant progress in developing rendering
+algorithms and representations that, by modeling the
+underlying physics, can create realistic reproductions
+of translucency (Jensen et al., 2001; Donner & Jensen,
+2008; Gkioulekas et al., 2013). As with physics, there
+have likewise been previous efforts trying to decipher the
+other major aspect of translucent appearance, namely,
+its perception by the human visual system (Fleming
+& Bülthoff, 2005; Motoyoshi, 2010; Anderson, 2011;
+Nagai et al., 2013; Gkioulekas et al., 2013; Xiao et
+al., 2014; Chowdhury et al., 2017; Marlow et al., 2017;
+Sawayama et al., 2019). Despite these efforts, our under-
+standing of translucency perception remains limited.
+The study of the perception of translucency is
+
+confounded by the fact that there exists a tight coupling
+between how humans perceive the illumination, shape,
+and material properties of translucent objects (Xiao et
+al., 2014; Marlow et al., 2017). Recently, Chowdhury et
+al. (Chowdhury et al., 2017) showed that the perception
+of the three-dimensional (3D) shape of a translucent
+object is different from that of an opaque one. They
+
+Many real-world materials are translucent, and
+humans interact with such materials often in their
+Citation: Xiao, B., Zhao, S., Gkioulekas, I., Bi, W., & Bala, K. (2020). Eﬀect of geometric sharpness on translucent material percep-
+tion. Journal of Vision, 20(7):10, 1–17, https://doi.org/10.1167/jov.20.7.10.
+
+https://doi.org/10.1167/jov.20.7.10
+
+Received July 23, 2018; published July 14, 2020
+
+ISSN 1534-7362 Copyright 2020 The Authors
+
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+
+Journal of Vision (2020) 20(7):10, 1–17
+
+Xiao et al.
+
+2
+
+created stimuli by manipulating the spatial frequency
+of relief surfaces for both translucent and opaque
+objects. Using these stimuli, they found that observers
+judged translucent objects to have fewer bumps than
+opaque objects with the same 3D shape. Additionally,
+they observed that the perceived local curvature was
+underestimated for translucent objects relative to
+opaque objects.
+
+Motivated by these intriguing findings, in this article
+we continue the investigation of the interplay between
+the perception of 3D shape and material for translucent
+objects. We focus on a specific type of geometric
+feature, namely, thin geometric structures such as edges
+and depth discontinuities. We use the term geometric
+sharpness to refer broadly to the presence of such
+features. Our focus on geometric sharpness is justified
+from previous studies in both physics (Zhao et al.,
+2014; Gkioulekas et al. 2015) and perception (Fleming
+& Bülthoff, 2005; Gkioulekas et al., 2013), indicating
+that the presence of thin geometric features is critical
+for discriminating between translucent materials. In
+particular, we investigate the following questions:
+
+• How does geometric sharpness affect the perception
+
+of translucent material properties?
+
+• Can we manipulate geometric sharpness to make
+
+an object appear more or less translucent?
+
+To answer these questions, we first review related
+
+previous work in Section 2. Then, we start our
+investigations by synthesizing a large number of image
+stimuli, with greatly varying 3D shapes, illumination,
+and optical properties, detailed in Section 3. We use
+these stimuli to conduct psychophysical studies, the
+results of which are statistically analyzed in Section 4.
+Finally, in Section 5, we discuss implications of our
+experimental results. Specifically, our findings indicate
+that 3D geometric sharpness affects translucent material
+perception in such a way that blurring geometric details
+cause objects to appear more translucent than objects
+with sharp geometry. The effect can be generalized
+to two different lighting conditions and both positive
+and negative relief conditions. However, the effect is
+stronger for optically dense (less translucent) materials.
+In addition, we find models based on global image
+contrasts cannot fully predict observer’s results because
+the relationship between image contrasts with the effect
+of geometric blur is different for objects with low relief
+from those for objects with high relief.
+
+Previous work
+
+Illumination, material properties, and 3D shape
+all contribute to the retinal two-dimensional (2D)
+image that humans perceive. The human visual system
+subsequently uses these images, among other things,
+
+to infer material properties of the objects contained
+in them. In this process, the visual system takes into
+account the effects of ancillary shape and illumination
+properties (Barron & Malik, 2015).
+
+Previous studies on the perception of opaque objects
+have demonstrated that the shape of an object can affect
+its perceived material properties (Todd & Mingolla,
+1983; Vangorp et al., 2007; Ho et al., 2008; Wijntjes &
+Pont, 2010; Kim et al., 2012; Marlow & Anderson, 2013,
+2015). By varying the surface geometry, it is possible to
+influence how glossy an object is perceived by human
+observers to a significant extent. For example, Kim
+et al. (2016) show that perceived 3D shape plays a
+decisive role in perception of surface glow. Specifically,
+by manipulating cues to 3D shape while holding other
+image features constant, the perception of glow can be
+toggled on and off.
+
+Conversely, the perception of 3D shape is affected
+by a surface’s optical (i.e., reflectance) properties. For
+example, it has been shown that the same surface can
+be perceived to have different 3D geometry when its
+reflectance becomes more or less specular (Doerschner
+et al., 2013; Adams & Elder, 2014; Sawayama &
+Nishida, 2018). This coupling between the perception
+of 3D shape and surface reflectance properties has
+also been demonstrated in objects with nonspecular
+reflectance (Todd et al., 2014). To mention one example,
+human observers perceive velvet materials as flatter
+than matte-painted materials of the same shape
+(Wijntjes et al., 2012). Illumination also enters into this
+interplay; previous findings show that changes in the
+lighting of an object can strongly affect its perceived
+shape (Norman et al., 2004; Mooney et al., 2019) and
+reflectance (Olkkonen & Brainard, 2011; Marlow et al.,
+2012).
+
+Similar to human perception of opaque objects, it
+has been shown that humans also use a variety of image
+cues to detect subtle differences between translucent
+objects, as well as to make qualitative inferences about
+their optical parameters (Fleming et al., 2004; Fleming
+& Bülthoff, 2005; Motoyoshi, 2010; Anderson, 2011;
+Nagai et al., 2013; Gkioulekas et al., 2013). These
+findings suggest that the perception of translucency is
+influenced by surface reflectance (gloss versus matte)
+(Motoyoshi, 2010), illumination conditions (smooth
+versus harsh) (Xiao et al., 2014), as well as surface
+geometry (Chowdhury et al., 2017; Marlow et al., 2017).
+Additionally, it has been suggested that the coupling
+between the perception of shape and material properties
+is more complicated for translucent objects than for
+opaque ones (Anderson, 2011). From the perspective
+of physics, it has been shown that estimating 3D shape
+from translucent objects is challenging (Koenderink &
+Doorn, 2001; Inoshita et al., 2012) and a recent study
+found that recovered surface normals of shallow relief
+objects are smoother than opaque objects with the
+same 3D shape, suggesting volumetric scattering has
+a blurring effect on photometric normals (Moore &
+
+Journal of Vision (2020) 20(7):10, 1–17
+
+Xiao et al.
+
+3
+
+Figure 1. (A) Photograph of a translucent soap bar with surface relief. Previous work indicates that the sharp edges of translucent
+objects provide rich physical information about their material properties. Our ﬁndings indicate that sharp edges are also an important
+cue for how these material properties are perceived by humans. (B) Inspired by this photograph, we render synthetic translucent
+images with a similar relief geometry, and use images similar to these shown here as stimuli for psychophysical experiments.
+
+Peers, 2013). This finding partially inspired our work to
+study whether a similar interaction between 3D shape
+and scattering parameters also exists in perception.
+In recent work, Chowdhury et al. (2017) used
+
+rendered stimuli that were either opaque or translucent
+to study the effects of translucent material properties
+on the perception of 3D shape. In this paper, we study
+how 3D shape affects the perception of translucency
+by systematically varying the geometric sharpness
+and optical density of relief objects. Thus, instead of
+being opaque or translucent, our stimuli vary in the
+degree of translucency. Our focus on sharp geometric
+features is motivated by prior research on the physics
+of light scattering, which shows that imaging systems
+can only accurately measure scattering parameters
+in the presence of such features (Zhao et al., 2014);
+and that intensity profiles across geometric edges of
+translucent objects provide rich information about
+the object’s scattering material (Gkioulekas et al.,
+2015). Specifically, we design a matching experiment to
+measure the correlation between geometric sharpness
+and perceived material translucency. By analyzing
+the data collected through this experiment, we
+demonstrate that geometric sharpness indeed affects
+the perception of translucency for objects with lower
+reliefs. Specifically, smoother geometry usually leads
+to higher levels of perceived translucency. Stated
+differently, when shown two objects with identical
+optical properties, humans tend to perceive the one with
+smoother geometric structures as more translucent.
+
+General methods
+
+Stimuli
+
+We generate our visual stimuli using 3D models
+
+representing a cube with the characters “target”
+or “match” raised above the top surface. In our
+
+experiments, we focus on the effect of the geometry of
+the relief (instead of the cube edges and corners) and
+only show the top surface. Figure 7 shows examples of
+the resulting rendered images.
+
+The stimuli are rendered using physically accurate
+
+simulation of subsurface scattering, implemented
+by the Mitsuba renderer (Jakob, 2013). In the
+following, we provide details about the geometric,
+illumination, and material models we use for stimuli
+generation.
+
+Geometry. Figure 3 illustrates the 3D geometry of
+
+our rendered objects. In our asymmetric matching
+experiment, we render different letters for the surface
+relief for match and target. Besides using different
+letters, the base (top) surfaces are also slightly different.
+Here, we use “target” stimuli as examples to illustrate
+the image examples. The object is modeled as a cube
+that sits on a flat surface (see Figure 4). We use
+two-dimensional height fields, applied at the top surface
+of the cube (size 128 mm × 96 mm × 30 mm), to
+control the shape of our relief models. The height fields
+were represented as z(x,y), and by applying low-pass
+(e.g., Gaussian) filtering to the height field, we can
+easily manipulate the object’s geometric sharpness.
+The relief heights range from 0.5 mm to 2.5 mm. The
+kernel standard deviation is ranged from 0.08 mm to
+0.56 mm. We use two types of relief as our stimuli in
+Experiment 1 and Experiment 2. The positive relief has
+the pattern raised above the top ground surface and the
+negative relief has the pattern sunken into the ground
+surface (see Figures 6 and 10 for examples).
+
+Material. We used the radiative transfer framework
+
+(Chandrasekhar, 1960) to describe the scattering of
+light inside translucent objects. Radiative transfer is
+widely used in applied physics, biomedicine, remote
+sensing, and computer graphics. Under this framework,
+the optical properties of a homogeneous translucent
+material are described using three parameters (see
+Figure 2):
+
+Journal of Vision (2020) 20(7):10, 1–17
+
+Xiao et al.
+
+4
+
+Figure 2. Illustration of the physics of subsurface scattering using the radiative transfer framework. (Left): Translucent appearance is
+caused by light scattering inside the volume of an object, which can be described by the radiative transfer framework (Chandrasekhar,
+1960). (Right): A closer look of subsurface scattering. Between scattering events, light travels for distances determined by the object’s
+extinction coeﬃcient. At each scattering event, light is either absorbed or scattered toward diﬀerent directions, depending on the
+object’s volumetric albedo. Finally, when light is scattered, the phase function describes the angular distribution of each new
+direction of travel.
+
+Figure 3. Illustration of the 3D geometry of the rendered objects. (A) Dimensions of the object. (B). 3D model of TARGET object. (C).
+Height maps of the surface relief. Diﬀerent colors represent diﬀerent height (z axis) at each pixel locations.
+
+• Optical density is a measure of physical
+
+translucency. Also known as the extinction or total
+attenuation coefficient, it specifies how frequently
+light scatters within a material. An optical density
+of X mm−1 means light on average travels (in
+straight lines) for 1/X mm before being scattered
+by the medium. Thus, 1/X is usually termed as
+the “mean free path.” A higher density, or a lower
+mean free path, means more frequent scattering of
+
+light. Optically thin materials (i.e., those with low
+optical densities) are semi transparent. Optically
+thick materials, on the other hand, can appear
+mostly opaque, because as light cannot travel
+very far inside the material owing to very strong
+attenuation.
+
+• Volumetric albedo determines how much light is
+
+absorbed and how much light is scattered to other
+directions, every time a scattering event takes place.
+
+Journal of Vision (2020) 20(7):10, 1–17
+
+Xiao et al.
+
+5
+
+Figure 4. (A) The “Ennis” environment map used to generate our stimuli. (B) Example renderings of the stimuli object under two
+lighting conditions. In the “side-lighting” condition, the tall ﬂoor window is to the right of the object. But there are also light sources
+(smaller windows) on the left. In the “top lighting” condition, the light is from above the line of sight and the same tall ﬂoor window
+that provides most direct lighting is behind the object. The viewing direction is toward the ﬂoor (of the Ennis room), that is, as if the
+object is placed on the ground. The camera views of the example renderings are for illustration purpose ONLY and are slightly
+DIFFERENT from what we used in the paper.
+
+• The phase function determines how scattered light
+
+Sampling of model parameters
+
+is distributed to different directions when scattering
+events take place.
+
+Lighting. To provide natural illumination, we
+used environmental lighting for our renderings.
+Specifically, we used the publicly available “Ennis”
+lighting environment (see Figure 4) that captures the
+illumination of the dining room of the Ennis-Brown
+house in Los Angeles, California (Debevec, 1998).
+Because this lighting condition is highly directional
+owing to the bright glass door, we rotated it to create
+both top lighting and side lighting. The right panels
+in Figure 4 illustrated the two lighting conditions we
+used in the experiments with two example renderings.
+In the side lighting condition, the tall glass door is at
+the right side of the object while in the top-lighting
+condition, the tall glass window is behind the object.
+Because the viewer would look at the object mostly
+from above, we call this lighting condition top lighting.
+One can tell the lighting direction by looking at the
+cast shadows. Our choice of environmental lighting is
+determined by the observation that materials rendered
+under natural lighting seem to be more realistic than
+materials rendered under directional lighting.
+
+To ensure that our matching experiments are
+asymmetric, we used different extruding characters
+(geometry) and lighting geometry to render the target
+and match objects. The lighting directions for both
+side and top lighting slightly differ from the target and
+match images (see Figure 5). Specifically, we rotated
+the environmental map slightly (15 °) in the scene
+depending on whether it is target or match to avoid
+exactly identical illumination conditions.
+
+We vary the geometric, material, and lighting
+properties of the stimuli (see example images in
+Figure 6).
+
+For geometry, we use reliefs with five heights (0.5,
+1.0, 1.5, 2.0, and 2.5 mm), where smaller values indicate
+lower reliefs. For each height, we apply Gaussian
+blurring to the underlying height fields using four kernel
+standard deviations (0.08, 0.2, 0.4, and 0.56 mm).
+Larger blurring kernels result in stimuli with lower
+geometric sharpness. The thickness of the rendered
+object is 30 mm.
+
+For material scattering parameters, we use 15 optical
+density values sampled logarithmically between 0.7 and
+3 ( mm−1). We fix volumetric albedo to 0.9 and the
+phase function to be uniform.
+
+Finally, we render the objects using both side and
+top environmental lighting. In total, our stimuli dataset
+consists of 4 (densities) × 5 (heights) × 4 (blurs) × 2
+(lightings) = 160 target images. For each target image,
+we also render 15 (densities) × 1 (height) × 1 (blur) ×
+1 (lighting) = 15 match images for a different but fixed
+blur level (with kernel size 0.24 mm). In total, we render
+2400 images. The rendering, lighting, and experimental
+procedure for Experiment 2 (negative relief) is the same
+as detailed, except for the geometry of the stimuli.
+
+Procedure
+
+We use the asymmetric matching method to
+obtain psychophysical measures of the perceived
+translucency (Brainard & Wandell, 1992). Previously,
+
+Journal of Vision (2020) 20(7):10, 1–17
+
+Xiao et al.
+
+6
+
+Figure 5. (A) Top-view illustration of our virtual setup for rendering the stimuli. The light pink and yellow rectangles represent the light
+source. (B) To make sure our experiment is asymmetric, we used diﬀerent relief letter and a slightly diﬀerent lighting to illuminate
+target and match images. Examples of target and match relief images used in Experiment 1 for relief height = 0.5 mm and blur level
+of 0.2 mm.
+
+Figure 6. Experiment stimuli. We manipulate the 3D shape of our stimuli by adjusting the extrusion height and geometric sharpness.
+For each shape, we render the object with varying optical densities and illumination conditions. (A) Stimuli under a side-lighting
+condition. Within each panel, from left to right, we applied increasing Gaussian blur to the height ﬁelds and from top to bottom, the
+object has increasing optical density. Left panels: relief height = 0.5 mm; Right panels: relief height = 1.5 mm. (B) The same as (A) but
+under top lighting condition. Here, we only show target images as examples.
+
+Journal of Vision (2020) 20(7):10, 1–17
+
+Xiao et al.
+
+7
+
+Figure 7. Experimental user interface of the translucency matching experiment. Human observers are asked to use the slider to adjust
+the optical density of the right (match) object, until its perceived material properties matches the appearance of the left (target)
+object. The match image always have a ﬁxed blur level within each trial, which is diﬀerent from that of the target image.
+
+asymmetric matching was used to measure color
+constancy where subjects set asymmetric color matches
+between a standard object and a test object that were
+rendered under illuminants with different spectral
+power distributions. Besides color vision, asymmetric
+matching has also been used in material perception
+to understand the effect of surface gloss on color
+perception (Xiao & Brainard, 2008), the effect of
+illumination on perception of lightness and glossiness
+(Olkkonen & Brainard, 2010), the effect lighting
+direction on translucency (Xiao et al., 2014), the effect
+of distortion on transparency (Fleming et al., 2011),
+the effects of optical properties on perception of liquids
+(Assen & Fleming, 2016), and so on. It is an important
+method to measure how a particular factor affects
+material perception by preventing observers from
+performing low-level image matching.
+
+To this end, we create a browser-based experiment
+interface to collect the matching data (see Figure 7).
+The experimental interface is coded using Javascript.
+The interface display two images. The object shown
+in the left (target) image has a fixed optical density.
+The interface provides a slider that allows observers to
+change the optical density of the object shown in the
+right (match) image.
+
+Before the start of the experiment, observers are told
+
+that the images they would see were objects made of
+translucent materials, and they are shown some example
+stimuli images. As the experiment starts, observers are
+shown multiple pairs of images using the experiment
+interface. For each image pair, the specific instructions
+given to the observer are the following: “The reliefs in
+the images you will see in different trials are made with
+different materials. Your task is to match the perceived
+material properties of the soap in the right image to
+that in the left. To do so, you adjust the opacity of the
+object in the right image (match) to match the perceived
+
+translucency to the object on the left (target). Notice
+that from trial to trial, the lighting direction can change
+(either side-lit or top-lit).”
+
+Once they are satisfied with the match, the observers
+
+press the next button to confirm their response. After
+a response, the screen is blanked for 2 seconds, and
+subsequently a new image pair is shown. We call each
+such matching process a trial.
+
+At each trial, the match object and target object
+are rendered with the same extrusion heights and the
+general similar lighting directions (both side or top
+but slightly different; see the Lighting section). The
+target object has a specific density value and a specific
+amount of blur, whereas the match object always has a
+fixed blur level (with kernel sd of 0.24 mm), which is
+never the same as the target. In total, the experiment
+consists of 160 trials, divided into 4 blocks of 40 trials
+each. There is no time limit for finishing each trial, and
+observers can take a break between the blocks.
+
+In Experiment 2, we use the same procedure as
+described above for a different group of observers (see
+the section Observers).
+
+Display
+
+Observers performed the experiments in a dark room
+
+and the images were displayed on a 27-inch iMacPro
+monitor (Apple, Inc., Cupertino, CA; dynamic range:
+60:1; color profile: sRGB; maximum luminance: 340
+cd/m). The height of the image was 80 mm and the
+observers sat approximately 50 cm away from the
+monitor. The stimulus subtended 8.6 ° in visual angle.
+Our rendered “RAW” images are float-valued and
+contain radiometric quantities (i.e., radiance values).
+To properly display the RAW images, we convert
+them into the sRGB color space using the standard
+
+Journal of Vision (2020) 20(7):10, 1–17
+
+Xiao et al.
+
+8
+
+Figure 8. Asymmetric matching results and image demonstrations for Experiment 1 with relief height 1.0 mm: blurring (smoothing
+geometric details) cause the object to appear more translucent (less opaque). (A) The mean match density across observers versus
+the level of blur. Diﬀerent colors represent stimuli with diﬀerent optical densities. (B) Demonstrations of perceptually equivalent
+image pairs versus pairs that have the same physical densities. Higher values indicates more opaque appearance. (Top) observers
+perceive an object with higher density and smooth geometry (middle image, maroon dot) to be equally translucent to an object with
+lower density and sharp geometry (lower image, dark maroon dot). The top image (pink dot) shows the physical ground-truth image
+of the object with the same density as the image shown in the middle row (maroon dot). (Bottom) observers perceive a target object
+with lower density (middle image, green dot) with sharp geometry to be equivalent to an object with higher density with smooth
+geometry (lower image, dark green dot). The top image shows the physical ground-truth image of the object with the same density as
+the target (lime green dot).
+
+approach. This conversion is similar to applying IsRGB
+= IRaw
+(1/2.2), although they are not strictly identical. This
+conversion of color space (from linear RGB to sRGB)
+is the standard way to display rendered images (or
+measured RAW photos if that matters). Our monitors
+use the sRGB color gamut and are properly calibrated.
+This means that, when displaying a sRGB image, light
+physically emitted by our monitors will closely resemble
+the radiometric quantities recorded by the original
+simulated results.
+
+Experiment 1: Positive relief
+
+In Experiment 1, we measure the effects of
+
+geometric sharpness on perceived translucency with
+the aforementioned asymmetric matching procedure
+using positive relief objects. Throughout the conditions,
+we also vary the optical density, relief heights, lighting
+conditions.
+
+Observers
+
+Thirteen observers (eight women; a mean age, 22.0 ±
+2.5 years) participated in this experiment. All observers
+reported normal visual acuity and color vision. All
+
+observers participated for credit in an introductory
+psychology course. The procedures were conducted in
+accordance with the Declaration of Helsinki and were
+approved by the Human Research Ethics Advisory
+Panel at American University.
+
+Results and discussion
+
+Figure 8A demonstrates the mean match density
+across 13 observers versus blur levels for condition
+(height = 1.0 mm and lighting = “side-lit”), which is
+the same as the second panel on the top row in Figure 9.
+We make the following observations.
+
+We first note that observers can distinguish different
+optical densities when the target and the match have the
+same height and blur values. For these conditions, as
+the material optical density of the target increases, the
+matched density increases as well (e.g., the yellow line is
+well above the green line in Figure 8 A). This shows that
+observers perceive objects with higher optical density to
+be more opaque.
+
+On the other hand, as shown in Figure 8A, when
+the blur level increases, the observers’ matched density
+decreases for each fixed target density. Put another
+way, to match the translucent appearance of the target
+object with the higher blur level, observers need to
+decrease the density of the match object. Equivalently,
+
+Journal of Vision (2020) 20(7):10, 1–17
+
+Xiao et al.
+
+9
+
+Figure 9. Results from Experiment 1 (positive relief) for all relief heights and lightings. (A) Eﬀect of geometric smoothness (applying
+Gaussian blur to 2D height ﬁelds) on the matching results for all relief heights under side lighting. Each panel plots the level of blur
+versus average match density for a speciﬁc relief height value. Higher values on the y-axis represents more opaque materials and
+lower values represent more translucent materials. From the left panel to the right, the relief heights increase. Diﬀerent colors
+represents diﬀerent optical densities for the target as shown in the ﬁgure legend. (B) Same plots as shown in (A) but for top-lighting
+conditions. For both lighting conditions, for the relief heights not at the highest level (i.e., left four panels), as blur level increases the
+mean match density decreases, suggesting observers perceive geometrically smoothed relief objects to be more translucent. At the
+highest relief level for top lighting (right most panel, bottom row) the eﬀect is diminished (resulting in nearly ﬂat lines).
+
+this suggests that smoothing the height fields makes the
+object appear less dense optically (more translucent).
+To visually demonstrate this result, Figure 8B shows
+representative triplets of images, where the image of
+the target object is compared with the image of the
+perceptual match, as well as the image of the object
+that has the same ground-truth density as the target.
+The top panel of Figure 8B shows the effect of blur
+on translucent appearance of selected images. The
+middle image of the top panel is a cross-section of a
+blurred object which corresponds with the maroon dot
+on the data plot in Figure 8A. The bottom image of the
+panel shows the image rendered with mean matched
+density across observers (dark maroon). Even though
+the perceptually matched object in this image has
+lower density and sharper features (lower blur level)
+than the target (red dot on data plot in Figure 8A),
+
+observers perceive them to be similar in translucency.
+In contrast, the top image shows the object rendered
+with the same physical density as the target but with a
+lower blur level (pink dot on the data plot). Observers
+perceive this image to be more opaque than the
+target.
+
+The bottom illustrates another example of the
+effect of blurring, where a translucent object with
+sharper features (middle, green dot) is perceived to be
+equivalent to a smoothed object (higher blur level) with
+higher density (bottom, dark green dot) in contrast
+with the object with the same physical density (top,
+lime dot). Together, this demonstrates that sharp
+geometries affect translucent appearance in such a way
+that a geometrically smoothed object appears more
+translucent than the sharp object that has the same
+optical density.
+
+Journal of Vision (2020) 20(7):10, 1–17
+
+Xiao et al.
+
+10
+
+We further examine results for all other experimental
+conditions. Figure 9 shows the average matching results
+for the relief objects for all five height conditions under
+both side (top) and top lighting (bottom) conditions.
+The format of Figure 9 is the same as Figure 8A, where
+the x-axis represents the level of blurring applied to
+the height fields and the y-axis represents the matched
+density. From left to right, the plots show results for
+conditions with increasing heights of the relief. The
+top in Figure 9 shows that geometric smoothness has
+a significant effect on perceived translucency, meaning
+that the mean matched density decreases as the blur
+increases. The prominence of this effect depends on
+the optical density. Blurring has a stronger effect for
+the high-density conditions (yellow, blue, and red lines)
+than for low-density (green lines). The same trend is
+observed for the top lighting conditions (Figure 9,
+bottom). Blur has a strong effect on low relief heights
+(left two plots) and the effect of blur on matched density
+is flattened for the higher relief values (right-most
+panel).
+
+We perform a three-way within-subject analysis of
+variance on the difference between matched density and
+the target density with blur level, relief extrusion height
+and the lighting direction as independent variables.
+To summarize, we find a significant effect of blur on
+perceived translucency considering all the conditions
+such that, as blur increases, observers perceive the target
+objects to be more translucent. We also find significant
+main effects of relief heights and lighting on perceived
+translucency.
+
+The results are as follows.
+
+• Blur level has a significant main effect, F(3, 2000)
+= 67.985, p < 0.001,1 such that as the amount of
+blurring increases, the value of dmatch − ddensity
+decreases. The value is negative and its magnitude
+||dmatch − ddensity|| becomes larger, indicating that
+blur has a stronger effect for targets with higher
+densities.
+
+• Relief height has a significant main effect, F(4,
+
+2000) = 5.497, p < 0.001, such that larger values of
+relief height make the objects be perceived as less
+translucent (higher values of dmatch − ddensity). There
+is no significant interaction between blur level and
+relief height, F(12, 2000) = 1.701, p = 0.0605.
+• Lighting direction also has a significant main
+
+effect, F(1, 2000) = 22.788, p < 0.001. There is no
+significant interaction between lighting and blur
+level, F(3, 2000) = 1.122, p = 0.095.
+
+Experiment 2: Negative relief
+
+The relief of objects in the real world (e.g., bas-relief
+
+sculptures or soaps) can be extruded positively or
+
+negatively. To discover whether the effect of 3D shape
+on perceived translucency we observed in Experiment 1
+can be generalized to other shapes, we render a set of
+similar stimuli with negatively extruded geometries and
+measure the effects of geometric sharpness on perceived
+translucency.
+
+Observers
+
+Another 11 observers (eight women; mean age, 25.0
+± 3.5 years) participated in the experiment where we
+used negatively extruded objects (Experiment 2). All
+the other aspects of the procedure and methods are the
+same as Experiment 1.
+
+Results and discussion
+
+Figure 10 shows example stimuli with negative
+relief under two lighting conditions (side lighting,
+top lighting) and two relief heights (height = 0.5, 1.5
+mm). Within each panel, the stimuli have increasing
+optical densities from the top to bottom rows (dtarget
+= 1.11, 2.25(1/mm)) and the blur level is increased
+from left to right (blur = 0.08, 0.56 mm). All the other
+rendering parameters are identical to the stimuli used in
+Experiment 1.
+
+Figure 11 shows an example of the matching results
+
+for Experiment 2 with negative relief (height = 0.5
+mm, lighting = top), which is the same figure in second
+column of the lower row in Figure 12. Similar to
+Figure 8, Figure 11 plots the matched densities against
+different levels of blur for each relief height level under
+top lighting. We show image examples of how blur
+affects perceived translucency, where the image of
+the target object is compared with the image of the
+perceptual match, as well as the image of the object that
+has the same ground-truth density as the target.
+
+The top of Figure 11B shows the effect of blur on
+
+translucent appearance of the selected images. The
+middle image of the top is a cross-section of a blurred
+object which corresponds to the maroon dot on the data
+plot in Figure 11A. The bottom image shows the image
+rendered with mean matched density across observers
+(dark maroon dot). Even though the perceptually
+matched object in this image has lower density and
+sharper features (lower blur level) than the target (red
+dot on the data plot in Figure 11A), observers perceive
+them to be similar. In contrast, the top image shows
+the object rendered with the same physical density as
+the target but with a lower blur level (pink dot on the
+data plot). Observers perceive this image to be more
+opaque than the target. This experiment illustrates that
+geometrically blurring the object results in the observer
+perceiving the object to be more translucent.
+
+Journal of Vision (2020) 20(7):10, 1–17
+
+Xiao et al.
+
+11
+
+Figure 10. The conditions used in Experiment 2 are the same as in Experiment 1, except that the shape of the objects is diﬀerent
+(negative relief). (A) Stimuli under side-lighting condition. Within each panel, from left to right, we applied increasing Gaussian blur to
+the height ﬁelds and from top to bottom, the object has increasing optical density. (Left): relief height = 0.5 mm. (Right): relief height
+= 1.5 mm. (B) The same as (A), but under top lighting.
+
+Figure 11. Results from Experiment 2 (negative relief) for all relief heights (depths) and lightings. (A) Mean match density versus levels
+of blur. (B) Demos of perceptually equivalent image pairs versus pairs that have the same physical densities. (Top) On average,
+observers perceive a target object with higher density (middle, maroon dot) with smooth geometry to be equivalent to an object with
+lower density but sharp geometry (bottom, darker maroon dot). The top image shows the physical ground-truth of the image of the
+object with the same density as the target, but with a lower blur level (pink). (Bottom) On average, observers perceive a target object
+with lower density (middle, green dot) with sharp geometry to be equivalent to an object with higher density but smooth geometry
+(bottom, dark green dot). The top image shows the physical ground-truth of the image of the object with the same density as the
+target (lime dot).
+
+Journal of Vision (2020) 20(7):10, 1–17
+
+Xiao et al.
+
+12
+
+Figure 12. Results from the negative relief experiments. The eﬀect of blurring on the match results for all relief heights and two
+lighting directions. (A) Data from the side lighting conditions. (B) Data from the top lighting conditions. Similar to the results from
+Experiment 1, as geometric blur increased for the target, observers’s matched density decreased, suggesting blur aﬀect perceived
+translucency. Diﬀerent colors represent diﬀerent ground-truth densities for the target object.
+
+Similar to Experiment 1, the bottom triplets of
+images Figure 11 demonstrated how an object with
+sharp features (middle row, green dot) could be
+perceived to be more opaque, which is equivalent to the
+stimuli with higher density (bottom, dark green dot)
+than a blurred object that has the same ground-truth
+density (top, lime dot).
+
+Figure 12 shows the mean matched density across
+observers for negative relief for all of the conditions.
+From left to right, the panels show data plots for
+stimuli with increased relief heights (i.e., deeper relief
+depths). The two rows show data from the two lighting
+conditions.
+
+As in Experiment 1, we find that blur has a significant
+effect on matched density on nearly all height conditions
+and both lighting conditions. In particular, observers
+perceive the blurred object to be more translucent
+than the unblurred object with the same density.
+Additionally, and again similar to Experiment 1, blur
+has a stronger effect for the high density conditions
+(yellow and red lines) than the low density conditions
+(dark blue and green lines).
+
+Similar to Experiment 1, we perform a three-way
+within-subjects analysis of variance on the difference
+between matched density and the target density with
+blur level, relief height, and lighting direction as
+independent variables. The results are as follows:
+
+• Similar to Experiment 1, blur level has a significant
+main effect, F(3, 1520) = 28.883, p < 0.001, such
+that, as the amount of blur increases, the value of
+dmatch − dtarget decreases.
+
+• Also similar to Experiment 1, relief height also
+
+has a significant main effect, F(4, 1520) = 7.149,
+p < 0.001, such that higher relief heights make the
+object appear less translucent (i.e., higher values of
+dmatch − dtarget). There is no significant interaction
+between blur level and relief height, F(12, 1520) =
+0.926, p = 0.5199.
+
+• Again similar to Experiment 1, lighting direction
+
+does not have a significant main effect, F(1, 1520) =
+45.103, p < 0.001. There is no significant interaction
+between lighting and blur level, F(3, 1520) = 0.457,
+p = 0.7125.
+
+Journal of Vision (2020) 20(7):10, 1–17
+
+Xiao et al.
+
+13
+
+Discussion
+
+Our results indicate that the perception of
+
+translucency depends not only on an object’s optical
+parameters (e.g., scattering parameters used in
+rendering), but also on their 3D shapes. We use an
+asymmetric task where observers adjusted optical
+density of a match object to match the material
+properties of a target. In Experiment 1 (with positive
+relief), we find that observers tend to perceive
+geometrically smoothed objects as more translucent
+than those with sharper geometries. This effect is
+significant across most relief heights and under both
+side and top lighting conditions except the highest relief
+under top lighting. In Experiment 2 (with negative
+relief), we find similar effects of 3D geometry on
+translucency across all conditions. In the following, we
+discuss whether image contrast can be used to predict
+the same results.
+
+What is the relationship between image
+contrast, geometric sharpness, and perceived
+translucency?
+
+Previous work found that the human visual system
+might use image contrast as an image variable to initiate
+percepts of transparency and to assign transmittance
+to transparent surfaces (Singh & Anderson, 2002). A
+further study with more realistic images shows reducing
+contrast of the background decreases the perceived
+transparency of the overlaying filter (Robilotto & Zaidi,
+2004) and studies on volumetric translucency also
+reveal significant effects of image contrast (Fleming
+& Bülthoff, 2005; Motoyoshi, 2010). Specifically, root
+mean square (RMS) contrast in high spatial frequency
+components in diffuse object images are suggested to be
+important for perceptual translucency in (Motoyoshi,
+2010). A more recent work suggests global contrast
+is not related to translucency perception (Nagai et
+al., 2013). Here, we examine the relationship between
+image contrast, geometric sharpness, and the perceived
+translucency using our stimuli. To compare with the
+perceptual results, we first compute the difference
+in Michelson contrast between the target and the
+candidate match images ((Imax − Imin)/(Imax + Imin))
+and use this metric to make predictions of densities in a
+similar way as that has been described above.
+
+Figure 13 plots the predicted density based on the
+difference in Michelson contrast between target and
+match images for all experimental conditions. First,
+image contrast could discriminate different optical
+densities as well as the perceptual data. Second, the
+effect of geometric smoothness resembles perceptual
+data for the shallow relief such that, as blur increases,
+the predicted density decreases (see left two columns
+
+in Figure 13. However, as the relief height increases,
+the effect of blur on predicted density is diminished
+if not reversed (see right two columns in Figure 13
+in bottom rows), whereas in the perceptual data,
+increasing geometric smoothness would cause the
+matched density to decrease across all reliefs (see
+Figure 9 and Figure 11). Hence, for the high relief
+conditions, the predictions from image contrast is
+opposite the perception data, suggesting observers are
+not using only image contrasts to judge translucent
+appearance.
+
+To further examine the interaction between
+image contrast and geometric smoothness, we also
+plotted both the Michelson and RMS contrasts
+of all target images in the supplementary materials
+(Supplementary Figure 1S and Supplementary Figure
+2S). First, consistent with previous findings, both image
+contrast measurements correlate strongly with optical
+densities such that increasing density will result in
+increased contrast, suggesting that image contrast is an
+important cue for perceived translucency. However, the
+relationship between contrast and geometric sharpness
+is a bit more complicated. For images with low relief,
+increasing geometric smoothness (blur) tends to slightly
+lower contrast. In contrast, for images with higher relief
+and especially higher densities, geometric smoothness
+tends to increase image contrast.
+
+The interaction between geometric sharpness (or
+
+smoothness) and image contrast can be seen from
+examples shown in Figure 6 and Figure 10. For
+lower-relief conditions (e.g., images in Figure 6, left),
+increasing geometric smoothness does not change much
+of the apparent image contrast. In fact, smoothing
+geometry might result in slightly reduced contrast owing
+to the dispersing of pixels with extreme intensities
+around the edge. For higher relief (Figure 6, bottom
+right), especially for higher densities, it is speculated
+that increasing geometric smoothness increases image
+contrast owing to the expansion of darker or brighter
+image regions around the edge. The smoothed edges
+of a high relief object will cast more shadows and
+becomes slightly more glossy and brighter than sharp
+edges (e.g., the leftmost letter “t” in Figure 6 [right]
+becomes brighter than the images on the left). Hence,
+images with rounder edges tend to have higher contrast
+than images with sharper edges when the relief is
+sufficiently high (such as 2.0 mm and 2.5 mm conditions
+corresponding to contrast values shown in yellow and
+lines in fourth and fifth columns in Supplementary
+Figures 1S and 2S ). These effects of smoothness on
+contrast could be even stronger for the images with
+negative reliefs as well (Figure 10). Owing to this
+interaction between image contrast and relief heights,
+the predictions generated from image contrast cannot
+fully explain the effects we found in perception. Overall,
+this analysis suggests that even though image contrast
+could be useful for the appearance of translucency
+
+Journal of Vision (2020) 20(7):10, 1–17
+
+Xiao et al.
+
+14
+
+Figure 13. Prediction from image contrast: predicted matched densities by comparing Michelson Contrast (see main texts for details)
+between a target image and each of the candidate match images for all conditions in Experiments 1 and 2. (A) Predictions computed
+from images of positive relief under side lighting. From left to right, the images have increasing relief heights. (B) Predictions
+computed from images of positive relief under top lighting. (C) Same for negative relief under side lighting. (D) Same for negative
+relief under top lighting. The meaning of the symbols, legends, range of the X and Y axis are the same as those in Figure 9.
+
+Journal of Vision (2020) 20(7):10, 1–17
+
+Xiao et al.
+
+15
+
+owing to changes in optical densities, it cannot explain
+the effects of geometric sharpness on translucency that
+we found in our perceptual data. Perhaps, future work
+should be investigated whether multiscale contrast
+could be a cue for translucency.
+
+Address: Department of Computer Science, American
+University, Washington, DC, USA.
+
+Footnote
+
+Conclusion
+
+1There are two parameters in a F test, for example, in F(3,2000), 3 means
+condition number, 2000 means sample number.
+
+We performed psychophysical experiments, using
+physically based rendering to synthesize visual stimuli,
+and asked observers to match the perceived level of
+translucency of stimuli showing objects of different 3D
+geometric sharpness. We discovered that the perceived
+translucency depends not only on the material scattering
+parameters, but also on the objects’ 3D geometries.
+Observers tend to perceive geometrically smooth objects
+to be more translucent than geometrically sharp objects,
+across different lighting direction and relief shape.
+Analysis of image contrasts of the images suggests
+that, even though image contrast could be a cue for
+estimating translucency for some shape conditions, it
+cannot fully predict our perceptual data. This finding
+suggests image contrast is not the only cue used by the
+visual system. Our results indicate that modifying the
+finely detailed 3D shapes of translucent objects could
+also alter their perceived appearance.
+
+The findings reported in this article have implications
+in designing perception-aware metrics for translucency
+and 3D fabrication. Translucent objects with the
+same material properties but different fine 3D shape
+might appear different. In contrast, it is also possible
+to fabricate objects with the same overall perceived
+appearance, by using different physical materials and
+carefully manipulating the objects’ fine 3D geometry.
+This suggests that, when fabricating objects with an
+objective to match a specific material appearance, their
+3D shape must also be considered.
+
+Keywords: material perception, translucency, 3D
+
+shape, volumetric scattering
+
+Acknowledgments
+
+Supported by NSF Grants CHS-1930755 and
+
+CHS-1900783 to KB from National Science Foundation
+and grants from American University to BX. We thank
+the American University High Performance Computing
+Facility (Zorro) for image renderings. We thank Pascal
+Barla and Shaiyan Keshvari for helpful comments on a
+draft version of the manuscript.
+
+Commercial relationships: none.
+Corresponding author: Bei Xiao.
+Email: bxiao@american.edu.
+
+References
+
+Adams, W. J., & Elder, J. H. (2014). Effects of specular
+highlights on perceived surface convexity. PLoS
+Computational Biology, 10(5), e1003576.
+
+Anderson, B. L. (2011). Visual perception of materials
+and surfaces. Current Biology, 21(24), R978–R983.
+van Assen, J. J. R., & Fleming, R. W. (2016). Influence
+of optical material properties on the perception of
+liquids. Journal of Vision, 16(15), 12–12.
+
+Barron, J. T., & Malik, J. (2015). Shape, illumination,
+and reflectance from shading. IEEE Transactions
+on Pattern Analysis and Machine Intelligence, 37(8),
+1670–1687.
+
+Brainard, D. H., & Wandell, B. A. (1992). Asymmetric
+color matching: How color appearance depends on
+the illuminant. JOSA A, 9(9), 1433–1448.
+
+Chandrasekhar, S. (1960). Radiative transfer. North
+
+Chelmsford, MA: Courier Corporation.
+
+Chowdhury, N. S., Marlow, P. J., & Kim, J. (2017).
+
+Translucency and the perception of shape. Journal
+of Vision, 17(3), 17–17.
+
+Debevec, P. (1998). Rendering synthetic objects into
+real scenes: Bridging traditional and image-based
+graphics with global illumination and high dynamic
+range photography. Proceedings of the 25th annual
+conference on computer graphics and interactive
+techniques (pp. 189–198).
+
+Doerschner, K., Yilmaz, O., Kucukoglu, G., & Fleming,
+
+R. W. (2013). Effects of surface reflectance and 3d
+shape on perceived rotation axis. Journal of Vision,
+13(11), 8–8.
+
+Donner, C., & Jensen, H. W. (2008). Rendering
+
+translucent materials using photon diffusion. Acm
+siggraph 2008 classes (p. 4).
+
+Fleming, R. W., & Bülthoff, H. H. (2005). Low-level
+image cues in the perception of translucent
+materials. ACM Transactions on Applied Perception
+(TAP), 2(3), 346–382.
+
+Fleming, R. W., Jäkel, F., & Maloney, L. T. (2011).
+
+Visual perception of thick transparent materials.
+Psychological Science, 22(6), 812–820.
+
+Journal of Vision (2020) 20(7):10, 1–17
+
+Xiao et al.
+
+16
+
+Fleming, R. W., Jensen, H. W., & Bülthoff, H. H. (2004).
+Perceiving translucent materials. Proceedings of the
+1st symposium on applied perception in graphics and
+visualization (pp. 127–134).
+
+Marlow, P. J., Kim, J., & Anderson, B. L. (2017).
+
+Perception and misperception of surface opacity.
+Proceedings of the National Academy of Sciences,
+114(52), 13840–13845.
+
+Gkioulekas, I., Walter, B., Adelson, E. H., Bala,
+
+Mooney, S. W., Marlow, P. J., & Anderson, B. L. (2019).
+
+K., & Zickler, T. (2015). On the appearance of
+translucent edges. Proceedings of the ieee conference
+on computer vision and pattern recognition (pp.
+5528–5536). IEEE.
+
+Gkioulekas, I., Xiao, B., Zhao, S., Adelson, E. H.,
+
+Zickler, T., & Bala, K. (2013). Understanding the
+role of phase function in translucent appearance.
+ACM Transactions on Graphics (TOG), 32(5), 147.
+
+Ho, Y.-X., Landy, M. S., & Maloney, L. T. (2008).
+
+Conjoint measurement of gloss and surface texture.
+Psychological Science, 19(2), 196–204.
+
+Inoshita, C., Mukaigawa, Y., Matsushita, Y., &
+
+Yagi, Y. (2012). Shape from single scattering for
+translucent objects. In Computer Vision-eccv 2012
+(pp. 371–384). New York: Springer.
+
+Ishimaru, A. (1991). Wave propagation and scattering
+in random media and rough surfaces. Proceedings
+of the IEEE, 79(10), 1359–1366.
+
+Jakob, W. (2010). Mitsuba renderer, 2010.
+http://www.mitsuba-renderer.org.
+
+Jensen, H. W., Marschner, S. R., Levoy, M., &
+Hanrahan, P. (2001). A practical model for
+subsurface light transport. Proceedings of the
+28th annual conference on computer graphics and
+interactive techniques (pp. 511–518). NewYork,
+NY, United States: Association for Computing
+Machinery (ACM).
+
+Kim, J., Marlow, P. J., & Anderson, B. L. (2012). The
+dark side of gloss. Nature Neuroscience, 15(11),
+1590.
+
+Kim, M., Wilcox, L. M., & Murray, R. F. (2016).
+
+Perceived three-dimensional shape toggles perceived
+glow. Current Biology, 26(9), R350–R351.
+
+Koenderink, J. J., & van Doorn, A. J. (2001). Shading
+
+in the case of translucent objects. In: Human vision
+and electronic imaging vi (Vol. 4299, pp. 312–320).
+SPIE, Bellingham, Washington USA: International
+Society for Optics and Photonics.
+
+Marlow, P. J., & Anderson, B. L. (2013). Generative
+constraints on image cues for perceived gloss.
+Journal of Vision, 13(14), 2–2.
+
+Marlow, P. J., & Anderson, B. L. (2015). Material
+
+properties derived from three-dimensional shape
+representations. Vision Research, 115, 199–208.
+
+Marlow, P. J., Kim, J., & Anderson, B. L. (2012).
+The perception and misperception of specular
+surface reflectance. Current Biology, 22(20), 1909–
+1913.
+
+The perception and misperception of optical
+defocus, shading, and shape. eLife, 8, e48214,
+doi:10.7554/eLife.48214.
+
+Moore, K. D., & Peers, P. (2013). An empirical study on
+the effects of translucency on photometric stereo.
+Visual Computer, 29(6-8), 817–824.
+
+Motoyoshi, I. (2010). Highlight-shading relationship
+as a cue for the perception of translucent and
+transparent materials. Journal of Vision, 10(9),
+6–6.
+
+Nagai, T., Ono, Y., Tani, Y., Koida, K., Kitazaki, M.,
+& Nakauchi, S. (2013). Image regions contributing
+to perceptual translucency: A psychophysical
+reverse-correlation study. i-Perception, 4(6),
+407–428.
+
+Norman, J. F., Todd, J. T., & Orban, G. A. (2004).
+Perception of three-dimensional shape from
+specular highlights, deformations of shading, and
+other types of visual information. Psychological
+Science, 15(8), 565–570.
+
+Olkkonen, M., & Brainard, D. H. (2010). Perceived
+
+glossiness and lightness under real-world
+illumination. Journal of Vision, 10(9), 5–5.
+
+Olkkonen, M., & Brainard, D. H. (2011). Joint effects
+of illumination geometry and object shape in the
+perception of surface reflectance. i-Perception, 2(9),
+1014–1034.
+
+Robilotto, R., & Zaidi, Q. (2004). Perceived
+
+transparency of neutral density filters across
+dissimilar backgrounds. Journal of Vision, 4(3), 5–5.
+
+Sawayama, M., Dobashi, Y., Okabe, M., Hosokawa,
+K., Koumura, T., Saarela, T., Olkkonen, M., . . .
+Nishida, S. (2019). Visual discrimination of optical
+material properties: a large-scale study. BioRxiv,
+800870.
+
+Sawayama, M., & Nishida, S. (2018). Material and
+
+shape perception based on two types of intensity
+gradient information. PLoS Computational Biology,
+14(4), e1006061.
+
+Singh, M., & Anderson, B. L. (2002). Toward a
+
+perceptual theory of transparency. Psychological
+Review, 109(3), 492.
+
+Todd, J. T., Egan, E. J., & Phillips, F. (2014). Is the
+perception of 3d shape from shading based on
+assumed reflectance and illumination? i-Perception,
+5(6), 497–514.
+
+Todd, J. T., & Mingolla, E. (1983). Perception of
+
+surface curvature and direction of illumination
+
+Journal of Vision (2020) 20(7):10, 1–17
+
+Xiao et al.
+
+17
+
+from patterns of shading. Journal of Experimental
+Psychology: Human Perception and Performance,
+9(4), 583.
+
+Vangorp, P., Laurijssen, J., & Dutré, P. (2007). The
+influence of shape on the perception of material
+reflectance. ACM transactions on graphics (tog)
+(Vol. 26, p. 77). ACM.
+
+Wijntjes, M.W., Doerschner, K., Kucukoglu, G., &
+Pont, S. C. (2012). Relative flattening between
+velvet and matte 3d shapes: Evidence for similar
+shape-from-shading computations. Journal of
+Vision, 12(1), 2–2.
+
+Wijntjes, M. W., & Pont, S. C. (2010). Illusory gloss on
+lambertian surfaces. Journal of Vision, 10(9), 13–13.
+
+Xiao, B., & Brainard, D. H. (2008). Surface gloss and
+
+color perception of 3d objects. Visual Neuroscience,
+25(3), 371–385.
+
+Xiao, B., Walter, B., Gkioulekas, I., Zickler, T., Adelson,
+E., & Bala, K. (2014). Looking against the light:
+How perception of translucency depends on
+lighting direction. Journal of Vision, 14(3), 17–17.
+
+Zhao, S., Ramamoorthi, R., & Bala, K. (2014).
+
+High-order similarity relations in radiative transfer.
+ACM Transactions on Graphics (TOG), 33(4), 1–12.
+
+

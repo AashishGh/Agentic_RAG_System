@@ -1,0 +1,1489 @@
+FEMS Microbiology Reviews, 39, 2015, 234–245
+
+doi: 10.1093/femsre/fuu008
+Review Article
+
+R E V I E W A R T I C L E
+
+Viscoelasticity of biofilms and their recalcitrance
+to mechanical and chemical challenges
+
+Brandon W. Peterson1, Yan He1,2, Yijin Ren2, Aidan Zerdoum3,
+Matthew R. Libera3, Prashant K. Sharma1, Arie-Jan van Winkelhoff4,5,
+Danielle Neut1, Paul Stoodley6,7, Henny C. van der Mei1,∗
+and Henk J. Busscher1
+
+1University of Groningen and University Medical Center Groningen, Department of Biomedical Engineering,
+Antonius Deusinglaan 1, 9713 AV Groningen, The Netherlands, 2University of Groningen and University
+Medical Center Groningen, Department of Orthodontics, Hanzeplein 1, 9700 RB Groningen, The Netherlands,
+3Department of Chemical Engineering and Materials Science, Stevens Institute of Technology, Hoboken, NJ
+07030, Hoboken, New Jersey, USA, 4University of Groningen and University Medical Center Groningen, Center
+for Dentistry and Oral Hygiene, Anatonius Deusinglaan 1, 9713 AV Groningen, The Netherlands, 5University of
+Groningen and University Medical Center Groningen, Department of Medical Microbiology, Hanzeplein 1,
+9700 RB, Groningen, The Netherlands, 6Departments of Microbial Infection and Immunity and Orthopedics,
+Center for Microbial Interface Biology, The Ohio State University, 460 West 12th Avenue, Columbus, OH 43210,
+USA and 7National Centre for Advanced Tribology at Southampton (nCATS), Engineering Sciences,
+University of Southampton, SO17 1BJ, UK
+
+∗
+
+Corresponding author: Department of Biomedical Engineering - FB40, University Medical center Groningen, Antonius Deusinglaan 1 9713 AV
+Groningen, The Netherlands. Tel: +31-50-3633140; Fax: +31-50-3633159; Email: h.c.van.der.mei@umcg.nl
+One sentence summary: Recalcitrance of biofilms against mechanical and chemical challenges has been looked at for ages from a microbiological
+perspective, but an approach based on viscoelastic properties of biofilms yields new insights in this recalcitrance.
+Editor: Staffan Kjelleberg
+
+ABSTRACT
+
+We summarize different studies describing mechanisms through which bacteria in a biofilm mode of growth resist
+mechanical and chemical challenges. Acknowledging previous microscopic work describing voids and channels in biofilms
+that govern a biofilms response to such challenges, we advocate a more quantitative approach that builds on the relation
+between structure and composition of materials with their viscoelastic properties. Biofilms possess features of both
+viscoelastic solids and liquids, like skin or blood, and stress relaxation of biofilms has been found to be a corollary of their
+structure and composition, including the EPS matrix and bacterial interactions. Review of the literature on viscoelastic
+properties of biofilms in ancient and modern environments as well as of infectious biofilms reveals that the viscoelastic
+properties of a biofilm relate with antimicrobial penetration in a biofilm. In addition, also the removal of biofilm from
+
+Received: 15 August 2014; Accepted: 17 December 2014
+C(cid:3) FEMS 2015. This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License
+(http://creativecommons.org/licenses/by-nc/4.0/), which permits non-commercial re-use, distribution, and reproduction in any medium,
+provided the original work is properly cited. For commercial re-use, please contact journals.permissions@oup.com
+
+234
+
+surfaces appears governed by the viscoelasticity of a biofilm. Herewith, it is established that the viscoelasticity of biofilms,
+as a corollary of structure and composition, performs a role in their protection against mechanical and chemical
+challenges. Pathways are discussed to make biofilms more susceptible to antimicrobials by intervening with their
+viscoelasticity, as a quantifiable expression of their structure and composition.
+
+Keywords: biofilm; structure; extracellular polymeric substances (EPS); antimicrobial penetration; detachment;
+viscoelasticity
+
+Peterson et al.
+
+235
+
+INTRODUCTION
+
+Biofilms appear in many environmental settings and industrial
+processes where they can appear either beneficial or detrimen-
+tal (Bos, Van der Mei and Busscher 1999). Biofilms are beneficial,
+for instance, to degrade environmentally hazardous substances
+in soil, but detrimental on food and slaughterhouse equipment.
+In many biotechnological processes, it is attempted to maintain
+biofilms in order to stimulate efficient degradation of chemicals.
+In the medical arena, it is currently estimated that over 60% of
+all human infections treated by physicians are due to biofilms
+(Fux, Costerton and Stewart 2005), examples being oral biofilms
+(‘dental plaque’) and biofilms involved in a variety of patho-
+logical conditions like for instance osteomyelitis, chronic otitis
+media, the infected diabetic foot, chronic bacterial prostatitis
+or in biomaterial-associated infections (Costerton, Stewart and
+Greenberg 1999; Busscher et al., 2012). Accordingly, research is fo-
+cused mostly on how to prevent and control formation of an in-
+fectious, pathogenic biofilm, and on how to keep the commensal
+microflora of the skin, urinary and intestinal tract or oral cavity
+intact and free of potential pathogens (Reid et al., 2011).
+
+In their biofilm mode of growth, bacteria adhering to
+a substratum surface and co-adhering with each other
+(Kolenbrander et al., 2010) embed themselves in a matrix
+of extracellular polymeric substances (EPS). This matrix not
+only yields bacterial phenotypes that can be different from their
+planktonic counterparts, but also offers physical protection
+against mechanical and chemical challenges (Flemming and
+Wingender 2010).
+
+Biofilms and mechanical challenges
+
+Biofilm formation starts with the adhesion of bacteria to a sub-
+stratum surface that can either be of biological or synthetic
+origin. This layer of initially adhering bacteria provides a link
+connecting other bacteria that either grow or adhere on top of
+it to the substratum surface (Bos, Van der Mei and Busscher
+1999). Biofilms can be mechanically challenged during growth,
+for instance by water pressure in marine environments, indus-
+trial pipelines or membrane filtration, in the oral cavity dur-
+ing fluid flow arising from powered toothbrushing and tongue
+movement, from pulsatile blood flow in intravascular catheters
+or from the movement of tissues, fluid and biomaterial com-
+ponents in an orthopedic joint prosthesis. When mechanical
+challenges occur (Fig. 1A) and detachment forces acting on a
+biofilm exceed the forces acting between different organisms
+in a biofilm, the biofilm is overloaded and failure occurs in
+the biofilm (‘cohesive failure’). Alternatively, when detachment
+forces operate exceeding the forces by which the initially ad-
+hering organisms connect with a substratum surface, the entire
+
+Figure 1. Key-properties of biofilms governing biofilm recalcitrance toward me-
+chanical and chemical challenges. (A) Structure and composition govern biofilm
+resistance to environmental detachment and deformation forces. Resistance to
+deformation can be a time-dependent process yielding relaxation to an original
+shape over time. (B) Structure and composition govern the resistance of biofilms
+against chemical challenge in combination with altered phenotypes that are in-
+trinsically more resistant to antimicrobials. (C) Composition and structure are
+jointly reflected in the viscoelasticity of a biofilm. Elasticity is generally pre-
+sented as a spring with spring constant E, while the viscosity η (or its inverse,
+the fluidity ϕ) is shown as a dashpot. Springs and dashpots can be arranged in
+series (named ‘Maxwell’ element) or in parallel (called ‘Kelvin–Voigt’ element).
+Springs react immediately to an applied force, while dashpots dampen the speed
+of reaction. Usually, biological materials like biofilms cannot be represented by
+a single combination of springs and dashpots.
+
+236
+
+FEMS Microbiology Reviews, 2015, Vol. 39, No. 2
+
+biofilm dislodges from the substratum surface (‘adhesive fail-
+ure’) (Towler et al., 2003). Often biofilms go through cycles of fluc-
+tuating mechanical challenges, and cohesive or adhesive failure
+along with growth occur accordingly.
+
+chanical and chemical challenges on a more quantitative basis
+than can be obtained by microscopic means. Finally, this review
+identifies new pathways for the treatment of infectious bacterial
+biofilms by interfering with their viscoelastic properties.
+
+Biofilms and chemical challenges
+
+The biofilm mode of growth protects individual bacteria from
+a variety of environmental challenges, including chemically di-
+verse biocides (Mah and O’Toole 2001), host immune responses
+and antimicrobials (Vu et al., 2009). Poor antimicrobial penetra-
+tion is the major obstacle for treating biofilm infections with
+antibiotics and this has been known since Van Leeuwenhoek
+(Van Leeuwenhoek 1684) reported in the 17th century that ‘the
+vinegar with which I washt my teeth, kill’d only those ani-
+mals which were on the outside of the scurf, but did not pass
+thro the whole substance of it’. Although it has become clear
+in the meantime that the protection offered by biofilms to its
+inhabitants against chemical challenges consists of multiple
+mechanisms working in tandem, the exact mechanism is still
+not fully understood (Ito et al., 2009). In Fig. 1B, we identify
+three key properties of biofilms that govern the mechanisms
+through which biofilms become recalcitrant to antimicrobials
+(Thomas and Nakaishi 2006; Aslam 2008; Lazar and Chifiriuc
+2010; Eastman et al., 2011; Stewart 2012). Biofilm structure de-
+termines many transport processes within a biofilm and can
+lead to micro-environments with specific pH or nutrient avail-
+ability (Koo, Falsetta and Klein 2013). Penetration of antimi-
+crobials and nutrients into a biofilm depends on the degree
+of channelization of the biofilm and the presence of a suit-
+able medium for molecular transport through the biofilm. Usu-
+ally transport of antimicrobials and nutrients is limited, based
+on whether the composition of the EPS matrix and the bacte-
+rial cell surfaces adsorb these compounds. Importantly, biofilm
+structure is dynamic, adapting in both space and time to its
+environmental conditions (Donlan 2002), amongst which are
+pH, temperature, fluid shear, nutrient availability and host de-
+fenses. As a result of nutrient deprivation, bacterial pheno-
+types in a biofilm can alter, leading to formation of persis-
+ter cells (Lopez, Vlamakis and Kolter 2010; Poole 2012) that
+can remain dormant without causing disease for prolonged
+periods of time. Moreover, many antimicrobial agents target
+macromolecule synthesis inside bacteria (Dodds, Grobe and
+Stewart 2000) during active metabolism. Thus, the presence of
+a slow metabolism contributes to antimicrobial recalcitrance of
+biofilms in general, and persister cells can tolerate higher con-
+centrations of antimicrobials than nearby recalcitrant biofilm
+organisms (Spoering and Lewis 2001; Keren et al., 2004). Con-
+sequently, whereas planktonic organisms have ample access to
+nutrients and, by the same token, are highly susceptible to an-
+timicrobials, structural and compositional features of a biofilm
+form the major impediments for nutrient deprivation, the devel-
+opment of altered phenotypes and antimicrobial recalcitrance.
+
+Aim of this review
+
+In this review, we advocate that through a relation between
+structure and composition of biofilms with their viscoelasticity
+(Fig. 1C), viscoelasticity of biofilms can be recognized as a reflec-
+tion of their structure and composition, including the EPS ma-
+trix and bacterial interactions. Using stress relaxation analysis,
+macroscopic physical properties of a biofilm can be derived that
+facilitate explanation of the resistance of biofilms in ancient and
+modern environments as well as of infectious biofilms to me-
+
+VISCOELASTICTY OF NATURAL SUBSTANCES
+
+To understand the implications of viscoelasticity as a con-
+tributing factor to the resistance of biofilms to mechanical and
+chemical challenges, we first give a comprehensive description
+of the concept of viscoelasticity (for an excellent introduction
+to biomechanics including the viscoelasticity of materials see
+Vincent (2012)).
+
+‘Viscoelasticity is a material property in which a material ex-
+hibits both viscous and elastic characteristics. Viscous materi-
+als deform irreversibly over time to relieve stress, while elas-
+tic materials deform instantaneously to relieve stress and come
+back to their original state once stress is removed. A viscoelas-
+tic material will deform under stress, while returning over time
+to a state similar to, but not necessarily identical to the pre-
+deformed state, when stress is removed. Whereas elasticity is
+usually the result of atomic or molecular stretching, viscosity is
+the result of “atomic or molecular flow” (Ratner et al., 2004b)’.
+
+Elasticity is generally presented as a spring with spring con-
+stant E, while the viscosity η (or its inverse, the fluidity ϕ) is
+shown as a dashpot. A spring reacts to an applied force with
+an immediate change in length, depending on the magnitude of
+the force applied, but this is different for a dashpot. A dashpot
+behaves like a piston that is free to move up and down a cylindri-
+cal vessel filled with a fluid, provided the fluid can flow through
+the piston-cylinder gap. Thus, the speed at which the piston can
+move heavily depends on the viscosity of the fluid. Spring and
+dashpot can either be placed in series or in parallel (see Fig. 1C).
+Note that biological materials usually cannot be represented by a
+single combination of a spring and dashpot. Table 1 provides ex-
+amples of values for the elasticity and viscosity of some known,
+biological and synthetic materials, including biofilms.
+
+VISCOELASTICITY AND BIOFILM STRUCTURE
+AND COMPOSITION
+
+Microscopic studies on biofilm structure
+and composition
+
+Microscopic techniques, and particularly confocal laser scan-
+ning microscopy (CLSM), have yielded a general description of
+biofilm structure and to a limited degree its microbiological
+and biochemical composition. Whereas early electron micro-
+scopic techniques enabled imaging of organisms in a biofilm,
+the desiccation required by high-vacuum conditions has long
+obscured the role of the EPS matrix that appeared as a dark rim
+of condensed matter on the bacterial cell surfaces in a biofilm
+(Stewart and Costerton 2001). Improved preservation methods
+such as cryopreservation prevent condensation of the EPS ma-
+trix (Matias et al., 2003; Schaudinn et al., 2009). Recent develop-
+ment of stages and methodologies allows sequential sections
+to be made and imaged. These sections can be reconstructed
+into 3D volumes, providing highly detailed insights into biofilm
+structure. Focused ion beam scanning electron microscopy (FIB-
+SEM), for instance, uses ion-sputtering of biofilm mass with
+repetitive imaging to observe the organisms within biofilms at
+high resolution (Wallace, Arey and Mahaffee 2011), and 2D im-
+ages selected from a 3D image stack can be utilized to visualize
+
+Peterson et al.
+
+237
+
+Table 1. Viscoelasticity of different biological and synthetic materials, including the elasticity or bulk modulus E and the viscosity β at room
+temperature (20◦C), unless stated otherwise.
+
+Material
+
+Elasticity 109 Pa
+
+Viscosity 10−3 Pa.s
+
+Reference
+
+Titanium
+Aluminum
+Silicone rubber
+Hyaluronic acid-based tissue-engineering scaffolds
+Skin
+Human cortical bone
+Dental enamel
+Hair
+Water
+Saliva (37◦C)
+Blood (37◦C)
+Urine (37◦C)
+Pseudomonas biofilm, EPS only (shear mode)
+Pseudomonas entire biofilms (shear mode)
+Miscellaneous biofilms (shear mode)
+Environmental and industrial biofilms (tensile mode)
+Oral biofilms (compressive mode)
+
+106–108
+68–70
+0.001–0.05
+10−4
+0.015–0.15
+15–30
+80
+7
+–
+–
+
+10−10
+10−5
+10−10–10−4
+10−8
+10−8–10−7
+
+–
+–
+–
+107
+–
+–
+–
+–
+1
+1.3–2.0
+3–4
+0.8
+102
+
+103–1013
+
+Boyer and Collings (2007)
+ASM International (1990)
+http://www.azom.com
+Borzacchiello et al. (2007)
+Edwards and Marks (1995)
+Ratner et al. (2004a)
+Ferracane (2001)
+Lee and Kwon (2013)
+
+Rantonen and Meurman (1998)
+Elert (2014)
+Inman et al. (2013)
+Wloka et al. (2004)
+K ¨orstgens et al. (2001)
+Shaw et al. (2004)
+Stoodley et al. (1999a)
+Paramonova et al. (2009)
+
+Figure 2. 2D FIB-SEM cross sections from a 3D image stack of OsO4-stained, FIB-sectioned S. epidermidis ATCC 35984 biofilms prior to and after exposure to quaternary-
+ammonium solutions, demonstrating holes in the bacterial cell wall due to the interdigitization of the hydrophobic tail of the quaternary ammonium molecules
+(unpublished data). (A) Control (exposure to tryptone soya broth), (B) after exposure to 1 x MBC of a quaternary-ammonium solution (Ethoquad C/25) [Cocoalkyl methyl
+(polyoxyethylene) ammonium chloride], the scale bar denotes 1 μm.
+
+cell wall damage inside a biofilm due to antimicrobial attack (see
+Fig. 2). Still, due to requirements of some degree of preservation,
+these electron microscopy techniques are often susceptible to
+corruption of the natural state of biofilms (Wu et al., 2014). Envi-
+ronmental SEM has the advantage that it does not require dehy-
+dration or fixation, but it cannot see inside the highly hydrated
+EPS to reveal internal structure (Danilatos and Postle 1982;
+Bridier, Meylheuc and Briandet 2013).
+
+CLSM has become the most employed microscopy tech-
+nique to study biofilms. Many key components of biofilm
+structure have been determined using CLSM in association
+with chemically binding fluorophores, including 3D architec-
+ture (Salek, Jones and Martinuzzi 2009; Uppuluri, Chaturvedi
+and Lopez-Ribot 2009; Robinson 2011), mushroom-shaped
+colonies (Entcheva-Dimitrov and Spormann 2004; Venugopalan
+et al., 2005), stratification (Lawrence et al., 1991), establishment
+of water channels (Donlan 2002; Stewart 2012), presence of EPS
+(Sanford et al., 1996; Lawrence et al., 2003; Li, Bai and Liu 2008),
+bacterial cell surface damage and viability (Hope, Clements and
+Wilson 2002) as well as biofilm failure under compression (Cense
+et al., 2006). The establishment of water channels, however, has
+never been directly proven by CLSM methods, but rather in-
+directly indicated by the absence of stain uptake as by bac-
+
+teria and matrix components. Chemically reactive lectins pro-
+vide information about the molecular composition of sugars
+within a biofilm (Allison 2003). Alternatively, fluorescent in situ
+hybridization (better known by its abbreviation ‘FISH’) differen-
+tially stains individual cells of different bacterial species, provid-
+ing information about the location of different species within
+multispecies biofilms (Weber et al., 2007). CLSM also has the
+advantage of allowing real-time imaging of localized processes
+of attachment, growth and dispersal as well as metabolic activ-
+ity and flow through the biofilm. A limiting factor in the use of
+CLSM is that the penetration ability of the fluorophores is typ-
+ically confined to 20 to 40 μm (Vroom et al., 1999), and it is dif-
+ficult to see much deeper within a biofilm structure. Moreover,
+the penetration capability of the laser itself limits the depth of
+view within a biofilm structure. Two-photon laser systems have
+helped to increase the penetration depth of the CLSM imag-
+ing, yet they still require the use of fluorophores that may have
+harmful effects to the biofilms (Mclean, Ona and Majors 2008).
+
+These drawbacks of CLSM have stimulated the use of other
+microscopic techniques that image biofilm structure but do not
+rely on staining. Optical coherence tomography, for instance, re-
+lies on the scattering of light rather than on fluorescent stain-
+ing and is used to accurately describe voids and water channels
+
+238
+
+FEMS Microbiology Reviews, 2015, Vol. 39, No. 2
+
+(Wagner et al., 2010). Water channels have been indirectly indi-
+cated by CLSM methods, assuming that they correspond with
+voids, but CLSM easily overestimates the presence of voids, be-
+cause they also appear due to lack of stain penetration. Opti-
+cal coherence tomography, not relying on stain penetration, has
+demonstrated that heterotrophic biofilms had a porosity un-
+der 70%, when 98% porosity was found using CLSM (Wagner
+et al., 2010).
+
+In summary, advances in microscopic imaging techniques
+have yielded structural information on voids and water chan-
+nels in biofilms and their compositional heterogeneity. However,
+in essence, these advances still reflect a similar conclusion as
+drawn in the 17th century, when Antonie van Leeuwenhoek re-
+ported on the poor penetration of vinegar into oral biofilm us-
+ing his first, self-made microscopes (Van Leeuwenhoek 1684).
+This calls for an urgent need for more quantitative, observer-
+independent techniques to characterize biofilms in terms of
+structure and composition. One such alternative technique cen-
+ters on biofilm viscoelasticity.
+
+Measurement of the viscoelasticity of biofilms
+
+Measurement of the viscoelasticity of a biofilm either involves
+measuring deformation under constant stress (‘creep’) (Lau
+et al., 2009) in either a compressive, shear or tensile mode or
+measuring the stress required to maintain a constant deforma-
+tion (‘stress relaxation’) (Cense et al., 2006), as summarized in
+Fig. 3A and B. Constant mechanical stress or deformation (of-
+ten reported as ‘strain’) can, amongst other methods, be ap-
+plied by uniaxial compression (K ¨orstgens et al., 2001), in which a
+macroscopic plunger mechanically stresses or deforms the
+biofilm and strain or stress relaxation is recorded as a function
+of time. Since relaxation results from multiple re-arrangement
+processes in a deformed biofilm, the mathematical description
+of relaxation possesses multiple elements. Although creep is
+the increase of strain under an imposed load and stress relax-
+ation is the dissipation of stress under an imposed strain (Gupta
+et al., 2010), their measurement can be analyzed using similar
+mathematical models, which result in similar time constants
+of their response processes (Poznanski, Pawlowski and Fikus
+1992). Generally, due to its multi-component nature, stress re-
+laxation of biofilms can be described by three to four Maxwell
+or Kelvin–Voigt elements (see Fig. 1C) with each element con-
+taining a dashpot, responsible of a single time-dependent
+re-arrangement process, combined with a spring constant,
+representing the immediate elastic response. Note that in a
+Kelvin–Voigt element, dashpot and spring are placed in paral-
+lel, causing dampening of the immediate response as immedi-
+ate relaxation has to occur against the action of the dashpot. In a
+Maxwell model (Fig. 3C), multiple Maxwell elements are placed
+in parallel, while in a Burgers model a Kelvin–Voigt element is
+placed between the spring and dashpot of a Maxwell element
+(Fig. 3D). However, the more elements one includes, the better
+the fit but the more uncertainty in the values of the param-
+eters derived will occur. The creep response commonly found
+in biofilms may require a minimum of four elements (Jones
+et al., 2011).
+
+Using microbead atomic force microscopy, relaxation pro-
+cesses in a biofilm can also be monitored on a more microscopic
+level (Lau et al., 2009). Often, the microbead is comprised of a sil-
+ica particle with a diameter typically in the order of up to 50 μm.
+Stress deformation of Pseudomonas biofilms using microbead
+atomic force microscopy yielded relaxation times of less than
+1 s, with a reduced viscoelastic response in more matured
+
+Figure 3. Viscoelastic measurements of ‘creep’ and ‘stress relaxation’. (A) Dur-
+ing creep measurements, a constant stress is induced while the deformation of
+the biofilm is recorded over time. (B) During stress relaxation measurements, a
+constant deformation is induced and the stress required to maintain that defor-
+mation is recorded over time. (C) In a Maxwell model, response to an induced
+stress or deformation is mathematically modeled using multiple Maxwell el-
+ements in parallel, each with their characteristic time constants representing
+the viscous part of the response (‘the dashpots’, ηn) and an immediate elastic
+response component (‘the springs’, En). Characteristics time constants of each
+individual response process follow from τ n as indicated in the graph. (D) In a
+Burger’s model, this response is mathematically modeled using a Kelvin–Voigt
+element separated by a spring and dashpot, that together represent a Maxwell
+element.
+
+biofilms of Pseudomonas strains deficient in lipopolysaccha-
+rides. Individual bonds between single bacteria are also vis-
+coelastic in nature and bacterial probe atomic force microscopy
+has revealed relaxation times for a variety of Gram-negative bac-
+terial strains between 0.8 and 2.6 s based on a three-element
+standard solid model (Vadillo-Rodriguez and Dutcher 2011).
+Relaxation times of Gram-positive staphylococcal bonds were
+slightly higher between 1 and 6 s and shorter in absence of an
+EPS matrix around the bacteria (Chen et al., 2014).
+
+While indentation and rheometry measure bulk properties of
+biofilms, microscopy-based techniques can be utilized to mea-
+sure local viscoelastic properties within a biofilm and in dif-
+ferent biofilm structures. Digital image correlation of 2D bright
+field microscope images of biofilms grown under flow revealed
+that biofilm deforms differently in response to elevations in fluid
+shear in the attached head as compared to in the streamer tail
+(Mathias and Stoodley 2009). More recently microrheometry us-
+ing CLSM to track the motion of magnetic beads in response
+to an oscillating magnetic field (Galy et al., 2012) or the natural
+brownian motion of beads within the biofilm (Chew et al., 2014)
+have been used to map the viscoelastic properties of biofilms at
+
+specific locations in 3D. Galy et al. (2012) found that some parts
+of a biofilm behave like elastic solids, while others behave more
+like viscoelastic liquids and the base of the biofilm was stiffer
+than the upper layers, illustrating the importance of mechani-
+cal heterogeneity. It was also reported that the local mechanical
+properties were not related to local cell density, suggesting that
+the EPS was the principal determinant. Chew et al. (2014) were
+able to link the mechanical properties of different polymers ex-
+pressed in Pseudomonas aeruginosa biofilms with streamer forma-
+tion. Optical coherence tomography also has good potential for
+measuring 3D biofilm structural responses to applied fluid shear
+stresses (Wagner et al., 2010). The difficulty in simulating in situ
+biofilm rheological behavior in the laboratory using pure pro-
+tein and polysaccharide gels suggests that the rheological com-
+plexity is a result of structural and compositional heterogeneity
+within a biofilm. The measurement of relaxation processes at a
+more microscopic level combined with local staining of specific
+EPS components offers the challenging possibility of modeling
+the macroscopic viscoelasticity of a biofilm in terms of its EPS
+response and the response of individually interacting bacteria.
+
+Association between viscoelastic properties
+with structure and composition of biofilms
+
+Bacteria in a biofilm constitute the heaviest masses; thus,
+their re-arrangement upon an induced deformation will be
+slow, and the relative importance of the slowest Maxwell ele-
+ment in relaxation has been intuitively associated with bacte-
+rial re-arrangement in a biofilm. Recently, the relatively slow
+re-arrangement of P. aeruginosa was confirmed by direct micro-
+scopic observation of relaxation processes, showing that bacte-
+ria could not find new, stable positions within 100 s upon an im-
+posed deformation (Peterson et al., 2014), while EPS displaced by
+deformation moved toward deeper layers within 20 s. In the so-
+called ‘fluctuating binding point model’ (K ¨orstgens et al., 2001),
+this implies that binding points in a biofilm, existing prior to the
+application of deformation, can be more readily re-established
+between EPS components than between bacteria or between
+bacteria with EPS components. Water, on the other hand, has the
+lowest viscosity in a biofilm, and therefore the fastest Maxwell
+element has been associated with the flow of water through
+a compressed biofilm. This leaves an association between the
+behavior of EPS with intermediate Maxwell element(s) (Peter-
+son et al., 2012; He et al., 2013). Principal component analyses of
+Maxwell elements describing the stress relaxation exhibited by
+biofilms with different matrix chemistries have pointed out that
+in general three principal components suffice to describe stress
+relaxation of biofilms (Peterson et al., 2013). The fastest principal
+component was associated with the outflow of water and solu-
+ble polysaccharides. A second principal component was associ-
+ated with the EPS matrix as a whole, with a distinct impact of
+the presence of eDNA included in a third component, possess-
+ing a narrowly confined time constant range within the range of
+the second principal component. The presence of bacteria them-
+selves as the heaviest masses is included in the first principal
+component with an inverse impact of bacterial prevalence with
+respect to the presence of water and soluble polysaccharides, i.e.
+the free space in a biofilm available for bacterial re-arrangement
+processes (Peterson et al., 2013). Importantly, herewith there ex-
+ists a relation between quantifiable viscoelastic properties of a
+biofilm that relates with their structure and composition that
+goes beyond the possibilities of microscopic imaging techniques.
+
+Peterson et al.
+
+239
+
+VISCOELASTICITY OF BIOFILMS AS A MEANS
+OF SURVIVAL IN ANCIENT AND MODERN
+ENVIRONMENTS
+
+In their natural environment, most biofilms are exposed to ex-
+ternal forces applied either in a compressive, tensile or shear
+mode. Whereas microscopic techniques in general yield semi-
+quantitative descriptions of structure and composition of a
+biofilm at best, viscoelasticity is determined by an interplay of
+structure and composition as outlined above, and can be quan-
+titatively assessed over larger areas of a biofilm than microscop-
+ically possible.
+
+Biofilms are typical examples of a multi-component bio-
+logical material. EPS alone is a multi-component substance
+(Whitchurch et al., 2002; Flemming and Wingender 2010; Koo,
+Falsetta and Klein 2013), and, as a consequence, biofilms react in
+a time-dependent manner with a combination of distinct elas-
+tic and viscous responses to external stress. The elastic part of
+the response is immediate and followed by viscous relaxation
+(Klapper et al., 2002; Stoodley et al., 2002) as represented by the
+springs and dashpots in Fig. 1C, respectively. More specifically,
+a number of studies suggest that biofilms behave as viscoelas-
+tic liquids (Stoodley et al., 1999a; K ¨orstgens et al., 2001; Towler
+et al., 2003; Shaw et al., 2004), i.e. they flow under sustained load,
+and even though values of the elastic and viscous moduli vary
+by many orders of magnitude, viscoelasticity is a common fea-
+ture of many different types of medical, oral and environmental
+biofilms (Shaw et al., 2004) (see also Table 1). Intriguingly, Shaw
+et al. (2004) noticed that despite wide variations in elasticity and
+viscosity of biofilms, their overall characteristic relaxation time
+constant was about 18 min over a wide collection of biofilms
+derived from fresh water and hot spring isolates, Staphylococcus
+aureus, P. aeruginosa and Streptococcus mutans strains. Consider-
+ing that bacterial doubling times in regularly growing biofilms
+are of the same order of magnitude (Gottenbos et al., 1999),
+18 min may represent a possible survival significance as the
+period over which a biofilm can respond to transient, external
+stresses (Shaw et al., 2004).
+
+There is evidence that the ability of biofilms to flow along
+surfaces when exposed to elevated shear of an overlying water
+stream may allow bacteria to yield to the flow, yet remain at-
+tached to the surface. Time lapse images in flow cells captured
+the flow and the ability of the biofilm to rapidly change ripple
+and streamer morphology when the water flow was changed
+(Stoodley et al., 1999b). Ripple structures have also been observed
+in modern streams (Battin et al., 2003) as well as ancient fossils
+(Noffke et al., 2013a; Noffke, Decho and Stoodley 2013b; Thomas
+et al., 2013). Energy dissipation through such viscoelastic behav-
+ior can also explain the large pressure drops and drag associated
+with biofilms in systems as diverse as sulfate-reducing bacterial
+biofilms in industrial pipelines (Dunsmore et al., 2002) as well as
+biofouling of ship hulls (Schultz et al., 2011).
+
+SURVIVAL OF INFECTIOUS BIOFILMS UNDER
+MECHANICAL AND CHEMICAL CHALLENGE
+
+In addition to survival in natural environments, biofilm vis-
+coelasticity, as a corollary of structure and composition, also has
+implications for the way pathogenic biofilms deal with mechan-
+ical and chemical challenges, particularly when biofilms are as-
+sociated with biomaterials implants and devices, as will be illus-
+trated in the following sections.
+
+240
+
+FEMS Microbiology Reviews, 2015, Vol. 39, No. 2
+
+Survival of biofilms on intravascular catheters
+in the human blood stream
+
+Catheter-associated blood stream infections are common after
+long-term catheterization of patients and result from catheter-
+associated biofilms. Biofilms on intravascular catheters have to
+withstand the fluctuating shear from the pulsatile blood flow,
+using their viscoelastic properties to adjust to local changes in
+fluid flows while maintaining their structural integrity. In an
+initial attempt to withstand increasing shear forces, biofilms
+extend in the direction of flow through re-arrangement into
+so-called ‘streamers’, as shown in Fig. 4A (Rusconi et al., 2010,
+2011). The viscoelasticity of biofilms allows these streamers
+the possibility to extend and therewith organisms residing in
+the biofilm gain time to adapt to the new flow conditions. Re-
+cently, it was hypothesized that viscoelastic streamer formation
+by S. aureus in intravenous catheter may block these catheters
+(Kim et al., 2014). However, it is also possible that the formation
+and breaking of viscoelastic EPS tethers allow S. aureus biofilms
+
+to roll along catheter surfaces (Rupp, Fux and Stoodley 2005),
+much like selectin-mediated leukocyte rolling during extravasa-
+tion (Sundd, Pospieszalska and Ley 2013). Recent evidence has
+suggested that biofilms might be involved in the formation of
+atherosclerotic plaques and be involved in their detachment
+(Lanter, Sauer and Davies 2014). How and when biofilms in the
+blood stream fail is arguably the most important biofilm prop-
+erty in an intravascular catheter application (Guelon, Mathias
+and Stoodley 2011).
+
+Biofilms on endotracheal tubes
+
+Endotracheal tubes are used to intubate patients for breathing
+and deliver pulsatile flow during a positive pressure inspired de-
+livery and neutral pressure expired release. The gas is humidi-
+fied and a moist layer containing respiratory secretions forms
+on the inner lumen of the tube which rapidly becomes colonized
+with bacteria from the oral cavity, upper airway and nosocomial
+hospital pathogens (Vandecandelaere et al., 2013). Bacteria from
+biofilms on endotracheal tubes can enter the airway to cause
+ventilator-associated pneumonia through spreading growth, de-
+tachment into the gas stream (Inglis et al., 1989). However, Inglis
+(1993) also made the salient observation that endotracheal tube
+biofilms had formed wave-like structures and hypothesized that
+these might be caused by biofilm flow along the surface, con-
+tributing to ventilator-associated pneumonia. As discussed pre-
+viously, time lapse imaging has shown that biofilms can form
+ripples and flow as viscoelastic liquids induced by the overlying
+liquid flow (Stoodley et al., 1999b) with implications for dissem-
+ination of pathogens within or from medical devices.
+
+Mechanical removal of biofilms in the oral cavity
+
+In the oral cavity as well as in the blood stream, biofilms are me-
+chanically challenged by naturally occurring fluid flows, but also
+by tongue movements and daily toothbrushing. Toothbrushing
+removes oral biofilm through direct contact with toothbrush fil-
+aments, but powered toothbrushes also do so in a non-contact
+mode (Verkaik et al., 2010), provided the energy output of the
+brush is high enough (Busscher et al., 2010). The energy out-
+put of powered toothbrushes varies according to distance from
+the edge of the toothbrush filaments and navigates the com-
+plex geometry of tooth surfaces. Thus, removal of oral biofilms
+via non-contact mode brushing is susceptible to a wide distri-
+bution of shear forces (Rmaile et al., 2014). The viscoelasticity
+of oral biofilms under non-contact brushing causes the biofilm
+to expand rather than to directly disperse prior to disruption
+(Busscher et al., 2010). Moreover, if toothbrushing is arrested be-
+fore biofilm detachment occurs, biofilms are left in an expanded
+state (see Fig. 4B) (He et al., 2014).
+
+Figure 4. Role of viscoelasticity of biofilms in their survival under mechani-
+cal and chemical challenges. (A) Side view of a streamer in a biofilm grow-
+ing under an applied wall shear stress. The edge of the streamer has been
+outlined for clarity and the direction of fluid flow is indicated by the thick
+arrow [(Stoodley et al., 1999a), with permission of the publisher]. (B) Biofilm
+removal or expansion (negative removal) for different distances between a
+biofilm and the bristle tips of a powered toothbrush [adapted from Busscher
+et al., 2010) with permission of the publisher], together with CLSM images (un-
+published) of biofilms prior to (a) and after (b) non-contact brushing show-
+ing volumetric expansion (scale bar indicates 75 μm). (C) Penetration ratio of
+chlorhexidine as a generalized function of the relative importance of the three
+Maxwell elements E1, E2 and E3, denoting the fast, intermediate and slow
+relaxation components, respectively. Dashed lines represent 95% confidence
+intervals.
+
+Antimicrobial penetration in oral biofilms
+
+Penetration of chlorhexidine into oral biofilms increased with in-
+creasing relative importance of the slow and decreasing impor-
+tance of the fast relaxation element (see Fig. 4C) (He et al., 2013).
+Involvement of slow relaxation elements suggests that biofilm
+structures allowing extensive bacterial re-arrangement after de-
+formation are more open, allowing better antimicrobial pene-
+tration. Involvement of fast relaxation elements suggests that
+water dilutes the antimicrobial upon penetration to an ineffec-
+tive concentration in deeper layers of the biofilm (He et al., 2013).
+Note that these results could also have been expressed in one
+principal component, since the more open structure allowing
+
+bacterial re-arrangement inversely relates to the presence of
+water-filled channels (Peterson et al., 2013). The flow of water
+through biofilms is an important consideration in terms of an-
+timicrobial penetration to target bacteria in a biofilm. Generally,
+flow will be primarily from convection (fast) and diffusion (slow).
+Early work with fluorescent microspheres and nano-injection of
+fluorescent dyes established that an overlying flow induced con-
+vective flow in the channels (Stoodley, De Beer and Lewandowski
+1994), while in clusters alone there was only diffusion. Larger
+molecules such as human IgG antibody could not penetrate the
+EPS matrix (DeBeer, Stoodley and Lewandowski 1997). Neverthe-
+less, submerged biofilms themselves are highly compressible
+(Peterson et al., 2012), and since water is incompressible there
+must be a dewatering effect to explain the biofilm volume de-
+crease. Under compression, it is likely that water is squeezed
+out of the channels, and, while it has not been directly shown
+whether compression induces convection through the EPS ma-
+trix of the cell clusters, modeling of the viscoelastic response
+predicts that there is (He et al., 2013). Squeezing out of water
+through channels in compressed biofilms may also constitute
+the reason as to why biofilm elasticity and viscosity vary when
+derived in different modes of stress application. In many exper-
+imental systems, biofilms are usually ‘unconfined’ and stress is
+applied locally over a relatively small surface area, allowing wa-
+ter to flow away from the stressed region to its surrounding as
+is also possible in natural conditions.
+
+VISCOELASTICITY OF BIOFILMS: A POSSIBLE
+TARGET FOR THE TREATMENT OF INFECTION
+
+In the medical arena, the pathogenicity of bacteria is usually
+related to conventional definitions of virulence describing vir-
+ulence factors as molecules that are essential for a pathogen to
+cause disease. Such factors include molecules that enable the
+pathogen to colonize the host by attachment to and invasion
+in host tissue, or to evade the host immune response. However,
+with the growing realization that biofilms rather than plankton-
+ically present organisms represent the more pathogenic state of
+bacterial growth, additional factors come into play. In a biofilm,
+bacterial adhesion to a substratum surface causes a phenotypic
+change that makes removal upon a mechanical challenge more
+difficult (Vuopio-Varkila and Schoolnik 1991; Gonzalez-Valencia,
+Munoz and Torres 1991; Pal et al., 1992; Kallman et al., 1993).
+Mechanical strategies used by biofilms to persist in the envi-
+ronment which allow part to remain attached, coalesce and
+flow over surfaces, while other parts detach in response to
+external mechanical forces, are being seen as playing an im-
+portant role for persistence of infection (Lieleg et al., 2011;
+Stewart 2014). In addition, structure and composition of the EPS
+matrix of oral biofilms as reflected in the viscoelastic proper-
+ties of a biofilm, have been related with bacterial activity in
+a biofilm (Koo, Falsetta and Klein 2013). The biofilm mode of
+growth is also recognized to increase recalcitrance to antimicro-
+bials as a result of diffusion limitation through the biofilm (Ar-
+ciola, Campoccia and Montanaro 2002; Oelschlaeger, Dobrindt
+and Hacker 2002). Survival requires structural and composi-
+tional re-arrangements to evade these challenges on an appro-
+priate timescale, as represented in the viscoelasticity of a biofilm
+(Shaw et al., 2004).
+
+The realization that viscoelasticity is a quantifiable reflec-
+tion of the structure and composition impacting its survival
+under mechanical or chemical challenge opens new pathways
+for the control of biofilms in disease and understanding of
+
+Peterson et al.
+
+241
+
+ill-understood phenomena like the increased susceptibility of
+biofilms to antibiotics in combination with pulsating waves of
+energy (Rediske et al., 1998). The CLSM images in Fig. 4B clearly
+demonstrated that biofilms expand upon the transfer of energy
+by non-contact, powered toothbrushing (Busscher et al., 2010;
+He et al., 2014). This effect was accompanied by an increase
+in the slow and a decrease in the fast Maxwell relaxation of
+these biofilms. These changes facilitated increased penetra-
+tion of oral antimicrobials (He et al., 2014). Non-contact, pow-
+ered toothbrushing is usually done at frequencies between 260
+and 750 Hz (Blanco et al., 1997). These frequencies might be
+aligned in the future with the characteristic time constants
+or resonance frequencies of the different relaxation processes
+occurring upon mechanically challenging a biofilm, to increase
+bacterial detachment. Obviously, the implications of this sug-
+gestion reach beyond oral health care, and pertain to all situ-
+ations where it is desirable or necessary to remove biofilms by
+mechanical means.
+
+Pulsating waves of energy have been shown to amplify an-
+timicrobial efficacy against biofilms, and is generally referred to
+as the ‘bio-acoustic effect’ (Pitt et al., 1994; Shen et al., 2010). Gen-
+tamicin has been shown to have enhanced killing in P. aeruginosa
+and Escherichia coli biofilms in vitro and in vivo in rabbits after ul-
+trasound treatment with frequencies ranging from 30 to 500 kHz
+and energies ranging from 10 to 3000 mW cm−2 (Qian, Stoodley
+and Pitt 1996; Rediske et al., 2000; Carmen et al., 2004, 2005). Al-
+though biofilms of Gram-positive bacteria were initially thought
+to be resistant to enhanced killing from ultrasonic waves (Pitt
+et al., 1994), with enough energy input (3000 mW cm−2) Gram-
+positive bacteria were also found to be susceptible (Rediske
+et al., 1998). Reducing the frequency of the wave to 2–3 Hz in-
+creased efficacy of antimicrobials in biofilms of S. aureus and
+single and mixed species oral biofilms (Gerdesmeyer et al., 2005;
+Novak et al., 2008; Muller et al., 2011). Since, despite the lower fre-
+quencies used in non-contact, powered toothbrushing (Blanco
+et al., 1997), there is an analogy between non-contact powered
+toothbrushing with the bio-acoustic effect, it is likely that ultra-
+sound will change the structure of biofilms to cause better pen-
+etration of antimicrobials into a biofilm and therewith increased
+killing. Viscoelastic measurements have not yet been done how-
+ever on ultrasonically treated biofilms, but such measurements
+may shed more light on the mechanisms of the bio-acoustic
+effect. Interestingly, low frequencies were more efficient in in-
+creasing the killing efficacy of antimicrobials than higher ones
+(Qian, Sagers and Pitt 1999). The characteristic time constants
+derived from the stress relaxation of deformed biofilms, ranging
+from <5 s, 5–100 s and >100 s for the fast, intermediate and slow
+elements, respectively, suggest that the main effects of pulsating
+energy waves are through effects on the fast principal Maxwell
+element and thus associated with the presence of water in the
+biofilm. At the low frequencies associated with more efficient
+killing, the pulsating energy waves are closer to cutoff between
+the frequencies of the fast and intermediate Maxwell elements.
+Taken together, these considerations point to a new pathway to
+increase the efficacy of pulsating waves of energy by fine-tuning
+the frequencies of these treatments to the resonance frequen-
+cies of the different constituents in biofilm matrices, which will
+have a major impact on both their mechanical stability and an-
+timicrobial penetration through a direct effect on the viscoelas-
+ticity of biofilms.
+
+Changes in viscoelastic properties of biofilms that enhance
+antimicrobial efficacy can not only be achieved through pul-
+sating waves of energy but also chemically (Jones et al., 2011).
+After exposure to detergents, S. aureus biofilms grown on
+
+242
+
+FEMS Microbiology Reviews, 2015, Vol. 39, No. 2
+
+reflecting bacterial
+
+stainless steel had increased expression of the slowest Maxwell
+re-arrangement. Pseudomonas
+element,
+aeruginosa biofilms on stainless steel were affected by N-acetyl-
+L-cysteine, as both the fast and intermediate Maxwell elements
+were reduced by more than 50%, while the slowest Maxwell
+element nearly doubled. Pseudomonas aeruginosa biofilms on
+membrane filters were similarly affected by both N-acetyl-L-
+cysteine and DNaseI, reducing both the fastest and intermediate
+principal elements (Peterson et al., 2013). Thus, both the pre-
+treatment and post-treatment of biofilms by chemicals directly
+affects their viscoelastic properties and changes them into a
+direction favorable for subsequent antimicrobial treatment.
+
+CONCLUSIONS
+
+Bacterial biofilms provide added protection against environmen-
+tal detachment forces, antimicrobials and the host immune
+system, increasing the chance of survival under mechanical
+and chemical attack. This review identifies the viscoelasticity
+of biofilms as a corollary of the structure and composition of
+biofilms. The viscoelasticity of biofilms therewith becomes a
+quantifiable property of biofilms, pivotal for the way biofilms
+deal with mechanical and chemical challenges. This identifica-
+tion opens new pathways to prevent or control bacterial biofilms
+by intervening with their viscoelastic properties that may be par-
+ticularly relevant in the medical arena where over 60% of all hu-
+man infections are due to biofilms.
+
+ACKNOWLEDGEMENTS
+
+YH would like to thank the China Scholarship Council and the
+W.J. Kolff institute for financial support. Opinions and assertions
+contained herein are those of the authors and are not construed
+as necessarily representing views of the funding organization or
+their respective employers. HJB is also director of a consulting
+company, SASA BV. AJvW is co-owner of Laboral, a company in
+oral diagnostics and he has minor stock ownership in Dentaid
+Benelux.
+
+FUNDING
+
+This study was funded by the authors’ institutions. In addition,
+YH received a scholarship from the China Scholarship Council.
+
+Conflict of interest statement. None declared.
+
+REFERENCES
+
+Allison DG. The biofilm matrix. Biofouling 2003;19:139–50.
+Arciola CR, Campoccia D, Montanaro L. Detection of biofilm-
+forming strains of Staphylococcus epidermidis and S. aureus. Ex-
+pert Rev Mol Diagn 2002;2:478–84.
+
+Aslam S. Effect of antibacterials on biofilms. Am J Infect Control
+
+2008;36:S175.e9–11.
+
+ASM International. Properties & Selection—Nonferrous Alloys
+& Special-Purpose Materials. In: ASM Handbook, Vol. 2, 10th
+edn. Metals Park, OH, USA: ASM International, 1990.
+
+Battin TJ, Kaplan LA, Newbold JD, et al. Effects of current veloc-
+ity on the nascent architecture of stream microbial biofilms.
+Appl Environ Microb 2003;69:5443–52.
+
+Borzacchiello A, Mayol L, Ramires PA, et al. Structural and
+rheological characterization of hyaluronic acid-based scaf-
+folds for adipose tissue engineering. Biomaterials 2007;28:
+4399–408.
+
+Bos R, Van der Mei HC, Busscher HJ. Physico-chemistry of initial
+microbial adhesive interactions—its mechanisms and meth-
+ods for study. FEMS Microbiol Rev 1999;23:179–230.
+
+Boyer R, Collings EW. In Materials Properties Handbook: Titanium
+Alloys, 4th edn. Materials Park, OH, USA: ASM International,
+2007.
+
+Bridier A, Meylheuc T, Briandet R. Realistic representation of
+Bacillus subtilis biofilms architecture using combined mi-
+croscopy (CLSM, ESEM and FESEM). Micron 2013;48:65–9.
+Busscher HJ, Jager D, Finger G, et al. Energy transfer, volumet-
+ric expansion, and removal of oral biofilms by non-contact
+brushing. Eur J Oral Sci 2010;118:177–82.
+
+Busscher HJ, Van der Mei HC, Subbiahdoss G, et al. Biomaterial-
+associated infection: locating the finish line in the race for
+the surface. Sci Transl Med 2012;4:153rv10.
+
+Carmen JC, Nelson JL, Beckstead BL, et al. Ultrasonic-enhanced
+through colony biofilms of Pseu-
+gentamicin transport
+domonas aeruginosa and Escherichia coli. J Infect Chemother
+2004;10:193–9.
+
+Carmen JC, Roeder BL, Nelson JL, et al. Treatment of biofilm in-
+fections on implants with low-frequency ultrasound and an-
+tibiotics. Am J Infect Control 2005;33:78–82.
+
+Cense AW, Peeters EA, Gottenbos B, et al. Mechanical prop-
+erties and failure of Streptococcus mutans biofilms, studied
+using a microindentation device. J Microbiol Meth 2006;67:
+463–72.
+
+Chen Y, Van der Mei HC, Busscher HJ, et al. Viscous nature of
+the bond between adhering bacteria and substratum sur-
+faces probed by atomic force microscopy. Langmuir 2014;30:
+3165–9.
+
+Chew SC, Kundukad B, Seviour T, et al. Dynamic remodeling
+of microbial biofilms by functionally distinct exopolysac-
+carides. mBio 2014;5:e01536–14.
+
+Costerton JW, Stewart PS, Greenberg EP. Bacterial biofilms:
+Science
+
+common cause
+
+of persistent
+
+infections.
+
+a
+1999;284:1318–22.
+
+Danilatos GD, Postle R. The environmental scanning electron
+microscope and its applications. Scan Electron Micros 1982;
+(Pt 1):1–16.
+
+DeBeer D, Stoodley P, Lewandowski Z. Measurement of local dif-
+fusion coefficients in biofilms by micro-injection and confo-
+cal microscopy. Biotechnol Bioeng 1997;53:151–8.
+
+Dodds MG, Grobe KJ, Stewart PS. Modeling biofilm antimicrobial
+
+resistance. Biotechnol Bioeng 2000;68:456–65.
+
+Donlan RM. Biofilms: microbial life on surfaces. Emerg Infect Dis
+
+2002;8:881–90.
+
+Dunsmore BC, Jacobsen A, Hall-Stoodley L, et al. The influ-
+ence of fluid shear on the structure and material proper-
+ties of sulphate-reducing bacterial biofilms. J Ind Microbiol Biot
+2002;29:347–53.
+
+Eastman JM, Harmon LJ, La HJ, et al. The onion model, a sim-
+ple neutral model for the evolution of diversity in bacterial
+biofilms. J Evolution Biol 2011;24:2496–504.
+
+Edwards C, Marks R. Evaluation of biomechanical properties of
+
+human skin. Clin Dermatol 1995;13:375–80.
+
+Elert G. Viscosity.
+
+In: The Physics Hypertextbook,
+
+2014.
+
+http://physics.info.
+
+Blanco VL, Cobb CM, Williams KB, et al. In vitro effect of the
+Sensonic toothbrush on Treponema denticola. J Clin Periodontol
+1997;24:318–23.
+
+Entcheva-Dimitrov P, Spormann AM. Dynamics and control of
+biofilms of the oligotrophic bacterium Caulobacter crescentus.
+J Bacteriol 2004;186:8254–66.
+
+Peterson et al.
+
+243
+
+Ferracane JL. Materials in Dentistry: Principles and applications.
+2nd ed. Lippencott, Williams and Wilkins. Philadelphia, PA,
+USA, 2001.
+
+Kolenbrander PE, Palmer RJ, Jr, Periasamy S, et al. Oral multi-
+species biofilm development and the key role of cell-cell dis-
+tance. Nat Rev Microbiol 2010;8:471–80.
+
+Flemming HC, Wingender J. The biofilm matrix. Nat Rev Microbiol
+
+2010;8:623–33.
+
+Fux CA, Costerton JW, Stewart PS, et al. Survival strategies of in-
+
+fectious biofilms. Trends Microbiol 2005;13:34–40.
+
+Galy O, Latour-Lambert P, Zrelli K, et al. Mapping of bacterial
+biofilm local mechanics by magnetic microparticle actua-
+tion. Biophys J 2012;103:1400–8.
+
+Gerdesmeyer L, Von Eiff C, Horn C, et al. Antibacterial effects
+of extracorporeal shock waves. Ultrasound Med Biol 2005;31:
+115–9.
+
+Gonzalez-Valencia G, Munoz O, Torres JF. Toxigenicity and
+adherence in Clostridium difficile strains isolated from pa-
+tients with and without diarrhoea. Arch Invest Med (Mex)
+1991;22:189–96.
+
+Gottenbos B, Van der Mei HC, Busscher HJ, et al. Initial adhesion
+and surface growth of Pseudomonas aeruginosa on negatively
+and positively charged poly(methacrylates). J Mater Sci Mater
+Med 1999;10:853–5.
+
+Guelon T, Mathias JD, Stoodley P. Advances in biofilm. In:
+Flemming HC, Wingender J, Szewzyk U (eds). Mechanics
+Biofilm Highlights, 5th edn. Berlin, Heidelberg: Springer, 2011,
+111–39.
+
+Gupta HS, Seto J, Krauss S, et al. In situ multi-level analysis of
+viscoelastic deformation mechanisms in tendon collagen. J
+Struct Biol 2010;169:183–91.
+
+He Y, Peterson BW, Jongsma MA, et al. Stress relaxation analy-
+sis facilitates a quantitative approach towards antimicrobial
+penetration into biofilms. PLoS One 2013;8:e63750.
+
+He Y, Peterson BW, Ren Y, et al. Antimicrobial penetration in
+a dual-species oral biofilm after noncontact brushing: an in
+vitro study. Clin Oral Invest 2014;18:1103–9.
+
+Hope CK, Clements D, Wilson M. Determining the spatial dis-
+tribution of viable and nonviable bacteria in hydrated mi-
+crocosm dental plaques by viability profiling. J Appl Microbiol
+2002;93:448–55.
+
+Inglis TJ. Evidence for dynamic phenomena in residual tracheal
+
+tube biofilm. Brit J Anaesth 1993;70:22–4.
+
+Inglis TJ, Millar MR, Jones JG, et al. Tracheal tube biofilm as a
+
+source of the lung. J Clin Microbiol 1989;27:2014–8.
+
+Inman BA, Etienne W, Rubin R, et al. The impact of tempera-
+ture and urinary constituents on urine viscosity and its rel-
+evance to bladder hyperthermia treatment. Int J Hyperther
+2013;29:206–10.
+
+Ito A, Taniuchi A, May T, et al. Increased antibiotic resistance
+of Escherichia coli in mature biofilms. Appl Environ Microb
+2009;75:4093–100.
+
+Koo H, Falsetta ML, Klein MI. The exopolysaccharide matrix:
+a virulence determinant of cariogenic biofilm. J Dent Res
+2013;92:1065–73.
+
+K ¨orstgens V, Flemming HC, Wingender J, et al. Uniaxial compres-
+sion measurement device for investigation of the mechani-
+cal stability of biofilms. J Microbiol Meth 2001;46:9–17.
+
+Lanter BB, Sauer K, Davies DG. Bacteria present in carotid arterial
+plaques are found as biofilm deposits which may contribute
+to enhanced risk of plaque rupture. mBio 2014;5:e01206–14.
+
+Lau PC, Dutcher JR, Beveridge TJ, et al. Absolute quantitation of
+bacterial biofilm adhesion and viscoelasticity by microbead
+force spectroscopy. Biophys J 2009;96:2935–48.
+
+Lawrence JR, Korber DR, Hoyle BD, et al. Optical sectioning of mi-
+
+crobial biofilms. J Bacteriol 1991;173:6558–67.
+
+Lawrence JR, Swerhone GD, Leppard GG, et al. Scanning trans-
+mission X-ray, laser scanning, and transmission electron mi-
+croscopy mapping of the exopolymeric matrix of microbial
+biofilms. Appl Environ Microb 2003;69:5543–4.
+
+Lazar V, Chifiriuc MC. Medical significance and new therapeu-
+tical strategies for biofilm associated infections. Roum Arch
+Microbiol Immunol 2010;69:125–38.
+
+Lee J, Kwon HJ. Measurement of stress-strain behaviour of hu-
+man hair fibres using optical techniques. Int J Cosmetic Sci
+2013;35:238–43.
+
+Li T, Bai R, Liu J. Distribution and composition of extracellu-
+lar polymeric substances in membrane-aerated biofilm. J
+Biotechnol 2008;135:52–7.
+
+Lieleg O, Caldara M, Baumg ¨artel R, et al. Mechanical robust-
+ness of Pseudomonas aeruginosa biofilms. Soft Matter 2011;7:
+3307–14.
+
+Lopez D, Vlamakis H, Kolter R. Biofilms. Cold Spring Harb Perspect
+
+Biol 2010;2:a000398.
+
+Mah TF, O’Toole GA. Mechanisms of biofilm resistance to antimi-
+
+crobial agents. Trends Microbiol 2001;9:34–9.
+
+Mathias JD, Stoodley P. Applying the digital image correla-
+tion method to estimate the mechanical properties of bac-
+terial biofilms subjected to a wall shear stress. Biofouling
+2009;25:695–703.
+
+Matias VR, Al-Amoudi A, Dubochet J, et al. Cryo-transmission
+electron microscopy of frozen-hydrated sections of Es-
+cherichia coli and Pseudomonas aeruginosa.
+J Bacteriol
+2003;185:6112–8.
+
+Mclean JS, Ona ON, Majors PD. Correlated biofilm imaging,
+transport and metabolism measurements via combined nu-
+clear magnetic resonance and confocal microscopy. ISME J
+2008;2:121–31.
+
+Jones WL, Sutton MP, McKittrick L, et al. Chemical and antimi-
+crobial treatments change the viscoelastic properties of bac-
+terial biofilms. Biofouling 2011;27:207–15.
+
+Muller P, Guggenheim B, Attin T, et al. Potential of shock waves
+to remove calculus and biofilm. Clin Oral Invest 2011;15:
+959–90.
+
+Kallman J, Schollin J, Hakansson S, et al. Adherence of group
+B streptococci to human endothelial cells in vitro. APMIS
+1993;101:403–8.
+
+Keren I, Kaldalu N, Spoering A, et al. Persister cells and tolerance
+
+Noffke N, Christian D, Wacey D, et al. Microbially induced sed-
+imentary structures recording an ancient ecosystem in the
+ca. 3.48 billion-year-old Dresser Formation, Pilbara, Western
+Australia. Astrobiology 2013a;13:1103–24.
+
+to antimicrobials. FEMS Microbiol Lett 2004;230:13–8.
+
+Noffke N, Decho AW, Stoodley P. Slime through time: the fossil
+
+Kim MK, Drescher K, Pak OS, et al. Filaments in curved
+streamlines: rapid formation of Staphylococcus aureus biofilm
+streamers. New J Phys 2014;16:065024.422a.
+
+Klapper I, Rupp CJ, Cargo R, et al. Viscoelastic fluid descrip-
+tion of bacterial biofilm material properties. Biotechnol Bioeng
+2002;80:289–96.
+
+record of prokaryote evolution. Palaios 2013b;28:1–5.
+
+Novak KF, Govindaswami M, Ebersole JL, et al. Effects of low-
+energy shock waves on oral bacteria. J Dent Res 2008;87:
+928–31.
+
+Oelschlaeger TA, Dobrindt U, Hacker J. Virulence factors of
+
+uropathogens. Curr Opin Urol 2002;12:33–8.
+
+244
+
+FEMS Microbiology Reviews, 2015, Vol. 39, No. 2
+
+Pal A, Ramamurthy T, Ghosh AR, et al. Virulence traits of
+Aeromonas strains in relation to species and source of isola-
+tion. Zbl Bakt 1992;276:418–28.
+
+Paramonova E, Kalmykowa OJ, Van der Mei HC, et al. Im-
+pact of hydrodynamics on oral biofilm strength. J Dent Res
+2009;88:922–6.
+
+Peterson BW, Busscher HJ, Sharma PK, et al. Environmental and
+centrifugal factors influencing the visco-elastic properties of
+oral biofilms in vitro. Biofouling 2012;28:913–20.
+
+Peterson BW, Busscher HJ, Sharma PK, et al. Visualization of
+microbiological processes underlying stress relaxation in
+Pseudomonas aeruginosa biofilms. Microsc Microanal 2014;20:
+912–5.
+
+Peterson BW, Van der Mei HC, Sjollema J, et al. A distinguishable
+role of eDNA in the viscoelastic properties of biofilms. mBio
+2013;4:e00497–13.
+
+Salek MM, Jones SM, Martinuzzi RJ. The influence of flow cell ge-
+ometry related shear stresses on the distribution, structure
+and susceptibility of Pseudomonas aeruginosa 01 biofilms. Bio-
+fouling 2009;25:711–25.
+
+Sanford BA, De Feijter AW, Wade MH, et al. A dual fluores-
+cence technique for visualization of Staphylococcus epider-
+midis biofilm using scanning confocal laser microscopy. J Ind
+Microbiol 1996;16:48–56.
+
+Schaudinn C, Carr G, Gorur A, et al. Imaging of endodontic
+biofilms by combined microscopy (FISH/CLSM - SEM). J Mi-
+crosc 2009;235:124–7.
+
+Schultz MP, Bendick JA, Holm ER, et al. Economic impact
+of biofouling on a naval surface ship. Biofouling 2011;27:
+87–98.
+
+Shaw T, Winston M, Rupp CJ, et al. Commonality of elastic relax-
+
+ation times in biofilms. Phys Rev Lett 2004;93:098102.
+
+Pitt WG, McBride MO, Lunceford JK, et al. Ultrasonic enhance-
+ment of antibiotic action on gram-negative bacteria. Antimi-
+crob Agents Ch 1994;38:2577–82.
+
+Shen Y, Stojicic S, Qian W, et al. The synergistic antimicrobial
+effect by mechanical agitation and two chlorhexidine prepa-
+rations on biofilm bacteria. J Endodont 2010;36:100–4.
+
+Poole K. Stress responses as determinants of antimicro-
+bial resistance in Gram-negative bacteria. Trends Microbiol
+2012;20:227–34.
+
+Spoering AL, Lewis K. Biofilms and planktonic cells of Pseu-
+domonas aeruginosa have similar resistance to killing by an-
+timicrobials. J Bacteriol 2001;183:6746–51.
+
+Poznanski J, Pawlowski P, Fikus M. Bioelectrorheological model
+of the cell. 3. Viscoelastic shear deformation of the mem-
+brane. Biophys J 1992;61:612–20.
+
+Qian Z, Sagers RD, Pitt WG. Investigation of the mechanism of
+the bioacoustic effect. J Biomed Mater Res 1999;44:198–205.
+Qian Z, Stoodley P, Pitt WG. Effect of low-intensity ultrasound
+upon biofilm structure from confocal scanning laser mi-
+croscopy observation. Biomaterials 1996;17:1975–80.
+
+Rantonen PJ, Meurman JH. Viscosity of whole saliva. Acta Odontol
+
+Scand 1998;56:210–4.
+
+Ratner BD, Hoffman AS, Schoen FJ, et al. Biomaterials Science:
+An introduction to materials in medicine. 2nd ed. Elsevier,
+Academic Press. San Diego, CA, USA 2004a.
+
+Ratner BD, Hoffman AS, Schoen FJ, et al. Bulk properties of ma-
+terials by Cooke FW. In: Biomaterials Science: An introduc-
+tion to materials in medicine. Elsevier, Academic Press. San
+Diego, CA, USA 2004b, 28–31.
+
+Rediske AM, Hymas WC, Wilkinson R, et al. Ultrasonic enhance-
+ment of antibiotic action on several species of bacteria. J Gen
+Appl Microbiol 1998;44:283–8.
+
+Rediske AM, Roeder BL, Nelson JL, et al. Pulsed ultrasound en-
+hances the killing of Escherichia coli biofilms by aminoglyco-
+side antibiotics in vivo. Antimicrob Agents Ch 2000;44:771–2.
+
+Stewart PS. Mini-review: convection around biofilms. Biofouling
+
+2012;28:187–98.
+
+Stewart PS. Biophysics of biofilm infection. Pathog Dis
+
+2014;70:212–8.
+
+Stewart PS, Costerton JW. Antibiotic resistance of bacteria in
+
+biofilms. Lancet 2001;358:135–8.
+
+Stoodley P, Cargo R, Rupp CJ, et al. Biofilm material properties as
+related to shear-induced deformation and detachment phe-
+nomena. J Ind Microbiol Biot 2002;29:361–7.
+
+Stoodley P, De Beer D, Lewandowski Z. Liquid flow in biofilm sys-
+
+tems. Appl Environ Microb 1994;60:2711–6.
+
+Stoodley P, Lewandowski Z, Boyle JD, et al. Structural deforma-
+tion of bacterial biofilms caused by short-term fluctuations
+in fluid shear: an in situ investigation of biofilm rheology.
+Biotechnol Bioeng 1999a;65:83–90.
+
+Stoodley P, Lewandowski Z, Boyle JD, et al. The formation of mi-
+gratory ripples in a mixed species bacterial biofilm growing
+in turbulent flow. Environ Microbiol 1999b;1:447–55.
+
+Sundd P, Pospieszalska MK, Ley K. Neutrophil rolling at high
+shear: flattening, catch bond behavior, tethers and slings. Mol
+Immunol 2013;55:59–69.
+
+Thomas JG, Nakaishi LA. Managing the complexity of a dynamic
+
+biofilm. J Am Dent Assoc 2006;137(Supplement):10S–5S.
+
+Reid G, Younes JA, Van der Mei HC, et al. Microbiota restora-
+tion: natural and supplemented recovery of human micro-
+bial communities. Nat Rev Microbiol 2011;9:27–38
+
+Thomas K, Herminghaus S, Porada H, et al. Formation of Kin-
+neyia via shear-induced instabilities in microbial mats. Philos
+T Roy Soc A 2013;371:20120362.
+
+Rmaile A, Carugo D, Capretto L, et al. Removal of interproximal
+dental biofilms by high-velocity water microdrops. J Dent Res
+2014;93:68–73.
+
+Towler BW, Rupp CJ, Cunningham AB, et al. Viscoelastic proper-
+ties of a mixed culture biofilm from rheometer creep analy-
+sis. Biofouling 2003;19:279–85.
+
+Robinson C. Mass transfer of therapeutics through natural hu-
+man plaque biofilms: a model for therapeutic delivery to
+pathological bacterial biofilms. Arch Oral Biol 2011;56:829–36.
+Rupp CJ, Fux CA, Stoodley P. Viscoelasticity of Staphylococcus au-
+reus biofilms in response to fluid shear allows resistance to
+detachment and facilitates rolling migration. Appl Environ Mi-
+crob 2005;71:2175–8.
+
+Rusconi R, Lecuyer S, Autrusson N, et al. Secondary flow as a
+mechanism for the formation of biofilm streamers. Biophys
+J 2011;100:1392–9.
+
+Rusconi R, Lecuyer S, Guglielmini L, et al. Laminar flow around
+corners triggers the formation of biofilm streamers. J R Soc
+Interface 2010;7:1293–9.
+
+Uppuluri P, Chaturvedi AK, Lopez-Ribot JL. Design of a simple
+model of Candida albicans biofilms formed under conditions
+of flow: development, architecture, and drug resistance. My-
+copathologia 2009;168:101–9.
+
+Vadillo-Rodriguez V, Dutcher JR. Viscoelasticity of the bacterial
+
+cell envelop. Soft Matter 2011;7:4101–10.
+
+Van Leeuwenhoek AP. Containing some microscopical observa-
+tions, about animals in the scrurf of the teeth. Philos T R Soc
+Lond 1684;14:568–74.
+
+Vandecandelaere I, Matthijs N, Nelis HJ, et al. The presence
+of antibiotic-resistant nosocomial pathogens in endotra-
+cheal tube biofilms and corresponding surveillance cultures.
+Pathog Dis 2013;69:142–8.
+
+Peterson et al.
+
+245
+
+Venugopalan VP, Kuehn M, Hausner M, et al. Architecture of
+a nascent Sphingomonas sp. biofilm under varied hydrody-
+namic conditions. Appl Environ Microb 2005;71:2677–86.
+Verkaik MJ, Busscher HJ, Rustema-Abbing M, et al. Oral biofilm
+Invest
+
+models for mechanical plaque removal. Clin Oral
+2010;14:403–9.
+
+Vincent J. Structural Biomaterials, 3rd edn, Princeton, NJ, USA:
+
+Princeton University Press, 2012.
+
+Vroom JM, De Grauw KJ, Gerritsen HC, et al. Depth penetration
+and detection of pH gradients in biofilms by two-photon ex-
+citation microscopy. Appl Environ Microb 1999;65:3502–11.
+Vu B, Chen M, Crawford RJ, et al. Bacterial extracellular
+polysaccharides involved in biofilm formation. Molecules
+2009;14:2535–54.
+
+Vuopio-Varkila J, Schoolnik GK. Localized adherence by en-
+teropathogenic Escherichia coli is an inducible phenotype
+associated with the expression of new outer membrane
+proteins. J Exp Med 1991;174:1167–77.
+
+Wagner M, Taherzadeh D, Haisch C, et al.
+
+Investigation
+of the mesoscale structure and volumetric features of
+
+biofilms using optical coherence tomography. Biotechnol Bio-
+eng 2010;107:844–53.
+
+Wallace PK, Arey B, Mahaffee WF. Subsurface examina-
+tion of a foliar biofilm using scanning electron- and
+focused-ion-beam microscopy. Micron
+2011;42:579–
+85.
+
+Weber SD, Ludwig W, Schleifer KH, et al. Microbial composition
+and structure of aerobic granular sewage biofilms. Appl Env-
+iron Microb 2007;73:6233–40.
+
+Whitchurch CB, Tolker-Nielsen T, Ragas PC, et al. Extracellu-
+lar DNA required for bacterial biofilm formation. Science
+2002;295:1487.
+
+Wloka M, Rehage H, Flemming HC, et al. Rheological properties of
+viscoelastic biofilm extracellular polymeric substances and
+comparison to the behavior of calcium alginate gels. Colloid
+Polym Sci 2004;282:1067–76.
+
+Wu Y, Liang J, Rensing K, et al. Extracellular matrix reorgani-
+zation during cryo preparation for scanning electron micro-
+scope imaging of Staphylococcus aureus biofilms. Microsc Mi-
+croanal 2014; 5: 1348–55.
+
+

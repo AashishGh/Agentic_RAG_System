@@ -1,0 +1,2951 @@
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+HHS Public Access
+Author manuscript
+Microbiol Spectr. Author manuscript; available in PMC 2018 May 29.
+
+Published in final edited form as:
+
+Microbiol Spectr. 2017 April ; 5(2): . doi:10.1128/microbiolspec.FUNK-0024-2016.
+
+Fungal Biofilms: Inside Out
+
+Katherine Lagree and Aaron P. Mitchell
+Department of Biological Sciences, Carnegie Mellon University, 4400 Fifth Avenue, room MI 
+200B, Pittsburgh, PA 15213
+
+Introduction
+
+We focus this chapter on turning a biofilm inside out. The “inside” of the biofilm comprises 
+the individual biofilm-related phenotypes, their environmental drivers and genetic 
+determinants, and the coordination of gene functions through transcriptional regulators. 
+Investigators have viewed the inside of the biofilm through diverse approaches, and this 
+chapter will attempt to capture the essence of many. The ultimate goal is to connect the 
+inside to the “outside,” which we view as biofilm structure, development, pharmacological 
+attributes, and medical impact.
+
+Biofilms are surface-associated microbial communities, encased in self-produced 
+extracellular material, that exhibit phenotypes distinct from those of planktonic (free-living) 
+cells. Microbes are thought to grow predominantly as biofilms in nature. (13). The surfaces 
+with which biofilm cells are associated may be diverse, and include solid abiotic materials, 
+tissues and cells, and air-water interfaces. In fact, a colony growing on an agar plate is a 
+biofilm!
+
+Biofilm cells are quite different from the mid-logarithmic phase planktonic cells that modern 
+microbiologists were trained to study (see (91)). Biofilm populations are invariably 
+heterogeneous (Figure 1A). Cells at the periphery of the biofilm are bathed in the external 
+medium; cells at the base of the biofilm may be limited for nutrients and oxygen, and 
+surrounded by their neighbors’ waste products. Cells at the periphery may be exposed to a 
+rapidly fluctuating environment; cells at the base are buffered from many abrupt changes. 
+Thus a mature biofilm may include cells exposed to a range of different nutrients, and the 
+biofilm cell population may be growing at a range of different rates.
+
+Our focus on biofilms stems from their central role in infection biology (21). Biofilms are 
+medically relevant in two major contexts: device-associated infection and in vivo growth. 
+Device-associated infection is the phenomenon that presence of an implanted medical device 
+is a significant risk factor for bloodstream or deep-tissue infection. The specific risk factor 
+and the likely types of infecting organisms vary with the kind of device and its location. The 
+connection to biofilm formation was first elucidated by Costerton and colleagues (21), who 
+found biofilms of infecting organisms on the devices that were removed from infected 
+patients. In the vast majority of cases, the devices are sterile when implanted, and later 
+
+Corresponding author: Aaron Mitchell; phone 412-268-5844; apm1@cmu.edu. 
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Lagree and Mitchell
+
+Page 2
+
+become colonized by microbes that enter the bloodstream. The biofilm on a device serves as 
+a reservoir that continually seeds the infection. Unfortunately, as detailed later in this 
+chapter, biofilm cells are generally recalcitrant to antimicrobials; thus device removal may 
+be the only therapeutic option. Because the usage of implanted devices continues to increase 
+worldwide, the problem of device-associated infection will only grow in the future.
+
+The second connection between biofilms and infection has to do with the nature of growth in 
+vivo. Some infections are quite obviously surface-associated growth. Examples include 
+mucosal infections such as thrush and vaginitis. Invasion of the surface may follow initial 
+infection, and the surface itself may change over the course of infection due to inflammation 
+and tissue damage. Other infections are not associated with host surfaces, but the infecting 
+organisms grow as an aggregate encased in extracellular matrix material. The aggregates 
+may be considered self-contained biofilms, analogous to the flocs that form at the end of 
+industrial fermentations (107).
+
+We now look inside fungal biofilms at the major biofilm-relevant phenotypes and, where 
+known, the molecular mechanisms that govern those properties. We focus primarily on C. 
+albicans, the biofilms of which have been studied extensively, as well as on A. fumigatus.
+
+Adherence
+
+A necessary step in biofilm formation is attachment to a biotic or abiotic surface. For C. 
+albicans biofilms, the attachment step is achieved through adhesive proteins expressed on the 
+cell surface that are usually in the category of Glycosyl Phosphatidyl Inositol (GPI)-
+anchored proteins. This kind of cell wall protein makes up a large portion of the total cell 
+wall protein complement in C. albicans. Indeed, 115 putative GPI-anchored proteins have 
+been identified, though more than half of these have no assigned function (86). The general 
+structure of GPI-anchored proteins includes an N-terminal signal sequence, which traffics 
+the protein to the endoplasmic reticulum, and a C-terminal hydrophobic domain site that 
+allows the attachment of a pre-formed GPI anchor (103). A third structural part of GPI-
+anchored proteins is the central region, which varies among proteins. Often, the central 
+region contains repeats of conserved, functional units.
+
+The Als (agglutinin-like sequence) family of adhesins is the most well known category of 
+GPI-anchored proteins in C. albicans. We use Als proteins to illustrate many general 
+principles of fungal adhesins. Mutants defective in expression of ALS1 and ALS3 have 
+decreased adherence to host and abiotic substrates (68, 93, 111). Due to their cell surface 
+expression and role in virulence, recombinant Als1 and Als3 have been investigated for use 
+as vaccines with considerable success in mice (98). Als proteins contain the canonical GPI-
+anchor components along with an immunoglobulin-like region near the N-terminal domain, 
+a conserved threonine-rich region, tandem repeats of a threonine-rich sequence, and a serine- 
+and threonine-rich stalk that is often highly glycosylated near the C-terminus (Figure 2). 
+Each of these domains has been studied in detail and has been shown to be functionally 
+important (16).
+
+Microbiol Spectr. Author manuscript; available in PMC 2018 May 29.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Lagree and Mitchell
+
+Page 3
+
+The Als immunoglobulin-like region has two immunoglobulin-like domains and a peptide-
+binding cavity. This domain is responsible for binding to a broad range of host substrates 
+such as E-cadherins, extracellular matrix proteins, or fucose containing-glycans (16, 79, 84). 
+Although ligand binding by Als proteins in solution is relatively weak, the loss of a highly 
+expressed Als protein has a very dramatic effect on adherence. This conundrum spurred 
+further structural and biochemical analysis of the N-terminal regions of several Als proteins. 
+Three Als regions are critical for substrate binding – the peptide-binding cavity, the 
+threonine-rich region, and the tandem repeat region (Figure 2). The peptide-binding cavity 
+interacts directly with ligands (47, 89), and the other regions mediate Als protein 
+aggregation, as discussed below.
+
+Following the N-terminus, there is a threonine-rich region (T). One function of this region is 
+to promote secretion, though the mechanistic basis for this role is not understood (84). The 
+second function is related to a highly conserved amyloid-forming domain within this region 
+that mediates Als protein association, yielding polyvalent Als protein aggregates. This 
+domain has been explored in detail by the Lipke group (77). Using atomic force microscopy 
+and amyloid binding dyes such as thioflavin T, amyloid formation was observed with 
+surface-expressed Als5. Following the discovery of amyloid formation in the Als proteins, 
+Chan and Lipke made the connection that the adherence of fungal cells to surfaces is 
+mediated through a process called “catch-bonding” (11). The process of catch-bonding 
+seems to be broadly utilized by other organisms to mediate adhesion, as it has been 
+described to occur with other systems such as mammalian selectins and bacterial adhesins 
+(96). Chan and Lipke showed that the domains are activated through sheer force. The force 
+causes nanodomains to form, comprising Als protein aggregates. This mechanism accounts 
+for the strong adherence exhibited by C. albicans when it adheres and forms a biofilm 
+compared to the relatively weak binding of adhesins to specific ligands in solution (11, 48).
+
+The threonine-rich amyloid-forming region is followed by threonine-rich tandem repeats 
+(TR). These repeats have been shown to be heavily glycosylated (84), and are predicted to 
+form antiparallel β-sheets (28). Expression of Als5 derivatives that differed in the numbers 
+of TR repeats in the heterologous host S. cerevisiae has shown that they mediate cell-cell 
+aggregation (84). This cell-cell aggregation function was independent of the 
+immunoglobulin-like domain (84). Several different modeling approaches argue that 
+aggregation of the TR is mediated primarily by hydrophobic interactions (28). In addition, 
+the TR region increases the affinity of the Als5 immunoglobulin-like region for at least one 
+substrate, fibronectin (84). Spectroscopic analysis argues that this TR function is mediated 
+by an effect on the folding of the immunoglobulin-like domain (84). It is remarkable that a 
+region of such simple sequence composition can have two distinct roles in Als5 activity! It 
+would be interesting to know whether the two TR functions may be separated genetically, 
+and if they are both critical for biofilm formation.
+
+There is a serine- and threonine-rich region adjacent to the TR region. Mutations that reduce 
+the length of this region prevent surface exposure of S. cerevisiae-expressed Als1 (50). 
+These results are consistent with detailed work on the Candida glabrata adhesin Epa1 (29), 
+which revealed that lack of the corresponding region caused the adhesin to be embedded 
+within the cell wall rather than surface-exposed (29). The serine-/threonine-rich regions of 
+
+Microbiol Spectr. Author manuscript; available in PMC 2018 May 29.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Lagree and Mitchell
+
+Page 4
+
+several other C. albicans adhesins, Eap1 and members of the Hyr/Iff family, are also 
+required for surface exposure (8, 46). Thus the function of this region, to enable surface 
+exposure of N-terminal ligand-binding domain, seems to be similar among many different 
+adhesin-like proteins. This region is sometimes called the stalk, a name that seems to reflect 
+function quite well.
+
+At the very C-terminus of Als proteins (and many other cell wall proteins) is a short 
+hydrophobic peptide that serves as a GPI-anchor addition signal. The GPI anchor, which is 
+added in the endoplasmic reticulum, possesses a lipid tail that serves as a membrane tether. 
+Upon trafficking to the cell surface, some GPI-anchored proteins remain tethered to the 
+outer face of the plasma membrane, whereas others are transferred to become covalently 
+linked to cell wall β-1,6 glucan (76). In C. albicans (51), as in S. cerevisiae (36), amino acid 
+residues neighboring the GPI-anchor addition site determine whether the protein becomes 
+localized primarily to the plasma membrane or cell wall. Beyond this generic function for 
+the GPI-anchor addition signal, Ahmad et al. have provided evidence that this region 
+influences the affinity of Als5 for its ligands (1). However, the study used recombinant 
+proteins, and it will be exciting if this function can be demonstrated in live fungal cells. In 
+general, the most broadly documented function for the GPI-anchor addition signal is to 
+mediate cell wall attachment of adhesins and other mannoproteins (76).
+
+How can you determine if a protein functions as an adhesin? Various approaches have been 
+used to answer this question. One way to show adhesive function is to express the protein in 
+a non-adherent organism. Fanning and colleagues utilized a bcr1Δ/Δ
+albicans that is defective in expression of most known adhesins including Als1 and Hwp1 
+(22). Therefore, this strain does not adhere to surfaces under a variety of conditions. By 
+overexpressing various genes of interest, Fanning et al. showed that several known adhesins 
+(Als1, Als4, Als2) restored adherence in a bcr1Δ/Δ
+
+ mutant strain of C. 
+
+ mutant.
+
+The model yeast S. cerevisiae, like the C. albicans bcr1Δ/Δ
+ mutant, does not adhere well to 
+many surfaces. Therefore, it has been widely used as a heterologous expression system for 
+assessing adhesive protein function. Als1, Als3, Eap1, Hwp1, and Rbt1 have each been 
+heterologously expressed in S. cerevisiae and shown to be functional adhesins (30, 32, 67). 
+The S. cerevisiae cells expressing these proteins attached and formed biofilms on abiotic and 
+cellular substrates, albeit to varying degrees (30, 32, 67). Using S. cerevisiae to express C. 
+albicans proteins is an effective way to reduce the redundancy of adhesins and other 
+adherence mechanisms that are utilized by C. albicans cells. However, it is important to note 
+that C. albicans translates the CUG codon as serine, while most other organisms including S. 
+cerevisiae translate CUG as leucine (90). This coding difference may cause unintended 
+structural consequences if the protein is not codon optimized.
+
+Biofilm integrity probably depends upon a balance of cell-substrate adherence and cell-cell 
+adherence (sometimes called cohesion (97)). The importance of this balance was 
+emphasized in studies of Cabral et al. of a panel of C. albicans strains that overexpressed 
+531 different individual genes, including many cell wall protein genes (10). They made the 
+perplexing observation that overexpression of certain cell wall proteins affected a strain’s 
+ability to form biofilms differentially, based on whether the biofilm was a mono-culture or 
+
+Microbiol Spectr. Author manuscript; available in PMC 2018 May 29.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Lagree and Mitchell
+
+Page 5
+
+multi-strain biofilm (10). For example, when cell wall genes were overexpressed in a pooled 
+biofilm assay of 531 strains, the PGA22-overexpressing strain had increased abundance 
+compared to other strains. However, when the strain was grown in a single strain biofilm 
+assay, the PGA22-overexpressing strain showed decreased biomass. The study found that 
+overexpression of PGA22 in C. albicans or a PGA22-derived hybrid gene in S. cerevisiae 
+augmented cell-cell adhesion, and the resulting clumps of cells had incresased sensitivity to 
+shear force (10). Therefore, the flow conditions under which these biofilm assays were 
+conducted could remove exposed cell aggregates in single-strain biofilms, but could not 
+dislodge the PGA22-overexpressing cells that were shielded by their 531 cousins in mixed-
+strain biofilms. This imaginative study illustrates both the importance of a balance of 
+adhesion to cells and substrates, as well as the act that cell-cell interactions within a biofilm 
+can allow increased cell diversity.
+
+The mold pathogen Aspergillus fumigatus also forms adhesive biofilms, though many of its 
+properties are quite different from C. albicans. Biofilm formation in A. fumigatus occurs in 
+vitro when grown under static aerial conditions or when grown attached to human bronchial 
+epithelial cells. The biofilm is characterized by a mat of hyphae, encased in extracellular 
+matrix and shows increased resistance to antifungal cells compared to planktonic cells (57, 
+92). For biofilms to form, these infections first begin with inhaled conidia that adhere to 
+bronchial epithelial cells or macrophages. A. fumigatus RodA was discovered as a 
+hydrophobin – a surface protein that confers hydrophobicity – that is expressed on conidia 
+(101). A rodA mutant was shown to have decreased adhesion, but was dispensable for 
+virulence in a mouse model of systemic infection (101). Similarly, CalA, a predicted adhesin 
+was shown to bind mouse lung cells and laminin (104). However, its role in virulence or 
+biofilm formation remains to be determined. Current understanding of A. fumigatus biofilms 
+suggests that an extracellular matrix component, discussed in the next section, may have a 
+more significant role in biofilm formation than any cell wall proteins.
+
+Extracellular matrix material
+
+One of the hallmarks of all biofilms is the presence of extracellular matrix (ECM) (21, 38). 
+The ECM can have diverse functions, including surface adherence, cell-cell aggregation, and 
+nutrient storage (25). Of special relevance to biofilm infections, ECM can present a barrier 
+that buffers biofilm cells from antimicrobial agents as well as host defenses (14, 20).
+
+ECM has been characterized from biofilms of several Candida species (summarized in (18)). 
+We focus here on two species, C. albicans and A. fumigatus, whose ECM has been studied 
+in detail. We note that ECM abundance and composition can vary considerably with growth 
+conditions (53), as does biofilm structure itself (Figure 1B), so some conclusions may differ 
+between studies because of use of distinct media.
+
+Initial characterization of the C. albicans ECM through chemical analysis revealed the 
+presence of glucose, hexosamine, protein, extracellular DNA (eDNA), and a few other 
+components (4). This analysis was complemented through functional assays for biofilm 
+integrity and adherence after enzymatic hydrolysis of ECM components (2). Overall biofilm 
+
+Microbiol Spectr. Author manuscript; available in PMC 2018 May 29.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Lagree and Mitchell
+
+Page 6
+
+integrity was found to depend upon multiple ECM components, including β-1,3 glucan, 
+chitin, protein, and eDNA.
+
+Are there unique proteins in the ECM? A combination of electrophoretic separation and 
+mass spectrometry identified abundant C. albicans biofilm matrix proteins, and compared 
+them to planktonic culture supernatant proteins (102). There was good correspondence 
+between the samples, which included both conventionally secreted proteins, which have an 
+N-terminal signal sequence, and unconventionally secreted proteins, which lack a signal 
+sequence (54). No biofilm-specific ECM proteins were identified. Therefore, if any ECM 
+proteins have unique functions in biofilm properties, these functions must arise in the 
+context of ECM, perhaps as a result of high concentration or association with other ECM 
+components.
+
+The composition of C. albicans ECM has recently been defined comprehensively through a 
+chemical and biochemical tour de force (110). The major components were proteins, 
+carbohydrates, lipids, and eDNA. Most importantly, an abundant mannan-glucan complex 
+called MGCx (which might be pronounced “Magic X”) was identified. It comprised 
+branched β-1,6 mannan complexed with linear β-1,6 glucan. Because this complex is 
+present at low levels if at all in cell wall preparations, it cannot arise from inadvertent 
+contamination of ECM with cell wall fragments. In fact, MGCx may be the first C. albicans 
+biofilm-specific marker.
+
+How might an ECM-specific marker like MGCx be assembled? A fascinating answer comes 
+from a study in which candidate genes were used to make mutants defective in individual 
+ECM carbohydrate components (56). One surprising result was that accumulation of three 
+ECM carbohydrates - mannan, β-1,3 glucan, and β-1,6 glucan - is coordinated: mutations 
+that reduce accumulation of one component generally reduce accumulation of all three. The 
+most intriguing finding was that mixed biofilms comprising mutants blocked in production 
+of different carbohydrate components displayed extracellular complementation, 
+accumulating all components at levels as great or greater than the wild type. These findings 
+indicate that ECM is assembled extracellularly (56). Perhaps the high local concentrations in 
+the biofim of substrates and enzymes for ECM assembly enable the reactions to proceed 
+more rapidly than in the relatively dilute supernatant of a planktonic culture.
+
+A second important finding from the comprehensive ECM analysis came from proteomic 
+studies of biofilms formed in vivo in animal infection models (110). Specifically, although 
+ECM from in vitro biofilms had 565 different C. albicans proteins, ECM from in vivo 
+biofilm models (venous catheter, urinary catheter, and denture) had only 16 C. albicans 
+proteins. The vast majority of ECM proteins found in vivo were from the host. Therefore, 
+host proteins may make unique functional contributions to the ECM from infecting biofilms. 
+Interestingly, Nett et al. found a group of 14 host proteins in common among ECM samples 
+from the three in vivo biofilm models (66), a very manageable number for functional 
+assessments. The significance of the host protein contribution is illustrated by the fact that an 
+inhibitor of C. albicans-fibronectin interaction blocks biofilm formation in vivo in a catheter 
+infection model (61). These exciting findings reinforce the importance of testing conclusions 
+
+Microbiol Spectr. Author manuscript; available in PMC 2018 May 29.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Lagree and Mitchell
+
+Page 7
+
+from in vitro studies in an in vivo biofilm model in order to validate their potential clinical 
+significance.
+
+A. fumigatus engages in biofilm growth during infection of the lung, where it clearly forms a 
+cohesive multicellular aggregate enmeshed in ECM (6, 49). (A. fumigatus is also linked to 
+some medical device-associated infections (87)). The A. fumigatus ECM comprises 
+galactomannan, β-1,3 glucan, monosaccharides, polyols, melanin, and a small amount of 
+protein (6). Importantly, A. fumigatus aggregates, called aspergillomas, resected from the 
+lungs of patients contain both galactomannan and β-1,3 glucan, thus emphasizing the 
+relevance to infection of these ECM components (49).
+
+One of the major A. fumigatus ECM components is a polymer made of galactose and N-
+acetyl-galactosamine (GAG; Galactosaminogalactan). Comparison to Aspergillus nidulans, 
+which makes a GAG that is low in N-acetyl-galactosamine, argues that A. fumigatus GAG 
+has a major role in promoting biofilm formation (45). GAG is localized to A. fumigatus 
+germ tubes and mycelia (26), and it mediates a multitude of virulence phenotypes. For 
+example, it promotes adherence to abiotic surfaces through hydrophobic interactions and has 
+been shown to interact with and bind to host cells such as pneuomocytes (26). GAG also 
+interacts with the immune system and is necessary for resistance to killing by neutrophil 
+extracellular traps (45). There is growing evidence that C. albicans ECM also functions in 
+immune evasion and manipulation of the host response (60).
+
+A. fumigatus ECM formed in vitro has some eDNA content (80, 95). Rajendran et al. found 
+that chitinase activity accumulates in mature biofilms (80), and the association of chitinase 
+with autolysis (94) suggests that autolysis leads to DNA release into the ECM. In support of 
+this hypothesis, addition of a chitinase inhibitor reduced ECM eDNA content (80). DNAse 
+treatment disrupts A. fumigatus biofilm integrity, thus indicating that eDNA plays a 
+structural role in this species’ biofilm (80).
+
+Dispersed cells
+
+Dispersion is an important step in the developmental cycle of biofilm formation. The 
+propagation of new biofilms necessitates the release and dispersal of new cells, due to the 
+fact that fungi are non-motile. Uppuluri et al. measured the kinetics of dispersion of C. 
+albicans cells using a flow biofilm model to mimic in vivo conditions where blood or other 
+fluids create flow over implanted medical devices (105). They showed that even at early time 
+points in biofilm formation, cells were being dispersed from the biofilm. Logically, the 
+released cells were not comprised of true hyphae, but the vast majority of cells were 
+polarized yeast-form cells. Although dispersed cells were predominantly yeast, the cells 
+showed unique phenotypic properties such as increased adhesion compared to planktonic 
+yeast cells. The dispersed cells also displayed increased virulence in a mouse model of 
+disseminated candidiasis. This implies that the dispersed cells represent a distinct class of 
+cell type in C. albicans.
+
+Environmental signals can impact dispersion. Uppuluri showed that the amount of cell 
+dispersion positively correlated with the amount of glucose in the media (105). 
+
+Microbiol Spectr. Author manuscript; available in PMC 2018 May 29.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Lagree and Mitchell
+
+Page 8
+
+Understanding the circumstances under which cells are most likely to be released from a 
+biofilm and enter a patient’s bloodstream could be important for clinical applications. 
+Similarly, preventing dispersal of these highly virulent cells could be a way to combat 
+systemic fungal infections caused by biofilms on implanted medical devices. In that context, 
+promoter shut-off experiments have identified four regulators - Ume6, Pes1, Nrg1, and 
+Hsp90 - that govern cell dispersion from pre-formed biofilms (87, 105, 106). In addition, 
+defects in a histone deacetylase complex encoded by HOS2, SIF2, SNT1, and SET2 reduce 
+the abundance of dispersed cells (69). These regulators of the genes they control may be 
+useful pharmacological targets for limiting biofilm accumulation.
+
+Drug resistance and persistence
+
+All biofilms are notorious for their resistance to antimicrobial drugs and antiseptics, and C. 
+albicans biofilms are no exception. One of the most careful comparisons of resistance of C. 
+albicans biofilm and planktonic cells, in the same assay format, comes from the pioneering 
+studies of Hawser and Douglas (39). They observed that biofilm growth conferred 5- to 7-
+fold greater tolerance to amphotericin B, flucytosine, or several azoles. Time course studies 
+of Chandra et al. revealed that C. albicans biofilms develop resistance to amphotericin B, 
+fluconazole, and other treatments rapidly - between 2 and 12 hr after initiation of biofilm 
+formation (12). How does biofilm resistance arise? Our current understanding is that several 
+mechanisms contribute to this phenotype, which makes it robust and quite consistent among 
+different C. albicans isolates and Candida species (39).
+
+One factor that contributes to resistance is the up-regulation of drug efflux pump genes 
+CDR1, CDR2 and MDR1 early in biofilm development (58, 81). Mutant analysis indicates 
+that these genes have measurable impact on fluconazole resistance early in biofilm 
+formation. As biofilms mature, though, other mechanisms make more prominent 
+contributions to resistance.
+
+A second factor is the presence of extracellular matrix material. One of the functional matrix 
+constituents is DNA: it contributes to resistance to amphotericin B and caspofungin, as 
+shown by the increased susceptibility of biofilm cells after DNAse treatment (52). 
+Interestingly, the treatment did not affect fluconazole susceptibility, thus indicating that 
+overall biofilm properties were not disrupted by the treatment. The mechanism by which 
+matrix extracellular DNA confers resistance is not known. Soluble β-1,3 glucan is a second 
+functional matrix constituent; it has a major role in biofilm azole resistance, as shown by 
+Nett and colleagues through engineering altered expression of the β-1,3 glucan synthase 
+gene FKS1 (64). They observed that changes in FKS1 expression were accompanied by 
+corresponding changes in soluble β-1,3 glucan in the matrix. The phenotypic impact was 
+dramatic: reductions in FKS1 expression yielded biofilms that were extremely fluconazole-
+sensitive. The effect was biofilm-specific, in that the same strains were unaffected in 
+fluconazole sensitivity during planktonic growth (64). Direct binding assays revealed that 
+soluble β-1,3 glucan binds directly to fluconazole, thus indicating that drug sequestration is 
+the mechanistic basis for biofilm fluconazole resistance (64). A follow-up study of candidate 
+genes showed that three genes, BGL2, PHR1, and XOG1 also govern fluconazole 
+susceptibility and matrix β-1,3 glucan production (100). These three genes specify 
+
+Microbiol Spectr. Author manuscript; available in PMC 2018 May 29.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Lagree and Mitchell
+
+Page 9
+
+extracellular glucan modification enzymes, making them inviting targets for anti-biofilm 
+therapeutics that might be combined with fluconazole.
+
+Another biofilm feature that contributes to the resilience of biofilms against antifungals is 
+the presence of persister cells. Persister cells are a distinct portion of dormant cells in a 
+genetically identical population that can survive concurrent lethal rounds of antimicrobial 
+treatments (5). Candida albicans persister cells are unique in that they only form when 
+grown in a biofilm (43); bacterial persister cells have been shown to form during both 
+stationary phase and biofilm growth. This implies a distinct mechanism underlying 
+persistence formation for fungal cells. When treated with amphotericin B or chlorhexidine, 
+Candida albicans cells grown to stationary or exponential phase are killed efficiently, but 
+when the cells are grown as a biofilm they show a distinct biphasic curve of killing. 
+Interestingly, efg1Δ/Δ
+formation, still formed persister cells at consistent levels. This suggests that the mechanism 
+regarding persistence formation is independent of formation of a normal biofilm; evidence 
+points to the idea that attachment to a surface may be sufficient to induce persister formation 
+(43). Additionally, the phenomenon of persister cells in Candida infections was shown to be 
+clinically relevant through the screening of 22 patients that presented with long-term 
+Candida infections. Perplexingly, the C. galbrata strains that were recovered showed low 
+levels of persister formation. On the other hand, the C. albicans isolates formed high levels 
+of persister cells (44).
+
+ mutants, which are defective in biofilm 
+
+, and mkc1Δ/Δ
+
+, cph1Δ/Δ
+
+One clue into the genetic basis of persister cells in Candida albicans comes from Bink et al. 
+(7), who showed that SOD (superoxide dismutase) mutants generate lower percentages of 
+persister cells when treated with miconazole. SODs function by converting ROS (reactive 
+oxygen species) to O2- thereby detoxifying the ROS. The reduction in persister cell 
+formation was only true when using the antifungal miconazole, which had been shown to 
+raise ROS levels in cells. However, these mutants did not completely eradicate the persister 
+cells, so undoubtedly there is still research to be done to understand the genetic regulation of 
+this phenomenon.
+
+Gene Expression
+
+There has been long-standing interest in identification of genes that are induced during 
+biofilm formation. Such genes were thought to be - and have proven to be! - enriched for 
+genes that contribute to biofilm formation, and can be informative in terms of broader 
+biological processes that are biofilm-relevant. As such, biofilm-associated genes can reveal 
+the identities of major regulatory systems and environmental signals that act during biofilm 
+formation. Below we call these genes “biofilm-associated genes” because they have been 
+defined through many different kinds of comparisons. Any one particular comparison may 
+yield a distinctive set of genes that are up-regulated in biofilm cells.
+
+Is there a fundamental biofilm-associated gene expression pattern? There have been a few 
+different approaches to this problem. Garcia-Sanchez et al. profiled biofilm cells grown 
+under diverse conditions in comparison to planktonic cells also grown under diverse 
+conditions (31). They arrived at a set of 325 genes (out of only 2002 represented on their 
+
+Microbiol Spectr. Author manuscript; available in PMC 2018 May 29.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Lagree and Mitchell
+
+Page 10
+
+microarrays) whose differential expression was characteristic of biofilm cells from multiple 
+comparisons; 214 genes were up-regulated in biofilms. These 214 genes were enriched in 
+transcription and translation genes as well as biosynthetic genes for amino acids, 
+polyamines, nucleotides, and lipids. Up-regulation of numerous translation-associated genes 
+in biofilm cells was also observed in a comparison that looked for shared gene expression 
+features among two different wild-type strains, SC5314 and WO-1 (17). These findings 
+argue that biofilm growth enables cellular biogenesis to occur over a prolonged period 
+compared to planktonic growth in the same medium. A simple explanation is that a biofilm 
+may capture excreted metabolites, thus facilitating their utilization when preferred 
+metabolites are exhausted.
+
+Many studies have reported that hyphal genes are up-regulated in biofilms compared to 
+planktonic cells (59, 70, 109). Garcia-Sanchez et al. had filtered those genes out by design 
+through inclusion of a nonfilamentous mutant grown under biofilm and planktonic 
+conditions (31); it was discovered that the mutant had the novel ability to form a biofilm on 
+a glass surface. However, in the RNA-Seq biofilm-planktonic comparison of both SC5314 
+and WO-1, down-regulation of hyphal genes was consistently observed in biofilm cells (17). 
+The biofilm time-course analysis of Fox et al. (27) may explain these disparate results: at 
+early times, hyphal genes were up-regulated in biofilm cells, but at later times, they were 
+down-regulated, relative to planktonic hyphae. Perhaps sufficiently high concentrations of 
+quorum sensing molecules such as farnesol accumulate in mature biofilms (42, 82), 
+inhibiting hyphal growth and hyphal gene expression at late times.
+
+How do gene expression features compare between biofilms grown in vitro and in vivo? 
+Profiling of C. albicans catheter biofilms by Nett et al. (63) reveals some consistent 
+responses. Specifically, amino acid biosynthetic genes and transcription/translation genes 
+were up-regulated in biofilm cells in vivo. In addition, numerous transporters were up-
+regulated, thus suggesting that biofilm cells may be limited for nutrients. The study 
+compared biofilm cells to planktonic hyphae, a likely basis for the failure to detect up-
+regulation of hyphal-associated genes in biofilm cells. Overall, then, the correlations among 
+broad trends in gene expression indicate that in vitro-grown biofilms serve as a useful model 
+for catheter biofilms that form in vivo.
+
+Have biofilm-associated genes been validated functionally? In other words, is gene 
+regulation a predictor of gene function? One approach is to use biofilm-associated gene 
+properties to deduce biofilm-relevant regulatory pathways. This approach was implemented 
+by the d’Enfert lab in their initial study of biofilm gene expression (31). Because many 
+amino acid biosynthetic genes were up-regulated in biofilm cells, they inferred that the 
+general amino acid control regulator, Gcn4, may be critical for biofilm formation. Indeed, 
+they observed that a gcn4Δ/Δ
+biomass compared to the wild-type strain (31). Another illustration of this kind of thinking 
+comes from the observation that biofilm-associated gene expression resembles the response 
+to hypoxia (88), an observation first reported for Candida parapsilosis. That observation 
+suggests that a mutant defective in hypoxic regulation may be defective in biofilm 
+formation. Indeed, Bonhomme et al. found that Tye7, a transcription factor required for the 
+hypoxic response (88), is required for many features of C. albicans biofilms (9). A third 
+
+ mutant produced a defective biofilm, one with reduced 
+
+Microbiol Spectr. Author manuscript; available in PMC 2018 May 29.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Lagree and Mitchell
+
+Page 11
+
+example comes from the point raised above that hyphal-associated genes have often been 
+observed to be up-regulated in biofilms (depending on the specific biofilm-planktonic 
+comparison). That observation makes sense because hyphae are a prominent feature of C. 
+albicans biofilms grown under almost any condition, and suggests that mutants defective in 
+expression of hyphal-associated genes will be defective in biofilm formation. That prediction 
+has turned out to be correct time and again (33, 34, 70, 83). Therefore, inferences from 
+biofilm profiling data about biofilm-relevant regulatory pathways has proven successful in 
+terms of functional validation.
+
+The second approach to functional validation is to determine whether each specific biofilm-
+associated gene has a measurable function in biofilm formation. Here the results have been 
+mixed, though there may be some useful lessons for the future. The initial study of this kind, 
+from the d’Enfert group, examined deletion mutants of 38 biofilm-associated genes for 
+defects in biofilm biomass or hyphal morphogenesis (9). The genes had been chosen based 
+on the magnitude of their up-regulation in biofilms after elimination of likely essential genes 
+and members of gene families. Eight of the 38 mutants produced biofilms with moderately 
+reduced biomass but had no planktonic growth defect; one mutant had severely reduced 
+biofilm biomass and a severe planktonic growth defect. On its face, the results were slightly 
+disappointing because the yield of biofilm-defective mutants was low, and because the 
+biofilm-defective mutants identified had mild defects. In a related approach, Desai et al. 
+focused on genes that were up-regulated in biofilms of two different clinical C. albicans 
+isolates (17). Of 62 most highly up-regulated genes, viable insertion mutants could be 
+isolated for 25 genes. The mutants were screened for a panel of biofilm-related phenotypes, 
+including biofilm formation, drug tolerance, quorum-sensing signaling, and others. Most of 
+these mutants, 20 of 25, had significant defects in at least one biofilm-related phenotype. 
+The high yield of biofilm-relevant phenotypes in this study may have reflected both the gene 
+selection criteria as well as the range and sensitivity of the phenotypic assays.
+
+The validation approaches and results presented above apply to in vitro-grown biofilms. 
+However, the specific in vitro conditions used can have dramatic effects on biofilm 
+properties (15, 97), and some mutations cause a biofilm defect only under a subset of in vitro 
+conditions (85). In fact, one theme that has emerged repeatedly in all aspects of infection 
+biology is that in vitro conditions can be poor mimics of in vivo conditions. Hence the key 
+validation approach in our view is to determine whether a biofilm-associated gene can be 
+shown to function in an animal model of biofilm infection. The most frequently used model 
+is a rat venous catheter biofilm model (3). Several mutant strains have similar biofilm 
+defects in vitro and in vivo (17, 24, 62, 68, 70, 74, 87, 100). However, there are examples in 
+which the severity of a mutant defect is much greater in vitro than in a catheter model in 
+vivo, and vice versa (17, 23, 70, 73). It would accelerate biofilm research considerably if 
+there existed an in vitro model that could accurately predict in vivo outcomes.
+
+Biofilm gene regulation
+
+It has proven useful to identify biofilm regulators for three main reasons. First, because a 
+single transcription factor often controls many functionally related target genes, a single 
+biofilm-defective transcription factor mutant can lead to discovery of many biofilm-relevant 
+
+Microbiol Spectr. Author manuscript; available in PMC 2018 May 29.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Lagree and Mitchell
+
+Page 12
+
+genes among the target genes that it regulates. One of the initial illustrations of this principle 
+came from studies of the S. cerevisiae mating type locus, which specifies master regulators 
+whose target genes confer individual cell type-specific properties (40). Second, there are 
+many examples in which a transcription factor mutant has a more prominent phenotype than 
+mutants defective in individual target genes of the transcription factor. A simple illustration 
+comes again from studies of S. cerevisiae, this time of meiosis and spore formation: many 
+mutations that caused a prominent sporulation defect affected meiotic regulators rather than 
+the machinery that mediated specific meiotic events (55). This outcome could reasonably be 
+considered a result of the first principle. Third, some biofilm regulators identified in C. 
+albicans have orthologs in other Candida species that also govern biofilm formation 
+(discussed below). Hence a biofilm regulator can provide an entry point for definition of 
+biofilm-relevant genes and biological processes in many organisms.
+
+The transcription factors that control biofilm formation have been identified through several 
+approaches. One approach is deductive logic based upon expression profiling or other 
+biofilm features, as discussed above (9, 33, 34, 83). A second approach is to screen a set of 
+transcription factor mutants for defects in biofilm formation or related phenotypes. For 
+example, panels of both insertion and deletion mutants have been screened for failure to 
+form biofilms (27, 70, 72). An elegant variation on this approach was to assay mutants at 
+several time points in biofilm formation (27). Another related screen was for mutants that 
+were defective in adherence to a silicone substrate (23). Overall, 51 transcription factor 
+genes have been shown to affect biofilm-related properties in these large-scale screens as 
+well as more focused studies (33, 71).
+
+These studies have revealed that there is a major biofilm regulatory network, sometimes 
+called the “core network” (71), comprising transcriptional regulators of hyphal 
+morphogenesis and hyphal genes. These transcription factors include Flo8, Rfx2, Gal4 (27), 
+Brg1, Bcr1, Rob1, Efg1, Ndt80, and Tec1 (70, 72, 83). These transcription factors are 
+functionally interconnected, in that each binds to at least one other network regulator’s 
+upstream region and regulates its expression (27, 70). Rfx2 and Gal4 are negative regulators 
+of biofilm formation; the respective null mutations cause increased biofilm formation (27), 
+and, for Rfx2, an increase in expression of many hyphal genes (37). The other transcription 
+factors in this network are positive regulators of biofilm formation; null mutations cause 
+reduced biofilm formation and reduced expression of hyphal genes (27, 70, 72, 83). For 
+many of the positive regulators in this network, current evidence indicates that adhesin genes 
+ALS1, ALS3, and HWP1 are critical downstream target genes, because overexpression of 
+one of these genes can restore considerable biofilm formation (68, 70, 111). However, there 
+are likely to be additional network target genes that contribute to biofilm formation, because 
+phenotypic rescue by adhesin overexpression is only partial in some cases (70). In fact, there 
+are 21 transcription factor genes whose 5′ regions are bound by one or more network 
+regulators, and that govern biofilm-relevant phenotypes (AHR1, BPR1, CAS5, CRZ2, 
+CZF1, FCR3, GCN4, GRF10, GZF3, MSS11, NRG1, RFG1, RIM101, TRY4, TRY5, TRY6, 
+TYE7, UME6, ZAP1, ZCF31, and ZCF8) (33, 71). Hence this regulatory network controls 
+adhesins and, potentially, many additional diverse biofilm properties.
+
+Microbiol Spectr. Author manuscript; available in PMC 2018 May 29.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Lagree and Mitchell
+
+Page 13
+
+Are all biofilm properties under control of this core network? It is not clear as of yet. There 
+are 21 transcriptional regulatory genes that control biofilm formation or biofilm-relevant 
+properties, including ACE2, ADA2, ARG81, DAL81, FGR27, LEU3, MET4, NOT3, RLM1, 
+SNF5, SUC1, TAF14, TRY2, TRY3, UGA33, WAR1, ZCF28, ZCF34, ZCF39, ZFU2, and 
+ZNC1 (71). These regulators govern such properties as the level of extracellular matrix (65) 
+or the adherence of yeast-form cells (23). These features could conceivably be regulated 
+independently of hyphal adhesins. Whether they are regulated through the core network is an 
+interesting question for future studies.
+
+Have we found all of the biofilm regulators? One could reasonably argue that 51 regulators 
+are enough! We suspect that there are others, though, and that they are worth studying. We 
+think that there are others worth studying because of the in vitro-in vivo differences 
+mentioned earlier in this chapter. Specifically, our lab has identified transcription factors that 
+are required for biofilm formation in vivo, but not in vitro (23). Thus we hypothesize that the 
+systematic screens used thus far may have overlooked other transcription factors with these 
+properties. Perhaps they could be identified through application of the elegant mutant pool 
+screens used by Noble (75) to assay in vivo biofilm formation assays.
+
+Conserved features
+
+Are there conserved features among biofilms of different Candida species? There are 
+certainly some conserved features, even though the biofilm architecture of each species has 
+been shown to vary. Several researchers have investigated this question of conservation by 
+comparing C. albicans and C. parapsilosis biofilms. Evidence suggests that the major 
+regulators of biofilm formation are conserved both species. This may come as a surprise, 
+because C. parapsilosis does not form true hyphae. Ding et al. (19) showed that the 
+transcription factor, Bcr1, is a major regulator of biofilm formation in C. parapsilosis, 
+comparable to C. albicans. Also, some downstream targets of Bcr1 are conserved between 
+the two species. Specifically, Bcr1 was shown to regulate CFEM protein genes in both 
+species. The CFEM proteins have been implicated in biofilm integrity (78, 99) in C. 
+albicans, but Ding found no evidence that CFEM mutants in C. parapsilosis are defective in 
+biofilm formation in vitro (19). Several CFEM proteins also function in heme iron 
+acquisition (108), and their regulation by Bcr1 is consistent with the iron utilization defect of 
+the C. albicans bcr1Δ/Δ
+required for C. parapsilosis biofilm formation remain to be identified.
+
+ mutant (19). However, the specific Bcr1-regulated genes that are 
+
+Holland et al. was the first to make an extensive deletion collection in C. parapsilosis, which 
+included homozygous deletions of 100 different genes, including many transcription factor 
+genes (41). From this study, many of the phenotypes were shown to be conserved between 
+C. albicans and C. parapsilosis. In the roles of biofilm formation, Efg1, Bcr1, and Ace2, 
+have all been confirmed as major regulators in both Candida species. However, Holland 
+found several other transcription factors (Cph2, Czf1, Gzf3, and Ume6) that played a role 
+only in C. parapsilosis. Upon sequencing of the biofilm transcriptome from each species, 
+Holland found that similarities between the two species clustered around genes involved 
+with metabolism (41). Similarly, when biofilms of both species were grown under hypoxic 
+conditions, there was good correlation between the two transcriptional profiles (88). For 
+
+Microbiol Spectr. Author manuscript; available in PMC 2018 May 29.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Lagree and Mitchell
+
+Page 14
+
+example, Upc2 is required in both species for regulation of egosterol biosynthesis genes 
+during hypoxia (35). It seems that the transcriptional landscape of biofilm formation in C. 
+albicans and C. parapsilosis may be broadly conserved, but with some distinct divergences 
+among regulators.
+
+Conclusion
+
+Inspection of the inside out biofilm leads to a simple question: Will a biofilm turn out to be 
+simply the sum of the parts? It is almost certainly not the sum of the parts that we know at 
+this time. We still have limited understanding of the drivers and determinants of cell 
+heterogeneity, as well as the flip side of heterogeneity, which is cell-cell cooperation. 
+Biofilms, like tissues, present a considerable systems-level challenge. We often conceive of 
+the collection of genes that govern biofilm formation as a network that acts within a single 
+cell, much like the systems-level view of S. cerevisiae. However, consideration of cell 
+heterogeneity makes a compelling case to us that there are many different networks active 
+among the diverse cells of a biofilm.
+
+An additional challenge that underlies the sum-of-the-parts question is that our biofilm parts 
+list is incomplete. One reason it is incomplete is because our in vitro biofilm models fail to 
+recapitulate many features of in vivo-grown biofilms, hence mutant phenotypes differ in 
+vitro and in vivo. In fact, each kind of biofilm – venous catheter, mucosal, etc. – is likely to 
+reflect a distinct balance of biofilm phenotypes and regulatory inputs. Going forward, it 
+seems imperative to validate experimental results with in vivo models in order to see which 
+biofilm determinants are most relevant to infection biology.
+
+Despite those challenges, a brief reflection on the history of fungal biofilm research 
+underscores our optimism and excitement for the future. It was only about 20 years ago that 
+Julia Douglas’ lab first viewed C. albicans biology through the lens of the biofilm paradigm. 
+Investigators have since elucidated the genetic and biochemical determinants of the many 
+biofilm features discussed in this chapter. We now have a solid foundation from which to 
+build our understanding of a fungal biofilm from the inside out.
+
+Acknowledgments
+
+We thank Carol Woolford, Fred Lanni, Jeniel Nett, David Andes, Jigar Desai, Jack Edwards, and Scott G. Filler for 
+many helpful discussions about biofilms and related topics. Our biofilm work has been supported by NIH grant R01 
+AI067703.
+
+References
+
+1. Ahmad MF, Yadav B, Kumar P, Puri A, Mazumder M, Ali A, Gourinath S, Muthuswami R, Komath 
+SS. The GPI anchor signal sequence dictates the folding and functionality of the Als5 adhesin from 
+Candida albicans. PLoS One. 2012; 7:e35305. [PubMed: 22509405] 
+
+2. Al-Fattani MA, Douglas LJ. Biofilm matrix of Candida albicans and Candida tropicalis: chemical 
+
+composition and role in drug resistance. J Med Microbiol. 2006; 55:999–1008. [PubMed: 
+16849719] 
+
+3. Andes D, Nett J, Oschel P, Albrecht R, Marchillo K, Pitula A. Development and characterization of 
+an in vivo central venous catheter Candida albicans biofilm model. Infect Immun. 2004; 72:6023–
+6031. [PubMed: 15385506] 
+
+Microbiol Spectr. Author manuscript; available in PMC 2018 May 29.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Lagree and Mitchell
+
+Page 15
+
+4. Baillie GS, Douglas LJ. Matrix polymers of Candida biofilms and their possible role in biofilm 
+
+resistance to antifungal agents. J Antimicrob Chemother. 2000; 46:397–403. [PubMed: 10980166] 
+5. Balaban NQ, Merrin J, Chait R, Kowalik L, Leibler S. Bacterial persistence as a phenotypic switch. 
+
+Science. 2004; 305:1622–1625. [PubMed: 15308767] 
+
+6. Beauvais A, Schmidt C, Guadagnini S, Roux P, Perret E, Henry C, Paris S, Mallet A, Prevost MC, 
+Latge JP. An extracellular matrix glues together the aerial-grown hyphae of Aspergillus fumigatus. 
+Cell Microbiol. 2007; 9:1588–1600. [PubMed: 17371405] 
+
+7. Bink A, Vandenbosch D, Coenye T, Nelis H, Cammue BP, Thevissen K. Superoxide dismutases are 
+
+involved in Candida albicans biofilm persistence against miconazole. Antimicrob Agents 
+Chemother. 2011; 55:4033–4037. [PubMed: 21746956] 
+
+8. Boisrame A, Cornu A, Da Costa G, Richard ML. Unexpected role for a serine/threonine-rich 
+
+domain in the Candida albicans Iff protein family. Eukaryot Cell. 2011; 10:1317–1330. [PubMed: 
+21841123] 
+
+9. Bonhomme J, Chauvel M, Goyard S, Roux P, Rossignol T, d’Enfert C. Contribution of the 
+
+glycolytic flux and hypoxia adaptation to efficient biofilm formation by Candida albicans. Mol 
+Microbiol. 2011; 80:995–1013. [PubMed: 21414038] 
+
+10. Cabral V, Znaidi S, Walker LA, Martin-Yken H, Dague E, Legrand M, Lee K, Chauvel M, Firon A, 
+Rossignol T, Richard ML, Munro CA, Bachellier-Bassi S, d’Enfert C. Targeted changes of the cell 
+wall proteome influence Candida albicans ability to form single- and multi-strain biofilms. PLoS 
+Pathog. 2014; 10:e1004542. [PubMed: 25502890] 
+
+11. Chan CX, Lipke PN. Role of force-sensitive amyloid-like interactions in fungal catch bonding and 
+
+biofilms. Eukaryot Cell. 2014; 13:1136–1142. [PubMed: 24681687] 
+
+12. Chandra J, Kuhn DM, Mukherjee PK, Hoyer LL, McCormick T, Ghannoum MA. Biofilm 
+formation by the fungal pathogen Candida albicans: development, architecture, and drug 
+resistance. J Bacteriol. 2001; 183:5385–5394. [PubMed: 11514524] 
+
+13. Costerton JW, Lewandowski Z, Caldwell DE, Korber DR, Lappin-Scott HM. Microbial biofilms. 
+
+Annu Rev Microbiol. 1995; 49:711–745. [PubMed: 8561477] 
+
+14. Costerton JW, Stewart PS, Greenberg EP. Bacterial biofilms: a common cause of persistent 
+
+infections. Science. 1999; 284:1318–1322. [PubMed: 10334980] 
+
+15. Daniels KJ, Park YN, Srikantha T, Pujol C, Soll DR. Impact of environmental conditions on the 
+form and function of Candida albicans biofilms. Eukaryot Cell. 2013; 12:1389–1402. [PubMed: 
+23954841] 
+
+16. de, Groot PW., Bader, O., de Boer, AD., Weig, M., Chauhan, N. Adhesins in human fungal 
+
+pathogens: glue with plenty of stick. Eukaryot Cell. 2013; 12:470–481. [PubMed: 23397570] 
+17. Desai JV, Bruno VM, Ganguly S, Stamper RJ, Mitchell KF, Solis N, Hill EM, Xu W, Filler SG, 
+Andes DR, Fanning S, Lanni F, Mitchell AP. Regulatory role of glycerol in Candida albicans 
+biofilm formation. mBio. 2013; 4:e00637–00612. [PubMed: 23572557] 
+
+18. Desai JV, Mitchell AP, Andes DR. Fungal biofilms, drug resistance, and recurrent infection. Cold 
+
+Spring Harb Perspect Med. 2014:4.
+
+19. Ding C, Vidanes GM, Maguire SL, Guida A, Synnott JM, Andes DR, Butler G. Conserved and 
+
+divergent roles of Bcr1 and CFEM proteins in Candida parapsilosis and Candida albicans. PLoS 
+One. 2011; 6:e28151. [PubMed: 22145027] 
+
+20. Donlan RM. Biofilms and device-associated infections. Emerg Infect Dis. 2001; 7:277–281. 
+
+[PubMed: 11294723] 
+
+21. Donlan RM, Costerton JW. Biofilms: survival mechanisms of clinically relevant microorganisms. 
+
+Clin Microbiol Rev. 2002; 15:167–193. [PubMed: 11932229] 
+
+22. Fanning S, Xu W, Beaurepaire C, Suhan JP, Nantel A, Mitchell AP. Functional control of the 
+Candida albicans cell wall by catalytic protein kinase A subunit Tpk1. Mol Microbiol. 2012; 
+86:284–302. [PubMed: 22882910] 
+
+23. Finkel JS, Xu W, Huang D, Hill EM, Desai JV, Woolford CA, Nett JE, Taff H, Norice CT, Andes 
+DR, Lanni F, Mitchell AP. Portrait of Candida albicans adherence regulators. PLoS Pathog. 2012; 
+8:e1002525. [PubMed: 22359502] 
+
+Microbiol Spectr. Author manuscript; available in PMC 2018 May 29.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Lagree and Mitchell
+
+Page 16
+
+24. Finkel JS, Yudanin N, Nett JE, Andes DR, Mitchell AP. Application of the systematic “DAmP” 
+approach to create a partially defective C. albicans mutant. Fungal Genet Biol. 2011; 48:1056–
+1061. [PubMed: 21820070] 
+
+25. Flemming HC, Wingender J. The biofilm matrix. Nat Rev Microbiol. 2010; 8:623–633. [PubMed: 
+
+20676145] 
+
+26. Fontaine T, Delangle A, Simenel C, Coddeville B, van Vliet SJ, van Kooyk Y, Bozza S, Moretti S, 
+
+Schwarz F, Trichot C, Aebi M, Delepierre M, Elbim C, Romani L, Latge JP. 
+Galactosaminogalactan, a new immunosuppressive polysaccharide of Aspergillus fumigatus. PLoS 
+Pathog. 2011; 7:e1002372. [PubMed: 22102815] 
+
+27. Fox EP, Bui CK, Nett JE, Hartooni N, Mui MC, Andes DR, Nobile CJ, Johnson AD. An expanded 
+regulatory network temporally controls Candida albicans biofilm formation. Mol Microbiol. 2015; 
+96:1226–1239. [PubMed: 25784162] 
+
+28. Frank AT, Ramsook CB, Otoo HN, Tan C, Soybelman G, Rauceo JM, Gaur NK, Klotz SA, Lipke 
+PN. Structure and function of glycosylated tandem repeats from Candida albicans Als adhesins. 
+Eukaryot Cell. 2010; 9:405–414. [PubMed: 19820118] 
+
+29. Frieman MB, McCaffery JM, Cormack BP. Modular domain structure in the Candida glabrata 
+
+adhesin Epa1p, a beta1,6 glucan-cross-linked cell wall protein. Mol Microbiol. 2002; 46:479–492. 
+[PubMed: 12406223] 
+
+30. Fu Y, Rieg G, Fonzi WA, Belanger PH, Edwards JE Jr, Filler SG. Expression of the Candida 
+
+albicans gene ALS1 in Saccharomyces cerevisiae induces adherence to endothelial and epithelial 
+cells. Infect Immun. 1998; 66:1783–1786. [PubMed: 9529114] 
+
+31. Garcia-Sanchez S, Aubert S, Iraqui I, Janbon G, Ghigo JM, d’Enfert C. Candida albicans biofilms: 
+a developmental state associated with specific and stable gene expression patterns. Eukaryot Cell. 
+2004; 3:536–545. [PubMed: 15075282] 
+
+32. Gaur NK, Klotz SA. Expression, cloning, and characterization of a Candida albicans gene, ALA1, 
+that confers adherence properties upon Saccharomyces cerevisiae for extracellular matrix proteins. 
+Infect Immun. 1997; 65:5289–5294. [PubMed: 9393828] 
+
+33. Ghosh AK, Wangsanut T, Fonzi WA, Rolfes RJ. The GRF10 homeobox gene regulates filamentous 
+
+growth in the human fungal pathogen Candida albicans. FEMS Yeast Res. 2015:15.
+
+34. Greig JA, Sudbery IM, Richardson JP, Naglik JR, Wang Y, Sudbery PE. Cell cycle-independent 
+
+phospho-regulation of Fkh2 during hyphal growth regulates Candida albicans pathogenesis. PLoS 
+Pathog. 2015; 11:e1004630. [PubMed: 25617770] 
+
+35. Guida A, Lindstadt C, Maguire SL, Ding C, Higgins DG, Corton NJ, Berriman M, Butler G. Using 
+RNA-seq to determine the transcriptional landscape and the hypoxic response of the pathogenic 
+yeast Candida parapsilosis. BMC Genomics. 2011; 12:628. [PubMed: 22192698] 
+
+36. Hamada K, Terashima H, Arisawa M, Kitada K. Amino acid sequence requirement for efficient 
+
+incorporation of glycosylphosphatidylinositol-associated proteins into the cell wall of 
+Saccharomyces cerevisiae. J Biol Chem. 1998; 273:26946–26953. [PubMed: 9756943] 
+
+37. Hao B, Clancy CJ, Cheng S, Raman SB, Iczkowski KA, Nguyen MH. Candida albicans RFX2 
+encodes a DNA binding protein involved in DNA damage responses, morphogenesis, and 
+virulence. Eukaryot Cell. 2009; 8:627–639. [PubMed: 19252121] 
+
+38. Hawser SP, Baillie GS, Douglas LJ. Production of extracellular matrix by Candida albicans 
+
+biofilms. J Med Microbiol. 1998; 47:253–256. [PubMed: 9511830] 
+
+39. Hawser SP, Douglas LJ. Resistance of Candida albicans biofilms to antifungal agents in vitro. 
+
+Antimicrob Agents Chemother. 1995; 39:2128–2131. [PubMed: 8540729] 
+
+40. Herskowitz I. A regulatory hierarchy for cell specialization in yeast. Nature. 1989; 342:749–757. 
+
+[PubMed: 2513489] 
+
+41. Holland LM, Schroder MS, Turner SA, Taff H, Andes D, Grozer Z, Gacser A, Ames L, Haynes K, 
+Higgins DG, Butler G. Comparative phenotypic analysis of the major fungal pathogens Candida 
+parapsilosis and Candida albicans. PLoS Pathog. 2014; 10:e1004365. [PubMed: 25233198] 
+42. Hornby JM, Jensen EC, Lisec AD, Tasto JJ, Jahnke B, Shoemaker R, Dussault P, Nickerson KW. 
+Quorum sensing in the dimorphic fungus Candida albicans is mediated by farnesol. Appl Environ 
+Microbiol. 2001; 67:2982–2992. [PubMed: 11425711] 
+
+Microbiol Spectr. Author manuscript; available in PMC 2018 May 29.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Lagree and Mitchell
+
+Page 17
+
+43. LaFleur MD, Kumamoto CA, Lewis K. Candida albicans biofilms produce antifungal-tolerant 
+persister cells. Antimicrob Agents Chemother. 2006; 50:3839–3846. [PubMed: 16923951] 
+
+44. Lafleur MD, Qi Q, Lewis K. Patients with long-term oral carriage harbor high-persister mutants of 
+
+Candida albicans. Antimicrob Agents Chemother. 2010; 54:39–44. [PubMed: 19841146] 
+45. Lee MJ, Liu H, Barker BM, Snarr BD, Gravelat FN, Al Abdallah Q, Gavino C, Baistrocchi SR, 
+Ostapska H, Xiao T, Ralph B, Solis NV, Lehoux M, Baptista SD, Thammahong A, Cerone RP, 
+Kaminskyj SG, Guiot MC, Latge JP, Fontaine T, Vinh DC, Filler SG, Sheppard DC. The fungal 
+exopolysaccharide galactosaminogalactan mediates virulence by enhancing resistance to 
+neutrophil extracellular traps. PLoS Pathog. 2015; 11:e1005187. [PubMed: 26492565] 
+
+46. Li F, Palecek SP. Distinct domains of the Candida albicans adhesin Eap1p mediate cell-cell and 
+
+cell-substrate interactions. Microbiology. 2008; 154:1193–1203. [PubMed: 18375812] 
+
+47. Lin J, Oh SH, Jones R, Garnett JA, Salgado PS, Rusnakova S, Matthews SJ, Hoyer LL, Cota E. 
+
+The peptide-binding cavity is essential for Als3-mediated adhesion of Candida albicans to human 
+cells. J Biol Chem. 2014; 289:18401–18412. [PubMed: 24802757] 
+
+48. Lipke PN, Garcia MC, Alsteens D, Ramsook CB, Klotz SA, Dufrene YF. Strengthening 
+
+relationships: amyloids create adhesion nanodomains in yeasts. Trends Microbiol. 2012; 20:59–65. 
+[PubMed: 22099004] 
+
+49. Loussert C, Schmitt C, Prevost MC, Balloy V, Fadel E, Philippe B, Kauffmann-Lacroix C, Latge 
+JP, Beauvais A. In vivo biofilm composition of Aspergillus fumigatus. Cell Microbiol. 2010; 
+12:405–410. [PubMed: 19889082] 
+
+50. Loza L, Fu Y, Ibrahim AS, Sheppard DC, Filler SG, Edwards JE Jr. Functional analysis of the 
+
+Candida albicans ALS1 gene product. Yeast. 2004; 21:473–482. [PubMed: 15116430] 
+
+51. Mao Y, Zhang Z, Gast C, Wong B. C-terminal signals regulate targeting of 
+
+glycosylphosphatidylinositol-anchored proteins to the cell wall or plasma membrane in Candida 
+albicans. Eukaryot Cell. 2008; 7:1906–1915. [PubMed: 18723603] 
+
+52. Martins M, Henriques M, Lopez-Ribot JL, Oliveira R. Addition of DNase improves the in vitro 
+activity of antifungal drugs against Candida albicans biofilms. Mycoses. 2012; 55:80–85. 
+[PubMed: 21668524] 
+
+53. Martins M, Uppuluri P, Thomas DP, Cleary IA, Henriques M, Lopez-Ribot JL, Oliveira R. 
+
+Presence of extracellular DNA in the Candida albicans biofilm matrix and its contribution to 
+biofilms. Mycopathologia. 2010; 169:323–331. [PubMed: 20012895] 
+
+54. McCotter SW, Horianopoulos LC, Kronstad JW. Regulation of the fungal secretome. Curr Genet. 
+
+2016; 62:533–545. [PubMed: 26879194] 
+
+55. Mitchell AP. Control of meiotic gene expression in Saccharomyces cerevisiae. Microbiol Rev. 
+
+1994; 58:56–70. [PubMed: 8177171] 
+
+56. Mitchell KF, Zarnowski R, Sanchez H, Edward JA, Reinicke EL, Nett JE, Mitchell AP, Andes DR. 
+Community participation in biofilm matrix assembly and function. Proc Natl Acad Sci U S A. 
+2015; 112:4092–4097. [PubMed: 25770218] 
+
+57. Mowat E, Butcher J, Lang S, Williams C, Ramage G. Development of a simple model for studying 
+the effects of antifungal agents on multicellular communities of Aspergillus fumigatus. J Med 
+Microbiol. 2007; 56:1205–1212. [PubMed: 17761484] 
+
+58. Mukherjee PK, Chandra J, Kuhn DM, Ghannoum MA. Mechanism of fluconazole resistance in 
+Candida albicans biofilms: phase-specific role of efflux pumps and membrane sterols. Infect 
+Immun. 2003; 71:4333–4340. [PubMed: 12874310] 
+
+59. Murillo LA, Newport G, Lan CY, Habelitz S, Dungan J, Agabian NM. Genome-wide transcription 
+
+profiling of the early phase of biofilm formation by Candida albicans. Eukaryot Cell. 2005; 
+4:1562–1573. [PubMed: 16151249] 
+
+60. Nett JE. The Host’s Reply to Candida Biofilm. Pathogens. 2016; 5:e33. [PubMed: 26999221] 
+61. Nett JE, Cabezas-Olcoz J, Marchillo K, Mosher DF, Andes DR. Targeting Fibronectin To Disrupt 
+
+In Vivo Candida albicans Biofilms. Antimicrob Agents Chemother. 2016; 60:3152–3155. 
+[PubMed: 26902759] 
+
+62. Nett JE, Crawford K, Marchillo K, Andes DR. Role of Fks1p and matrix glucan in Candida 
+albicans biofilm resistance to an echinocandin, pyrimidine, and polyene. Antimicrob Agents 
+Chemother. 2010; 54:3505–3508. [PubMed: 20516280] 
+
+Microbiol Spectr. Author manuscript; available in PMC 2018 May 29.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Lagree and Mitchell
+
+Page 18
+
+63. Nett JE, Lepak AJ, Marchillo K, Andes DR. Time course global gene expression analysis of an in 
+
+vivo Candida biofilm. J Infect Dis. 2009; 200:307–313. [PubMed: 19527170] 
+
+64. Nett JE, Sanchez H, Cain MT, Andes DR. Genetic basis of Candida biofilm resistance due to drug-
+
+sequestering matrix glucan. J Infect Dis. 2010; 202:171–175. [PubMed: 20497051] 
+
+65. Nett JE, Sanchez H, Cain MT, Ross KM, Andes DR. Interface of Candida albicans biofilm matrix-
+associated drug resistance and cell wall integrity regulation. Eukaryot Cell. 2011; 10:1660–1669. 
+[PubMed: 21666076] 
+
+66. Nett JE, Zarnowski R, Cabezas-Olcoz J, Brooks EG, Bernhardt J, Marchillo K, Mosher DF, Andes 
+DR. Host contributions to construction of three device-associated Candida albicans biofilms. Infect 
+Immun. 2015; 83:4630–4638. [PubMed: 26371129] 
+
+67. Nobbs AH, Vickerman MM, Jenkinson HF. Heterologous expression of Candida albicans cell wall-
+associated adhesins in Saccharomyces cerevisiae reveals differential specificities in adherence and 
+biofilm formation and in binding oral Streptococcus gordonii. Eukaryot Cell. 2010; 9:1622–1634. 
+[PubMed: 20709785] 
+
+68. Nobile CJ, Andes DR, Nett JE, Smith FJ, Yue F, Phan QT, Edwards JE, Filler SG, Mitchell AP. 
+Critical role of Bcr1-dependent adhesins in C. albicans biofilm formation in vitro and in vivo. 
+PLoS Pathog. 2006; 2:e63. [PubMed: 16839200] 
+
+69. Nobile CJ, Fox EP, Hartooni N, Mitchell KF, Hnisz D, Andes DR, Kuchler K, Johnson AD. A 
+
+histone deacetylase complex mediates biofilm dispersal and drug resistance in Candida albicans. 
+mBio. 2014; 5:e01201–01214. [PubMed: 24917598] 
+
+70. Nobile CJ, Fox EP, Nett JE, Sorrells TR, Mitrovich QM, Hernday AD, Tuch BB, Andes DR, 
+
+Johnson AD. A recently evolved transcriptional network controls biofilm development in Candida 
+albicans. Cell. 2012; 148:126–138. [PubMed: 22265407] 
+
+71. Nobile CJ, Johnson AD. Candida albicans Biofilms and Human Disease. Annu Rev Microbiol. 
+
+2016; 69:71–92.
+
+72. Nobile CJ, Mitchell AP. Regulation of cell-surface genes and biofilm formation by the C.albicans 
+
+transcription factor Bcr1p. Curr Biol. 2005; 15:1150–1155. [PubMed: 15964282] 
+
+73. Nobile CJ, Nett JE, Andes DR, Mitchell AP. Function of Candida albicans adhesin Hwp1 in 
+
+biofilm formation. Eukaryot Cell. 2006; 5:1604–1610. [PubMed: 17030992] 
+
+74. Nobile CJ, Nett JE, Hernday AD, Homann OR, Deneault JS, Nantel A, Andes DR, Johnson AD, 
+Mitchell AP. Biofilm matrix regulation by Candida albicans Zap1. PLoS Biol. 2009; 7:e1000133. 
+[PubMed: 19529758] 
+
+75. Noble SM, French S, Kohn LA, Chen V, Johnson AD. Systematic screens of a Candida albicans 
+homozygous deletion library decouple morphogenetic switching and pathogenicity. Nat Genet. 
+2010; 42:590–598. [PubMed: 20543849] 
+
+76. Orlean P. Architecture and biosynthesis of the Saccharomyces cerevisiae cell wall. Genetics. 2012; 
+
+192:775–818. [PubMed: 23135325] 
+
+77. Otoo HN, Lee KG, Qiu W, Lipke PN. Candida albicans Als adhesins have conserved amyloid-
+
+forming sequences. Eukaryot Cell. 2008; 7:776–782. [PubMed: 18083824] 
+
+78. Perez A, Pedros B, Murgui A, Casanova M, Lopez-Ribot JL, Martinez JP. Biofilm formation by 
+
+Candida albicans mutants for genes coding fungal proteins exhibiting the eight-cysteine-containing 
+CFEM domain. FEMS Yeast Res. 2006; 6:1074–1084. [PubMed: 17042757] 
+
+79. Phan QT, Myers CL, Fu Y, Sheppard DC, Yeaman MR, Welch WH, Ibrahim AS, Edwards JE Jr, 
+Filler SG. Als3 is a Candida albicans invasin that binds to cadherins and induces endocytosis by 
+host cells. PLoS Biol. 2007; 5:e64. [PubMed: 17311474] 
+
+80. Rajendran R, Williams C, Lappin DF, Millington O, Martins M, Ramage G. Extracellular DNA 
+release acts as an antifungal resistance mechanism in mature Aspergillus fumigatus biofilms. 
+Eukaryot Cell. 2013; 12:420–429. [PubMed: 23314962] 
+
+81. Ramage G, Bachmann S, Patterson TF, Wickes BL, Lopez-Ribot JL. Investigation of multidrug 
+efflux pumps in relation to fluconazole resistance in Candida albicans biofilms. J Antimicrob 
+Chemother. 2002; 49:973–980. [PubMed: 12039889] 
+
+82. Ramage G, Saville SP, Wickes BL, Lopez-Ribot JL. Inhibition of Candida albicans biofilm 
+
+formation by farnesol, a quorum-sensing molecule. Appl Environ Microbiol. 2002; 68:5459–5463. 
+[PubMed: 12406738] 
+
+Microbiol Spectr. Author manuscript; available in PMC 2018 May 29.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Lagree and Mitchell
+
+Page 19
+
+83. Ramage G, VandeWalle K, Lopez-Ribot JL, Wickes BL. The filamentation pathway controlled by 
+
+the Efg1 regulator protein is required for normal biofilm formation and development in Candida 
+albicans. FEMS Microbiol Lett. 2002; 214:95–100. [PubMed: 12204378] 
+
+84. Rauceo JM, De Armond R, Otoo H, Kahn PC, Klotz SA, Gaur NK, Lipke PN. Threonine-rich 
+
+repeats increase fibronectin binding in the Candida albicans adhesin Als5p. Eukaryot Cell. 2006; 
+5:1664–1673. [PubMed: 16936142] 
+
+85. Richard ML, Nobile CJ, Bruno VM, Mitchell AP. Candida albicans biofilm-defective mutants. 
+
+Eukaryot Cell. 2005; 4:1493–1502. [PubMed: 16087754] 
+
+86. Richard ML, Plaine A. Comprehensive analysis of glycosylphosphatidylinositol-anchored proteins 
+
+in Candida albicans. Eukaryot Cell. 2007; 6:119–133. [PubMed: 17189485] 
+
+87. Robbins N, Uppuluri P, Nett J, Rajendran R, Ramage G, Lopez-Ribot JL, Andes D, Cowen LE. 
+
+Hsp90 governs dispersion and drug resistance of fungal biofilms. PLoS Pathog. 2011; 7:e1002257. 
+[PubMed: 21931556] 
+
+88. Rossignol T, Ding C, Guida A, d’Enfert C, Higgins DG, Butler G. Correlation between biofilm 
+formation and the hypoxic response in Candida parapsilosis. Eukaryot Cell. 2009; 8:550–559. 
+[PubMed: 19151323] 
+
+89. Salgado PS, Yan R, Taylor JD, Burchell L, Jones R, Hoyer LL, Matthews SJ, Simpson PJ, Cota E. 
+Structural basis for the broad specificity to host-cell ligands by the pathogenic fungus Candida 
+albicans. Proc Natl Acad Sci U S A. 2011; 108:15775–15779. [PubMed: 21896717] 
+
+90. Santos MA, Tuite MF. The CUG codon is decoded in vivo as serine and not leucine in Candida 
+
+albicans. Nucleic Acids Res. 1995; 23:1481–1486. [PubMed: 7784200] 
+
+91. Schaechter M. A brief history of bacterial growth physiology. Front Microbiol. 2015; 6:289. 
+
+[PubMed: 25954250] 
+
+92. Seidler MJ, Salvenmoser S, Muller FM. Aspergillus fumigatus forms biofilms with reduced 
+
+antifungal drug susceptibility on bronchial epithelial cells. Antimicrob Agents Chemother. 2008; 
+52:4130–4136. [PubMed: 18710910] 
+
+93. Sheppard DC, Yeaman MR, Welch WH, Phan QT, Fu Y, Ibrahim AS, Filler SG, Zhang M, Waring 
+
+AJ, Edwards JE Jr. Functional and structural diversity in the Als protein family of Candida 
+albicans. J Biol Chem. 2004; 279:30480–30489. [PubMed: 15128742] 
+
+94. Shin KS, Kwon NJ, Kim YH, Park HS, Kwon GS, Yu JH. Differential roles of the ChiB chitinase 
+in autolysis and cell death of Aspergillus nidulans. Eukaryot Cell. 2009; 8:738–746. [PubMed: 
+19286987] 
+
+95. Shopova I, Bruns S, Thywissen A, Kniemeyer O, Brakhage AA, Hillmann F. Extrinsic extracellular 
+
+DNA leads to biofilm formation and colocalizes with matrix polysaccharides in the human 
+pathogenic fungus Aspergillus fumigatus. Front Microbiol. 2013; 4:141. [PubMed: 23760756] 
+
+96. Sokurenko EV, Vogel V, Thomas WE. Catch-bond mechanism of force-enhanced adhesion: 
+
+counterintuitive, elusive, but … widespread? Cell Host Microbe. 2008; 4:314–323. [PubMed: 
+18854236] 
+
+97. Soll DR, Daniels KJ. Plasticity of Candida albicans Biofilms. Microbiol Mol Biol Rev. 2016; 
+
+80:565–595. [PubMed: 27250770] 
+
+98. Spellberg BJ, Ibrahim AS, Avanesian V, Fu Y, Myers C, Phan QT, Filler SG, Yeaman MR, 
+
+Edwards JE Jr. Efficacy of the anti-Candida rAls3p-N or rAls1p-N vaccines against disseminated 
+and mucosal candidiasis. J Infect Dis. 2006; 194:256–260. [PubMed: 16779733] 
+
+99. Srikantha T, Daniels KJ, Pujol C, Kim E, Soll DR. Identification of genes upregulated by the 
+
+transcription factor Bcr1 that are involved in impermeability, impenetrability, and drug resistance 
+of Candida albicans a/alpha biofilms. Eukaryot Cell. 2013; 12:875–888. [PubMed: 23563485] 
+100. Taff HT, Nett JE, Zarnowski R, Ross KM, Sanchez H, Cain MT, Hamaker J, Mitchell AP, Andes 
+DR. A Candida biofilm-induced pathway for matrix glucan delivery: implications for drug 
+resistance. PLoS Pathog. 2012; 8:e1002848. [PubMed: 22876186] 
+
+101. Thau N, Monod M, Crestani B, Rolland C, Tronchin G, Latge JP, Paris S. rodletless mutants of 
+
+Aspergillus fumigatus. Infect Immun. 1994; 62:4380–4388. [PubMed: 7927699] 
+
+102. Thomas DP, Bachmann SP, Lopez-Ribot JL. Proteomics for the analysis of the Candida albicans 
+
+biofilm lifestyle. Proteomics. 2006; 6:5795–5804. [PubMed: 17001605] 
+
+Microbiol Spectr. Author manuscript; available in PMC 2018 May 29.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Lagree and Mitchell
+
+Page 20
+
+103. Tiede A, Bastisch I, Schubert J, Orlean P, Schmidt RE. Biosynthesis of 
+
+glycosylphosphatidylinositols in mammals and unicellular microbes. Biol Chem. 1999; 380:503–
+523. [PubMed: 10384957] 
+
+104. Upadhyay SK, Mahajan L, Ramjee S, Singh Y, Basir SF, Madan T. Identification and 
+
+characterization of a laminin-binding protein of Aspergillus fumigatus: extracellular thaumatin 
+domain protein (AfCalAp). J Med Microbiol. 2009; 58:714–722. [PubMed: 19429746] 
+105. Uppuluri P, Chaturvedi AK, Srinivasan A, Banerjee M, Ramasubramaniam AK, Kohler JR, 
+Kadosh D, Lopez-Ribot JL. Dispersion as an important step in the Candida albicans biofilm 
+developmental cycle. PLoS Pathog. 2010; 6:e1000828. [PubMed: 20360962] 
+
+106. Uppuluri P, Pierce CG, Thomas DP, Bubeck SS, Saville SP, Lopez-Ribot JL. The transcriptional 
+regulator Nrg1p controls Candida albicans biofilm formation and dispersion. Eukaryot Cell. 
+2010; 9:1531–1537. [PubMed: 20709787] 
+
+107. Verstrepen KJ, Klis FM. Flocculation, adhesion and biofilm formation in yeasts. Mol Microbiol. 
+
+2006; 60:5–15. [PubMed: 16556216] 
+
+108. Weissman Z, Kornitzer D. A family of Candida cell surface haem-binding proteins involved in 
+haemin and haemoglobin-iron utilization. Mol Microbiol. 2004; 53:1209–1220. [PubMed: 
+15306022] 
+
+109. Yeater KM, Chandra J, Cheng G, Mukherjee PK, Zhao X, Rodriguez-Zas SL, Kwast KE, 
+
+Ghannoum MA, Hoyer LL. Temporal analysis of Candida albicans gene expression during 
+biofilm development. Microbiology. 2007; 153:2373–2385. [PubMed: 17660402] 
+
+110. Zarnowski R, Westler WM, Lacmbouh GA, Marita JM, Bothe JR, Bernhardt J, Lounes-Hadj 
+
+Sahraoui A, Fontaine J, Sanchez H, Hatfield RD, Ntambi JM, Nett JE, Mitchell AP, Andes DR. 
+Novel entries in a fungal biofilm matrix encyclopedia. mBio. 2014; 5:e01333–01314. [PubMed: 
+25096878] 
+
+111. Zhao X, Daniels KJ, Oh SH, Green CB, Yeater KM, Soll DR, Hoyer LL. Candida albicans Als3p 
+
+is required for wild-type biofilm formation on silicone elastomer surfaces. Microbiology. 2006; 
+152:2287–2299. [PubMed: 16849795] 
+
+Microbiol Spectr. Author manuscript; available in PMC 2018 May 29.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Lagree and Mitchell
+
+Page 21
+
+Figure 1. Confocal imaging of C. albicans biofilms
+(A) Images show the heterogeneity of biofilms at the level of gene expression using a GFP 
+construct fused to the TDH3 promoter that is constitutively expressed throughout the biofilm 
+and an RFP construct fused to the TYE7 promoter showing greater expression at the basal 
+layer of the biofilm, respectively. (B) Images show the phenotypic diversity of biofilms 
+based on the growth medium in RPMI, YPD, and RPMI plus 10% serum, respectively. 
+Biofilms were fixed and imaged using a Zeiss DuoScan Confocal Microscope. Side view 
+projections were generated by reslicing and then z-projecting the stack using ImageJ 
+software from the National Institutes of Health.
+
+Microbiol Spectr. Author manuscript; available in PMC 2018 May 29.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Lagree and Mitchell
+
+Page 22
+
+Figure 2. Als1 structure
+Domains of Als proteins that are discussed in the text are depicted with amino acid 
+coordinates of Als1 indicated.
+
+Microbiol Spectr. Author manuscript; available in PMC 2018 May 29.
+
+ 
+ 
+ 
+ 
+

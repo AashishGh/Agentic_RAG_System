@@ -1,0 +1,4839 @@
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+HHS Public Access
+Author manuscript
+Nat Rev Microbiol. Author manuscript; available in PMC 2018 June 01.
+
+Published in final edited form as:
+
+Nat Rev Microbiol. 2017 December ; 15(12): 740–755. doi:10.1038/nrmicro.2017.99.
+
+Targeting microbial biofilms: current and prospective 
+therapeutic strategies
+
+Hyun Kooa,*, Raymond N Allanb,c,%, Robert P Howlind,e,%, Luanne Hall-Stoodleye,f,$, and 
+Paul Stoodleyf,g,h,$,*
+aBiofilm Research Labs, Levy Center for Oral Health, Department of Orthodontics and Divisions 
+of Pediatric Dentistry & Community Oral Health, School of Dental Medicine, University of 
+Pennsylvania, PA, USA.
+
+bClinical and Experimental Sciences, Faculty of Medicine and Institute for Life Sciences, 
+University of Southampton, Southampton, UK.
+
+cSouthampton NIHR Wellcome Trust Clinical Research Facility, University Hospital Southampton 
+NHS Foundation Trust, Southampton, UK.
+
+dCentre for Biological Sciences, University of Southampton, Southampton, UK.
+
+eSouthampton NIHR Respiratory Biomedical Research Unit, University Hospital Southampton 
+NHS Foundation Trust, Southampton, UK.
+
+fDepartment of Microbial Infection and Immunity, Centre for Microbial Interface Biology, The Ohio 
+State University, Columbus, Ohio, USA.
+
+gDepts. Orthopaedics and Microbiology, The Ohio State University, Columbus, Ohio, USA.
+
+hNational Center for Advanced Tribology at Southampton (nCATS), Faculty of Engineering and 
+the Environment, University of Southampton, UK.
+
+Abstract
+
+Biofilm formation is a key virulence factor for a wide range of microorganisms that cause chronic 
+infections. The multifactorial nature of biofilm development and drug tolerance imposes great 
+challenges for the use of conventional antimicrobials, and indicates the need for multi-targeted or 
+combinatorial therapies. In this review, we focus on current therapeutic strategies and those that 
+
+*Corresponding authors: Koo, Hyun (koohy@upenn.edu): University of Pennsylvania, School of Dental Medicine, 240 South 40th 
+Street, Levy Bldg. Rm 417, Philadelphia, PA 19104, USA. Stoodley, Paul (paul.stoodley@osumc.edu): The Ohio State University, 
+Centre for Microbial Interface Biology, 716 BRT, 640 W 12th Ave., Columbus, OH 43210. USA.
+%Equal contribution
+$Equal contribution
+Author contributions
+Hyun Koo. Contribution of writing and editing to all sections and figures. Preparation of Fig. 4.
+Raymond N Allan. Contribution of writing and editing to all sections and figures. Preparation of first draft of Fig. 2.
+Robert P Howlin. Contribution of writing and editing to all sections and figures. Preparation of first draft of Fig. 3.
+Luanne Hall-Stoodley. Conceptualized the original outline of the article. Contribution of writing and editing to all sections and figures.
+Paul Stoodley. Conceptualized the original outline of the article. Preparation of first draft of Fig. 1. Contribution of writing and editing 
+to all sections and figures.
+
+Competing Interests Statement
+The authors declare competing interests.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Koo et al.
+
+Page 2
+
+are under development that target vital structural and functional traits of microbial biofilms and 
+drug tolerance mechanisms, including the extracellular matrix and dormant cells. We emphasize 
+strategies that are supported by in vivo or ex vivo studies, highlight emerging biofilm-targeting 
+technologies, and provide a rationale for multi-targeted therapies that are aimed at disrupting the 
+complex biofilm microenvironment.
+
+Initially reported as an arcane behaviour of bacterial populations, microbial biofilm 
+formation is now recognized as a principle virulence factor in many localised chronic 
+infections. Biofilm infections commonly recur after long periods of clinical quiescence. This 
+is not primarily due to genetic resistance that arises by mutation, although the increased 
+microbial cell density may favour transfer of resistance genes. Rather microorganisms that 
+reside in biofilms may develop tolerance to traditional antibiotics or antimicrobial agents 
+through metabolic dormancy or molecular persistence programmes. Moreover, the important 
+role of the extracellular matrix in conferring antimicrobial tolerance to biofilms is being 
+recognized1. Advances in multi-omic and imaging technologies have also revealed the 
+remarkable complexity and spatial organization of polymicrobial biofilm infections2. 
+Accordingly, our increased understanding of biofilms is rapidly changing the strategies used 
+to treat these challenging infections (Fig. 1). Nonetheless, the control of biofilm formation 
+and treating existing biofilms remains tenuous with few new therapeutic options currently 
+available clinically.
+
+Biofilm infections are not easily amenable to existing antimicrobial treatment or ‘single 
+magic bullet’ approaches, because biofilm recalcitrance is a consequence of complex 
+physical and biological properties with multiple microbial genetic and molecular factors, 
+and also frequently involve multi-species interactions. A diverse range of microorganisms 
+(Gram-positive and Gram-negative, motile and non-motile, aerobic, anaerobic and 
+facultative bacteria, and fungi) form biofilms, which share many common features (Box 1). 
+Although the ‘universal’ role of cell signalling in biofilm formation was revealed 20 years 
+ago, signalling-based therapeutics have yet to be introduced for the clinical management of 
+biofilm infections owing to the complexity in cell signalling networks. Similarly, the 
+emergence of materials science, the development of surface modifications that incorporate 
+technologies that target adhesion, as well as biomimicry or surface textures and chemistries 
+from plants and animals3 were promising approaches to prevent microbial adherence and 
+subsequent biofilm formation. Although many studies show statistical significant reductions 
+in biofilm or alterations in biofilm structures in the laboratory, few were tested or validated 
+using in vivo or human cell models to see if they translated to clinical significance. Many 
+studies only report early time points, fail to use clinically relevant treatment regimens or do 
+not consider the presence of molecularly complex host fluids or host cells at the site of 
+biofilm infections. More recent approaches include targeting the extracellular polymeric 
+substance (EPS) matrix. However, the variability in the composition of the EPS matrix and 
+the interactions among the various components4 add new levels of complexity and provide 
+challenges for the development of EPS-targeting therapeutics5.
+
+Several excellent reviews discuss how microorganisms develop pathogenic biofilms and 
+their protective mechanisms against antibiotics, antimicrobial agents and host innate 
+
+Nat Rev Microbiol. Author manuscript; available in PMC 2018 June 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Koo et al.
+
+Page 3
+
+immunity 1,6,7. This Review focusses on the challenges facing the development of biofilm-
+specific therapeutic strategies, how new insights into the chemical composition and structure 
+of the EPS matrix, active biofilm dispersal pathways, and recognition of the role of dormant 
+persister cells or slow-growing subpopulations in conferring antibiotic tolerance are being 
+exploited to target biofilm infections. We also review developing technologies that promise 
+to enhance the efficacy of current modalities or provide novel biofilm-targeting effects, 
+including challenges to ensure biocompatibility and therapeutic efficacy, which are both 
+critical for clinical translatability. Where possible we focus on technologies that have shown 
+efficacy in preclinical trials, or robust animal or human cell infection models. However, as 
+not all potential biofilm-targeting therapeutic strategies can be discussed in detail, we 
+provide a comprehensive list of current and prospective biofilm-targeting strategies, their 
+developmental stage and a brief list of advantages and disadvantages in Supplemental Table 
+S1.
+
+Finally, we contend that treating biofilm infections requires combination therapies or those 
+that target more than one component of the complex biofilm microenvironment, similar to 
+tumouregenesis8. Importantly, biofilm infections reflect an interplay between the host and 
+opportunistic pathogens, often within a complex microbiota. Polymicrobial biofilms pose an 
+additional challenge, requiring antimicrobials that are effective against all pathogenic 
+microorganisms in the biofilm and limiting the efficacy of species-specific biofilm-targeting 
+strategies. All of these challenges contribute to why so few therapies have yet to be 
+translated clinically.
+
+Current therapeutic approaches
+
+Many biofilm management strategies being devised in the clinic and used by surgeons, are 
+largely based on an approach from cancer treatment (Box 2): early and aggressive irrigation 
+and debridement for physically removal and local delivery of high and sustained 
+antimicrobial chemotherapy9. Given the devastating consequences if a biofilm infection 
+persists, surgeons are undertaking earlier and more aggressive treatment, including revisiting 
+‘old’ last-resort antibiotics such as colistin10. Another established approach used for 
+intravenous catheter-related infections is lock therapy11. Following a decision to treat rather 
+than remove certain types of catheters, the potential to leave biofilms intact (but containing 
+dead cells) includes the potential to promote colonization by other microorganisms. This 
+illustrates a crucial point regarding biofilms: killing does not necessarily eradicate the 
+biofilm. Therefore the challenge of using antimicrobial agents, which may kill 
+microorganisms but leave behind other biofilm components, must be addressed.
+
+Since understanding the mechanisms of biofilm formation derives primarily from how they 
+form on solid surfaces, most clinical trials testing biofilm-targeting approaches or FDA-
+approved therapeutics have focussed on indwelling medical devices. Current biofilm-
+targeting technologies can be divided into two groups: physical-mechanical approaches (for 
+example, high velocity spray and jet irrigators) that are aimed at biofilm disruption and 
+removal; and surface-coating or eluting substrates, which can be impregnated with 
+antibiotics and/or antimicrobials (for example, acrylic beads with absorbable antibiotic-
+loaded bone cement to prevent orthopaedic infection12) for biofilm prevention; where higher 
+
+Nat Rev Microbiol. Author manuscript; available in PMC 2018 June 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Koo et al.
+
+Page 4
+
+localised antibiotic concentrations can be achieved for longer periods by in situ antibiotic 
+delivery compared to systemic administration. Several antimicrobial metal or inorganic 
+coatings have also reached clinical application to prevent biofilm formation13. These include 
+silver coating in endotracheal tubes, catheters, megaprostheses, wound dressings and copper 
+alloys in hospital surfaces (supplemental Table S1). With respect to treating prexisiting 
+biofilms, laboratory studies show that statistically significant reductions in biofilm viability 
+can require extended incubation periods with high antibiotic concentrations. In situ release 
+offers an important approach to achieve such high concentrations over long treatment 
+periods 14,15. Although antibiotic-impregnated beads in bone cements or dental restorative 
+materials were used before biofilm formation was recognized as a distinct etiological factor, 
+they represent a class of technologies that are now being re-examined to gain better 
+understanding of their effect in controlling biofilm infections.16
+
+Mechanical disruption using water sprays and jets have been developed and used for 
+pathogenic biofilm removal and for irrigation, including debridement of surgical site 
+infections to remove necrotic tissue, exudates or dental biofilms. High-speed imaging has 
+provided important information on fluid-biofilm-surface interactions and show that although 
+a statistically significant amount of biofilm is removed from the area, the biofilm becomes 
+fluidized and spreads across the surface17. The ability of biofilms to become fluidized 
+probably explains the tenacity of bacteria on surfaces after pulsed lavage18 and may 
+contribute to the low success rate of irrigation and debridement alone in treating 
+periprosthetic infections. An advantage of water-based jets is that antimicrobial agents can 
+be readily added so that the fluid doubles as a delivery device as well as creating mechanical 
+forces acting on the biofilm. However, despite advances in biofilm specific-clinical 
+therapies, particularly for indwelling devices, most approaches still entail conventional 
+antibiotic-based therapy or topical broad-spectrum antimicrobials.
+
+EPS-targeting strategies
+
+The composition of the EPS matrix is temporally and structurally variable depending on the 
+type of microorganism, local mechanical shear forces, substrate availability and the host 
+environment. The EPS matrix promotes microbial adherence to a surface, cell-cell adhesion 
+and aggregation19, and functions as a 3D scaffold that provides cohesiveness, mechanical 
+stability and protection against host effectors and antimicrobial therapies. In addition, the 
+EPS matrix can dynamically modulate chemical and nutrient gradients, and delineate 
+pathogenic environments (such as acidic pH and hypoxia), which contribute to key virulence 
+attributes, including recalcitrance1,4. Thus, targeting the EPS may be an effective strategy to 
+remove biofilm, disaggregate bacteria and disrupt the pathogenic environment20. Targeting 
+can be achieved by: inhibiting EPS production, binding EPS adhesins on the microbial 
+surfaces to block adhesion, or by degrading EPS in established biofilms (Fig 2).
+
+Disrupting EPS synthesis and secretion, and binding of EPS adhesins
+
+Several extracellular and intracellular signalling networks as well as non-signalling 
+mechanisms that promote the production of EPS have been identified. In general, cyclic-di-
+GMP and cyclic-di-AMP21 control various EPS-producing exoenzymes, polysaccharides 
+
+Nat Rev Microbiol. Author manuscript; available in PMC 2018 June 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Koo et al.
+
+Page 5
+
+and adhesins that are potential candidates that can be targeted to inhibit or disrupt EPS22,23. 
+These nucleotide-signalling molecules regulate glucan-producing exoenzymes (for example, 
+glucosyltransferase) in Gram-positive Streptococcus mutans as well as the aggregative 
+exopolysaccharides Psl and Pel in Gram-negative P. aeruginosa. Several potential small 
+inhibitors of di-guanylate or di-adenylyl cyclase have been identified through library 
+screening or in silico drug discovery combined with bioactivity assessment using in vitro 
+biofilm models,24,25 although their efficacy against biofilms awaits further in vivo 
+validation.
+
+The inhibition of EPS glucan synthesis by glucosyltransferase using small-molecule 
+inhibitors reduced the accumulation of pathogenic biofilms on teeth, and supressed the onset 
+of oral diseases in vivo without disturbing the resident microbiota.26,27 These small-
+molecule inhibitors alone are not superior than current chemical modalities for oral biofilm 
+control (chlorhexidine) or tooth decay prevention (fluoride), however, when used in 
+combination, EPS inhibitors can greatly enhance their therapeutic effects26. Inhibitors of 
+adhesin production and adhesin-binding antibodies or peptides have also been developed to 
+disrupt bacterial binding to host surfaces. Small molecules (for example, peptides or 
+mannosides) that target host- EPS matrix interactions have shown efficacy in prevention and 
+treatment of both bacterial and fungal biofilm infections in vivo.28,29 Mannosides that target 
+the bacterial adhesin FimH (alone or combined with trimethoprim-sulfamethoxazole) 
+prevented catheter-associated urinary tract infection (UTI) in mice by reducing Escherichia 
+coli colonization 2-log, and treated chronic cystitis by reducing the E. coli population 3-
+log28,30,31. A recent study has also attempted to address the low half-life and bioavailability 
+of O-mannosides by generating C-mannosides, which have increased metabolic stability and 
+in vivo efficacy. Prophylactic treatment with this compound reduced the E. coli burden 2-log 
+and treatment of chronic infection resulted in a 4-log reduction in a UTI mouse model32. 
+Similarly, ring-fused 2-pyridones, which inhibit the biogenesis of curli and type-I pili, 
+reduced uropathogenic E. coli bladder colonisation more than 10-fold and the establishment 
+of intracellular bacterial communities in an in vivo mouse UTI model33. Several other 
+biomolecules that bind to EPS adhesins are discussed in detail elsewhere34.
+
+Targeting EPS chemical composition and structure
+
+Exopolysaccharide-degrading enzymes such as glucanohydrolases (dextranase and 
+mutanase) and dispersin B can disrupt the matrix of pathogenic oral biofilms, and glycoside 
+hydrolases have been used to degrade a mixed-species S. aureus and P. aeruginosa biofilm 
+grown in a mouse model of chronic wounds 35–37, although poor retention and enzymatic 
+stability (for example, susceptibility to proteolysis) may compromise efficacy in vivo36. 
+Nevertheless, a purified serine protease, Esp, from S. epidermidis inhibited S. aureus biofilm 
+formation and eradicated pre-existing biofilms in vitro, while the susceptibility to the 
+antimicrobial β-defensin 2 was enhanced and S. aureus nasal colonization in humans was 
+reduced38. Another approach used endolysins (bacteriophage-encoded peptidoglycan 
+hydrolases), which enzymatically degraded the bacterial cell wall peptidoglycan 39. 
+Engineered peptidoglycan hydrolase constructs with distinct antimicrobial activities 
+degraded multiple unique bonds in the peptidoglycan structure specific to S. aureus40, and 
+increased killing and biofilm removal in animal models. Fusion proteins derived from 
+
+Nat Rev Microbiol. Author manuscript; available in PMC 2018 June 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Koo et al.
+
+Page 6
+
+multiple bacteriophage-encoded endolysins, each with unique actions, all added 
+simultaneously may also reduce the risk of resistance, yet show sufficient specificity to avoid 
+targeting commensal strains. Glycoside hydrolases were recently shown to both disrupt pre-
+existing P. aeruginosa biofilms and potentiate neutrophil mediated killing41.
+
+DNases have also shown efficacy in disrupting biofilms42. Consistent with the role of eDNA 
+in the EPS matrix and in early biofilm development, DNase I is effective in disrupting early 
+biofilms in vitro and in vivo42,43. Notably, other biomolecules, including polysaccharides 
+and various proteins that are associated with eDNA contribute to biofilm structural integrity, 
+which may explain the efficacy of DNase I in treating nascent biofilms. Few studies have 
+used DNases to specifically target biofilms in vivo, however, it was shown to statistically 
+significantly decrease Gardnerella vaginalis colonization on vaginal mucosal epithelial cells 
+in a mouse model44. Therapeutic use of recombinant human DNase I (dornase alfa) degrades 
+neutrophil and microorganism-derived DNA in the sputum of patients with cystic fibrosis, 
+thus reducing sputum viscosity45. An intervention study with dornase alfa in patients with 
+cystic fibrosis and early lung disease showed significantly improved lung function and lower 
+risk of exacerbation compared to placebo groups, with a potential decrease in the rate of 
+lung function decline in children46. A clinical trial investigating the efficacy of dornase alfa 
+for the treatment of chronic otitis media, at the time of tympanostomy tube insertion to 
+promote bacterial clearance from the middle ear combined with antibiotic drops, is under 
+evaluation47,48.
+
+Matrix-degrading enzymes can help disperse bacteria in biofilms for more effective killing 
+when combined with antimicrobial agents. Targeting EPS can also disrupt the viscoelastic 
+properties to further weaken biofilm cohesiveness and enhance antimicrobial efficacy, 
+including host mediated antimicrobial responses. Recent studies showed that glucano-
+hydrolases, glycoside-hydrolases and DNases enhanced antimicrobial delivery and 
+potentiated killing by antibiotics or antimicrobial peptides when used in combination against 
+pre-formed biofilms in vitro49,50. Overall, EPS synthesis inhibitors or EPS-degrading 
+enzymes, which lack intrinsic antibacterial activity, seem to be a promising adjunctive 
+approach for biofilm control that could potentially enhance the killing efficacy of 
+antimicrobial agents and promote biofilm removal when co-administered.
+
+EPS-targeted antibodies and nucleic acid-binding proteins
+
+Vaccine approaches pose several challenges as a strategy to target biofilms , as vaccines are 
+specific to a microorganism and clinical isolates from biofilm infections show considerable 
+variability in genotype and/or the phenotypic expression of vaccine-targeted epitopes51. A 
+more effective approach may be to use antibodies targeted specific EPS components. 
+Monoclonal antibodies against P. aeruginosa-derived EPS identified epitopes that bound to 
+the polysaccharide Psl, which is widely present in P. aeruginosa clinical isolates52. Psl was 
+shown to be a serotype-independent, antibody-accessible antigen, and anti-Psl antibodies 
+increased opsonophagocytic killing of P. aeruginosa, inhibited attachment to lung epithelial 
+cells in vitro, and showed prophylactic protection in multiple animal models of P. aeruginosa 
+infection. Additionally, vaccine-elicited antibodies to Enterococcus faecalis pilus tip (EbpA) 
+abrogated bacterial binding to fibrinogen and biofilm formation in a mouse model of 
+
+Nat Rev Microbiol. Author manuscript; available in PMC 2018 June 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Koo et al.
+
+Page 7
+
+catheter-associated urinary tract infections (CAUTI)53. Notably, EbpA did not mediate E. 
+faecalis adhesion directly to the catheter material, but rather inhibited binding to fibrinogen 
+deposited on the catheter surface. The EbpA antibody response prevented EbpA-mediated 
+fibrinogen-dependent bacterial aggregation and biofilm formation on catheters. This 
+approach highlights why using a complex host-microorganism model can reveal additional 
+targets. In another approach, a multivalent vaccine exploiting both planktonic and biofilm-
+expressed polypeptides from S. aureus showed increased efficacy in combination with 
+antibiotics compared to antibiotic treatment alone in a rabbit model of osteomyelitis54.
+
+Nonetheless, targeting broadly conserved components in EPS is desirable. The DNABII 
+family of DNA-binding proteins have a key role in providing structural integrity to eDNA55. 
+The high binding affinity of integration host factor (IHF) has specifically been exploited to 
+target nucleoproteins in biofilms and been widely tested in animal models. Antibodies 
+against E. coli IHF are cross-reactive and bind to DNABII in multiple bacterial species, 
+resulting in biofilm destabilisation and the release of individual bacteria. When combined 
+with antibiotic therapy, immunotherapy targeting DNABII has shown efficacy in vivo 
+against biofilms in numerous types of bacteria, including oral bacteria56, uropathogenic E. 
+coli57 and P. aeruginosa in a mouse lung infection model58. This approach has also shown 
+efficacy against MRSA biofilms compared with antibiotic treatment alone in mouse 
+models59,60. In a combinatorial approach without using antibiotics, DNABII antibodies were 
+combined with a vaccine strategy. A study with nontypeable H. influenzae (NTHi) in an 
+animal model of otitis media used IHF and recombinant soluble type IV pili (rsPilA) co-
+administered with an adjuvant and delivered by transcutaneous immunization to achieve 
+early NTHi eradication and prevention of disease 61. This approach also resulted in the 
+disassembly of NTHi biofilms that were established prior to immunization, thus leading to 
+resolution of existing disease.
+
+Inducing biofilm dispersal
+
+Biofilm dispersal has been shown to be a regulated process that involves the degradation of 
+the EPS matrix, and the triggering of this response has provided research strategies designed 
+to promote biofilm self-disassembly. These approaches, for the most part, assume that 
+dispersed bacteria have returned to an active state akin to their planktonic phenotype, 
+rendering them more susceptible to conventional antibiotics. Furthermore, liberated inactive 
+cells will also have lost a degree of protection conferred by their association with the biofilm 
+community and structural organization. Regardless of their dispersed state, it remains vitally 
+important in the clinical setting that dispersive or exogenous EPS-degrading agents are 
+administered alongside systemic antibiotics to avoid recolonization or bacteremia, and 
+potentially septicaemia.
+
+Targeting cyclic-di-GMP pathway
+
+The intracellular secondary messenger nucleotide c-di-GMP has a key role in the biofilm 
+lifecycle of both Gram-positive and Gram-negative bacteria, whereby increased levels 
+promote biofilm formation and reduced levels disassembly62. The enzymes governing c-di-
+GMP levels, diguanylate cyclases (synthesis) and phosphodiesterases (breakdown), possess 
+
+Nat Rev Microbiol. Author manuscript; available in PMC 2018 June 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Koo et al.
+
+Page 8
+
+GGDEF, EAL and HD-GYP domains that are found in numerous bacterial phyla. This 
+signalling pathway therefore offers an attractive strategy to target multiple species, although 
+the complexity of c-di-GMP regulation makes it challenging to control63. However, few 
+studies that show biofilm dispersal have used relevant cell models in vitro or in vivo animal 
+models. One study used a P. aeruginosa construct containing an exogenous E. coli 
+phosphodiesterase. When expression was induced in vivo it resulted in reduced c-di-GMP 
+and dispersal of biofilms on silicone implants in a mouse foreign body infection model64. 
+Although, in principle, this study supports the potential use of such phosphodiesterases as a 
+strategy to modulate c-di-GMP and target biofilms, the authors noted limitations of their 
+findings, including an increased bacterial burden in the spleen. C-di-GMP is also a potent 
+stimulator of host immunity via interferon responses, and therefore it may be difficult to 
+attribute effects on biofilms specifically in vivo65.
+
+A well-characterized approach to modulate c-di-GMP levels is though nitric oxide (NO). 
+NO was first shown to regulate c-di-GMP levels and mediate biofilm dispersal in 
+Pseudomonas aeruginosa66 at low concentrations, and these results have since been 
+reproduced in several other bacterial species67. However, the use of gaseous NO or 
+spontaneous NO-donors presents clinical challenges owing to potential cytotoxicity from 
+systemic exposure, lack of specificity in targeting biofilm infections and cost. In addition, as 
+NO is labile, the optimal concentration to disperse biofilms is difficult to measure;. however 
+NO microelectrodes are highly sensitive and offer excellent spatial and temporal resolution 
+in tissues or body fluids. A proof-of-concept preclinical study using low-dose gaseous NO in 
+the pM to nM range, has recently shown to reduce the size of the P. aeruginosa biofilm 
+aggregate in sputum as a primary clinical outcome in a small number of patients with cystic 
+fibrosis68. Patients did not exhibit adverse effects to NO therapy. Although the biofilm 
+aggregate size was significantly decreased, NO did not reduce CFU as seen in another 
+study69, perhaps because patients continued to receive antibiotic therapy throughout the 
+study period. However a Phase I clinical trial is ongoing to study the efficacy and safety of 
+NO in patients with cystic fibrosis70.
+
+To address the cost of administering gaseous NO and potential systemic cytotoxicity issues, 
+cephalosporin-3´-diazeniumdiolates (C3Ds), composed of a stabilized diazeniumdiolate NO-
+donor attached to the 3’-position of cephalosporin, have recently been developed to 
+selectively deliver NO to bacterial biofilms71. These pro-drug candidates are designed to 
+specifically release NO upon cleavage of the cephalosporin β-lactam ring via bacterial β-
+lactamases and have been shown to be effective in dispersing in vitro P. aeruginosa 
+biofilms71. NTHi biofilms grown on primary ciliated epithelia also showed enhanced 
+sensitivity to the antibiotic azithromycin, reducing viability 2-log when a specific C3D, 
+PYRRO-C3D, was used as an adjuvant; this response is possibly attributable to dispersal and 
+modulation of metabolic activity72. This effect was also demonstrated in a study using 
+primary epithelial cells from patients with primary ciliary dyskinesia (PCD), a disease that 
+compromises mucociliary clearance. Airway cells from patients with PCD showed increased 
+susceptibility to NTHi biofilm formation compared to epithelial cells from healthy 
+individuals, and PYRRO-C3D in combination with antibiotic significantly decreased NTHi 
+viability 2-log compared to antibiotic treatment alone73. Treatment of infected healthy 
+airway cells and infected airway cells from unhealthy individuals had no effect on 
+
+Nat Rev Microbiol. Author manuscript; available in PMC 2018 June 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Koo et al.
+
+Page 9
+
+transepithelial electrical resistance, which suggests that epithelial barrier function was 
+unaffected. Although this alone is not a sufficient assessment of toxicity, the targeted release 
+of low NO concentrations (48 – 90 nM) should improve the safety of patients.
+
+NO-donor instability is also an issue that is being addressed by developing nitroxides 
+(sterically hindered NO analogues) that exert biological responses via NO-mimetic 
+properties74. These molecules (carboxy-TEMPO, CTMIO, DCTEIO) elicited biofilm 
+dispersal in P. aeruginosa and E. coli similar to NO, with carboxy-TEMPO also reducing 
+tolerance to ciprofloxacin74,75. However, treatment with carboxy-TEMPO failed to disperse 
+MRSA biofilms, which indicates that this approach may be restricted to biofilms formed by 
+certain species. This highlights an ongoing concern for polymicrobial biofilms infections. 
+Other drugs that are currently under development include ciprofloxacin-nitroxide 
+conjugates, which similar to C3Ds, combine antibiotic activity with a donor compound76, 
+and fimbrolide-NO donor hybrids, which simultaneously target quorum sensing (QS) and 
+NO pathways77.
+
+Targeting quorum sensing
+
+The role of QS systems in biofilm development and dispersal offers another intensely 
+studied strategy for the development of novel therapeutics. QS requires the binding of a 
+signalling molecule to a corresponding transcriptional regulator, which activates the 
+downstream transcription of select targets. As the production of many virulence 
+determinants in pathogenic bacteria requires cell-cell communication, QS inhibitors (QSI) 
+that target the AHL-QS system in Gram-negative bacteria or the QS systems in Gram-
+positive bacteria have been extensively evaluated for efficacy on clinically relevant bacterial 
+biofilms using in vitro and in vivo models. For example, the QS autoinducer, AI-2, functions 
+as a chemorepellent in Helicobacter pylori by regulating the proportion and spatial 
+organisation of biofilm cells78. Treatment of in vitro biofilms with exogenous AI-2 resulted 
+in both a reduction in the proportion of adherent cells and dispersal78. The autoinducing 
+peptide type I (AIP-I) also triggered dispersal in MRSA biofilms on titanium disks rendering 
+detached MRSA more susceptible to treatment with rifampicin and levofloxacin79. 
+Additionally, the use of a RNAIII-inhibiting peptide (RIP) resulted in a 7-log reduction in 
+MRSA compared to 5-log reductions observed with RIP-soaked Allevyn or teicoplanin 
+treatments alone in a mouse wound model80. A recent study used a high-throughput screen 
+to identify a benzamide-benzimidazole derivative, termed M64, that interferes with the 
+Pseudomonas quinolone signal (PQS) quorum sensing system, which regulates biofilm 
+formation and the production of virulence factors in P. aeruginosa81. Interestingly, M64 
+reduced both the virulence and persistence of the P. aeruginosa strain PA14 in a mouse 
+model of burn and lung infections when used alone, and it reduced the bacterial load further 
+when used in combination with ciprofloxacin. M64 also did not exhibit cytotoxicity in 
+mouse macrophages and was shown to reduce the number of persister cells in the 
+population.
+
+Although the increased efficacy of antibiotic treatment with QSI in vivo is promising, 
+reduced bacterial loads often depend on the strain and biofilm model82. Furthermore, QS 
+molecules can be washed away during biofilm initiation, whereas the EPS matrix can bind 
+
+Nat Rev Microbiol. Author manuscript; available in PMC 2018 June 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Koo et al.
+
+Page 10
+
+and sequester QS molecules and the effects may be limited to highly localized areas within 
+the biofilm structure1. Therefore, inhibitors need access and specific targeting to site of 
+active QS-signalling. These factors in addition to the complexity in cell signalling networks, 
+make it a challenging therapeutic approach albeit such inhibitors can be used in combination 
+with other strategies.
+
+Metabolic interference
+
+The potential of exogenous amino acids in the treatment of biofilms has garnered 
+considerable interest, with specific amino acids having been shown to affect both biofilm 
+metabolism and development. L-arginine (L-Arg) functions as a substrate for alkali 
+production by arginolytic bacteria (for example, Streptococcus gordonii), which can 
+neutralize acids and modulate pH homeostasis within oral biofilms clinically83. Treatment of 
+polymicrobial biofilms comprising Streptococcus mutans, S. gordonii and Actinomyces 
+naeslundii with L-Arg suppressed S. mutans growth and resulted in substantial reduction in 
+insoluble EPS and altered biofilm architecture84. In addition to pH modulatory effects83, L-
+Arg also repressed genes involved in the production of insoluble EPS and bacteriocin in S. 
+mutans, while increasing hydrogen peroxide (used against S. mutans) production by S. 
+gordonii84 L-Arg reduced biomass and altered EPS architecture in S. gordonii biofilms85, 
+and also destabilized multispecies oral biofilms, thus reducing viability and increasing 
+susceptibility to cetylpyridinium chloride86. An alternative amino acid, L-methionine, was 
+also identified as a promising adjuvant for treating P. aeruginosa biofilms, triggering 
+disassembly and increasing sensitivity towards ciprofloxacin in a mouse model of chronic 
+pneumonia, and enhancing survival of infected mice87. This activity was attributed to up-
+regulation of four different DNase genes and the subsequent degradation of eDNA in the 
+EPS matrix, although the exact pathways that regulate this response were not determined. 
+Interestingly, L-Met seems to have been chosen for this study following screening of a 
+selection of D- amino acids and L- amino acids for their activity against P. aeruginosa 
+biofilms. Given the diversity in amino acid utilization between bacterial species it is unlikely 
+that a single amino acid would have a universal function, however, their importance, and that 
+of bacterial metabolism in general, should not be underestimated in the development of 
+future treatment strategies.
+
+Another approach is based on evidence that iron metabolism is important in biofilm 
+formation in several pathogens88–91. Iron acquisition is crucial for pathogens to establish 
+infection, and epithelial cells containing the ΔF508 cystic fibrosis transmembrane 
+conductance regulator (CFTR) mutation showed that increased biofilm formation by 
+P.aeruginosa was linked to increased availability of iron92. Host defences normally actively 
+sequester iron to limit the growth of infecting bacteria since iron is an essential nutrient. 
+However, Pseudomonas aeruginosa possesses multiple redundant iron receptor and uptake 
+systems such as production of the siderophore pyoverdin (an iron-chelating 
+molecule).However gallium, which is chemically similarto iron , is be taken up by bacteria 
+but not replace its functionality, thus inhibiting the iron-dependent pathways required for 
+cell growth and biofilm formation. This “Trojan horse” strategy interfered with P. aeruginosa 
+growth and iron metabolism, killed planktonic bacteria in an acute mouse pneumonia model 
+and reduced bacterial counts in established biofilms by 3 logs in a chronic biofilm lung 
+
+Nat Rev Microbiol. Author manuscript; available in PMC 2018 June 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Koo et al.
+
+Page 11
+
+infection model93. Gallium was administered via inhalation and importantly uptake was 
+independent of the P. aeruginosa siderophore pyoverdin in vitro. However in vivo it was not 
+clear if gallium may have anti-inflammatory effects other than directly inhibiting biofilm 
+formation. Nonetheless, using iron chelators adjunctively with tobramycin reduced P. 
+aeruginosa in a co-culture model of human bronchial epithelial cells from a patient with 
+cystic fibrosis that carried the CFTR ΔF508 mutation, resulted in a 7-log reduction in viable 
+bacteria and also prevented biofilm formation on these cells94. More recently, the oxidation 
+state of iron was shown to be important95. This study examined mucus from the airways of 
+patients with cystic fibrosis and found that ferrous iron was the primary form of bioavailable 
+iron, which also correlated with the severity of cystic fibrosis lung disease, whereas ferric 
+iron did not. This study highlights the importance of directly investigating the phenotypic 
+state of bacteria in situ in human infections and its potential translational relevance in 
+informing new therapeutic approaches.
+
+Targeting dormant cells in biofilms
+
+Targeting pathways to induce processes such as dispersal requires that cells are 
+metabolically active. However, available evidence also shows that dormant cells or persisters 
+residing within biofilms have a key role for drug tolerance (Box 3). It is therefore attractive 
+to consider antimicrobial approaches that physically or chemically disrupt cells rather than 
+interfering with cellular processes. Non-discriminating oxidizing agents such as 
+hypochlorite and hydrogen peroxide have been used as irrigants in wound96 and endodontic 
+debridement97. However studies reveal that even strong oxidizers such as sodium 
+hypochlorite fail to eradicate biofilms98 probably because long-term exposure is not possible 
+due to cytotoxicity concerns. Broad-spectrum cationic biguanides such as chlorhexidine or 
+quaternary ammonium adhere to cell walls and disrupts cell membranes. However, 
+penetration was limited over the expected timescales used in ex-vivo dental biofilms99 with 
+longer term exposure increasing cytotoxicity, thus making this approach clinically 
+impractical.
+
+Other exploratory avenues include antibiotics that are used for the treatment of infections 
+caused by slow-growing bacteria. Rifampin, used to treat staphylococcal orthopaedic-
+implant infections, raises concern about the development of rifampin resistance. However, 
+used in combination with other antibiotics, rifampin and fosfomycin enhanced efficacy in 
+treating foreign body MRSA biofilm infections in vivo100. Likewise, disrupting a cellular 
+target in dormant cells can kill persisters. The acyldepsipeptide antibiotic (ADEP4) can 
+activate the ClpP protease in dormant persister cells in Gram-positive bacteria so the cells 
+effectively ‘digest’ themselves. Although it is an elegant concept to endogenously activating 
+cytoplasmic enzymes for proteolytic degradation in biofilms, it should be noted that ClpP is 
+not an essential enzyme and ClpP-null mutants are not affected by ADEP4. To address this, 
+treatment with both ADEP4 and rifampin showed good efficacy in a chronic biofilm mouse 
+deep abscess-like infection model101 using various S. aureus species. However, this study 
+illustrates that careful consideration needs to be given to antibiotic pairings. Particularly in 
+this case since rifampin resistance occurs at high frequency and so it is usually combined 
+with other active antimicrobials. In the case of ClpP-null mutants ADEP4 would be 
+ineffective and rifampin would in effect be acting as a monotherapy
+
+Nat Rev Microbiol. Author manuscript; available in PMC 2018 June 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Koo et al.
+
+Page 12
+
+Antimicrobial peptides (AMP) represent another approach in treating biofilms independent 
+of the presence of microbial activity. An important advantage of AMPs is that they are 
+widely conserved and therefore attractive as broad-acting antimicrobial agents that may be 
+useful against both bacterial and fungal biofilms102,103. Conversely, species-specific 
+targeting is also possible with synthetic AMPs that consist of dual functionally independent 
+moieties (a broad-spectrum AMP with a killing moiety, and a species-specific binding 
+peptide with target specificity). This approach may remove specific pathogens such as S. 
+mutans from oral multispecies biofilm communities to promote a ‘healthy-like microbiome’ 
+as was shown in vitro104. Another advantage is that the pore-forming activity of an AMP 
+targets respiring cells as well as persister and dormant populations, which might reduce the 
+potential for bacteria to develop AMP resistance. Therefore, AMPs have potential as 
+therapeutics to target biofilms. Synthetic peptides that modify specific AMP sequences were 
+designed that showed both inhibitory activity and, when used together with antibiotics, 
+enhanced killing of P. aeruginosa biofilms in invertebrate infection models105. Specific 
+peptides also triggered the degradation of ppGpp, preventing the accumulation of this 
+secondary messenger and abrogating biofilm formation of several G-positive and G-negative 
+pathogens103. However, more pre-clinical efficacy studies are required as AMPs can bind to 
+EPS matrix components and to other host molecules, which reduces their effectiveness, and 
+microbial proteases may further diminish AMP potency106. Additionally, the high cost of 
+AMPs synthesis is a barrier for clinical development and commercialization, although using 
+chloroplast-based technology for large-scale production in automated greenhouses may 
+mitigate costs50. Nevertheless, AMPs can be immobilized onto solid surfaces to enhance 
+efficacy or specificity. This was particularly effective as a polymer-based approach on 
+catheters, as AMP coatings greatly reduced P. aeruginosa adhesion and infection over 7 days 
+in a mouse UTI model107. Furthermore, structurally nanoengineered AMP polymers 
+exhibited potent killing activity against several Gram-negative, colistin-resistant and MDR 
+pathogens, and they exhibited low toxicity and efficacy in an animal model of Acinetobacter 
+baumannii infection108. The recent completion of two Phase II clinical studies of brilacidin 
+(a membrane-acting AMP mimetic) as an intravenous agent for skin infections demonstrate 
+the feasibility of AMPs for systemic therapeutics109.
+
+AMPs can also enhance conventional antimicrobial activity, and the combination with 
+strategies that target the EPS matrix may further increase both the access and permeabilizing 
+properties of AMPs once in the biofilm50,103. Although targeting tolerant cells using AMPs 
+is a promising approach, reaching the target cells that are embedded within a biofilm either 
+topically or systemically and for the compound to be active across a spatially and chemically 
+heterogeneous microenvironment remain important challenges in vivo. The stability and 
+durability of AMP coatings within the body is also an issue that needs to be further 
+addressed, particularly where wear might be expected due to shear caused by moving tissues 
+and fluids as well as proteolytic degradation.
+
+The promise of new technologies
+
+While our understanding of biofilm microenvironments is evolving, technological advances 
+have provided unprecedented avenues to develop multi-targeted therapeutic approaches that 
+prevent and disrupt biofilms or enhance drug efficacy (Fig. 3). Nano- and chemical 
+
+Nat Rev Microbiol. Author manuscript; available in PMC 2018 June 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Koo et al.
+
+Page 13
+
+engineering approaches provide unparalleled flexibility to control the composition, size, 
+shape, surface area and surface chemistry, and functionality of nanostructures that can be 
+used to develop a new generation of modified materials or to coat existing solid surfaces for 
+biofilm prevention. Functionalized nanoparticles, including stimuli-triggered activation, can 
+be designed to enhance penetration and selectively target or release drugs locally after 
+bacterial attachment or within biofilms. In this Review we focus on overall concepts and 
+provide insights into their clinical potential based on recent studies using in vivo models. We 
+have provided a full list of current and prospective technologies and additional references in 
+Supplemental Table S1.
+
+Surface modifications
+
+Surface-tethering or the incorporation of an antibiotic or biocide within a “reservoir” coating 
+has long been studied as a possible approach to inhibit bacterial adhesion and biofilm 
+formation110. However, sustaining efficacy and therefore justifying their progression to wide 
+scale use into the clinic has been challenging. The amount of biocide required to achieve 
+efficacy as well as its chemical composition are often limited by potential deleterious effects, 
+exemplified by silver nanoparticles which were shown to be toxic to rat hosts111. 
+Additionally, antimicrobial reservoir coatings are subject to progressive decreases in efficacy 
+as the active agent is depleted and thus have a limited lifetime of activity. Further, 
+nonspecific absorption of exogenous surfactants and proteins may mask the engineered 
+surface or hinder release.
+
+Advances in material and surface engineering have led to the development of well-defined 
+topographic surface patterns that can control biofilm formation without including 
+antimicrobial agents112. The most well-established ordered topography is the Sharklet™ 
+surface. Inspired by shark skin and its inherent anti-biofouling properties, microscale ribs of 
+various lengths are combined into a repeating diamond micropattern, creating a textured 
+surface that prevents macro and micro biofouling113 as well as bacterial colonisation and 
+biofilm formation when incorporated into the surfaces of medical devices114. Surface 
+modifications are mostly focused on nonspecific protein repulsion and the inhibition of 
+bacterial colonization. This can be challenging due to the structural and physio-chemical 
+diversity of the numerous proteins in biological fluids surrounding a surface in a biomedical 
+setting 115. Hydrophilic polymer brushes or tethered polymers such as poly(ethylene glycol) 
+(PEG) are widely used in the prevention of medical device fouling116. While early bacterial 
+adhesion is attenuated, probably due to the inhibition of an initial protein priming layer, the 
+multifaceted nature of bacterial colonization (often involving non-proteinaceous adhesins) 
+can lead to eventual biofilm formation117. Further studies with ‘super-hydrophilic’ (super-
+wet) or ‘super-hydrophobic’ surfaces have decreased protein deposition and bacterial 
+attachment of clinically relevant surfaces115,118.
+
+The incorporation of these materials into medical devices shows promising, but variable 
+results. While recently greater sustainability of super-hydrophobic surfaces upon mechanical 
+abrasion has been demonstrated119, the antibiofilm effects of these surfaces are often 
+transient or subject to species bias120. Short to medium-term biofilm suppression may be 
+
+Nat Rev Microbiol. Author manuscript; available in PMC 2018 June 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Koo et al.
+
+Page 14
+
+sufficient however to permit effective immune and prophylactic responses and tissue 
+integration of a foreign body.
+
+The development of functionalized medical implant surfaces with a vast array of 
+antimicrobial and antibiofilm properties has been intensely studied, particularly with respect 
+to titanium implants. To use these surfaces in biomedical applications, modern surface 
+design has been largely driven by top-down methods such as lithography, imprinting and 
+others121 to produce a vast array of antibacterial coatings, including but not limited to, silver, 
+copper, titanium dioxide and chitosan. Furthermore, emerging bottom-up approaches using 
+nanomaterials as ‘building blocks’122 and surface attachment and immobilization of 
+biomolecules, including antimicrobial peptides or proteins and polysaccharides123,124, have 
+also resulted in the development of antibacterial surface coatings. Moreover, the unexpected 
+discovery that certain bacterial polysaccharides can inhibit biofilm formation124, has led to 
+the development of strategies to counter biofilm formation‥ Hyaluronic acid (which is one 
+of the most studied polysaccharides) reduced the adhesion of S. aureus to hyaluronic acid-
+coated titanium surfaces125 and poly(methyl methacrylate) intraocular lenses126.
+
+Bottom-up surface-assemblies can also be combined with top-down surface processing127 to 
+generate nanocoatings with biofilm-targeting properties and biocompatibility128. Recent in 
+vivo studies demonstrated the feasibility and efficacy of tunable multi-layer nanocoatings 
+that released different combinations of antibiotics129 or sequential delivery of gentamicin 
+and an osteoinductive growth factor130 in a time-staggered manner for prevention of biofilm-
+associated infection and bone tissue repair around implants. Both studies demonstrated the 
+ability to prevent biofilm formation on the device surface, relative to uncoated controls, with 
+the nanocoatings able to clear infiltrating bacteria and prevented colonization of the implant 
+while promoting bone formation and osseointegration. Importantly, biocompatibility, as well 
+as long-term host retention and release kinetics were also demonstrated, thus providing 
+promise for their more wide-spread application in orthopaedics.
+
+Efforts to engineer surfaces with even more control over the specificity and sensitivity of 
+their antibacterial or antibiofilm capabilities have led to so-called smart surfaces, which are 
+also known as stimuli-responsive or triggered biofilm-targeting surfaces. Triggers, including 
+pH, temperature, salt concentration, metabolites, electrical currents and photoactivation, 
+induce topographical and chemical changes in the surface area as well as generating heat or 
+induce drug release to kill or repel bacterial attachment (Supplemental Table S1). The design 
+principles for controlling bacterial adhesion or biofilm removal mechanisms that may be 
+triggered on demand are intriguing. However, the effectiveness of these approaches has been 
+evaluated largely in vitro. Consequently, as with all surface modifications, whether 
+functionality will remain in vivo upon binding of endogenous host proteins in saliva, blood, 
+synovial fluid and urine is unclear. Another consideration is that bacteria that associate with 
+the surface may be killed and remain attached, thus masking the underlying technology and 
+even provide a nutrient source for other bacteria. Therefore, it is important to not only have a 
+killing effect but also a ‘self-cleaning’ mechanism, possibly facilitated by mechanical shear 
+of surrounding body fluids or tissues. Furthermore, challenges to enhance mechanochemical 
+stability and overcome coating deterioration and dissolution, and non-adverse host reactions 
+
+Nat Rev Microbiol. Author manuscript; available in PMC 2018 June 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Koo et al.
+
+Page 15
+
+to the coating itself will need to be addressed in future studies to facilitate clinical 
+application131–133.
+
+Nanoparticles
+
+Nanoparticles are versatile and bioactive and they are becoming increasingly popular as an 
+biofilm-targeting approach. Nanoparticles with intrinsic antimicrobial activity, primarily 
+inorganic materials such as silver, can act as biofilm-targeting agents or as nanocoatings (as 
+described above). Due to their flexible chemical structures, they can also function as drug 
+delivery vehicles (nanocarriers) with organic nanoparticles accounting for over two-thirds of 
+the systems approved for use in humans134. Furthermore, both inorganic and organic 
+nanoparticles can be combined or modified by adding molecules (hybrid nanoparticles) to 
+enhance their biological properties or provide multifunctionality. As excellent in-depth 
+reviews on the principles and current applications of nanoparticles, particularly silver, are 
+available13,135, we focus on clinically used liposomal nanoparticles for drug delivery and 
+emerging technologies, including stimuli-triggered activation, that have shown efficacy in 
+vivo.
+
+Liposomes are physiologically compatible vesicles that are composed of one or more 
+phospholipid bilayers, and they represent one of the most widely developed organic 
+nanoparticles for drug delivery . They are able to penetrate the biofilm well, are 
+biocompatible and show efficacy against biofilms of a wide variety of bacterial species for a 
+diverse number of antibiotics136,137. These nanocarriers can protect the antimicrobial agent 
+from deleterious interactions with the matrix, or enzymatic inactivation and degradation at 
+the infection site by other bacterial and host components. The lipid structure can also fuse 
+with the bacterial outer membrane releasing the drug directly into the cell, thereby 
+potentially maximizing therapeutic effects while reducing host cytotoxicity137. Furthermore, 
+liposomes can carry more than one drug by co-encapsulation and can be also functionalized 
+by linking biomolecules (for example, peptides, pH-responsive polymers) on the 
+nanoparticle surface to increase targeting specificity and triggered release. Importantly, 
+however, some studies have reported a reduced efficacy of liposomal-encapsulated 
+antimicrobials dependent on the environment in which the biofilm resides; for example: 
+host- and microorganism-derived substances such as mucus and alginate could inhibit 
+bacteria-liposome interactions138. Nevertheless, several formulations are currently in 
+preclinical studies and clinical trials, and some are commercially available 139. For example, 
+liposomal ciprofloxacin and amikacin have shown promise in the management of chronic 
+lung infection in cystic fibrosis140,141. The potential of liposomes to function as delivery 
+agents for other antimicrobials, such as NO, has demonstrated significantly reduced S. 
+aureus biofilm mass compared to controls in a sheep model of chronic rhinosinusitis142. 
+Whilst this study did not note any negative clinical symptoms, a transient increase in heart 
+rate and decrease in mean arterial pressure was observed in the animals which require 
+further investigation before this strategy can advance into human trials.
+
+Nanoparticles with multi-functionality or on-demand activation upon specific stimuli similar 
+to smart surfaces represent the most widely developed class of nanoparticles currently under 
+development (Supplemental Table S1). Recent studies with inorganic nanoparticles such as 
+
+Nat Rev Microbiol. Author manuscript; available in PMC 2018 June 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Koo et al.
+
+Page 16
+
+iron oxide (Fe3O4) with a peroxidase-like function catalyzed hydrogen peroxide (H2O2) at 
+concentrations ranging from 0.1–1% H2O2 in a dose- and pH-dependent manner, and 
+showed potent effects against virulent oral biofilms in vivo143. Under acidic (pathological) 
+conditions, nanoparticles activated the generation of free radicals from H2O2 in situ, which 
+induced the degradation of the biofilm matrix and rapid killing of the embedded bacteria 
+(>5-log reduction of viable cells compared to control cells within 5 min, and 5000-fold more 
+effective than 1% H2O2 alone)144. Daily topical treatments effectively reduced the onset and 
+severity of dental caries (tooth decay), preventing cavitation altogether in a rodent model of 
+the disease. The pH-dependent functionality prevents catalytic reaction at physiological pH 
+and unmitigated free-radical production, thus improving biocompatibility.
+
+Stimuli-triggered mechanisms by nanoparticles can also enhance the selectivity of drug 
+activation or delivery to cells within a biofilm, protecting host tissues and the commensal 
+microbiota while targeting infective agents within pathological microniches143,145,146. 
+Delivery of the antibacterial agent farnesol via acidic pH-triggered polymeric nanoparticles 
+enhanced its biofilm-targeting activity 4-fold (compared to farnesol alone); thus, the delivery 
+system greatly improved the drug efficacy against an oral biofilm infection in vivo following 
+topical treatment146. These water-soluble polymeric nanocarriers can encapsulate 
+hydrophobic and apolar drugs into aqueous solution, which is a crucial issue in product 
+development. Similarly, nanoparticles that are conjugated with a pH-responsive element145 
+or pH-sensitive surface charge switching147 were developed to increase biofilm penetration 
+and selective bacterial binding for targeted delivery and antibacterial activity in acidic 
+conditions.
+
+Another exciting area of development is in increasing the specificity of the nanoparticles by 
+selectively targeting biofilm matrix constituents or through the introduction of bacteria-
+specific ligands, to improve both efficacy and biocompatibility. Nanoparticles functionalized 
+with biofilm EPS matrix-digesting enzymes (DNase) and loaded with ciprofloxacin 
+eradicated established P. aeruginosa biofilms without cytotoxicity against macrophages49. 
+Likewise, tobramycin alginate-chitosan nanoparticles functionalised by conjugation to 
+dornase alfa (DNase) demonstrated better biofilm penetration and DNA degradation in 
+sputum from patient with cystic fibrosis and increased protection against bacteria in an 
+invertebrate infection model148. Furthermore, nanoparticles that were designed to release 
+and activate NO in situ had antifungal and antibacterial effects, inhibited biofilm formation 
+and promoted the degradation of the EPS matrix in vitro and in vivo149,150. Recently, reports 
+showed that linking antimicrobial peptides102 or aptamers151 to nanoparticle surfaces 
+enhanced their killing efficacy, specificity or functionality.
+
+Overall, nanoparticles offer a promising therapeutic platform for the development of new 
+effective biofilm-targeting approaches. However, whilst the development of novel 
+nanoparticles has continued apace, there is a continually widening gap between the number 
+of new formulations under laboratorial investigation and those in clinical use. Further 
+advances in this field should focus on enhancing in vivo efficacy (compared to current 
+treatment modalities) and biocompatibility, and on understanding the potential toxicity and 
+the metabolism of nanoparticles in the body. Affordable large scale manufacturing would be 
+also required for product development to the healthcare market. Nevertheless, the 
+
+Nat Rev Microbiol. Author manuscript; available in PMC 2018 June 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Koo et al.
+
+Page 17
+
+availability of previously FDA-approved nanoparticles demonstrates their potential for more 
+wide-spread future clinical use.
+
+Future directions
+
+The initiation of a biofilm involves complex and dynamic interactions among the surface, 
+the microorganism and the EPS. Upon biofilm establishment, the adhesive strength and 
+viscoelastic properties make the removal of a biofilm from surfaces difficult, and resident 
+microorganisms become tolerant to antimicrobials. Although tolerance is a common feature 
+of biofilms, the mechanisms underlying tolerance as a microbial survival strategy are 
+multifaceted. Likewise a reciprocal multifaceted approach to control biofilms is far more 
+likely to achieve clinical success than a futile search for a magic bullet (Box 2). 
+Understanding the complexity of biofilm biology highlights the role of complementary 
+strategies that target both the microorganisms and the surrounding EPS matrix to either 
+prevent the initiation of a biofilm or to disrupt existing biofilms. The challenge of using 
+antimicrobials alone, which may kill microorganisms, but leave behind biodegradable 
+substrates for microbial reutilization, must be addressed. Thus, eliminating existing biofilms 
+may require simultaneous degradation of the protective EPS matrix, and targeting and killing 
+both resident microorganisms and dispersed cells. The complexity of polymicrobial 
+interactions (synergistic, cooperative or antagonistic), spatial organization and community 
+behaviour with host immunity factors further reinforces the need of a combinatorial therapy. 
+Rapid advances in drug discovery methods should accelerate the identification of EPS-
+inhibitors, inducers of biofilm dispersal and agents that target dormant cells, as well as 
+combinations thereof with host immunomodulation therapies152,153. However, further 
+validation of proof-of-concept studies using clinically relevant animal models as well as 
+clinical trials are needed for rigorous evaluation. Bacterial co-cultures with primary human 
+cells to evaluate host-microbial response can be valuable to investigate, for example, the role 
+of genetic mutations such as found in patients with cystic fibrosis or PCD on the 
+establishment and treatment of biofilms in patients suffering from these diseases. 
+Opportunities to create physico-chemical and biological structures, including organ-on-chip, 
+within microfluidic devices or using 3D printed tissues may also help assess treatment 
+efficacy by mimicking in vivo-like environments.
+
+Furthermore, new technologies , including ‘smart-release’ or ‘on-demand activation’ of 
+bioactive agents when triggered by pathogenic microenvironments (e.g. acidic pH or 
+hypoxia), have been developed for enhanced selectivity and controlled in situ drug delivery. 
+However, the vast majority of the studies were conducted in vitro using non-clinically 
+relevant models or treatment regimens, with many failing to progress to in vivo studies and 
+even fewer to clinical application. The complexity of the host microbiota, where 
+commensals co-exist with potential pathogens, provide a great challenge in developing 
+antimicrobial agents against a particular microbial species. The presence of biological fluids 
+that change surface chemistries poses yet another challenge. The ability of a drug to 
+penetrate existing biofilms should be also considered, as this feature affects both potential 
+cytotoxicity and antibacterial efficacy, and the potential for de novo emergence of 
+antimicrobial resistance (owing to bacteria being subjected to sub-lethal antibiotic 
+concentrations). Antibodies, aptamers or peptides that are linked to nanoparticles greatly 
+
+Nat Rev Microbiol. Author manuscript; available in PMC 2018 June 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Koo et al.
+
+Page 18
+
+enhance specificity, although higher costs and additional chemistry to produce multi-
+component structures may be limiting factors. A key approach may be to trigger 
+antimicrobial activity in response to pathogenic microenvironments (for example, acidic pH, 
+hypoxia or pathogen-derived metabolites). Thus, the biological effects can be tuned to 
+specifically target the biofilm microenvironment, degrade the matrix and kill resident 
+bacteria, thereby eradicating the pathogenic niche with precision and minimal cytotoxicity to 
+surrounding tissues. Nevertheless, we noted a discrepancy between the research efforts on 
+new technologies and commercialization. A concerted effort of chemists, engineers and 
+biomedical researchers combined with toxicology and safety studies will help clinicians to 
+assess the efficacy of these new technologies in clinical trials. However, the successful 
+translation into the clinic is not just dependent on efficacy of the technology, but also on 
+regulatory agencies and industry efforts to bring it to the market. Future directions should 
+focus on achieving maximal efficacy and specificity with minimal toxicity and long-term 
+therapeutic effects along with industry partnerships to develop low-cost and practical 
+formulations for clinical use.
+
+Supplementary Material
+
+Refer to Web version on PubMed Central for supplementary material.
+
+Acknowledgments
+
+Work in the authors laboratory is supported in part by the National Institute for Dental and Craniofacial Research 
+grants DE018023, DE025220 and DE025848 (HK); The Ohio State University Infectious Disease Discovery 
+Theme- Public Health Preparedness for Infectious Disease Transdisciplinary Team Grant (PS).
+
+P.S. has received research funding from and/or has consulted from Philips Oral Healthcare, Smith & Nephew, 
+Biocomposites Ltd., Zimmer-Biomet, Colgate-Palmolive. H.K. has received funding from Johnson&Johnson, 
+Colgate-Palmolive and DENTSPLY. RPH has consulted for Biocomposites Ltd.
+
+Glossary
+
+Lock therapy
+An approach whereby a high concentration of antibiotics are injected into the catheter lumen 
+for an extended period to eradicate bacteria. Catheter locks have been used to treat sepsis 
+since the 1980s; however with the understanding that infecting microorganisms are present 
+as biofilms on medical device materials, this approach is now specifically tailored to 
+improve efficacy
+
+EPS
+The EPS can contain exopolysaccharides, fibrous and globular proteins (including 
+extracellular enzymes), lipids and nucleic acids (eDNA). Those components form a matrix 
+that can be surface-associated or secreted locally or deposited on abiotic and biotic surfaces. 
+The EPS-matrix acts as a ‘multifunctional scaffold’ that supports and protects embedded 
+bacteria
+
+Nitric oxide
+Nitric oxide (NO) is a ubiquitous signalling molecule found in both prokaryotic and 
+eukaryotic systems. NO is toxic in the mM range, but in the pM and nM range it can be used 
+
+Nat Rev Microbiol. Author manuscript; available in PMC 2018 June 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Koo et al.
+
+Page 19
+
+to form oxidative and nitrosative reactive species that interact with proteins, DNA and 
+metabolic enzymes. As NO is labile, the optimal concentration to disperse biofilms is 
+difficult to measure; however NO microelectrodes are highly sensitive and offer excellent 
+spatial and temporal resolution in tissues or body fluids
+
+Antimicrobial peptides
+A subset of host defence peptides with antibiotic activity. Peptides such as LL-37 
+(cathelicidin) and human β-defensins are rapidly-acting, small-molecule effectors as part of 
+the innate immune response of the host
+
+Topographic surface patterns
+Patterns include protruding squares, cone-shapes, wrinkle and ridge-like patterning or 
+nanopores that disrupt bacterial adhesion
+
+Super-hydrophobic surfaces
+Surfaces that maintain air at the solid-liquid interface when hydrated. This leads to improved 
+functionality via water repellency or reduced drag
+
+Smart surfaces
+Smart surfaces elicit their effect only upon contact with certain physiological or 
+physiochemical cues to provide targeted application, thus increasing therapeutic precision 
+and reducing the risk of cytotoxicity
+
+Nanoparticles
+Structures with a size range between 1–1000 nm. They can be classified as organic or 
+inorganic and can exhibit antibacterial properties or can be used as drug delivery systems
+
+Adhesins
+Bacterial or fungal surface-associated determinants that mediate adherence to living cells or 
+attachment to abiotic surfaces and can promote virulence
+
+Antimicrobial chemotherapy
+The clinical treatment of microbial infections with antimicrobial agents
+
+Mannosides
+A mannose glycoside consisting of a carbohydrate bound to the hydroxyl group of another 
+compound by O-, N-, S- or C-glycosidic bonds, each with different susceptibilities to 
+hydrolysis
+
+Curli
+A class of bacterial amyloid (aggregates of proteins that form insoluble fibres) produced by 
+many Enterobacteriaceae and a major component of the extracellular matrix, promoting 
+surface adhesion, cell aggregation, and biofilm formation
+
+Type-I pili
+Filamentous surface structures possessing a FimH adhesin at the pilus tip, mediating 
+adherence to host cells and uropathogenic E. coli invasion of bladder epithelial cells
+
+Nat Rev Microbiol. Author manuscript; available in PMC 2018 June 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Koo et al.
+
+Page 20
+
+Cystic fibrosis transmembrane conductance regulator
+(CFTR). A transmembrane protein and ion transport channel that regulates epithelial fluid 
+homeostasis central to airway mucociliary clearance and defence against inhaled pathogens
+
+Biguanides
+Class of organic compounds (C2H7N5) used as oral antihyperglycemic drugs. Derivatives of 
+this compound with bactericidal activity are commonly used as antiseptic and disinfecting 
+agents such as chlorhexidine
+
+Surfactants
+Compounds that lower the surface tension between liquids and solids. Surfactants are used 
+as cleaning detergents and some biofilm bacteria produce their own surfactants in order to 
+disperse from a surface
+
+Biofouling
+The unwanted accumulation of micro and macro-organisms on surfaces. Microbial biofilms 
+are often considered ‘biofouling’, particularly in the context of industrial surfaces;
+
+References
+
+1. Flemming HC, et al. Biofilms: an emergent form of bacterial life. Nat Rev Microbiol. 2016; 14:563–
+
+575. DOI: 10.1038/nrmicro.2016.94 [PubMed: 27510863] 
+
+2. Stacy A, McNally L, Darch SE, Brown SP, Whiteley M. The biogeography of polymicrobial 
+infection. Nat Rev Microbiol. 2016; 14:93–105. DOI: 10.1038/nrmicro.2015.8 [PubMed: 
+26714431] 
+
+3. Magin CM, Cooper SP, Brennan AB. Non-toxic antifouling strategies. Materials Today. 2010; 
+
+13:36–44.
+
+4. Hobley L, Harkins C, MacPhee CE, Stanley-Wall NR. Giving structure to the biofilm matrix: an 
+overview of individual strategies and emerging common themes. FEMS Microbiol Rev. 2015; 
+39:649–669. DOI: 10.1093/femsre/fuv015 [PubMed: 25907113] 
+
+5. Peterson BW, et al. Viscoelasticity of biofilms and their recalcitrance to mechanical and chemical 
+challenges. FEMS Microbiol Rev. 2015; 39:234–245. DOI: 10.1093/femsre/fuu008 [PubMed: 
+25725015] 
+
+6. Van Acker H, Van Dijck P, Coenye T. Molecular mechanisms of antimicrobial tolerance and 
+
+resistance in bacterial and fungal biofilms. Trends Microbiol. 2014; 22:326–333. DOI: 10.1016/
+j.tim.2014.02.001 [PubMed: 24598086] 
+
+7. Lebeaux D, Ghigo J-M, Beloin C. Biofilm-related infections: bridging the gap between clinical 
+management and fundamental aspects of recalcitrance toward antibiotics. Microbiology and 
+Molecular Biology Reviews. 2014; 78:510–543. [PubMed: 25184564] 
+
+8. Koo H, Yamada KM. Dynamic cell-matrix interactions modulate microbial biofilm and tissue 3D 
+microenvironments. Curr Opin Cell Biol. 2016; 42:102–112. DOI: 10.1016/j.ceb.2016.05.005 
+[PubMed: 27257751] 
+
+9. Hoiby N, et al. ESCMID guideline for the diagnosis and treatment of biofilm infections 2014. Clin 
+Microbiol Infect. 2015; 21(Suppl 1):S1–25. DOI: 10.1016/j.cmi.2014.10.024 [PubMed: 25596784] 
+10. Velkov T, Roberts KD, Li J. Rediscovering the octapeptins. Nat Prod Rep. 2017; 34:295–309. DOI: 
+
+10.1039/c6np00113k [PubMed: 28180225] 
+
+11. Raad I, et al. Successful Salvage of Central Venous Catheters in Patients with Catheter-Related or 
+Central Line-Associated Bloodstream Infections by Using a Catheter Lock Solution Consisting of 
+Minocycline, EDTA, and 25% Ethanol. Antimicrob Agents Chemother. 2016; 60:3426–3432. 
+DOI: 10.1128/AAC.02565-15 [PubMed: 27001822] 
+
+Nat Rev Microbiol. Author manuscript; available in PMC 2018 June 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Koo et al.
+
+Page 21
+
+12. Mistry S, et al. A novel, multi-barrier, drug eluting calcium sulfate/biphasic calcium phosphate 
+
+biodegradable composite bone cement for treatment of experimental MRSA osteomyelitis in rabbit 
+model. Journal of Controlled Release. 2016; 239:169–181. doi:http://dx.doi.org/10.1016/j.jconrel.
+2016.08.014. [PubMed: 27582374] 
+
+13. Lemire JA, Harrison JJ, Turner RJ. Antimicrobial activity of metals: mechanisms, molecular 
+targets and applications. Nat Rev Micro. 2013; 11:371–384. http://www.nature.com/nrmicro/
+journal/v11/n6/abs/nrmicro3028.html-supplementary-information. DOI: 10.1038/nrmicro3028
+14. Castaneda P, McLaren A, Tavaziva G, Overstreet D. Biofilm Antimicrobial Susceptibility Increases 
+
+With Antimicrobial Exposure Time. Clin Orthop Relat Res. 2016; 474:1659–1664. DOI: 10.1007/
+s11999-016-4700-z [PubMed: 26797908] 
+
+15. Howlin RP, et al. Antibiotic-loaded synthetic calcium sulfate beads for prevention of bacterial 
+
+colonization and biofilm formation in periprosthetic infections. Antimicrob Agents Chemother. 
+2015; 59:111–120. DOI: 10.1128/AAC.03676-14 [PubMed: 25313221] 
+
+16. Besinis A, De Peralta T, Tredwin CJ, Handy RD. Review of nanomaterials in dentistry: interactions 
+with the oral microenvironment, clinical applications, hazards, and benefits. ACS nano. 2015; 
+9:2255–2289. [PubMed: 25625290] 
+
+17. Fabbri S, et al. Streptococcus mutans biofilm transient viscoelastic fluid behaviour during high-
+velocity microsprays. J Mech Behav Biomed Mater. 2016; 59:197–206. DOI: 10.1016/j.jmbbm.
+2015.12.012 [PubMed: 26771168] 
+
+18. Urish KL, DeMuth PW, Craft DW, Haider H, Davis CM 3rd. Pulse lavage is inadequate at removal 
+of biofilm from the surface of total knee arthroplasty materials. J Arthroplasty. 2014; 29:1128–
+1132. DOI: 10.1016/j.arth.2013.12.012 [PubMed: 24439797] 
+
+19. Flemming H-C, Wingender J. The biofilm matrix. Nature Reviews Microbiology. 2010; 8:623–633. 
+
+[PubMed: 20676145] 
+
+20. Gunn JS, Bakaletz LO, Wozniak DJ. What’s on the Outside Matters: The Role of the Extracellular 
+Polymeric Substance of Gram-negative Biofilms in Evading Host Immunity and as a Target for 
+Therapeutic Intervention. J Biol Chem. 2016; 291:12538–12546. DOI: 10.1074/jbc.R115.707547 
+[PubMed: 27129225] 
+
+21. Peng X, Zhang Y, Bai G, Zhou X, Wu H. Cyclic di-AMP mediates biofilm formation. Molecular 
+
+microbiology. 2016
+
+22. Mann EE, Wozniak DJ. Pseudomonas biofilm matrix composition and niche biology. FEMS 
+
+Microbiol Rev. 2012; 36:893–916. DOI: 10.1111/j.1574-6976.2011.00322.x [PubMed: 22212072] 
+23. Teschler JK, et al. Living in the matrix: assembly and control of Vibrio cholerae biofilms. Nat Rev 
+
+Microbiol. 2015; 13:255–268. DOI: 10.1038/nrmicro3433 [PubMed: 25895940] 
+24. Fernicola S, et al. In Silico Discovery and In Vitro Validation of Catechol-Containing 
+
+Sulfonohydrazide Compounds as Potent Inhibitors of the Diguanylate Cyclase PleD. J Bacteriol. 
+2015; 198:147–156. DOI: 10.1128/jb.00742-15 [PubMed: 26416830] 
+
+25. Sambanthamoorthy K, et al. Identification of small molecules that antagonize diguanylate cyclase 
+enzymes to inhibit biofilm formation. Antimicrob Agents Chemother. 2012; 56:5202–5211. DOI: 
+10.1128/aac.01396-12 [PubMed: 22850508] 
+
+26. Falsetta ML, et al. Novel antibiofilm chemotherapy targets exopolysaccharide synthesis and stress 
+
+tolerance in Streptococcus mutans to modulate virulence expression in vivo. Antimicrob Agents 
+Chemother. 2012; 56:6201–6211. DOI: 10.1128/aac.01381-12 [PubMed: 22985885] 
+
+27. Ren Z, et al. Molecule Targeting Glucosyltransferase Inhibits Streptococcus mutans Biofilm 
+
+Formation and Virulence. Antimicrob Agents Chemother. 2015; 60:126–135. DOI: 10.1128/aac.
+00919-15 [PubMed: 26482298] 
+
+28. Totsika M, et al. A FimH inhibitor prevents acute bladder infection and treats chronic cystitis 
+
+caused by multidrug-resistant uropathogenic Escherichia coli ST131. J Infect Dis. 2013; 208:921–
+928. DOI: 10.1093/infdis/jit245 [PubMed: 23737602] 
+
+29. Nett JE, Cabezas-Olcoz J, Marchillo K, Mosher DF, Andes DR. Targeting Fibronectin To Disrupt 
+In Vivo Candida albicans Biofilms. Antimicrob Agents Chemother. 2016; 60:3152–3155. DOI: 
+10.1128/aac.03094-15 [PubMed: 26902759] 
+
+Nat Rev Microbiol. Author manuscript; available in PMC 2018 June 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Koo et al.
+
+Page 22
+
+30. Guiton PS, et al. Combinatorial small-molecule therapy prevents uropathogenic Escherichia coli 
+catheter-associated urinary tract infections in mice. Antimicrob Agents Chemother. 2012; 
+56:4738–4745. DOI: 10.1128/aac.00447-12 [PubMed: 22733070] 
+
+31. Spaulding CN, et al. Selective depletion of uropathogenic E. coli from the gut by a FimH 
+
+antagonist. Nature. 2017; 546:528–532. http://www.nature.com/nature/journal/v546/n7659/abs/
+nature22972.html-supplementary-information. DOI: 10.1038/nature22972 [PubMed: 28614296] 
+32. Mydock-McGrane L, et al. Antivirulence C-Mannosides as Antibiotic-Sparing, Oral Therapeutics 
+for Urinary Tract Infections. J Med Chem. 2016; 59:9390–9408. DOI: 10.1021/acs.jmedchem.
+6b00948 [PubMed: 27689912] 
+
+33. Cegelski L, et al. Small-molecule inhibitors target Escherichia coli amyloid biogenesis and biofilm 
+formation. Nat Chem Biol. 2009; 5:913–919. DOI: 10.1038/nchembio.242 [PubMed: 19915538] 
+34. Cozens D, Read RC. Anti-adhesion methods as novel therapeutics for bacterial infections. Expert 
+Rev Anti Infect Ther. 2012; 10:1457–1468. DOI: 10.1586/eri.12.145 [PubMed: 23253323] 
+35. Kaplan JB. Biofilm matrix-degrading enzymes. Methods Mol Biol. 2014; 1147:203–213. DOI: 
+
+10.1007/978-1-4939-0467-9_14 [PubMed: 24664835] 
+
+36. Pleszczynska M, Wiater A, Janczarek M, Szczodrak J. (1-->3)-alpha-D-Glucan hydrolases in 
+
+dental biofilm prevention and control: A review. International journal of biological 
+macromolecules. 2015; 79:761–778. DOI: 10.1016/j.ijbiomac.2015.05.052 [PubMed: 26047901] 
+
+37. Fleming D, Chahin L, Rumbaugh K. Glycoside Hydrolases Degrade Polymicrobial Bacterial 
+
+Biofilms in Wounds. Antimicrob Agents Chemother. 2016
+
+38. Iwase T, et al. Staphylococcus epidermidis Esp inhibits Staphylococcus aureus biofilm formation 
+and nasal colonization. Nature. 2010; 465:346–349. DOI: 10.1038/nature09074 [PubMed: 
+20485435] 
+
+39. Schmelcher M, et al. Evolutionarily distinct bacteriophage endolysins featuring conserved 
+
+peptidoglycan cleavage sites protect mice from MRSA infection. J Antimicrob Chemother. 2015; 
+70:1453–1465. DOI: 10.1093/jac/dku552 [PubMed: 25630640] 
+
+40. Becker SC, et al. Triple-acting Lytic Enzyme Treatment of Drug-Resistant and Intracellular 
+
+Staphylococcus aureus. Sci Rep. 2016; 6:25063. [PubMed: 27121552] 
+
+41. Baker P, et al. Exopolysaccharide biosynthetic glycoside hydrolases can be utilized to disrupt and 
+prevent Pseudomonas aeruginosa biofilms. Science advances. 2016; 2:e1501632. [PubMed: 
+27386527] 
+
+42. Okshevsky M, Regina VR, Meyer RL. Extracellular DNA as a target for biofilm control. Curr Opin 
+
+Biotechnol. 2015; 33:73–80. DOI: 10.1016/j.copbio.2014.12.002 [PubMed: 25528382] 
+43. Kaplan JB, et al. Low levels of beta-lactam antibiotics induce extracellular DNA release and 
+
+biofilm formation in Staphylococcus aureus. MBio. 2012; 3:e00198–00112. DOI: 10.1128/mBio.
+00198-12 [PubMed: 22851659] 
+
+44. Hymes SR, Randis TM, Sun TY, Ratner AJ. DNase inhibits Gardnerella vaginalis biofilms in vitro 
+and in vivo. J Infect Dis. 2013; 207:1491–1497. DOI: 10.1093/infdis/jit047 [PubMed: 23431033] 
+45. Manzenreiter R, et al. Ultrastructural characterization of cystic fibrosis sputum using atomic force 
+and scanning electron microscopy. J Cyst Fibros. 2012; 11:84–92. DOI: 10.1016/j.jcf.2011.09.008 
+[PubMed: 21996135] 
+
+46. Konstan MW, Ratjen F. Effect of dornase alfa on inflammation and lung function: potential role in 
+
+the early treatment of cystic fibrosis. J Cyst Fibros. 2012; 11:78–83. DOI: 10.1016/j.jcf.
+2011.10.003 [PubMed: 22093951] 
+
+47. Thornton RB, et al. Neutrophil extracellular traps and bacterial biofilms in middle ear effusion of 
+
+children with recurrent acute otitis media--a potential treatment target. PLoS One. 2013; 8:e53837. 
+[PubMed: 23393551] 
+
+48. Institute, WATK. Dissolving the glue in glue ear. 2017. <https://www.telethonkids.org.au/our-
+
+research/early-environment/infection-and-vaccines/vaccine-trials-group/dissolving-the-glue-in-
+glue-ear/>
+
+49. Baelo A, et al. Disassembling bacterial extracellular matrix with DNase-coated nanoparticles to 
+enhance antibiotic delivery in biofilm infections. J Control Release. 2015; 209:150–158. DOI: 
+10.1016/j.jconrel.2015.04.028 [PubMed: 25913364] 
+
+Nat Rev Microbiol. Author manuscript; available in PMC 2018 June 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Koo et al.
+
+Page 23
+
+50. Liu Y, et al. Topical delivery of low-cost protein drug candidates made in chloroplasts for biofilm 
+disruption and uptake by oral epithelial cells. Biomaterials. 2016; 105:156–166. DOI: 10.1016/
+j.biomaterials.2016.07.042 [PubMed: 27521618] 
+
+51. Bhattacharya M, Wozniak DJ, Stoodley P, Hall-Stoodley L. Prevention and treatment of 
+
+Staphylococcus aureus biofilms. Expert Rev Anti Infect Ther. 2015; 13:1499–1516. DOI: 
+10.1586/14787210.2015.1100533 [PubMed: 26646248] 
+
+52. DiGiandomenico A, et al. Identification of broadly protective human antibodies to Pseudomonas 
+
+aeruginosa exopolysaccharide Psl by phenotypic screening. J Exp Med. 2012; 209:1273–1287. 
+DOI: 10.1084/jem.20120033 [PubMed: 22734046] 
+
+53. Flores-Mireles AL, Pinkner JS, Caparon MG, Hultgren SJ. EbpA vaccine antibodies block binding 
+of Enterococcus faecalis to fibrinogen to prevent catheter-associated bladder infection in mice. Sci 
+Transl Med. 2014; 6:254ra127.
+
+54. Brady RA, et al. Resolution of Staphylococcus aureus biofilm infection using vaccination and 
+
+antibiotic treatment. Infect Immun. 2011; 79:1797–1803. DOI: 10.1128/iai.00451-10 [PubMed: 
+21220484] 
+
+55. Goodman SD, et al. Biofilms can be dispersed by focusing the immune system on a common 
+
+family of bacterial nucleoid-associated proteins. Mucosal immunology. 2011; 4:625–637. DOI: 
+10.1038/mi.2011.27 [PubMed: 21716265] 
+
+56. Rocco CJ, Davey ME, Bakaletz LO, Goodman SD. Natural antigenic differences in the 
+
+functionally equivalent extracellular DNABII proteins of bacterial biofilms provide a means for 
+targeted biofilm therapeutics. Mol Oral Microbiol. 2016
+
+57. Devaraj A, Justice SS, Bakaletz LO, Goodman SD. DNABII proteins play a central role in UPEC 
+biofilm structure. Mol Microbiol. 2015; 96:1119–1135. DOI: 10.1111/mmi.12994 [PubMed: 
+25757804] 
+
+58. Novotny LA, Jurcisek JA, Goodman SD, Bakaletz LO. Monoclonal antibodies against DNA-
+
+binding tips of DNABII proteins disrupt biofilms in vitro and induce bacterial clearance in vivo. 
+EBioMedicine. 2016; 10:33–44. DOI: 10.1016/j.ebiom.2016.06.022 [PubMed: 27342872] 
+
+59. Estelles A, et al. A High-Affinity Native Human Antibody Disrupts Biofilm from Staphylococcus 
+
+aureus Bacteria and Potentiates Antibiotic Efficacy in a Mouse Implant Infection Model. 
+Antimicrob Agents Chemother. 2016; 60:2292–2301. DOI: 10.1128/aac.02588-15 [PubMed: 
+26833157] 
+
+60. Freire MO, et al. A bacterial-biofilm-induced oral osteolytic infection can be successfully treated 
+by immuno-targeting an extracellular nucleoid-associated protein. Mol Oral Microbiol. 2017; 
+32:74–88. DOI: 10.1111/omi.12155 [PubMed: 26931773] 
+
+61. Novotny LA, et al. Antibodies against the majority subunit of type IV Pili disperse nontypeable 
+
+Haemophilus influenzae biofilms in a LuxS-dependent manner and confer therapeutic resolution 
+of experimental otitis media. Mol Microbiol. 2015; 96:276–292. DOI: 10.1111/mmi.12934 
+[PubMed: 25597921] 
+
+62. McDougald D, Rice SA, Barraud N, Steinberg PD, Kjelleberg S. Should we stay or should we go: 
+mechanisms and ecological consequences for biofilm dispersal. Nat Rev Microbiol. 2011; 10:39–
+50. DOI: 10.1038/nrmicro2695 [PubMed: 22120588] 
+
+63. Romling U, Balsalobre C. Biofilm infections, their resilience to therapy and innovative treatment 
+strategies. J Intern Med. 2012; 272:541–561. DOI: 10.1111/joim.12004 [PubMed: 23025745] 
+64. Christensen LD, et al. Clearance of Pseudomonas aeruginosa foreign-body biofilm infections 
+
+through reduction of the cyclic Di-GMP level in the bacteria. Infect Immun. 2013; 81:2705–2713. 
+DOI: 10.1128/iai.00332-13 [PubMed: 23690403] 
+
+65. Burdette DL, et al. STING is a direct innate immune sensor of cyclic di-GMP. Nature. 2011; 
+
+478:515–518. DOI: 10.1038/nature10429 [PubMed: 21947006] 
+
+66. Barraud N, et al. Nitric oxide signaling in Pseudomonas aeruginosa biofilms mediates 
+
+phosphodiesterase activity, decreased cyclic di-GMP levels, and enhanced dispersal. J Bacteriol. 
+2009; 191:7333–7342. DOI: 10.1128/JB.00975-09 [PubMed: 19801410] 
+
+67. Barraud N, Kelso MJ, Rice SA, Kjelleberg S. Nitric oxide: a key mediator of biofilm dispersal with 
+
+applications in infectious diseases. Curr Pharm Des. 2015; 21:31–42. [PubMed: 25189865] 
+
+Nat Rev Microbiol. Author manuscript; available in PMC 2018 June 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Koo et al.
+
+Page 24
+
+68. Howlin RP, et al. Low dose nitric oxide as targeted anti-biofilm adjunctive therapy to treat chronic 
+
+Pseudomonas aeruginosa infection in cystic fibrosis. Molecular Therapy. 2017 In Press. 
+69. Deppisch C, et al. Gaseous nitric oxide to treat antibiotic resistant bacterial and fungal lung 
+
+infections in patients with cystic fibrosis: a phase I clinical study. Infection. 2016; 44:513–520. 
+DOI: 10.1007/s15010-016-0879-x [PubMed: 26861246] 
+
+70. Novoteris, L. Efficacy and Safety of Inhaled Nitric Oxide (NO) in Cystic Fibrosis (CF) Patients. 
+
+<https://clinicaltrials.gov/ct2/show/NCT02498535> (
+
+71. Barraud N, et al. Cephalosporin-3’-diazeniumdiolates: targeted NO-donor prodrugs for dispersing 
+bacterial biofilms. Angew Chem Int Ed Engl. 2012; 51:9057–9060. DOI: 10.1002/anie.201202414 
+[PubMed: 22890975] 
+
+72. Collins SA, et al. Cephalosporin-3’ -diazeniumdiolate NO-donor prodrug PYRRO-C3D enhances 
+
+azithromycin susceptibility of Non-typeable Haemophilus influenzae biofilms. Antimicrob Agents 
+Chemother. 2016
+
+73. Walker WT, et al. Primary Ciliary Dyskinesia Ciliated Airway Cells Show Increased Susceptibility 
+
+to Haemophilus influenzae Biofilm Formation. Eur Respir J. 2017 In Press. 
+
+74. de la Fuente-Nunez C, Reffuveille F, Fairfull-Smith KE, Hancock RE. Effect of nitroxides on 
+
+swarming motility and biofilm formation, multicellular behaviors in Pseudomonas aeruginosa. 
+Antimicrob Agents Chemother. 2013; 57:4877–4881. DOI: 10.1128/AAC.01381-13 [PubMed: 
+23877682] 
+
+75. Reffuveille F, Fuente-Nunez Cde L, Fairfull-Smith KE, Hancock RE. Potentiation of ciprofloxacin 
+
+action against Gram-negative bacterial biofilms by a nitroxide. Pathog Dis. 2015; 73
+
+76. Verderosa AD, Mansour SC, de la Fuente-Nunez C, Hancock RE, Fairfull-Smith KE. Synthesis 
+
+and Evaluation of Ciprofloxacin-Nitroxide Conjugates as Anti-Biofilm Agents. Molecules. 2016; 
+21
+
+77. Kutty SK, et al. Design, synthesis, and evaluation of fimbrolide-nitric oxide donor hybrids as 
+
+antimicrobial agents. J Med Chem. 2013; 56:9517–9529. DOI: 10.1021/jm400951f [PubMed: 
+24191659] 
+
+78. Anderson JK, et al. Chemorepulsion from the Quorum Signal Autoinducer-2 Promotes 
+Helicobacter pylori Biofilm Dispersal. MBio. 2015; 6:e00379. [PubMed: 26152582] 
+79. Lauderdale KJ, Malone CL, Boles BR, Morcuende J, Horswill AR. Biofilm dispersal of 
+
+community-associated methicillin-resistant Staphylococcus aureus on orthopedic implant material. 
+J Orthop Res. 2010; 28:55–61. DOI: 10.1002/jor.20943 [PubMed: 19610092] 
+
+80. Simonetti O, et al. RNAIII-inhibiting peptide enhances healing of wounds infected with 
+
+methicillin-resistant Staphylococcus aureus. Antimicrob Agents Chemother. 2008; 52:2205–2211. 
+DOI: 10.1128/AAC.01340-07 [PubMed: 18391046] 
+
+81. Starkey M, et al. Identification of Anti-virulence Compounds That Disrupt Quorum-Sensing 
+
+Regulated Acute and Persistent Pathogenicity. PLoS Pathogens. 2014; 10:e1004321. [PubMed: 
+25144274] 
+
+82. Brackman G, Cos P, Maes L, Nelis HJ, Coenye T. Quorum sensing inhibitors increase the 
+susceptibility of bacterial biofilms to antibiotics in vitro and in vivo. Antimicrob Agents 
+Chemother. 2011; 55:2655–2661. DOI: 10.1128/aac.00045-11 [PubMed: 21422204] 
+
+83. Nascimento MM, et al. The effect of arginine on oral biofilm communities. Mol Oral Microbiol. 
+
+2014; 29:45–54. DOI: 10.1111/omi.12044 [PubMed: 24289808] 
+
+84. He J, et al. l-Arginine Modifies the Exopolysaccharide Matrix and Thwarts Streptococcus mutans 
+
+Outgrowth within Mixed-Species Oral Biofilms. J Bacteriol. 2016; 198:2651–2661. DOI: 
+10.1128/JB.00021-16 [PubMed: 27161116] 
+
+85. Jakubovics NS, et al. Critical roles of arginine in growth and biofilm development by 
+
+Streptococcus gordonii. Mol Microbiol. 2015; 97:281–300. DOI: 10.1111/mmi.13023 [PubMed: 
+25855127] 
+
+86. Kolderman E, et al. L-arginine destabilizes oral multi-species biofilm communities developed in 
+
+human saliva. PLoS One. 2015; 10:e0121835. [PubMed: 25946040] 
+
+87. Gnanadhas DP, Elango M, Datey A, Chakravortty D. Chronic lung infection by Pseudomonas 
+aeruginosa biofilm is cured by L-Methionine in combination with antibiotic therapy. Sci Rep. 
+2015; 5:16043. [PubMed: 26521707] 
+
+Nat Rev Microbiol. Author manuscript; available in PMC 2018 June 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Koo et al.
+
+Page 25
+
+88. Banin E, Vasil ML, Greenberg EP. Iron and Pseudomonas aeruginosa biofilm formation. 
+
+Proceedings of the National Academy of Sciences of the United States of America. 2005; 
+102:11076–11081. DOI: 10.1073/pnas.0504266102 [PubMed: 16043697] 
+
+89. Oglesby-Sherrouse AG, Djapgne L, Nguyen AT, Vasil AI, Vasil ML. The complex interplay of 
+iron, biofilm formation, and mucoidy affecting antimicrobial resistance of Pseudomonas 
+aeruginosa. Pathog Dis. 2014; 70:307–320. DOI: 10.1111/2049-632X.12132 [PubMed: 24436170] 
+
+90. Lin MH, Shu JC, Huang HY, Cheng YC. Involvement of iron in biofilm formation by 
+
+Staphylococcus aureus. PLoS One. 2012; 7:e34388. [PubMed: 22479621] 
+
+91. Garcia CA, Alcaraz ES, Franco MA, Passerini de Rossi BN. Iron is a signal for Stenotrophomonas 
+maltophilia biofilm formation, oxidative stress response, OMPs expression, and virulence. Front 
+Microbiol. 2015; 6:926. [PubMed: 26388863] 
+
+92. Moreau-Marquis S, et al. The DeltaF508-CFTR mutation results in increased biofilm formation by 
+Pseudomonas aeruginosa by increasing iron availability. Am J Physiol Lung Cell Mol Physiol. 
+2008; 295:L25–37. DOI: 10.1152/ajplung.00391.2007 [PubMed: 18359885] 
+
+93. Kaneko Y, Thoendel M, Olakanmi O, Britigan BE, Singh PK. The transition metal gallium disrupts 
+Pseudomonas aeruginosa iron metabolism and has antimicrobial and antibiofilm activity. The 
+Journal of clinical investigation. 2007; 117:877–888. DOI: 10.1172/JCI30783 [PubMed: 
+17364024] 
+
+94. Moreau-Marquis S, O’Toole GA, Stanton BA. Tobramycin and FDA-approved iron chelators 
+
+eliminate Pseudomonas aeruginosa biofilms on cystic fibrosis cells. Am J Respir Cell Mol Biol. 
+2009; 41:305–313. DOI: 10.1165/rcmb.2008-0299OC [PubMed: 19168700] 
+
+95. Hunter RC, et al. Ferrous iron is a significant component of bioavailable iron in cystic fibrosis 
+
+airways. MBio. 2013; 4
+
+96. Lu M, Hansen EN. Hydrogen Peroxide Wound Irrigation in Orthopaedic Surgery. J Bone Joint 
+
+Infect. 2017; 2:3–9.
+
+97. Ordinola-Zapata R, Bramante C, Aprecio R, Handysides R, Jaramillo D. Biofilm removal by 6% 
+
+sodium hypochlorite activated by different irrigation techniques. International endodontic journal. 
+2014; 47:659–666. [PubMed: 24117881] 
+
+98. Liu H, Wei X, Ling J, Wang W, Huang X. Biofilm formation capability of Enterococcus faecalis 
+cells in starvation phase and its susceptibility to sodium hypochlorite. Journal of endodontics. 
+2010; 36:630–635. [PubMed: 20307735] 
+
+99. von Ohle C, et al. Real-time microsensor measurement of local metabolic activities in ex vivo 
+
+dental biofilms exposed to sucrose and treated with chlorhexidine. Appl Environ Microbiol. 2010; 
+76:2326–2334. DOI: 10.1128/AEM.02090-09 [PubMed: 20118374] 
+
+100. Mihailescu R, et al. High activity of Fosfomycin and Rifampin against methicillin-resistant 
+
+staphylococcus aureus biofilm in vitro and in an experimental foreign-body infection model. 
+Antimicrob Agents Chemother. 2014; 58:2547–2553. DOI: 10.1128/AAC.02420-12 [PubMed: 
+24550327] 
+
+101. Conlon BP, et al. Activated ClpP kills persisters and eradicates a chronic biofilm infection. 
+
+Nature. 2013; 503:365–370. DOI: 10.1038/nature12790 [PubMed: 24226776] 
+
+102. Pletzer D, Coleman SR, Hancock RE. Anti-biofilm peptides as a new weapon in antimicrobial 
+
+warfare. Curr Opin Microbiol. 2016; 33:35–40. DOI: 10.1016/j.mib.2016.05.016 [PubMed: 
+27318321] 
+
+103. Batoni G, Maisetta G, Esin S. Antimicrobial peptides and their interaction with biofilms of 
+medically relevant bacteria. Biochim Biophys Acta. 2016; 1858:1044–1060. DOI: 10.1016/
+j.bbamem.2015.10.013 [PubMed: 26525663] 
+
+104. Guo L, et al. Precision-guided antimicrobial peptide as a targeted modulator of human microbial 
+ecology. Proc Natl Acad Sci U S A. 2015; 112:7569–7574. DOI: 10.1073/pnas.1506207112 
+[PubMed: 26034276] 
+
+105. de la Fuente-Nunez C, et al. D-enantiomeric peptides that eradicate wild-type and multidrug-
+resistant biofilms and protect against lethal Pseudomonas aeruginosa infections. Chem Biol. 
+2015; 22:196–205. DOI: 10.1016/j.chembiol.2015.01.002 [PubMed: 25699603] 
+
+Nat Rev Microbiol. Author manuscript; available in PMC 2018 June 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Koo et al.
+
+Page 26
+
+106. Jones EA, McGillivary G, Bakaletz LO. Extracellular DNA within a nontypeable Haemophilus 
+
+influenzae-induced biofilm binds human beta defensin-3 and reduces its antimicrobial activity. J 
+Innate Immun. 2013; 5:24–38. DOI: 10.1159/000339961000339961 [PubMed: 22922323] 
+107. Yu K, et al. Anti-adhesive antimicrobial peptide coating prevents catheter associated infection in a 
+mouse urinary infection model. Biomaterials. 2017; 116:69–81. DOI: 10.1016/j.biomaterials.
+2016.11.047 [PubMed: 27914268] 
+
+108. Lam SJ, et al. Combating multidrug-resistant Gram-negative bacteria with structurally 
+
+nanoengineered antimicrobial peptide polymers. 2016; 1:16162. http://
+dharmasastra.live.cf.private.springer.com/articles/nmicrobiol2016162-supplementary-
+information. 
+
+109. Scott RW, Tew GN. Mimics of Host Defense Proteins; Strategies for Translation to Therapeutic 
+
+Applications. Curr Top Med Chem. 2017; 17:576–589. [PubMed: 27411325] 
+
+110. Busscher HJ, et al. Biomaterial-associated infection: locating the finish line in the race for the 
+
+surface. Sci Transl Med. 2012; 4:153rv110.
+
+111. De Jong WH, et al. Systemic and immunotoxicity of silver nanoparticles in an intravenous 28 
+
+days repeated dose toxicity study in rats. Biomaterials. 2013; 34:8333–8343. DOI: 10.1016/
+j.biomaterials.2013.06.048 [PubMed: 23886731] 
+
+112. Swartjes JJ, et al. Current Developments in Antimicrobial Surface Coatings for Biomedical 
+
+Applications. Curr Med Chem. 2015; 22:2116–2129. [PubMed: 25245508] 
+
+113. Schumacher JF, et al. Species-specific engineered antifouling topographies: correlations between 
+the settlement of algal zoospores and barnacle cyprids. Biofouling. 2007; 23:307–317. DOI: 
+10.1080/08927010701393276 [PubMed: 17852066] 
+
+114. May RM, et al. An engineered micropattern to reduce bacterial colonization, platelet adhesion and 
+fibrin sheath formation for improved biocompatibility of central venous catheters. Clinical and 
+Translational Medicine. 2015; 4:9. [PubMed: 25852825] 
+
+115. Falde EJ, Yohe ST, Colson YL, Grinstaff MW. Superhydrophobic materials for biomedical 
+applications. Biomaterials. 2016; 104:87–103. doi:http://dx.doi.org/10.1016/j.biomaterials.
+2016.06.050. [PubMed: 27449946] 
+
+116. Damodaran VB, Murthy NS. Bio-inspired strategies for designing antifouling biomaterials. 
+
+Biomaterials Research. 2016; 20:18. [PubMed: 27326371] 
+
+117. Zeng G, Ogaki R, Meyer RL. Non-proteinaceous bacterial adhesins challenge the antifouling 
+
+properties of polymer brush coatings. Acta biomaterialia. 2015; 24:64–73. doi:http://dx.doi.org/
+10.1016/j.actbio.2015.05.037. [PubMed: 26093067] 
+
+118. Wen L, Tian Y, Jiang L. Bioinspired super-wettability from fundamental research to practical 
+applications. Angew Chem Int Ed Engl. 2015; 54:3387–3399. DOI: 10.1002/anie.201409911 
+[PubMed: 25614018] 
+
+119. Bai X, Xue CH, Jia ST. Surfaces with Sustainable Superhydrophobicity upon Mechanical 
+
+Abrasion. ACS Appl Mater Interfaces. 2016
+
+120. Fadeeva E, et al. Bacterial Retention on Superhydrophobic Titanium Surfaces Fabricated by 
+
+Femtosecond Laser Ablation. Langmuir. 2011; 27:3012–3019. DOI: 10.1021/la104607g 
+[PubMed: 21288031] 
+
+121. Gilabert-Porres J, et al. Design of a Nanostructured Active Surface against Gram-Positive and 
+
+Gram-Negative Bacteria through Plasma Activation and in Situ Silver Reduction. ACS Applied 
+Materials & Interfaces. 2016; 8:64–73. DOI: 10.1021/acsami.5b07115 [PubMed: 26593038] 
+122. Paula AJ, Koo H. Nanosized Building Blocks for Customizing Novel Antibiofilm Approaches. J 
+
+Dent Res. 2017; 96:128–136. DOI: 10.1177/0022034516679397 [PubMed: 27856967] 
+123. Bayramov DF, Neff JA. Beyond conventional antibiotics - New directions for combination 
+
+products to combat biofilm. Adv Drug Deliv Rev. 2016
+
+124. Junter G-A, Thébault P, Lebrun L. Polysaccharide-based antibiofilm surfaces. Acta biomaterialia. 
+2016; 30:13–25. doi:http://dx.doi.org/10.1016/j.actbio.2015.11.010. [PubMed: 26555378] 
+
+125. Palumbo FS, et al. A polycarboxylic/amino functionalized hyaluronic acid derivative for the 
+
+production of pH sensible hydrogels in the prevention of bacterial adhesion on biomedical 
+surfaces. Int J Pharm. 2015; 478:70–77. DOI: 10.1016/j.ijpharm.2014.11.015 [PubMed: 
+25448569] 
+
+Nat Rev Microbiol. Author manuscript; available in PMC 2018 June 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Koo et al.
+
+Page 27
+
+126. Ciofu O, Tolker-Nielsen T, Jensen PO, Wang H, Hoiby N. Antimicrobial resistance, respiratory 
+
+tract infections and role of biofilms in lung infections in cystic fibrosis patients. Adv Drug Deliv 
+Rev. 2015; 85:7–23. DOI: 10.1016/j.addr.2014.11.017 [PubMed: 25477303] 
+
+127. Liu W, et al. Synthesis of TiO2 nanotubes with ZnO nanoparticles to achieve antibacterial 
+properties and stem cell compatibility. Nanoscale. 2014; 6:9050–9062. DOI: 10.1039/
+c4nr01531b [PubMed: 24971593] 
+
+128. Jia Z, et al. Bioinspired anchoring AgNPs onto micro-nanoporous TiO2 orthopedic coatings: 
+
+Trap-killing of bacteria, surface-regulated osteoblast functions and host responses. Biomaterials. 
+2016; 75:203–222. doi:http://dx.doi.org/10.1016/j.biomaterials.2015.10.035. [PubMed: 
+26513414] 
+
+129. Ashbaugh AG, et al. Polymeric nanofiber coating with tunable combinatorial antibiotic delivery 
+
+prevents biofilm-associated infection in vivo. Proc Natl Acad Sci U S A. 2016
+
+130. Min J, et al. Designer Dual Therapy Nanolayered Implant Coatings Eradicate Biofilms and 
+
+Accelerate Bone Tissue Repair. ACS Nano. 2016; 10:4441–4450. DOI: 10.1021/acsnano.
+6b00087 [PubMed: 26923427] 
+
+131. Holzapfel BM, et al. How smart do biomaterials need to be? A translational science and clinical 
+point of view. Adv Drug Deliv Rev. 2013; 65:581–603. DOI: 10.1016/j.addr.2012.07.009 
+[PubMed: 22820527] 
+
+132. Zhuang J, Gordon MR, Ventura J, Li L, Thayumanavan S. Multi-stimuli responsive 
+
+macromolecules and their assemblies. Chemical Society reviews. 2013; 42:7421–7435. DOI: 
+10.1039/c3cs60094g [PubMed: 23765263] 
+
+133. Shchukin D, Mohwald H. Materials science. A coat of many functions. Science. 2013; 341:1458–
+
+1459. DOI: 10.1126/science.1242895 [PubMed: 24072911] 
+
+134. Schütz CA, Juillerat-Jeanneret L, Mueller H, Lynch I, Riediker M. Therapeutic nanoparticles in 
+clinics and under clinical evaluation. Nanomedicine. 2013; 8:449–467. DOI: 10.2217/nnm.13.8 
+[PubMed: 23477336] 
+
+135. Natan M, Banin E. From Nano to Micro: using nanotechnology to combat microorganisms and 
+their multidrug resistance. FEMS Microbiol Rev. 2017; 41:302–322. DOI: 10.1093/femsre/
+fux003 [PubMed: 28419240] 
+
+136. Rukavina Z, Vanić Ž. Current Trends in Development of Liposomes for Targeting Bacterial 
+
+Biofilms. Pharmaceutics. 2016; 8:18.
+
+137. Forier K, et al. Lipid and polymer nanoparticles for drug delivery to bacterial biofilms. J Control 
+
+Release. 2014; 190:607–623. DOI: 10.1016/j.jconrel.2014.03.055 [PubMed: 24794896] 
+
+138. Alipour M, Suntres ZE, Halwani M, Azghani AO, Omri A. Activity and interactions of liposomal 
+antibiotics in presence of polyanions and sputum of patients with cystic fibrosis. PLoS One. 
+2009; 4:e5724. [PubMed: 19479000] 
+
+139. Zazo H, Colino CI, Lanao JM. Current applications of nanoparticles in infectious diseases. J 
+
+Control Release. 2016; 224:86–102. DOI: 10.1016/j.jconrel.2016.01.008 [PubMed: 26772877] 
+
+140. Cipolla D, Blanchard J, Gonda I. Development of Liposomal Ciprofloxacin to Treat Lung 
+
+Infections. Pharmaceutics. 2016; 8
+
+141. Clancy JP, et al. Phase II studies of nebulised Arikace in CF patients with Pseudomonas 
+aeruginosa infection. Thorax. 2013; 68:818–825. DOI: 10.1136/thoraxjnl-2012-202230 
+[PubMed: 23749840] 
+
+142. Jardeleza C, et al. An in vivo safety and efficacy demonstration of a topical liposomal nitric oxide 
+
+donor treatment for Staphylococcus aureus biofilm-associated rhinosinusitis. Transl Res. 2015; 
+166:683–692. DOI: 10.1016/j.trsl.2015.06.009 [PubMed: 26166254] 
+
+143. Gao L, et al. Nanocatalysts promote Streptococcus mutans biofilm matrix degradation and 
+
+enhance bacterial killing to suppress dental caries in vivo. Biomaterials. 2016; 101:272–284. 
+DOI: 10.1016/j.biomaterials.2016.05.051 [PubMed: 27294544] 
+
+144. Benoit DS, Koo H. Targeted, triggered drug delivery to tumor and biofilm microenvironments. 
+
+Nanomedicine. 2016; 11:873–879. [PubMed: 26987892] 
+
+145. Liu Y, et al. Surface-Adaptive, Antimicrobially Loaded, Micellar Nanocarriers with Enhanced 
+
+Penetration and Killing Efficiency in Staphylococcal Biofilms. ACS Nano. 2016; 10:4779–4789. 
+DOI: 10.1021/acsnano.6b01370 [PubMed: 26998731] 
+
+Nat Rev Microbiol. Author manuscript; available in PMC 2018 June 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Koo et al.
+
+Page 28
+
+146. Horev B, et al. pH-activated nanoparticles for controlled topical delivery of farnesol to disrupt 
+
+oral biofilm virulence. ACS Nano. 2015; 9:2390–2404. DOI: 10.1021/nn507170s [PubMed: 
+25661192] 
+
+147. Radovic-Moreno AF, et al. Surface charge-switching polymeric nanoparticles for bacterial cell 
+
+wall-targeted delivery of antibiotics. ACS Nano. 2012; 6:4279–4287. DOI: 10.1021/nn3008383 
+[PubMed: 22471841] 
+
+148. Deacon J, et al. Antimicrobial efficacy of tobramycin polymeric nanoparticles for Pseudomonas 
+aeruginosa infections in cystic fibrosis: formulation, characterisation and functionalisation with 
+dornase alfa (DNase). J Control Release. 2015; 198:55–61. DOI: 10.1016/j.jconrel.2014.11.022 
+[PubMed: 25481442] 
+
+149. Ahmadi MS, et al. Sustained Nitric Oxide-Releasing Nanoparticles Induce Cell Death in Candida 
+albicans Yeast and Hyphal Cells, Preventing Biofilm Formation In Vitro and in a Rodent Central 
+Venous Catheter Model. Antimicrob Agents Chemother. 2016; 60:2185–2194. DOI: 10.1128/aac.
+02659-15 [PubMed: 26810653] 
+
+150. Mihu MR, et al. Sustained Nitric Oxide-Releasing Nanoparticles Interfere with Methicillin-
+Resistant Staphylococcus aureus Adhesion and Biofilm Formation in a Rat Central Venous 
+Catheter Model. Antimicrob Agents Chemother. 2017; 61
+
+151. Jo H, Ban C. Aptamer-nanoparticle complexes as powerful diagnostic and therapeutic tools. 
+
+Experimental & molecular medicine. 2016; 48:e230. [PubMed: 27151454] 
+
+152. Watters C, Everett JA, Haley C, Clinton A, Rumbaugh KP. Insulin Treatment Modulates the Host 
+Immune System To Enhance Pseudomonas aeruginosa Wound Biofilms. Infection and immunity. 
+2014; 82:92–100. DOI: 10.1128/iai.00651-13 [PubMed: 24126517] 
+
+153. Hajishengallis G, et al. Complement inhibition in pre-clinical models of periodontitis and 
+
+prospects for clinical application. Seminars in immunology. 2016; 28:285–291. DOI: 10.1016/
+j.smim.2016.03.006 [PubMed: 27021500] 
+
+154. Hall-Stoodley L, Costerton JW, Stoodley P. Bacterial biofilms: from the natural environment to 
+infectious diseases. Nat Rev Microbiol. 2004; 2:95–108. DOI: 10.1038/nrmicro821 [PubMed: 
+15040259] 
+
+155. Bjarnsholt T, et al. The in vivo biofilm. Trends in microbiology. 2013; 21:466–474. [PubMed: 
+
+23827084] 
+
+156. Papenfort K, Bassler BL. Quorum sensing signal-response systems in Gram-negative bacteria. 
+
+Nature Reviews Microbiology. 2016; 14:576–588. [PubMed: 27510864] 
+
+157. Strebhardt K, Ullrich A. Paul Ehrlich’s magic bullet concept: 100 years of progress. Nat Rev 
+
+Cancer. 2008; 8:473–480. DOI: 10.1038/nrc2394 [PubMed: 18469827] 
+
+158. Isaacs A, Lindenmann J. Virus interference. I. The interferon. Proc R Soc Lond B Biol Sci. 1957; 
+
+147:258–267. [PubMed: 13465720] 
+
+159. NIH MedlinePlus: the magazine [Internet]. 2013; 7:2–3.
+160. Brauner A, Fridman O, Gefen O, Balaban NQ. Distinguishing between resistance, tolerance and 
+
+persistence to antibiotic treatment. Nat Rev Microbiol. 2016; 14:320–330. DOI: 10.1038/nrmicro.
+2016.34 [PubMed: 27080241] 
+
+161. Conlon BP, Rowe SE, Lewis K. Persister cells in biofilm associated infections. Adv Exp Med 
+
+Biol. 2015; 831:1–9. DOI: 10.1007/978-3-319-09782-4_1 [PubMed: 25384659] 
+
+162. Stewart PS, et al. Contribution of stress responses to antibiotic tolerance in Pseudomonas 
+
+aeruginosa biofilms. Antimicrob Agents Chemother. 2015; 59:3838–3847. DOI: 10.1128/AAC.
+00433-15 [PubMed: 25870065] 
+
+Nat Rev Microbiol. Author manuscript; available in PMC 2018 June 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Koo et al.
+
+Page 29
+
+Text Box 1. Common features of microbial biofilms
+
+Chemical composition, physical properties
+
+Adherence. Microorganisms adhere to virtually all man-made materials (i.e. plastics, metals, ceramics and 
+hybrids) and biotic surfaces (i.e. tooth enamel, bone, skin, airway, intestinal, and vaginal mucosa, connective 
+tissue, vascular endothelium), using both specific (bacterial adhesin-host receptor interactions) and non-specific 
+adhesion (hydrophobic or electrostatic forces) mechanisms154.
+
+Extracellular polymeric substance (EPS) matrix. Although the precise chemical and physical composition of 
+the EPS (polysaccharides, proteins, nucleic acids) varies between species and growth conditions (i.e. nutrient 
+type and abundance, hydrodynamics, temperature, oxygen concentration), the EPS provides a scaffold for 
+mechanical stability, and creates compartmentalized chemical and physical microenvironments affording 
+protection to the cells within a heterogeneous 3D structure.
+
+Architecture. Although there is some variation in the structure of in vitro grown biofilms, there are a limited 
+number of common forms (flat patches, mounds, mushrooms, towers, ripples, streamers) that are not generally 
+species specific but largely dependent on biofilm maturity and the production of certain EPS components and 
+growth conditions. Biofilms seen in many clinical specimens tend to consist of aggregates of cells of varying 
+sizes and mixed-species in polymicrobial systems 155.
+
+Viscoelasticity. A material property that allows biofilms to absorb and dissipate energy, rather than detach, 
+when exposed to mechanical forces, such as hydrodynamic shear. The elastic component allows the biofilm to 
+spring back into shape during intermittent perturbations, while the viscous component allows biofilms to flow 
+like liquids when forces are sustained.5.
+
+Heterogeneity. Biofilms are heterogeneous (non-uniform) in distribution, structure and physiology at various 
+spatial scales. On the larger scale (mms to cms) they are generally not uniformly distributed on surfaces but 
+occur in patches of cell-clusters (also called microcolonies or aggregates) in a range of sizes and shapes. Within 
+the biofilm heterogeneous and compartmentalized microenvironments (10s to 100 µms) develop which 
+modulate microbial activity, intercellular signalling and metabolic exchange locally, thus spatially organizing 
+cellular and communal behaviour which is an important factor for enhanced tolerance and persistence.
+
+Physiological and regulatory aspects
+
+Developmental life cycle. Pseudomonas aeruginosa as a widely used model organism for studying microbial 
+biofilms formation. Although many of the concepts identified in this organism, such as the mechanism of 
+attachment, growth, maturation and dispersal, are widely conserved among other biofilm forming pathogens, 
+there are fundamental differences. For example, many biofilm-forming species, such as staphylococci, unlike P. 
+aeruginosa, are non-motile, many species have surface structures that are important for adhesion (capsule, pili 
+or flagella) but many do not, and lastly not all species have known signalling systems.
+
+Diffusible cell signals. These signals co-ordinate population behaviour156, metabolic activity, biofilm 
+formation and dispersal. Families of homoserine lactones are produced by a number of Gram negative species 
+while Gram positive organisms more commonly use autoinducing peptides (AIP).
+
+Altered microenvironment formation. The development of gradients in nutrients, pH and oxygen as a 
+consequence of metabolic activity of microorganisms that reside in a biofilm and diffusion limited mass 
+transport of molecules into and out of the EPS matrix alter the microenvironment in the biofilm.
+
+Dormant or slow growing sub-populations. Those include persisters and small colony variants (SCVs), 
+which are tolerant to antibiotics. In addition, nutrient depletion in the interior of the biofilm can result in a 
+stationary phase-like dormancy.
+
+Nat Rev Microbiol. Author manuscript; available in PMC 2018 June 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Koo et al.
+
+Page 30
+
+Text Box 2. Lessons learned from cancer
+
+Over 100 years ago Paul Ehrlich, the German physician scientist used the term ‘magische 
+kugel’ to describe an ideal hypothetical therapeutic agent that specifically targets and 
+kills disease-causing cells157. In the context of cancer’ the target of such a magic bullet 
+were the newly discovered receptors found on tumor cells. Another magic bullet was 
+interferon, the cytokine that was discovered in 1957158. However, a magic bullet for 
+cancer therapy remains elusive in part because over the last 40 years of intense molecular 
+research, it has been shown that “cancer is not simply a single disease that affects many 
+parts of the body”. Rather, it is many different diseases with common themes that can 
+cause different kinds of disorders in many of our organs”159. In addition, individual 
+tumors exhibit substantial chemical and clonal heterogeneity with distinct phenotypes 
+which combined with the ability of cancer cells to rapidly adapt to chemotherapeutics 
+and the microenvironment, challenge both broad spectrum and targeted therapies. In 
+tumors, the structure and composition of the extracellular matrix is often altered, creating 
+a favourable cellular niche for malignant transformation and cancer progression. Biofilms 
+share similar common themes (Box 1), including the ability to create distinct 
+microenvironments with unique chemical, physical, phylogenetic, genotypic and 
+phenotypic heterogeneities. Early cancer therapy borrowed from approaches to treat acute 
+bacterial and viral infections by targeting individual cells (with antibiotics and 
+vaccination), with limited success. Our current understanding of biofilm biology is 
+following a similar path to tumor biology. Rather than piled-up assemblages of clonal 
+cells, microbial biofilms represents a dynamic self-constructed ecosystems within a 
+matrix containing highly heterogeneous and compartmentalized milieu, and more 
+effective biofilm therapies will likely need to target the complete microenvironment as 
+well as the individual cells within144.
+
+Nat Rev Microbiol. Author manuscript; available in PMC 2018 June 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Koo et al.
+
+Page 31
+
+Text Box 3. Persistence, resistance and tolerance
+
+The terms persistence, resistance and tolerance, are often used interchangeably when 
+used to describe the inability of antibiotics (and antimicrobial agents) to inhibit or kill 
+bacteria within a biofilm to the same extent as planktonic cultures 160. Resistance usually 
+has an underlying heritable genetic basis that might be acquired through point mutation 
+or horizontal gene transfer and is defined through standardized MIC and MBC assays. 
+Tolerance is less-well defined and is arguably more appropriately used when antibiotic-
+susceptible strains (by MIC and MBC) require much higher concentrations to obtain 
+similar log-reductions when growing in the biofilm phenotype. Importantly, tolerance can 
+be lost when biofilms are dispersed into single cells, thus dispersal strategies are 
+normally considered as adjuvants for antimicrobial therapy. However, dispersed 
+planktonic aggregates of cells may still retain tolerance. Persistence (and persistent 
+biofilm) is a term that is loosely used to describe a clinically protracted unabated biofilm 
+infection despite treatment. However, persistence in this sense should not be confused 
+with ‘persisters’ 161 or sub-populations of cells with a distinct dormant phenotype 
+affording them protection against antibiotics, which kill the metabolically active 
+population. Persister cells can occur in both planktonic and biofilm cultures, but the 
+stressful conditions, physical stability and protection from host phagocytes afforded by 
+the biofilm microenvironment appear to contribute to harbouring microbial populations, 
+which grow and repopulate once the antibiotic stress is removed. It is thought that these 
+populations are tolerant of conventional antibiotics because there are no active cellular 
+processes to interrupt. These subpopulations can form spontaneously or be induced from 
+environmental stresses in the biofilm microenvironment162 (see Ref.161 for a Review).
+
+Nat Rev Microbiol. Author manuscript; available in PMC 2018 June 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Koo et al.
+
+Page 32
+
+Figure 1. Opportunities for therapeutic intervention during various stages of the biofilm life-
+cycle
+Biofilm formation proceeds as a developmental process with distinct stages: “initial 
+adhesion” where microorganisms bind to host or medical device surfaces through cell 
+surface associated adhesins; “early biofilm formation” where they begin to divide and 
+produce EPS which enhances adhesion, while forming the matrix that embeds the cells; 
+“biofilm maturation” where 3D structures develop in which the EPS matrix provides a multi-
+functional and protective scaffold which allows heterogeneous chemical and physical 
+microenvironments to form where microorganisms co-exist within polymicrobial and social 
+interactions (competitive and synergistic); and finally “dispersal” where cells leave the 
+
+Nat Rev Microbiol. Author manuscript; available in PMC 2018 June 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Koo et al.
+
+Page 33
+
+biofilm to re-enter the planktonic phase. Biofilms can be targeted at these various stages. a) 
+The initial phase of biofilm formation can be disrupted, for example, by preventing the 
+attachment of microorganisms by interrupting the interactions between the microorganism 
+and the surface, by targeting cell surface associated adhesins (appendages, proteins and 
+EPS). b) The inhibition of early stages of biofilm development includes targeting the 
+production of EPS and cellular division. c) Disruption of formed biofilms could be achieved 
+by physical removal, the degradation of the EPS-matrix, targeting the establishment of 
+pathogenic microenvironments (low pH or hypoxia) and social interactions (in 
+polymicrobial biofilms) as well as elimination of dormant cells. d) Finally, biofilm 
+dispersion can be induced by EPS matrix remodelling or activation to dispersal mechanisms.
+
+Nat Rev Microbiol. Author manuscript; available in PMC 2018 June 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Koo et al.
+
+Page 34
+
+Figure 2. Targeting the EPS
+Disruption of EPS components, and the underlying mechanisms that are responsible for the 
+production and secretion of EPS components, represent attractive targets for the 
+development of biofilm-targeting strategies, some of which have potential efficacy across 
+microbial species. One approach includes the degradation of the EPS. Treatments have been 
+developed that directly target the eDNA (DNases), exopolysaccharides (dispersin B, 
+glycoside hydrolases, monoclonal antibody vaccines), and protein (DNABII family 
+antibodies) components of the matrix. EPS adhesin-binding antibodies or inhibitors and 
+phage-encoded peptidoglycan hydrolases have been developed to target bacterial adhesion 
+
+Nat Rev Microbiol. Author manuscript; available in PMC 2018 June 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Koo et al.
+
+Page 35
+
+and biofilm initiation. Inhibitors of EPS synthesis and the secretion systems have also shown 
+promise to disrupt biofilm accumulation. Endogenous pathways that induce biofilm dispersal 
+can also be targeted, including the regulation of c-di-GMP and c-di-AMP levels using 
+exogenous NO and inhibitors, or targeting quorum sensing using various inducing peptides 
+and messenger molecules. Importantly, all of these treatment strategies, alone or in 
+combination, can lead to inhibition of biofilm formation, disrupt biofilm integrity and/or 
+promote the release of individual bacterial cells that are more susceptible to conventional 
+antibiotic treatment enhancing clinical efficacy.
+
+Nat Rev Microbiol. Author manuscript; available in PMC 2018 June 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Koo et al.
+
+Page 36
+
+Figure 3. Technological approaches to combat biofilms
+Recent advances in material science and nanotechnology enabled the engineering of a wide 
+array of biofilm-targeting strategies. a) The material and surface properties of medical 
+devices, such as surface charge, hydrophobicity, roughness, topography and chemistry 
+among others, can be modified to prevent bacterial attachment and therefore attenuate or 
+block biofilm formation. Additionally, ‘smart’ or stimuli-triggered responsive surfaces can 
+be constructed that elicit their effect only in response to physical contact with cell-wall or 
+membrane associated adhesins or chemical cues (i.e. secreted EPS, metabolites) of the 
+bacteria. b) Advancement in nanoparticle synthesis has led to the development of diverse 
+approaches to combat biofilms. Inorganic metallic (silver, copper etc.) and organic 
+nanoparticles (liposomes, aptamers etc.), have been increasingly evaluated to improve their 
+anti-biofilm efficacy, as well as their biocompatibility to reduce toxic effects on the host. 
+Nanoparticles can be used to form nanocoatings, be incorporated into materials as 
+composites or fillings or combined together with conventional antimicrobials and other 
+approaches designed to physically disrupt or remove the biofilm. Furthermore, antimicrobial 
+peptides (AMPs) and aptamers also display specific biofilm-targeting properties that can be 
+also used to enhance specificity and efficacy of nanoparticles (hybrid nanoparticles). c) New 
+technologies for physical biofilm removal, including mechanical, energy- and light-based 
+disruption, may further improve biofilm intervention strategies. Given the multifaceted 
+nature of biofilm formation and the complex microbial interactions with the surrounding 
+physical and chemical environment, a combination of these approaches may be required to 
+successfully combat biofilm-mediated disease.
+
+Nat Rev Microbiol. Author manuscript; available in PMC 2018 June 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Koo et al.
+
+Page 37
+
+Figure 4. Multi-targeting approach to combat biofilms
+The physical and biological complexity of biofilms and tolerance to antimicrobials render 
+them less susceptible to conventional therapeutic approaches. Biofilm targets include 
+microbial cells (often polymicrobial communities) and the EPS matrix, and therapeutics can 
+be delivered from the overlying surrounding biological fluid as well as the surfaces of the 
+medical devices themselves. We envision exogenous approaches (such as adhesion-targeting 
+materials and coatings, and adhesin-blocking agents) to complement or synergize with 
+endogenous activation (such as immunity modulation) to prevent microbial attachment to 
+host or abiotic surfaces in patients. Likewise, a combination of approaches that degrade the 
+protective matrix, activate dispersal, and target the resident pathogens, persisters and 
+dispersed cells without affecting commensals may be required to eliminate existing biofilms. 
+Long-term effects of modified surfaces in the presence of biological fluids as well as 
+enhanced drug penetration properties and a decrease in toxicity or allergic reactions are 
+required for in vivo efficacy. These combined with clinically relevant treatment regimen 
+(either topical or systemic) and long-term effect assessment should help successfully 
+translate the hypothetical concepts into the clinic. The grey arrows indicate that biofilm 
+bacteria and EPS can move or interact between the surface and fluid phases.
+
+Nat Rev Microbiol. Author manuscript; available in PMC 2018 June 01.
+
+ 
+ 
+ 
+ 
+

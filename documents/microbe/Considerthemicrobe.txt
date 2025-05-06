@@ -1,0 +1,598 @@
+ll
+
+Magazine
+
+Editorial
+Consider the 
+microbe
+
+Florian Maderspacher
+
+The Reverend had been out. In his 
+absence, his ingenious apparatus 
+had been destroyed by an ominous 
+accident, and the experiment he had 
+been running for nearly seven years 
+had come to an unseemly end. In 
+his apparatus, the Reverend William 
+Dallinger, avid microscopist and 
+follower of Darwin, had kept cultures 
+of different unicellular eukaryotes, 
+increasing the temperature of the 
+cultures by small increments over 
+long periods of time. Remarkably, by 
+the time his culture apparatus was 
+destroyed, the protists thrived at 70°C, 
+while they were unable to exist at their 
+previous optimal temperature. What 
+Dallinger had observed looked like 
+gradual adaptation of organisms to 
+a changing environment — evolution 
+in action. (A less exciting alternative 
+would be that a heat-tolerant species 
+already present in his starting culture 
+was the sole survivor and took over.)
+
+The approach Dallinger had 
+conceptualized — experimental 
+evolution using microbes — has 
+followed a crooked path over the 
+last century and a half: off to a false 
+start, largely forgotten and sidelined, 
+reinvigorated in the mid 20th century. 
+Finally, in the last three decades, it 
+has become an incredibly fruitful area 
+of research that has deepened our 
+understanding of evolution in many 
+different areas, in ways Dallinger and 
+Darwin could have only dreamt of.
+
+Dallinger conducted his experiments 
+between 1880 and 1886, during a time 
+known as the ‘eclipse of Darwinism’. 
+This ‘eclipse’ — a catchphrase coined 
+by Julian Huxley — was largely due 
+to a perceived impotence of natural 
+selection as a mechanism of adaptation 
+and diversiﬁ cation. Dallinger, though 
+not a professional scientist, was by no 
+means an outsider: he was president 
+of the microscopic society and 
+corresponded with Darwin, who found 
+his earlier preliminary results “extremely 
+curious and valuable”. Dallinger’s 
+ﬁ ndings were even reported in the 
+popular press. And as Dallinger had 
+
+Microbial transparency: Glass sculpture of a Salmonella by artist Luke Jarram. Image: Luke 
+Jarram.
+
+ﬁ rst realized, experimental evolution 
+on microbes could potentially provide 
+a direct window into the evolutionary 
+process which otherwise occurred over 
+long time periods. 
+
+Traditionally, the study of evolution 
+was driven by a ‘naturalist approach’. 
+Evolutionary patterns had to be 
+inferred from a sparse fossil record 
+or from the natural history of animals 
+and plants alive today. Since the 
+late 19th century, artiﬁ cial selection 
+experiments on plants and animals, 
+such as William Castle’s experiments 
+on coat color in rats, became a new 
+line of research in evolution. However, 
+these experiments were cumbersome, 
+due to slow generation times and 
+difﬁ culty in maintaining reasonably 
+sized populations of test subjects. By 
+comparison, microbial experimental 
+evolution approaches offered many 
+advantages: a very short generation 
+time, large population size, easily 
+controllable and manipulatable culture 
+conditions. It is curious that Dallinger’s 
+early experiments did not inspire more 
+repetition. 
+
+For the ﬁ rst one hundred years or so, 
+
+microbiology and evolutionary biology 
+largely ignored each other. Microbiology 
+was beginning to ﬂ ourish when Darwin 
+developed his theory. And Darwin in 
+his all-encompassing view of biology 
+
+did think evolution by natural selection 
+was also relevant to microbes and vice 
+versa. Not only did he collect microbes 
+while on the Beagle, he also discussed 
+them in The Origin, countering the 
+misconceived notion of why such 
+presumed ‘simple’ forms had not been 
+replaced by more complex ones if 
+everything tended to evolve towards 
+more complexity. People like Lamarck 
+went to great lengths to explain this 
+by claiming that new microbes arose 
+continuously and spontaneously from 
+inorganic matter while their ancestors 
+complexiﬁ ed away. Darwin responded 
+that they were probably more complex 
+than this notion entailed and could 
+be so well adapted that there was 
+no selective advantage in further 
+complexiﬁ cation.
+
+Microbes have remained on the 
+sidelines of evolutionary biology for a 
+long time. Even today, ﬂ ipping open a 
+modern evolution textbook will reveal 
+a bestiary of birds, ﬁ shes or insects, 
+as well as examples from plants, 
+whereas microbes — the oldest, most 
+abundant and most diverse life forms 
+on Earth — still only feature marginally. 
+There may be cultural reasons, rooted 
+in the sociology of science: while many 
+evolutionists were dyed-in-the-wool 
+naturalists, who concerned themselves 
+with the diversity of macroscopic life, 
+
+R1096  Current Biology 30, R1096–R1169, October 5, 2020 © 2020 Published by Elsevier Inc.
+
+Magazine
+
+most microbiologists were chieﬂ y 
+concerned with how the insights from 
+microbiology could be applied in 
+medicine or biotechnology and did not 
+embrace Darwin’s theory as readily 
+as other disciplines. Then there were 
+biological reasons: microbes were seen 
+as reproducing asexually and seemed 
+to lack many of the astonishingly 
+complex features that evolutionists 
+aimed to explain — although early 
+microbial naturalists, like Christian 
+Ehrenberg, had noted the intricate and 
+complex inner lives of microbes. This 
+had led to a view, widespread among 
+evolutionists, that microbes were just 
+too odd to bother with, or, as expressed 
+by Julian Huxley in his 1942 book on 
+the modern evolutionary synthesis, 
+that “the processes of variation, 
+heredity and evolution in bacteria are 
+quite different from the corresponding 
+processes in multicellular organisms”. 
+And so, microbes fell by the wayside 
+of the modern synthesis, which 
+integrated these processes into a more 
+wholesome picture of evolution. 
+Around the time the modern 
+
+synthesis was formulated, however, 
+this state of affairs did begin to change, 
+and Dallinger’s ingenious approach 
+to evolution — its recapitulation in 
+controlled lab settings — began to 
+develop into a serious and inﬂ uential 
+line of research that ﬂ ourishes to this 
+day. The 1930s and 40s had seen a 
+surge in interest in microbes, mainly 
+because biochemical genetics — like 
+the work of George Beadle and Edward 
+Tatum linking metabolic variants of 
+the fungus Neurospora to genetic 
+mutations — was making great strides 
+in unraveling the fundamental workings 
+of life and its fundamental unity.
+
+Technical innovations kindled an 
+
+interest in using bacteria to study 
+evolutionary processes; in particular the 
+‘chemostat’, an apparatus that allowed 
+the maintenance of a bacterial culture in 
+an open controlled system over much 
+longer times than in a regular culture. 
+One of the ﬁ rst discoveries of such 
+experiments, by Leo Szilard and Aaron 
+Novick, working with chemostats, and 
+Kim Atwood, Lillian Schneider and 
+Francis Ryan, working with closed 
+cultures in serial dilution, was ‘periodic 
+selection’, what we would call today 
+‘selective sweeps’. Under constant 
+conditions, after time new bacterial 
+clones would outperform and outgrow 
+
+ll
+
+Early adapter: Dallinger‘s culture apparatus pioneering experimental evolution (image from Bio-
+diversity Heritage Library, contributed by New York Botanical Garden/LuEsther T. Mertz Library).
+
+others in the culture, only to be later 
+outcompeted themselves. As Francis 
+Ryan, one of the pioneers of this 
+early wave of experimental evolution, 
+put it: “these experiments prove that 
+selection is a powerful force for ﬁ xing 
+and perpetuating those rare mutations 
+that do give an advantage”. For the 
+ﬁ rst time, the dynamics of evolutionary 
+processes could be observed in real 
+time. 
+
+Experimental evolution with microbes 
+
+offered many advantages: controlled 
+conditions, short generation times 
+and vast population sizes. The latter 
+is particularly important in an area 
+where the slow but lasting impact of 
+microbiology on our understanding of 
+
+evolution is particularly evident — the 
+nature of mutations as raw material in 
+the evolutionary process. Darwin had 
+seen evolution as an unobservably 
+slow process of incremental change. 
+The ‘mutationist’ school of thought — 
+scientists like Hugo DeVries or William 
+Bateson — postulated in the late 19th, 
+early 20th century that large-effect 
+mutations could lead to substantive 
+changes in phenotype, even to entirely 
+new species. By contrast, early 
+geneticists, in particular Thomas Hunt 
+Morgan and his followers, worked on 
+spontaneous and induced mutations 
+that largely seemed disruptive to the 
+organism and had fairly minor effects. 
+It remained unclear how from such 
+
+Current Biology 30, R1096–R1169, October 5, 2020  R1097
+
+ll
+
+mutations new, better adapted forms 
+could arise. Particularly unclear was 
+whether mutations represented an 
+autonomous random (with respect to 
+ﬁ tness effects) process or whether they 
+were a response to the environment. 
+This was especially true for bacteria, 
+where quasi-Lamarckian processes 
+were still thought to be at work for 
+a longer time. Bacteriology was, 
+as Salvador Luria put it, “the last 
+stronghold of Lamarckism”.
+
+Rather than experimental evolution 
+per se, it was cleverly crafted genetic 
+experiments on bacteria that ﬁ rst 
+showed that mutations conferring 
+a selective advantage do arise 
+independently of the environment 
+to which they confer adaption. 
+In particular, the experiments by 
+Salvador Luria and Max Delbrück on 
+bacteriophage-resistant bacteria and 
+the iconic replica-plating experiment 
+of Esther and Joshua Lederberg, 
+revealed that mutant bacteria adapted 
+to phages or antibiotics were resistant 
+before having been exposed to the 
+selective environmental agent, arguing 
+against the quasi-Lamarckian notion 
+of mutations being induced by the 
+selective environment. It was thus 
+microbiology that afﬁ rmed one of the 
+foundational building blocks of the 
+modern evolutionary synthesis, namely 
+that mutations occur at random with 
+respect to their effects on ﬁ tness 
+and that they provide the fodder for 
+selection to favor mutations that adapt 
+populations to their environment. 
+
+Curiously, however, the idea that 
+the origins of mutations might not 
+be entirely blind with regard to their 
+potential adaptive value never went 
+away completely. In the late 1980s, 
+based on experiments in bacteria, John 
+Cairns and others resurrected the idea 
+that mutations arise in a biased fashion 
+that is contingent on the selective 
+environment encountered. While this 
+postulated ‘adaptive mutation’ was 
+a dead end and refuted, the study 
+of mutation in bacteria continued to 
+reveal surprises. Mutations arise due 
+to inherent instabilities in the chemical 
+constituents of DNA. But the rate at 
+which mutations remain in the genome 
+is the result of a number of biological 
+repair mechanisms, whose machinery is 
+itself the result of evolution. Mutations 
+in bacteria that increase the mutation 
+rate have been known since pioneering 
+
+studies in the 1970s and 80s. They tend 
+to excite some researchers because 
+they may be taken as a biological 
+incarnation of evolvability — the 
+notion that the ability to change during 
+evolution is itself an adaptive trait that 
+can be selected for. In general, as 
+more mutations usually means more 
+deleterious mutations, such mutators 
+are thought to be selected for only 
+indirectly, by hitchhiking on other, 
+beneﬁ cial mutations.
+
+Nonetheless, there may be 
+
+conditions, for instance under extreme 
+stress, where the mutation rate rockets 
+up as a response to environmental 
+stressors, when a temporarily increased 
+mutation rate (hypermutation) may be 
+beneﬁ cial. Higher mutation rates may 
+be the norm in the natural environment 
+of bacterial populations, or when they 
+are confronted with drugs, which may 
+have important repercussions when 
+thinking about the current antibiotics 
+resistance crisis. Whether this is 
+‘adaptive mutation’ redux or points to 
+a more fundamental mechanism that 
+justiﬁ es reconsidering some of our 
+basic assumptions about mutations 
+remains to be seen. In this case, a 
+shift towards the study of bacteria in 
+more naturalistic environments, less 
+as models for general evolutionary 
+processes, rather as subjects in their 
+own right, may reveal fundamentals 
+about the evolutionary process that 
+might altogether modify the very ediﬁ ce 
+of evolutionary theory. 
+
+In the second half of the 20th century, 
+
+experimental microbial evolution 
+diversiﬁ ed. Part of the research program 
+was focused on solving important 
+new questions in evolutionary biology, 
+such as to what degree adaptation 
+is driven by random processes, like 
+genetic drift, or purely by selection. 
+Another branch of the ﬁ eld concerned 
+itself with teaching bacteria new tricks, 
+such as new enzymatic functions. The 
+current golden age of experimental 
+microbial evolution began in February 
+of 1988, when — a good century after 
+Dallinger’s mishap — Richard Lenski 
+and his lab initiated an experimental 
+evolution experiment that has become 
+the beacon of the entire ﬁ eld and has 
+ﬁ nally gotten microbes the recognition 
+among evolutionists they deserve. 
+This long-term evolution experiment, 
+the LTEE, consists of twelve identical 
+replicate populations of E. coli that are 
+
+R1098  Current Biology 30, R1096–R1169, October 5, 2020
+
+Magazine
+
+kept in standard culture medium and 
+serially propagated. A major motivating 
+question behind this project, and 
+the reason for the replication, was 
+the old chestnut of constraint versus 
+contingency in evolution. Would each 
+of the populations evolve in a similar 
+way, or would there be signiﬁ cant 
+differences? This question traces back 
+to philosophical debates about the very 
+nature of evolution — are the forms 
+we see around us, and we ourselves, 
+the result of chance events or are they 
+inevitable? It is also a question that 
+studies on macrobes only rarely get to 
+address.
+
+One of the strikes of genius with 
+the LTEE was that Lenski just kept it 
+running. Contrary to what one would 
+have naively expected, evolution just 
+never stops. While the dynamics of 
+adaptation slowed down — large-
+effect mutations dominated in earlier 
+phases of the experiment and ﬁ tness 
+gains became smaller as it went on — 
+much like in the periodic selection 
+experiments, evolution never ceased. 
+One of the ﬁ rst ﬁ ndings from the 
+LTEE was that several of the cultures 
+evolved, at least temporarily, higher 
+mutation rates, which led to faster 
+adaptation. In one of the replicates, a 
+miniature ecosystem evolved where 
+one strain of bacterium would feed off 
+the metabolites of the other. And ﬁ fteen 
+years into the experiment, an entirely 
+unexpected evolutionary novelty arose, 
+allowing the bacteria to metabolize 
+citrate. Regarding contingency versus 
+constraint, genome sequencing revealed 
+pervasive parallel evolution — in many 
+of the replicate evolving cultures the 
+same genes were selected for, but only 
+rarely identical mutations. 
+
+From Dallinger’s humble beginnings, 
+
+the experimental microbial evolution 
+studies of today have stepped out of 
+the shadows of macrobial evolution 
+and turned into an amazingly fruitful 
+scientiﬁ c endeavor. While initially the 
+perceived otherness of microbes 
+prevented their being incorporated into 
+the modern evolutionary synthesis, 
+the power of bacterial experimentation 
+in genetics and evolution revealed 
+that not only do the fundamentals of 
+evolution apply to microbes just as 
+well, they are also exquisite model 
+systems for observing the dynamics 
+and mechanisms of the evolutionary 
+process in real time. Far from being 
+
+Magazine
+
+mere stand-ins for higher organisms, 
+microbes have since become 
+emancipated and turned subjects of 
+evolutionary study in their own right. 
+This is particularly true in ﬁ elds such 
+as the evolution of cooperation and 
+sociality, where unexpected complexity 
+revealed itself, and studies on microbes 
+provided the ﬁ rst empirical proofs 
+of theoretical concepts formulated 
+decades ago.
+
+The microbial view of evolution 
+has a lot to offer, precisely because 
+the otherness of microbes belies 
+foundational concepts of biology, such 
+as species or lineages. Much ink has 
+been spilled on whether the notion of 
+a species even applies to bacteria that 
+can differ dramatically in their genomic 
+makeup even within taxonomic units, 
+and whether it even makes sense to 
+regard bacterial ‘species’ as a unit of 
+evolution, as, say, Darwin’s ﬁ nches. 
+Given excessive gene swapping among 
+microbes, the concept of an organismal 
+lineage becomes equally porous. What 
+becomes apparent from the study of 
+bacteria in more natural settings is that 
+they often form highly interdependent 
+‘super entities’, such as bioﬁ lms, that 
+even transcend the idea of the individual 
+organism. Such highly integrated 
+communities that may even evolve 
+as a unit are reminiscent of how Carl 
+Woese — the Darwin of the microbial 
+world — had envisaged pre-cellular 
+communities of ‘progenotes’ at the very 
+base of the evolutionary network of life. 
+That such integration, once thought to be 
+a hallmark of evolutionary sophistication, 
+is found already with the most basic and 
+most widespread life forms is another 
+lesson to be learned from considering 
+the microbe in evolution. Whether or not 
+the fundamental laws of evolution have 
+to be re-formulated remains to be seen. 
+But perhaps one day we will say that 
+just like nothing in biology makes sense 
+except in the light of evolution, nothing in 
+evolution makes sense except in the light 
+of microbiology. Our special issue — 
+largely the brainchild of my colleague 
+Christine Cosma — aims to provide a 
+taste of this perspective, so we can see 
+life on Earth as what it fundamentally 
+is — a microbial world. 
+
+Florian Maderspacher is Current Biology’s 
+Senior Editor. 
+E-mail: ﬂ orian.maderspacher@current-biology.
+com
+
+ll
+
+Feature
+Gut check
+
+Research on the gut microbiome and its relationship to our health, even our 
+behaviors, has captured the public’s interest, and the probiotic industry has moved 
+in to capitalize. The ﬁ eld has advanced so quickly that some of the claims may have 
+outpaced the evidence. Cyrus Martin reports. 
+
+The start of the 21st century has been 
+marked by a number of headline-
+grabbing medical advances, including 
+the ability to manipulate our genomes 
+with CRISPRs and the harnessing of 
+the immune system to seek out and 
+destroy cancer. Certainly on the shortlist 
+of hot medical trends is an increased 
+awareness that our bodies are engaged 
+in an intimate embrace with billions of 
+microbes that we depend on for our 
+health and wellbeing. If we are to believe 
+some of the claims, these microbes 
+not only feed us, but are necessary for 
+a host of other bodily functions and — 
+shockingly — may even manipulate our 
+behavior for their own beneﬁ t. Most 
+of the attention has focused on the 
+community of microbes that inhabit the 
+gut — the so-called ‘gut microbiome’. 
+But there are other microbiomes as 
+well, including the skin microbiome, the 
+vagina microbiome, and on and on. 
+
+In the case of the gut microbiome, we 
+are not talking about a small number of 
+stowaways. Some estimates suggest 
+
+the number of gut microbes equals 
+or exceeds the number of cells in 
+the human body. And this, perhaps, 
+explains some of the allure — that the 
+microbiome could be viewed as an 
+essential part of our bodies that we were 
+previously blind to, as if we had lived 
+our whole lives without knowing we had 
+a liver. Indeed, the gut microbiome has 
+been likened to an organ of sorts.
+Yet another way to view the gut 
+
+microbiome is as a complex ecosystem, 
+like a tropical rainforest, where many of 
+the constituents depend on each other 
+and where the smallest disturbance can 
+upset the delicate balance, potentially 
+leading to disease. This is a theme 
+that runs through much of the talk 
+surrounding the gut microbiome and has 
+been seized on not only by researchers 
+but also by those hoping to leverage the 
+gut microbiome for ﬁ nancial gain. We are 
+told, for example, that our depression 
+and anxiety can be explained by a 
+microbiome that is ‘out of whack’ or, to 
+use the fancy medical jargon, that we 
+
+Promises in a pill: The probiotic industry claims you can promote health by restoring balance to 
+your gut microbiome, which they say can be achieved by taking a simple pill. But, to date, there 
+is little evidence that probiotics are effective. (Photo: stevepb/Pixabay.)
+
+Current Biology 30, R1096–R1169, October 5, 2020  R1099
+
+

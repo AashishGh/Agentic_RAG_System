@@ -1,0 +1,783 @@
+Article
+Effect of Restorative Material on Mechanical Response of
+Provisional Endocrowns: A 3D—FEA Study
+
+João Paulo Mendes Tribst 1
+Marco Antonio Bottino 2 and Mutlu Özcan 3,*
+
+, Alexandre Luiz Souto Borges 2, Laís Regiane Silva-Concílio 1,
+
+1
+
+2
+
+School of Dentistry, University of Taubaté, Taubaté, São Paulo 12020-340, Brazil;
+joao.tribst@unesp.br (J.P.M.T.); regiane1@yahoo.com (L.R.S.-C.)
+Institute of Science and Technology, São Paulo State University (Unesp), São José dos Campos,
+São Paulo 12220-690, Brazil; alexanborges@gmail.com (A.L.S.B.); mmbottino@uol.com.br (M.A.B.)
+
+3 Division of Dental Biomaterials, Center for Dental and Oral Medicine, Clinic for Reconstructive Dentistry,
+
+University of Zurich, 8032 Zurich, Switzerland
+
+* Correspondence: mutluozcan@hotmail.com
+
+Abstract: The goal of this study was to evaluate the stress distribution in an endocrown restoration
+according to different provisional restorative materials. An endodontically treated maxillary molar
+model was selected for conducting the ﬁnite element analysis (FEA), with a determined amount of
+dental remnant of 1.5 mm. The model was imported to the analysis software (ANSYS 19.2, ANSYS
+Inc., Houston, TX, USA) in STEP format. All contacts were considered perfectly bonded. The me-
+chanical properties of each structure were considered isotropic, linear, elastic, and homogeneous.
+Three different provisional restorative materials were simulated (acrylic resin, bis-acrylic resin, and
+resin composite). An axial load (300 N) was applied at the occlusal surface in the center of the restora-
+tion. Results were determined by colorimetric stress maps of maximum principal stress, maximum
+shear stress, and total deformation. The different materials inﬂuenced the stress distribution for all
+structures; the higher the material’s elastic modulus, the lower the stress magnitude on the cement
+layer. In the present study, all provisional restorative materials showed similar stress patterns in
+the endocrown and on the cement layer however, with different magnitude. Based on this study
+limitation, the use of resin composite to manufacture provisional endocrowns is suggested as a
+promising material to reduce the stresses in the cement layer and in the dental tissue surfaces.
+
+Keywords: dental restoration failure; endodontically treated teeth; ﬁnite element analysis; dental ma-
+terials
+
+1. Introduction
+
+The use of provisional restorations during dental treatment is an integral part of
+restorative procedures with indirect restorations, since it has important functions within
+the timeframe between preparation of a tooth and until ﬁtting the ﬁnal restoration [1].
+In this sense, the adequate maintenance of the provisional restorations during all the
+dental treatment is extremely useful to promote an adequate oral health and can directly
+affect the ceramic restoration success [1]. To perform a function properly, the provisional
+restorations must meet esthetic, biologic, and also mechanical aspects, such as resistance
+to dislodging forces and chewing loads [2,3]. Therefore, clinical complications, such as
+catastrophic failures, should be avoided to not compromise the treatment longevity [3].
+The restoration’s mechanical failure is usually justiﬁed in literature by the cyclic loading and
+chewing, subjecting the restorative material to various forces in oral conditions, including
+compressive force at the load application and tensile and shear stresses at the restoration’s
+intaglio surface [3,4]. The provisional restoration failure can cause economic loss and
+discomfort to both clinicians and patients, demanding repair procedures and sometimes a
+new provisional crown manufacturing [3].
+
+Citation: Tribst, J.P.M.; Borges,
+
+A.L.S.; Silva-Concílio, L.R.; Bottino,
+
+M.A.; Özcan, M. Effect of Restorative
+
+Material on Mechanical Response of
+
+Provisional Endocrowns: A 3D—FEA
+
+Study. Materials 2021, 14, 649.
+
+https://doi.org/10.3390/ma14030649
+
+Academic Editor: Nikolaos Silikas
+
+Received: 5 January 2021
+
+Accepted: 26 January 2021
+
+Published: 31 January 2021
+
+Publisher’s Note: MDPI stays neutral
+
+with regard to jurisdictional claims in
+
+published maps and institutional afﬁl-
+
+iations.
+
+Copyright: © 2021 by the authors.
+
+Licensee MDPI, Basel, Switzerland.
+
+This article is an open access article
+
+distributed under
+
+the terms and
+
+conditions of the Creative Commons
+
+Attribution (CC BY) license (https://
+
+creativecommons.org/licenses/by/
+
+4.0/).
+
+Materials 2021, 14, 649. https://doi.org/10.3390/ma14030649
+
+https://www.mdpi.com/journal/materials
+
+materials(cid:1)(cid:2)(cid:3)(cid:1)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:1)(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)Materials 2021, 14, 649
+
+2 of 12
+
+It is well known that the provisional restoration’s resistance will be proportional
+with its anatomy and restorative material mechanical properties [4]. Basically, the provi-
+sional restoration can be manufactured using resin-based materials currently available—
+methacrylate resins, resin composite-based materials, and bis-acrylic resins [5]. Regardless
+of the chosen material, a precise ﬁtting to the abutment tooth, proper ﬂow, wetting, and plas-
+tic properties of the material are required [3–5]. However, the restoration volume can also
+affect how the restorative material will dissipate the chewing loads and the material
+mechanical response during stress situations.
+
+One of the largest restoration volumes that can be used to restore a tooth is the en-
+docrown design [6–12]. This restoration modality has emerged as a more conservative,
+quick, and easy-to-assemble approach, in which the build-up and crown integrate into a
+single structure and can be manufactured by computer-aided design using the pulp cham-
+ber as part of their mechanical retention [6]. Since the adhesive surface between abutment
+teeth and endocrowns is extended using micro-mechanical retention, the transmission of
+forces to dental abutments can be improved in comparison with a full crown [7]. However,
+this approach requires the presence of healthy cervical enamel and an adequate endodontic
+treatment in the abutment tooth [10].
+
+Several studies have been carried out investigating the restorative material used to
+perform the endocrown treatment, reporting the use of ceramics, nanocomposites, and
+hybrid materials [6–14]. In addition, clinical cases reported the use of acrylic resin [15],
+resin composite [16], and bis-acrylic resin [17] as restorative material for the manufacturing
+of interim endocrowns. Nevertheless, the reason to use each material has not been deeply
+investigated and a comparison between them could be interesting for further studies and
+to elucidate the effect on the biomechanical behavior. Besides this, and since the beneﬁts of
+having an adequate (esthetic, biologic, and also mechanical) provisional restoration are
+well known, the information regarding how the provisional materials affect the endocrown
+mechanical response is still scarce in the literature.
+
+In order to understand the biomechanical behavior of endocrown restorations and the
+inﬂuence of restorative materials, a numerical simulation can be performed using the ﬁnite
+element method (FEM). This method has been extensively reported in literature, with pre-
+vious studies that have evaluated this treatment modality [5,7–10,14,18,19]. As advantages,
+the FEM is able to identify problems by assessing the state of stress and deformation of ma-
+terials and adhesive interfaces, evaluating the stress distribution generated by masticatory
+loads with model standardization, and offering an acceptable approximate solution [20–22].
+Usually, failure origin consists of regions of high stress concentration, previously evidenced
+by the ﬁnite element analysis results [7].
+
+Therefore, the objective of the present study was to evaluate the inﬂuence of restorative
+material (at three levels) on the biomechanical behavior of endocrown restorations. The null
+hypothesis was that there would be no difference between the restorative provisional
+materials for the endocrown biomechanical behavior.
+
+2. Materials and Methods
+
+A previous reported tridimensional ﬁrst maxillary molar model was selected [7].
+The use of a previous numerical model that has been compared with in vitro setup is
+important to guarantee the model validation in terms of failures. The ﬁle in standard for
+the exchange of product data (STEP) was exported to the modeling software (Rhinoceros
+version 4.0 SR8, McNeel North America, Seattle, WA, USA). The model was composed
+of the following geometries: cement layer (100 µm thickness) [6], dental preparation, and
+ﬁxation cylinder [9]. In the present study, the purpose was to simulate the condition of a
+temporary endocrown prior to the ﬁnal indirect restoration. The restoration intaglio surface
+was modiﬁed to allow all the contacting faces of the restoration and the cement layer to
+have similar number and shape, reducing the interference during the analysis [6]. The root
+model had a pulp chamber of 5 mm depth and a 16◦ wall inclination angle [7]. The ﬁnish
+
+Materials 2021, 14, 649
+
+3 of 12
+
+line presented 1 mm of thickness. The endcrown presented a minimum thickness of 7 mm
+at the center of the occlusal surface [7] and 1.5 mm of sound enamel was considered [8].
+
+All geometries were veriﬁed as a volumetric solid without inconsistent normal or
+duplicate faces. Figure 1 shows the schematic illustration of the modeling. All models
+were exported to the analysis software (ANSYS 19.2, ANSYS Inc., Houston, TX, USA)
+and a convergence test of 10% mesh control determined the number of 98.653 nodes
+and 96.484 tetrahedral elements for the model (Figure 2). The aspect ratio of the mesh
+elements presented an average value of 1.8 ± 0.7 [7]. A conforming mesh across such
+interfaces ensures inter-element continuity in the ﬁnite element shape functions, resulting
+in a smooth and accurate interpolation of the numerical solution. Therefore, the mesh
+matching procedure was performed to remove the nonconforming interfaces. These
+elements allowed the stress transmission from the restoration to the cement, and, from the
+cement to the tooth with a reduced distortion caused by the mesh in the involved structures.
+Three different temporary restorative materials were chosen based in previous clinical cases
+that performed provisional endocrown restoration (acrylic resin, bis-acrylic resin, and resin
+composite). The mechanical properties of each material/structure (Table 1) were inserted
+into the analysis software and each material was considered isotropic and homogeneous.
+As the analysis was performed considering a no-failure condition, all materials were
+assumed to behave as elastic materials. Bonded contacts were considered between the
+structures. In the boundary condition, the ﬁxation occurred at the base of the polyurethane
+cylinder with ﬁxed zero nodal displacements. Ensuring only the movement constraint on
+the Z-axis, the deformation generated in all directions could be computed. The occlusal
+loading (300 N) was applied to simulate a compressive load in the center of the cusps.
+For the restoration and the tooth adhesive area, the failure criteria was the maximum
+principal stress (in MPa). While for the cement layer, the tensile stress and shear stress were
+recorded. A qualitative stress map was generated from the postprocessing software, using
+color scales in these structures, and the highest peak in each structure was evaluated [6].
+Differences with more than 10% were assumed as relevant between the models.
+
+Figure 1. Three-dimensional model created in the modelling software with different provisional
+endocrown restorations.
+
+Materials 2021, 14, x FOR PEER REVIEW 3 of 12   have similar number and shape, reducing the interference during the analysis [6]. The root model had a pulp chamber of 5 mm depth and a 16° wall inclination angle [7]. The finish line presented 1 mm of thickness. The endcrown presented a minimum thickness of 7 mm at the center of the occlusal surface [7] and 1.5 mm of sound enamel was considered [8]. All geometries were verified as a volumetric solid without inconsistent normal or duplicate faces. Figure 1 shows the schematic illustration of the modeling. All models were exported to the analysis software (ANSYS 19.2, ANSYS Inc., Houston, TX, USA) and a convergence test of 10% mesh control determined the number of 98.653 nodes and 96.484 tetrahedral elements for the model (Figure 2). The aspect ratio of the mesh elements pre-sented an average value of 1.8 ± 0.7 [7]. A conforming mesh across such interfaces ensures inter-element continuity in the finite element shape functions, resulting in a smooth and accurate interpolation of the numerical solution. Therefore, the mesh matching procedure was performed to remove the nonconforming interfaces. These elements allowed the stress transmission from the restoration to the cement, and, from the cement to the tooth with a reduced distortion caused by the mesh in the involved structures. Three different temporary restorative materials were chosen based in previous clinical cases that per-formed provisional endocrown restoration (acrylic resin, bis-acrylic resin, and resin com-posite). The mechanical properties of each material/structure (Table 1) were inserted into the analysis software and each material was considered isotropic and homogeneous.  Figure 1. Three-dimensional model created in the modelling software with different provisional endocrown restorations. Materials 2021, 14, 649
+
+4 of 12
+
+Figure 2. Finite element model after meshing process and boundary conditions applied in the simulation.
+
+Table 1. Mechanical properties of the materials/structures used in the current study.
+
+Material/Structure
+
+Composition
+
+Elastic Modulus
+(GPa) *
+
+Poisson
+Ratio
+
+Reference
+
+Enamel
+Dentin
+Fixation cylinder
+Temporary cement
+
+Acrylic resin
+
+Bis-acrylic resin
+
+Resin composite
+
+-
+-
+Polyurethane resin
+Zinc oxide-based cement
+Polymethyl methacrylate, diethyl
+phthalate, benzoyl peroxide,
+titanium dioxide.
+UDMA, bis-GMA, benzoyl
+peroxide, Amine and ﬁllers.
+UDMA, bis-GMA, bis-EMA,
+TEGDMA, Silica and ﬁllers.
+
+* Values obtained from the literature.
+
+3. Results
+
+80
+18
+3.6
+1.35
+
+2.2
+
+2.9
+
+8.0
+
+0.30
+0.23
+0.30
+0.30
+
+0.30
+
+0.30
+
+0.25
+
+[22]
+[22]
+[5]
+[23]
+
+[5]
+
+[5]
+
+[22]
+
+After the processing, maximum principal stress (MPa) results were obtained for the
+endocrown, cement layer, and dental remnant structures. Maximum shear stress (MPa)
+results were obtained for the endocrown pulp chamber extension and the cement layer.
+Displacement (mm) was obtained for the endocrown margin. Data were summarized
+through colorimetric graphs (Figures 3–9). For the endocrown restoration (Figures 3 and 4),
+
+Materials 2021, 14, x FOR PEER REVIEW 4 of 12    Figure 2. Finite element model after meshing process and boundary conditions applied in the sim-ulation.   Materials 2021, 14, 649
+
+5 of 12
+
+a similar stress distribution pattern was observed regardless the restorative material;
+however, the more rigid the temporary material was, higher stress concentration was
+observed in the endocrown (resin composite > bis-acrylic resin > acrylic resin). In addition,
+for the restoration marginal displacement (Figure 5), the endocrown in resin composite
+(0.0034 mm) was the less susceptible to deformation, suggesting the lowest chance to fail in
+this region, when compared to the endocrowns made in bis-acrylic (0.0041 mm) or acrylic
+resin (0.0042 mm). Observing the endocrown pulp-chamber extension (Figure 6), when the
+endocrown in resin composite was evaluated, the shear stress resin composite was higher
+than the endocrowns in bis-acrylic resin or acrylic resin, demanding higher bond strength
+in this region.
+
+Figure 3. Tensile stress distribution in the sectioned endocrown according to the restorative material: (A) acrylic resin,
+(B) bis-acrylic resin, and (C) resin composite.
+
+Figure 4. Tensile stress distribution in the endocrown’s intaglio surface according to the restorative material: (A) acrylic
+resin, (B) bis-acrylic resin, and (C) composite resin.
+
+Figure 5. Displacement in the endocrown’s margin surface according to the restorative material: (A) acrylic resin, (B) bis-
+acrylic resin, and (C) composite resin.
+
+Figure 6. Maximum shear stress in the endocrown’s pulp-chamber extension according to the restorative material: (A) acrylic
+resin, (B) bis-acrylic resin, and (C) composite resin.
+
+Materials 2021, 14, x FOR PEER REVIEW 6 of 12   A summary of means, standard deviations, minimum, and maximum values of the stress peaks is presented in Table 2.  Figure 3. Tensile stress distribution in the sectioned endocrown according to the restorative material: (A) acrylic resin, (B) bis-acrylic resin, and (C) resin composite.  Figure 4. Tensile stress distribution in the endocrown’s intaglio surface according to the restorative material: (A) acrylic resin, (B) bis-acrylic resin, and (C) composite resin.  Figure 5. Displacement in the endocrown’s margin surface according to the restorative material: (A) acrylic resin, (B) bis-acrylic resin, and (C) composite resin.  Figure 6. Maximum shear stress in the endocrown’s pulp-chamber extension according to the restorative material: (A) acrylic resin, (B) bis-acrylic resin, and (C) composite resin.  Figure 7. Tensile stress in the dental remnant according to the restorative material: (A) acrylic resin, (B) bis-acrylic resin, and (C) composite resin. Materials 2021, 14, x FOR PEER REVIEW 6 of 12   A summary of means, standard deviations, minimum, and maximum values of the stress peaks is presented in Table 2.  Figure 3. Tensile stress distribution in the sectioned endocrown according to the restorative material: (A) acrylic resin, (B) bis-acrylic resin, and (C) resin composite.  Figure 4. Tensile stress distribution in the endocrown’s intaglio surface according to the restorative material: (A) acrylic resin, (B) bis-acrylic resin, and (C) composite resin.  Figure 5. Displacement in the endocrown’s margin surface according to the restorative material: (A) acrylic resin, (B) bis-acrylic resin, and (C) composite resin.  Figure 6. Maximum shear stress in the endocrown’s pulp-chamber extension according to the restorative material: (A) acrylic resin, (B) bis-acrylic resin, and (C) composite resin.  Figure 7. Tensile stress in the dental remnant according to the restorative material: (A) acrylic resin, (B) bis-acrylic resin, and (C) composite resin. Materials 2021, 14, x FOR PEER REVIEW 6 of 12   A summary of means, standard deviations, minimum, and maximum values of the stress peaks is presented in Table 2.  Figure 3. Tensile stress distribution in the sectioned endocrown according to the restorative material: (A) acrylic resin, (B) bis-acrylic resin, and (C) resin composite.  Figure 4. Tensile stress distribution in the endocrown’s intaglio surface according to the restorative material: (A) acrylic resin, (B) bis-acrylic resin, and (C) composite resin.  Figure 5. Displacement in the endocrown’s margin surface according to the restorative material: (A) acrylic resin, (B) bis-acrylic resin, and (C) composite resin.  Figure 6. Maximum shear stress in the endocrown’s pulp-chamber extension according to the restorative material: (A) acrylic resin, (B) bis-acrylic resin, and (C) composite resin.  Figure 7. Tensile stress in the dental remnant according to the restorative material: (A) acrylic resin, (B) bis-acrylic resin, and (C) composite resin. Materials 2021, 14, x FOR PEER REVIEW 6 of 12   A summary of means, standard deviations, minimum, and maximum values of the stress peaks is presented in Table 2.  Figure 3. Tensile stress distribution in the sectioned endocrown according to the restorative material: (A) acrylic resin, (B) bis-acrylic resin, and (C) resin composite.  Figure 4. Tensile stress distribution in the endocrown’s intaglio surface according to the restorative material: (A) acrylic resin, (B) bis-acrylic resin, and (C) composite resin.  Figure 5. Displacement in the endocrown’s margin surface according to the restorative material: (A) acrylic resin, (B) bis-acrylic resin, and (C) composite resin.  Figure 6. Maximum shear stress in the endocrown’s pulp-chamber extension according to the restorative material: (A) acrylic resin, (B) bis-acrylic resin, and (C) composite resin.  Figure 7. Tensile stress in the dental remnant according to the restorative material: (A) acrylic resin, (B) bis-acrylic resin, and (C) composite resin. Materials 2021, 14, 649
+
+6 of 12
+
+Figure 7. Tensile stress in the dental remnant according to the restorative material: (A) acrylic resin, (B) bis-acrylic resin,
+and (C) composite resin.
+
+Figure 8. Tensile stress in the cement layer according to the restorative material: (A) acrylic resin, (B) bis-acrylic resin,
+and (C) resin composite.
+
+Figure 9. Maximum shear stress in the cement layer according to the restorative material: (A) acrylic resin, (B) bis-acrylic
+resin, and (C) resin composite.
+
+On the tooth surfaces (Figure 7), less stress concentration was observed with more
+rigid restorative materials. Basically, the material that concentrated more stress in the
+endocrown restoration showed less stress in the tooth adhesive surface (acrylic resin >
+bis-acrylic resin > resin composite). Regardless the restorative material, the enamel tissue
+concentrated more stress than the dentin. A similar behavior was observed for the cement
+layer, for both tensile and shear stresses (Figures 8 and 9, respectively). In this sense,
+the resin composite endocrown seems to be less prone to adhesive failures in comparison
+with the other two materials.
+
+A summary of means, standard deviations, minimum, and maximum values of the
+
+stress peaks is presented in Table 2.
+
+Table 2. Stress peaks (MPa) obtained in each structure after the analysis processing.1
+
+Acrylic Resin
+
+Bis-Acrylic Resin
+
+Resin Composite
+
+Tensile stress in the endocrown
+Shear stress in the endocrown
+Tensile stress in the cement layer
+Shear stress in the cement layer
+Tensile stress in the enamel tissue
+Tensile stress in the dentin tissue
+
+9.6
+4.2
+8.9
+9.2
+16.5
+15.9
+
+1 Stress peaks automatic identiﬁed by the software.
+
+9.7
+4.3
+8.8
+9.0
+16.1
+15.2
+
+10.1
+4.7
+3.4
+7.5
+13.4
+9.3
+
+Materials 2021, 14, x FOR PEER REVIEW 6 of 12   A summary of means, standard deviations, minimum, and maximum values of the stress peaks is presented in Table 2.  Figure 3. Tensile stress distribution in the sectioned endocrown according to the restorative material: (A) acrylic resin, (B) bis-acrylic resin, and (C) resin composite.  Figure 4. Tensile stress distribution in the endocrown’s intaglio surface according to the restorative material: (A) acrylic resin, (B) bis-acrylic resin, and (C) composite resin.  Figure 5. Displacement in the endocrown’s margin surface according to the restorative material: (A) acrylic resin, (B) bis-acrylic resin, and (C) composite resin.  Figure 6. Maximum shear stress in the endocrown’s pulp-chamber extension according to the restorative material: (A) acrylic resin, (B) bis-acrylic resin, and (C) composite resin.  Figure 7. Tensile stress in the dental remnant according to the restorative material: (A) acrylic resin, (B) bis-acrylic resin, and (C) composite resin. Materials 2021, 14, x FOR PEER REVIEW 7 of 12    Figure 8. Tensile stress in the cement layer according to the restorative material: (A) acrylic resin, (B) bis-acrylic resin, and (C) resin composite.  Figure 9. Maximum shear stress in the cement layer according to the restorative material: (A) acrylic resin, (B) bis-acrylic resin, and (C) resin composite. Table 2. Stress peaks (MPa) obtained in each structure after the analysis processing.1  Acrylic Resin Bis-Acrylic Resin Resin Compo-site Tensile stress in the endocrown 9.6 9.7 10.1 Shear stress in the endocrown 4.2 4.3 4.7 Tensile stress in the cement layer 8.9 8.8 3.4 Shear stress in the cement layer 9.2 9.0 7.5 Tensile stress in the enamel tissue 16.5 16.1 13.4 Tensile stress in the dentin tissue 15.9 15.2 9.3 1 Stress peaks automatic identified by the software. 4. Discussion The null hypothesis was that there would be no difference between the restorative provisional materials for the endocrown biomechanical behavior. The results showed that restorative material influenced the biomechanical behavior of the provisional restorations. Thus, the hypothesis of this study was rejected. It was noticed that the material with the highest elastic modulus allowed less stresses to reach the cement layer, as a consequence of the restoration behavior [6]. In addition, previous investigation also indicated that the less rigid material could be an interesting alternative to perform this treatment modality [8]. This study corroborated both, showing that similar mechanical behavior was observed for the provisional restorative materials evaluated in the present analysis. Besides the use of provisional endocrown being indicated for a short-term period, the restoration performance must be evaluated in order to guarantee all the provisional restoration clinical benefits and because any mechanical problem in the provisional resto-ration may cause discomfort for the patient, as well as financial and economic loss [20]. In this case, results that could suggest higher risk for marginal infiltration or restoration debonding would be valuable [9], since the occurrence of these failures during the usage of a temporary crown could be significant to negatively affect the treatment. According to a systematic review [23], in which the success of the endocrown resto-ration was the primary outcome, the authors calculated a success rate for molars from 72.73% to 99.57% [23]. Moreover, the predominant mode of failure was an adhesive break-down or the restoration debonding [23]. Despite the fact that this review has been per-formed using definitive restorative materials and long-term clinical trials, it showed the Materials 2021, 14, x FOR PEER REVIEW 7 of 12    Figure 8. Tensile stress in the cement layer according to the restorative material: (A) acrylic resin, (B) bis-acrylic resin, and (C) resin composite.  Figure 9. Maximum shear stress in the cement layer according to the restorative material: (A) acrylic resin, (B) bis-acrylic resin, and (C) resin composite. Table 2. Stress peaks (MPa) obtained in each structure after the analysis processing.1  Acrylic Resin Bis-Acrylic Resin Resin Compo-site Tensile stress in the endocrown 9.6 9.7 10.1 Shear stress in the endocrown 4.2 4.3 4.7 Tensile stress in the cement layer 8.9 8.8 3.4 Shear stress in the cement layer 9.2 9.0 7.5 Tensile stress in the enamel tissue 16.5 16.1 13.4 Tensile stress in the dentin tissue 15.9 15.2 9.3 1 Stress peaks automatic identified by the software. 4. Discussion The null hypothesis was that there would be no difference between the restorative provisional materials for the endocrown biomechanical behavior. The results showed that restorative material influenced the biomechanical behavior of the provisional restorations. Thus, the hypothesis of this study was rejected. It was noticed that the material with the highest elastic modulus allowed less stresses to reach the cement layer, as a consequence of the restoration behavior [6]. In addition, previous investigation also indicated that the less rigid material could be an interesting alternative to perform this treatment modality [8]. This study corroborated both, showing that similar mechanical behavior was observed for the provisional restorative materials evaluated in the present analysis. Besides the use of provisional endocrown being indicated for a short-term period, the restoration performance must be evaluated in order to guarantee all the provisional restoration clinical benefits and because any mechanical problem in the provisional resto-ration may cause discomfort for the patient, as well as financial and economic loss [20]. In this case, results that could suggest higher risk for marginal infiltration or restoration debonding would be valuable [9], since the occurrence of these failures during the usage of a temporary crown could be significant to negatively affect the treatment. According to a systematic review [23], in which the success of the endocrown resto-ration was the primary outcome, the authors calculated a success rate for molars from 72.73% to 99.57% [23]. Moreover, the predominant mode of failure was an adhesive break-down or the restoration debonding [23]. Despite the fact that this review has been per-formed using definitive restorative materials and long-term clinical trials, it showed the Materials 2021, 14, 649
+
+7 of 12
+
+4. Discussion
+
+The null hypothesis was that there would be no difference between the restorative
+provisional materials for the endocrown biomechanical behavior. The results showed that
+restorative material inﬂuenced the biomechanical behavior of the provisional restorations.
+Thus, the hypothesis of this study was rejected. It was noticed that the material with the
+highest elastic modulus allowed less stresses to reach the cement layer, as a consequence of
+the restoration behavior [6]. In addition, previous investigation also indicated that the less
+rigid material could be an interesting alternative to perform this treatment modality [8].
+This study corroborated both, showing that similar mechanical behavior was observed for
+the provisional restorative materials evaluated in the present analysis.
+
+Besides the use of provisional endocrown being indicated for a short-term period,
+the restoration performance must be evaluated in order to guarantee all the provisional
+restoration clinical beneﬁts and because any mechanical problem in the provisional restora-
+tion may cause discomfort for the patient, as well as ﬁnancial and economic loss [20].
+In this case, results that could suggest higher risk for marginal inﬁltration or restoration
+debonding would be valuable [9], since the occurrence of these failures during the usage of
+a temporary crown could be signiﬁcant to negatively affect the treatment.
+
+According to a systematic review [23], in which the success of the endocrown restora-
+tion was the primary outcome, the authors calculated a success rate for molars from 72.73%
+to 99.57% [23]. Moreover, the predominant mode of failure was an adhesive breakdown
+or the restoration debonding [23]. Despite the fact that this review has been performed
+using deﬁnitive restorative materials and long-term clinical trials, it showed the impor-
+tance to evaluate the adhesive interface in this restorative modality. Observing the present
+results, the use of resin composite could offer to the patient and to the clinician a more
+reliable option in terms of marginal misﬁt and adhesive failure risk [24]. According to
+the literature [10], comparing different postendodontic treatments, the endocrown is able
+to promote higher tensile stress at the cement layer and in dentine, which increases the
+risk of failure by debonding [10]. The present study has complemented these ﬁndings,
+indicating that the provisional material can affect the endocrown mechanical response and
+should be selected in order to reduce the adhesive failure risk. The adhesive failure risk is
+proportional to the magnitude of stress concentration in the cement layer, tooth adhesive
+area, and restorative material. In addition, the internal adaptation can also be affected
+by the restorative material [11], affecting the cement layer thickness and, consequently,
+the polymerization shrinkage effect and voids content in it. In this investigation, all ma-
+terials were simulated with an ideal ﬁt and contact between the structures, which cannot
+occur clinically. Further studies should evaluate the inﬂuence of provisional endocrown
+material and manufacturing technique in the internal and marginal ﬁt.
+
+Endocrown margin inﬁltration has been previously evaluated in a 10-year retrospec-
+tive evaluation of ceramic and composite endocrowns, the authors reported two cases of
+debonding and two cases of caries recurrence from the 99 evaluated cases [25]. Observing
+Figure 5, it is possible to observe that the higher the elastic modulus, the lower the defor-
+mation results. According to the literature, deformation between tooth and restorative
+material could lead to increased hydrodynamic ﬂow and faster secondary caries lesion
+formation [26]. In addition, acrylic resin crowns can present a higher marginal discrepancy
+in comparison with resin composite provisional crowns due to a higher polymerization
+shrinkage effect [27]. Therefore, for the provisional step in the endocrown treatment, the
+use of resin composite should be suggested to reduce the endocrown marginal misﬁt
+during compressive load.
+
+A previous reported model was used in this study and the remaining tooth presented
+1.5 mm of sound enamel to provide adequate bond strength, attempting to preserve the
+maximum of the tooth structure [6,8]. It is also important to ensure that the prepared tooth
+must be able to be isolated so that optimal bonding protocols can be implemented under a
+rubber dam, especially because the debonding risk has been shown to be greater than the
+fracture risk [28–30].
+
+Materials 2021, 14, 649
+
+8 of 12
+
+In addition to the residual stress on the adhesive interface, the chewing load can
+also affect the mechanical response of the endocrown restoration [8]. In the present study,
+an axial load was applied due to the high prevalence of axial load in the molar region.
+However, the oblique incidence of chewing loads and cusp heights [9] also can affect the
+endocrown mechanical behavior and different occlusal anatomy can promote different
+results. However, for the molar region, the high incidence of axial loads in the posterior
+region makes the endocrown treatment a reliable modality considering the restoration frac-
+ture [12,14]. This study was also in agreement with this reported behavior, since the stress
+concentrations in the restoration cross-section and intaglio surface are not very different
+between the groups (Figures 3 and 4). This similar stress distributions suggest that all of
+them will present a similar failure pattern during compressive tests. During the preparation
+design, increasing the restoration occlusal thickness can promote a signiﬁcant improvement
+in fracture strength of ceramic endocrowns [29–31]. However, for provisional restorations,
+this information is not available in literature yet. Another aspect of the preparation design
+is the use of a ﬂat pulp-chamber extension with radicular extension, which can increase
+the fracture strength; however, it promotes more unfavorable fracture patterns [29,32].
+To ensure an easy preparation, ﬁlling of the pulp chamber with ﬂowable resin composite
+should be applied before the provisional endocrown restoration manufacturing, similar to
+the present model design.
+
+Another aspect of the endocrown design to think about is the walls of the central
+retainer in the endocrown’s pulp-chamber extension promoting an adequate load dissipa-
+tion [32]. Therefore, the smoothening of the sharp edge at the base of the pulp chamber
+in the preparation for endocrowns is suggested to reduce the stress concentration in the
+cervical dentin beneath the endocrown, as well as on the cement layer [33]. This study
+followed this approach in the endocrown modelling and showed that the magnitude of
+shear stress concentration can be proportional to the restorative material elastic modulus.
+The resin composite will demand more bond strength in this region when compared with
+the other materials; however; it also has the highest bond strength between all of them.
+
+One of the advantages of the endocrown treatment is that molars restored with en-
+docrowns are less prone to root fracture than those with posts [34]. This can be explained
+because the stress concentration occurs in the occlusal plane from the prepared abutment
+tooth [6–10]. Another aspect is that the stress distributions in the root were similar re-
+gardless the ceramic restorative material and different occlusal clearance when indirect
+restorations were used [34]. In addition, the present study suggests that the same behavior
+could be observed in the abutment tooth when a provisional endocrown was lutted on it;
+however, the stress pattern and magnitude were proportional to its elastic modulus. It is
+expected restorations that mimic the natural tooth structures will survive longer in oral
+conditions [34], and therefore, a biomimetic restoration can provide an adequate stress
+distribution [35]. The resin composite group can be suggested for a similar approach in
+provisional endocrown restorations (using layering techniques and resin composites with
+different ﬁlling contents) allowing the dental technician and dentist to obtain an optimal
+provisional endocrown. However, it should be evaluated in further studies, modifying the
+endocrown layers’ mechanical behavior.
+
+According to the literature [36], material characteristics may inﬂuence the endocrown’s
+margin stability, and for long-term restorations, computer-aided design/computer-aided
+manufacturing (CAD/CAM) resin-based composite materials can present a better aspect
+of marginal ﬁt than ceramic materials [35]. Therefore, this beneﬁt can also achieved for the
+provisional step of the treatment with the resin composite group. Still comparing different
+endocrown restorative materials, a previous study evaluated the stress distributions of
+endocrown molar models fabricated with ﬁve materials by ﬁnite element method and
+load-to-fracture test. Although the authors focused on studying deﬁnitive CAD/CAM
+restorations, they concluded that the endocrown fabricated with resin composite exhibited
+the best monobloc stress distribution and met the mechanical requirements for large
+occlusal areas [37]. In this sense, the resin composite restorative materials seem to be an
+
+Materials 2021, 14, 649
+
+9 of 12
+
+optimal suggestion, even for long-term restorations, corroborating the present study results.
+In addition, resin composites are reported to be superior in their ability to maintain constant
+deformation without excessive dissipation of stress when compared to acrylic resins [38].
+However, for resin composite endocrowns manufactured with a layering technique, this
+information is not available in the literature and, therefore, the results should be carefully
+extrapolated. In agreement with that, in a previous report [20] that evaluated provisional
+restorations, the authors found that the acrylic resin showed a more accurate and precise
+marginal adaptation in comparison with bis-acrylic, however they justiﬁed it based in the
+CAD/CAM manufacturing method. Therefore, different manufacturing techniques can
+modify the mechanical response of endocrowns manufactured with the same restorative
+material and should be considered during the treatment plan. Due to the fact that this
+is a numerical simulation, the 3D model does not present the defect population in its
+structure and a homogeneous material was considered, therefore the digital workﬂow can
+produce endocrowns with higher similarity with the present study in comparison with the
+analog method.
+
+There are different clinical studies that have reported the use of acrylic resin [15],
+resin composite [16], and bis-acrlyc resin [19] as restorative material for the manufacturing
+of provisional endocrowns. Until now, there has been no information regarding the
+difference between these reported materials. Therefore, the present study suggests that
+resin composite should be mechanically more adequate to be used for this indication.
+A clinical report asserted that the temporary endocrown restoration could be performed
+with self-polymerizing acrylic to promote an adequately adapted gingival margin and to
+ensure healthy gingival tissue [39]; however, the authors did not evaluate these properties
+in the study and the present study only considered the mechanical response. Therefore,
+further clinical trials evaluating the gingival tissue between different interim restorative
+materials for endocrown treatment are suggested to elucidate this biological aspect.
+
+A previous study aimed to evaluate and compare the marginal accuracy of interim
+restorations made from acrylic resin and bis-acryl resin materials [40]. The authors found
+that the bis-acryl group showed a better marginal accuracy than the Polymethyl methacry-
+late (PMMA) group. The authors justiﬁed these results based in the higher volumetric
+polymerization shrinkage for PMMA (6%) when compared with 1% to 2% for composite
+materials [40]. Therefore, the present study complement this information, showing that
+even after the polymerization and luting procedure, the marginal deformation will be
+affected by the restorative material stiffness.
+
+According to the literature [6,8,18,19], the greater the stiffness of the endocrown
+restorative material, the lower the stresses recorded in the tooth structures as well as
+the stresses at the interface between these restorations and the dental tissue. This same
+pattern has been observed in the present results, corroborating the resin composite material
+indication during the provisional manufacturing. As the resin composite endocrown
+should be manufactured by CAD/CAM or by layering technique, more time and effort will
+be applied in its manufacturing in comparison with the other two provisional materials
+(acrylic and bis-acrylic). However, according to the literature [41], an interim restoration,
+even for a brief period, will assist the clinician in evaluating the treatment plan and
+improving the prognostic accuracy of prosthetic treatment. The initial investment will be
+more than repaid in time saved for later procedures, adjustments, and remakes.
+
+The literature reports that endocrowns appear to be a promising conservative restora-
+tive modality with acceptable long-term survival for endodontically treated posterior teeth
+in selected patients [38]. The present study corroborates with that, showing low stress mag-
+nitude regardless the restorative material used in the provisional step. However, because
+this is an in silico simulation, some limitations derived from the applied methodology were
+present. Initially, the restoration would be subject to variations in temperature and pH in
+an oral cavity. In addition, the simulated materials were considered isotropic and do not
+present defect populations. Vertical misﬁts of the prostheses were not simulated, as well as
+oblique load application, sliding contacts, and operator errors. However, further studies
+
+Materials 2021, 14, 649
+
+10 of 12
+
+should be carried out to complement the present ﬁndings, assisting in elucidating the
+provisional endocrown’s biological behavior, fracture load, fatigue survival, and marginal
+inﬁltration, as well the marginal and internal adaptation of each material, followed by
+clinical studies.
+
+5. Conclusions
+
+In the present study, all provisional restorative materials showed similar stress patterns
+in the endocrown. The higher the provisional material elastic modulus, the lower was the
+stress concentration in the cement layer. Based on this study limitation, the use of resin
+composite to manufacture provisional endocrowns is suggested as a promising material to
+reduce the stresses in the cement layer and in the dental tissue adhesive surfaces.
+
+Author Contributions: Conceptualization, J.P.M.T., A.L.S.B., L.R.S.-C., M.A.B., and M.Ö.; method-
+ology, J.P.M.T. and A.L.S.B.; software, J.P.M.T., A.L.S.B., and M.A.B.; validation, J.P.M.T., A.L.S.B.,
+L.R.S.-C., M.A.B., and M.Ö.; formal analysis, J.P.M.T.; investigation, J.P.M.T.; resources, J.P.M.T.,
+A.L.S.B., L.R.S.-C., M.A.B., and M.Ö.; data curation, J.P.M.T., A.L.S.B., and L.R.S.-C.; writing—original
+draft preparation, J.P.M.T., A.L.S.B., and L.R.S.-C.; writing—review and editing, J.P.M.T., A.L.S.B.,
+and M.Ö.; methodology, J.P.M.T. and A.L.S.B.; visualization, J.P.M.T. and M.Ö.; supervision, M.Ö.;
+project administration, J.P.M.T. and M.Ö.; funding acquisition, M.Ö. All authors have read and agreed
+to the published version of the manuscript.
+
+Funding: This research received no external funding.
+
+Institutional Review Board Statement: Not applicable.
+
+Informed Consent Statement: Not applicable.
+
+Data Availability Statement: The data presented in this study are available on request from the
+corresponding author.
+
+Conﬂicts of Interest: The authors declare no conﬂict of interest.
+
+References
+
+1.
+
+2.
+
+Balkenhol, M.; Mautner, M.C.; Ferger, P.; Wöstmann, B. Mechanical properties of provisional crown and bridge materials:
+Chemical-curing versus dual-curing systems. J. Dent. 2008, 36, 15–20. [CrossRef] [PubMed]
+Keys, W.F.; Keirby, N.; Ricketts, D.N.J. Provisional Restorations—A Permanent Problem? Dent. Update 2016, 43, 908–912.
+[CrossRef] [PubMed]
+
+3. Ha, S.R.; Kim, S.H.; Lee, J.B.; Han, J.S. Improving shear bond strength of temporary crown and ﬁxed dental prosthesis resins by
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+surface treatments. J. Mater. Sci. 2016, 51, 1463–1475. [CrossRef]
+Revilla-León, M.; Meyers, M.J.; Zandinejad, A.; Özcan, M. A review on chemical composition, mechanical properties, and
+manufacturing work ﬂow of additively manufactured current polymers for interim dental restorations. J. Esthet. Restor. Dent.
+2019, 31, 51–57. [CrossRef] [PubMed]
+Shibasaki, S.; Takamizawa, T.; Suzuki, T.; Nojiri, K.; Tsujimoto, A.; Barkmeier, W.W.; Latta, M.A.; Miyazaki, M. Inﬂuence of
+Different Curing Modes on Polymerization Behavior and Mechanical Properties of Dual-Cured Provisional Resins. Oper. Dent.
+2017, 42, 526–536. [CrossRef]
+Tribst, J.P.M.; Dal Piva, A.M.O.; de Jager, N.; Bottino, M.A.; de Kok, P.; Kleverlaan, C.J. Full-Crown Versus Endocrown Approach:
+A 3D-Analysis of Both Restorations and the Effect of Ferrule and Restoration Material. J. Prosthodont. 2020, 28. [CrossRef]
+Ghoul, W.E.; Özcan, M.; Tribst, J.P.M.; Salameh, Z. Fracture resistance, failure mode and stress concentration in a modiﬁed
+endocrown design. Biomater. Investig. Dent. 2020, 7, 110–119. [CrossRef]
+Tribst, J.P.M.; Dal Piva, A.M.O.; Madruga, C.F.L.; Valera, M.C.; Borges, A.L.S.; Bresciani, E.; de Melo, R.M. Endocrown restorations:
+Inﬂuence of dental remnant and restorative material on stress distribution. Dent. Mater. 2018, 34, 1466–1473. [CrossRef]
+Da Fonseca, G.F.; Dal Piva, A.M.; Tribst, J.P.; Borges, A.L. Inﬂuence of Restoration Height and Masticatory Load Orientation on
+Ceramic Endocrowns. J. Contemp. Dent. Pract. 2018, 19, 1052–1057. [CrossRef]
+
+10. Da Fonseca, G.F.; de Andrade, G.S.; Dal Piva, A.M.O.; Tribst, J.P.M.; Borges, A.L.S. Computer-aided design ﬁnite element modeling
+of different approaches to rehabilitate endodontically treated teeth. J. Indian Prosthodont. Soc. 2018, 18, 329–335. [CrossRef]
+11. El Ghoul, W.A.; Özcan, M.; Ounsi, H.; Tohme, H.; Salameh, Z.J. Effect of different CAD-CAM materials on the marginal and
+internal adaptation of endocrown restorations: An in vitro study. J. Prosthet. Dent. 2020, 123, 128–134. [CrossRef] [PubMed]
+12. El Ghoul, W.; Özcan, M.; Silwadi, M.; Salameh, Z. Fracture resistance and failure modes of endocrowns manufactured with
+
+different CAD/CAM materials under axial and lateral loading. J. Esthet. Restor. Dent. 2019, 31, 378–387. [CrossRef] [PubMed]
+
+Materials 2021, 14, 649
+
+11 of 12
+
+13. Gresnigt, M.M.; Özcan, M.; van den Houten, M.L.; Schipper, L.; Cune, M.S. Fracture strength, failure type and Weibull characteristics of
+lithium disilicate and multiphase resin composite endocrowns under axial and lateral forces. Dent. Mater. 2016, 32, 607–614. [CrossRef]
+14. Tribst, J.P.; Dal Piva, A.O.; Madruga, C.F.; Valera, M.C.; Bresciani, E.; Bottino, M.A.; de Melo, R.M. The impact of restorative
+
+material and ceramic thickness on CAD\CAM endocrowns. J. Clin. Exp. Dent. 2019, 11, 969–977. [CrossRef] [PubMed]
+
+15. Dogui, H.; Abdelmalek, F.; Amor, A.; Douki, N. Endocrown: An Alternative Approach for Restoring Endodontically Treated
+
+16.
+
+Molars with Large Coronal Destruction. Case. Rep. Dent. 2018, 1581952. [CrossRef]
+Irmaleny, Z.; Sholeh, A.; Mardiyah, A.; Agustin, D. Endocrown Restoration on Postendodontics Treatment on Lower First Molar.
+J. Int. Soc. Prev. Community Dent. 2019, 9, 303–310.
+
+17. Taha, D.; Abu-Elfadl, A.; Morsi, T. Minimally invasive prosthodontic correction of pseudo class III malocclusion by implementing
+
+a systematic digital workﬂow: A clinical report. J. Prosthet. Dent. 2021, 125, 8–14. [CrossRef]
+
+18. Dejak, B.; Młotkowski, A. A comparison of mvM stress of inlays, onlays and endocrowns made from various materials and their
+
+bonding with molars in a computer simulation of mastication—FEA. Dent. Mater. 2020, 36, 854–864. [CrossRef]
+
+19. Helal, M.A.; Wang, Z. Biomechanical Assessment of Restored Mandibular Molar by Endocrown in Comparison to a Glass Fiber
+Post-Retained Conventional Crown: 3D Finite Element Analysis. J. Prosthodont. 2019, 28, 988–996. [CrossRef] [PubMed]
+20. Dureja, I.; Yadav, B.; Malhotra, P.; Dabas, N.; Bhargava, A.; Pahwa, R. A comparative evaluation of vertical marginal ﬁt
+of provisional crowns fabricated by computer-aided design/computer-aided manufacturing technique and direct (intraoral
+technique) and ﬂexural strength of the materials: An in vitro study. J. Indian Prosthodont. Soc. 2018, 18, 314–320. [CrossRef]
+21. Li, X.; Kang, T.; Zhan, D.; Xie, J.; Guo, L. Biomechanical behavior of endocrowns vs ﬁber post-core-crown vs cast post-core-crown
+for the restoration of maxillary central incisors with 1 mm and 2 mm ferrule height: A 3D static linear ﬁnite element analysis.
+Medicine (Baltimore). 2020, 99, e22648. [CrossRef] [PubMed]
+
+22. Ausiello, P.; Ciaramella, S.; De Benedictis, A.; Lanzotti, A.; Tribst, J.P.M.; Watts, D.C. The use of different adhesive ﬁlling material
+and mass combinations to restore class II cavities under loading and shrinkage effects: A 3D-FEA. Comput. Methods Biomech.
+Biomed. Eng. 2020, 22, 1–11. [CrossRef] [PubMed]
+Srivastava, B.; Devi, N.N.; Gupta, N.; Singh, R. Comparative Evaluation of Various Temperature Changes on Stress Distribution
+in Class II Mesial-occlusal-distal Preparation restored with Different Restorative Materials: A Finite Element Analysis. Int. J. Clin.
+Pediatr. Dent. 2018, 11, 167–170. [CrossRef] [PubMed]
+
+23.
+
+24. Thomas, R.M.; Kelly, A.; Tagiyeva, N.; Kanagasingam, S. Comparing endocrown restorations on permanent molars and premolars:
+
+A systematic review and meta-analysis. Br. Dent. J. 2020, 12. [CrossRef] [PubMed]
+
+25. Belleflamme, M.M.; Geerts, S.O.; Louwette, M.M.; Grenade, C.F.; Vanheusden, A.J.; Mainjot, A.K. No post-no core approach to restore
+severely damaged posterior teeth: An up to 10-year retrospective study of documented endocrown cases. J. Dent. 2017, 63, 1–7.
+[CrossRef]
+
+26. Hollanders, A.C.C.; Kuper, N.K.; Huysmans, M.C.D.N.J.M.; Versluis, A. The effect of occlusal loading on cervical gap deformation:
+
+A 3D ﬁnite element analysis. Dent. Mater. 2020, 36, 681–686. [CrossRef]
+
+27. Naqash, T.A.; Alfarsi, M.; Hussain, M.W. Marginal accuracy of provisional crowns using three material systems and two
+
+techniques: A scanning electron microscope study. Pak. J. Med. Sci. 2019, 35, 55–60. [CrossRef]
+
+28. Zhang, Y.; Zhao, Y.P. Adhesive Contact of Nanowire in Three-Point Bending Test. J. Adhes. Sci. Technol. 2011, 10, 1107–1129.
+
+[CrossRef]
+
+29. Haralur, S.B.; Alamrey, A.A.; Alshehri, S.A.; Alzahrani, D.S.; Alfarsi, M. Effect of different preparation designs and all ceramic
+
+materials on fracture strength of molar endocrowns. J. Appl. Biomater. Funct. Mater. 2020, 18. [CrossRef]
+
+30. Lin, J.; Lin, Z.; Zheng, Z. Effect of different restorative crown design and materials on stress distribution in endodontically treated
+
+molars: A ﬁnite element analysis study. BMC. Oral. Health 2020, 18, 226. [CrossRef]
+
+31. Govare, N.; Contrepois, M. Endocrowns: A systematic review. J. Prosthet. Dent. 2020, 123, 411–418. [CrossRef] [PubMed]
+32. Zhu, J.; Wang, D.; Rong, Q.; Qian, J.; Wang, X. Effect of central retainer shape and abduction angle during preparation of teeth
+on dentin and cement layer stress distributions in endocrown-restored mandibular molars. Dent. Mater. J. 2020, 5, 464–470.
+[CrossRef] [PubMed]
+
+33. Eskita¸sçio ˘glu, M.; Küçük, O.; Eskita¸sçio ˘glu, G.; Eraslan, O.; Belli, S. The Effect of Different Materials and Techniques on Stress
+
+Distribution in CAD/CAM Endocrowns. Strength Mater. 2020, 52, 812–819. [CrossRef]
+
+34. Yamaguchi, S.; Kani, R.; Kawakami, K.; Tsuji, M.; Inoue, S.; Lee, C.; Kiba, W.; Imazato, S. Fatigue behavior and crack initiation of
+
+CAD/CAM resin composite molar crowns. Dent. Mater. 2018, 34, 1578–1584. [CrossRef] [PubMed]
+
+35. Penteado, M.M.; Tribst, J.P.M.; Dal Piva, A.M.; Ausiello, P.; Zarone, F.; Garcia-Godoy, F.; Borges, A.L. Mechanical behavior of
+
+conceptual posterior dental crowns with functional elasticity gradient. Am. J. Dent. 2019, 32, 165–168.
+
+36. Zimmermann, M.; Valcanaia, A.; Neiva, G.; Mehl, A.; Fasbinder, D. Three-Dimensional Digital Evaluation of the Fit of Endocrowns
+
+Fabricated from Different CAD/CAM Materials. J. Prosthodont. 2019, 28, 504–509. [CrossRef]
+
+37. Zheng, Z.; He, Y.; Ruan, W.; Ling, Z.; Zheng, C.; Gai, Y.; Yan, W. Biomechanical behavior of endocrown restorations with different
+
+CAD-CAM materials: A 3D ﬁnite element and in vitro analysis. J. Prosthet. Dent. 2020, 26. [CrossRef]
+
+38. Al-Dabbagh, R.A. Survival and success of endocrowns: A systematic review and meta-analysis. J. Prosthet. Dent. 2020, 17.
+
+[CrossRef]
+
+39. Biacchi, G.R.; Mello, B.; Basting, R.T. The endocrown: An alternative approach for restoring extensively damaged molars. J. Esthet.
+
+Restor. Dent. 2013, 25, 383–390. [CrossRef]
+
+Materials 2021, 14, 649
+
+12 of 12
+
+40. Madhavan, S.; Jude, S.M.; Achammada, S.; Ullattuthodi, S.; Kuriachan, T.; Jacob, J. Comparison of Marginal Accuracy of Interim
+Restoration Fabricated from Self-cure Composite and Autopolymerizing Acrylic Resin: An In Vitro Study. J. Pharm. Bioallied Sci.
+2020, 12, S361–S366. [CrossRef]
+
+41. Miura, S.; Fujisawa, M.; Komine, F.; Maseki, T.; Ogawa, T.; Takebe, J.; Nara, Y. Importance of interim restorations in the molar
+
+region. J. Oral Sci. 2019, 18, 195–199. [CrossRef] [PubMed]
+
+

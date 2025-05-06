@@ -1,0 +1,1734 @@
+Review
+Update on Dental Luting Materials
+
+Gary Kwun-Hong Leung
+
+, Amy Wai-Yee Wong, Chun-Hung Chu
+
+and Ollie Yiru Yu *
+
+Faculty of Dentistry, The University of Hong Kong, Prince Philip Dental Hospital, 34 Hospital Road, Sai Ying Pun,
+Hong Kong, China
+* Correspondence: ollieyu@hku.hk
+
+Abstract: A dental luting material aids in the retention and stability of indirect restorations on the
+prepared tooth structure. In dentistry, clinicians are using a wide range of luting materials for the
+cementation of indirect restorations. Zinc oxide eugenol and non-eugenol cements, zinc phosphate
+cement, zinc polycarboxylate cement, glass ionomer cement and resin cements are common dental
+cements used in dentistry. Each luting material or cement possesses unique properties and clinical
+implications. An ideal luting cement should be biocompatible, insoluble, resistant to thermal and
+chemical assaults, antibacterial, aesthetic, simple and easy to use. It should have high strength
+properties under tension, shear and compression to resist stress at the restoration–tooth interface, as
+well as adequate working and setting times. So far, no luting material possesses all of these properties
+of an ideal cement. Scientists have been modifying the conventional luting cements to improve the
+material’s clinical performance and developing novel materials for clinical use. To achieve the best
+clinical outcome, clinicians should update their knowledge and gain a good understanding of the
+luting materials so that they can make a wise clinical decision on the material selection and obtain an
+insight into the development of luting cements. Therefore, the objective of this study is to provide a
+discussion on the physical, chemical, adhesive and aesthetic properties of common luting materials.
+The clinical indications of these luting materials are suggested based on their properties. In addition,
+overviews of the modiﬁcation of the conventional luting materials and the newly developed luting
+materials are provided.
+
+Keywords: bridge; cariology; crown; dental cements; indirect restoration; luting agents; luting
+cements; permanent cements; prosthodontics; resin cements; temporary cements
+
+Citation: Leung, G.K.-H.; Wong,
+
+A.W.-Y.; Chu, C.-H.; Yu, O.Y. Update
+
+on Dental Luting Materials. Dent. J.
+
+2022, 10, 208. https://doi.org/
+
+10.3390/dj10110208
+
+Academic Editor: Georgios Romanos
+
+1. Introduction
+
+Received: 8 October 2022
+
+Accepted: 1 November 2022
+
+Published: 3 November 2022
+
+Publisher’s Note: MDPI stays neutral
+
+with regard to jurisdictional claims in
+
+published maps and institutional afﬁl-
+
+iations.
+
+Copyright: © 2022 by the authors.
+
+Licensee MDPI, Basel, Switzerland.
+
+This article is an open access article
+
+distributed under
+
+the terms and
+
+conditions of the Creative Commons
+
+Attribution (CC BY) license (https://
+
+creativecommons.org/licenses/by/
+
+4.0/).
+
+A luting cement is a material that is used to attach indirect restorations to prepared
+tooth surfaces by ﬁlling minute voids between the restorations and the tooth structures,
+thereby locking the restoration mechanically to prevent dislodgement [1,2]. A luting mate-
+rial provides the retention of indirect restorations by providing mechanical interlocking,
+chemical bonding or both of them. Traditional cementation rely mostly on the frictional
+forces between the prepared tooth surfaces and ﬁtting walls of restorations [3]. More
+contemporary materials utilize chemical and micromechanical adhesion to bond between
+the tooth surface, cement and restorative material [4].
+
+Understanding the properties of the luting materials and their clinical indications is
+helpful to ensure the quality of the cementation. The luting materials create the seal between
+the restoration and the tooth. A good seal is important not only to hold the restoration in
+place but also to make the surface impervious to microleakage and caries. Hence, luting
+materials affect the longevity of indirect restorations. In addition, the luting materials
+are widely indicated in the cementation of crowns, inlays, onlays, veneers, multiple-
+unit ﬁxed prostheses, endodontic posts and orthodontic appliances. It is essential for
+dental practitioners to comprehend the clinical indications of the common luting materials.
+Therefore, this review aims to provide a discussion on the physical, chemical, adhesive
+and aesthetic properties of common luting materials. The clinical indications of these
+
+Dent. J. 2022, 10, 208. https://doi.org/10.3390/dj10110208
+
+https://www.mdpi.com/journal/dentistry
+
+dentistry journalDent. J. 2022, 10, 208
+
+2 of 16
+
+luting materials are suggested based on their properties. In addition, overviews of the
+modiﬁcation of the conventional luting materials and the newly developed luting materials
+is provided.
+
+2. Historical Development of Common Luting Cements
+
+Over the past 50 years, a range of new materials has been developed which are known
+as luting cements. However, before this period, zinc phosphate had been the only choice of
+material for permanent cement for almost 100 years since the late 19th century. Therefore,
+it is often regarded as the “gold standard” for permanent dental cements [5]. In the late
+1960s, zinc polycarboxylate was introduced, which offered more options of luting material
+to clinicians at that time [3]. Contemporary cements shifted from the utilization of a
+bonding mechanism to luting (ﬁlling in the space between the tooth and the restoration).
+Between the 1970s and the 1980s, glass ionomer cement (GIC) and resin-modiﬁed glass
+ionomer cement (RMGIC) was invented. Resin cement, which was invented in the 1950s,
+has undergone many reformulations and improvements over the years. Owing to the
+increasing demand for aesthetic all-ceramic restorations, it has gained high popularity in
+contemporary dentistry [5]. In the 2000s, self-adhesive resin cement was developed to
+simplify the clinical procedure of traditional resin cements [6]. Calcium aluminate/glass
+ionomer cement (CaAl/GI) has a bioactivity property by creating hydroxyapatite crystals,
+and this was introduced in 2009 [7–9]. An ideal luting cement should be biocompatible,
+insoluble, resistant to thermal and chemical assaults, antibacterial, aesthetic, simple and
+easy to use. It should have high strength properties under tension, shear and compression
+to resist the stress at the restoration–tooth interface, as well as adequate working and setting
+times. So far, no luting material possesses all of these properties of an ideal cement.
+
+3. Classiﬁcation of the Luting Materials
+
+The luting materials can generally be classiﬁed by their chemical compositions, bond-
+ing mechanisms or clinical indications. Luting materials can be classiﬁed as water- or
+resin-based luting cements based on their chemical composition. Water-based materials
+include zinc-oxide eugenol and non-eugenol, zinc polycarboxylate, zinc phosphate, GIC
+and hybrid CaAl/GI cements. Resin-based luting cements include conventional and self-
+adhesive resin cements. RMGIC, which has the properties of GIC and resin cements, is a
+mix of water- and resin-based cement.
+
+Luting materials can also be classiﬁed as non-adhesive, chemically adhesive and mi-
+cromechanically adhesive luting agents by means of a bonding mechanism. Non-adhesive
+luting materials achieve restoration by friction only. Chemically adhesive luting materials
+can establish molecular interactions with the tooth structures to form chemical bonding,
+whereas micromechanically adhesive materials accomplish adhesion via micromechanical
+interlocking between the adhesive and the tooth surfaces [10]. Non-adhesive cements
+include zinc oxide eugenol and non-eugenol and zinc phosphate cements. Chemically
+adhesive materials include zinc polycarboxylate, GIC and hybrid CaAl/GI cements. Both
+types of resin cement are micromechanically adhesive materials. RMGIC can be both
+chemically adhesive and micromechanically adhesive.
+
+Based on the clinical indication, luting materials can be categorized into temporary or
+permanent cements. Temporary cements are used to retain provisional restorations, and
+these include zinc oxide eugenol and non-eugenol and zinc polycarboxylate [11] (Table 1).
+The permanent cements include zinc phosphate, zinc polycarboxylate, GIC, RMGIC,
+conventional and self-adhesive resin cement and hybrid CaAl/GI cement. They are used
+in the cementation of deﬁnitive restorations (Table 2).
+
+Dent. J. 2022, 10, 208
+
+3 of 16
+
+Table 1. Properties and the types of temporary luting cements.
+
+Properties
+
+Ideal Materials [12]
+
+Zinc Oxide Eugenol
+
+Zinc Oxide Non-Eugenol
+
+Zinc Polycarboxylate
+
+Bond strength
+
+Handling properties
+[13]
+
+Ease of cleaning up
+[13,14]
+
+Effect on permanent
+cementation
+[15–17]
+
+Pulpal effect
+[13,18,19]
+
+Low
+(for easy of removal)
+
+Good
+
+High
+
+Low
+
+Good
+
+High
+
+Low
+
+Good
+
+High
+
+Low
+
+Fair
+(cement is hard to mix)
+
+Low
+(cement is hard to
+remove)
+
+No adverse effect
+
+Interfere resin cement
+
+No adverse effect
+
+No adverse effect
+
+Minimal pulpal
+irritation
+Sedative
+
+Anti-inﬂammatory
+anaesthetic
+
+Minimal pulpal irritation
+
+Minimal pulpal
+irritation
+
+Table 2. Properties and permanent luting cements.
+
+Ideal
+Material
+[4]
+
+Zinc
+Phosphate
+
+Zinc Poly-
+Carboxylate
+
+GIC
+
+RMGIC
+
+Hybrid
+CaAl/GIC
+
+Conventional
+Resin Cement
+
+Self-Adhesive
+Resin Cement
+
+High
+
+48
+(Flecks)
+
+63
+(Durelon)
+
+13.7
+(dentine)
+
+19.8 (Flecks)
+
+16.1
+(Durelon)
+
+105
+(Ketac
+Cem)
+
+19.5
+(Ketac
+Cem)
+
+High
+
+0.65
+(N.A.)
+
+1.40
+(N.A.)
+
+2.36
+(GC Fuji 9)
+
+96.3
+(RelyX
+Luting)
+
+6.8
+(Vitremer)
+
+2.53
+(GC Fuji
+Plus)
+
+160
+(Ceramir
+C&B)
+
+No data
+
+5.79 2
+(Ceramir
+C&B)
+
+209
+(Scotchbond
+resin cement)
+
+11.8
+(Scotchbond
+resin cement)
+
+157
+(RelyX
+Unicem)
+
+16.5
+(RelyX
+Unicem)
+
+6.99
+(Panavia F 2.0)
+
+5.07
+(Clearﬁl SA)
+
+Yes
+
+No
+
+No
+
+Yes
+
+Yes
+
+Yes
+
+No
+
+Yes
+
+Minimal
+
+High
+
+High to very
+high
+
+Low to
+very high
+
+Very low
+
+Low to high
+
+Very low
+
+Very low
+
+Thin
+
+Long
+
+Short
+
+<25
+(N.A.)
+
+<25
+(N.A.)
+
+24.2
+(GC luting)
+
+~2:30
+(DeTrey
+Zinc)
+
+5:00–6:00
+(DeTrey
+Zinc)
+
+2:00–2:30
+(Poly-F Plus)
+
+5:00–7:00
+(Poly-F Plus)
+
+3:10
+(Ketac
+Cem)
+
+7:00
+(Ketac
+Cem)
+
+25.2
+(GC Fuji
+Plus)
+
+2:30
+(GC Fuji
+Plus)
+
+4:30
+(GC Fuji
+Plus)
+
+16.4
+(Ceramir
+C&B)
+
+2:00
+(Ceramir
+C&B)
+
+~4:48
+(Ceramir
+C&B)
+
+24.3
+(Panavia 21)
+
+4:00
+(Panavia 21)
+
+7:00
+(Panavia 21)
+
+16.0
+(RelyX
+Unicem)
+
+2:30
+(RelyX
+Unicem)
+
+6:00
+(RelyX
+Unicem)
+
+Easy
+
+Easy
+
+Medium
+
+Medium
+
+Medium
+
+Easy
+
+Difﬁcult
+
+Medium
+
+Properties
+
+Compressive
+strength
+(MPa)
+[20,21]
+
+Elastic
+modulus
+(GPa) [21,22]
+
+Shear bond
+strength 1
+(MPa)
+[9,23,24]
+
+Fluoride
+release
+
+Microleakage
+[12,25–27]
+
+Film
+thickness
+(µm)
+[12,20,28–31]
+
+Working
+time (min)
+[12,31–34]
+
+Setting time
+(min)
+[20,31–34]
+
+Removal of
+excess
+[9,12]
+
+Water
+solubility
+[12]
+
+Minimal
+
+High
+
+High
+
+Low
+
+Very low
+
+Aesthetics
+
+High
+
+Low
+
+Low
+
+Low
+
+Moderate
+
+Low
+
+Low
+
+Very low
+
+Very low
+
+Highest
+
+High
+
+Dent. J. 2022, 10, 208
+
+4 of 16
+
+Table 2. Cont.
+
+Properties
+
+Color
+stability
+
+Pulpal
+irritation [12]
+
+Ideal
+Material
+[4]
+
+Zinc
+Phosphate
+
+Zinc Poly-
+Carboxylate
+
+GIC
+
+RMGIC
+
+Hybrid
+CaAl/GIC
+
+Conventional
+Resin Cement
+
+Self-Adhesive
+Resin Cement
+
+High
+
+Low
+
+Low
+
+Moderate
+
+Low
+
+Low
+
+Low
+
+Moderate
+
+Low
+
+Highest
+
+High
+
+High
+
+No data
+
+High
+
+High
+
+High
+
+1: Values based on studies of cementation of zirconia onto dentine. 2: Not tested under universal setting.
+GIC—Glass ionomer cement; RMGIC—Resin-modiﬁed glass ionomer cement; Hybrid CaAl/GIC; Hybrid calcium
+aluminate/glass ionomer cement.
+
+4. Properties and Clinical Indication of Luting Materials
+
+The currently available luting materials include zinc oxide eugenol and non-eugenol,
+zinc phosphate, zinc polycarboxylate, GIC, RMGIC, hybrid CaAl/GIC and resin cements.
+Their properties as luting cements are summarized below, and their clinical implications
+are suggested in Table 3.
+
+Table 3. Suggested clinical uses of luting cements.
+
+Luting Material
+
+ZOE/ZONE
+
+Zinc
+Phosphate
+
+Zinc Poly-
+Carboxylate
+
+GIC
+
+RMGIC
+
+Hybrid
+CaAl/GIC
+
+Conventional
+Resin Cement
+
+Self-Adhesive
+Resin Cement
+
+√
+√
+
+√
+
+√
+√
+
+Provisional restoration
+Metal
+Bis-acryl
+PEMA
+PMMA
+
+√
+√
+√
+√
+
+Single-unit deﬁnitive restoration
+All-metal crown
+Metal-ceramic crown
+Zirconia/alumina crown
+Lithium disilicate crown
+All metal inlay/onlay
+Ceramic inlay/onlay
+Ceramic veneer
+Composite veneer
+
+Endodontic post
+Cast metal post
+Prefabricated metal post
+Fiber post
+
+Multiple-unit deﬁnitive restoration/bridge
+All-metal (conventional)
+Metal ceramic
+(conventional)
+Metal ceramic
+Lithium disilicate
+Zirconia
+Metal ceramic
+resin-bonded
+
+Orthodontic appliances
+Bands and brackets
+
+√
+√
+√
+√
+
+√
+
+√
+
+√
+
+√
+√
+
+√
+
+√
+√
+
+√
+
+√
+√
+√
+
+√
+
+√
+√
+√
+
+√
+
+√
+
+√
+
+√
+
+√
+√
+√
+√
+√
+√
+
+√
+√
+
+√
+√
+√
+√
+√
+√
+√
+√
+
+√
+
+√
+
+√
+√
+√
+
+√
+
+√
+√
+√
+
+√
+√
+
+√
+√
+√
+
+√
+
+√
+
+√
+
+√
+
+√
+
+ZOE/ZONE—zinc oxide eugenol/zinc oxide non-eugenol; GIC—Glass ionomer cement; RMGIC—Resin-modiﬁed
+glass ionmer; Hybrid CaAl/GIC—Hybrid calcium aluminate/glass ionomer cement.
+
+4.1. Zinc Oxide Eugenol and Non-Eugenol Cements
+
+Zinc oxide eugenol has a two-component system and sets in an acid–base reaction.
+The powder contains zinc oxide, along with a minute amount of other zinc salts and abietic
+acids to increase the working time and strength of it. The liquid contains eugenol and
+acetic acid, the latter of which acts as an accelerator [14]. There are numerous advantages
+to using zinc oxide eugenol as a temporary cement. Its low strength allows for the easy
+
+Dent. J. 2022, 10, 208
+
+5 of 16
+
+removal of provisional crowns. It also has sedative properties to the dental pulp and a
+good marginal seal, and it is cost-effective [14,35]. Although several laboratory studies
+and a systematic review have shown that the use of eugenol-containing temporary cement
+does not alter the bond strength of resin [35–38], one common concern about zinc oxide
+eugenol is that eugenol hinders the polymerization of resin cement and leads to a reduced
+bond strength [15,39]. To avoid disrupting the polymerization of a composite resin, it is
+suggested to use zinc oxide non-eugenol as a temporary cement before the composite resin
+application. It uses acids such as aliphatic acid or butyric acid to substitute the eugenol in
+the acid–base reaction [14].
+
+4.2. Zinc Phosphate
+
+Zinc phosphate has the longest history of use in dentistry and is often regarded as
+the “gold standard” for permanent dental cements [5]. It is essentially made of zinc oxide
+and magnesium oxide powders with a liquid consisting of phosphoric acid, water and
+aluminum phosphate [40]. Being a non-adhesive luting agent, it does not bond to the tooth
+structure and restorative materials and merely acts by providing mechanical interlocking [3].
+It has moderate compressive strength and a high modulus of elasticity [41,42]. Having a
+high mechanical strength upon setting, it is a good choice for the cementation of a cast metal
+post-core [43]. It can also be used to cement all-metal or metal-supported restorations with
+good mechanical retention results [43,44]. The disadvantages of zinc phosphate outweigh
+the advantages, and its use in contemporary dentistry is quite limited. Like other water-
+based cements, zinc phosphate sets by means of an acid–base reaction. Due to the presence
+of phosphoric acid, the initial pH of the setting cement is very low (<2.0 min), and this may
+cause sensitivity during and after cementation. Moreover, the reaction is highly exothermic
+and could possibly irritate the pulp. It can also undergoes discoloration and has relatively
+weak mechanical properties when it is compared to the contemporary cements [44]. There is
+also a higher chance of secondary caries occurring in zinc phosphate-cemented restorations
+due to its water solubility and its inability to inhibit bacterial growth [45].
+
+4.3. Zinc Polycarboxylate
+
+Zinc polycarboxylate was developed in 1968 with the goal to develop a dental cement
+that has the strength of zinc phosphate with the adhesiveness and biocompatibility of
+zinc oxide eugenol [14,46]. It consists of zinc oxide and polyacrylic acid in a powder and
+liquid system, which sets via an acid–base reaction in an aqueous environment. During
+the reaction, zinc crosslinks the polyacrylic acid chains and leads to the setting of the
+cement [47]. Because the carboxylic groups of the polyacrylic acid chains can chelate the
+calcium in hydroxyapatite, it can create a form of a chemical bond to mineralize the hard
+tissues [48,49]. However, the chemical adhesion of it is weak, and the retention of it is
+primarily mechanical [6]. The major advantages of zinc polycarboxylate are that it is less
+irritating to the pulp and has a higher tensile strength when it is compared to the traditional
+zinc phosphate. However, its compressive strength is only one-half to two-thirds of that of
+zinc phosphate. Its modulus of elasticity is also much lower than that of zinc phosphate.
+Thus, it may display signiﬁcant plastic deformation upon long-term loading [10]. Moreover,
+it has low resistance to acidic erosion and should not be used in patients with gastric reﬂux
+problems or who frequently consume an acidic diet [50]. Inferior handling properties due
+to it having a high degree of viscosity and it needing a short working time (2.5 min) are also
+considered as its clinical disadvantages, especially when one is cementing multiple-unit
+restorations [13]. Therefore, despite originally being developed as a permanent cement,
+the main application of polycarboxylate cement today is for the long-term maintenance
+of provisional restorations or when maximum retention is needed for the provisional
+restoration, such as when the retention form of the tooth preparation or the quality of the
+provisional restoration is not satisfactory [2].
+
+Dent. J. 2022, 10, 208
+
+6 of 16
+
+4.4. Glass Ionomer Cement
+4.4.1. Conventional Glass Ionomer Cement
+
+Conventional GIC (glass ionomer cement, GIC), which is ofﬁcially known as glass
+polyalkenoate cement, is made of calcium ﬂuoro-alumino-silicate glass powder combined
+with a water-soluble polycarboxylic acid [51]. In the 1990s, GIC was modiﬁed with ﬁne
+glass particles and high molecular weight anhydrous polyacrylic acid [52]. Tartaric acid
+is added to increase the working time of it and facilitate the setting reaction to improve
+the post-setting hardness [53]. After mixing, GIC sets by an acid–base reaction where the
+carboxyl ion of the polycarboxylic acid forms ionic bonds with aluminum and calcium
+ions in ﬂuoro-alumino-silicate glass powder. Gelation of the cement begins and continues
+until the cement hardens [54]. On top of the mechanical retention, GIC can form molecular
+adhesion to the tooth structure by the chelation with calcium and phosphate ions. An
+important feature of GIC is ﬂuoride release. In the reaction, ﬂuoride is released into an
+aqueous environment with an initial burst over the ﬁrst 24 h, and this gradually slows down
+to a long-term release. Owing to its ﬂuoride-release property, the most valuable advantage
+of GIC is its anticariogenic property, which aids in preventing secondary caries [55]. It
+is also biocompatible with the dental pulp [56]. However, its strength properties are
+unsatisfactory. It has low ﬂexural strength and a high modulus of elasticity, making it
+brittle and prone to bulk fractures [57]. Being a water-based cement, its solubility in oral
+ﬂuid and microleakages are still issues [12]. Additionally, similar to zinc phosphate, the
+low initial pH of setting GIC can contribute to postoperative sensitivity [58,59]. Therefore,
+it is suggested that one uses dentine sealers, such as resin-based bonding agents for pulpal
+protection, when GIC is used and when the remaining dentine thickness is minimal [60].
+
+4.4.2. Resin-Modiﬁed Glass Ionomer Cement
+
+With the desire to improve the shortcomings of conventional GIC, RMGIC was devel-
+oped to combine the strength and hydrophobicity of resin with the valuable ﬂuoride-release
+ability of GIC. Monomers such as hydroxyethyl methacrylate (HEMA) are added into the
+liquid component of GIC, along with an associated photo-sensitive initiator system [61].
+RMGIC is described to be “dual-cured”, where resin monomers undergo photopolymeriza-
+tion upon light curing, and the GIC component is chemically cured in an acid–base reaction.
+The polymerized resin acts as a bridge and strengthens the material [54]. In addition to the
+chemical bonding that is achieved by polycarboxylates, RMGIC can also achieve microme-
+chanical interlocking in hybridized dentine through the inﬁltration of the collagen network
+that is exposed by 10% polyacrylic acid [62]. This creates a greater bond strength and higher
+fracture toughness values than conventional GIC can, although the mechanical properties
+are still inferior to the resin cement [63]. On the other hand, the ﬂuoride release from
+RMGIC follows a similar pattern to that of conventional GIC with an initial burst during
+the ﬁrst 24 h [64,65]. Although the amount varies by product, its ﬂuoride release potential
+can be comparable to that of conventional GIC, retaining the anticariogenic property of
+conventional GIC [66,67]. The addition of resin is not without its downside. Several studies
+have compared the effects of conventional GIC and RMGIC on pulpal tissues, and the
+results have shown that RMGIC is more cytotoxic to pulp cells [68–70]. Therefore, RMGIC
+cannot be considered to be as biocompatible as conventional GIC is [71].
+
+4.4.3. Hybrid Calcium Aluminate/Glass Ionomer Cement
+
+Hybrid CaAl/GIC is a water-based permanent cement that is composed of calcium
+aluminate and glass ionomer mixed with distilled water [72]. It is a self-adhesive material
+without the need for any pre-treatment procedures. This hybrid cement is self-setting
+through the reactions of the glass ionomer and acid–base reactions [8]. It has comparable or
+higher retentive strengths to those of other types of permanent cements [9,20]. CaAl/GIC
+has sufﬁcient working and setting times, thereby allowing a relatively easy mix process and
+the removal of excess cement [9,73]. One of the major advantages of this hybrid cement is
+its bioactivity to promote remineralization [7]. Moreover, the cement provides a negatively
+
+Dent. J. 2022, 10, 208
+
+7 of 16
+
+charged surface and releases calcium and phosphate ions, thus fulﬁlling the prerequisites
+of being bioactive [7]. CaAl/GIC possesses stronger antibacterial properties when it is
+compared with self-adhesive resin cement and conventional GIC [74]. The sealing ability
+and microleakage pattern are also comparable to that of self-adhesive resin cement [26].
+These characteristics are favorable to inhibiting recurrent caries in patients. In addition,
+CaAl/GI presents satisfactory postoperative sensitivity, retention, marginal integrity and
+color stability [72,73,75,76]. However, long-term clinical evaluations are generally lacking,
+and more laboratory studies comparing its properties such as ﬂuoride release, color stability
+and mechanical strengths are needed. The indication of CaAl/GIC includes the deﬁnitive
+cementation of metal or porcelain-fused-to-metal crowns and bridges, gold inlays and
+onlays, cast or prefabricated metal posts, and high-strength ceramic crowns and bridges
+such as zirconia, alumina and lithium disilicate.
+
+4.5. Resin Cements
+
+Both the conventional resin cement with a separate adhesive system (or adhesive resin
+cement) and the self-adhesive resin cement can be used as luting cements. They have the
+advantages of high compressive and tensile strengths, a high bond strength, a low water
+solubility and good aesthetic properties, which make them the leading luting cements
+today [2]. Proper moisture control is also necessary to achieve a reasonable bond strength
+for resin cements [77]. In the cases where isolation cannot be achieved, the use of alternative
+cements may be a better option.
+
+4.5.1. Conventional Resin Cement
+
+Conventional resin cement has a similar chemical composition to restorative resin
+composites. They consist of resin monomers, such as methyl methacrylate, bisphenol
+A-glycidyl methacrylate dimethacrylate (Bis-GMA) and urethane dimethacrylate, which
+undergo polymerization during the setting reaction [5]. The ﬁller concentration in the
+resin cement is lowered to allow for a thin ﬁlm thickness and a sufﬁcient working time [6].
+The bonding mechanism of conventional resin cement to enamel is made through mi-
+cromechanical interlocking after acid etching. The removal of the smear layer, surface
+demineralization and the application of a primer is needed to achieve the resin bonding in
+dentine [5].
+
+Some conventional resin cements require the prior application of adhesive systems.
+The adhesive systems of conventional resin cements can be divided into total etch (etch-and-
+rinse) and self-etch [78] based on the etching mechanism. The biggest disadvantage of the
+total-etch cement is the multistep application that increases the risk of contamination that
+compromises the bond strength [79]. There is also a higher risk of postoperative sensitivity
+when it is compared to the self-etch systems [80]. Moreover, the total-etch strategy only
+beneﬁts the enamel bonding, but not the dentinal bonding [81]. It has been shown that resin
+monomers were unable to penetrate into deeper areas of the hybrid layer, resulting in the
+incomplete inﬁltration in the dentine [82]. On the other hand, using self-etching adhesives
+alone reduces the enamel bonding efﬁcacy because the effect of demineralization is less
+than that which occurs with phosphoric acid [83]. Therefore, selective enamel etching with
+self-etching adhesives is the suggested strategy to optimize bonding [81].
+
+From the ISO speciﬁcation 4049 (2019), resin cement can be classiﬁed according to
+the mode of the cure: class 1 (self-cured), class 2 (light-cured), and class 3 (dual-cured).
+Self-cured cement is used for luting thick, opaque restorations and materials that are not
+translucent, such as metals and highly opaque ceramics [84]. This is to ensure a high degree
+of conversion and optimal properties in the areas where light cannot reach [85]. However,
+this type of cement has the limitations of a reduced working time and the tendency to
+discolorize due to the high concentration of tertiary amines, which are the polymerization
+activators [86]. Therefore, in cases where there is a high aesthetic demand such as laminate
+veneers, a light-cured cement is the best material of choice [87,88].
+
+Dent. J. 2022, 10, 208
+
+8 of 16
+
+On the other hand, dual-cured resin cement combines both of the curing modes and
+has the gain of an increased versatility in its clinical usage. The system contains a catalyst
+paste with a chemical initiator (benzoyl peroxide) and a base paste with the light-cured
+resin cement and a tertiary amine [89]. When it is mixed and light-cured, a polymerization
+reaction occurs by photo and chemical activation. Although the dual-cured cement appears
+to be the safest choice to ensure sufﬁcient polymerization, the degree of the cure without
+light activation can be as low as 10.82% [90]. An insufﬁcient light exposure under 4 mm
+thick ceramic restorations can result in a degree of cure that is even lower than that of the
+self-cure alone [91]. There have also been studies suggesting extending the light curing to
+120s to beneﬁt the degree of conversion and achieve better mechanical strengths [92,93].
+Therefore, clinicians should choose the appropriate class of resin cement according to the
+material and thickness of the restoration to achieve the best outcome. Generally, for ceramic
+restorations that are thinner than 2.0 mm, light-cured and dual-cured cement produces a
+better result than self-cured cement does [94].
+
+In general, conventional resin cements are widely indicated for cementing aesthetic
+all-ceramic and indirect-resin restorations and veneers. The cementation of metal and
+metal-ceramic restorations with compromised retention and resistance forms, such as
+resin-bonded bridges and short crowns, and post-cementation in root-treated teeth are also
+possible indications [2]. Regarding the disadvantages of conventional resin cement, the
+cost is high, there is a sensitivity to the technique, it is time-consuming, and it is difﬁcult
+to remove the excess cement. Therefore, it is contraindicated in cementing prefabricated
+crowns, especially in pediatric patients [51].
+
+4.5.2. Self-Adhesive Resin Cements
+
+Self-adhesive resin cement is a type of resin cement that can adhere to the tooth
+structures without a separate adhesive and etchant [95]. The ﬁrst commercial product was
+developed in the early 2000s to simplify the clinical steps of the application. The major
+constituents of the self-adhesive resin cement include functional acidic monomers (e.g., 10-
+methacryloyloxydecyl dihydrogen phosphate), conventional dimethacrylate monomers
+(e.g., Bis-GMA), ﬁllers and activator-initiator systems [87]. Similar to self-etching adhesive
+systems, the functional acidic monomers create a low pH and high hydrophilicity during
+the initial setting reaction. This gives the material the ability to wet and etch the tooth
+surface to facilitate a homogenous inﬁltration of the adhesive resin [96]. As the reaction
+proceeds, the acidic functional groups react with the calcium in the dental tissues and a
+range of metal oxides from ion-leachable inorganic ﬁllers, resulting in a gradually increased
+pH and hydrophobicity [97].
+
+Self-adhesive resin cement has the clinical advantage of triggering less postoperative
+sensitivity when it is compared to RMGIC and GIC [98,99]. However, the adhesive perfor-
+mance and bond strengths to both the enamel and dentine of self-adhesive resin cements
+are lower than those of conventional multi-step resin cements [100,101]. Although a 2-year
+study showed that self-adhesive resin cement had similar clinical outcomes to those of
+the multistep conventional resin cements [102], another 5-year prospective clinical study
+reported that total-etch resin cement showed a better performance in terms of marginal
+discoloration and adaptation after the recall [103]. When it is compared to conventional
+resin cement, the self-adhesive resin cement does not have a separate phosphoric acid
+etching property in enamel for the wetting effect and creation of microporosities. They
+only rely on the acidic functional monomers for bonding, which are generally weaker
+than the conventional etchant is [87]. Moreover, following a tooth preparation by rotary
+instruments, the enamel and dentine are covered with an acid-soluble smear layer [104].
+Because there is no etch-and-rinse procedure before the application, the smear layer is
+not removed. Although self-adhesive resin cements can interact with the smear layer to
+reinforce the smear plugs, these structures are micromechanically weaker than the resin
+tags are and thus, provide a lower bond strength to the dentine [105].
+
+Dent. J. 2022, 10, 208
+
+9 of 16
+
+Self-adhesive resin cements provide an improved ease of application than the conven-
+tional resin cements can, and they can be used in cementing a variety of indirect restorations.
+However, because the bond strength is lower than that of the conventional resin cement, it
+is not recommended to use self-adhesive resin cement to cement restorations with reduced
+retention and resistance forms, such as resin-bonded bridges and crowns with insufﬁcient
+heights. Moreover, due to weaker enamel bonding and a greater incidence of discoloration,
+it is unsuitable to cement veneers as well [87].
+
+5. New Development of Luting Cements
+5.1. Modiﬁcations on Currently Available Luting Cements
+5.1.1. Modiﬁcations on Glass Ionomer Cement
+
+Nanotechnology has been incorporated into the development of GIC to improve its
+mechanical and physical properties [106]. Nano-modiﬁcations of GIC can be achieved
+by either reducing the size of the glass particles or the addition of nano-sized ﬁllers
+or bioceramics to gain the potential beneﬁts of an increased mechanical strength and
+bioactivity [107,108]. Because it was suggested that resizing the glass particles in GIC to
+nanoscales does not signiﬁcantly improve the physical properties of the cement [109], the
+focus of recent developments has been shifted to the incorporation of nano-sized ﬁllers
+or the addition of nano-hydroxyapatite crystals as ﬁllers. Hydroxyapatite is a naturally
+occurring form of the mineral calcium apatite (calcium, phosphorus and oxygen) and is one
+of the major compositions of bone, enamel and dentine [110]. The research has shown that
+GIC that is modiﬁed by nano-hydroxyapatite has an increased mechanical strength [111]
+and bond strength to dentine [112]. Moreover, the addition of hydroxyapatite to GIC
+powder can increase the crystallinity of the set GIC, thereby improving the chemical stability
+and water insolubility of it [112,113]. Studies have also found that nano-hydroxyapatite-
+modiﬁed GIC not only has a higher compatibility than conventional GIC does, but also a
+greater release of ﬂuoride ions [114,115].
+
+Another modiﬁcation is the addition of calcium sodium phosphosilicate bioactive
+glass to GIC. In 1969, Hench introduced the original phosphosilicate bioactive glass as 45S5
+Bioglass with a speciﬁc chemical composition and weight percentages of silica dioxide,
+calcium oxide, sodium oxide and phosphorus pentoxide [56,116]. Although the addition of
+the phosphosilicate bioactive glass to GIC increased the remineralization, the mechanical
+strength of the material was found to be compromised [117–119]. In a recent development,
+bioactive glass nanoparticles have been used to modify GIC instead of the conventional
+micro-sized ones. Bioactive glass nanoparticles carry the advantages of phosphosilicate
+bioactive glass, but with increased compressive, tensile and ﬂexural strengths [120]. How-
+ever, the long-term effects that they have on the human body are unknown, and further
+studies are still needed before their clinical application in dentistry.
+
+5.1.2. Modiﬁcations on Resin Cement
+
+The recent development of resin cement has been made to enhance its anticariogenic
+capacity [121]. Despite it being the most widely used luting cements in modern dentistry,
+resin cement has no antibacterial effect. It cannot prevent recurrent caries, which is one of
+the main reasons for the failure of the restorations [122]. The modiﬁcations of resin cement
+include the addition of antimicrobial compounds, such as silver nanoparticles, quaternary
+ammonium polyethyleneimine nanoparticles, cetylpyridinium chloride modiﬁed montmo-
+rillonite and chlorhexidine diacetate and ursolic acid [123–127]. Efforts have been made to
+determine the ideal concentrations of these compounds without adversely affecting the
+mechanical properties of the resin, while also retaining their antibacterial abilities [124].
+
+Some novel developments of resin cements have been made to introduce “self-healing”
+capacities for the dental resin to resist cracks and fractures. This is achieved by em-
+bedding microcapsules with an external shell and healing liquid into the composite
+material [128,129]. When cracking occurs in the polymer, the microcapsules rupture and re-
+lease the healing liquid into the crack planes. This exposes them to the catalysts in the poly-
+
+Dent. J. 2022, 10, 208
+
+10 of 16
+
+mer matrix, and consequently, the patient undergoes polymerization to ﬁll the crack [129].
+A recent development on resin composites using triethylene glycol dimethacrylate-N and
+N-dihydroxyethyl-p-toluidine healing liquid in poly(urea-formaldehyde) shells successfully
+exhibited a substantial self-healing capability in terms of the virgin fracture toughness [130].
+Another direction to modify the resin cement was to enhance the polymerization of the
+resin monomers because the mechanical properties and bond strengths of the resin cement
+are affected by the polymerization of the resin monomers. Because the acidic functional
+monomers inhibit free radical formation by the traditional benzoyl periodize/tertiary amine
+initiators, researchers have developed the process of chemically curing the co-initiators to
+achieve a more efﬁcient curing [131]. Another approach to enhance the polymerization of
+the resin cement is known as “touch curing” or “contact curing” [132]. In this system, a
+proprietary non-tertiary amine accelerator is present in the primer, which accelerates the
+curing when it is in contact with the cement [133].
+
+5.1.3. Restorative Composite Resin as an Alternative Luting Material
+
+Recently, there have been studies looking into the possibility of using restorative com-
+posite resin as an alternative luting material due to it having a lower cost, better strength
+properties, lower marginal deterioration, and greater range of shade selections [134]. As a
+restorative material, composite resin differs from resin cements by having a higher percent-
+age of ﬁller particles, resulting in it having a higher viscosity, greater ﬁlm thickness and
+lower ﬂowability [135]. To solve these problems, preheating and ultrasonic vibration tech-
+niques were tested to reduce the ﬁlm thickness and viscosity [136]. Both of the techniques
+were shown to be effective in reducing the ﬁlm thickness of the material. However, not all
+of the tested composite resins after preheating and ultrasonic vibration were able to reach a
+ﬁlm thickness of less than 50 µm [134], which is speciﬁed in ISO standard 4049:2019 [137].
+When a thin ﬁlm thickness and a high viscosity cannot be achieved, the fracture resistance
+of the restoration and marginal adaptation will be drastically jeopardized [138–140]. Hence,
+other modiﬁcation techniques should be studied in the future before the composite resin
+can be modiﬁed to be a luting agent.
+
+5.2. Development of Novel Luting Materials—Castor Oil Polyurethane Cement
+
+Castor oil polyurethane is a biomaterial with great biocompatibility, and it is easy to
+handle. It is extracted from a plant called Ricinus communis, which is abundantly found
+in Brazil [141]. Due to its large commercial availability, it is expected to be a prospective
+versatile dental material with a reduced cost, and it is highly sustainable. As castor oil
+polyurethane has good biocompatibility properties, osteo-inductive properties and antimi-
+crobial abilities, it has great potential to be developed as a versatile dental material. Some
+studies have tested its use as a luting cement [141–143]. The luting material was presented
+as a two-part system with calcium carbonate ﬁllers [142]. Although the ﬂexural strength of
+castor oil polyurethane was only 25% of that of adhesive resin cement, it is comparable to
+the conventional cements such as zinc phosphate and GIC [143]. Modiﬁcations of castor oil
+polyurethane with the addition of different ﬁllers to enhance its mechanical strength could
+be the direction of its future development.
+
+6. Summary
+
+Luting material aids in the retention and stability of indirect restorations. The com-
+mon luting materials include zinc oxide eugenol and non-eugenol, zinc phosphate, zinc
+polycarboxylate, GIC, RMGIC, resin cement and hybrid CaAl/GI. Each of them possesses
+unique properties and clinical implications. Because none of the currently available luting
+materials can fulﬁl all of the clinical applications, researchers are modifying GIC and resin
+cements with various technologies and developing novel luting materials, such as castor
+oil polyurethane cements, to meet various clinical requirements.
+
+Dent. J. 2022, 10, 208
+
+11 of 16
+
+Author Contributions: Conceptualization, C.-H.C. and O.Y.Y.; writing—original draft preparation,
+G.K.-H.L. and O.Y.Y.; analysis, G.K.-H.L.; writing—review and editing, A.W.-Y.W., C.-H.C. and O.Y.Y.
+All authors have read and agreed to the published version of the manuscript.
+
+Funding: This research received no external funding.
+
+Institutional Review Board Statement: Not applicable.
+
+Informed Consent Statement: Not applicable.
+
+Data Availability Statement: Not applicable.
+
+Conﬂicts of Interest: The authors declare no conﬂict of interest.
+
+References
+
+1.
+
+2.
+3.
+
+Driscoll, C.F.; Freilich, M.A.; Guckes, A.D.; Knoernschild, K.L.; Mcgarry, T.J.; Goldstein, G.; Goodacre, C.; Guckes, A.; Mor, S.;
+Rosenstiel, S.; et al. The glossary of prosthodontic terms: Ninth edition. J. Prosthet. Dent. 2017, 117, e1–e105. [CrossRef]
+Hill, E.E.; Lott, J. A clinically focused discussion of luting materials. Aust. Dent. J. 2011, 56 (Suppl. 1), 67–76. [CrossRef] [PubMed]
+Segarra, M.; Segarra, A. The evolution of cements for indirect restorations from luting to bonding. In A Practical Clinical Guide to
+Resin Cements; Springer: Berlin/Heidelberg, Germany, 2015; pp. 3–7.
+
+4. Wingo, K. A review of dental cements. J. Vet. Dent. 2018, 35, 18–27. [CrossRef]
+5.
+
+Hill, E.E. Dental cements for deﬁnitive luting: A review and practical clinical considerations. Dent. Clin. N. Am. 2007, 51, 643–658.
+[CrossRef] [PubMed]
+Sakaguchi, R.L.; Powers, J.M. Craig’s Restorative Dental Materials; Elsevier: St Louis, MO, USA, 2011.
+Lööf, J.; Svahn, F.; Jarmar, T.; Engqvist, H.; Pameijer, C.H. A comparative study of the bioactivity of three materials for dental
+applications. Dent. Mater. 2008, 24, 653–659. [CrossRef]
+Pameijer, C.H. A review of luting agents. Int. J. Dent. 2012, 2012, 752861. [CrossRef] [PubMed]
+Acharya, R.P.; Morgano, S.M.; Luke, A.C.; Ehrenberg, D.; Weiner, S. Retentive strength and marginal discrepancies of a ceramic-
+reinforced calcium phosphate luting agent: An in vitro pilot study. J. Prosthet. Dent. 2018, 120, 771–779. [CrossRef]
+
+6.
+7.
+
+8.
+9.
+
+10. Craig, R.G. Restorative Dental Materials, 8th ed.; Mosby: St. Louis, MO, USA, 1989.
+11. Wassell, R.W.; St. George, G.; Ingledew, R.P.; Steele, J.G. Crowns and other extra-coronal restorations: Provisional restorations. Br.
+
+Dent. J. 2002, 192, 619–630. [CrossRef]
+
+12. Rosenstiel, S.F.; Land, M.F.; Crispin, B.J. Dental luting agents: A review of the current literature. J. Prosthet. Dent. 1998, 80, 280–301.
+
+[CrossRef]
+Stephen, F.R.; Martin, F.L.; Junhei, F. Contemporary Fixed Prosthodontics—E-Book, 4th ed.; Mosby: St. Louis, MO, USA, 2006.
+Sakaguchi, R.L.; Ferracane, J.L.; Powers, J.M. Craig’s Restorative Dental Materials, 14th ed.; Elsevier: St. Louis, MO, USA, 2019.
+
+13.
+14.
+15. Ribeiro, J.C.; Coelho, P.G.; Janal, M.N.; Silva, N.R.; Monteiro, A.J.; Fernandes, C.A. The inﬂuence of temporary cements on dental
+
+16.
+
+adhesive systems for luting cementation. J. Dent. 2011, 39, 255–262. [CrossRef]
+Sabouhi, M.; Nosouhian, S.; Davoudi, A.; Nourbakhshian, F.; Badrian, H.; Nabe, F.N. The effect of eugenol-free temporary
+cement’s remnants on retention of full metal crowns: Comparative study. J. Contemp. Dent. Pract. 2013, 14, 473–477. [CrossRef]
+17. Kanakuri, K.; Kawamoto, Y.; Matsumura, H. Inﬂuence of temporary cement remnant and surface cleaning method on bond
+
+strength to dentin of a composite luting system. J. Oral Sci. 2005, 47, 9–13. [CrossRef] [PubMed]
+
+18. Markowitz, K.; Moynihan, M.; Liu, M.; Kim, S. Biologic properties of eugenol and zinc oxide-eugenol. A clinically oriented
+
+review. Oral Surg. Oral Med. Oral Pathol. 1992, 73, 729–737. [CrossRef]
+
+19. Kwon, J.S.; Illeperuma, R.P.; Kim, J.; Kim, K.M.; Kim, K.N. Cytotoxicity evaluation of zinc oxide-eugenol and non-eugenol
+
+20.
+
+cements using different ﬁbroblast cell lines. Acta Odontol. Scand. 2014, 72, 64–70. [CrossRef] [PubMed]
+Jefferies, S.; Lööf, J.; Pameijer, C.H.; Boston, D.; Galbraith, C.; Hermansson, L. Physical properties and comparative strength of a
+bioactive luting cement. Compend. Contin. Educ. Dent. 2013, 34, 8–14.
+
+21. Li a, Z.C.; White, S.N. Mechanical properties of dental luting cements. J. Prosthet. Dent. 1999, 81, 597–609. [CrossRef]
+22.
+
+Saskalauskaite, E.; Tam, L.E.; McComb, D. Flexural strength, elastic modulus, and pH proﬁle of self-etch resin luting cements.
+J. Prosthodont. 2008, 17, 262–268. [CrossRef]
+
+23. Prylinska-Czyzewska, A.; Piotrowski, P.; Prylinski, M.; Dorocka-Bobkowska, B. Various cements and their effects on bond
+
+strength of zirconia ceramic to enamel and dentin. Int. J. Prosthodont. 2015, 28, 279–281. [CrossRef]
+
+24. Nanavati, K.; Katge, F.; Chimata, V.K.; Pradhan, D.; Kamble, A.; Patil, D. Comparative evaluation of shear bond strength of
+bioactive restorative material, zirconia reinforced glass ionomer cement and conventional glass ionomer cement to the dentinal
+surface of primary molars: An in vitro study. J. Dent. (Shiraz) 2021, 22, 260–266. [CrossRef]
+
+25. Ebadian, B.; Fathi, A.; Savoj, M. In Vitro evaluation of the effect of different luting cements and tooth preparation angle on the
+
+microleakage of zirconia crowns. Int. J. Dent. 2021, 2021, 8461579. [CrossRef]
+
+26. Pameijer, C.H.; Zmener, O.; Alvarez Serrano, S.; Garcia-Godoy, F. Sealing properties of a calcium aluminate luting agent. Am. J.
+
+Dent. 2010, 23, 121–124.
+
+Dent. J. 2022, 10, 208
+
+12 of 16
+
+27. Al-Saleh, S.; Aboghosh, T.W.; Hazazi, M.S.; Binsaeed, K.A.; Almuhaisen, A.M.; Tulbah, H.I.; Al-Qahtani, A.S.; Shabib, S.; Binhasan,
+M.; Vohra, F.; et al. Polymer-based bioactive luting agents for cementation of all-ceramic crowns: An SEM, EDX, microleakage,
+fracture strength, and color stability study. Polymers 2021, 13, 4227. [CrossRef] [PubMed]
+Sulaiman, T.A.; Abdulmajeed, A.A.; Altitinchi, A.; Ahmed, S.N.; Donovan, T.E. Physical properties, ﬁlm thickness, and bond
+strengths of resin-modiﬁed glass ionomer cements according to their delivery method. J. Prosthodont. 2019, 28, 85–90. [CrossRef]
+[PubMed]
+
+28.
+
+29. Kumar, M.P.; Priyadarshini, R.; Kumar, Y.M.; Priya, K.S.; Chunchuvyshnavi, C.; Yerrapragada, H. Effect of temperature on ﬁlm
+thickness of two types of commonly used luting cements. J. Contemp. Dent. Pract. 2017, 18, 1159–1163. [CrossRef] [PubMed]
+30. Bagheri, R. Film thickness and ﬂow properties of resin-based cements at different temperatures. J. Dent. (Shiraz) 2013, 14, 57–63.
+31. Kious, A.R.; Roberts, H.W.; Brackett, W.W. Film thicknesses of recently introduced luting cements. J. Prosthet. Dent. 2009, 101,
+
+189–192. [CrossRef]
+
+32. DeTrey Zinc Directions for Use. Available online: http://www.dentsply.de/bausteine.net/ﬁle/showﬁle.aspx?downdaid=7695
+
+&sp=D&domid=1042&fd=2 (accessed on 4 August 2022).
+
+33. Technical Product Proﬁle Ketac Cem. Available online: https://multimedia.3m.com/mws/media/157473O/3m-ketac-cem-
+
+glass-ionomer-cement-technical-product-proﬁle.pdf (accessed on 4 August 2022).
+
+34. GC Fuji Plus Instructions for Use. Available online: https://www.gcamerica.com/products/operatory/GC_Fuji_PLUS/GC_
+
+Fuji_PLUS_10IFU.pdf (accessed on 5 August 2022).
+
+35. Chiluka, L.; Shastry, Y.M.; Gupta, N.; Reddy, K.M.; Prashanth, N.B.; Sravanthi, K. An in vitro study to evaluate the effect of
+eugenol-free and eugenol-containing temporary cements on the bond strength of resin cement and considering time as a factor.
+J. Int. Soc. Prev. Community Dent. 2017, 7, 202–207. [CrossRef]
+
+36. Abo-Hamar, S.E.; Federlin, M.; Hiller, K.A.; Friedl, K.H.; Schmalz, G. Effect of temporary cements on the bond strength of ceramic
+
+luted to dentin. Dent. Mater. 2005, 21, 794–803. [CrossRef]
+
+37. Peutzfeldt, A.; Asmussen, E. Inﬂuence of eugenol-containing temporary cement on bonding of self-etching adhesives to dentin.
+
+J. Adhes. Dent. 2006, 8, 31–34.
+
+38. Ajaj, R.A.; Al-Mutairi, S.; Ghandoura, S. Effect of eugenol on bond strength of adhesive resin: A systematic review. OHDM 2014,
+
+13, 950–958.
+
+39. Hotz, P.; Schlatter, D.; Lussi, A. The modiﬁcation of the polymerization of composite materials by eugenol-containing temporary
+
+ﬁllings. Schweiz. Monatsschr. Zahnmed. 1992, 102, 1461–1466. [PubMed]
+
+40. Horiuchi, S.; Asaoka, K.; Tanaka, E. Development of a novel cement by conversion of hopeite in set zinc phosphate cement into
+
+biocompatible apatite. Bio-Med. Mater. Eng. 2009, 19, 121–131. [CrossRef]
+
+41. Wagh, A.S. Chemically Bonded Phosphate Ceramics: Twenty-First Century Materials with Diverse Applications; Elsevier Science &
+
+Technology: Amsterdam, The Neterlands, 2004.
+
+42. Rosenstiel, S.F. Contemporary Fixed Prosthodontics, 2nd ed.; Mosby: St. Louis, MO, USA, 1994.
+43. Habib, B.; von Fraunhofer, J.A.; Driscoll, C.F. Comparison of two luting agents used for the retention of cast dowel and cores.
+
+J. Prosthodont. 2005, 14, 164–169. [CrossRef] [PubMed]
+Sunico-Segarra, M.; Segarra, A. A Practical Clinical Guide to Resin Cements, 2015 ed.; Springer: Berlin/Heidelberg, Germany, 2015.
+44.
+45. Masaka, N.; Yoneda, S.; Masaka, K. An up to 43-year longitudinal study of ﬁxed prosthetic restorations retained with 4-
+
+META/MMA-TBB resin cement or zinc phosphate cement. J. Prosthet. Dent. 2021. [CrossRef]
+Smith, D.C. A new dental cement. Br. Dent. J. 1968, 124, 381–384. [PubMed]
+
+46.
+47. Ruse, N.D. What is a “compomer”? J. Can. Dent. Assoc. 1999, 65, 500–504. [PubMed]
+48. Wilson, A.D.; Prosser, H.J.; Powis, D.M. Mechanism of adhesion of polyelectrolyte cements to hydroxyapatite. J. Dent. Res. 1983,
+
+62, 590–592. [CrossRef]
+
+49. Emmott, R. Dental materials: Properties and manipulation, 9th edition. Br. Dent. J. 2011, 211, 48. [CrossRef]
+50. Wilson, A.D. Acid-Base Cements: Their Biomedical and Industrial Applications; Cambridge University Press: Cambridge, UK, 2005.
+51. Berg, J.H.; Croll, T.P. Glass ionomer restorative cement systems: An update. Pediatr. Dent. 2015, 37, 116–124.
+52.
+
+Frankenberger, R.; Sindel, J.; Krämer, N. Viscous glass-ionomer cements: A new alternative to amalgam in the primary dentition?
+Quintessence Int. 1997, 28, 667–676.
+
+53. Crisp, S.; Wilson, A.D. Reactions in glass ionomer cements: V. Effect of incorporating tartaric acid in the cement liquid. J. Dent.
+
+Res. 1976, 55, 1023–1031. [CrossRef]
+
+54. Park, E.Y.; Kang, S. Current aspects and prospects of glass ionomer cements for clinical dentistry. Yeungnam Univ. J. Med. 2020, 37,
+
+169–178. [CrossRef] [PubMed]
+
+55. Benelli, E.M.; Serra, M.C.; Rodrigues, A.L., Jr.; Cury, J.A. In situ anticariogenic potential of glass ionomer cement. Caries Res. 1993,
+
+27, 280–284. [CrossRef] [PubMed]
+
+56. Khoroushi, M.; Keshani, F. A review of glass-ionomers: From conventional glass-ionomer to bioactive glass-ionomer. Dent. Res. J.
+
+(Isfahan) 2013, 10, 411–420.
+
+57. Cho, S.Y.; Cheng, A.C. A review of glass ionomer restorations in the primary dentition. J. Can. Dent. Assoc. 1999, 65, 491–495.
+
+[PubMed]
+
+58. Bebermeyer, R.D.; Berg, J.H. Comparison of patient-perceived postcementation sensitivity with glass-ionomer and zinc phosphate
+
+cements. Quintessence Int. 1994, 25, 209–214. [PubMed]
+
+Dent. J. 2022, 10, 208
+
+13 of 16
+
+59.
+
+Johnson, G.H.; Powell, L.V.; DeRouen, T.A. Evaluation and control of post-cementation pulpal sensitivity: Zinc phosphate and
+glass ionomer luting cements. J. Am. Dent. Assoc. 1993, 124, 38–46. [CrossRef]
+
+60. Attar, N.; Tam, L.E.; McComb, D. Mechanical and physical properties of contemporary dental luting agents. J. Prosthet. Dent.
+
+2003, 89, 127–134. [CrossRef]
+
+61. McLean, J.W.; Nicholson, J.W.; Wilson, A.D. Proposed nomenclature for glass-ionomer dental cements and related materials.
+
+Quintessence Int. 1994, 25, 587–589.
+
+62. Coutinho, E.; Yoshida, Y.; Inoue, S.; Fukuda, R.; Snauwaert, J.; Nakayama, Y.; De Munck, J.; Lambrechts, P.; Suzuki, K.; Van
+
+Meerbeek, B. Gel phase formation at resin-modiﬁed glass-ionomer/tooth interfaces. J. Dent. Res. 2007, 86, 656–661. [CrossRef]
+
+63. Mitchell, C.A.; Douglas, W.H.; Cheng, Y.S. Fracture toughness of conventional, resin-modiﬁed glass-ionomer and composite
+
+luting cements. Dent. Mater. 1999, 15, 7–13. [CrossRef]
+
+64. Attar, N.; Turgut, M.D. Fluoride release and uptake capacities of ﬂuoride-releasing restorative materials. Oper. Dent. 2003, 28,
+
+395–402. [PubMed]
+
+65. De Araujo, F.B.; García-Godoy, F.; Cury, J.A.; Conceição, E.N. Fluoride release from ﬂuoride-containing materials. Oper. Dent.
+
+1996, 21, 185–190. [PubMed]
+
+66. Robertello, F.J.; Coffey, J.P.; Lynde, T.A.; King, P.; Robertello, F.J.; Coffey, J.P.; Lynde, T.A.; King, P. Fluoride release of glass
+
+ionomer–based luting cements in vitro. J. Prosthet. Dent. 1999, 82, 172–176. [CrossRef]
+
+67. Mitra, S.B. In vitro ﬂuoride release from a light-cured glass-ionomer liner/base. J. Dent. Res. 1991, 70, 75–78. [CrossRef]
+68. Lan, W.H.; Lan, W.C.; Wang, T.M.; Lee, Y.L.; Tseng, W.Y.; Lin, C.P.; Jeng, J.H.; Chang, M.C. Cytotoxicity of conventional and
+
+69.
+
+modiﬁed glass ionomer cements. Oper. Dent. 2003, 28, 251–259.
+Selimovi´c-Dragaš, M.; Huseinbegovi´c, A.; Kobašlija, S.; Hatibovi´c-Kofman, S. A comparison of the in vitro cytotoxicity of
+conventional and resin modiﬁed glass ionomer cements. Bosn. J. Basic Med. Sci. 2012, 12, 273–278. [CrossRef]
+
+70. Kan, K.C.; Messer, L.B.; Messer, H.H. Variability in cytotoxicity and ﬂuoride release of resin-modiﬁed glass-ionomer cements.
+
+J. Dent. Res. 1997, 76, 1502–1507. [CrossRef]
+
+71. Nicholson, J.W.; Czarnecka, B. The biocompatibility of resin-modiﬁed glass-ionomer cements for dentistry. Dent. Mater. 2008, 24,
+
+72.
+
+73.
+
+1702–1708. [CrossRef]
+Jefferies, S.R.; Appleby, D.; Boston, D.; Pameijer, C.H.; Lööf, J. Clinical performance of a bioactive dental luting cement—A
+prospective clinical pilot study. J. Clin. Dent. 2009, 20, 231–237.
+Jefferies, S.R.; Pameijer, C.H.; Appleby, D.C.; Boston, D.; Galbraith, C.; Lööf, J.; Glantz, P.O. Prospective observation of a new
+bioactive luting cement: 2-year follow-up. J. Prosthodont. 2012, 21, 33–41. [CrossRef] [PubMed]
+
+74. Unosson, E.; Cai, Y.; Jiang, X.; Lööf, J.; Welch, K.; Engqvist, H. Antibacterial properties of dental luting agents: Potential to hinder
+
+75.
+
+76.
+
+the development of secondary caries. Int. J. Dent. 2012, 2012, 529495. [CrossRef] [PubMed]
+Jefferies, S.R.; Pameijer, C.H.; Appleby, D.C.; Boston, D.; Lööf, J. A bioactive dental luting cement–its retentive properties and
+3-year clinical ﬁndings. Compend. Contin. Educ. Dent. 2013, 34, 2–9. [PubMed]
+Jefferies, S.R.; Pameijer, C.H.; Appleby, D.; Boston, D.; Lööf, J.; Glantz, P.O. One year clinical performance and post-operative
+sensitivity of a bioactive dental luting cement–a prospective clinical study. Swed. Dent. J. 2009, 33, 193–199.
+
+77. Dursun, E.; Wiechmann, D.; Attal, J.P. The effect of moisture on the shear bond strength of gold alloy rods bonded to enamel with
+
+78.
+
+a self-adhesive and a hydrophobic resin cement. Eur. J. Orthod. 2010, 32, 264–267. [CrossRef]
+Scotti, N.; Cavalli, G.; Gagliani, M.; Breschi, L. New adhesives and bonding techniques. Why and when? Int. J. Esthet. Dent. 2017,
+12, 524–535.
+
+79. Burgess, J.O.; Ghuman, T.; Cakir, D. Self-adhesive resin cements. J. Esthet. Restor. Dent. 2010, 22, 412–419. [CrossRef]
+80. Yousaf, A.; Aman, N.; Manzoor, M.A.; Shah, J.A.; Dilrasheed. Postoperative sensitivity of self etch versus total etch adhesive.
+
+J. Coll. Physicians Surg. Pak. 2014, 24, 383–386.
+
+81. Rosa, W.L.; Piva, E.; Silva, A.F. Bond strength of universal adhesives: A systematic review and meta-analysis. J. Dent. 2015, 43,
+
+765–776. [CrossRef]
+
+82. Maravic, T.; Mazzoni, A.; Comba, A.; Scotti, N.; Checchi, V.; Breschi, L. How stable is dentin as a substrate for bonding? Curr.
+
+Oral Health Rep. 2017, 4, 248–257. [CrossRef]
+
+83. Muñoz, M.A.; Luque, I.; Hass, V.; Reis, A.; Loguercio, A.D.; Bombarda, N.H.C. Immediate bonding properties of universal
+
+adhesives to dentine. J. Dent. 2013, 41, 404–411. [CrossRef] [PubMed]
+
+84. De Souza, G.; Braga, R.R.; Cesar, P.F.; Lopes, G.C. Correlation between clinical performance and degree of conversion of resin
+
+85.
+
+86.
+
+cements: A literature review. J. Appl. Oral Sci. 2015, 23, 358–368. [CrossRef] [PubMed]
+Svizero Nda, R.; Silva, M.S.; Alonso, R.C.; Rodrigues, F.P.; Hipólito, V.D.; Carvalho, R.M.; D’Alpino, P.H. Effects of curing
+protocols on ﬂuid kinetics and hardness of resin cements. Dent. Mater. J. 2013, 32, 32–41. [CrossRef] [PubMed]
+Ferracane, J.L.; Moser, J.B.; Greener, E.H. Ultraviolet light-induced yellowing of dental restorative resins. J. Prosthet. Dent. 1985,
+54, 483–487. [CrossRef]
+
+87. Manso, A.P.; Carvalho, R.M. Dental cements for luting and bonding restorations: Self-adhesive resin cements. Dent. Clin. N. Am.
+
+2017, 61, 821–834. [CrossRef]
+
+88. Kilinc, E.; Antonson, S.A.; Hardigan, P.C.; Kesercioglu, A. Resin cement color stability and its inﬂuence on the ﬁnal shade of
+
+all-ceramics. J. Dent. 2011, 39 (Suppl. 1), e30–e36. [CrossRef]
+
+Dent. J. 2022, 10, 208
+
+14 of 16
+
+89. Pick, B.; Gonzaga, C.C.; Junior, W.S.; Kawano, Y.; Braga, R.R.; Cardoso, P.E. Inﬂuence of curing light attenuation caused by
+
+aesthetic indirect restorative materials on resin cement polymerization. Eur. J. Dent. 2010, 4, 314–323. [CrossRef]
+
+90. Vrochari, A.D.; Eliades, G.; Hellwig, E.; Wrbas, K.T. Curing efﬁciency of four self-etching, self-adhesive resin cements. Dent.
+
+91.
+
+Mater. 2009, 25, 1104–1108. [CrossRef]
+Jang, Y.; Ferracane, J.L.; Pfeifer, C.S.; Park, J.W.; Shin, Y.; Roh, B.D. Effect of insufﬁcient light exposure on polymerization kinetics
+of conventional and self-adhesive dual-cure resin cements. Oper. Dent. 2017, 42, e1–e9. [CrossRef]
+
+92. Alovisi, M.; Scotti, N.; Comba, A.; Manzon, E.; Farina, E.; Pasqualini, D.; Michelotto Tempesta, R.; Breschi, L.; Cadenaro, M.
+Inﬂuence of polymerization time on properties of dual-curing cements in combination with high translucency monolithic zirconia.
+J. Prosthodont. Res. 2018, 62, 468–472. [CrossRef]
+Serino, G.; Comba, A.; Baldi, A.; Carossa, M.; Baldissara, P.; Bignardi, C.; Audenino, A.; Torres, C.G.R.; Scotti, N. Could light-
+curing time, post-space region and cyclic fatigue affect the nanomechanical behavior of a dual-curing cement for ﬁber post luting?
+J. Mech. Behav. Biomed. Mater. 2022, 125, 104886. [CrossRef] [PubMed]
+
+93.
+
+94. Akgungor, G.; Akkayan, B.; Gaucher, H. Inﬂuence of ceramic thickness and polymerization mode of a resin luting agent on early
+bond strength and durability with a lithium disilicate-based ceramic system. J. Prosthet. Dent. 2005, 94, 234–241. [CrossRef]
+[PubMed]
+Ferracane, J.L.; Stansbury, J.W.; Burke, F.J. Self-adhesive resin cements—Chemistry, properties and clinical considerations. J. Oral
+Rehabil. 2011, 38, 295–314. [CrossRef] [PubMed]
+
+95.
+
+96. Amin, F.; Fareed, M.A.; Zafar, M.S.; Khurshid, Z.; Palma, P.J.; Kumar, N. Degradation and stabilization of resin-dentine interfaces
+
+in polymeric dental adhesives: An updated review. Coatings 2022, 12, 1094. [CrossRef]
+
+97. Roedel, L.; Bednarzig, V.; Belli, R.; Petschelt, A.; Lohbauer, U.; Zorzin, J. Self-adhesive resin cements: pH-neutralization,
+
+hydrophilicity, and hygroscopic expansion stress. Clin. Oral Investig. 2017, 21, 1735–1741. [CrossRef]
+
+98. Blatz, M.B.; Mante, F.K.; Saleh, N.; Atlas, A.M.; Mannan, S.; Ozer, F. Postoperative tooth sensitivity with a new self-adhesive resin
+
+99.
+
+cement–a randomized clinical trial. Clin. Oral Investig. 2013, 17, 793–798. [CrossRef]
+Shetty, R.M.; Bhat, S.; Mehta, D.; Srivatsa, G.; Shetty, Y.B. Comparative analysis of postcementation hypersensitivity with glass
+ionomer cement and a resin cement: An in vivo study. J. Contemp. Dent. Pract. 2012, 13, 327–331. [CrossRef]
+
+100. Miotti, L.L.; Follak, A.C.; Montagner, A.F.; Pozzobon, R.T.; da Silveira, B.L.; Susin, A.H. Is conventional resin cement adhesive
+performance to dentin better than self-adhesive? A systematic review and meta-analysis of laboratory studies. Oper. Dent. 2020,
+45, 484–495. [CrossRef]
+
+101. Lührs, A.K.; Guhr, S.; Günay, H.; Geurtsen, W. Shear bond strength of self-adhesive resins compared to resin cements with etch
+
+and rinse adhesives to enamel and dentin in vitro. Clin. Oral Investig. 2010, 14, 193–199. [CrossRef]
+
+102. Taschner, M.; Krämer, N.; Lohbauer, U.; Pelka, M.; Breschi, L.; Petschelt, A.; Frankenberger, R. Leucite-reinforced glass ceramic
+
+inlays luted with self-adhesive resin cement: A 2-year in vivo study. Dent. Mater. 2012, 28, 535–540. [CrossRef]
+
+103. Eltoukhy, R.I.; Elkaffas, A.A.; Ali, A.I.; Mahmoud, S.H. Indirect resin composite inlays cemented with a self-adhesive, self-etch
+or a conventional resin cement luting agent: A 5 years prospective clinical evaluation. J. Dent. 2021, 112, 103740. [CrossRef]
+[PubMed]
+
+104. Brännström, M.; Johnson, G. Effects of various conditioners and cleaning agents on prepared dentin surfaces: A scanning electron
+
+microscopic investigation. J. Prosthet. Dent. 1974, 31, 422–430. [CrossRef]
+
+105. Scholz, K.J.; Bittner, A.; Cieplik, F.; Hiller, K.A.; Schmalz, G.; Buchalla, W.; Federlin, M. Micromorphology of the adhesive interface
+
+of self-adhesive resin cements to enamel and dentin. Materials 2021, 14, 492. [CrossRef]
+
+106. Bayda, S.; Adeel, M.; Tuccinardi, T.; Cordani, M.; Rizzolio, F. The history of nanoscience and nanotechnology: From chemical-
+
+physical applications to nanomedicine. Molecules 2019, 25, 112. [CrossRef] [PubMed]
+
+107. Najeeb, S.; Khurshid, Z.; Zafar, M.S.; Khan, A.S.; Zohaib, S.; Martí, J.M.; Sauro, S.; Matinlinna, J.P.; Rehman, I.U. Modiﬁcations in
+glass ionomer cements: Nano-sized ﬂlers and bioactive nanoceramics. Int. J. Mol. Sci. 2016, 17, 1134. [CrossRef] [PubMed]
+
+108. Chen, M.H. Update on dental nanocomposites. J. Dent. Res. 2010, 89, 549–560. [CrossRef] [PubMed]
+109. De Caluwé, T.; Vercruysse, C.W.; Fraeyman, S.; Verbeeck, R.M. The inﬂuence of particle size and ﬂuorine content of aluminosilicate
+
+glass on the glass ionomer cement properties. Dent. Mater. 2014, 30, 1029–1038. [CrossRef]
+
+110. Hughes, J.M. Structure and chemistry of the apatites and other calcium orthophosphates By J. C. Elliot (The London Hospital
+
+Medical College). Elsevier: Amsterdam. 1994. xii + 389 pp. ISBN 0-444-81582-1. J. Am. Chem. Soc. 1996, 118, 3072. [CrossRef]
+
+111. Gjorgievska, E.; Van Tendeloo, G.; Nicholson, J.W.; Coleman, N.J.; Slipper, I.J.; Booth, S. The incorporation of nanoparticles into
+
+conventional glass-ionomer dental restorative cements. Microsc. Microanal. 2015, 21, 392–406. [CrossRef]
+
+112. Moshaverinia, A.; Ansari, S.; Moshaverinia, M.; Roohpour, N.; Darr, J.A.; Rehman, I. Effects of incorporation of hydroxyapatite
+
+and ﬂuoroapatite nanobioceramics into conventional glass ionomer cements (GIC). Acta Biomater. 2008, 4, 432–440. [CrossRef]
+
+113. Moshaverinia, A.; Ansari, S.; Movasaghi, Z.; Billington, R.W.; Darr, J.A.; Rehman, I.U. Modiﬁcation of conventional glass-ionomer
+cements with N-vinylpyrrolidone containing polyacids, nano-hydroxy and ﬂuoroapatite to improve mechanical properties. Dent.
+Mater. 2008, 24, 1381–1390. [CrossRef] [PubMed]
+
+114. Haider, A.; Gupta, K.C.; Kang, I.K. Morphological effects of HA on the cell compatibility of electrospun HA/PLGA composite
+
+nanoﬁber scaffolds. Biomed. Res. Int. 2014, 2014, 308306. [CrossRef] [PubMed]
+
+115. Lucas, M.E.; Arita, K.; Nishino, M. Toughness, bonding and ﬂuoride-release properties of hydroxyapatite-added glass ionomer
+
+cement. Biomaterials 2003, 24, 3787–3794. [CrossRef]
+
+Dent. J. 2022, 10, 208
+
+15 of 16
+
+116. Hench, L.L. The story of Bioglass. J. Mater. Sci. Mater. Med. 2006, 17, 967–978. [CrossRef]
+117. Mousavinasab, S.M.; Khoroushi, M.; Keshani, F.; Hashemi, S. Flexural strength and morphological characteristics of resin-modiﬁed
+
+glass-ionomer containing bioactive glass. J. Contemp. Dent. Pract. 2011, 12, 41–46. [CrossRef]
+
+118. De Caluwé, T.; Vercruysse, C.W.; Ladik, I.; Convents, R.; Declercq, H.; Martens, L.C.; Verbeeck, R.M. Addition of bioactive glass
+to glass ionomer cements: Effect on the physico-chemical properties and biocompatibility. Dent. Mater. 2017, 33, e186–e203.
+[CrossRef]
+
+119. Kim, H.J.; Bae, H.E.; Lee, J.E.; Park, I.S.; Kim, H.G.; Kwon, J.; Kim, D.S. Effects of bioactive glass incorporation into glass ionomer
+
+cement on demineralized dentin. Sci. Rep. 2021, 11, 7016. [CrossRef]
+
+120. Kim, D.A.; Lee, J.H.; Jun, S.K.; Kim, H.W.; Eltohamy, M.; Lee, H.H. Sol-gel-derived bioactive glass nanoparticle-incorporated
+glass ionomer cement with or without chitosan for enhanced mechanical and biomineralization properties. Dent. Mater. 2017, 33,
+805–817. [CrossRef]
+
+121. Ladha, K.; Verma, M. Conventional and contemporary luting cements: An overview. J. Indian Prosthodont. Soc. 2010, 10, 79–88.
+
+[CrossRef]
+
+122. Brouwer, F.; Askar, H.; Paris, S.; Schwendicke, F. Detecting secondary caries lesions: A systematic review and meta-analysis.
+
+J. Dent. Res. 2016, 95, 143–151. [CrossRef]
+
+123. Yamamoto, Y.; Yoshihara, K.; Nagaoka, N.; Van Meerbeek, B.; Yoshida, Y. Novel composite cement containing the anti-microbial
+
+compound CPC-Montmorillonite. Dent. Mater. 2022, 38, 33–43. [CrossRef] [PubMed]
+
+124. Hu, G.; Zhang, X.Y.; Zhao, J.X.; Zhou, C.J.; Wu, J.L. Development of novel self-adhesive resin cement with antibacterial and
+
+self-healing properties. Hua Xi Kou Qiang Yi Xue Za Zhi 2020, 38, 256–262. [CrossRef]
+
+125. Fan, C.; Chu, L.; Rawls, H.R.; Norling, B.K.; Cardenas, H.L.; Whang, K. Development of an antimicrobial resin—A pilot study.
+
+Dent. Mater. 2011, 27, 322–328. [CrossRef] [PubMed]
+
+126. Beyth, N.; Yudovin-Farber, I.; Bahir, R.; Domb, A.J.; Weiss, E.I. Antibacterial activity of dental composites containing quaternary
+
+ammonium polyethylenimine nanoparticles against Streptococcus mutans. Biomaterials 2006, 27, 3995–4002. [CrossRef]
+
+127. Leung, D.; Spratt, D.A.; Pratten, J.; Gulabivala, K.; Mordan, N.J.; Young, A.M. Chlorhexidine-releasing methacrylate dental
+
+composite materials. Biomaterials 2005, 26, 7145–7153. [CrossRef]
+
+128. Samadzadeh, M.; Boura, S.H.; Peikari, M.; Kasiriha, S.; Ashraﬁ, A. A review on self-healing coatings based on micro/nanocapsules.
+
+Prog. Org. Coat. 2010, 68, 159–164. [CrossRef]
+
+129. Kessler, M.; Sottos, N.R.; White, S. Self-healing structural composite materials. Compos. Part A Appl. Sci. Manufact. 2003, 34,
+
+743–753. [CrossRef]
+
+130. Wu, J.; Weir, M.D.; Zhang, Q.; Zhou, C.; Melo, M.A.; Xu, H.H. Novel self-healing dental resin with microcapsules of polymerizable
+
+triethylene glycol dimethacrylate and N,N-dihydroxyethyl-p-toluidine. Dent. Mater. 2016, 32, 294–304. [CrossRef]
+
+131. Kwon, T.Y.; Bagheri, R.; Kim, Y.K.; Kim, K.H.; Burrow, M.F. Cure mechanisms in materials for use in esthetic dentistry. J. Investig.
+
+Clin. Dent. 2012, 3, 3–16. [CrossRef]
+
+132. Aung, S.S.M.P.; Takagaki, T.; Ko, A.K.; Halabi, S.; Sato, T.; Ikeda, M.; Nikaido, T.; Burrow, M.F.; Tagami, J. Adhesion durability of
+
+dual-cure resin cements and acid–base resistant zone formation on human dentin. Dent. Mater. 2019, 35, 945–952. [CrossRef]
+133. Yoshihara, K.; Nagaoka, N.; Benino, Y.; Nakamura, A.; Hara, T.; Maruo, Y.; Yoshida, Y.; Van Meerbeek, B. Touch-cure polymeriza-
+
+tion at the composite cement-dentin interface. J. Dent. Res. 2021, 100, 935–942. [CrossRef] [PubMed]
+
+134. Falacho, R.I.; Marques, J.A.; Palma, P.J.; Roseiro, L.; Caramelo, F.; Ramos, J.C.; Guerra, F.; Blatz, M.B. Luting indirect restorations
+with resin cements versus composite resins: Effects of preheating and ultrasound energy on ﬁlm thickness. J. Esthet. Restor. Dent.
+2022, 34, 641–649. [CrossRef] [PubMed]
+
+135. Tomaselli, L.O.; Oliveira, D.; Favarão, J.; Silva, A.F.D.; Pires-de-Souza, F.C.P.; Geraldeli, S.; Sinhoreti, M.A.C. Inﬂuence of
+pre-heating regular resin composites and ﬂowable composites on luting ceramic veneers with different thicknesses. Braz. Dent. J.
+2019, 30, 459–466. [CrossRef] [PubMed]
+
+136. Marcondes, R.L.; Lima, V.P.; Barbon, F.J.; Isolan, C.P.; Carvalho, M.A.; Salvador, M.V.; Lima, A.F.; Moraes, R.R. Viscosity and
+thermal kinetics of 10 preheated restorative resin composites and effect of ultrasound energy on ﬁlm thickness. Dent. Mater. 2020,
+36, 1356–1364. [CrossRef]
+
+137. ISO Standard, No. 4049:2019; Dentistry—Polymer-based restorative materials. International Organization for Standardization:
+
+Geneva, Switzerland, 2019.
+
+138. May, L.G.; Kelly, J.R.; Bottino, M.A.; Hill, T. Effects of cement thickness and bonding on the failure loads of CAD/CAM ceramic
+
+crowns: Multi-physics FEA modeling and monotonic testing. Dent. Mater. 2012, 28, e99–e109. [CrossRef]
+
+139. Metalwala, Z.; Khoshroo, K.; Rasoulianboroujeni, M.; Tahriri, M.; Johnson, A.; Baeten, J.; Fahimipour, F.; Ibrahim, M.; Tayebi, L.
+Rheological properties of contemporary nanohybrid dental resin composites: The inﬂuence of preheating. Polym. Test. 2018, 72,
+157–163. [CrossRef]
+
+140. Fróes-Salgado, N.R.; Silva, L.M.; Kawano, Y.; Francci, C.; Reis, A.; Loguercio, A.D. Composite pre-heating: Effects on marginal
+
+adaptation, degree of conversion and mechanical properties. Dent. Mater. 2010, 26, 908–914. [CrossRef]
+
+141. Pinelli, L.A.; Fais, L.M.; Ricci, W.A.; Reis, J.M. In Vitro comparisons of casting retention on implant abutments among commercially
+
+available and experimental castor oil-containing dental luting agents. J. Prosthet. Dent. 2013, 109, 319–324. [CrossRef]
+
+Dent. J. 2022, 10, 208
+
+16 of 16
+
+142. Carmello, J.C.; Fais, L.M.; Ribeiro, L.N.; Claro Neto, S.; Guaglianoni, D.G.; Pinelli, L.A. Diametral tensile strength and ﬁlm
+
+thickness of an experimental dental luting agent derived from castor oil. J. Appl. Oral Sci. 2012, 20, 16–20. [CrossRef]
+
+143. Derceli Jdos, R.; Fais, L.M.; Pinelli, L.A. A castor oil-containing dental luting agent: Effects of cyclic loading and storage time on
+
+ﬂexural strength. J. Appl. Oral Sci. 2014, 22, 496–501. [CrossRef]
+
+

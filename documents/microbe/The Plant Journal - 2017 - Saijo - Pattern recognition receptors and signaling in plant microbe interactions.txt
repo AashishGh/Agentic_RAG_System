@@ -1,0 +1,3369 @@
+The Plant Journal (2018) 93, 592–613
+
+doi: 10.1111/tpj.13808
+
+SI PLANT BIOTIC INTERACTIONS
+
+Pattern recognition receptors and signaling in plant–microbe
+interactions
+
+Yusuke Saijo*, Eliza Po-iian Loo and Shigetaka Yasuda
+Graduate School of Biological Sciences, Nara Institute of Science and Technology, Ikoma 630-0192, Japan
+
+Received 24 November 2017; revised 9 December 2017; accepted 14 December 2017; published online 20 December 2017.
+*For correspondence (e-mail saijo@bs.naist.jp).
+
+SUMMARY
+
+Plants solely rely on innate immunity of each individual cell to deal with a diversity of microbes in the envi-
+ronment. Extracellular recognition of microbe- and host damage-associated molecular patterns leads to the
+ﬁrst layer of inducible defenses, termed pattern-triggered immunity (PTI). In plants, pattern recognition
+receptors (PRRs) described to date are all membrane-associated receptor-like kinases or receptor-like pro-
+teins, reﬂecting the prevalence of apoplastic colonization of plant-infecting microbes. An increasing inven-
+tory of elicitor-active patterns and PRRs indicates that a large number of them are limited to a certain range
+of plant groups/species, pointing to dynamic and convergent evolution of pattern recognition speciﬁcities.
+In addition to common molecular principles of PRR signaling, recent studies have revealed substantial diver-
+siﬁcation between PRRs in their functions and regulatory mechanisms. This serves to confer robustness and
+plasticity to the whole PTI system in natural infections, wherein different PRRs are simultaneously engaged
+and faced with microbial assaults. We review the functional signiﬁcance and molecular basis of PRR-
+mediated pathogen recognition and disease resistance, and also an emerging role for PRRs in homeostatic
+association with beneﬁcial or commensal microbes.
+
+Keywords: pattern recognition receptors, microbe-associated molecular patterns, damage-associated
+molecular patterns, plant immunity, plant–microbe interactions, signaling, receptor-like protein, receptor-
+like kinase.
+
+INTRODUCTION TO PLANT IMMUNITY
+
+In plants, each individual cell expresses a repertoire of
+innate immune receptors that recognize invasion signals
+(Jones and Dangl, 2006). At
+the cell surfaces, pattern
+recognition receptors (PRRs) detect molecular structures
+typical of microbes, termed microbe-associated molecular
+patterns (MAMPs), or endogenous signals generated upon
+cellular disintegration, termed damage-associated molecu-
+lar patterns (DAMPs), and thereby mount pattern-triggered
+immunity (PTI; Figure 1). PTI plays an important role in
+preventing non-adapted microbes, whether pathogens or
+not, from infecting the host, termed non-host resistance,
+and also in restricting infection of adapted pathogens in
+susceptible hosts, termed basal resistance (Couto and Zip-
+fel, 2016; Tang et al., 2017). In turn, pathogens employ a
+wide array of virulence effectors to overcome PTI and
+establish successful
+termed effector-triggered
+susceptibility (ETS). However, host recognition of one or
+
+infection,
+
+leads to robust
+
+more of pathogen effectors, mainly via intracellular nucleo-
+tide-binding (NB) leucine-rich repeat (LRR) domain recep-
+tors (NLRs),
+terminates
+immunity that
+pathogen growth,
+termed effector-triggered immunity
+(ETI). Compared with PTI, ETI displays an ampliﬁed and
+robust form of defense programs, which is often accompa-
+nied by localized cell death called the hypersensitive
+response (Katagiri and Tsuda, 2010). Reiterating cycles of
+PTI, ETS and ETI drive host–pathogen co-evolution that
+has led to the diversiﬁcation of effector functions and NLR
+recognition speciﬁcities, as illustrated in the zigzag model
+(Jones and Dangl, 2006). Of note, indirect recognition of
+pathogen effector actions is functionally analogous to PRR-
+mediated recognition of DAMPs. This leads to a notion that
+plant immunity serves as a surveillance system for danger
+signals in both extracellular and intracellular milieus (Cook
+et al., 2015; Gust et al., 2017). Here, we review PRR
+
+592
+
+© 2017 The Authors
+The Plant Journal published by John Wiley & Sons Ltd and Society for Experimental Biology.
+This is an open access article under the terms of the Creative Commons Attribution License,
+which permits use, distribution and reproduction in any medium, provided the original work is properly cited.
+
+Pattern recognition receptors in plants 593
+
+Figure 1. An overview of pattern-triggered immunity (PTI).
+Perception of microbe-/damage-associated molecular patterns (MAMPs/DAMPs, respectively) by cognate pattern recognition receptors (PRRs) involves dynamic
+association/dissociation with co-receptors and receptor-like cytoplasmic kinases (RLCKs), and transphosphorylation within the PRR complexes to initiate the
+downstream signaling. PRR-derived signals are transmitted via further phosphorylation cascades including mitogen-activated protein kinases (MAPKs) and
+calcium-dependent protein kinases (CDPKs) to the downstream targets such as the NADPH oxidase RBOHD, the plasma membrane (PM)-resident H+-ATPases
+and transcriptional factors (TFs) during PTI.
+
+functions and regulations that are central to the elaborate
+immune system of plants.
+
+KEY PRINCIPLES OF PATTERN RECOGNITION AND
+RECEPTOR-TRIGGERED SIGNALING
+
+Plant PRRs include receptor-like kinases (RLKs) and recep-
+tor-like proteins (RLPs; Couto and Zipfel, 2016; Boutrot and
+Zipfel, 2017). RLKs are composed of an extracellular
+domain,
+transmembrane domain and an intracellular
+kinase domain, whereas RLPs lack the intracellular kinase
+domain. LRRs, lysin motifs (LysMs), lectin-like motifs and
+epidermal growth factor (EGF)-like domains are among
+ligand-binding ectodomains described to date. Ectodomain
+classes largely correspond to the nature of the ligands
+recognized.
+
+In Arabidopsis thaliana, the LRR-RLK FLS2 recognizes an
+N-terminal 22-amino-acid epitope (ﬂg22) of bacterial ﬂag-
+ellin. ﬂg22 recognition speciﬁcities are widespread in
+higher plants (Gomez-Gomez and Boller, 2000; Hann and
+Rathjen, 2007; Robatzek et al., 2007; Takai et al., 2008; Bol-
+ler and Felix, 2009; Trda et al., 2014; Zhang et al., 2017).
+FLS2 is required for bacterial resistance in particular fol-
+lowing leaf surface inoculation, providing evidence that
+links PRR to pathogen resistance (Zipfel et al., 2004). The
+LRR-RLK EFR recognizes an N-acetylated 18–26-amino-acid
+epitope (elf18–elf26) of elongation factor (EF)-Tu, one of
+the most abundant proteins of bacterial cells, during bacte-
+rial resistance (Kunze et al., 2004; Zipfel et al., 2006). elf18
+perception seems restricted to the Brassicaceae family
+
+(Boller and Felix, 2009), but the introduction of EFR alone
+is sufﬁcient to confer elf18 responsiveness and bacterial
+resistance in other plant
+families (Zipfel et al., 2006;
+Lacombe et al., 2010). This suggests that PRRs function as
+a replaceable module in PTI, and that pathogens are specif-
+ically adapted to the existing PRR repertoire of the host.
+The successful
+interfamily transfer of EFR demonstrates
+the effectiveness of increasing the existing PRR repertoire
+in breeding disease resistance (Lacombe et al., 2010;
+Schoonbeek et al., 2015; Schwessinger et al., 2015). FLS2
+and EFR both belong to the LRR-RK class XII (Shiu et al.,
+2004), and offer excellent PRR models.
+
+Following ligand perception, FLS2 and EFR both involve
+the LRR-RLK BAK1 (and related SERKs) in the receptor
+complexes (Chinchilla et al., 2007; Heese et al., 2007; Roux
+et al., 2011; Ma et al., 2016), as shown for the LRR-RLK
+brassinosteroid (BR) receptor BRI1 (Li et al., 2002; Nam
+and Li, 2002; Santiago et al., 2013). Crystal structure of
+ﬂg22-bound FLS2-BAK1 ectodomains indicates that BAK1
+acts as a co-receptor (Sun et al., 2013). Structure has been
+solved or simulated for ligand-bound ectodomains of dif-
+ferent BAK1 (or SERK)-associated LRR-RLKs (Song et al.,
+2017). Likewise, many LRR-RLPs constitutively associate
+with the adapter LRR-RLK SOBIR1, and then involve BAK1
+in response to ligands (Gust and Felix, 2014; Liebrand
+et al., 2014; Yasuda et al., 2017). These heteromeric PRR
+complexes
+cytoplasmic
+kinases (RLCKs) such as BIK1 in intercellular signaling
+(Couto and Zipfel, 2016). Ligand-induced FLS2-BAK1
+
+receptor-like
+
+involve
+
+further
+
+© 2017 The Authors
+The Plant Journal published by John Wiley & Sons Ltd and Society for Experimental Biology.,
+The Plant Journal, (2018), 93, 592–613
+
+ 1365313x, 2018, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/tpj.13808, Wiley Online Library on [20/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License594 Yusuke Saijo et al.
+
+association leads to BAK1 activation and phosphorylation
+of BIK1, and then BIK1 dissociation to mediate down-
+stream signaling (Lu et al., 2010; Zhang et al., 2010; Sch-
+wessinger et al., 2011; Lin et al., 2014). As such, PRR
+signaling occurs through dynamic association/dissociation
+and trans-phosphorylation of signaling components within
+and downstream of PRR kinase complexes.
+
+Ligand-induced formation of heteromeric receptor com-
+plexes is subject to multi-layered regulation.
+In resting
+cells, BAK1 is retained in different complexes involving the
+LRR-RLK pseudokinase BIR2 or BIR3, thereby restricting
+precocious PRR-BAK1 association (Halter et al., 2014;
+Imkampe et al., 2017). In response to ﬂg22, a pool of BAK1
+is dissociated from BIR2 or BIR3, and then allowed to form
+an active FLS2-BAK1 complex. BIR3 also associates with
+FLS2 and BRI1 to restrict PTI and BR signaling, respec-
+tively. Likewise,
+the LRR-RLK pseudokinase BIR1 also
+sequesters BAK1 from BAK1-SOBIR1 association and PTI
+signaling, until BAK1 is recruited to ligand-bound PRRs
+(Gao et al., 2009; Li et al., 2016a).
+
+Pattern recognition receptor abundance is also tightly
+the U-box E3 ligases
+controlled. Together with BAK1,
+PUB12 and PUB13 are recruited to the FLS2 complex in
+response to ﬂg22 (Lu et al., 2011). BAK1 phosphorylation
+of PUB12/PUB13 leads to FLS2 ubiquitination by the E3
+ligases for receptor degradation. Consistent with this, FLS2
+signaling outputs and bacterial resistance are enhanced in
+pub12 pub13 plants. Following ligand-induced association
+with BAK1, FLS2 also undergoes endocytosis via clathrin
+and subsequent degradation (Robatzek et al., 2006; Chin-
+chilla et al., 2007; Mbengue et al., 2016). This leads to tran-
+sient desensitization of FLS2 signaling, but is followed by
+replenishment with de novo synthesized receptor (Smith
+et al., 2014). This regulation also occurs on different BAK1-
+associated PRRs (Mbengue et al., 2016; Ortiz-Morea et al.,
+2016; Postma et al., 2016; Yamada et al., 2016c), and is clo-
+sely associated with effective defense activation (Mbengue
+et al., 2016), pointing to a positive role for speciﬁc turnover
+ligand-bound receptor pools in PTI signaling. Their
+of
+replenishment may occur through the exocyst Exo70B2
+complex, a process suppressed by the E3 ligases PUB22/
+PUB23/PUB24 (Trujillo et al., 2008; Stegmann et al., 2012).
+Along with such cellular dynamics of PRRs, pattern-
+induced re-distribution between different membrane frac-
+tions was described for PTI signaling components (Keinath
+et al., 2010). Advanced live-imaging with variable-angle
+epiﬂuorescence microscopy and single-particle tracking
+revealed ligand-induced relocalization of FLS2 and BRI1 to
+deﬁned microdomains (Bucherl et al., 2017). This indicates
+that ligand-induced receptor compartmentalization within
+membrane microdomains enables spatiotemporal separa-
+tion and speciﬁc control of receptor signaling.
+
+The phosphorylation states of key protein kinases and
+their substrates involved in PRR signaling are also subject
+
+Figure 2. Signal integration between different pattern recognition receptor
+(PRR) pathways.
+(a) Immune-inducible and immune-repressible RALF peptides act through
+the FERONIA scaffold to positively or negatively inﬂuence pattern-triggered
+immunity (PTI) signaling (left and right), respectively. F-RALF, functional
+homologs of RALF peptides secreted by fungal pathogens.
+(b) Layered structure of functional interactions between microbe-associated
+molecular pattern (MAMP) receptor and PEPR signaling. Pathogen-induced
+BAK1 depletion results in dysfunction of BAK1/BON-mediated cell death
+control, increased release of PROPEP-derived damage-associated molecular
+patterns (DAMPs) and sensitization of salicylic acid (SA)-related defenses.
+(c) Rhizobacterial NOD factors not only induce symbiotic responses but also
+suppress PTI signaling through PRR ubiquitination (Ub) and proteasomal
+degradation.
+
+© 2017 The Authors
+The Plant Journal published by John Wiley & Sons Ltd and Society for Experimental Biology.,
+The Plant Journal, (2018), 93, 592–613
+
+ 1365313x, 2018, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/tpj.13808, Wiley Online Library on [20/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons Licenseto tight regulation (Couto and Zipfel, 2016). Ser/Thr phos-
+phatases type 2A (PP2A) negatively regulate phosphoryla-
+tion levels of BAK1 and thus EFR-mediated defenses
+(Segonzac et al., 2014). PP2Cs also negatively regulate EFR
+and Xa21, a receptor mediating resistance to Xanthomonas
+oryzae pv oryzae (Xoo) in rice (Park et al., 2008; Holton
+et al., 2015). Moreover, phosphorylation of EFR Tyr836,
+conserved within related LRR-RLK PRRs, is crucial for PTI
+signaling and is targeted for dephosphorylation by the
+Pseudomonas syringae pv tomato (Pst) virulence effector
+HopAO1 (Macho et al., 2014). In resting complexes with
+EFR/FLS2, BIK1 is also kept inactive by PP2C38 (Couto
+et al., 2016).
+
+RECOGNITION OF BACTERIAL MAMPS
+
+An inventory of elicitor-active patterns and PRRs has been
+extended in plants (Boutrot and Zipfel, 2017; Table 1). Flag-
+ellin has different elicitor-active epitopes than ﬂg22 (Tagu-
+chi et al., 2003; Takeuchi et al., 2003; Katsuragi et al.,
+2015). One such epitope undergoing strong selection
+against elicitor activity, termed ﬂgII-28, was revealed by
+population genomics study on ﬁeld Pst isolates in tomato
+(Cai et al., 2011).
+Importantly, allelic variations of plant-
+infecting bacteria in both ﬂg22 and ﬂgII-28 epitopes signiﬁ-
+cantly affect the strength of plant immune responses (Felix
+et al., 1999; Sun et al., 2006; Clarke et al., 2013), without
+discernible effects on bacterial motility (Clarke et al., 2013).
+Structural differences of ﬂagellin also inﬂuence bacterial
+virulence in rice (Che et al., 2000). Loss of ﬂagellin from
+non-adapted bacteria allows their proliferation in non-host
+plants (Li et al., 2005). These ﬁndings suggest that ﬂagellin
+recognition deﬁnes a critical determinant of plant–bac-
+terium interactions, and that MAMP diversiﬁcation facili-
+tates PTI evasion. Indeed, similar to ﬂagellin, substantial
+polymorphisms exist in elicitor-active regions of otherwise
+highly conserved pathogen proteins (Vinatzer et al., 2014).
+A search for such signatures in orthologous genes of six
+bacterial pathogens (but not in seven non-pathogens) iden-
+tiﬁed novel MAMPs that are recognized in A. thaliana
+(McCann et al., 2012). A middle region of EF-Tu, in addition
+to elf18, also undergoes positive selection. This region
+overlaps with an elicitor-active fragment of EF-Tu puriﬁed
+from the bacterium Acidovorax avenae extracts, which is
+predominantly recognized in rice (Furukawa et al., 2014).
+
+Microbe-associated molecular pattern recognition speci-
+ﬁcities often display plant lineage-speciﬁc or intra-species
+variations, possibly reﬂecting plant adaptation to MAMP
+diversiﬁcation in microbial populations. In tomato, natural
+variation studies revealed the class XII LRR-RLK FLS3 as
+the ﬂgII-28 receptor, demonstrating that plants employ dif-
+ferent PRRs to recognize separate patterns from the same
+microbial protein (Hind et al., 2016). Interestingly, ﬂgII-28
+alleles inﬂuence bacterial virulence in A. thaliana in a man-
+ner dependent on FLS2 (Clarke et al., 2013). Given their
+
+Pattern recognition receptors in plants 595
+
+lack of direct binding to FLS2, it is interesting to determine
+how ﬂgII-28 alterations inﬂuence ﬂg22 recognition and/or
+FLS2-triggered immunity.
+
+Peptidoglycans (PGNs) constitute cell walls of most bac-
+teria, and their fragments, muropeptides, are released as a
+consequence of cell wall
+remodeling during bacterial
+growth. PGNs thus serve as signals, indicative of bacterial
+growth state, within bacterial populations and for eukary-
+otic hosts (Dworkin, 2014), and their perception induces
+immune responses in plants, insects and mammals (Felix
+and Boller, 2003; Guan and Mariuzza, 2007; Gust et al.,
+2007). N-deacetylation of PGNs dampens
+immune
+response and helps Listeria evade from host immunity,
+possibly through reduced receptor binding (Boneca et al.,
+2007). It is possible that the host discriminates structurally
+distinct PGN fragments from growing and resting bacteria.
+PGN perception occurs through LysM domain-containing
+proteins, which are widespread in almost all kingdoms of
+life (Zhang et al., 2009).
+In A. thaliana, the LysM-RLPs
+AtLYM1 and AtLYM3 recognize PGNs, and presumably act
+in a complex with the LysM-RLK CERK1 during bacterial
+resistance (Willmann et al., 2011). Notably, LYM1/LYM3
+can bind both complex and soluble PGNs from Gram-
+negative or Gram-positive bacteria, while CERK1 does not.
+By contrast, CERK1, but not LYM1/LYM3, binds chitin, a
+cell wall component of fungi (Iizasa et al., 2010; Petutsch-
+nig et al., 2010; Liu et al., 2012b), implying that CERK1 is
+co-opted as an adapter for LYM1/LYM3 receptors. In rice,
+the LysM-RLPs OsLYP4 (orthologous to LYM3) and OsLYP6
+directly bind PGNs as well as chitin, thereby mediating
+both bacterial and fungal resistance (Liu et al., 2012a). It is
+interesting to determine the molecular basis for the ligand
+promiscuity of these receptors. OsLYP4/OsLYP6 associates
+with and requires OsCERK1 in PGN and chitin signaling,
+although OsCERK1 fails to bind these ligands (Liu et al.,
+2012a; Kouzai et al., 2014).
+
+Lipopolysaccharide (LPS) consists of three moieties, lipid
+A, a core oligosaccharide and a variable O-polysaccharide
+region. As the major outer-membrane component of
+Gram-negative bacteria, LPS provides a shield for bacteria
+but also MAMPs for their mammal and plant hosts (Ranf,
+2016; Kagan, 2017). However, the use of LPS preparations
+from bacterial cultures in tracing plant immune responses
+raises concerns about possible contaminations of different
+MAMPs (Leulier et al., 2003). Convincing evidence for plant
+LPS perception was obtained with the discovery of the A.
+thaliana lectin S-domain RLK LORE (previously known as
+SD1-29) speciﬁcally required for LPS recognition from
+Pseudomonas and Xanthomonas species (Ranf et al.,
+2015). LORE-mediated LPS recognition is restricted to the
+Brassicaceae family, but LORE introduction is sufﬁcient to
+transfer LPS recognition speciﬁcity to Nicotiana benthami-
+ana (Solanaceae). This points to a critical role for LORE in
+LPS perception, although direct LPS–LORE binding
+
+© 2017 The Authors
+The Plant Journal published by John Wiley & Sons Ltd and Society for Experimental Biology.,
+The Plant Journal, (2018), 93, 592–613
+
+ 1365313x, 2018, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/tpj.13808, Wiley Online Library on [20/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License596 Yusuke Saijo et al.
+
+Table 1 Plant pattern recognition receptors and the cognate ligands
+
+Receptor
+
+Type
+
+Ligand (pattern)
+
+Plant
+
+Reference
+
+Recognition of bacterial pathogens
+
+FLS2
+
+LRR-RLK
+
+Flagellin (ﬂg22)
+
+Higher plants
+
+Gomez-Gomez and Boller (2000), Hann and Rathjen
+(2007), Robatzek et al. (2007), Takai et al. (2008),
+Boller and Felix (2009), Trda et al. (2014) and
+Zhang et al. (2017)
+
+FLS3
+EFR
+CORE
+XA21
+XPS1
+LORE
+EPR3
+ReMAX/RLP1
+RLP23
+CSPR
+LYM1/LYM3
+
+LRR-RLK
+LRR-RLK
+LRR-RLK
+LRR-RLK
+LRR-RLK
+LEC-RLK
+LysM-RLK
+LRR-RLP
+LRR-RLP
+LRR-RLP
+LysM-RLP
+
+Flagellin (ﬂgII-28)
+EF-Tu (elf18)
+Cold shock protein (csp22)
+raxX (RaxX21)
+Permease (xup25)
+Lipopolysaccharide
+Extracellular polysaccharides
+eMAX
+Nep1-like protein (nlp20)
+Cold shock protein (csp22)
+Peptidoglycan
+
+S. pimpinellifolium Cai et al. (2011)
+A. thaliana
+S. lycopersicum
+O. sativa
+A. thaliana
+A. thaliana
+L. japonicus
+A. thaliana
+A. thaliana
+N. benthamiana
+A. thaliana
+
+Kunze et al. (2004) and Zipfel et al. (2006)
+Wang et al. (2016a)
+Pruitt et al. (2015)
+Mott et al. (2016)
+Ranf et al. (2015)
+Kawaharada et al. (2015)
+Jehle et al. (2013)
+Albert et al. (2015)
+Saur et al. (2016)
+Willmann et al. (2011)
+
+Recognition of fungal pathogens
+
+CERK1
+
+LysM-RLK
+
+Chitin
+
+LYK5
+I-3
+RLP30
+Eix1/Eix2
+RLP42/RBPG1
+Cf-2
+Cf-4
+Cf-5
+Cf-9
+Hcr9-4E
+LepR3/RLM
+I
+CEBiP
+
+LysM-RLK
+LEC-RLK
+LRR-RLP
+LRR-RLP
+LRR-RLP
+LRR-RLP
+LRR-RLP
+LRR-RLP
+LRR-RLP
+LRR-RLP
+LRR-RLP
+LRR-RLP
+LysM-RLP
+
+Chitin
+Avr3/Six1
+SCFE1
+Ethylene-inducing xylanase
+Endopolygalacturonases
+Avr2, Gr-VAP1
+Avr4
+Avr5
+Avr9
+Avr4E
+AvrLm1, AvrLm2
+Avr1/Six4
+Chitin
+
+A. thaliana
+
+Miya et al. (2007), Wan et al. (2008), Iizasa et al.
+
+(2010) and Petutschnig et al. (2010)
+
+Cao et al. (2014)
+Catanzariti et al. (2015)
+Zhang et al. (2013)
+Ron and Avni (2004)
+Zhang et al. (2014)
+
+A. thaliana
+S. pennellii
+A. thaliana
+S. pennellii
+A. thaliana
+S. pimpinellifolium Dixon et al. (1996) and Rooney et al. (2005)
+Thomas et al. (1997)
+S. hirsutum
+S. lycopersicum
+Dixon et al. (1998)
+S. pimpinellifolium Jones et al. (1994) and Luderer et al. (2001)
+S. hirsutum
+B. napus
+S. pimpinellifolium Catanzariti et al. (2017)
+O. sativa
+
+Kaku et al. (2006), Shimizu et al. (2010) and
+
+Thomas et al. (1997) and Weinberger et al. (1999)
+Larkan et al. (2013, 2015)
+
+LYP4, LYP6
+LYM1, LYM3
+LYM2
+
+LysM-RLP
+LysM-RLP
+LysM-RLP
+
+Chitin, Peptidoglycan
+Peptidoglycan
+Chitin
+
+O. sativa
+A. thaliana
+A. thaliana
+
+Hayafune et al. (2014)
+
+Liu et al. (2012a)
+Willmann et al. (2011)
+Faulkner et al. (2013)
+
+Recognition of oomycete pathogens
+
+RLP23
+RLP85/ELR
+
+LRR-RLP
+LRR-RLP
+
+nlp20
+Elicitin
+
+Recognition of host cell alterations (damage-associated patterns)
+
+A. thaliana
+S. microdontum
+
+Albert et al. (2015)
+Du et al. (2015)
+
+PEPR1
+PEPR2
+RLK7
+SR160
+DORN1
+WAK1
+FER
+
+Pep1-Pep6
+Pep1, Pep2
+PIP1
+Systemin
+Extracellular ATP
+
+LRR-RLK
+LRR-RLK
+LRR-RLK
+LRR-RLK
+LEC-RLK
+EGF-like-RLK Oligogalacturonides
+Malectin-RLK RALF peptides
+
+A. thaliana
+A. thaliana
+A. thaliana
+S. peruvianum
+A. thaliana
+A. thaliana
+A. thaliana
+
+Yamaguchi et al. (2006, 2010)
+Yamaguchi et al. (2010)
+Hou et al. (2014)
+Scheer and Ryan (2002)
+Choi et al. (2014)
+Brutus et al. (2010)
+Haruta et al. (2014) and Stegmann et al. (2017)
+
+RLK, receptor-like kinase; RP, receptor-like protein; LRR, leucine-rich repeat; LysM, lysin motif; LEC, lectin; EGF, epidermal growth factor; A.
+thaliana, Arabidopsis thaliana; B. napus, Brassica napus; L. japonicus; Lotus japonicus; N. benthamiana, Nicotiana benthamiana; O. sativa,
+Oryza sativa; S. hirsutum, Solanum hirsutum; S. lycopersicum, Solanum lycopersicum; S. microdontum, Solanum microdontum; S. peru-
+vianum, Solanum peruvianum; S. pimpinellifolium, Solanum pimpinellifolium.
+
+remains to be shown. Remarkably, LORE is not required
+for LPS recognition from Escherichia coli
+(Ranf et al.,
+2015), suggesting the existence of different LPS receptors
+in plants, as shown in mammals.
+
+A genome-sequence-based screen on P. syringae iso-
+lates for bacterial conserved proteins carrying a region
+
+under strong positive selection revealed six new MAMPs,
+including xanthine/uracil permease (xup25 epitope). The
+class XII LRR-RLK XPS1 directly recognizes xup25, thereby
+conferring bacterial resistance (Mott et al., 2016). Compara-
+tive genomics approaches will be useful in further discov-
+eries of MAMP–PRR pairs.
+
+© 2017 The Authors
+The Plant Journal published by John Wiley & Sons Ltd and Society for Experimental Biology.,
+The Plant Journal, (2018), 93, 592–613
+
+ 1365313x, 2018, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/tpj.13808, Wiley Online Library on [20/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons LicenseHighly abundant cold shock proteins (csp15/csp22 epi-
+tope) are immunogenic in tobacco (Felix and Boller, 2003).
+Natural variation studies in tomato led to the identiﬁcation
+of the class XII LRR-RK CORE (closely related to EFR and
+Xa21) as a high-afﬁnity receptor for csp22 (Wang et al.,
+2016a). CORE is conserved in the Solanaceae family, but
+its introduction confers full csp22 sensitivity and, notably,
+enhanced Pst resistance in A. thaliana. Given the inherent
+adaptation of Pst to tomato PTI
+involving CORE, CORE
+may differentially mediate bacterial resistance in the two
+host plants.
+
+RECOGNITION OF FUNGAL MAMPS
+
+Chitin, a linear polymer (degree of polymerization ≥ 6) of b-
+(1,4)-linked N-acetylglucosamine (GlcNAc), and its deacety-
+lated derivative chitosan are major components of fungal
+cell wall,and recognized as MAMPs in a wide range of
+plants (Boller and Felix, 2009). Chitin recognition requires
+the LysM-RLK CERK1 (Shinya et al., 2015). In rice, OsCERK1
+does not directly bind chitin, but functions with the chitin-
+binding LysM-RLP OsCEBiP in a receptor complex (Kaku
+et al., 2006; Shimizu et al., 2010; Hayafune et al., 2014). In
+addition, the chitin-binding LysM-RLPs OsLYP4 and OsLYP6
+also seem to function with OsCERK1 (Liu et al., 2012a;
+Kouzai et al., 2014). In A. thaliana, CERK1 directly binds
+chitin, thereby mediating chitin-triggered immunity (Miya
+et al., 2007; Wan et al., 2008; Iizasa et al., 2010; Petutschnig
+et al., 2010). In accordance with this, all three CEBiP homo-
+logs, LYM1, LYM2 and LYM3, are dispensable for CERK1-
+dependent chitin recognition (Wang et al., 2012; Faulkner
+together with
+et al., 2013), although LYM1 and LYM3,
+CERK1, are required for PGN recognition (Willmann et al.,
+2011). LYM2 is, however,
+required for chitin-induced
+closure of plasmodesmata and fungal resistance that are
+independent of CERK1 (Faulkner et al., 2013; Narusaka
+et al., 2013). Consistent with this, of the three LYMs, LYM2
+can speciﬁcally bind chitin (Shinya et al., 2012). Recent
+studies revealed that the chitin-binding LysM-RLK pseudok-
+inase LYK5 physically associates with CERK1 to mediate
+CERK1 homodimerization and phosphorylation in response
+to chitin (Cao et al., 2014). Loss of LYK5 together with clo-
+sely related LYK4, as well as that of CERK1, renders plants
+insensitive to chitin. Two separate perception systems,
+involving LYK5/LYK4-CERK1 or LYM2, are employed for
+different chitin responses in A. thaliana.
+
+Ethylene-inducing xylanase (EIX) is recognized in tomato
+via the LRR-RLPs Eix2 and Eix1 (Ron and Avni, 2004). In
+response to EIX, Eix2 induces defense responses including
+upregulation of Eix1, whose EIX binding in turn attenuates
+Eix2 signaling by functioning with BAK1 (Bar et al., 2010).
+Fungal endopolygalacturonases (PGs) hydrolyze polygalac-
+turonic acid, the main component of plant cell wall pectin,
+and also display elicitor activity that is independent of
+enzymatic activity (Poinssot et al., 2003). Natural variation
+
+Pattern recognition receptors in plants 597
+
+studies revealed the A. thaliana LRR-RLP42 (RBGP1), which
+recognizes several PGs from Botrytis cinerea and mediates
+PG-induced resistance to Hyaloperonospora arabidopsidis
+(Hpa) in a manner dependent on SOBIR1 (Zhang et al.,
+2014).
+
+RECOGNITION OF OOMYCETE MAMPS
+
+Despite intensive studies on devastating oomycete patho-
+gens such as the potato late blight pathogen Phytoph-
+limited for oomycete
+thora infestans, knowledge is still
+MAMP receptors in plants (Raaymakers and Van den Ack-
+erveken, 2016). Oomycete MAMPs include cell wall com-
+ponents, b-1,3- and b-1,6-glucans, glucan-chitosaccharides
+lectin (CBEL; Fliegmann
+and cellulose-binding elicitor
+et al., 2004; Khatib et al., 2004; Nars et al., 2013). Natural
+variations and BAK1 requirement were described for
+CBEL responsiveness in A.
+thaliana (Larroque et al.,
+2013). The transglutaminase GP42 (Nurnberger et al.,
+1994, 1995; Hahlbrock et al., 1995) and eicosapolyenoic
+acids from Phytophthora mycelia also provide MAMPs
+(Bostock et al., 1981). The Phytophthora xyloglucan-speci-
+ﬁc endoglucanase XEG1 provides a virulence factor that
+degrades b-glucan and xyloglucan, but also a MAMP that
+is recognized by BAK1-dependent mechanisms (Ma et al.,
+2015). For these MAMPs, cognate PRRs have yet to be
+identiﬁed.
+
+Necrosis and ethylene-inducing peptide 1 (Nep1)-like
+proteins (NLPs) are widespread from oomycetes to fungi
+and bacteria. While most NLPs act as toxins inducing
+necrosis and ethylene production in dicot plants, non-cyto-
+toxic NLPs of Hpa helped identify 20–24 amino acid elici-
+tor-active epitopes (nlp20/nlp24) conserved in NLPs across
+microbial kingdoms (Bohm et al., 2014; Oome et al., 2014).
+nlp20 induces defense activation without necrosis in Bras-
+sicaceae species, but not in Solanaceous species (Bohm
+et al., 2014). The A. thaliana LRR-RLP RLP23 identiﬁes an
+nlp20 receptor, which acts together with SOBIR1 and BAK1
+in bacterial and fungal resistance (Albert et al., 2015). The
+interfamily transfer of RLP23 also confers P. infestans resis-
+tance in potato.
+
+Recognition of elicitins (~10 kDa), secreted proteins con-
+served in oomycete pathogens,
+induces necrosis and
+pathogen resistance in tobacco (Ricci et al., 1989). The
+LRR-RLP85 (ELR) from wild potato is required for recogni-
+tion of a range of elicitins from different oomycete species,
+including INF1 from P. infestans, although direct ELR-elici-
+tin binding remains to be shown (Du et al., 2015). ELR
+undergoes ligand-induced association with BAK1/SERK3.
+ELR introduction is sufﬁcient to confer P. infestans resis-
+tance in cultivated potato. In N. benthamiana, BAK1/SERK3
+and SOBIR1 are both required for elicitin-triggered cell
+death, implying the possible involvement of an ELR-BAK1-
+SOBIR1 complex in elicitin perception and signaling (Peng
+et al., 2015).
+
+© 2017 The Authors
+The Plant Journal published by John Wiley & Sons Ltd and Society for Experimental Biology.,
+The Plant Journal, (2018), 93, 592–613
+
+ 1365313x, 2018, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/tpj.13808, Wiley Online Library on [20/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License598 Yusuke Saijo et al.
+
+ORPHAN PRRS WITH THE COGNATE PATTERNS
+UNIDENTIFIED
+
+Natural variations of MAMP responsiveness have been
+exploited to reveal MAMP recognition mechanisms, with-
+out precise identiﬁcation of the MAMP itself. This approach
+revealed the A. thaliana LRR-RLP ReMAX (RLP1) that medi-
+ates immune responses to a protein fraction from X. axo-
+nopodis pv citri (Xac) extracts, called eMAX (Jehle et al.,
+together with SOBIR1 and
+2013). The LRR-RLK RLP30,
+BAK1, is required for recognition of the elicitor-active pro-
+tein fraction from the fungus Sclerotinia sclerotiorum,
+called SCFE1 (Zhang et al., 2013). In tomato, perception of
+an as-yet-unidentiﬁed pattern from parasite plants, desig-
+nated the Cuscuta factor, requires the LRR-RLP CuRe1,
+which constitutively associates with SOBIR1 and mediates
+Cuscuta reﬂexa resistance (Hegenauer et al., 2016).
+
+to
+
+PRRs
+
+analogous
+
+Perception mechanisms
+
+are
+employed in cell surface recognition of pathogen effectors
+that act in the apoplasm. Recognition of such apoplastic
+effectors from Cladosporium fulvum, Fusarium oxysporum
+and Verticillium dahlia involves direct and indirect modes
+of recognition (Table 1). In the latter cases, host cell pertur-
+bations or changes associated with the effector actions are
+recognized by these receptors, in a manner conceptually
+analogous to DAMP recognition (see below).
+
+RECOGNITION OF HOST CELL ALTERATIONS (DAMPS)
+
+Because MAMPs are shared by pathogens and non-patho-
+gens, simultaneous detection of DAMPs is considered to
+represent signature of pathogenesis (Fontana and Vance,
+2011; Blander and Sander, 2012). This hypothesis can now
+be tested with a growing list of plant DAMPs (Gust et al.,
+2017).
+
+High-mobility group box protein (HMGB) is associated
+with chromatin in the nucleus and also present in the cyto-
+sol of non-stressed cells, but
+is
+immunogenic in both plants and mammals (Lotze and Tra-
+cey, 2005; Choi and Klessig, 2016). In A. thaliana, HMGB3
+is released upon tissue damage during B. cinerea infection,
+thereby inducing PTI-like responses and fungal resistance
+(Choi et al., 2016).
+
+its extracellular pool
+
+Extracellular ATP (eATP) triggers immune responses in
+plants and humans (Ralevic and Burnstock, 1998; Tanaka
+et al., 2014). In A. thaliana, the lectin-like RLK DORN1/LecRK-
+I.9 recognizes eATP released in response to wounding, her-
+bivory or pathogen attack to induce PTI-like defenses (Choi
+et al., 2014; Li et al., 2016b). DORN1 is unrelated in structure
+to the previously described nucleotide receptors in mam-
+mals, again pointing to convergent evolution of eATP recog-
+nition capacity. Whether ATP is actively exported as
+described in humans remains to be determined in plants.
+
+Oligogalacturonides (OGs), fragments of plant cell wall
+pectin, are produced through hydrolysis by fungal or host
+
+PGs during fungal infection or herbivory (Bergey et al., 1999;
+De Lorenzo et al., 2001; Ferrari et al., 2013). OG recognition,
+likely through the EGF-like RLK WAK1,
+induces PTI-like
+defenses (Denoux et al., 2008; Brutus et al., 2010). Cutin
+monomers and cellulose-derived oligomers are also
+immunogenic (Fauth et al., 1998; Souza et al., 2017). Recog-
+nition of these cell-wall-derived DAMPs resembles TLR2/
+TLR4/TLR6-mediated recognition of degradation products
+from extracellular matrix in mammals (Choi and Klessig,
+2016). Indeed, the malectin-like domain Catharanthus roseus
+RLK1-like (MLD-CrRLK1L) receptor THE1 and the class XII
+LRR-RLK MIK2 (LRR-KISS) link cell wall disintegration to
+defense activation (Hematy et al., 2007; Van der Does et al.,
+2017). Notably, MIK2 also acts as part of the receptor com-
+plex in the pollen tube for the DEFENSIN-LIKE peptide
+AtLURE1, a female guidance signal from the synergid cells
+(Wang et al., 2016b). Whether AtLURE1-like peptides or the
+aforementioned carbohydrate DAMPs provide ligands for
+these cell wall integrity sensors requires future investigation.
+Several endogenous peptides act as DAMPs, after pro-
+cessing from larger precursors and/or extracellular release
+during herbivore or pathogen resistance (Yamaguchi and
+Huffaker, 2011; Bartels and Boller, 2015). In tomato, the
+18-amino-acid
+jasmonic
+acid-dependent systemic signaling leading to herbivore
+resistance (Pearce et al., 1991; McGurl et al., 1992; Orozco-
+Cardenas et al., 1993; Beloshistov et al., 2017). The lack of
+an N-terminal
+leader sequence in the precursor prosys-
+temin implies passive systemin release upon tissue injury.
+Hydroxyproline-rich systemins (HypSys), 18-amino-acid
+glycosylated peptides, also mediate herbivore defenses in
+Solanaceous species (Pearce et al., 2009). In A. thaliana,
+PIP1 and PIP2 amplify MAMP-induced defenses via the
+class XI LRR-RLK RLK7 in a manner dependent on BAK1
+(Hou et al., 2014).
+
+systemin
+
+triggers
+
+peptide
+
+Plant elicitor peptides (Peps), including AtPep1-AtPep8
+in A. thaliana and ZmPep1 in maize, are among the best-
+characterized DAMPs in plants (Yamaguchi and Huffaker,
+2011; Bartels and Boller, 2015). Elicitor-active Pep epitopes
+are embedded in the C-terminus of PROPEP precursors,
+and recognized by the class XI LRR-RLKs PEPR1/PEPR2 in
+A. thaliana. The Pep-PEPR system contributes to broad-
+spectrum resistance against bacteria, fungi, oomycetes,
+nematodes and insects, and systemic immunity (Huffaker
+et al., 2006, 2013; Liu et al., 2013; Tintor et al., 2013; Ross
+et al., 2014; Lee et al., 2017). The lack of an N-terminal lea-
+sequence implies membrane damage-dependent
+der
+release of PROPEPs (or derived DAMPs). Indeed, AtPRO-
+PEP3 release and apparent processing is enhanced in the
+presence of virulence effectors and/or host cell death dur-
+ing Pst challenge (Yamada et al., 2016c). Notably, however,
+AtPROPEP3 is also released following sterile AtPep1 appli-
+cation, albeit without apparent processing. Given PEPR
+requirements for MAMP responses (Ma et al., 2012; Tintor
+
+© 2017 The Authors
+The Plant Journal published by John Wiley & Sons Ltd and Society for Experimental Biology.,
+The Plant Journal, (2018), 93, 592–613
+
+ 1365313x, 2018, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/tpj.13808, Wiley Online Library on [20/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons Licenseet al., 2013), leaderless PROPEPs may undergo unconven-
+interleukin 1L-1b in
+tional secretion, as described for
+humans (Malhotra, 2013). Although conserved in angios-
+perms, Peps from a particular plant species are only recog-
+nized in plants of the same family, pointing to the family-
+level diversiﬁcation of recognition speciﬁcities (Huffaker
+et al., 2011, 2013; Lori et al., 2015).
+
+RECOGNITION OF COMMON PATTERNS ACROSS
+KINGDOMS
+
+In mammals, ﬂagellin is recognized by the extracellular
+and intracellular PRRs TLR5 and NLRC4,
+respectively
+(Hayashi et al., 2001; Kofoed and Vance, 2011; Zhao et al.,
+2011). The ﬂagellin site recognized by TLR5 is apart from
+ﬂg22, although it partially overlaps with ﬂgII-28 (Yoon
+et al., 2012). The diversiﬁcation of ﬂagellin patterns and
+receptors points to convergent evolution of ﬂagellin per-
+ception between plants and mammals (Ausubel, 2005).
+Intriguingly, muramyl dipeptides, breakdown products of
+PGNs, trigger immune response in metazoans, but not in
+A. thaliana (Gust et al., 2007). Several classes of PRRs
+including TLRs
+mediate PGN recognition in metazoans,
+and nucleotide-binding oligomerization domain-containing
+(NOD) receptors (Guan and Mariuzza, 2007). All
+these
+receptors are again unrelated in structure to plant PGN
+receptors described above. LPS perception systems are
+also diverged between plants and mammals. The extracel-
+lular (TLR4 and CD14) and intracellular (caspase-11) recep-
+tors in mammals and LORE all recognize the lipid A moiety
+of LPS. However, their LPS recognition is differentially
+inﬂuenced by LPS acylation patterns: hexa-acylated LPS
+from E. coli fails to activate LORE but strongly activates
+TLR4, while in contrast penta-acylated LPS from the human
+pathogen Pseudomonas aeruginosa activates LORE signal-
+ing, but not TLR4 or caspase-11 (Tan and Kagan, 2014;
+Ranf et al., 2015). Furthermore, unlike in plants, no genuine
+chitin receptor has been identiﬁed in mammals, although
+TLR2, Dectin-1 and the mannose receptor have been impli-
+cated in chitin-induced immune responses (Bueter et al.,
+2013). These ﬁndings strengthen the view that lineage-speci-
+ﬁc PRRs, arisen through convergent evolution, often recog-
+nize distinct patterns from common microbial components
+in plants and animals.
+
+Like mammals, plants seem to recognize RNA and
+DNA patterns from both microbe- and host-origins
+(Huang et al., 2016). BAK1 and SERK1 mediate antiviral
+immunity and PTI-like responses to double-strand RNA
+(dsRNA), respectively (Korner et al., 2013; Niehl et al.,
+2016). The LRR-RLK NIK1 (related to BAK1) also con-
+tributes to antiviral
+immunity and identiﬁes a virulence
+for begomovirus (Santos et al., 2010; Zorzatto
+target
+et al., 2015), pointing to cell surface perception of viral
+patterns. Whether and if so how this is linked to RNA
+(DCL)-mediated dsRNA
+silencing following dicer-like
+
+Pattern recognition receptors in plants 599
+
+detection represents an interesting question in antiviral
+immunity.
+
+Mammals recognize DNA-derived patterns through the
+endosomal TLR9 and the cytoplasmic cyclic GMP-AMP
+synthase-STING systems (Gallucci and Maffei, 2017).
+Plants may also employ PRR(s) to perceive extracellular
+DNA (eDNA), as eDNA induces PTI-like defenses and
+pathogen resistance (Wen et al., 2009; Duran-Flores and
+Heil, 2014, 2015; Mazzoleni et al., 2015; Gallucci and Maffei,
+2017). Of note, substantial amounts of DNA are secreted
+from plant roots, and inﬂuence both plants and microbes
+in the soil (Ceccherini et al., 2009; Driouich et al., 2013).
+eDNA serves as a nutrient source (Paungfoo-Lonhienne
+et al., 2010), but also causes plant growth inhibition in a
+conspeciﬁc manner (Mazzoleni et al., 2015). Plant eDNA
+may act as DAMPs, to indicate life-threatening conditions
+to the same (or closely related) plant species (Veresoglou
+et al., 2015).
+
+CELLULAR AND PHYSIOLOGICAL OUTPUTS AND
+SIGNALING EVENTS DURING PTI
+
+Perception of distinct patterns via cognate PRRs leads to a
+stereotypic set of intracellular signaling events and defense
+responses, which collectively contribute to the establish-
+ment of PTI. Hence, these PTI-hallmark outputs provide
+useful proxies to assess the strength and effectiveness of
+PRR signaling. They include changes in ion-ﬂuxes across
+the plasma membranes (PMs), increases in cytosolic Ca2+
+and apoplastic reactive oxygen species (ROS) levels, and
+mitogen-activated protein kinase (MAPK) activation, which
+are followed by production of phytohormones such as
+ethylene and salicylic acids (SA), stomatal closure, callose
+deposition, transcriptional and metabolic reprogramming
+(Boller and Felix, 2009; Yu et al., 2017; Figure 1). A large
+number of genes are commonly up- or downregulated in
+response to different MAMPs/DAMPs (Zipfel et al., 2006;
+Gust et al., 2007; Denoux et al., 2008; Wan et al., 2008;
+Ross et al., 2014). These ﬁndings may imply that PRRs
+merely represent separate entry points to PTI. However,
+PRR pathways display notable diversiﬁcation in the
+defense outputs and/or regulatory modes (see below).
+
+concentrations
+
+cytosolic Ca2+
+
+Immediately after pattern recognition, induced is a rapid
+([Ca2+]cyt)
+increase of
+(Lecourieux et al., 2002; Seybold et al., 2014; Yuan et al.,
+2017), which is required for a vast majority of PTI-charac-
+teristic outputs (Jeworutzki et al., 2010; Kwaaitaal et al.,
+2011; Ranf et al., 2011). Ca2+ pumps/channels mediating
+Ca2+ inﬂux from the apoplasm and release from the inter-
+nal stores need to be deﬁned (Klusener et al., 2002; Sey-
+bold et al., 2014; Thor and Peiter, 2014; Yuan et al., 2017).
+Cyclic nucleotide gated channel2 (CNGC2) and ionotropic
+glutamate receptor-like channels (iGluR) are required for
+LPS/Pep1- and ﬂg22/elf18/chitin-induced [Ca2+]cyt bursts,
+respectively (Ali et al., 2007; Qi et al., 2010; Kwaaitaal
+
+© 2017 The Authors
+The Plant Journal published by John Wiley & Sons Ltd and Society for Experimental Biology.,
+The Plant Journal, (2018), 93, 592–613
+
+ 1365313x, 2018, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/tpj.13808, Wiley Online Library on [20/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License600 Yusuke Saijo et al.
+
+et al., 2011). However, their contributions are marginal to
+ﬂg22-induced [Ca2+]cyt oscillation of guard cells (Thor and
+Peiter, 2014), suggesting the context-speciﬁc employment
+of different Ca2+ channels/pumps. Ca2+-ATPase8 (ACA8)
+and ACA10 associate with FLS2 and are required for ﬂg22-
+induced defenses, but not that of chitin (Frei dit Frey et al.,
+2012). Physical and functional association of ACA8/ACA10
+with BRI1 and the CLE peptide receptor CLV1 implies their
+broad assignment to LRR-RLKs.
+
+Extracellular alkalinization and PM depolarization are
+detectable shortly after pattern recognition. PM-resident
+H+-ATPases (AHAs) mediate H+ efﬂux from cytosol
+to
+establish the PM potential
+in resting cells, but pattern-
+induced AHA inactivation allows H+ inﬂux down the elec-
+trochemical gradient. Together with increases in Cl(cid:1) and K+
+efﬂuxes, this results in extracellular alkalinization (Jewor-
+utzki et al., 2010; Elmore and Coaker, 2011). In A. thaliana,
+dephosphorylation at two residues and phosphorylation at
+Ser 899 of AHA, promoting and inhibiting AHA activity
+respectively, occur during PTI (Benschop et al., 2007; Nuhse
+et al., 2007). Pattern recognition also involves the endoge-
+nous RALF peptides and their receptor, the MLD-CrRLK1L
+FERONIA (FER) (Pearce et al., 2001; Haruta et al., 2008,
+2014). FER phosphorylation of AHA2 at Ser 899 results in
+AHA2 inactivation and thus extracellular alkalinization (Fig-
+ure 2a; Haruta et al., 2014). By contrast, constitutive AHA
+activation blocks extracellular alkalinization and stomatal
+closure in response to ﬂg22, an important PTI defense
+against microbial invasion (Liu et al., 2009; Lee et al., 2015).
+AHA activation is also among the mechanisms by which
+RIN4, a guardee of the NLRs RPM1 and RPS2, attenuates
+PTI (Liu et al., 2009; Lee et al., 2015). Given the extensive
+reliance on PM-associated proteins, the impact of changes
+in the PM potential on PTI can be enormous, an interesting
+hypothesis remaining to be tested.
+
+(cid:1))
+Reactive oxygen species, such as superoxide anion (O2
+and hydrogen peroxide (H2O2), serve not only as antimicro-
+bial and cell-wall cross-linking agents, but also as signaling
+molecules (Wrzaczek et al., 2013; Qi et al., 2017). Pattern-
+induced apoplastic ROS production requires the NADPH
+oxidase RBOHD (sufﬁcient for the ﬁrst ROS burst within
+1–2 min) and the peroxidases PRX33/34 (Nuhse et al.,
+2007; Zhang et al., 2007; Daudi et al., 2012; Kadota et al.,
+2014). RBOHD is subject to Ca2+-dependent and -indepen-
+dent regulations during PTI (Kadota et al., 2015). Although
+the signiﬁcance of direct Ca2+ binding is unclear, RBOHD
+phosphorylation by Ca2+-dependent protein kinases
+(CDPKs), namely CPK5, CPK6, CPK11 and CPK4, leads to
+RBOHD activation (Ogasawara et al., 2008; Boudsocq et al.,
+2010; Dubiella et al., 2013). ROS also increase [Ca2+]cyt and
+CPK5 activity (Dubiella et al., 2013). In addition, BIK1 phos-
+phorylation of RBOHD further promotes RBOHD activation
+(Kadota et al., 2014; Li et al., 2014b). Notably, CPK5 and
+BIK1 phosphorylate RBOHD at distinct sites, and additively
+
+promote RBOHD activation. BIK1/PBL1 also promote a
+[Ca2+]cyt burst
+(Li et al., 2014b; Ranf et al., 2014) and
+RBOHD association with the heterotrimeric G-proteins
+composed of XLG2, AGB1 and AGG1/AGG2 (Liang et al.,
+2016), thereby ensuring RBOHD activation. The G-proteins
+in turn mediate stable accumulation of BIK1. These ﬁnd-
+ings illuminate positive feedback ampliﬁcation between
+Ca2+, ROS and BIK1/PBLs, which can strengthen PTI signal-
+ing. By contrast, CPK28 attenuates PTI signaling by phos-
+phorylating BIK1, which leads to proteasomal BIK1
+degradation (Monaghan et al., 2014). The RLCK PBL13
+association with RBOHD also negatively inﬂuences ROS
+production (Lin et al., 2015). As such, ﬁne-tuning individual
+RLCK activity and balancing opposing functions of
+different RLCK members underlie tight control of ROS
+production.
+
+Separate RLCK members are assigned between LRR-
+largely reﬂecting RLCK
+and LysM-domain PRR classes,
+phosphorylation preference between BAK1 (for BIK1) and
+CERK1 (for PBL27). BIK1 and closely related PBL1 play a
+critical role in FLS2, EFR and PEPR signaling (Lu et al.,
+2010; Zhang et al., 2010; Liu et al., 2013). The RLCKs PBS1,
+PBL2, BSK1 and PCRK1/PCRK2 also function with FLS2
+(Zhang et al., 2010; Shi et al., 2013; Sreekanta et al., 2015;
+Kong et al., 2016), which explains the retention of some
+FLS2 signaling outputs in bik1 pbl1 plants (Zhang et al.,
+2010; Feng et al., 2012; Shi et al., 2013; Ranf et al., 2014).
+In rice, OsRLCK176 and OsRLCK185 function with OsCERK1
+in response to chitin and PGN (Yamaguchi et al., 2013). In
+A.
+thaliana, chitin induces CERK1 phosphorylation of
+PBL27, orthologous to OsRLCK185, and in turn PBL27
+phosphorylation of MAPKKK5 (Shinya et al., 2014; Yamada
+et al., 2016b). Thus, PBL27 deﬁnes a direct link between
+the LYK5/LYK4-CERK1 chitin receptor complex and a MAPK
+cascade consisting of MAPKKK5-MKK4/MKK5-MPK3/MPK6
+(Yamada et al., 2016b). On the other hand, BIK1/PBLs are
+likely to connect BAK1-associated PRRs to MAPK cascades.
+Although BIK1/PBL1
+FLS2/EFR-
+mediated MAPK activation (Zhang et al., 2010), this can be
+attributable to redundancy between RLCK members.
+Indeed, the Xanthomonas campestris effector AvrAC inhi-
+bits BIK1 and related PBLs, thereby suppressing MAPK
+activation in response to ﬂg22 (Feng et al., 2012).
+
+are dispensable
+
+for
+
+In A. thaliana, PRR signaling involves two major MAPK
+cascades: one with an unknown MAPKK-kinase, MKK4/
+MKK5 (MAPK kinase) and MPK3/MPK6 (MAPK); and the
+other with MAPKKK8 (MEKK1), MKK1/MKK2 and MPK4/
+MPK11 (Meng and Zhang, 2013). A growing number of
+MAPK substrates have been described in PTI. MPK3/MPK6
+phosphorylation of 1-aminocyclopropane-1-carboxylic acid
+synthase2 (ACS2) and ACS6 enhances ethylene production
+in response to ﬂg22 (Liu and Zhang, 2004). MPK3 and/or
+MPK6 also phosphorylate several
+transcription factors
+including BES1, ERF104, WRKY33 and
+(TFs) during PTI,
+
+© 2017 The Authors
+The Plant Journal published by John Wiley & Sons Ltd and Society for Experimental Biology.,
+The Plant Journal, (2018), 93, 592–613
+
+ 1365313x, 2018, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/tpj.13808, Wiley Online Library on [20/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons LicenseIshihama
+VIP1 (Djamei et al., 2007; Bethke et al., 2009;
+et al., 2011; Mao et al., 2011; Kang et al., 2015). MPK3/
+MPK6 phosphorylation targets a subclass of VQ-motif-con-
+taining proteins (VQPs),
+including VQ4, for degradation
+(Pecher et al., 2014). As a consequence, WRKY TFs are
+de-repressed from VQ4-mediated sequestration. Likewise,
+VQ21 (MKS1) brings together WRKY33 and MPK4, thereby
+having WRKY33 release dependent on MPK4 phosphoryla-
+tion of VQ21 (Qiu et al., 2008). Moreover, MPK3/MPK6
+phosphorylation of cyclin-dependent kinase Cs (CDKCs),
+and subsequent CDKC phosphorylation of RNA poly-
+merase II C-terminal domain directly mediate transcrip-
+tional activation of defense-related genes (Li et al., 2014a).
+MPK3/MPK6 and MPK4 also inﬂuence mRNA quality con-
+trol in the cytoplasmic processing bodies, by phosphorylat-
+ing the mRNA-binding proteins TZF9
+and PAT1,
+respectively (Maldonado-Bonilla et al., 2014; Roux et al.,
+2015). Conversely, MPK3 phosphorylation of PUB22 inhi-
+bits its auto-ubiquitination and degradation, thereby stabi-
+lizing this negative regulator for PTI attenuation (Furlan
+et al., 2017). ﬂg22-induced MPK4 phosphorylation of the
+transcriptional repressor ASR leads to suppression of
+defense-related genes (Li et al., 2015a). Furthermore,
+expression proﬁling in mpk mutants revealed previously
+unsuspected complex roles for MPK3 and MPK4 in ﬂg22-
+induced transcriptional reprogramming (Frei dit Frey et al.,
+2014). Together, MAPK cascades both positively and nega-
+tively regulate transcriptional reprogramming during PTI.
+
+Mitogen-activated protein kinase cascades undergo
+cross-regulations between themselves and with other
+defense pathways. MAPKKK5 inversely inﬂuences chitin-
+and ﬂg22-responses:
+loss of MAPKKK5, which mediates
+MPK3/MPK6 activation in the CERK1-PBL27 phospho-relay,
+enhances ﬂg22-induced MPK3/MPK6 activation (Yamada
+et al., 2016b). MAPKKK7 physically associates with FLS2
+and attenuates ﬂg22-induced defenses, via a process that
+remains elusive (Mott et al., 2016). Moreover, the secreted
+proteases PrpL and ArgC from the bacterial pathogens
+induce
+P. aeruginosa and X. campestris,
+MAPK activation in a distinct mode (Cheng et al., 2015).
+This requires heteromeric G-proteins composed of AGB1,
+GPA1 and AGG1/AGG2, and the conserved scaffold protein
+RACK1, which associates with MEKK1, MKK5, MPK3 and
+MPK6, but not MPK4. However, the G-proteins and RACK1
+are dispensable for MPK3/MPK6 activation in response to
+ﬂg22. The requirement
+for PrpL/ArgC catalytic activity
+implies the possible involvement of DAMPs in this
+regulation.
+
+respectively,
+
+Ca2+-dependent protein kinases and MAPKs act in paral-
+lel or concert to mediate transcriptional reprogramming
+during PTI (Boudsocq et al., 2010). PTI-inducible genes are
+classiﬁed into MAPK-speciﬁc, MAPK-dominant, synergisti-
+cally regulated and CDPK-speciﬁc genes (Boudsocq et al.,
+2010). CDPK- and MAPK-mediated transcriptional regulations
+
+Pattern recognition receptors in plants 601
+
+can be also antagonistic or complementary to each other.
+When [Ca2+]cyt bursts are impaired with aca8 aca10 mutation
+or iGluR inhibition, ﬂg22 induction of CDPK-speciﬁc target
+genes is lowered but that of MAPK-speciﬁc target genes is
+enhanced (Kwaaitaal et al., 2011; Frei dit Frey et al., 2012).
+Identiﬁcation of CDPK substrates will help elucidate the
+underlying mechanisms.
+
+In rice, the small GTPase OsRac1 also provides a link
+between OsCERK1 and downstream signaling. The Rac
+GDP/GTP exchange factor 1 (OsRacGEF1) identiﬁes another
+important substrate of OsCERK1 during chitin-triggered
+signaling (Akamatsu et al., 2013). Phosphorylated OsRac-
+GEF1 activates and involves OsRac1 to trigger ROS produc-
+tion through direct association with OsRBOHB, thereby
+mediating fungal resistance (Ono et al., 2001; Wong et al.,
+2007; Oda et al., 2010; Akamatsu et al., 2013). Experimental
+two separate pathways, OsRLCK185-
+data suggest
+(corresponding to
+OsMAPKKK18/24-OsMKK4-OsMPK3/6
+PBL27-MAPKKK5-MKK4/5-MPK3/6)
+OsRacGEF1-
+and
+OsRac1, mediate chitin signaling downstream of OsCERK1
+(Kawasaki et al., 2017; Wang et al., 2017; Yamada et al.,
+2017).
+
+that
+
+FUNCTIONAL DIVERGENCE AND SIGNAL INTEGRATION
+BETWEEN PRR PATHWAYS
+
+Pattern recognition receptor pathways display substantial
+divergence in their sensitivity to biotic or abiotic perturba-
+tions. For instance, compared with EFR and XA21, FLS2
+and PEPR1/PEPR2 better tolerate dysfunction of N-glycosy-
+lation-dependent ER quality control (QC; Tintor and Saijo,
+2014). The ERQC pathway is also required for SOBIR1 func-
+tion and autoimmunity in bir1 and bak1 serk4 plants, but
+not or less for BAK1 function or plant development (Sun
+et al., 2014; Tintor and Saijo, 2014; Zhang et al., 2015a; de
+Oliveira et al., 2016). These ﬁndings suggest that an ERQC
+pathway is speciﬁcally employed for a large subset of cell
+surface defense regulators in plants. Moreover, BAK1-asso-
+ciated PRRs are also diverged in BAK1 or BIK1 require-
+ments. FLS2 strictly requires BAK1, in contrast to EFR or
+PEPR1/PEPR2 that can promiscuously function with differ-
+ent SERK members (Roux et al., 2011; Yamada et al.,
+2016c). On the other hand, PEPR1/PEPR2 strictly require
+BIK1/PBL1 (Feng et al., 2012; Yamada et al., 2016c), while
+FLS2 is less vulnerable to the loss of them. Even within sin-
+gle PRR pathways, separate defense outputs often differen-
+tially require SERK or RLCK family members (Tang et al.,
+2017). Hence, simultaneous activation of these PRR path-
+ways that are diverged in rate-limiting steps is likely to
+increase the robustness of overall PTI signaling against
+pathogen assaults. This is relevant in natural infections,
+wherein plants are exposed to mixtures of MAMPs/DAMPs
+(Aslam et al., 2009). Interestingly, substantial variations in
+ﬂg22 or elf18 responsiveness are present across A. thaliana
+accessions, which are mostly uncorrelated with each other
+
+© 2017 The Authors
+The Plant Journal published by John Wiley & Sons Ltd and Society for Experimental Biology.,
+The Plant Journal, (2018), 93, 592–613
+
+ 1365313x, 2018, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/tpj.13808, Wiley Online Library on [20/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License602 Yusuke Saijo et al.
+
+(Vetter et al.,
+and attributable to different genetic loci
+2016). It is conceivable that different PRRs have indepen-
+dently diversiﬁed their functions and/or regulations within
+or among natural plant populations, thereby facilitating
+plant adaptation to different habitats and microbiota
+thereof.
+
+Pattern-triggered immunity is mounted in coordination
+between different PRR pathways and with other physiolog-
+ical processes. Additive or synergistic effects are often
+seen following simultaneous and/or sequential application
+of different patterns (Gust et al., 2017). This is often the
+case for DAMPs: cutin, cellobiose, PIPs, Peps and RALF17
+enhance MAMP-triggered defenses (Fauth et al., 1998; Bar-
+tels et al., 2013; Hou et al., 2014; Souza et al., 2017; Steg-
+mann et al., 2017). Conversely, ﬂg22/elf18 pretreatment
+enhances Pep1-induced ROS production (Flury et al.,
+2013). These data are compatible with the view that coinci-
+dental detection of DAMPs in addition to MAMPs is indica-
+tive of pathogenesis and strongly triggers host defense
+activation (Escamilla-Tilch et al., 2013; Stuart et al., 2013).
+
+functional
+
+Importantly,
+
+interactions between different
+PRRs also occur in a layered manner. Pattern recognition
+often leads to further induction of DAMPs or their precur-
+sors (Gust et al., 2017). More importantly, perturbations of
+MAMP signaling at different key steps are linked to the
+activation or sensitization of another defense layer at both
+the local and systemic levels. This resembles the indirect
+recognition mode of ETI activation, but differs from ETI in
+that speciﬁc effector recognition is not required (Couto and
+Zipfel, 2016; Yasuda et al., 2017). For instance, BAK1 dys-
+function is linked to de-repression of cell death and
+autoimmunity (He et al., 2007; Kemmerling et al., 2007;
+Wang et al., 2011; de Oliveira et al., 2016), via membrane-
+resident PRR-like regulators and NLRs (Yasuda et al.,
+2017). Depletion (not catalytic inactivation) of BAK1 leads
+to sensitization of PEPR signaling toward SA-based
+defenses (Figure 2b; Yamada et al., 2016c). This is critical
+for basal resistance against Colletotrichum higginsianum,
+infection.
+which selectively depletes BAK1 during initial
+However, Pst selectively targets a MAMP-induced active
+pool of BAK1 with the effector HopB1, without discernible
+counter-activation of
+the back-up defenses (Li et al.,
+2016a). Likewise, dysfunction of key PTI components,
+including BIK1, RBOHD, the MPK4 cascade and the callose
+synthase PMR4, is linked to enhanced resistance against
+virulent pathogens (Nishimura et al., 2003; Kim et al.,
+2005; Zhang et al., 2010, 2012; Laluk et al., 2011; Kong
+et al., 2012; Kadota et al., 2014; Roux et al., 2015).
+
+Antagonistic effects are also seen in certain pattern com-
+binations, for instance, between OG and ﬂg22/elf18 in ROS
+and [Ca2+]cyt bursts (Aslam et al., 2009), between chitin and
+ﬂg22 in MPK3/MPK6 activation (Yamada et al., 2016b), and
+between RALF23/33/34 and ﬂg22/elf18/chitin/RALF17 (Steg-
+mann et al., 2017). They may reﬂect competition for
+
+signaling components or cellular resources. The biological
+signiﬁcance and the underlying mechanisms require fur-
+ther investigation.
+
+FER has pleiotropic roles in plant growth and develop-
+ment (Tavormina et al., 2015), as the receptor for RALF
+peptides including immuno-stimulatory and immuno-
+repressible members (Figure 2a).
+Immuno-repressible
+RALFs act through FER to restrict ligand-induced FLS2/EFR-
+BAK1 association (Stegmann et al., 2017). Reﬂecting this
+complexity, loss of FER enhances powdery mildew fungal
+resistance (Kessler et al., 2010), but lowers MAMP-induced
+ROS production and Pst resistance (Stegmann et al., 2017).
+Fine control of immune responses through RALF peptides
+of opposing functions resembles that of pro- and anti-
+inﬂammatory cytokines in mammals (Banchereau et al.,
+2012). The MLD-CrRLK1L IOS1 constitutively associates
+with FLS2, EFR, BAK1 and CERK1, and promotes FLS2-
+BAK1 association, suggesting that IOS1 provides a scaffold
+for PRR complexes of different ectodomain classes (Yeh
+et al., 2016). PRR homo-oligomerization or larger complex
+formation involving two or more PRRs may occur at such
+cell-surface scaffolds (Sun et al., 2012). The glycosylphos-
+phatidylinositole-anchored protein LLG1, a co-receptor for
+FER (Li et al., 2015b), constitutively associates with FLS2/
+EFR to ensure FLS2 accumulation and signaling, but is dis-
+pensable for FLS2-BAK1 association (Shen et al., 2017).
+Notably, in llg1-3 allele, FLS2 signaling control is uncou-
+pled from that of receptor accumulation. EFR signaling
+control is also uncoupled from EFR abundance control in
+weakly dysfunctional alleles of ERQC components (Lu
+et al., 2009; Saijo et al., 2009). Together with advances in
+PRR signaling mechanisms, it is interesting to address the
+causal relationship between receptor folding, localization
+and signaling functions on the cell surface scaffolds.
+
+A well-documented tradeoff between immunity and
+growth also inﬂuences PTI signaling (Belkhadir et al.,
+2014). For instance, FLS2-mediated PTI signaling and BRI1-
+mediated BR signaling antagonize each other (Lozano-
+Duran and Zipfel, 2015). Among the shared signaling com-
+ponents between the two pathways, at least BAK1 and
+BSK1 are not the limiting factor for such tradeoff (Lozano-
+Duran et al., 2013; Shi et al., 2013). However, while BIK1
+positively regulates FLS2 signaling, BIK1 negatively regu-
+lates BR signaling through phosphorylation of BRI1 (Lin
+et al., 2013). Conversely, the BR-responsive TFs BZR1 and
+HBI1 attenuate PTI signaling (Lozano-Duran et al., 2013;
+Fan et al., 2014; Malinovsky et al., 2014). Another example
+involves FLS2/EFR and the LRR-RLKs PSKRs and PSY1R,
+which recognize growth-promoting Tyr-sulfated peptides
+PSKs and PSY1, respectively (Matsubayashi and Sakagami,
+2006; Amano et al., 2007). MAMP responses and bacterial
+and fungal resistance are negatively correlated with the
+dose of PSKs, PSY1R and/or Tyr protein sulfotransferase
+that activates PSKs (Igarashi et al., 2012; Mosher et al.,
+
+© 2017 The Authors
+The Plant Journal published by John Wiley & Sons Ltd and Society for Experimental Biology.,
+The Plant Journal, (2018), 93, 592–613
+
+ 1365313x, 2018, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/tpj.13808, Wiley Online Library on [20/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License2013). Enforced PRR activation typically results in seedling
+growth inhibition (Boller and Felix, 2009). The secreted
+peptide CLE14 is perceived not only by the LRR-RLP CLV2
+but also by PEPR2 under
+low-phosphate conditions,
+thereby inducing full differentiation of the root meristem
+and growth arrest of the primary root (Gutierrez-Alanis
+et al., 2017). It is interesting to test possible inﬂuences of
+CLE14 on PEPR2-mediated defense signaling.
+
+Signal attenuation mechanisms of PRRs are exploited by
+pathogens to subvert PTI. Fungal pathogens secrete func-
+tional homologs of RALF peptides to manipulate host
+physiology and immunity (Masachis et al., 2016; Thynne
+et al., 2017; Figure 2a). Their recognition by FER leads to
+invasive
+extracellular
+hyphal growth and fungal virulence (Di Pietro et al., 2001;
+Prusky and Yakoby, 2003), and also leads to the suppres-
+sion of PTI (Masachis et al., 2016).
+
+alkalinization, which facilitates
+
+PRR-MEDIATED CONTROL OF BENEFICIAL AND
+COMMENSAL MICROBES
+
+Symbiotic microbes also exploit cross-regulations between
+host PRR pathways. There is a high degree of overlap
+between symbiotic and immune signaling (Antolin-Llovera
+et al., 2014; Zipfel and Oldroyd, 2017). Similar constraints
+are imposed by the host immunity on mutualistic and
+pathogenic microbes, which include PTI, i.e. elicitor-inac-
+tive ﬂg22 alleles in nitrogen-ﬁxing rhizobacteria (Gomez-
+Gomez et al., 1999) and ﬂg22-induced suppression of their
+colonization (Lopez-Gomez et al., 2012), and ETS/ETI, i.e.
+NLR-dependent rhizobacterial resistance (Yang et al., 2010)
+and bacterial effector-mediated promotion or restriction of
+symbiosis (Marchetti et al., 2010; Okazaki et al., 2013; Tsu-
+kui et al., 2013; Gourion et al., 2015; Yasuda et al., 2016).
+Given the shared host requirements between arbuscular
+mycorrhizal (AM) and root nodule symbioses (Bonfante
+and Genre, 2010; Oldroyd, 2013), the similar principles
+may broadly apply to mutualistic fungi (Plett and Martin,
+2015).
+
+Nodule symbiosis relies on host-speciﬁc recognition of
+microbial
+lipo-chitooligosaccharides (LCOs), designated
+NOD factors (Cullimore et al., 2001; Bek et al., 2010), via
+the LysM-RLK pairs LjNFR1-LjNFR5 and MtLYK3-MtNFP in
+Lotus japonicus and Medicago truncatula, respectively
+(Broghammer et al., 2012). NOD factor perception induces
+symbiotic responses, and involves the LysM-RLK EPR3 that
+recognizes bacterial exopolysaccharides (EPS) to sustain
+In addi-
+rhizobial colonization (Kawaharada et al., 2015).
+tion, NOD factors or chitin oligomers (C4/C5) reduce ﬂg22-
+induced defenses in soybean (Liang et al., 2013). Notably,
+this PTI suppression also occurs in A. thaliana that lacks
+nodule and AM symbioses, through the LysM-RLK AtLYK3
+(Figure 2c).
+In addition to the successful evasion from
+FLS2 recognition (Gomez-Gomez et al., 1999), rhizobacteria
+induce FLS2/EFR degradation with NOD factors.
+
+Pattern recognition receptors in plants 603
+
+Lipo-chitooligosaccharides and chitin oligosaccharides
+from AM fungi
+trigger mycorrhization-associated
+responses (Maillet et al., 2011; Genre et al., 2013), through
+LjNFR1/MtLYK3, LjNFR5/MtNFP and related LysM-RLKs,
+although LjNFR5/MtNFP is dispensable for AM symbiosis
+(Zhang et al., 2015b; Zipfel and Oldroyd, 2017). Notably,
+LjNFR1/MtLYK3 are orthologous to OsCERK1, which has a
+dual role in promoting AM symbiosis and chitin-induced
+immunity in rice. These CERK1 orthologs may act as a
+common co-receptor for mycorrhizal signals as well as
+chitin or PGNs. Consistent with this notion, evidence
+suggests a positive role for LjNFR1 and MtNFP in plant
+immunity (Nakagawa et al., 2011; Rey et al., 2013). The
+MLD-CrRLK1L SYMRK, a common requirement for nodule-
+and AM-symbioses (Stracke et al., 2002), may provide a
+signaling scaffold. Remarkably, ligand-speciﬁc activation of
+defense or symbiosis via the shared (co)receptor also
+occurs in mammals: TLR2 mediates immune activation
+and suppression in response to pathogen-derived ligands
+and gut bacterial ligands, respectively (Round et al., 2011).
+In the case of CERK1, in addition to the ligand speciﬁcities
+of the paired receptors (Bozsoki et al., 2017), the Tyr-Ala-
+Gln/Arg motif in the CERK1 kinase domain provides a criti-
+cal determinant for the competence of symbiotic signaling
+(Nakagawa et al., 2011; Miyata et al., 2014; Wang et al.,
+2014). Further insight into this signal sorting will shed light
+on the decisive mechanisms that selectively activate sym-
+biotic or immune signaling.
+
+Phylogenetic studies propose that perception of mycor-
+rhizal LCOs is an ancestral function for that of chitin or NOD
+factors (De Mita et al., 2014). The loss of the micorrhization-
+associated CERK1 motifs in non-micorrhizal plant lineages
+may reﬂect the antagonistic relationship between symbiotic
+and defense signaling. Indeed, in A. thaliana, the CERK1-
+interacting (class VIII) LRR-RLK LIK1 negatively inﬂuences
+chitin/ﬂg22-triggered defenses (Le et al., 2014). Some ﬁla-
+mentous pathogens exploit host symbiotic responses to
+promote root infection (Wang et al., 2012; Rey et al., 2015).
+These ﬁndings indicate that symbiotic microbes also con-
+tribute to the evolution of the host PTI systems.
+
+In nature, healthy plants accommodate endophytic
+microbes without discernible defense activation or disease
+symptoms. Recent studies point to a role for host PTI in
+the selection and management of plant-associated micro-
+bial communities (Hacquard et al., 2017).
+In A. thaliana,
+transcriptional reprogramming in response to an endo-
+phytic bacterium displays a large overlap with that of Pst
+challenge (Vogel et al., 2016), highlighting the similarity in
+the host response between commensals and pathogens.
+The majority of the A. thaliana root-associated bacteria
+seem to lack elicitor-active ﬂg22/elf18 alleles, suggesting
+that PTI evasion facilitates their colonization (Hacquard
+et al., 2017). Indeed, PTI serves to prevent the overgrowth
+of endophytic leaf bacteria under high humidity (Xin et al.,
+
+© 2017 The Authors
+The Plant Journal published by John Wiley & Sons Ltd and Society for Experimental Biology.,
+The Plant Journal, (2018), 93, 592–613
+
+ 1365313x, 2018, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/tpj.13808, Wiley Online Library on [20/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License604 Yusuke Saijo et al.
+
+2016). Moreover, virulence effector expression and/or
+delivery are substantially reduced in the non-pathogenic
+mode of bacterial and fungal colonization (Mohr et al.,
+2008; Cesbron et al., 2015; Hacquard et al., 2016). These
+ﬁndings are consistent with the idea that PTI plays a cen-
+tral role in the establishment and maintenance of plant-
+associated microbiomes.
+
+complexes (Yamada et al., 2016a). This serves to deprive
+bacteria of metabolizable sugars, and also to suppress the
+type III secretion of virulence effectors. It is interesting to
+determine the extent to which apoplastic sugar control
+contributes to PTI-induced restriction of bacterial effector
+delivery (Crabill et al., 2010) and also to the microbiome
+homeostasis described above.
+
+INTERPLAY BETWEEN PTI AND ENVIRONMENTAL
+FACTORS
+
+Environmental abiotic factors such as humidity, tempera-
+tures and nutrients drastically inﬂuence disease incidence
+and plant colonization by pathogenic and mutualistic
+microbes (Scholthof, 2007; Cheng et al., 2013; Hacquard
+et al., 2016; Wagner et al., 2016; Xin et al., 2016; Melotto
+et al., 2017). Elucidation of functional links between plant
+immunity, microbial
+infection modes and environmental
+conditions offers new avenues in PTI studies. In light of
+the homeostatic nature of plant-associated microbial com-
+munities, it is conceivable that their alterations are sensed
+by PRRs as a signature of dis-homeostasis. This hypothesis
+is related to the question of how MAMP ligands integrated
+inside the microbial cells are presented to PRRs. In A. thali-
+ana, PGN perception requires the host-derived hydrolase
+LYS1 that releases soluble elicitor-active ligands (Liu et al.,
+2014). EF-Tu and CSPs are both secreted from the bacterial
+cytoplasm via an unknown process (Song et al., 2009). It
+is important
+to determine how MAMP presentation is
+regulated, possibly depending on microbial growth status
+or environmental conditions. Of particular note, PRR-
+mediated defenses involve active control of the apoplastic
+environment, by releasing ROS (and scavengers), hydroly-
+tic enzymes, enzyme inhibitors, anti-microbial proteins and
+compounds, which may lead to further generation of
+MAMPs and DAMPs.
+
+The availability for crucial and often limiting soil nutri-
+ents such as phosphate or nitrogen also markedly inﬂu-
+ences plant interactions with pathogenic, beneﬁcial and
+commensal microbes (Parniske, 2008; Vega et al., 2015;
+Hacquard et al., 2016; Castrillo et al., 2017). It is possible
+that nutrient limitation represents signature of pathogene-
+sis in plants (Mathioni et al., 2011), as changes in meta-
+bolic states serve as DAMPs in metazoans (Gallo and
+Gallucci, 2013; Gust et al., 2017). Nutrient status-dependent
+modulation of PTI and the molecular link between nutrient
+and microbial sensing will merit vigorous investigation.
+
+Sugars produced by photosynthesis provide key nutrient
+sources for numerous plant-infecting microbes, and their
+apoplastic ﬂuxes are tightly regulated via the coordination
+of cell-wall-bound invertases (cwINs) and sucrose trans-
+porter proteins (STPs). PTI activation increases the uptake
+of hexoses (produced from sucrose via cwINs) from the
+apoplasm,
+in part through the elevated expression and
+BAK1-mediated phosphorylation of STP13 in the PRR
+
+CONCLUDING REMARKS AND PERSPECTIVES
+
+Substantial advances have been made toward a deeper
+understanding of the mechanisms underlying PRR func-
+tions, from extracellular recognition of MAMPs/DAMPs to
+the regulation of
+immune signaling that culminates in
+pathogen resistance. It is also clear that an array of PRRs
+of distinct properties, not only in ligand recognition speci-
+ﬁcities but also in immune subfunctions and/or rate-limit-
+ing regulatory steps, becomes engaged and collectively
+contributes to robust PTI activation. However, it remains
+poorly understood how plants accommodate beneﬁcial or
+commensal microbes while maintaining plant immunity to
+pathogenic microbes. Evidence indicates a critical role for
+the proper control of endophytic or mutualistic microbes
+in the establishment of beneﬁcial associations with them
+(Lahrmann et al., 2015; Hiruma et al., 2016). Of note, the
+same microorganisms can be beneﬁcial or pathogenic to
+the host, depending on biological contexts. In line with
+this, it is becoming apparent that plants employ a common
+set of defense components to control both pathogenic and
+non-pathogenic microbes. One important and challenging
+question involves how plants integrate MAMP/DAMP sens-
+ing with that of environmental cues to distinguish patho-
+gens from non-pathogens in a context-dependent manner.
+Moreover, homeostatic control of plant-associated micro-
+biome is likely to represent an important function of PRRs,
+which not only serve to sense but also to structure the
+proximal environment to the plant. Further excitement cer-
+tainly awaits us in plant PRR studies.
+
+ACKNOWLEDGEMENTS
+
+The authors thank Dr Tsutomu Kawasaki for critical reading of the
+manuscript. The authors apologize to colleagues whose work
+could not be cited owing to space constraints. This work is sup-
+ported in part by JSPS KAKENHI (16KT0031 and 16H01469) and
+the Mitsubishi Foundation.
+
+AUTHOR CONTRIBUTIONS
+
+YS, EPL and SY wrote the paper.
+
+CONFLICT OF INTEREST
+
+The authors declare no conﬂict of interest.
+
+REFERENCES
+
+Akamatsu, A., Wong, H.L., Fujiwara, M. et al. (2013) An OsCEBiP/OsCERK1-
+OsRacGEF1-OsRac1 module is an essential early component of chitin-
+induced rice immunity. Cell Host Microbe 13, 465–476.
+
+© 2017 The Authors
+The Plant Journal published by John Wiley & Sons Ltd and Society for Experimental Biology.,
+The Plant Journal, (2018), 93, 592–613
+
+ 1365313x, 2018, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/tpj.13808, Wiley Online Library on [20/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons LicenseAlbert, I., Bohm, H., Albert, M. et al. (2015) An RLP23-SOBIR1-BAK1 com-
+
+plex mediates NLP-triggered immunity. Nat. Plants, 1, 15140.
+
+Ali, R., Ma, W., Lemtiri-Chlieh, F., Tsaltas, D., Leng, Q., von Bodman, S. and
+Berkowitz, G.A. (2007) Death don’t have no mercy and neither does cal-
+cium: Arabidopsis CYCLIC NUCLEOTIDE GATED CHANNEL2 and innate
+immunity. Plant Cell, 19, 1081–1095.
+
+Amano, Y., Tsubouchi, H., Shinohara, H., Ogawa, M. and Matsubayashi, Y.
+(2007) Tyrosine-sulfated glycopeptide involved in cellular proliferation
+and expansion in Arabidopsis. Proc. Natl Acad. Sci. USA, 104, 18333–
+18338.
+
+Antolin-Llovera, M., Petutsching, E.K., Ried, M.K., Lipka, V., Nurnberger, T.,
+Robatzek, S. and Parniske, M. (2014) Knowing your friends and foes –
+plant receptor-like kinases as initiators of symbiosis or defence. New
+Phytol. 204, 791–802.
+
+Aslam, S.N., Erbs, G., Morrissey, K.L., Newman, M.A., Chinchilla, D., Boller,
+T., Molinaro, A., Jackson, R.W. and Cooper, R.M. (2009) Microbe-asso-
+ciated molecular pattern (MAMP) signatures, synergy, size and charge:
+inﬂuences on perception or mobility and host defence responses. Mol.
+Plant Pathol. 10, 375–387.
+
+Ausubel, F.M. (2005) Are innate immune signaling pathways in plants and
+
+animals conserved? Nat. Immunol. 6, 973–979.
+
+Banchereau, J., Pascual, V. and O’Garra, A. (2012) From IL-2 to IL-37: the
+expanding spectrum of anti-inﬂammatory cytokines. Nat. Immunol. 13,
+925–931.
+
+Bar, M., Sharfman, M., Ron, M. and Avni, A. (2010) BAK1 is required for the
+(Eix)-induced defense
+
+attenuation of
+responses by the decoy receptor LeEix1. Plant J. 63, 791–800.
+
+ethylene-inducing xylanase
+
+Bartels, S. and Boller, T. (2015) Quo vadis, Pep? Plant elicitor peptides at
+the crossroads of immunity, stress, and development. J. Exp. Bot. 66,
+5183–5193.
+
+Bartels, S., Lori, M., Mbengue, M., van Verk, M., Klauser, D., Hander, T.,
+Boni, R., Robatzek, S. and Boller, T. (2013) The family of Peps and their
+precursors in Arabidopsis: differential expression and localization but
+similar induction of pattern-triggered immune responses. J. Exp. Bot. 64,
+5309–5321.
+
+Bek, A.S., Sauer, J., Thygesen, M.B., Duus, J.O., Petersen, B.O., Thirup, S.,
+James, E., Jensen, K.J., Stougaard, J. and Radutoiu, S. (2010) Improved
+characterization of nod factors and genetically based variation in LysM
+Receptor domains identify amino acids expendable for nod factor recog-
+nition in Lotus spp. Mol. Plant Microbe Interact. 23, 58–66.
+
+Belkhadir, Y., Yang, L., Hetzel, J., Dangl, J.L. and Chory, J. (2014) The
+growth-defense pivot: crisis management in plants mediated by LRR-RK
+surface receptors. Trends Biochem. Sci. 39, 447–456.
+
+Beloshistov, R.E., Dreizler, K., Galiullina, R.A. et al. (2017) Phytaspase-
+mediated precursor processing and maturation of the wound hormone
+systemin. New Phytol. https://doi.org/10.1111/nph.14568.
+
+Benschop, J.J., Mohammed, S., O’Flaherty, M., Heck, A.J., Slijper, M. and
+Menke, F.L. (2007) Quantitative phosphoproteomics of early elicitor sig-
+naling in Arabidopsis. Mol. Cell Proteomics, 6, 1198–1214.
+
+Bergey, D.R., Orozco-Cardenas, M., de Moura, D.S. and Ryan, C.A. (1999) A
+wound- and systemin-inducible polygalacturonase in tomato leaves.
+Proc. Natl Acad. Sci. USA, 96, 1756–1760.
+
+Bethke, G., Unthan, T., Uhrig, J.F., Poschl, Y., Gust, A.A., Scheel, D. and
+Lee, J. (2009) Flg22 regulates the release of an ethylene response factor
+substrate from MAP kinase 6 in Arabidopsis thaliana via ethylene signal-
+ing. Proc. Natl Acad. Sci. USA, 106, 8067–8072.
+
+Blander, J.M. and Sander, L.E. (2012) Beyond pattern recognition: ﬁve
+immune checkpoints for scaling the microbial threat. Nat. Rev. Immunol.
+12, 215–225.
+
+Bohm, H., Albert, I., Oome, S., Raaymakers, T.M., Van den Ackerveken, G.
+and Nurnberger, T. (2014) A conserved peptide pattern from a wide-
+spread microbial virulence factor triggers pattern-induced immunity in
+Arabidopsis. PLoS Pathog. 10, e1004491.
+
+Boller, T. and Felix, G. (2009) A renaissance of elicitors: perception of
+microbe-associated molecular patterns and danger signals by pattern-
+recognition receptors. Annu. Rev. Plant Biol. 60, 379–406.
+
+Boneca, I.G., Dussurget, O., Cabanes, D. et al. (2007) A critical role for pepti-
+innate
+
+doglycan N-deacetylation in Listeria evasion from the host
+immune system. Proc. Natl Acad. Sci. USA, 104, 997–1002.
+
+Bonfante, P. and Genre, A. (2010) Mechanisms underlying beneﬁcial plant-
+
+fungus interactions in mycorrhizal symbiosis. Nat. Commun. 1, 48.
+
+Pattern recognition receptors in plants 605
+
+Bostock, R.M., Kuc, J.A. and Laine, R.A. (1981) Eicosapentaenoic and arachi-
+donic acids from Phytophthora infestans elicit fungitoxic sesquiterpenes
+in the potato. Science, 212, 67–69.
+
+Boudsocq, M., Willmann, M.R., McCormack, M., Lee, H., Shan, L., He, P.,
+Bush, J., Cheng, S.H. and Sheen, J. (2010) Differential innate immune
+signalling via Ca2+ sensor protein kinases. Nature, 464, 418–422.
+
+Boutrot, F. and Zipfel, C. (2017) Function, discovery, and exploitation of
+plant pattern recognition receptors for broad-spectrum disease resis-
+tance. Annu. Rev. Phytopathol. 55, 257–286.
+
+Bozsoki, Z., Cheng, J., Feng, F., Gysel, K., Vinther, M., Andersen, K.R., Old-
+royd, G., Blaise, M., Radutoiu, S. and Stougaard, J. (2017) Receptor-
+mediated chitin perception in legume roots is functionally separable
+from Nod factor perception. Proc. Natl Acad. Sci. USA, 114, E8118–
+E8127.
+
+Broghammer, A., Krusell, L., Blaise, M. et al. (2012) Legume receptors per-
+ceive the rhizobial lipochitin oligosaccharide signal molecules by direct
+binding. Proc. Natl Acad. Sci. USA, 109, 13859–13864.
+
+Brutus, A., Sicilia, F., Macone, A., Cervone, F. and De Lorenzo, G. (2010) A
+domain swap approach reveals a role of the plant wall-associated kinase
+1 (WAK1) as a receptor of oligogalacturonides. Proc. Natl Acad. Sci.
+USA, 107, 9452–9457.
+
+Bucherl, C.A., Jarsch,
+
+I.K., Schudoma, C., Segonzac, C., Mbengue, M.,
+Robatzek, S., MacLean, D., Ott, T. and Zipfel, C. (2017) Plant immune
+and growth receptors share common signalling components but localise
+to distinct plasma membrane nanodomains. eLife, 6, e25114.
+
+Bueter, C.L., Specht, C.A. and Levitz, S.M. (2013) Innate sensing of chitin
+
+and chitosan. PLoS Pathog. 9, e1003080.
+
+Cai, R., Lewis, J., Yan, S. et al. (2011) The plant pathogen Pseudomonas
+syringae pv. tomato is genetically monomorphic and under strong selec-
+tion to evade tomato immunity. PLoS Pathog. 7, e1002130.
+
+Cao, Y., Liang, Y., Tanaka, K., Nguyen, C.T., Jedrzejczak, R.P., Joachimiak,
+A. and Stacey, G. (2014) The kinase LYK5 is a major chitin receptor in
+Arabidopsis and forms a chitin-induced complex with related kinase
+CERK1. eLife, 3, e03766.
+
+Castrillo, G., Teixeira, P.J., Paredes, S.H. et al. (2017) Root microbiota drive
+direct integration of phosphate stress and immunity. Nature, 543, 513–
+518.
+
+Catanzariti, A.M., Lim, G.T. and Jones, D.A. (2015) The tomato I-3 gene: a
+novel gene for resistance to Fusarium wilt disease. New Phytol. 207,
+106–118.
+
+Catanzariti, A.M., Do, H.T., Bru, P., de Sain, M., Thatcher, L.F., Rep, M. and
+Jones, D.A.
+(2017) The tomato I gene for Fusarium wilt resistance
+encodes an atypical leucine-rich repeat receptor-like protein whose func-
+tion is nevertheless dependent on SOBIR1 and SERK3/BAK1. Plant J. 89,
+1195–1209.
+
+Ceccherini, M.T., Ascher, J., Guerri, G. and Pietramellara, G. (2009) In-ﬁeld
+detection and quantiﬁcation of extracellular DNA. J. Plant Nutr. Soil Sci.
+172, 626–629.
+
+Cesbron, S., Briand, M., Essakhi, S., Gironde, S., Boureau, T., Manceau, C.,
+Fischer-Le Saux, M. and Jacques, M.A. (2015) Comparative genomics of
+pathogenic and nonpathogenic strains of Xanthomonas arboricola unveil
+molecular and evolutionary events linked to pathoadaptation. Front.
+Plant Sci. 6, 1126.
+
+Che, F.S., Nakajima, Y., Tanaka, N., Iwano, M., Yoshida, T., Takayama, S.,
+Kadota, I. and Isogai, A. (2000) Flagellin from an incompatible strain of
+Pseudomonas avenae induces a resistance response in cultured rice
+cells. J. Biol. Chem. 275, 32347–32356.
+
+Cheng, C., Gao, X., Feng, B., Sheen, J., Shan, L. and He, P. (2013) Plant
+immune response to pathogens differs with changing temperatures. Nat.
+Commun. 4, 2530.
+
+Cheng, Z., Li, J.F., Niu, Y. et al. (2015) Pathogen-secreted proteases activate
+
+a novel plant immune pathway. Nature, 521, 213–216.
+
+Chinchilla, D., Zipfel, C., Robatzek, S., Kemmerling, B., Nurnberger, T.,
+Jones, J.D., Felix, G. and Boller, T. (2007) A ﬂagellin-induced complex of
+the receptor FLS2 and BAK1 initiates plant defence. Nature, 448, 497–
+500.
+
+Choi, H.W. and Klessig, D.F. (2016) DAMPs, MAMPs, and NAMPs in plant
+
+innate immunity. BMC Plant Biol. 16, 232.
+
+Choi, J., Tanaka, K., Cao, Y., Qi, Y., Qiu, J., Liang, Y., Lee, S.Y. and Stacey,
+G. (2014) Identiﬁcation of a plant receptor for extracellular ATP. Science,
+343, 290–294.
+
+© 2017 The Authors
+The Plant Journal published by John Wiley & Sons Ltd and Society for Experimental Biology.,
+The Plant Journal, (2018), 93, 592–613
+
+ 1365313x, 2018, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/tpj.13808, Wiley Online Library on [20/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License606 Yusuke Saijo et al.
+
+Choi, H.W., Manohar, M., Manosalva, P., Tian, M., Moreau, M. and Klessig,
+D.F. (2016) Activation of plant innate immunity by extracellular high
+mobility group box 3 and its inhibition by salicylic acid. PLoS Pathog. 12,
+e1005518.
+
+Clarke, C.R., Chinchilla, D., Hind, S.R., Taguchi, F., Miki, R., Ichinose, Y.,
+Martin, G.B., Leman, S., Felix, G. and Vinatzer, B.A. (2013) Allelic varia-
+tion in two distinct Pseudomonas syringae ﬂagellin epitopes modulates
+the strength of plant immune responses but not bacterial motility. New
+Phytol. 200, 847–860.
+
+Cook, D.E., Mesarich, C.H. and Thomma, B.P. (2015) Understanding plant
+immunity as a surveillance system to detect invasion. Annu. Rev. Phy-
+topathol. 53, 541–563.
+
+Couto, D. and Zipfel, C. (2016) Regulation of pattern recognition receptor
+
+signalling in plants. Nat. Rev. Immunol. 16, 537–552.
+
+Couto, D., Niebergall, R., Liang, X. et al. (2016) The Arabidopsis protein
+immune kinase
+
+phosphatase PP2C38 negatively regulates the central
+BIK1. PLoS Pathog. 12, e1005811.
+
+Crabill, E., Joe, A., Block, A., van Rooyen, J.M. and Alfano, J.R. (2010) Plant
+immunity directly or indirectly restricts the injection of type III effectors
+by the Pseudomonas syringae type III secretion system. Plant Physiol.
+154, 233–244.
+
+Cullimore, J.V., Ranjeva, R. and Bono, J.J. (2001) Perception of lipo-chitooli-
+
+gosaccharidic Nod factors in legumes. Trends Plant Sci. 6, 24–30.
+
+Daudi, A., Cheng, Z., O’Brien, J.A., Mammarella, N., Khan, S., Ausubel, F.M.
+and Bolwell, G.P. (2012) The apoplastic oxidative burst peroxidase in
+Arabidopsis is a major component of pattern-triggered immunity. Plant
+Cell, 24, 275–287.
+
+De Lorenzo, G., D’Ovidio, R. and Cervone, F. (2001) The role of polygalactur-
+onase-inhibiting proteins (PGIPs) in defense against pathogenic fungi.
+Annu. Rev. Phytopathol. 39, 313–335.
+
+De Mita, S., Streng, A., Bisseling, T. and Geurts, R. (2014) Evolution of a
+symbiotic receptor through gene duplications in the legume-rhizobium
+mutualism. New Phytol. 201, 961–972.
+
+Denoux, C., Galletti, R., Mammarella, N., Gopalan, S., Werck, D., De Lor-
+enzo, G., Ferrari, S., Ausubel, F.M. and Dewdney, J. (2008) Activation of
+defense response pathways by OGs and Flg22 elicitors in Arabidopsis
+seedlings. Mol. Plant, 1, 423–445.
+
+Di Pietro, A., Huertas-Gonzalez, M.D., Gutierrez-Corona, J.F., Martinez-
+Cadena, G., Meglecz, E. and Roncero, M.I. (2001) Molecular characteriza-
+tion of a subtilase from the vascular wilt fungus Fusarium oxysporum.
+Mol. Plant Microbe Interact. 14, 653–662.
+
+Dixon, M.S., Jones, D.A., Keddie, J.S., Thomas, C.M., Harrison, K. and
+Jones, J.D. (1996) The tomato Cf-2 disease resistance locus comprises
+two functional genes encoding leucine-rich repeat proteins. Cell, 84, 451–
+459.
+
+Dixon, M.S., Hatzixanthis, K., Jones, D.A., Harrison, K. and Jones, J.D.
+(1998) The tomato Cf-5 disease resistance gene and six homologs show
+pronounced allelic variation in leucine-rich repeat copy number. Plant
+Cell, 10, 1915–1925.
+
+Djamei, A., Pitzschke, A., Nakagami, H., Rajh, I. and Hirt, H. (2007) Trojan
+horse strategy in Agrobacterium transformation: abusing MAPK defense
+signaling. Science, 318, 453–456.
+
+Driouich, A., Follet-Gueye, M.L., Vicre-Gibouin, M. and Hawes, M. (2013)
+Root border cells and secretions as critical elements in plant host
+defense. Curr. Opin. Plant Biol. 16, 489–495.
+
+Du, J., Verzaux, E., Chaparro-Garcia, A. et al. (2015) Elicitin recognition con-
+fers enhanced resistance to Phytophthora infestans in potato. Nat.
+Plants, 1, 15034.
+
+Dubiella, U., Seybold, H., Durian, G., Komander, E., Lassig, R., Witte, C.P.,
+Schulze, W.X. and Romeis, T. (2013) Calcium-dependent protein kinase/
+NADPH oxidase activation circuit is required for rapid defense signal
+propagation. Proc. Natl Acad. Sci. USA, 110, 8744–8749.
+
+Duran-Flores, D. and Heil, M. (2014) Damaged-self recognition in com-
+mon bean (Phaseolus vulgaris) shows taxonomic speciﬁcity and trig-
+gers signaling via reactive oxygen species (ROS). Front. Plant Sci. 5,
+585.
+
+Duran-Flores, D. and Heil, M. (2015) Growth inhibition by self-DNA: a phe-
+
+nomenon and its multiple explanations. New Phytol. 207, 482–485.
+
+Dworkin, J. (2014) The medium is the message: interspecies and interking-
+dom signaling by peptidoglycan and related bacterial glycans. Annu.
+Rev. Microbiol. 68, 137–154.
+
+Elmore, J.M. and Coaker, G. (2011) The role of the plasma membrane H+-
+
+ATPase in plant-microbe interactions. Mol. Plant, 4, 416–427.
+
+Escamilla-Tilch, M., Filio-Rodriguez, G., Garcia-Rocha, R., Mancilla-Herrera,
+I., Mitchison, N.A., Ruiz-Pacheco, J.A., Sanchez-Garcia, F.J., Sandoval-
+Borrego, D. and Vazquez-Sanchez, E.A. (2013) The interplay between
+pathogen-associated and danger-associated molecular patterns: an
+inﬂammatory code in cancer? Immunol. Cell Biol. 91, 601–610.
+
+Fan, M., Bai, M.Y., Kim, J.G. et al. (2014) The bHLH transcription factor HBI1
+mediates the trade-off between growth and pathogen-associated molec-
+ular pattern-triggered immunity in Arabidopsis. Plant Cell, 26, 828–841.
+Faulkner, C., Petutschnig, E., Benitez-Alfonso, Y., Beck, M., Robatzek, S.,
+Lipka, V. and Maule, A.J. (2013) LYM2-dependent chitin perception limits
+molecular ﬂux via plasmodesmata. Proc. Natl Acad. Sci. USA, 110, 9166–
+9170.
+
+Fauth, M., Schweizer, P., Buchala, A., Markstadter, C., Riederer, M., Kato, T.
+and Kauss, H. (1998) Cutin monomers and surface wax constituents elicit
+H2O2 in conditioned cucumber hypocotyl segments and enhance the
+activity of other H2O2 elicitors. Plant Physiol. 117, 1373–1380.
+
+Felix, G. and Boller, T. (2003) Molecular sensing of bacteria in plants. The
+highly conserved RNA-binding motif RNP-1 of bacterial cold shock pro-
+teins is recognized as an elicitor signal in tobacco. J. Biol. Chem. 278,
+6201–6208.
+
+Felix, G., Duran, J.D., Volko, S. and Boller, T. (1999) Plants have a sensitive
+perception system for the most conserved domain of bacterial ﬂagellin.
+Plant J. 18, 265–276.
+
+Feng, F., Yang, F., Rong, W., Wu, X., Zhang, J., Chen, S., He, C. and Zhou,
+J.M. (2012) A Xanthomonas uridine 5’-monophosphate transferase inhi-
+bits plant immune kinases. Nature, 485, 114–118.
+
+Ferrari, S., Savatin, D.V., Sicilia, F., Gramegna, G., Cervone, F. and Lorenzo,
+G.D. (2013) Oligogalacturonides: plant damage-associated molecular pat-
+terns and regulators of growth and development. Front. Plant Sci. 4, 49.
+Fliegmann, J., Mithofer, A., Wanner, G. and Ebel, J. (2004) An ancient
+enzyme domain hidden in the putative beta-glucan elicitor receptor of
+soybean may play an active part in the perception of pathogen-asso-
+ciated molecular patterns during broad host resistance. J. Biol. Chem.
+279, 1132–1140.
+
+Flury, P., Klauser, D., Schulze, B., Boller, T. and Bartels, S. (2013) The antici-
+pation of danger: microbe-associated molecular pattern perception
+enhances AtPep-triggered oxidative burst. Plant Physiol. 161, 2023–2035.
+Fontana, M.F. and Vance, R.E. (2011) Two signal models in innate immu-
+
+nity. Immunol. Rev. 243, 26–39.
+
+Frei dit Frey, N., Mbengue, M., Kwaaitaal, M. et al. (2012) Plasma mem-
+brane calcium ATPases are important components of receptor-mediated
+signaling in plant immune responses and development. Plant Physiol.
+159, 798–809.
+
+Frei dit Frey, N., Garcia, A.V., Bigeard, J. et al. (2014) Functional analysis of
+Arabidopsis immune-related MAPKs uncovers a role for MPK3 as nega-
+tive regulator of inducible defences. Genome Biol. 15, R87.
+
+Furlan, G., Nakagami, H., Eschen-Lippold, L., Jiang, X., Majovsky, P.,
+Kowarschik, K., Hoehenwarter, W., Lee, J. and Trujillo, M.
+(2017)
+Changes in PUB22 ubiquitination modes triggered by MITOGEN-ACTI-
+VATED PROTEIN KINASE3 dampen the immune response. Plant Cell, 29,
+726–745.
+
+Furukawa, T., Inagaki, H., Takai, R., Hirai, H. and Che, F.S. (2014) Two dis-
+tinct EF-Tu epitopes induce immune responses in rice and Arabidopsis.
+Mol. Plant Microbe Interact. 27, 113–124.
+
+Gallo, P.M. and Gallucci, S. (2013) The dendritic cell response to classic,
+emerging, and homeostatic danger signals. Implications for autoimmu-
+nity. Front Immunol. 4, 138.
+
+Gallucci, S. and Maffei, M.E. (2017) DNA sensing across the tree of life.
+
+Trends Immunol. 38, 719–732.
+
+Gao, M., Wang, X., Wang, D. et al. (2009) Regulation of cell death and
+innate immunity by two receptor-like kinases in Arabidopsis. Cell Host
+Microbe, 6, 34–44.
+
+Genre, A., Chabaud, M., Balzergue, C. et al. (2013) Short-chain chitin oligo-
+mers from arbuscular mycorrhizal fungi trigger nuclear Ca2+ spiking in
+Medicago truncatula roots and their production is enhanced by strigolac-
+tone. New Phytol. 198, 190–202.
+
+Gomez-Gomez, L. and Boller, T. (2000) FLS2: an LRR receptor-like kinase
+involved in the perception of the bacterial elicitor ﬂagellin in Arabidop-
+sis. Mol. Cell, 5, 1003–1011.
+
+© 2017 The Authors
+The Plant Journal published by John Wiley & Sons Ltd and Society for Experimental Biology.,
+The Plant Journal, (2018), 93, 592–613
+
+ 1365313x, 2018, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/tpj.13808, Wiley Online Library on [20/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons LicenseGomez-Gomez, L., Felix, G. and Boller, T. (1999) A single locus determines
+sensitivity to bacterial ﬂagellin in Arabidopsis thaliana. Plant J. 18, 277–284.
+Gourion, B., Berrabah, F., Ratet, P. and Stacey, G. (2015) Rhizobium-legume
+symbioses: the crucial role of plant immunity. Trends Plant Sci. 20, 186–
+194.
+
+Guan, R. and Mariuzza, R.A. (2007) Peptidoglycan recognition proteins of
+
+the innate immune system. Trends Microbiol. 15, 127–134.
+
+Gust, A.A. and Felix, G. (2014) Receptor like proteins associate with SOBIR1-
+type of adaptors to form bimolecular receptor kinases. Curr. Opin. Plant
+Biol. 21, 104–111.
+
+Gust, A.A., Biswas, R., Lenz, H.D. et al. (2007) Bacteria-derived peptidogly-
+cans constitute pathogen-associated molecular patterns triggering innate
+immunity in Arabidopsis. J. Biol. Chem. 282, 32338–32348.
+
+Gust, A.A., Pruitt, R. and Nurnberger, T. (2017) Sensing danger: key to acti-
+
+vating plant immunity. Trends Plant Sci. 22, 779–791.
+
+Gutierrez-Alanis, D., Yong-Villalobos, L., Jimenez-Sandoval, P., Alatorre-
+Cobos, F., Oropeza-Aburto, A., Mora-Macias, J., Sanchez-Rodriguez, F.,
+Cruz-Ramirez, A. and Herrera-Estrella, L. (2017) Phosphate starvation-
+dependent iron mobilization induces CLE14 expression to trigger root
+meristem differentiation through CLV2/PEPR2 signaling. Dev. Cell, 41
+(555–570), e553.
+
+Hacquard, S., Kracher, B., Hiruma, K. et al. (2016) Survival trade-offs in plant
+roots during colonization by closely related beneﬁcial and pathogenic
+fungi. Nat. Commun. 7, 11362.
+
+Hacquard, S., Spaepen, S., Garrido-Oter, R. and Schulze-Lefert, P. (2017)
+Interplay between innate immunity and the plant microbiota. Annu. Rev.
+Phytopathol. 55, 565–589.
+
+Hahlbrock, K., Scheel, D., Logemann, E., Nurnberger, T., Parniske, M., Rein-
+old, S., Sacks, W.R. and Schmelzer, E. (1995) Oligopeptide elicitor-
+mediated defense gene activation in cultured parsley cells. Proc. Natl
+Acad. Sci. USA, 92, 4150–4157.
+
+Halter, T., Imkampe, J., Mazzotta, S. et al. (2014) The leucine-rich repeat
+receptor kinase BIR2 is a negative regulator of BAK1 in plant immunity.
+Curr. Biol. 24, 134–143.
+
+Hann, D.R. and Rathjen, J.P. (2007) Early events in the pathogenicity of
+Pseudomonas syringae on Nicotiana benthamiana. Plant J. 49, 607–618.
+Haruta, M., Monshausen, G., Gilroy, S. and Sussman, M.R. (2008) A cyto-
+plasmic Ca2+ functional assay for identifying and purifying endogenous
+cell signaling peptides in Arabidopsis seedlings:
+identiﬁcation of
+AtRALF1 peptide. Biochemistry, 47, 6311–6321.
+
+Haruta, M., Sabat, G., Stecker, K., Minkoff, B.B. and Sussman, M.R. (2014) A
+peptide hormone and its receptor protein kinase regulate plant cell
+expansion. Science, 343, 408–411.
+
+Hayafune, M., Berisio, R., Marchetti, R. et al. (2014) Chitin-induced activa-
+tion of immune signaling by the rice receptor CEBiP relies on a unique
+sandwich-type dimerization. Proc. Natl Acad. Sci. USA, 111, E404–E413.
+Hayashi, F., Smith, K.D., Ozinsky, A., Hawn, T.R., Yi, E.C., Goodlett, D.R.,
+Eng, J.K., Akira, S., Underhill, D.M. and Aderem, A. (2001) The innate
+immune response to bacterial ﬂagellin is mediated by Toll-like receptor
+5. Nature, 410, 1099–1103.
+
+He, K., Gou, X., Yuan, T., Lin, H., Asami, T., Yoshida, S., Russell, S.D. and Li,
+J. (2007) BAK1 and BKK1 regulate brassinosteroid-dependent growth
+and brassinosteroid-independent cell-death pathways. Curr. Biol. 17,
+1109–1115.
+
+Heese, A., Hann, D.R., Gimenez-Ibanez, S., Jones, A.M., He, K., Li, J.,
+Schroeder, J.I., Peck, S.C. and Rathjen, J.P. (2007) The receptor-like
+kinase SERK3/BAK1 is a central regulator of innate immunity in plants.
+Proc. Natl Acad. Sci. USA, 104, 12217–12222.
+
+Hegenauer, V., Furst, U., Kaiser, B., Smoker, M., Zipfel, C., Felix, G., Stahl,
+M. and Albert, M. (2016) Detection of the plant parasite Cuscuta reﬂexa
+by a tomato cell surface receptor. Science, 353, 478–481.
+
+Hematy, K., Sado, P.E., Van Tuinen, A., Rochange, S., Desnos, T., Balzergue,
+S., Pelletier, S., Renou, J.P. and Hofte, H. (2007) A receptor-like kinase
+mediates the response of Arabidopsis cells to the inhibition of cellulose
+synthesis. Curr. Biol. 17, 922–931.
+
+Hind, S.R., Strickler, S.R., Boyle, P.C. et al. (2016) Tomato receptor FLAGEL-
+LIN-SENSING 3 binds ﬂgII-28 and activates the plant immune system.
+Nat. Plants, 2, 16128.
+
+Hiruma, K., Gerlach, N., Sacristan, S. et al. (2016) Root endophyte Col-
+letotrichum toﬁeldiae confers plant ﬁtness beneﬁts that are phosphate
+status dependent. Cell, 165, 464–474.
+
+Pattern recognition receptors in plants 607
+
+Holton, N., Nekrasov, V., Ronald, P.C. and Zipfel, C. (2015) The phylogeneti-
+cally-related pattern recognition receptors EFR and XA21 recruit similar
+immune signaling components in monocots and dicots. PLoS Pathog.
+11, e1004602.
+
+Hou, S., Wang, X., Chen, D., Yang, X., Wang, M., Turra, D., Di Pietro, A. and
+Zhang, W. (2014) The secreted peptide PIP1 ampliﬁes immunity through
+receptor-like kinase 7. PLoS Pathog. 10, e1004331.
+
+Huang, S., Balgi, A., Pan, Y., Li, M., Zhang, X., Du, L., Zhou, M., Roberge, M.
+and Li, X. (2016) Identiﬁcation of methylosome components as negative
+regulators of plant immunity using chemical genetics. Mol. Plant, 9,
+1620–1633.
+
+Huffaker, A., Pearce, G. and Ryan, C.A. (2006) An endogenous peptide signal
+in Arabidopsis activates components of the innate immune response.
+Proc. Natl Acad. Sci. USA, 103, 10098–10103.
+
+Huffaker, A., Dafoe, N.J. and Schmelz, E.A. (2011) ZmPep1, an ortholog of
+Arabidopsis elicitor peptide 1, regulates maize innate immunity and
+enhances disease resistance. Plant Physiol. 155, 1325–1338.
+
+Huffaker, A., Pearce, G., Veyrat, N. et al. (2013) Plant elicitor peptides are
+conserved signals regulating direct and indirect antiherbivore defense.
+Proc. Natl Acad. Sci. USA, 110, 5707–5712.
+
+Igarashi, D., Tsuda, K. and Katagiri, F. (2012) The peptide growth factor,
+phytosulfokine, attenuates pattern-triggered immunity. Plant J. 71, 194–
+204.
+
+Iizasa, E., Mitsutomi, M. and Nagano, Y. (2010) Direct binding of a plant
+LysM receptor-like kinase, LysM RLK1/CERK1, to chitin in vitro. J. Biol.
+Chem. 285, 2996–3004.
+
+Imkampe, J., Halter, T., Huang, S. et al. (2017) The Arabidopsis leucine-rich
+repeat receptor kinase BIR3 negatively regulates BAK1 receptor complex
+formation and stabilizes BAK1. Plant Cell, 29, 2285–2303.
+
+Ishihama, N., Yamada, R., Yoshioka, M., Katou, S. and Yoshioka, H. (2011)
+Phosphorylation of the Nicotiana benthamiana WRKY8 transcription fac-
+tor by MAPK functions in the defense response. Plant Cell, 23, 1153–1170.
+Jehle, A.K., Lipschis, M., Albert, M., Fallahzadeh-Mamaghani, V., Furst, U.,
+Mueller, K. and Felix, G. (2013) The receptor-like protein ReMAX of Ara-
+bidopsis detects the microbe-associated molecular pattern eMax from
+Xanthomonas. Plant Cell, 25, 2330–2340.
+
+Jeworutzki, E., Roelfsema, M.R., Anschutz, U., Krol, E., Elzenga, J.T., Felix,
+G., Boller, T., Hedrich, R. and Becker, D. (2010) Early signaling through
+the Arabidopsis pattern recognition receptors FLS2 and EFR involves
+Ca2+-associated opening of plasma membrane anion channels. Plant J.
+62, 367–378.
+
+Jones, J.D. and Dangl, J.L. (2006) The plant immune system. Nature, 444,
+
+323–329.
+
+Jones, D.A., Thomas, C.M., Hammond-Kosack, K.E., Balint-Kurti, P.J. and
+Jones, J.D. (1994) Isolation of the tomato Cf-9 gene for resistance to Cla-
+dosporium fulvum by transposon tagging. Science, 266, 789–793.
+
+Kadota, Y., Sklenar, J., Derbyshire, P. et al. (2014) Direct regulation of the
+NADPH oxidase RBOHD by the PRR-associated kinase BIK1 during plant
+immunity. Mol. Cell, 54, 43–55.
+
+Kadota, Y., Shirasu, K. and Zipfel, C. (2015) Regulation of the NADPH oxi-
+dase RBOHD during plant immunity. Plant Cell Physiol. 56, 1472–1480.
+Kagan, J.C. (2017) Lipopolysaccharide detection across the kingdoms of life.
+
+Trends Immunol. 38, 696–704.
+
+Kaku, H., Nishizawa, Y., Ishii-Minami, N., Akimoto-Tomiyama, C., Dohmae,
+N., Takio, K., Minami, E. and Shibuya, N. (2006) Plant cells recognize
+chitin fragments for defense signaling through a plasma membrane
+receptor. Proc. Natl Acad. Sci. USA, 103, 11086–11091.
+
+Kang, S., Yang, F., Li, L., Chen, H., Chen, S. and Zhang, J. (2015) The Ara-
+bidopsis transcription factor BRASSINOSTEROID INSENSITIVE1-ETHYL
+METHANESULFONATE-SUPPRESSOR1 is a direct substrate of MITO-
+GEN-ACTIVATED PROTEIN KINASE6 and regulates immunity. Plant
+Physiol. 167, 1076–1086.
+
+Katagiri, F. and Tsuda, K. (2010) Understanding the plant immune system.
+
+Mol. Plant Microbe Interact. 23, 1531–1536.
+
+Katsuragi, Y., Takai, R., Furukawa, T., Hirai, H., Morimoto, T., Katayama, T.,
+Murakami, T. and Che, F.S. (2015) CD2-1, the C-terminal region of ﬂag-
+ellin, modulates the induction of immune responses in rice. Mol. Plant
+Microbe Interact. 28, 648–658.
+
+Kawaharada, Y., Kelly, S., Nielsen, M.W. et al. (2015) Receptor-mediated
+exopolysaccharide perception controls bacterial infection. Nature, 523,
+308–312.
+
+© 2017 The Authors
+The Plant Journal published by John Wiley & Sons Ltd and Society for Experimental Biology.,
+The Plant Journal, (2018), 93, 592–613
+
+ 1365313x, 2018, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/tpj.13808, Wiley Online Library on [20/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License608 Yusuke Saijo et al.
+
+Kawasaki, T., Yamada, K., Yoshimura, S. and Yamaguchi, K. (2017) Chitin
+receptor-mediated activation of MAP kinases and ROS production in rice
+and Arabidopsis. Plant Signal. Behav. 12, e1361076.
+
+Keinath, N.F., Kierszniowska, S., Lorek, J., Bourdais, G., Kessler, S.A.,
+Shimosato-Asano, H., Grossniklaus, U., Schulze, W.X., Robatzek, S.
+and Panstruga, R. (2010) PAMP (pathogen-associated molecular pat-
+tern)-induced changes in plasma membrane compartmentalization
+reveal novel components of plant
+immunity. J. Biol. Chem. 285,
+39140–39149.
+
+Kemmerling, B., Schwedt, A., Rodriguez, P. et al. (2007) The BRI1-asso-
+ciated kinase 1, BAK1, has a brassinolide-independent role in plant cell-
+death control. Curr. Biol. 17, 1116–1122.
+
+Kessler, S.A., Shimosato-Asano, H., Keinath, N.F., Wuest, S.E., Ingram, G.,
+Panstruga, R. and Grossniklaus, U. (2010) Conserved molecular compo-
+nents for pollen tube reception and fungal invasion. Science, 330, 968–
+971.
+
+Khatib, M., Laﬁtte, C., Esquerr(cid:1)e-Tugay(cid:1)e, M.T., Bottin, A. and Rickauer, M.
+(2004) The CBEL elicitor of Phytophthora parasitica var. nicotianae acti-
+vates defence in Arabidopsis thaliana via three different signalling path-
+ways. New Phytol. 162, 501–510.
+
+Kim, M.G., da Cunha, L., McFall, A.J., Belkhadir, Y., DebRoy, S., Dangl, J.L.
+and Mackey, D. (2005) Two Pseudomonas syringae type III effectors inhi-
+bit RIN4-regulated basal defense in Arabidopsis. Cell, 121, 749–759.
+
+Klusener, B., Young, J.J., Murata, Y., Allen, G.J., Mori, I.C., Hugouvieux, V.
+and Schroeder, J.I. (2002) Convergence of calcium signaling pathways of
+pathogenic elicitors and abscisic acid in Arabidopsis guard cells. Plant
+Physiol. 130, 2152–2163.
+
+Kofoed, E.M. and Vance, R.E. (2011) Innate immune recognition of bacterial
+ligands by NAIPs determines inﬂammasome speciﬁcity. Nature, 477,
+592–595.
+
+Kong, Q., Qu, N., Gao, M. et al. (2012) The MEKK1-MKK1/MKK2-MPK4
+kinase cascade negatively regulates immunity mediated by a mitogen-
+activated protein kinase kinase kinase in Arabidopsis. Plant Cell, 24,
+2225–2236.
+
+Kong, Q., Sun, T., Qu, N., Ma, J., Li, M., Cheng, Y.T., Zhang, Q., Wu, D.,
+Zhang, Z. and Zhang, Y. (2016) Two redundant receptor-like cytoplasmic
+kinases function downstream of pattern recognition receptors to regulate
+activation of SA biosynthesis. Plant Physiol. 171, 1344–1354.
+
+Korner, C.J., Klauser, D., Niehl, A., Dominguez-Ferreras, A., Chinchilla, D.,
+Boller, T., Heinlein, M. and Hann, D.R. (2013) The immunity regulator
+BAK1 contributes to resistance against diverse RNA viruses. Mol. Plant
+Microbe Interact. 26, 1271–1280.
+
+Kouzai, Y., Mochizuki, S., Nakajima, K. et al. (2014) Targeted gene disrup-
+tion of OsCERK1 reveals its indispensable role in chitin perception and
+involvement in the peptidoglycan response and immunity in rice. Mol.
+Plant Microbe Interact. 27, 975–982.
+
+Kunze, G., Zipfel, C., Robatzek, S., Niehaus, K., Boller, T. and Felix, G. (2004)
+The N terminus of bacterial elongation factor Tu elicits innate immunity
+in Arabidopsis plants. Plant Cell, 16, 3496–3507.
+
+Kwaaitaal, M., Huisman, R., Maintz, J., Reinstadler, A. and Panstruga, R.
+(2011)
+(iGluR)-like channels mediate
+MAMP-induced calcium inﬂux in Arabidopsis thaliana. Biochem. J. 440,
+355–365.
+
+Ionotropic glutamate receptor
+
+Lacombe, S., Rougon-Cardoso, A., Sherwood, E. et al. (2010) Interfamily
+transfer of a plant pattern-recognition receptor confers broad-spectrum
+bacterial resistance. Nat. Biotechnol. 28, 365–369.
+
+Lahrmann, U., Strehmel, N., Langen, G., Frerigmann, H., Leson, L., Ding, Y.,
+Scheel, D., Herklotz, S., Hilbert, M. and Zuccaro, A. (2015) Mutualistic
+root endophytism is not associated with the reduction of saprotrophic
+traits and requires a noncompromised plant innate immunity. New Phy-
+tol. 207, 841–857.
+
+Laluk, K., Luo, H., Chai, M., Dhawan, R., Lai, Z. and Mengiste, T. (2011) Bio-
+chemical and genetic requirements for function of the immune response
+regulator BOTRYTIS-INDUCED KINASE1 in plant growth, ethylene signal-
+ing, and PAMP-triggered immunity in Arabidopsis. Plant Cell, 23, 2831–
+2849.
+
+Larkan, N.J., Lydiate, D.J., Parkin, I.A., Nelson, M.N., Epp, D.J., Cowling,
+W.A., Rimmer, S.R. and Borhan, M.H.
+(2013) The Brassica napus
+blackleg resistance gene LepR3 encodes a receptor-like protein trig-
+gered by the Leptosphaeria maculans effector AVRLM1. New Phytol.
+197, 595–605.
+
+Larkan, N.J., Ma, L. and Borhan, M.H. (2015) The Brassica napus receptor-
+like protein RLM2 is encoded by a second allele of the LepR3/Rlm2 black-
+leg resistance locus. Plant Biotechnol. J. 13, 983–992.
+
+Larroque, M., Belmas, E., Martinez, T., Vergnes, S., Ladouce, N., Laﬁtte, C.,
+Gaulin, E. and Dumas, B. (2013) Pathogen-associated molecular pattern-
+triggered immunity and resistance to the root pathogen Phytophthora
+parasitica in Arabidopsis. J. Exp. Bot. 64, 3615–3625.
+
+Le, M.H., Cao, Y., Zhang, X.C. and Stacey, G. (2014) LIK1, a CERK1-interact-
+ing kinase, regulates plant immune responses in Arabidopsis. PLoS
+ONE, 9, e102245.
+
+Lecourieux, D., Mazars, C., Pauly, N., Ranjeva, R. and Pugin, A. (2002) Analy-
+sis and effects of cytosolic free calcium increases in response to elicitors
+in Nicotiana plumbaginifolia cells. Plant Cell, 14, 2627–2641.
+
+Lee, D., Bourdais, G., Yu, G., Robatzek, S. and Coaker, G. (2015) Phosphory-
+lation of the plant immune regulator RPM1-INTERACTING PROTEIN4
+enhances plant plasma membrane H+-ATPase activity and inhibits ﬂag-
+ellin-triggered immune responses in Arabidopsis. Plant Cell, 27, 2042–
+2056.
+
+Lee, M.W., Huffaker, A., Crippen, D., Robbins, R.T. and Goggin, F.L. (2017)
+Plant elicitor peptides promote plant defences against nematodes in soy-
+bean. Mol. Plant Pathol. https://doi.org/10.1111/mpp.12570.
+
+Leulier, F., Parquet, C., Pili-Floury, S., Ryu, J.H., Caroff, M., Lee, W.J., Men-
+gin-Lecreulx, D. and Lemaitre, B. (2003) The Drosophila immune system
+detects bacteria through speciﬁc peptidoglycan recognition. Nat. Immu-
+nol. 4, 478–484.
+
+Li, J., Wen, J., Lease, K.A., Doke, J.T., Tax, F.E. and Walker, J.C. (2002)
+BAK1, an Arabidopsis LRR receptor-like protein kinase, interacts with
+BRI1 and modulates brassinosteroid signaling. Cell, 110, 213–222.
+
+Li, X., Lin, H., Zhang, W., Zou, Y., Zhang, J., Tang, X. and Zhou, J.M. (2005)
+Flagellin induces innate immunity in nonhost interactions that is sup-
+pressed by Pseudomonas syringae effectors. Proc. Natl Acad. Sci. USA,
+102, 12990–12995.
+
+Li, F., Cheng, C., Cui, F. et al. (2014a) Modulation of RNA polymerase II
+phosphorylation downstream of pathogen perception orchestrates plant
+immunity. Cell Host Microbe, 16, 748–758.
+
+Li, L., Li, M., Yu, L. et al. (2014b) The FLS2-associated kinase BIK1 directly
+phosphorylates the NADPH oxidase RbohD to control plant immunity.
+Cell Host Microbe, 15, 329–338.
+
+Li, B., Jiang, S., Yu, X., Cheng, C., Chen, S., Cheng, Y., Yuan, J.S., Jiang, D.,
+He, P. and Shan, L. (2015a) Phosphorylation of trihelix transcriptional
+repressor ASR3 by MAP KINASE4 negatively regulates Arabidopsis
+immunity. Plant Cell, 27, 839–856.
+
+Li, C., Yeh, F.L., Cheung, A.Y. et al. (2015b) Glycosylphosphatidylinositol-
+anchored proteins as chaperones and co-receptors for FERONIA receptor
+kinase signaling in Arabidopsis. eLife, 4, e06587.
+
+Li, L., Kim, P., Yu, L., Cai, G., Chen, S., Alfano, J.R. and Zhou, J.M. (2016a)
+Activation-dependent destruction of a co-receptor by a Pseudomonas syr-
+ingae effector dampens plant immunity. Cell Host Microbe, 20, 504–514.
+Li, Z., Chakraborty, S. and Xu, G. (2016b) X-ray crystallographic studies of
+the extracellular domain of the ﬁrst plant ATP receptor, DORN1, and the
+orthologous protein from Camelina sativa. Acta Crystallogr. Sect. F
+Struct. Biol. Cryst. Commun. 72, 782–787.
+
+Liang, Y., Cao, Y., Tanaka, K., Thibivilliers, S., Wan, J., Choi, J., Kang, C., Qiu,
+J. and Stacey, G. (2013) Nonlegumes respond to rhizobial Nod factors by
+suppressing the innate immune response. Science, 341, 1384–1387.
+
+Liang, X., Ding, P., Lian, K. et al. (2016) Arabidopsis heterotrimeric G pro-
+teins regulate immunity by directly coupling to the FLS2 receptor. eLife,
+5, e13568.
+
+Liebrand, T.W., van den Burg, H.A. and Joosten, M.H. (2014) Two for all:
+receptor-associated kinases SOBIR1 and BAK1. Trends Plant Sci. 19, 123–
+132.
+
+Lin, W., Lu, D., Gao, X., Jiang, S., Ma, X., Wang, Z., Mengiste, T., He, P. and
+Shan, L. (2013) Inverse modulation of plant immune and brassinosteroid
+signaling pathways by the receptor-like cytoplasmic kinase BIK1. Proc.
+Natl Acad. Sci. USA, 110, 12114–12119.
+
+Lin, W., Li, B., Lu, D., Chen, S., Zhu, N., He, P. and Shan, L. (2014) Tyrosine
+phosphorylation of protein kinase complex BAK1/BIK1 mediates Ara-
+bidopsis innate immunity. Proc. Natl Acad. Sci. USA, 111, 3632–3637.
+Lin, Z.J., Liebrand, T.W., Yadeta, K.A. and Coaker, G. (2015) PBL13 is a ser-
+ine/threonine protein kinase that negatively regulates Arabidopsis
+immune responses. Plant Physiol. 169, 2950–2962.
+
+© 2017 The Authors
+The Plant Journal published by John Wiley & Sons Ltd and Society for Experimental Biology.,
+The Plant Journal, (2018), 93, 592–613
+
+ 1365313x, 2018, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/tpj.13808, Wiley Online Library on [20/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons LicenseLiu, Y. and Zhang, S. (2004) Phosphorylation of 1-aminocyclopropane-1-car-
+boxylic acid synthase by MPK6, a stress-responsive mitogen-activated
+protein kinase, induces ethylene biosynthesis in Arabidopsis. Plant Cell,
+16, 3386–3399.
+
+Liu, J., Elmore, J.M., Fuglsang, A.T., Palmgren, M.G., Staskawicz, B.J. and
+Coaker, G. (2009) RIN4 functions with plasma membrane H+-ATPases to
+regulate stomatal apertures during pathogen attack. PLoS Biol. 7,
+e1000139.
+
+Liu, B., Li, J.F., Ao, Y. et al. (2012a) Lysin motif-containing proteins LYP4
+and LYP6 play dual roles in peptidoglycan and chitin perception in rice
+innate immunity. Plant Cell, 24, 3406–3419.
+
+Liu, T., Liu, Z., Song, C. et al. (2012b) Chitin-induced dimerization activates
+
+a plant immune receptor. Science, 336, 1160–1164.
+
+Liu, Z., Wu, Y., Yang, F., Zhang, Y., Chen, S., Xie, Q., Tian, X. and Zhou,
+(2013) BIK1 interacts with PEPRs to mediate ethylene-induced
+
+J.M.
+immunity. Proc. Natl Acad. Sci. USA, 110, 6205–6210.
+
+Liu, X., Grabherr, H.M., Willmann, R. et al. (2014) Host-induced bacterial cell
+wall decomposition mediates pattern-triggered immunity in Arabidopsis.
+eLife, 3, e01990.
+
+Lopez-Gomez, M., Sandal, N., Stougaard, J. and Boller, T. (2012) Interplay
+of ﬂg22-induced defence responses and nodulation in Lotus japonicus. J.
+Exp. Bot. 63, 393–401.
+
+Lori, M., van Verk, M.C., Hander, T., Schatowitz, H., Klauser, D., Flury, P.,
+Gehring, C.A., Boller, T. and Bartels, S. (2015) Evolutionary divergence of
+the plant elicitor peptides (Peps) and their receptors: interfamily incom-
+patibility of perception but compatibility of downstream signalling. J.
+Exp. Bot. 66, 5315–5325.
+
+Lotze, M.T. and Tracey, K.J. (2005) High-mobility group box 1 protein
+(HMGB1): nuclear weapon in the immune arsenal. Nat. Rev. Immunol. 5,
+331–342.
+
+Lozano-Duran, R. and Zipfel, C. (2015) Trade-off between growth and immu-
+
+nity: role of brassinosteroids. Trends Plant Sci. 20, 12–19.
+
+Lozano-Duran, R., Macho, A.P., Boutrot, F., Segonzac, C., Somssich, I.E. and
+Zipfel, C. (2013) The transcriptional regulator BZR1 mediates trade-off
+between plant innate immunity and growth. eLife, 2, e00983.
+
+Lu, X., Tintor, N., Mentzel, T., Kombrink, E., Boller, T., Robatzek, S.,
+Schulze-Lefert, P. and Saijo, Y. (2009) Uncoupling of sustained MAMP
+receptor signaling from early outputs in an Arabidopsis endoplasmic
+reticulum glucosidase II allele. Proc. Natl Acad. Sci. USA, 106, 22522–
+22527.
+
+Lu, D., Wu, S., Gao, X., Zhang, Y., Shan, L. and He, P. (2010) A recep-
+tor-like cytoplasmic kinase, BIK1, associates with a ﬂagellin receptor
+complex to initiate plant innate immunity. Proc. Natl Acad. Sci. USA,
+107, 496–501.
+
+Lu, D., Lin, W., Gao, X., Wu, S., Cheng, C., Avila, J., Heese, A., Devarenne,
+T.P., He, P. and Shan, L. (2011) Direct ubiquitination of pattern recognition
+receptor FLS2 attenuates plant innate immunity. Science, 332, 1439–1442.
+Luderer, R., Rivas, S., Nurnberger, T. et al. (2001) No evidence for binding
+between resistance gene product Cf-9 of tomato and avirulence gene
+product AVR9 of Cladosporium fulvum. Mol. Plant Microbe Interact. 14,
+867–876.
+
+Ma, Y., Walker, R.K., Zhao, Y. and Berkowitz, G.A. (2012) Linking ligand per-
+ception by PEPR pattern recognition receptors to cytosolic Ca2+ elevation
+and downstream immune signaling in plants. Proc. Natl Acad. Sci. USA,
+109, 19852–19857.
+
+Ma, Z., Song, T., Zhu, L. et al. (2015) A Phytophthora sojae glycoside hydro-
+lase 12 protein is a major virulence factor during soybean infection and
+is recognized as a PAMP. Plant Cell, 27, 2057–2072.
+
+Ma, X., Xu, G., He, P. and Shan, L. (2016) SERKing coreceptors for receptors.
+
+Trends Plant Sci. 21, 1017–1033.
+
+Macho, A.P., Schwessinger, B., Ntoukakis, V. et al. (2014) A bacterial tyro-
+sine phosphatase inhibits plant pattern recognition receptor activation.
+Science, 343, 1509–1512.
+
+Maillet, F., Poinsot, V., Andre, O. et al. (2011) Fungal lipochitooligosaccha-
+ride symbiotic signals in arbuscular mycorrhiza. Nature, 469, 58–63.
+Maldonado-Bonilla, L.D., Eschen-Lippold, L., Gago-Zachert, S., Tabassum,
+N., Bauer, N., Scheel, D. and Lee, J. (2014) The Arabidopsis tandem zinc
+ﬁnger 9 protein binds RNA and mediates pathogen-associated molecular
+pattern-triggered immune responses. Plant Cell Physiol. 55, 412–425.
+Malhotra, V. (2013) Unconventional protein secretion: an evolving mecha-
+
+nism. EMBO J. 32, 1660–1664.
+
+Pattern recognition receptors in plants 609
+
+Malinovsky, F.G., Batoux, M., Schwessinger, B., Youn, J.H., Stransfeld, L.,
+Win, J., Kim, S.K. and Zipfel, C. (2014) Antagonistic regulation of growth
+and immunity by the Arabidopsis basic helix-loop-helix transcription fac-
+tor homolog of brassinosteroid enhanced expression2 interacting with
+increased leaf inclination1 binding bHLH1. Plant Physiol. 164, 1443–1455.
+Mao, G., Meng, X., Liu, Y., Zheng, Z., Chen, Z. and Zhang, S. (2011) Phos-
+phorylation of a WRKY transcription factor by two pathogen-responsive
+MAPKs drives phytoalexin biosynthesis in Arabidopsis. Plant Cell, 23,
+1639–1653.
+
+Marchetti, M., Capela, D., Glew, M. et al. (2010) Experimental evolution of a
+
+plant pathogen into a legume symbiont. PLoS Biol. 8, e1000280.
+
+Masachis, S., Segorbe, D., Turra, D. et al. (2016) A fungal pathogen secretes
+plant alkalinizing peptides to increase infection. Nat. Microbiol. 1, 16043.
+Mathioni, S.M., Belo, A., Rizzo, C.J., Dean, R.A. and Donofrio, N.M. (2011)
+Transcriptome proﬁling of the rice blast fungus during invasive plant
+infection and in vitro stresses. BMC Genom. 12, 49.
+
+Matsubayashi, Y. and Sakagami, Y. (2006) Peptide hormones in plants.
+
+Annu. Rev. Plant Biol. 57, 649–674.
+
+Mazzoleni, S., Carteni, F., Bonanomi, G., Senatore, M., Termolino, P., Gian-
+nino, F., Incerti, G., Rietkerk, M., Lanzotti, V. and Chiusano, M.L. (2015)
+Inhibitory effects of extracellular self-DNA: a general biological process?
+New Phytol. 206, 127–132.
+
+Mbengue, M., Bourdais, G., Gervasi, F. et al. (2016) Clathrin-dependent
+endocytosis is required for immunity mediated by pattern recognition
+receptor kinases. Proc. Natl Acad. Sci. USA, 113, 11034–11039.
+
+McCann, H.C., Nahal, H., Thakur, S. and Guttman, D.S. (2012) Identiﬁcation
+of innate immunity elicitors using molecular signatures of natural selec-
+tion. Proc. Natl Acad. Sci. USA, 109, 4215–4220.
+
+McGurl, B., Pearce, G., Orozco-Cardenas, M. and Ryan, C.A. (1992) Struc-
+ture, expression, and antisense inhibition of the systemin precursor
+gene. Science, 255, 1570–1573.
+
+Melotto, M., Zhang, L., Oblessuc, P.R. and He, S.Y. (2017) Stomatal defense
+
+a decade later. Plant Physiol. 174, 561–571.
+
+Meng, X. and Zhang, S. (2013) MAPK cascades in plant disease resistance
+
+signaling. Annu. Rev. Phytopathol. 51, 245–266.
+
+Miya, A., Albert, P., Shinya, T., Desaki, Y., Ichimura, K., Shirasu, K., Naru-
+saka, Y., Kawakami, N., Kaku, H. and Shibuya, N. (2007) CERK1, a LysM
+receptor kinase, is essential for chitin elicitor signaling in Arabidopsis.
+Proc. Natl Acad. Sci. USA, 104, 19613–19618.
+
+Miyata, K., Kozaki, T., Kouzai, Y. et al. (2014) The bifunctional plant recep-
+tor, OsCERK1, regulates both chitin-triggered immunity and arbuscular
+mycorrhizal symbiosis in rice. Plant Cell Physiol. 55, 1864–1872.
+
+Mohr, T.J., Liu, H., Yan, S., Morris, C.E., Castillo, J.A., Jelenska, J. and
+Vinatzer, B.A. (2008) Naturally occurring nonpathogenic isolates of the
+plant pathogen Pseudomonas syringae lack a type III secretion system
+and effector gene orthologues. J. Bacteriol. 190, 2858–2870.
+
+Monaghan, J., Matschi, S., Shorinola, O. et al. (2014) The calcium-depen-
+dent protein kinase CPK28 buffers plant immunity and regulates BIK1
+turnover. Cell Host Microbe, 16, 605–615.
+
+Mosher, S., Seybold, H., Rodriguez, P. et al. (2013) The tyrosine-sulfated
+peptide receptors PSKR1 and PSY1R modify the immunity of Arabidopsis
+to biotrophic and necrotrophic pathogens in an antagonistic manner.
+Plant J. 73, 469–482.
+
+Mott, G.A., Thakur, S., Smakowska, E., Wang, P.W., Belkhadir, Y., Des-
+veaux, D. and Guttman, D.S. (2016) Genomic screens identify a new phy-
+tobacterial microbe-associated molecular pattern and the cognate
+Arabidopsis receptor-like kinase that mediates its immune elicitation.
+Genome Biol. 17, 98.
+
+Nakagawa, T., Kaku, H., Shimoda, Y., Sugiyama, A., Shimamura, M., Taka-
+nashi, K., Yazaki, K., Aoki, T., Shibuya, N. and Kouchi, H. (2011) From
+defense to symbiosis: limited alterations in the kinase domain of LysM
+receptor-like kinases are crucial for evolution of legume-Rhizobium sym-
+biosis. Plant J. 65, 169–180.
+
+Nam, K.H. and Li, J. (2002) BRI1/BAK1, a receptor kinase pair mediating
+
+brassinosteroid signaling. Cell, 110, 203–212.
+
+Nars, A., Laﬁtte, C., Chabaud, M. et al. (2013) Aphanomyces euteiches cell
+wall fractions containing novel glucan-chitosaccharides induce defense
+genes and nuclear calcium oscillations in the plant host Medicago trun-
+catula. PLoS ONE, 8, e75039.
+
+Narusaka, Y., Shinya, T., Narusaka, M., Motoyama, N., Shimada, H., Mura-
+kami, K. and Shibuya, N. (2013) Presence of LYM2 dependent but CERK1
+
+© 2017 The Authors
+The Plant Journal published by John Wiley & Sons Ltd and Society for Experimental Biology.,
+The Plant Journal, (2018), 93, 592–613
+
+ 1365313x, 2018, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/tpj.13808, Wiley Online Library on [20/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License610 Yusuke Saijo et al.
+
+independent disease resistance in Arabidopsis. Plant Signal. Behav. 8,
+pii: e25345.
+
+Niehl, A., Wyrsch, I., Boller, T. and Heinlein, M. (2016) Double-stranded
+RNAs induce a pattern-triggered immune signaling pathway in plants.
+New Phytol. 211, 1008–1019.
+
+Nishimura, M.T., Stein, M., Hou, B.H., Vogel, J.P., Edwards, H. and Somer-
+ville, S.C. (2003) Loss of a callose synthase results in salicylic acid-depen-
+dent disease resistance. Science, 301, 969–972.
+
+Nuhse, T.S., Bottrill, A.R., Jones, A.M. and Peck, S.C. (2007) Quantitative
+phosphoproteomic analysis of plasma membrane proteins reveals regula-
+tory mechanisms of plant innate immune responses. Plant J. 51, 931–940.
+Nurnberger, T., Nennstiel, D., Jabs, T., Sacks, W.R., Hahlbrock, K. and
+Scheel, D. (1994) High afﬁnity binding of a fungal oligopeptide elicitor to
+parsley plasma membranes triggers multiple defense responses. Cell,
+78, 449–460.
+
+Nurnberger, T., Nennstiel, D., Hahlbrock, K. and Scheel, D. (1995) Covalent
+cross-linking of the Phytophthora megasperma oligopeptide elicitor to its
+receptor in parsley membranes. Proc. Natl Acad. Sci. USA, 92, 2338–2342.
+Oda, T., Hashimoto, H., Kuwabara, N. et al. (2010) Structure of the N-term-
+inal regulatory domain of a plant NADPH oxidase and its functional
+implications. J. Biol. Chem. 285, 1435–1445.
+
+Ogasawara, Y., Kaya, H., Hiraoka, G. et al. (2008) Synergistic activation of
+the Arabidopsis NADPH oxidase AtrbohD by Ca2+ and phosphorylation.
+J. Biol. Chem. 283, 8885–8892.
+
+Okazaki, S., Kaneko, T., Sato, S. and Saeki, K. (2013) Hijacking of legumi-
+nous nodulation signaling by the rhizobial type III secretion system. Proc.
+Natl Acad. Sci. USA, 110, 17131–17136.
+
+Oldroyd, G.E. (2013) Speak, friend, and enter: signalling systems that pro-
+mote beneﬁcial symbiotic associations in plants. Nat. Rev. Microbiol. 11,
+252–263.
+
+de Oliveira, M.V., Xu, G., Li, B. et al. (2016) Speciﬁc control of Arabidopsis
+BAK1/SERK4-regulated cell death by protein glycosylation. Nat. Plants, 2,
+15218.
+
+Ono, E., Wong, H.L., Kawasaki, T., Hasegawa, M., Kodama, O. and Shi-
+mamoto, K. (2001) Essential role of the small GTPase Rac in disease
+resistance of rice. Proc. Natl Acad. Sci. USA, 98, 759–764.
+
+Oome, S., Raaymakers, T.M., Cabral, A., Samwel, S., Bohm, H., Albert, I.,
+Nurnberger, T. and Van den Ackerveken, G. (2014) Nep1-like proteins
+from three kingdoms of life act as a microbe-associated molecular pat-
+tern in Arabidopsis. Proc. Natl Acad. Sci. USA, 111, 16955–16960.
+
+Orozco-Cardenas, M., McGurl, B. and Ryan, C.A. (1993) Expression of an
+antisense prosystemin gene in tomato plants reduces resistance toward
+Manduca sexta larvae. Proc. Natl Acad. Sci. USA, 90, 8273–8276.
+
+Ortiz-Morea, F.A., Savatin, D.V., Dejonghe, W. et al. (2016) Danger-asso-
+ciated peptide signaling in Arabidopsis requires clathrin. Proc. Natl Acad.
+Sci. USA, 113, 11028–11033.
+
+Park, C.J., Peng, Y., Chen, X., Dardick, C., Ruan, D., Bart, R., Canlas, P.E. and
+Ronald, P.C. (2008) Rice XB15, a protein phosphatase 2C, negatively reg-
+ulates cell death and XA21-mediated innate immunity. PLoS Biol. 6,
+e231.
+Parniske, M.
+
+(2008) Arbuscular mycorrhiza:
+
+the mother of plant root
+
+endosymbioses. Nat. Rev. Microbiol. 6, 763–775.
+
+Paungfoo-Lonhienne, C., Lonhienne, T.G., Mudge, S.R., Schenk, P.M., Chris-
+tie, M., Carroll, B.J. and Schmidt, S. (2010) DNA is taken up by root hairs
+and pollen, and stimulates root and pollen tube growth. Plant Physiol.
+153, 799–805.
+
+Pearce, G., Strydom, D., Johnson, S. and Ryan, C.A. (1991) A polypeptide
+from tomato leaves induces wound-inducible proteinase inhibitor pro-
+teins. Science, 253, 895–897.
+
+Pearce, G., Moura, D.S., Stratmann, J. and Ryan, C.A. Jr (2001) RALF, a
+5-kDa ubiquitous polypeptide in plants, arrests root growth and develop-
+ment. Proc. Natl Acad. Sci. USA, 98, 12843–12847.
+
+Pearce, G., Bhattacharya, R., Chen, Y.C., Barona, G., Yamaguchi, Y. and
+Ryan, C.A. (2009) Isolation and characterization of hydroxyproline-rich
+glycopeptide signals in black nightshade leaves. Plant Physiol. 150,
+1422–1433.
+
+Pecher, P., Eschen-Lippold, L., Herklotz, S., Kuhle, K., Naumann, K., Bethke,
+G., Uhrig, J., Weyhe, M., Scheel, D. and Lee, J. (2014) The Arabidopsis
+thaliana mitogen-activated protein kinases MPK3 and MPK6 target a sub-
+class of ‘VQ-motif’-containing proteins to regulate immune responses.
+New Phytol. 203, 592–606.
+
+Peng, K.C., Wang, C.W., Wu, C.H., Huang, C.T. and Liou, R.F. (2015) Tomato
+SOBIR1/EVR homologs are involved in elicitin perception and plant
+defense against the oomycete pathogen Phytophthora parasitica. Mol.
+Plant Microbe Interact. 28, 913–926.
+
+Petutschnig, E.K., Jones, A.M., Serazetdinova, L., Lipka, U. and
+Lipka, V. (2010) The lysin motif receptor-like kinase (LysM-RLK) CERK1 is
+a major chitin-binding protein in Arabidopsis thaliana and subject
+to chitin-induced phosphorylation. J. Biol. Chem. 285, 28902–28911.
+Plett, J.M. and Martin, F. (2015) Reconsidering mutualistic plant-fungal
+interactions through the lens of effector biology. Curr. Opin. Plant Biol.,
+26, 45–50.
+
+Poinssot, B., Vandelle, E., Bentejac, M., Adrian, M., Levis, C., Brygoo, Y.,
+Garin, J., Sicilia, F., Coutos-Thevenot, P. and Pugin, A. (2003) The
+endopolygalacturonase 1 from Botrytis cinerea activates grapevine
+defense reactions unrelated to its enzymatic activity. Mol. Plant Microbe
+Interact. 16, 553–564.
+
+Postma, J., Liebrand, T.W., Bi, G., Evrard, A., Bye, R.R., Mbengue, M., Kuhn,
+H., Joosten, M.H. and Robatzek, S. (2016) Avr4 promotes Cf-4 receptor-
+like protein association with the BAK1/SERK3 receptor-like kinase to initi-
+ate receptor endocytosis and plant immunity. New Phytol. 210, 627–642.
+Pruitt, R.N., Schwessinger, B., Joe, A. et al. (2015) The rice immune recep-
+tor XA21 recognizes a tyrosine-sulfated protein from a Gram-negative
+bacterium. Sci. Adv. 1, e1500245.
+
+Prusky, D. and Yakoby, N. (2003) Pathogenic fungi: leading or led by ambi-
+
+ent pH? Mol. Plant Pathol. 4, 509–516.
+
+Qi, Z., Verma, R., Gehring, C., Yamaguchi, Y., Zhao, Y., Ryan, C.A. and
+Berkowitz, G.A. (2010) Ca2+ signaling by plant Arabidopsis thaliana Pep
+peptides depends on AtPepR1, a receptor with guanylyl cyclase activity,
+and cGMP-activated Ca2+ channels. Proc. Natl Acad. Sci. USA, 107,
+21193–21198.
+
+Qi, J., Wang, J., Gong, Z. and Zhou, J.M. (2017) Apoplastic ROS signaling in
+
+plant immunity. Curr. Opin. Plant Biol. 38, 92–100.
+
+Qiu, J.L., Fiil, B.K., Petersen, K. et al. (2008) Arabidopsis MAP kinase 4 regu-
+lates gene expression through transcription factor release in the nucleus.
+EMBO J. 27, 2214–2221.
+
+Raaymakers, T.M. and Van den Ackerveken, G. (2016) Extracellular recogni-
+tion of oomycetes during biotrophic infection of plants. Front. Plant Sci.
+7, 906.
+
+Ralevic, V. and Burnstock, G. (1998) Receptors for purines and pyrimidines.
+
+Pharmacol. Rev. 50, 413–492.
+
+Ranf, S. (2016) Immune sensing of lipopolysaccharide in plants and ani-
+
+mals: same but different. PLoS Pathog. 12, e1005596.
+
+Ranf, S., Eschen-Lippold, L., Pecher, P., Lee, J. and Scheel, D. (2011) Inter-
+play between calcium signalling and early signalling elements during
+defence responses to microbe- or damage-associated molecular pat-
+terns. Plant J. 68, 100–113.
+
+Ranf, S., Eschen-Lippold, L., Frohlich, K., Westphal, L., Scheel, D. and Lee,
+J. (2014) Microbe-associated molecular pattern-induced calcium signal-
+ing requires the receptor-like cytoplasmic kinases, PBL1 and BIK1. BMC
+Plant Biol. 14, 374.
+
+Ranf, S., Gisch, N., Schaffer, M. et al. (2015) A lectin S-domain receptor
+kinase mediates lipopolysaccharide sensing in Arabidopsis thaliana. Nat.
+Immunol. 16, 426–433.
+
+Rey, T., Nars, A., Bonhomme, M. et al. (2013) NFP, a LysM protein control-
+ling Nod factor perception, also intervenes in Medicago truncatula resis-
+tance to pathogens. New Phytol. 198, 875–886.
+
+Rey, T., Chatterjee, A., Buttay, M., Toulotte, J. and Schornack, S. (2015)
+Medicago truncatula symbiosis mutants affected in the interaction with a
+biotrophic root pathogen. New Phytol. 206, 497–500.
+
+Ricci, P., Bonnet, P., Huet, J.C., Sallantin, M., Beauvais-Cante, F., Bruneteau,
+M., Billard, V., Michel, G. and Pernollet, J.C. (1989) Structure and activity
+of proteins from pathogenic fungi Phytophthora eliciting necrosis and
+acquired resistance in tobacco. Eur. J. Biochem. 183, 555–563.
+
+Robatzek, S., Chinchilla, D. and Boller, T. (2006) Ligand-induced endocytosis
+of the pattern recognition receptor FLS2 in Arabidopsis. Genes Dev. 20,
+537–542.
+
+Robatzek, S., Bittel, P., Chinchilla, D., Kochner, P., Felix, G., Shiu, S.H. and
+Boller, T.
+(2007) Molecular identiﬁcation and characterization of the
+tomato ﬂagellin receptor LeFLS2, an orthologue of Arabidopsis FLS2
+exhibiting characteristically different perception speciﬁcities. Plant Mol.
+Biol. 64, 539–547.
+
+© 2017 The Authors
+The Plant Journal published by John Wiley & Sons Ltd and Society for Experimental Biology.,
+The Plant Journal, (2018), 93, 592–613
+
+ 1365313x, 2018, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/tpj.13808, Wiley Online Library on [20/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons LicenseRon, M. and Avni, A. (2004) The receptor for the fungal elicitor ethylene-
+inducing xylanase is a member of a resistance-like gene family in
+tomato. Plant Cell, 16, 1604–1615.
+
+Rooney, H.C., Van’t Klooster, J.W., van der Hoorn, R.A., Joosten, M.H.,
+Jones, J.D. and de Wit, P.J. (2005) Cladosporium Avr2 inhibits tomato
+Rcr3 protease required for Cf-2-dependent disease resistance. Science,
+308, 1783–1786.
+
+Ross, A., Yamada, K., Hiruma, K., Yamashita-Yamada, M., Lu, X., Takano,
+Y., Tsuda, K. and Saijo, Y. (2014) The Arabidopsis PEPR pathway couples
+local and systemic plant immunity. EMBO J. 33, 62–75.
+
+Round, J.L., Lee, S.M., Li, J., Tran, G., Jabri, B., Chatila, T.A. and Mazma-
+nian, S.K. (2011) The Toll-like receptor 2 pathway establishes coloniza-
+tion by a commensal of the human microbiota. Science, 332, 974–977.
+Roux, M., Schwessinger, B., Albrecht, C., Chinchilla, D., Jones, A., Holton,
+N., Malinovsky, F.G., Tor, M., de Vries, S. and Zipfel, C. (2011) The Ara-
+bidopsis leucine-rich repeat receptor-like kinases BAK1/SERK3 and BKK1/
+SERK4 are required for innate immunity to hemibiotrophic and bio-
+trophic pathogens. Plant Cell, 23, 2440–2455.
+
+Roux, M.E., Rasmussen, M.W., Palma, K. et al. (2015) The mRNA decay fac-
+tor PAT1 functions in a pathway including MAP kinase 4 and immune
+receptor SUMM2. EMBO J. 34, 593–608.
+
+Saijo, Y., Tintor, N., Lu, X., Rauf, P., Pajerowska-Mukhtar, K., Haweker, H.,
+Dong, X., Robatzek, S. and Schulze-Lefert, P. (2009) Receptor quality
+control in the endoplasmic reticulum for plant innate immunity. EMBO
+J., 28, 3439–3449.
+
+Santiago, J., Henzler, C. and Hothorn, M. (2013) Molecular mechanism for
+plant steroid receptor activation by somatic embryogenesis co-receptor
+kinases. Science, 341, 889–892.
+
+Santos, A.A., Lopes, K.V., Apfata, J.A. and Fontes, E.P. (2010) NSP-interact-
+ing kinase, NIK: a transducer of plant defence signalling. J. Exp. Bot. 61,
+3839–3845.
+
+Saur, I.M., Kadota, Y., Sklenar, J., Holton, N.J., Smakowska, E., Belkhadir,
+Y., Zipfel, C. and Rathjen, J.P. (2016) NbCSPR underlies age-dependent
+immune responses to bacterial cold shock protein in Nicotiana ben-
+thamiana. Proc. Natl Acad. Sci. USA, 113, 3389–3394.
+
+Scheer, J.M. and Ryan, C.A. Jr (2002) The systemin receptor SR160 from
+Lycopersicon peruvianum is a member of the LRR receptor kinase family.
+Proc. Natl Acad. Sci. USA, 99, 9585–9590.
+
+Scholthof, K.B. (2007) The disease triangle: pathogens, the environment
+
+and society. Nat. Rev. Microbiol. 5, 152–156.
+
+Schoonbeek, H.J., Wang, H.H., Stefanato, F.L., Craze, M., Bowden, S.,
+Wallington, E., Zipfel, C. and Ridout, C.J. (2015) Arabidopsis EF-Tu recep-
+tor enhances bacterial disease resistance in transgenic wheat. New Phy-
+tol. 206, 606–613.
+
+Schwessinger, B., Roux, M., Kadota, Y., Ntoukakis, V., Sklenar, J., Jones, A.
+and Zipfel, C. (2011) Phosphorylation-dependent differential regulation of
+plant growth, cell death, and innate immunity by the regulatory receptor-
+like kinase BAK1. PLoS Genet. 7, e1002046.
+
+Schwessinger, B., Bahar, O., Thomas, N. et al. (2015) Transgenic expression
+of the dicotyledonous pattern recognition receptor EFR in rice leads to
+ligand-dependent activation of defense responses. PLoS Pathog. 11,
+e1004809.
+
+Segonzac, C., Macho, A.P., Sanmartı´n, M., Ntoukakis, V., Sa´ nchez-Serrano,
+J.J. and Zipfel, C. (2014) Negative control of BAK1 by protein phospha-
+tase 2A during plant innate immunity. EMBO J. 33, 2069–2079.
+
+Seybold, H., Trempel, F., Ranf, S., Scheel, D., Romeis, T. and Lee, J. (2014)
+Ca2+ signalling in plant immune response: from pattern recognition
+receptors to Ca2+ decoding mechanisms. New Phytol. 204, 782–790.
+Shen, Q., Bourdais, G., Pan, H., Robatzek, S. and Tang, D. (2017) Arabidop-
+sis glycosylphosphatidylinositol-anchored protein LLG1 associates with
+and modulates FLS2 to regulate innate immunity. Proc. Natl Acad. Sci.
+USA, 114, 5749–5754.
+
+Shi, H., Shen, Q., Qi, Y., Yan, H., Nie, H., Chen, Y., Zhao, T., Katagiri, F. and
+Tang, D. (2013) BR-SIGNALING KINASE1 physically associates with FLA-
+GELLIN SENSING2 and regulates plant innate immunity in Arabidopsis.
+Plant Cell, 25, 1143–1157.
+
+Shimizu, T., Nakano, T., Takamizawa, D. et al. (2010) Two LysM receptor
+molecules, CEBiP and OsCERK1, cooperatively regulate chitin elicitor sig-
+naling in rice. Plant J. 64, 204–214.
+
+Shinya, T., Motoyama, N., Ikeda, A., Wada, M., Kamiya, K., Hayafune, M.,
+Kaku, H. and Shibuya, N. (2012) Functional characterization of CEBiP and
+
+Pattern recognition receptors in plants 611
+
+CERK1 homologs in arabidopsis and rice reveals the presence of differ-
+ent chitin receptor systems in plants. Plant Cell Physiol. 53, 1696–1706.
+Shinya, T., Yamaguchi, K., Desaki, Y. et al. (2014) Selective regulation of the
+chitin-induced defense response by the Arabidopsis receptor-like cyto-
+plasmic kinase PBL27. Plant J. 79, 56–66.
+
+Shinya, T., Nakagawa, T., Kaku, H. and Shibuya, N. (2015) Chitin-mediated
+plant-fungal interactions: catching, hiding and handshaking. Curr. Opin.
+Plant Biol. 26, 64–71.
+
+Shiu, S.H., Karlowski, W.M., Pan, R., Tzeng, Y.H., Mayer, K.F. and Li, W.H.
+(2004) Comparative analysis of the receptor-like kinase family in Ara-
+bidopsis and rice. Plant Cell, 16, 1220–1234.
+
+Smith, J.M., Salamango, D.J., Leslie, M.E., Collins, C.A. and Heese, A.
+(2014) Sensitivity to Flg22 is modulated by ligand-induced degradation
+and de novo synthesis of the endogenous ﬂagellin-receptor FLAGELLIN-
+SENSING2. Plant Physiol. 164, 440–454.
+
+Song, C., Kumar, A. and Saleh, M. (2009) Bioinformatic comparison of bac-
+
+terial secretomes. Genom. Proteom. Bioinform. 7, 37–46.
+
+Song, W., Han, Z., Wang, J., Lin, G. and Chai, J. (2017) Structural insights
+into ligand recognition and activation of plant receptor kinases. Curr.
+Opin. Struct. Biol. 43, 18–27.
+
+Souza, C.A., Li, S., Lin, A.Z., Boutrot, F., Grossmann, G., Zipfel, C. and Som-
+erville, S.C. (2017) Cellulose-derived oligomers act as damage-associated
+molecular patterns and trigger defense-like responses. Plant Physiol.
+173, 2383–2398.
+
+Sreekanta, S., Bethke, G., Hatsugai, N., Tsuda, K., Thao, A., Wang, L., Kata-
+giri, F. and Glazebrook, J. (2015) The receptor-like cytoplasmic kinase
+PCRK1 contributes to pattern-triggered immunity against Pseudomonas
+syringae in Arabidopsis thaliana. New Phytol. 207, 78–90.
+
+Stegmann, M., Anderson, R.G.,
+
+Ichimura, K., Pecenkova, T., Reuter, P.,
+Zarsky, V., McDowell, J.M., Shirasu, K. and Trujillo, M. (2012) The ubiq-
+uitin ligase PUB22 targets a subunit of the exocyst complex required for
+PAMP-triggered responses in Arabidopsis. Plant Cell, 24, 4703–4716.
+Stegmann, M., Monaghan, J., Smakowska-Luzan, E., Rovenich, H., Lehner,
+A., Holton, N., Belkhadir, Y. and Zipfel, C. (2017) The receptor kinase FER
+is a RALF-regulated scaffold controlling plant immune signaling. Science,
+355, 287–289.
+
+Stracke, S., Kistner, C., Yoshida, S. et al. (2002) A plant receptor-like kinase
+required for both bacterial and fungal symbiosis. Nature, 417, 959–962.
+Stuart, L.M., Paquette, N. and Boyer, L. (2013) Effector-triggered versus pat-
+tern-triggered immunity: how animals sense pathogens. Nat. Rev. Immu-
+nol. 13, 199–206.
+
+Sun, W., Dunning, F.M., Pfund, C., Weingarten, R. and Bent, A.F. (2006)
+Within-species ﬂagellin polymorphism in Xanthomonas campestris pv
+campestris and its impact on elicitation of Arabidopsis FLAGELLIN SEN-
+SING2-dependent defenses. Plant Cell, 18, 764–779.
+
+Sun, W., Cao, Y., Jansen Labby, K., Bittel, P., Boller, T. and Bent, A.F. (2012)
+Probing the Arabidopsis ﬂagellin receptor: FLS2-FLS2 association and
+the contributions of speciﬁc domains to signaling function. Plant Cell, 24,
+1096–1113.
+
+Sun, Y., Li, L., Macho, A.P., Han, Z., Hu, Z., Zipfel, C., Zhou, J.M. and Chai,
+J. (2013) Structural basis for ﬂg22-induced activation of the Arabidopsis
+FLS2-BAK1 immune complex. Science, 342, 624–628.
+
+Sun, T., Zhang, Q., Gao, M. and Zhang, Y. (2014) Regulation of SOBIR1
+accumulation and activation of defense responses in bir1-1 by speciﬁc
+components of ER quality control. Plant J. 77, 748–756.
+
+Taguchi, F., Shimizu, R., Nakajima, R., Toyoda, K., Shiraishi, T. and Ichi-
+nose, Y. (2003) Differential effects of ﬂagellins from Pseudomonas syrin-
+gae pv. tabaci, tomato and glycinea on plant defense response. Plant
+Physiol. Biochem. 41, 165–174.
+
+Takai, R., Isogai, A., Takayama, S. and Che, F.S. (2008) Analysis of ﬂagellin
+perception mediated by ﬂg22 receptor OsFLS2 in rice. Mol. Plant Microbe
+Interact. 21, 1635–1642.
+
+Takeuchi, K., Taguchi, F., Inagaki, Y., Toyoda, K., Shiraishi, T. and Ichinose,
+Y. (2003) Flagellin glycosylation island in Pseudomonas syringae pv. gly-
+cinea and its role in host speciﬁcity. J. Bacteriol. 185, 6658–6665.
+
+Tan, Y. and Kagan, J.C. (2014) A cross-disciplinary perspective on the innate
+immune responses to bacterial lipopolysaccharide. Mol. Cell, 54, 212–
+223.
+
+Tanaka, K., Choi, J., Cao, Y. and Stacey, G. (2014) Extracellular ATP acts as
+a damage-associated molecular pattern (DAMP) signal in plants. Front.
+Plant Sci. 5, 446.
+
+© 2017 The Authors
+The Plant Journal published by John Wiley & Sons Ltd and Society for Experimental Biology.,
+The Plant Journal, (2018), 93, 592–613
+
+ 1365313x, 2018, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/tpj.13808, Wiley Online Library on [20/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License612 Yusuke Saijo et al.
+
+Tang, D., Wang, G. and Zhou, J.M.
+
+(2017) Receptor kinases in plant-
+pathogen interactions: more than pattern recognition. Plant Cell, 29,
+618–637.
+
+Tavormina, P., De Coninck, B., Nikonorova, N., De Smet, I. and Cammue,
+B.P. (2015) The plant peptidome: an expanding repertoire of structural
+features and biological functions. Plant Cell, 27, 2095–2118.
+
+Thomas, C.M., Jones, D.A., Parniske, M., Harrison, K., Balint-Kurti, P.J.,
+Hatzixanthis, K. and Jones, J.D. (1997) Characterization of the tomato Cf-
+4 gene for resistance to Cladosporium fulvum identiﬁes sequences that
+determine recognitional speciﬁcity in Cf-4 and Cf-9. Plant Cell, 9, 2209–
+2224.
+
+Thor, K. and Peiter, E. (2014) Cytosolic calcium signals elicited by the patho-
+gen-associated molecular pattern ﬂg22 in stomatal guard cells are of an
+oscillatory nature. New Phytol. 204, 873–881.
+
+Thynne, E., Saur,
+
+I.M.L., Simbaqueba, J. et al.
+
+(2017) Fungal phy-
+topathogens encode functional homologues of plant rapid alkalinization
+factor (RALF) peptides. Mol. Plant Pathol. 18, 811–824.
+
+Tintor, N. and Saijo, Y. (2014) ER-mediated control for abundance, quality,
+and signaling of transmembrane immune receptors in plants. Front.
+Plant Sci. 5, 65.
+
+Tintor, N., Ross, A., Kanehara, K., Yamada, K., Fan, L., Kemmerling, B.,
+Nurnberger, T., Tsuda, K. and Saijo, Y. (2013) Layered pattern receptor
+signaling via ethylene and endogenous elicitor peptides during Ara-
+bidopsis immunity to bacterial infection. Proc. Natl Acad. Sci. USA, 110,
+6211–6216.
+
+Trda, L., Fernandez, O., Boutrot, F. et al. (2014) The grapevine ﬂagellin
+receptor VvFLS2 differentially recognizes ﬂagellin-derived epitopes from
+the endophytic growth-promoting bacterium Burkholderia phytoﬁrmans
+and plant pathogenic bacteria. New Phytol. 201, 1371–1384.
+
+Trujillo, M., Ichimura, K., Casais, C. and Shirasu, K. (2008) Negative regula-
+tion of PAMP-triggered immunity by an E3 ubiquitin ligase triplet in Ara-
+bidopsis. Curr. Biol. 18, 1396–1401.
+
+Tsukui, T., Eda, S., Kaneko, T. et al. (2013) The type III secretion system
+of Bradyrhizobium japonicum USDA122 mediates symbiotic incompati-
+bility with Rj2 soybean plants. Appl. Environ. Microbiol. 79, 1048–
+1051.
+
+Van der Does, D., Boutrot, F., Engelsdorf, T. et al. (2017) The Arabidopsis
+leucine-rich repeat receptor kinase MIK2/LRR-KISS connects cell wall
+integrity sensing, root growth and response to abiotic and biotic stres-
+ses. PLoS Genet. 13, e1006832.
+
+Vega, A., Canessa, P., Hoppe, G., Retamal, I., Moyano, T.C., Canales, J.,
+Gutierrez, R.A. and Rubilar, J. (2015) Transcriptome analysis reveals reg-
+ulatory networks underlying differential susceptibility to Botrytis cinerea
+in response to nitrogen availability in Solanum lycopersicum. Front.
+Plant Sci. 6, 911.
+
+Veresoglou, S.D., Aguilar-Trigueros, C.A., Mansour, I. and Rillig, M.C. (2015)
+
+Self-DNA: a blessing in disguise? New Phytol. 207, 488–490.
+
+Vetter, M., Karasov, T.L. and Bergelson, J. (2016) Differentiation between
+MAMP triggered defenses in Arabidopsis thaliana. PLoS Genet. 12,
+e1006068.
+
+Vinatzer, B.A., Monteil, C.L. and Clarke, C.R. (2014) Harnessing population
+genomics to understand how bacterial pathogens emerge, adapt to crop
+hosts, and disseminate. Annu. Rev. Phytopathol. 52, 19–43.
+
+Vogel, C., Bodenhausen, N., Gruissem, W. and Vorholt, J.A. (2016) The Ara-
+bidopsis leaf
+transcriptome reveals distinct but also overlapping
+responses to colonization by phyllosphere commensals and pathogen
+infection with impact on plant health. New Phytol. 12, 192–207.
+
+Wagner, M.R., Lundberg, D.S., Del Rio, T.G., Tringe, S.G., Dangl, J.L. and
+Mitchell-Olds, T. (2016) Host genotype and age shape the leaf and root
+microbiomes of a wild perennial plant. Nat. Commun. 7, 12151.
+
+Wan, J., Zhang, X.C., Neece, D., Ramonell, K.M., Clough, S., Kim, S.Y., Sta-
+cey, M.G. and Stacey, G. (2008) A LysM receptor-like kinase plays a criti-
+cal role in chitin signaling and fungal resistance in Arabidopsis. Plant
+Cell, 20, 471–481.
+
+Wang, Z., Meng, P., Zhang, X., Ren, D. and Yang, S. (2011) BON1 interacts
+with the protein kinases BIR1 and BAK1 in modulation of temperature-
+dependent plant growth and cell death in Arabidopsis. Plant J. 67, 1081–
+1093.
+
+Wang, E., Schornack, S., Marsh, J.F., Gobbato, E., Schwessinger, B., East-
+mond, P., Schultze, M., Kamoun, S. and Oldroyd, G.E. (2012) A common
+
+signaling process that promotes mycorrhizal and oomycete colonization
+of plants. Curr. Biol. 22, 2242–2246.
+
+Wang, W., Xie, Z.P. and Staehelin, C. (2014) Functional analysis of chimeric
+lysin motif domain receptors mediating Nod factor-induced defense sig-
+naling in Arabidopsis thaliana and chitin-induced nodulation signaling in
+Lotus japonicus. Plant J. 78, 56–69.
+
+Wang, L., Albert, M., Einig, E., Furst, U., Krust, D. and Felix, G. (2016a) The
+pattern-recognition receptor CORE of Solanaceae detects bacterial cold-
+shock protein. Nat. Plants, 2, 16185.
+
+Wang, T., Liang, L., Xue, Y., Jia, P.F., Chen, W., Zhang, M.X., Wang, Y.C., Li,
+H.J. and Yang, W.C. (2016b) A receptor heteromer mediates the male
+perception of female attractants in plants. Nature, 531, 241–244.
+
+Wang, C., Wang, G., Zhang, C., Zhu, P., Dai, H., Yu, N., He, Z., Xu, L. and
+Wang, E. (2017) OsCERK1-mediated chitin perception and immune sig-
+naling requires receptor-like cytoplasmic kinase 185 to activate an MAPK
+cascade in rice. Mol. Plant, 10, 619–633.
+
+Weinberger, F., Friedlander, M. and Hoppe, H.G. (1999) Oligoagars elicit a
+physiological response in Gracilaria conferta (Rhodophyta). J. Phycol.
+35, 747–755.
+
+Wen, F., White, G.J., VanEtten, H.D., Xiong, Z. and Hawes, M.C. (2009)
+Extracellular DNA is required for root tip resistance to fungal infection.
+Plant Physiol. 151, 820–829.
+
+Willmann, R., Lajunen, H.M., Erbs, G. et al. (2011) Arabidopsis lysin-motif
+proteins LYM1 LYM3 CERK1 mediate bacterial peptidoglycan sensing
+and immunity to bacterial
+infection. Proc. Natl Acad. Sci. USA, 108,
+19824–19829.
+
+Wong, H.L., Pinontoan, R., Hayashi, K. et al. (2007) Regulation of rice
+NADPH oxidase by binding of Rac GTPase to its N-terminal extension.
+Plant Cell, 19, 4022–4034.
+
+Wrzaczek, M., Brosche, M. and Kangasjarvi, J. (2013) ROS signaling loops –
+production, perception, regulation. Curr. Opin. Plant Biol. 16, 575–582.
+Xin, X.F., Nomura, K., Aung, K., Velasquez, A.C., Yao, J., Boutrot, F., Chang,
+J.H., Zipfel, C. and He, S.Y. (2016) Bacteria establish an aqueous living
+space in plants crucial for virulence. Nature, 539, 524–529.
+
+Yamada, K., Saijo, Y., Nakagami, H. and Takano, Y. (2016a) Regulation of
+transporter activity for antibacterial defense in Arabidopsis.
+
+sugar
+Science, 354, 1427–1430.
+
+Yamada, K., Yamaguchi, K., Shirakawa, T. et al. (2016b) The Arabidopsis
+CERK1-associated kinase PBL27 connects chitin perception to MAPK acti-
+vation. EMBO J. 35, 2468–2483.
+
+Yamada, K., Yamashita-Yamada, M., Hirase, T., Fujiwara, T., Tsuda, K., Hir-
+uma, K. and Saijo, Y. (2016c) Danger peptide receptor signaling in plants
+ensures basal
+immunity upon pathogen-induced depletion of BAK1.
+EMBO J. 35, 46–61.
+
+Yamada, K., Yamaguchi, K., Yoshimura, S., Terauchi, A. and Kawasaki, T.
+(2017) Conservation of chitin-induced MAPK signaling pathways in rice
+and Arabidopsis. Plant Cell Physiol. 58, 993–1002.
+
+Yamaguchi, Y. and Huffaker, A. (2011) Endogenous peptide elicitors in
+
+higher plants. Curr. Opin. Plant Biol. 14, 351–357.
+
+Yamaguchi, Y., Pearce, G. and Ryan, C.A. (2006) The cell surface leucine-rich
+repeat receptor for AtPep1, an endogenous peptide elicitor in Arabidop-
+sis, is functional in transgenic tobacco cells. Proc. Natl Acad. Sci. USA,
+103, 10104–10109.
+
+Yamaguchi, Y., Huffaker, A., Bryan, A.C., Tax, F.E. and Ryan, C.A. (2010)
+PEPR2 is a second receptor for the Pep1 and Pep2 peptides and con-
+tributes to defense responses in Arabidopsis. Plant Cell, 22, 508–522.
+Yamaguchi, K., Yamada, K., Ishikawa, K. et al. (2013) A receptor-like cyto-
+plasmic kinase targeted by a plant pathogen effector is directly phospho-
+rylated by the chitin receptor and mediates rice immunity. Cell Host
+Microbe, 13, 347–357.
+
+Yang, S., Tang, F., Gao, M., Krishnan, H.B. and Zhu, H. (2010) R gene-con-
+trolled host speciﬁcity in the legume-rhizobia symbiosis. Proc. Natl Acad.
+Sci. USA, 107, 18735–18740.
+
+Yasuda, M., Miwa, H., Masuda, S., Takebayashi, Y., Sakakibara, H. and
+Okazaki, S. (2016) Effector-triggered immunity determines host geno-
+type-speciﬁc incompatibility in legume-rhizobium symbiosis. Plant Cell
+Physiol. 57, 1791–1800.
+
+Yasuda, S., Okada, K. and Saijo, Y. (2017) A look at plant immunity through
+the window of the multitasking coreceptor BAK1. Curr. Opin. Plant Biol.
+38, 10–18.
+
+© 2017 The Authors
+The Plant Journal published by John Wiley & Sons Ltd and Society for Experimental Biology.,
+The Plant Journal, (2018), 93, 592–613
+
+ 1365313x, 2018, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/tpj.13808, Wiley Online Library on [20/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons LicenseYeh, Y.H., Panzeri, D., Kadota, Y. et al. (2016) The Arabidopsis malectin-like/
+LRR-RLK IOS1 is critical for BAK1-dependent and BAK1-independent pat-
+tern-triggered immunity. Plant Cell, 28, 1701–1721.
+
+Yoon, S.I., Kurnasov, O., Natarajan, V., Hong, M., Gudkov, A.V., Osterman,
+A.L. and Wilson, I.A. (2012) Structural basis of TLR5-ﬂagellin recognition
+and signaling. Science, 335, 859–864.
+
+Yu, X., Feng, B., He, P. and Shan, L. (2017) From chaos to harmony:
+responses and signaling upon microbial pattern recognition. Annu. Rev.
+Phytopathol. 55, 109–137.
+
+Yuan, P., Jauregui, E., Du, L., Tanaka, K. and Poovaiah, B.W. (2017) Calcium
+signatures and signaling events orchestrate plant-microbe interactions.
+Curr. Opin. Plant Biol. 38, 173–183.
+
+Zhang, J., Shao, F., Li, Y. et al. (2007) A Pseudomonas syringae effector
+inactivates MAPKs to suppress PAMP-induced immunity in plants. Cell
+Host Microbe, 1, 175–185.
+
+Zhang, X.C., Cannon, S.B. and Stacey, G. (2009) Evolutionary genomics of
+
+LysM genes in land plants. BMC Evol. Biol. 9, 183.
+
+Zhang, J., Li, W., Xiang, T. et al. (2010) Receptor-like cytoplasmic kinases
+integrate signaling from multiple plant immune receptors and are tar-
+geted by a Pseudomonas syringae effector. Cell Host Microbe, 7, 290–301.
+Zhang, Z., Wu, Y., Gao, M., Zhang, J., Kong, Q., Liu, Y., Ba, H., Zhou, J. and
+Zhang, Y. (2012) Disruption of PAMP-induced MAP kinase cascade by a
+Pseudomonas syringae effector activates plant immunity mediated by
+the NB-LRR protein SUMM2. Cell Host Microbe, 11, 253–263.
+
+Zhang, W., Fraiture, M., Kolb, D., Loffelhardt, B., Desaki, Y., Boutrot, F.F.,
+Tor, M., Zipfel, C., Gust, A.A. and Brunner, F. (2013) Arabidopsis recep-
+tor-like protein30 and receptor-like kinase suppressor of BIR1-1/
+EVERSHED mediate innate immunity to necrotrophic fungi. Plant Cell,
+25, 4227–4241.
+
+Pattern recognition receptors in plants 613
+
+Zhang, L., Kars, I., Essenstam, B., Liebrand, T.W., Wagemakers, L., Elberse,
+J., Tagkalaki, P., Tjoitang, D., van den Ackerveken, G. and van Kan, J.A.
+(2014) Fungal endopolygalacturonases are recognized as microbe-asso-
+ciated molecular patterns by the arabidopsis receptor-like protein
+RESPONSIVENESS TO BOTRYTIS POLYGALACTURONASES1. Plant
+Physiol. 164, 352–364.
+
+Zhang, Q., Sun, T. and Zhang, Y. (2015a) ER quality control components
+UGGT and STT3a are required for activation of defense responses in
+bir1-1. PLoS ONE, 10, e0120245.
+
+Zhang, X., Dong, W., Sun, J., Feng, F., Deng, Y., He, Z., Oldroyd, G.E. and
+Wang, E. (2015b) The receptor kinase CERK1 has dual functions in sym-
+biosis and immunity signalling. Plant J. 81, 258–267.
+
+Zhang, X., Valdes-Lopez, O., Arellano, C., Stacey, G. and Balint-Kurti, P.
+(2017) Genetic dissection of the maize (Zea mays L.) MAMP response.
+Theor. Appl. Genet. 130, 1155–1168.
+
+Zhao, Y., Yang, J., Shi, J., Gong, Y.N., Lu, Q., Xu, H., Liu, L. and Shao, F.
+(2011) The NLRC4 inﬂammasome receptors for bacterial ﬂagellin and
+type III secretion apparatus. Nature, 477, 596–600.
+
+Zipfel, C. and Oldroyd, G.E. (2017) Plant signalling in symbiosis and immu-
+
+nity. Nature, 543, 328–336.
+
+Zipfel, C., Robatzek, S., Navarro, L., Oakeley, E.J., Jones, J.D., Felix, G. and
+Boller, T. (2004) Bacterial disease resistance in Arabidopsis through ﬂag-
+ellin perception. Nature, 428, 764–767.
+
+Zipfel, C., Kunze, G., Chinchilla, D., Caniard, A., Jones, J.D., Boller, T. and
+Felix, G. (2006) Perception of the bacterial PAMP EF-Tu by the receptor
+EFR restricts Agrobacterium-mediated transformation. Cell, 125, 749–760.
+Zorzatto, C., Machado, J.P., Lopes, K.V. et al. (2015) NIK1-mediated transla-
+immunity mechanism.
+
+tion suppression functions as a plant antiviral
+Nature, 520, 679–682.
+
+© 2017 The Authors
+The Plant Journal published by John Wiley & Sons Ltd and Society for Experimental Biology.,
+The Plant Journal, (2018), 93, 592–613
+
+ 1365313x, 2018, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/tpj.13808, Wiley Online Library on [20/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

@@ -1,0 +1,1221 @@
+Bioﬁlm Development
+
+TIM TOLKER-NIELSEN1
+1Department of Immunology and Microbiology, Faculty of Health and Medical Sciences,
+University of Copenhagen, DK 2000 Copenhagen, Denmark
+
+ABSTRACT During the past decade we have gained much
+knowledge about the molecular mechanisms that are
+involved in initiation and termination of bioﬁlm formation.
+In many bacteria, these processes appear to occur in response
+to speciﬁc environmental cues and result in, respectively,
+induction or termination of bioﬁlm matrix production via the
+second messenger molecule c-di-GMP. In between initiation
+and termination of bioﬁlm formation we have deﬁned speciﬁc
+bioﬁlm stages, but the currently available evidence suggests
+that these transitions are mainly governed by adaptive
+responses, and not by speciﬁc genetic programs.
+It appears that bioﬁlm formation can occur through multiple
+pathways and that the spatial structure of the bioﬁlms is
+species dependent as well as dependent on environmental
+conditions. Bacterial subpopulations, e.g., motile and
+nonmotile subpopulations, can develop and interact during
+bioﬁlm formation, and these interactions can aﬀect the
+structure of the bioﬁlm. The available evidence suggests that
+bioﬁlm formation is programmed in the sense that regulated
+synthesis of extracellular matrix components is involved.
+Furthermore, our current knowledge suggests that bioﬁlm
+formation mainly is governed by adaptive responses of
+individual bacteria, although group-level activities are
+also involved.
+
+INTRODUCTION
+
+Experimental approaches primarily focused on genetic
+and microscopic techniques have laid the foundation
+for our current models of bacterial bioﬁlm formation.
+This work has enabled researchers to deﬁne bioﬁlm
+formation as a process that consists of speciﬁc stages.
+The bioﬁlm developmental cycle is believed to include
+(i) initial attachment of microbes to a surface or each
+other, (ii) formation of microcolonies, (iii) maturation of
+the bioﬁlm, and (iv) dispersal of the bioﬁlm (e.g., refer-
+ence 1). The different bioﬁlm stages include bacterial
+physiology and phenotypic responses suggestive of the
+
+existence of a unique bioﬁlm biology which is not found
+for planktonic bacteria.
+
+The switch from the solitary planktonic bacterial
+lifestyle to the communal bioﬁlm lifestyle involves a
+change in the bacteria so that they initiate the production
+of adhesins and extracellular matrix compounds which
+interconnect them in the bioﬁlm. The extracellular bio-
+ﬁlm matrix serves as a scaffold that has an essential cell-
+to-cell connecting and structural function in bioﬁlms and
+plays a role in a number of processes including cell at-
+tachment, cell-to-cell
+interactions, and antimicrobial
+tolerance (2–7). The bioﬁlm matrix that is produced by
+the bacteria contains mainly polysaccharides, proteins,
+and extracellular DNA (8).
+
+This article focuses on several issues of bioﬁlm for-
+mation, including initiation of bioﬁlm formation, de-
+velopment of bioﬁlm structure, formation of bioﬁlms
+through multiple pathways, bacterial motility during
+bioﬁlm formation, roles of quorum-sensing in bioﬁlm
+formation, subpopulation development and interactions,
+bioﬁlm formation governed by adaptive responses, and
+termination of bioﬁlm formation in response to envi-
+ronmental cues.
+
+Received: 28 February 2014, Accepted: 12 August 2014,
+Published: 27 March 2015
+Editors: Mahmoud Ghannoum, Case Western Reserve University,
+Cleveland, OH; Matthew Parsek, University of Washington, Seattle,
+WA; Marvin Whiteley, University of Texas at Austin, Austin, TX; and
+Pranab Mukherjee, Case Western Reserve University, Cleveland, OH
+Citation: Tolker-Nielsen T. 2015. Biofilm development. Microbiol
+Spectrum 3(2):MB-0001-2014. doi:10.1128/microbiolspec
+.MB-0001-2014.
+Correspondence: Tim Tolker-Nielsen, ttn@sund.ku.dk
+© 2015 American Society for Microbiology. All rights reserved.
+
+ASMscience.org/MicrobiolSpectrum
+
+1
+
+Downloaded from https://journals.asm.org/journal/spectrum on 23 February 2024 by 206.209.15.21.Tolker-Nielsen
+
+BIOFILM FORMATION INITIATES
+IN RESPONSE TO SPECIFIC
+ENVIRONMENTAL CUES
+
+Recent work in a number of bacterial species, including
+Pseudomonas aeruginosa, Pseudomonas ﬂuorescens,
+Pseudomonas putida, Vibrio cholerae, Yersinia pestis,
+Escherichia coli, Salmonella enterica, Burkholderia
+cenocepacia, Bacillus subtilis, and Clostridium difﬁcile,
+indicates that initiation of bioﬁlm formation occurs in
+response to an increase in the level of the intracellular
+second messenger c-di-GMP (9–24). Synthesis and deg-
+radation of c-di-GMP in the bacteria is accomplished
+by two distinct classes of proteins with opposing enzy-
+matic activities (see reference 25 for a review). Digua-
+nylate cyclases harboring GGDEF domains synthesize
+c-di-GMP from two GTP molecules, whereas phos-
+phodiesterases harboring EAL or HD-GYP domains
+degrade c-di-GMP. Sensory domains are frequently as-
+sociated with the GGDEF and EAL/HD-GYP domain
+proteins, translating diverse environmental cues into
+c-di-GMP levels. The bacteria usually produce several
+different c-di-GMP diguanylate cyclases and phospho-
+diesterases, and evidence is accruing that they work in
+separate c-di-GMP circuits (26). Our current knowledge
+suggests that a number of different environmental cues
+and transducer mechanisms can lead to increases in local
+pools of c-di-GMP, which in turn can activate the pro-
+duction of adhesins and extracellular matrix products
+(e.g., references 27, 28). For example, in P. aeruginosa
+the WspA protein was found to be a membrane-bound
+receptor that detects a signal associated with con-
+tact to a surface (27, 29, 30). The signal is mediated to
+the histidine kinase WspE, which catalyzes phospho-
+transfer to the response regulator-diguanylate cyclase
+WspR, which in turn produces c-di-GMP. Synthesis of
+bioﬁlm matrix products such as the CdrA adhesin and
+the Psl, Pel, and alginate exopolysaccharides in turn is
+positively regulated by c-di-GMP in P. aeruginosa (18,
+31).
+
+In addition to c-di-GMP-mediated regulation, bioﬁlm
+formation is also regulated via small regulatory RNAs
+(sRNA) in many bacterial species (32). For example,
+work with P. aeruginosa suggests that synthesis of the
+exopolysaccharides Psl and Pel is induced in response
+to environmental signals sensed by the sensor kinases
+LadS and RetS and the sensor kinase/response regula-
+tor pair GacS/GacA (33–38). Phosphorylation of GacA
+by GacS is antagonized by the RetS sensor kinase and
+stimulated by the LadS sensor kinase. After phosphor-
+ylation of GacA by GacS, GacA induces transcription
+of the RsmY and RsmZ sRNAs. The RsmY and RsmZ
+
+sRNAs bind to and reduce the activity of the RsmA
+protein, which otherwise inhibits expression of a num-
+ber of genes, including those encoding Psl and Pel poly-
+saccharide production. In addition, sensor kinases and
+response regulators encoded by the bﬁSR, bfmSR, and
+mifSR genes are evidently involved in the regula-
+tion of P. aeruginosa bioﬁlm formation (39). Evidence
+was provided that the BﬁSR system regulates bioﬁlm
+formation by affecting synthesis of the CafA ribo-
+nuclease, which controls the level of the RsmZ sRNA
+(40). Moreover, the protein SagS was shown to con-
+tribute to the motile-to-sessile switch and act in concert
+with BﬁSR to initiate P. aeruginosa bioﬁlm formation
+(41).
+
+Moscoso et al.
+
+(42) provided evidence that a
+P. aeruginosa retS mutant contains increased levels
+of c-di-GMP, indicating a link between sRNA-mediated
+and c-di-GMP-mediated bioﬁlm regulation in P.
+aeruginosa.
+
+THE ARCHITECTURE AND ORGANIZATION
+OF BIOFILMS ARE SPECIES DEPENDENT
+
+Although microcolonies are the basic unit in most
+bioﬁlms, the structure of the microcolonies can vary
+greatly depending on the bioﬁlm-forming bacterial spe-
+cies. For example, it has been demonstrated that under
+identical conditions in a ﬂow chamber P. putida forms
+loose protruding microcolonies (Fig. 1A), whereas
+Pseudomonas knackmussii (formerly termed Pseudo-
+monas sp. B13) forms spherical microcolonies (Fig. 1B)
+(43). Moreover, when the two Pseudomonas species
+were grown together in dual-species bioﬁlms,
+they
+still
+formed their characteristic microcolony struc-
+tures (Fig. 1C), apparently without affecting each other
+(43). The architecture and organization of the three
+different bioﬁlms are therefore dependent on the bioﬁlm-
+forming bacterial species. Multiple factors are involved
+in the formation of particular structures in bioﬁlms,
+and currently the mechanisms underlying the differ-
+ence in bioﬁlm structure displayed by P. putida and
+P. knackmussii is not known. However, in the case
+of P. putida, bioﬁlm formation in ﬂow chambers is
+mainly governed by the large adhesive protein LapA
+(9, 10, 44), whereas for other pseudomonads, such as
+P. aeruginosa, bioﬁlm formation in ﬂow chambers is
+mainly dependent on the exopolysaccharides Psl and
+Pel (7, 45, 46). Differences between the extracellu-
+lar matrix components that interconnect bacteria in
+bioﬁlms may give rise to different structures of the
+microcolonies.
+
+2
+
+ASMscience.org/MicrobiolSpectrum
+
+Downloaded from https://journals.asm.org/journal/spectrum on 23 February 2024 by 206.209.15.21.Bioﬁlm Development
+
+FIGURE 1 Confocal laser scanning microscopy (CLSM) images showing spatial structures
+in ﬂow-chamber-grown 5-day-old bioﬁlms formed by (A) Gfp-tagged (green ﬂuorescent)
+P. putida, (B) Gfp-tagged P. knackmussii, and (C) a mixture of Gfp-tagged P. putida and
+DsRed-tagged (red ﬂuorescent) P. knackmussii. Bars, 20 μm. Adapted from reference 43
+with permission from the American Society for Microbiology. doi:10.1128/microbiolspec
+.MB-0001-2014.f1
+
+STRUCTURE DEVELOPMENT IN
+BIOFILMS IS DEPENDENT ON
+NUTRITIONAL CONDITIONS
+
+As described above, different bacterial species may form
+different bioﬁlm structures under identical conditions. In
+addition, the same bacterial species may form different
+bioﬁlm structures under different environmental con-
+ditions. For example, Klausen et al. (47) demonstrated
+that P. aeruginosa forms mushroom-shaped microcol-
+onies when it grows in ﬂow chambers that are irrigated
+with glucose medium, whereas it forms ﬂat bioﬁlms
+when it grows in ﬂow chambers that are irrigated with
+citrate medium (Fig. 2). Moreover, the structure of an
+established bioﬁlm can change in response to a change
+in nutritional conditions. Nielsen et al. (48) studied bio-
+ﬁlm formation in ﬂow chambers of a mixture consist-
+ing of P. knackmussii and Burkholderia xenovorans
+(formerly termed Burkholderia sp. LB400). These bac-
+teria have the potential to interact metabolically because
+P. knackmussii can metabolize chlorobenzoate pro-
+duced by B. xenovorans when grown on chlorobiphenyl.
+When the dual-species bioﬁlm was fed with medium
+containing chlorobiphenyl, mixed-species microcolonies
+consisting of associated P. knackmussii and B. xeno-
+vorans bacteria were formed. In contrast, when the
+mixture was fed citrate, which can be metabolized by
+both species, the two species formed separate micro-
+colonies. After a shift in carbon source from a citrate
+medium to a chlorobiphenyl medium, movement of the
+P. knackmussii bacteria led to a change in the spatial
+
+structure of the bioﬁlm from the separate microcolonies
+toward the mixed-species microcolonies.
+
+Similar observations were made by Wolfaardt et al.
+(49), who studied a microbial mixture capable of de-
+grading the herbicide diclofop. When this mixture was
+grown in ﬂow chambers irrigated with diclofob, a highly
+structured bioﬁlm with speciﬁc patterns of intergeneric
+cellular coaggregation was formed. But when the mix-
+ture was grown on tryptic soy broth (TSB), a bioﬁlm
+lacking variation in thickness and structure was formed.
+After a shift in carbon source from TSB to diclofob, it
+took TSB-grown bioﬁlms only two days to acquire the
+typical structure of diclofob-grown bioﬁlms. Although
+the organisms and the nature of the metabolic inter-
+actions in the study (49) were unknown, this study pro-
+vided substantial evidence that structure development
+in bioﬁlms is dependent on nutritional conditions and
+that the structure of an established bioﬁlm can change in
+response to a change in nutritional conditions.
+
+BACTERIAL MOTILITY MAY BE
+AN INTEGRATED PART OF
+BIOFILM FORMATION
+
+The studies described above suggest that bacterial mi-
+gration is involved in the structural changes that can
+occur in bioﬁlms in response to a change in nutritional
+conditions. However, it appears that bacterial migra-
+tion can be important for the structural development
+of bioﬁlms also under stable environmental conditions.
+
+ASMscience.org/MicrobiolSpectrum
+
+3
+
+Downloaded from https://journals.asm.org/journal/spectrum on 23 February 2024 by 206.209.15.21.Tolker-Nielsen
+
+FIGURE 2 CLSM micrographs acquired in 5-day-old P. aeruginosa PAO1 bioﬁlms grown
+on (A) glucose minimal medium and (B) citrate minimal medium. The central pictures
+show-top down ﬂuorescence projections, and the ﬂanking pictures show vertical
+sections. Bars, 20 μm. Adapted from reference 47 with permission from Wiley-Blackwell
+publishing. doi:10.1128/microbiolspec.MB-0001-2014.f2
+
+The available evidence suggests that P. aeruginosa forms
+ﬂat bioﬁlm in ﬂow chambers irrigated with citrate me-
+dium because the bacteria migrate extensively during the
+initial phase of bioﬁlm formation and do not settle to
+form microcolonies (47). P. aeruginosa pilA mutants
+(deﬁcient in biogenesis of type IV pili) were shown to
+form protruding microcolonies in ﬂow chambers irri-
+gated with citrate medium, indicating that the motility
+that occurs in citrate-grown P. aeruginosa wild type
+bioﬁlms is driven by type IV pili (47). In ﬂow chambers
+irrigated with glucose medium P. aeruginosa forms two
+distinct subpopulations in the initial phase of bioﬁlm
+formation: a nonmotile subpopulation that forms initial
+microcolonies and a motile subpopulation that initially
+migrates on the substratum (50). Formation of the
+mushroom-shaped structures in the glucose-grown bio-
+ﬁlms evidently involves colonization of the initial micro-
+colonies by bacteria from the migrating subpopulation
+that subsequently form mushroom caps on top of the
+initial microcolonies, which then correspond to the stalk
+of the mushroom-shaped structures (50). In glucose-
+grown P. aeruginosa bioﬁlms containing a mixture of
+Cfp-tagged pilA mutants and Yfp-tagged wild type bac-
+teria, mushroom-shaped structures that contain pilA
+mutants in the stalk and wild type in the cap are formed
+(50) (Fig. 3). In addition, mushroom-shaped structures
+that contain wild type bacteria in both the stalk and cap
+
+can also be found (Fig. 3). These ﬁndings provide evi-
+dence that bacterial migration may be an integrated part
+of bioﬁlm formation.
+
+BIOFILM FORMATION CAN OCCUR
+THROUGH MULTIPLE PATHWAYS
+As described above, the formation of bioﬁlm structures
+is both species-speciﬁc and dependent on environmental
+conditions, suggesting that bioﬁlm formation can occur
+through multiple pathways. Under similar conditions
+the mechanisms underlying bioﬁlm formation for closely
+related species such as P. aeruginosa and P. putida may
+be very different. As indicated above, the formation of
+P. putida bioﬁlm in ﬂow chambers is mainly dependent
+on the large adhesive surface protein LapA (9, 10, 44),
+whereas the formation of P. aeruginosa bioﬁlm in ﬂow
+chambers usually depends on exopolysaccharides such
+as Psl and Pel (7, 45, 46). However, it is also conceiv-
+able that a speciﬁc bacterial species may form bioﬁlm
+through different pathways under different conditions.
+P. aeruginosa, for example, can produce a number of
+bioﬁlm matrix products, including the Psl, Pel, and al-
+ginate polysaccharides; extracellular DNA; and the
+type IV pili, Cup, CdrA, LecA, LecB, and Fap protein
+components (2, 31, 45, 51–57). It may be expected that
+some P. aeruginosa strains selected for under speciﬁc
+
+4
+
+ASMscience.org/MicrobiolSpectrum
+
+Downloaded from https://journals.asm.org/journal/spectrum on 23 February 2024 by 206.209.15.21.Bioﬁlm Development
+
+FIGURE 3 CLSM vertical sections acquired in a color-coded P. aeruginosa bioﬁlm grown
+in a ﬂow chamber on glucose minimal medium. The CLSM micrographs were acquired in a
+4-day-old bioﬁlm which was initiated with a 1:1 mixture of Yfp-tagged (yellow ﬂuorescent)
+P. aeruginosa PAO1 wild type and Cfp-tagged (cyan ﬂuorescent) P. aeruginosa pilA
+mutants. Bars, 20 μm. Adapted from reference 50 with permission from Wiley-Blackwell
+publishing. doi:10.1128/microbiolspec.MB-0001-2014.f3
+
+conditions will produce some of these bioﬁlm matrix
+components in higher quantities than other strains and
+that the bioﬁlm pathways will vary accordingly.
+
+Whitchurch et al. (2) reported that the presence of
+DNase in the medium prevented bioﬁlm formation by
+the P. aeruginosa PAO1 laboratory strain in microtiter
+trays and ﬂow chambers, suggesting that extracellular
+DNA is an important matrix component in these bio-
+ﬁlms. Addition of DNase to young ﬂow-chamber-grown
+P. aeruginosa PAO1 bioﬁlms led to dispersal but did not
+disperse mature bioﬁlms, probably due to production
+of increasing amounts of other bioﬁlm matrix compo-
+nents during bioﬁlm maturation. In contrast, Nemoto
+et al. (58) found that mature bioﬁlms formed by four
+independent clinical P. aeruginosa isolates could be dis-
+persed by DNase treatment, suggesting that extracellular
+DNA is the primary cell-to-cell interconnecting com-
+pound in mature bioﬁlms formed by these P. aeruginosa
+strains. In addition, Murakawa (59, 60) investigated
+the chemical composition of the bioﬁlm matrix from
+20 clinical P. aeruginosa isolates and found that the
+bioﬁlm matrix from 18 strains consisted primarily of
+DNA, while 2 strains with a mucoid phenotype pro-
+duced slimes composed primarily of alginate.
+
+Differences in bioﬁlm structure may give rise to dif-
+ferent phenotypic responses, e.g., to antibiotic treat-
+ment. Many types of bioﬁlms display a remarkable
+increased tolerance to antimicrobial treatment com-
+pared to planktonic bacteria (61). The mechanisms that
+contribute to bioﬁlm-associated antimicrobial tolerance
+include restricted antimicrobial diffusion, differential
+induction of speciﬁc tolerance
+physiological activity,
+mechanisms, and persister cell formation (62). However,
+similar phenotypic responses to antibiotic treatment
+
+may have different underlying conditions even for bio-
+ﬁlms formed by the same species and displaying simi-
+lar structure. For example, tolerance to tobramycin in
+P. aeruginosa PA14 bioﬁlms can be caused by peri-
+plasmic glucans that bind tobramycin and prevent cell
+death most likely by sequestering the antibiotic (63).
+Synthesis of the periplasmic glucans requires the ndvB
+gene in P. aeruginosa PA14, and bioﬁlms formed by a
+P. aeruginosa ndvB mutant were found to be much
+more sensitive to tobramycin than wild type bioﬁlms.
+In contrast, the ndvB mutant and wild type showed
+no difference in tobramycin sensitivity when grown in
+planktonic culture. Reverse transcriptase PCR provided
+evidence that the ndvB gene was expressed speciﬁcally
+in P. aeruginosa PA14 bioﬁlms and not in planktonic
+cells (63). However, microarray analysis has provided
+evidence that ndvB is expressed at the same low level in
+bioﬁlm and planktonic cells of P. aeruginosa PAO1 (64),
+and therefore the ndvB-mediated mechanism appears
+to be restricted to speciﬁc P. aeruginosa strains. How-
+ever, P. aeruginosa PAO1 bioﬁlms also display tolerance
+to tobramycin treatment, and in this case extracellular
+DNA seems to be of primary importance because it
+binds tobramycin and shields the antibiotic (65).
+
+QUORUM-SENSING CAN PLAY IMPORTANT
+ROLES IN BIOFILM FORMATION
+
+In agreement with the fact that bacteria are closely as-
+sociated in bioﬁlms, quorum-sensing has been shown to
+play a role in bioﬁlm formation for various bacterial
+species, e.g., P. aeruginosa and B. cenocepacia. Davies et
+al. (66) showed that a quorum-sensing-defective mutant
+strain of P. aeruginosa formed ﬂat and undifferentiated
+
+ASMscience.org/MicrobiolSpectrum
+
+5
+
+Downloaded from https://journals.asm.org/journal/spectrum on 23 February 2024 by 206.209.15.21.Tolker-Nielsen
+
+bioﬁlms in ﬂow-chambers under conditions where the
+wild type strain formed bioﬁlms with large mushroom-
+shaped structures. In addition, Hentzer et al. (67) dem-
+onstrated that acylated homoserine lactone analogues,
+which inhibit quorum-sensing, affected P. aeruginosa
+bioﬁlm formation in ﬂow chambers. Subsequent studies
+provided further evidence for the importance of quorum-
+sensing signaling in the structural development of P. aeru-
+ginosa bioﬁlms (e.g., references 4, 68). Quorum-sensing
+plays a role in the generation of extracellular DNA in
+P. aeruginosa bioﬁlms (69). In addition to a small amount
+of extracellular DNA present in the initial phase in
+P. aeruginosa bioﬁlms, release of a large amount of ex-
+tracellular DNA occurs at a later stage of P. aeruginosa
+bioﬁlm formation, regulated via the Pseudomonas quin-
+olone signal (PQS)-based quorum-sensing system (69).
+Evidence has been provided that the release of DNA in
+P. aeruginosa bioﬁlm occurs as a consequence of lysis
+of a small subpopulation of the bacteria (69). In agree-
+ment with a role for PQS-based quorum-sensing in the
+generation of extracellular DNA that functions as a bio-
+ﬁlm matrix component, P. aeruginosa pqs mutants were
+found to have defects in bioﬁlm formation, and the thin
+bioﬁlms that were formed by the pqs mutants contained
+little extracellular DNA (4, 68–70). The mechanism in-
+volved in PQS-mediated DNA-release is unknown, but
+evidence has been provided that PQS can act as a cell-
+sensitizing pro-oxidant (71), which might cause lysis of a
+the P. aeruginosa bacteria during
+subpopulation of
+bioﬁlm formation.
+
+In addition to extracellular DNA, quorum-sensing
+signaling controls the production of the biosurfactant
+rhamnolipid, which was shown to be important for bio-
+ﬁlm formation by P. aeruginosa (72–74). Furthermore,
+the production of the P. aeruginosa LecA and LecB
+lectins was shown to be regulated by quorum-sensing
+(75), and the lectins were shown to play a role in P.
+aeruginosa bioﬁlm formation (56, 57). Quorum-sensing
+signaling in P. aeruginosa also controls the production
+of siderophores such as pyoverdine and pyochelin,
+which are also of importance for bioﬁlm formation (76).
+Although quorum-sensing evidently controls the pro-
+duction of many factors which are important for P. aeru-
+ginosa bioﬁlm formation, the role of quorum-sensing
+appears to be conditional, because quorum-sensing mu-
+tant strains evidently form bioﬁlms indistinguishable
+from wild type bioﬁlms under some conditions (77). A
+more deﬁnitive requirement for quorum-sensing in bio-
+ﬁlm formation seems to be the case for B. cenocepacia.
+Inhülsen et al. (78) and Schmid et al. (79) identiﬁed three
+main factors which potentially link quorum-sensing
+
+signaling to B. cenocepacia bioﬁlm formation: type-1
+ﬁmbriae, the BclACB lectins, and the large surface pro-
+tein BapA. These factors are all under quorum-sensing
+regulation in B. cenocepacia and were investigated in
+detail for their roles in bioﬁlm formation. Deletion
+of neither the type-1 ﬁmbriae genes nor the adjacent
+chaperone-usher transport system genes affected bio-
+ﬁlm formation by B. cenocepacia in microtiter trays or
+ﬂow chambers, indicating that type-1 ﬁmbriae are not
+essential for bioﬁlm formation by B. cenocepacia on
+abiotic surfaces. Deletion of the bclACB operon did not
+result in any signiﬁcant difference in bioﬁlm formation
+in microtiter trays compared to the wild type strain.
+In contrast, the deletion of bapA, as well as the adjacent
+genes encoding a putative ABC transporter system re-
+sponsible for the secretion of BapA, resulted in a sig-
+niﬁcant reduction in bioﬁlm formation in microtiter
+trays and ﬂow chambers. Downregulation of BapA ex-
+pression through a rhamnose-inducible promoter in the
+bclACB mutant resulted in a defect in bioﬁlm formation
+compared to the corresponding wild type strain, with
+reduced bapA expression, suggesting that lectins are
+important in surface colonization when BapA is limiting
+and that BapA is the major factor for bioﬁlm formation.
+In addition to the ﬁmbriae, lectins, and BapA, quo-
+rum-sensing also seems to regulate the production of
+extracellular DNA in B. cenocepacia bioﬁlms. McCarthy
+et al. (80) provided evidence that four-day-old B. ceno-
+cepacia wild type bioﬁlms grown in ﬂow chambers
+contained substantial amounts of extracellular DNA as a
+part of the bioﬁlm matrix. In contrast, bioﬁlms formed
+by a quorum-sensing-defective B. cenocepacia mutant
+never passed the initial microcolony stage, and the thin
+bioﬁlms showed little staining by propidium iodide, in-
+dicating that extracellular DNA was not generated in
+large quantities (80).
+
+BACTERIAL SUBPOPULATIONS
+DEVELOP AND INTERACT DURING
+BIOFILM FORMATION
+
+As described above, the different bacteria in mixed-
+species bioﬁlms can engage in metabolic interactions,
+and this affects bioﬁlm formation and the structure
+of the bioﬁlm. However, it also appears that subpopu-
+lations develop and interact in mono-species bioﬁlms
+and that these interactions affect bioﬁlm formation and
+the structure of the bioﬁlms. For example, the motile
+and nonmotile subpopulations that can develop during
+P. aeruginosa bioﬁlm formation appear to interact in a
+number of ways. Yang et al. (4) provided evidence that
+
+6
+
+ASMscience.org/MicrobiolSpectrum
+
+Downloaded from https://journals.asm.org/journal/spectrum on 23 February 2024 by 206.209.15.21.the PQS quorum-sensing system and genes necessary for
+pyoverdine synthesis are expressed only in the stalk part
+of the mushroom-shaped microcolonies that form in
+glucose-grown P. aeruginosa bioﬁlms. PQS quorum-
+sensing controls the production of extracellular DNA in
+P. aeruginosa bioﬁlms (69), and evidence was provided
+that release of extracellular DNA by the bacteria in the
+initial microcolonies (which subsequently constitute the
+stalk part of the mature mushroom-shaped microcol-
+onies) is necessary for development of the mushroom-
+shaped microcolonies (4). Furthermore, evidence was
+presented that pyoverdine production in the initial mi-
+crocolonies is necessary for iron uptake in the cap-
+forming subpopulation and for development of the
+mushroom-shaped microcolonies (4).
+
+The propositions made by Yang et al. (4) were mainly
+based on genetic evidence. Experiments involving P. aeru-
+ginosa strains with pqsA::gfp and pvdA::gfp ﬂuorescent
+reporters provided evidence that the genes required for
+PQS quorum-sensing and pyoverdine synthesis were
+expressed speciﬁcally in the stalk part of the mushroom-
+shaped microcolonies in P. aeruginosa bioﬁlms. The three
+mutant strains P. aeruginosa pilA, P. aeruginosa pvdA
+(deﬁcient in pyoverdine production), and P. aeruginosa
+pqsA (deﬁcient in PQS quorum-sensing) were shown to be
+unable to form mushroom-shaped structures individually
+in single-strain bioﬁlms. P. aeruginosa pilA mutants could
+only form the initial microcolonies because type IV pili
+are necessary for cap formation, and it appeared that
+the P. aeruginosa pvdA and P. aeruginosa pqsA mutant
+strains also had a defect in cap formation. However,
+mushroom-shaped structures with pilA mutants in the
+stalk and pqsA mutants in the cap were formed in pilA/
+pqsA mixed-strain bioﬁlms. Likewise, mushroom-shaped
+structures with pilA mutants in the stalk and pvdA
+mutants in the cap were formed in pilA/pvdA mixed-
+strain bioﬁlms. It appears that the pilA, pvdA, and pqsA
+mutants cannot form mushroom-shaped microcolonies
+individually in single-strain bioﬁlms, but in pilA/pqsA
+mixed-strain bioﬁlms and pilA/pvdA mixed-strain bio-
+ﬁlms the subpopulations interact with each other, and
+together they form mushroom-shaped microcolonies.
+
+BIOFILM FORMATION IS PROGRAMMED IN
+THE SENSE THAT REGULATED SYNTHESIS
+OF EXTRACELLULAR MATRIX COMPONENTS
+IS INVOLVED, BUT IT IS ALSO GOVERNED BY
+ADAPTIVE RESPONSES
+
+Observations of the mushroom-shaped microcolonies
+that can form in ﬂow-chamber-grown P. aeruginosa
+
+Bioﬁlm Development
+
+bioﬁlms have led to comparisons between P. aeruginosa
+bioﬁlm microcolonies and the fruiting bodies that are
+formed by Myxococcus bacteria (66), and it has led to
+speculation about bioﬁlm formation as a highly pro-
+grammed developmental process with hierarchically
+ordered genetic pathways controlling attachment, micro-
+colony formation, and microcolony maturation (81).
+The developmental model
+implies that the structure
+of bioﬁlms has evolved to provide a speciﬁc function.
+For example, it has been proposed that the ability of
+P. aeruginosa to form mushroom-shaped microcolonies
+in bioﬁlms has developed as a result of group-level
+evolution, because these structures give efﬁcient nutrient
+supply to the bacteria and efﬁcient removal of waste
+products (82). However, the available evidence suggests
+that the mushroom-shaped microcolonies are formed in
+the ﬂow-chamber-grown P. aeruginosa bioﬁlms mainly
+as a consequence of the special conditions in the ﬂow
+chamber and the existence of motile and nonmotile
+subpopulations. Because of bacterial nutrient consump-
+tion, there is a decreasing nutrient gradient from the
+top to the bottom of the bioﬁlm in the ﬂow chamber
+(83). The motile bacteria that accumulate on the top of
+the microcolonies therefore have a growth advantage in
+comparison to the bacteria in the lower part of the bio-
+ﬁlm and can proliferate to form the mushroom caps
+(84). As described above, extracellular DNA released
+by the nonmotile bacteria appears to be important
+for settling of the motile bacteria in the cap portion of
+the mushroom-shaped microcolonies (4). In addition,
+exopolysaccharide production, rhamnolipid surfactant
+production, quorum-sensing, and siderophores are also
+known to be involved in formation of the mushroom-
+shaped microcolonies (85). It is presently not understood
+why the P. aeruginosa population differentiates into non-
+motile and motile subpopulations in the initial stage of
+bioﬁlm formation in glucose-fed ﬂow chambers and not
+in citrate-fed ﬂow chambers.
+
+If bioﬁlm formation is a highly programmed process,
+it would be expected that a core set of “bioﬁlm genes”
+would be expressed in all bioﬁlms of a given bacterium.
+In the case of P. aeruginosa a number of microarray
+analyses have been performed to monitor genes that
+are expressed during bioﬁlm formation (e.g., 64, 86–88).
+However, the transcriptomic analyses performed by
+various research groups have failed to consistently
+identify speciﬁc bioﬁlm regulons. The failure to detect
+common themes in the gene expression proﬁle of
+P. aeruginosa bioﬁlm cells suggests that bioﬁlm forma-
+tion is mainly governed by adaptive responses. This is in
+agreement with the fact that the structural development
+
+ASMscience.org/MicrobiolSpectrum
+
+7
+
+Downloaded from https://journals.asm.org/journal/spectrum on 23 February 2024 by 206.209.15.21.Tolker-Nielsen
+
+of P. aeruginosa bioﬁlms and different mixed-species
+bioﬁlms is dependent on the nutritional conditions and
+can change in response to changing nutritional condi-
+tions, as described above. However, formation of bio-
+ﬁlms does require expression of bioﬁlm matrix products.
+In the case of P. aeruginosa these bioﬁlm matrix pro-
+ducts include Psl, Pel, alginate, extracellular DNA, type
+IV pili, Cup, CdrA, LecA, LecB, and Fap (2, 6, 31, 45,
+52–57). The synthesis of many of these products is
+positively regulated by the intracellular signaling mole-
+cule c-di-GMP (e.g., see reference 25 for a review).
+As mentioned previously, synthesis and degradation of
+c-di-GMP in the bacteria is accomplished by diguanylate
+cyclases and phosphodiesterases that contain sensory
+domains, enabling translation of diverse environmental
+cues into synthesis or degradation of c-di-GMP, which
+binds to downstream effector molecules and modulates
+their function, resulting in regulation of the production
+of different adhesins and bioﬁlm matrix products. It
+therefore appears that bioﬁlm formation is programmed
+in the sense that regulated synthesis of extracellular
+matrix components is involved. However, although re-
+searchers have deﬁned a number of bioﬁlm stages, there
+are currently no data that couple the initial c-di-GMP-
+regulated matrix production to speciﬁc stages occurring
+later during bioﬁlm formation. In addition, there is
+currently no evidence that the different c-di-GMP sig-
+naling circuits are hierarchically ordered to control tran-
+sitions through speciﬁc stages in bioﬁlm formation.
+Bioﬁlm-speciﬁc pathways may be limited to the initial
+regulation of adhesin and matrix production, whereas
+the successive stages of bioﬁlm formation may be gov-
+erned by adaptive responses.
+
+BIOFILM FORMATION IS LARGELY
+GOVERNED BY ADAPTIVE RESPONSES OF
+INDIVIDUAL BACTERIA, BUT GROUP-LEVEL
+ACTIVITIES ARE ALSO INVOLVED
+As mentioned above, bioﬁlm formation can be viewed as
+a developmental process or as a process governed by
+adaptive responses of individual bacteria. Bioﬁlm for-
+mation as a developmental process involves bioﬁlm-
+speciﬁc genes that are part of hierarchically ordered
+pathways dedicated to controlling the transition through
+speciﬁc bioﬁlm stages. Bioﬁlm formation governed by
+adaptive responses involves the ability of the individual
+bacteria to regulate cellular adhesiveness and motility
+in response to micro-environmental cues. The develop-
+mental and adaptive response hypotheses can be dis-
+tinguished in evolutionary terms, because the former
+
+The production of the cell-to-cell
+
+involves selection of a given trait because of its beneﬁt
+to the group, whereas the latter involves selection of
+a given trait because of its beneﬁt to the individual
+bacterium. The apparently cooperative traits in bio-
+ﬁlms can in many cases alternatively be explained by
+the ﬁtness advantages of this behavior for the individ-
+ual bacterium. For example, the formation of regular
+mushroom-shaped structures in P. aeruginosa bioﬁlms
+via a pathway that involves type IV pili-dependent cel-
+lular migration may be a coordinated social process that
+creates bioﬁlms with architectures which allow optimal
+circulation and nutrient supply to the population, or it
+may, because nutrient gradients develop in bioﬁlms, be
+the result of chemotaxis of individual bacteria moving
+to a favorable nutrient-containing micro-environment.
+interconnecting
+components in bioﬁlms may be a cost each bacterium
+pays to contribute to the social activity of creating a
+protective bioﬁlm domicile, or it may simply increase the
+adhesiveness of single bacterial cells, allowing them to
+persist in the speciﬁc environment. Quorum-sensing-
+dependent production of extracellular DNA and lectins
+in P. aeruginosa bioﬁlms (69, 75), as well as quorum-
+sensing-dependent production of surface protein, ﬁm-
+briae, and lectins in B. cenocepacia bioﬁlms (78), may be
+interpreted as group-level activities. However, instead of
+a means to regulate production of speciﬁc factors at the
+group level, quorum-sensing may be diffusion-sensing
+that enables the individual bacterium to determine
+whether secreted molecules rapidly move away from the
+cell (89). Yet the observed involvement of quorum-
+sensing in DNA release from a lysing subpopulation in
+P. aeruginosa bioﬁlms, resulting in bioﬁlm stabilization,
+may be interpreted as social behavior because the lysing
+cells that provide the DNA obviously are not themselves
+beneﬁted directly.
+
+BIOFILM FORMATION TERMINATES
+IN RESPONSE TO SPECIFIC
+ENVIRONMENTAL CUES
+In agreement with the suggestion that bioﬁlm formation
+is mainly governed by adaptive responses, and does not
+involve stable or meta-stable developmental changes, the
+bacteria in bioﬁlms can at any stage sense environmental
+cues and terminate bioﬁlm formation in response to
+speciﬁc signals. In the case of P. putida, for example, it
+was shown that established ﬂow-chamber-grown bio-
+ﬁlms can disperse completely within a few minutes in
+response to a shift from a medium with a carbon source
+to a medium without a carbon source or in response to a
+
+8
+
+ASMscience.org/MicrobiolSpectrum
+
+Downloaded from https://journals.asm.org/journal/spectrum on 23 February 2024 by 206.209.15.21.stoppage in the ﬂow of growth medium (10). Bioﬁlm
+formation by P. putida in ﬂow chambers is mainly
+governed by the large adhesive protein LapA (9, 44).
+Evidence has been provided that c-di-GMP signaling
+regulates bioﬁlm formation in P. putida by controlling
+the presence of LapA on the cell surface (9). The pres-
+ence of LapA on the cell surface is controlled by the
+proteins LapD and LapG in response to the intracellular
+level of c-di-GMP. The LapG protein is a periplasmic
+proteinase, and it is able to cleave LapA off the cell
+surface when it is not repressed. The LapD protein spans
+the cytoplasmic membrane and contains degenerate
+GGDEF and EAL domains which can bind c-di-GMP,
+and it regulates the activity of the LapG proteinase by
+repressing it when the intracellular level of c-di-GMP is
+high and derepressing it when the intracellular level
+of c-di-GMP is low. A c-di-GMP phosphodisterase gene
+in P. putida, homologous to the P. aeruginosa bifA
+gene, has recently been identiﬁed as being essential for
+starvation-induced dispersal of P. putida bioﬁlms along
+with the lapG gene, suggesting a link between P. putida
+BifA phosphodisterase activity and LapG-mediated dis-
+persal (90).
+
+The work described above, together with structural
+and biochemical work done in P. ﬂuorescens (91, 92),
+suggests that P. putida can rapidly terminate bioﬁlm
+formation in response to starvation through the follow-
+ing mechanisms: (i) nutrient limitation leads to activation
+of the BifA phosphodiesterase via an unknown pathway;
+(ii) activation of the BifA phosphodiesterase leads to
+a decrease in the c-di-GMP level in the vicinity of the
+transmembrane LapD protein; (iii) the reduction in the
+c-di-GMP level causes dissociation of c-di-GMP from the
+LapD protein; (iv) dissociation of c-di-GMP from LapD
+causes derepression of the periplasmic LapG protease;
+(v) the derepressed LapG protease cleaves off the cell-
+associated LapA protein; (v) cleavage of the LapA pro-
+tein leads to the release of the cells from the bioﬁlm.
+
+CONCLUDING REMARKS
+
+During the past decade we have gained much knowledge
+about the molecular mechanisms that are involved in
+the initiation and termination of bioﬁlm formation.
+In many bacteria, these processes appear to occur in
+response to speciﬁc environmental cues and result in,
+respectively, induction or termination of bioﬁlm matrix
+production via the second messenger molecule c-di-
+GMP. In between initiation and termination of bioﬁlm
+formation we have deﬁned speciﬁc bioﬁlm stages, but
+the currently available evidence suggests that these
+
+Bioﬁlm Development
+
+transitions are mainly governed by adaptive responses,
+and not by speciﬁc genetic programs. It appears that
+bioﬁlm formation can occur through multiple pathways
+and that the spatial structure of the bioﬁlms is species
+dependent as well as dependent on the environmental
+conditions. Bacterial subpopulations, e.g., motile and
+nonmotile subpopulations, can develop and interact
+during bioﬁlm formation, and these interactions can
+affect the structure of the bioﬁlm. The available evi-
+dence suggests that bioﬁlm formation is programmed in
+the sense that regulated synthesis of extracellular ma-
+trix components is involved. Furthermore, our current
+knowledge suggests that bioﬁlm formation is mainly
+governed by adaptive responses of individual bacteria,
+although group-level activities are also involved.
+
+The realization that a number of separate c-di-GMP
+signaling circuits regulate the production of different
+bioﬁlm matrix components in bacteria in response to
+speciﬁc environmental cues has been a major step for-
+ward in bioﬁlm research. However, although we have
+deﬁned a number of bioﬁlm stages, there is currently
+no data that couple the initial c-di-GMP-regulated ma-
+trix production to speciﬁc stages occurring later during
+bioﬁlm formation, and there is currently no evidence
+that the various c-di-GMP signaling circuits are hierar-
+chically ordered to control the transition through spe-
+ciﬁc stages in bioﬁlm formation. Future research will
+show whether bioﬁlm-speciﬁc pathways are limited to
+the initial and terminal c-di-GMP-mediated regulation
+of adhesin and matrix production, with the in-between
+stages of bioﬁlm formation governed by adaptive re-
+sponses, or whether the different c-di-GMP signaling
+circuits are hierarchically ordered to control the transi-
+tion through speciﬁc stages in bioﬁlm formation.
+
+ACKNOWLEDGMENTS
+This work was supported by grants from the Danish Council for
+Independent Research and the Lundbeck foundation.
+
+Conﬂicts of interest: I declare no conﬂicts.
+
+REFERENCES
+1. Sauer K, Camper AK, Ehrlich GD, Costerton JW, Davies DG. 2002.
+Pseudomonas aeruginosa displays multiple phenotypes during develop-
+ment as a bioﬁlm. J Bacteriol 184:1140–1154.
+2. Whitchurch CB, Tolker-Nielsen T, Ragas PC, Mattick JS. 2002.
+Extracellular DNA required for bacterial bioﬁlm formation. Science
+295:1487.
+3. Ma L, Jackson KD, Landry RM, Parsek MR, Wozniak DJ. 2006.
+Analysis of Pseudomonas aeruginosa conditional psl variants reveals roles
+for the psl polysaccharide in adhesion and maintaining bioﬁlm structure
+postattachment. J Bacteriol 188:8213–8221.
+4. Yang L, Nilsson M, Gjermansen M, Givskov M, Tolker-Nielsen T.
+2009. Pyoverdine and PQS mediated subpopulation interactions involved
+in Pseudomonas aeruginosa bioﬁlm formation. Mol Microbiol 74:1380–
+1392.
+
+ASMscience.org/MicrobiolSpectrum
+
+9
+
+Downloaded from https://journals.asm.org/journal/spectrum on 23 February 2024 by 206.209.15.21.Tolker-Nielsen
+
+5. Molin S, Tolker-Nielsen T. 2003. Gene transfer occurs with enhanced
+efﬁciency in bioﬁlms and induces enhanced stabilisation of the bioﬁlm
+structure. Curr Opin Biotechnol 14:255–261.
+6. Friedman L, Kolter R. 2003. Genes involved in matrix formation in
+Pseudomonas aeruginosa PA14 bioﬁlms. Mol Microbiol 51:675–690.
+7. Jackson KD, Starkey M, Kremer S, Parsek MR, Wozniak DJ.
+2004. Identiﬁcation of psl, a locus encoding a potential exopolysaccharide
+that is essential for Pseudomonas aeruginosa PAO1 bioﬁlm formation.
+J Bacteriol 186:4466–4475.
+8. Pamp SJ, Gjermansen M, Tolker-Nielsen T. 2007. The bioﬁlm matrix: a
+sticky framework, p 37–69. In Kjelleberg S, Givskov M (ed), The Bioﬁlm
+Mode of Life: Mechanisms and Adaptations. Horizon Bioscience,
+Norfolk, UK.
+9. Gjermansen M, Nilsson M, Yang L, Tolker-Nielsen T. 2010. Charac-
+terization of starvation-induced dispersion in Pseudomonas putida
+bioﬁlms: genetic elements and molecular mechanisms. Mol Microbiol
+75:815–826.
+10. Gjermansen M, Ragas P, Sternberg C, Molin S, Tolker-Nielsen T.
+2005. Characterization of starvation-induced dispersion in Pseudomonas
+putida bioﬁlms. Environ Microbiol 7:894–906.
+11. Gjermansen M, Ragas P, Tolker-Nielsen T. 2006. Proteins with
+GGDEF and EAL domains regulate Pseudomonas putida bioﬁlm forma-
+tion and dispersal. FEMS Microbiol Lett 265:215–224.
+12. Ryan RP, Lucey J, O’Donovan K, McCarthy Y, Yang L, Tolker-
+Nielsen T, Dow JM. 2009. HD-GYP domain proteins regulate bioﬁlm
+formation and virulence in Pseudomonas aeruginosa. Environ Microbiol
+11:1126–1136.
+13. Simm R, Morr M, Kader A, Nimtz M, Romling U. 2004. GGDEF and
+EAL domains inversely regulate cyclic di-GMP levels and transition from
+sessility to motility. Mol Microbiol 53:1123–1134.
+14. Ross P, Weinhouse H, Aloni Y, Michaeli D, Weinberger-Ohana P,
+Mayer R, Braun S, de Vroom E, van der Marel GA, van Boom JH,
+Benziman M. 1987. Regulation of cellulose synthesis in Acetobacter
+xylinum by cyclic diguanylic acid. Nature 325:279–281.
+15. Garcia B, Latasa C, Solano C, Garcia-del Portillo F, Gamazo C, Lasa I.
+2004. Role of the GGDEF protein family in Salmonella cellulose biosyn-
+thesis and bioﬁlm formation. Mol Microbiol 54:264–277.
+16. Tischler AD, Camilli A. 2004. Cyclic diguanylate (c-di-GMP) regu-
+lates Vibrio cholerae bioﬁlm formation. Mol Microbiol 53:857–869.
+17. Kirillina O, Fetherston JD, Bobrov AG, Abney J, Perry RD. 2004.
+HmsP, a putative phosphodiesterase, and HmsT, a putative diguanylate
+cyclase, control Hms-dependent bioﬁlm formation in Yersinia pestis. Mol
+Microbiol 54:75–88.
+18. Hickman JW, Tifrea DF, Harwood CS. 2005. A chemosensory system
+that regulates bioﬁlm formation through modulation of cyclic diguanylate
+levels. Proc Natl Acad Sci USA 102:14422–14427.
+19. Kulasakara H, Lee V, Brencic A, Liberati N, Urbach J, Miyata S,
+Lee DG, Neely AN, Hyodo M, Hayakawa Y, Ausubel FM, Lory S.
+2006. Analysis of Pseudomonas aeruginosa diguanylate cyclases and
+phosphodiesterases reveals a role for bis-(3′-5′)-cyclic-GMP in virulence.
+Proc Natl Acad Sci USA 103:2839–2844.
+20. Goymer P, Kahn SG, Malone JG, Gehrig SM, Spiers AJ, Rainey PB.
+2006. Adaptive divergence in experimental populations of Pseudomonas
+ﬂuorescens. II. Role of the GGDEF regulator WspR in evolution and de-
+velopment of the wrinkly spreader phenotype. Genetics 173:515–526.
+21. Lim B, Beyhan S, Meir J, Yildiz FH. 2006. Cyclic-diGMP signal
+transduction systems in Vibrio cholerae: modulation of rugosity and
+bioﬁlm formation. Mol Microbiol 60:331–348.
+22. Fazli M, O’Connell A, Nilsson M, Niehaus K, Dow JM, Givskov M,
+Ryan RP, Tolker-Nielsen T. 2011. The CRP/FNR family protein
+Bcam1349 is a c-di-GMP effector that regulates bioﬁlm formation in the
+respiratory pathogen Burkholderia cenocepacia. Mol Microbiol 82:327–
+341.
+
+23. Chen Y, Chai Y, Guo JH, Losick R. 2012. Evidence for cyclic
+Di-GMP-mediated signaling in Bacillus subtilis. J Bacteriol 194:5080–
+5090.
+24. Purcell EB, McKee RW, McBride SM, Waters CM, Tamayo R. 2012.
+Cyclic diguanylate inversely regulates motility and aggregation in Clos-
+tridium difﬁcile. J Bacteriol 194:3307–3316.
+25. Hengge R. 2009. Principles of c-di-GMP signalling in bacteria. Nat
+Rev Microbiol 7:263–273.
+26. Massie JP, Reynolds EL, Koestler BJ, Cong JP, Agostoni M, Waters
+CM. 2012. Quantiﬁcation of high-speciﬁcity cyclic diguanylate signaling.
+Proc Natl Acad Sci USA 109:12746–12751.
+27. O’Connor JR, Kuwada NJ, Huangyutitham V, Wiggins PA, Harwood
+CS. 2012. Surface sensing and lateral subcellular localization of WspA, the
+receptor in a chemosensory-like system leading to c-di-GMP production.
+Mol Microbiol 86:720–729.
+28. Monds RD, Newell PD, Gross RH, O’Toole GA. 2007. Phosphate-
+dependent modulation of c-di-GMP levels
+regulates Pseudomonas
+ﬂuorescens Pf0-1 bioﬁlm formation by controlling secretion of the adhesin
+LapA. Mol Microbiol 63:656–679.
+29. Guvener ZT, Harwood CS. 2007. Subcellular location characteristics
+of the Pseudomonas aeruginosa GGDEF protein, WspR, indicate that it
+produces cyclic-di-GMP in response to growth on surfaces. Mol Microbiol
+66:1459–1473.
+30. Guvener ZT, Tifrea DF, Harwood CS. 2006. Two different Pseudo-
+monas aeruginosa chemosensory signal transduction complexes localize to
+cell poles and form and remould in stationary phase. Mol Microbiol
+61:106–118.
+31. Borlee BR, Goldman AD, Murakami K, Samudrala R, Wozniak DJ,
+Parsek MR. 2010. Pseudomonas aeruginosa uses a cyclic-di-GMP-regu-
+lated adhesin to reinforce the bioﬁlm extracellular matrix. Mol Microbiol
+75:827–842.
+32. Chambers JR, Sauer K. 2013. Small RNAs and their role in bioﬁlm
+formation. Trends Microbiol 21:39–49.
+33. Goodman AL, Kulasekara B, Rietsch A, Boyd D, Smith RS, Lory S.
+2004. A signaling network reciprocally regulates genes associated with
+acute infection and chronic persistence in Pseudomonas aeruginosa. Dev
+Cell 7:745–754.
+34. Goodman AL, Merighi M, Hyodo M, Ventre I, Filloux A, Lory S.
+2009. Direct interaction between sensor kinase proteins mediates acute
+and chronic disease phenotypes in a bacterial pathogen. Genes Dev
+23:249–259.
+35. Ventre I, Goodman AL, Vallet-Gely I, Vasseur P, Soscia C, Molin S,
+Bleves S, Lazdunski A, Lory S, Filloux A. 2006. Multiple sensors control
+reciprocal expression of Pseudomonas aeruginosa regulatory RNA and
+virulence genes. Proc Natl Acad Sci USA 103:171–176.
+36. Brencic A, Lory S. 2009. Determination of the regulon and identiﬁ-
+cation of novel mRNA targets of Pseudomonas aeruginosa RsmA. Mol
+Microbiol 72:612–632.
+37. Brencic A, McFarland KA, McManus HR, Castang S, Mogno I, Dove
+SL, Lory S. 2009. The GacS/GacA signal transduction system of Pseu-
+domonas aeruginosa acts exclusively through its control over the tran-
+scription of the RsmY and RsmZ regulatory small RNAs. Mol Microbiol
+73:434–445.
+38. Irie Y, Starkey M, Edwards AN, Wozniak DJ, Romeo T, Parsek MR.
+2010. Pseudomonas aeruginosa bioﬁlm matrix polysaccharide Psl is reg-
+ulated transcriptionally by RpoS and post-transcriptionally by RsmA. Mol
+Microbiol 78:158–172.
+39. Petrova OE, Sauer K. 2009. A novel signaling network essential for
+regulating Pseudomonas aeruginosa bioﬁlm development. PLoS Pathog 5:
+e1000668. doi:10.1371/journal.ppat.1000668.
+
+40. Petrova OE, Sauer K. 2010. The novel two-component regulatory
+system BﬁSR regulates bioﬁlm development by controlling the small RNA
+rsmZ through CafA. J Bacteriol 192:5275–5288.
+
+10
+
+ASMscience.org/MicrobiolSpectrum
+
+Downloaded from https://journals.asm.org/journal/spectrum on 23 February 2024 by 206.209.15.21.41. Petrova OE, Sauer K. 2011. SagS contributes to the motile-sessile
+switch and acts in concert with BﬁSR to enable Pseudomonas aeruginosa
+bioﬁlm formation. J Bacteriol 193:6614–6628.
+42. Moscoso JA, Mikkelsen H, Heeb S, Williams P, Filloux A. 2011.
+The Pseudomonas aeruginosa sensor RetS switches type III and type VI
+secretion via c-di-GMP signalling. Environ Microbiol 13:3128–3138.
+43. Tolker-Nielsen T, Brinch UC, Ragas PC, Andersen JB, Jacobsen CS,
+Molin S. 2000. Development and dynamics of Pseudomonas sp. bioﬁlms.
+J Bacteriol 182:6482–6489.
+44. Nilsson M, Chiang WC, Fazli M, Gjermansen M, Givskov M, Tolker-
+Nielsen T. 2011. Inﬂuence of putative exopolysaccharide genes on Pseu-
+domonas putida KT2440 bioﬁlm stability. Environ Microbiol 13:1357–
+1369.
+45. Matsukawa M, Greenberg EP. 2004. Putative exopolysaccharide
+synthesis genes inﬂuence Pseudomonas aeruginosa bioﬁlm development.
+J Bacteriol 186:4449–4456.
+46. Wozniak DJ, Wyckoff TJ, Starkey M, Keyser R, Azadi P, O’Toole GA,
+Parsek MR. 2003. Alginate is not a signiﬁcant component of the extra-
+cellular polysaccharide matrix of PA14 and PAO1 Pseudomonas
+aeruginosa bioﬁlms. Proc Natl Acad Sci USA 100:7907–7912.
+47. Klausen M, Heydorn A, Ragas P, Lambertsen L, Aaes-Jorgensen A,
+Molin S, Tolker-Nielsen T. 2003. Bioﬁlm formation by Pseudomonas
+aeruginosa wild type, ﬂagella and type IV pili mutants. Mol Microbiol
+48:1511–1524.
+48. Nielsen AT, Tolker-Nielsen T, Barken KB, Molin S. 2000. Role of
+commensal relationships on the spatial structure of a surface-attached
+microbial consortium. Environ Microbiol 2:59–68.
+49. Wolfaardt GM, Lawrence JR, Robarts RD, Caldwell SJ, Caldwell DE.
+1994. Multicellular organization in a degradative bioﬁlm community.
+Appl Environ Microbiol 60:434–446.
+50. Klausen M, Aaes-Jorgensen A, Molin S, Tolker-Nielsen T. 2003. In-
+volvement of bacterial migration in the development of complex multi-
+cellular structures in Pseudomonas aeruginosa bioﬁlms. Mol Microbiol
+50:61–68.
+51. Friedman L, Kolter R. 2004. Two genetic loci produce distinct car-
+bohydrate-rich structural components of the Pseudomonas aeruginosa
+bioﬁlm matrix. J Bacteriol 186:4457–4465.
+52. Hoiby N. 1974. Pseudomonas aeruginosa infection in cystic ﬁbrosis.
+Relationship between mucoid strains of Pseudomonas aeruginosa and the
+humoral immune response. Acta Pathol Microbiol Scand B Microbiol
+Immunol 82:551–558.
+53. O’Toole GA, Kolter R. 1998. Flagellar and twitching motility are
+necessary for Pseudomonas aeruginosa bioﬁlm development. Mol
+Microbiol 30:295–304.
+54. Vallet I, Olson JW, Lory S, Lazdunski A, Filloux A. 2001. The
+chaperone/usher pathways of Pseudomonas aeruginosa: identiﬁcation of
+ﬁmbrial gene clusters (cup) and their involvement in bioﬁlm formation.
+Proc Natl Acad Sci USA 98:6911–6916.
+55. Dueholm MS, Sondergaard MT, Nilsson M, Christiansen G,
+Stensballe A, Overgaard MT, Givskov M, Tolker-Nielsen T, Otzen DE,
+Nielsen PH. 2013. Expression of Fap amyloids in Pseudomonas
+aeruginosa, P. ﬂuorescens, and P. putida results in aggregation and in-
+creased bioﬁlm formation. Microbiologyopen 2:365–382.
+56. Tielker D, Hacker S, Loris R, Strathmann M, Wingender J, Wilhelm S,
+Rosenau F, Jaeger KE. 2005. Pseudomonas aeruginosa lectin LecB is lo-
+cated in the outer membrane and is involved in bioﬁlm formation. Mi-
+crobiology 151:1313–1323.
+57. Diggle SP, Stacey RE, Dodd C, Camara M, Williams P, Winzer K.
+2006. The galactophilic lectin, LecA, contributes to bioﬁlm development
+in Pseudomonas aeruginosa. Environ Microbiol 8:1095–1104.
+58. Nemoto K, Hirota K, Murakami K, Taniguti K, Murata H, Viducic D,
+Miyake Y. 2003. Effect of Varidase (streptodornase) on bioﬁlm formed by
+Pseudomonas aeruginosa. Chemotherapy 49:121–125.
+
+Bioﬁlm Development
+
+59. Murakawa T. 1973. Slime production by Pseudomonas aeruginosa.
+IV. Chemical analysis of two varieties of slime produced by Pseudomonas
+aeruginosa. Jpn J Microbiol 17:513–520.
+60. Murakawa T. 1973. Slime production by Pseudomonas aeruginosa.
+III. Puriﬁcation of slime and its physicochemical properties. Jpn J
+Microbiol 17:273–281.
+61. Costerton JW, Stewart PS, Greenberg EP. 1999. Bacterial bioﬁlms: a
+common cause of persistent infections. Science 284:1318–1322.
+62. Ciofu O, Tolker-Nielsen T. 2010. Antibiotic tolerance and resistance
+in bioﬁlms, p 215–230. In Høiby N, Jensen PØ, Moser C (ed), Bioﬁlm
+Infections. Springer, New York.
+63. Mah TF, Pitts B, Pellock B, Walker GC, Stewart PS, O’Toole GA.
+2003. A genetic basis for Pseudomonas aeruginosa bioﬁlm antibiotic re-
+sistance. Nature 426:306–310.
+64. Hentzer M, Eberl L, Givskov M. 2005. Transcriptome analysis of
+Pseudomonas aeruginosa bioﬁlm development: anaerobic respiration and
+iron limitation. Bioﬁlms 2:37–61.
+65. Chiang WC, Nilsson M, Jensen PO, Hoiby N, Nielsen TE, Givskov
+M, Tolker-Nielsen T. 2013. Extracellular DNA shields against amino-
+glycosides in Pseudomonas aeruginosa bioﬁlms. Antimicrob Agents
+Chemother 57:2352–2361.
+66. Davies DG, Parsek MR, Pearson JP, Iglewski BH, Costerton JW,
+Greenberg EP. 1998. The involvement of cell-to-cell signals in the devel-
+opment of a bacterial bioﬁlm. Science 280:295–298.
+67. Hentzer M, Riedel K, Rasmussen TB, Heydorn A, Andersen JB,
+Parsek MR, Rice SA, Eberl L, Molin S, Hoiby N, Kjelleberg S, Givskov M.
+2002. Inhibition of quorum sensing in Pseudomonas aeruginosa bioﬁlm
+bacteria by a halogenated furanone compound. Microbiology 148:87–
+102.
+68. Yang L, Barken KB, Skindersoe ME, Christensen AB, Givskov M,
+Tolker-Nielsen T. 2007. Effects of iron on DNA release and bioﬁlm de-
+velopment by Pseudomonas aeruginosa. Microbiology 153:1318–1328.
+69. Allesen-Holm M, Barken KB, Yang L, Klausen M, Webb JS,
+Kjelleberg S, Molin S, Givskov M, Tolker-Nielsen T. 2006. A character-
+ization of DNA release in Pseudomonas aeruginosa cultures and bioﬁlms.
+Mol Microbiol 59:1114–1128.
+70. Diggle SP, Winzer K, Chhabra SR, Worrall KE, Camara M, Williams
+P. 2003. The Pseudomonas aeruginosa quinolone signal molecule
+overcomes the cell density-dependency of the quorum sensing hierarchy,
+regulates rhl-dependent genes at the onset of stationary phase and can be
+produced in the absence of LasR. Mol Microbiol 50:29–43.
+71. Haussler S, Becker T. 2008. The pseudomonas quinolone signal (PQS)
+balances life and death in Pseudomonas aeruginosa populations. PLoS
+Pathog 4:e1000166. doi:10.1371/journal.ppat.1000166.
+72. Davey ME, Caiazza NC, O’Toole GA. 2003. Rhamnolipid surfactant
+production affects bioﬁlm architecture in Pseudomonas aeruginosa PAO1.
+J Bacteriol 185:1027–1036.
+73. Boles BR, Thoendel M, Singh PK. 2005. Rhamnolipids mediate de-
+tachment of Pseudomonas aeruginosa from bioﬁlms. Mol Microbiol
+57:1210–1223.
+74. Pamp SJ, Tolker-Nielsen T. 2007. Multiple roles of biosurfactants in
+structural bioﬁlm development by Pseudomonas aeruginosa. J Bacteriol
+189:2531–2539.
+75. Winzer K, Falconer C, Garber NC, Diggle SP, Camara M, Williams P.
+2000. The Pseudomonas aeruginosa lectins PA-IL and PA-IIL are con-
+trolled by quorum sensing and by RpoS. J Bacteriol 182:6401–6411.
+76. Banin E, Vasil ML, Greenberg EP. 2005. Iron and Pseudomonas
+aeruginosa bioﬁlm formation. Proc Natl Acad Sci USA 102:11076–11081.
+77. Heydorn A, Ersboll B, Kato J, Hentzer M, Parsek MR, Tolker-Nielsen
+T, Givskov M, Molin S. 2002. Statistical analysis of Pseudomonas
+aeruginosa bioﬁlm development: impact of mutations in genes involved in
+twitching motility, cell-to-cell signaling, and stationary-phase sigma factor
+expression. Appl Environ Microbiol 68:2008–2017.
+
+ASMscience.org/MicrobiolSpectrum
+
+11
+
+Downloaded from https://journals.asm.org/journal/spectrum on 23 February 2024 by 206.209.15.21.Tolker-Nielsen
+
+78. Inhülsen S, Aguilar C, Schmid N, Suppiger A, Riedel K, Eberl L.
+2012. Identiﬁcation of functions linking quorum sensing with bioﬁlm
+formation in Burkholderia cenocepacia H111. Microbiologyopen 1:225–
+242.
+79. Schmid N, Pessi G, Deng Y, Aguilar C, Carlier AL, Grunau A, Omasits
+U, Zhang LH, Ahrens CH, Eberl L. 2012. The AHL- and BDSF-dependent
+quorum sensing systems control speciﬁc and overlapping sets of genes
+in Burkholderia cenocepacia H111. PLoS One 7:e49966. doi:10.1371
+/journal.pone.0049966.
+80. McCarthy Y, Yang L, Twomey KB, Sass A, Tolker-Nielsen T,
+Mahenthiralingam E, Dow JM, Ryan RP. 2010. A sensor kinase recog-
+nizing the cell-cell signal BDSF (cis-2-dodecenoic acid) regulates virulence
+in Burkholderia cenocepacia. Mol Microbiol 77:1220–1236.
+81. O’Toole G, Kaplan HB, Kolter R. 2000. Bioﬁlm formation as mi-
+crobial development. Annu Rev Microbiol 54:49–79.
+82. Costerton JW, Lewandowski Z, Caldwell DE, Korber DR, Lappin-
+Scott HM. 1995. Microbial bioﬁlms. Annu Rev Microbiol 49:711–
+745.
+
+83. Pamp SJ, Gjermansen M, Johansen HK, Tolker-Nielsen T. 2008.
+Tolerance to the antimicrobial peptide colistin in Pseudomonas aeru-
+ginosa bioﬁlms is linked to metabolically active cells, and depends on the
+pmr and mexAB-oprM genes. Mol Microbiol 68:223–240.
+84. Barken KB, Pamp SJ, Yang L, Gjermansen M, Bertrand JJ, Klausen M,
+Givskov M, Whitchurch CB, Engel JN, Tolker-Nielsen T. 2008. Roles of
+type IV pili, ﬂagellum-mediated motility and extracellular DNA in the
+formation of mature multicellular structures in Pseudomonas aeruginosa
+bioﬁlms. Environ Microbiol 10:2331–2343.
+
+85. Harmsen M, Yang L, Pamp SJ, Tolker-Nielsen T. 2010. An update on
+Pseudomonas aeruginosa bioﬁlm formation, tolerance, and dispersal.
+FEMS Immunol Med Microbiol 59:253–268.
+86. Whiteley M, Bangera MG, Bumgarner RE, Parsek MR, Teitzel GM,
+Lory S, Greenberg EP. 2001. Gene expression in Pseudomonas aeruginosa
+bioﬁlms. Nature 413:860–864.
+87. Waite RD, Papakonstantinopoulou A, Littler E, Curtis MA. 2005.
+Transcriptome analysis of Pseudomonas aeruginosa growth: comparison
+of gene expression in planktonic cultures and developing and mature
+bioﬁlms. J Bacteriol 187:6571–6576.
+88. Folsom JP, Richards L, Pitts B, Roe F, Ehrlich GD, Parker A, Mazurie
+A, Stewart PS. 2010. Physiology of Pseudomonas aeruginosa in bioﬁlms as
+revealed by transcriptome analysis. BMC Microbiol 10:294.
+89. Redﬁeld RJ. 2002. Is quorum sensing a side effect of diffusion sensing?
+Trends Microbiol 10:365–370.
+90. Lopez-Sanchez A, Jimenez-Fernandez A, Calero P, Gallego LD,
+Govantes F. 2013. New methods for the isolation and characterization of
+bioﬁlm-persistent mutants in Pseudomonas putida. Environ Microbiol
+Rep 5:679–685.
+91. Navarro MV, Newell PD, Krasteva PV, Chatterjee D, Madden DR,
+O’Toole GA, Sondermann H. 2011. Structural basis for c-di-GMP-me-
+diated inside-out signaling controlling periplasmic proteolysis. PLoS Biol
+9:e1000588. doi:10.1371/journal.pbio.1000588.
+92. Newell PD, Boyd CD, Sondermann H, O’Toole GA. 2011. A c-di-
+GMP effector system controls cell adhesion by inside-out signaling and
+surface protein cleavage. PLoS Biol 9:e1000587. doi:10.1371/journal
+.pbio.1000587.
+
+12
+
+ASMscience.org/MicrobiolSpectrum
+
+Downloaded from https://journals.asm.org/journal/spectrum on 23 February 2024 by 206.209.15.21.
