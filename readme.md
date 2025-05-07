@@ -1,4 +1,4 @@
-# 🧠 Modular RAG System
+# Agentic RAG System
 
 A scalable, agent-driven Retrieval-Augmented Generation (RAG) system designed to process documents, embed semantic information, and answer user queries using autonomous agents. Built with a clean architecture that separates responsibilities into agents and services, the system is easy to extend, test, and deploy.
 
