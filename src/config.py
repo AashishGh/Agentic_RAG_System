@@ -1,5 +1,6 @@
 import os
 from dotenv import load_dotenv, find_dotenv
+from pathlib import Path
 
 # Load environment variables from .env file
 load_dotenv(find_dotenv())
@@ -10,7 +11,11 @@ ELASTIC_USERNAME = os.getenv("ELASTIC_USERNAME")
 ELASTIC_PASSWORD = os.getenv("ELASTIC_PASSWORD")
 
 # Documents directory
-DOCS_FOLDER = os.getenv("DOCS_FOLDER", "./documents")  # Folder where txt files are stored
+# DOCS_FOLDER = os.getenv("DOCS_FOLDER", "./documents")  # Folder where txt files are stored
+# Get the absolute path to the project root (one level above `src`)
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
+DOCS_FOLDER =  str(PROJECT_ROOT / "documents")
+
 
 # Elasticsearch index name
 INDEX_NAME = os.getenv("INDEX_NAME", "rag_docs")

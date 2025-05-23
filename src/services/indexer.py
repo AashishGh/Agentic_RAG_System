@@ -1,4 +1,10 @@
 # indexer.py
+import sys, os, time, logging
+# When run as a script, set package so relative imports work
+if __name__ == "__main__" and __package__ is None:
+    __package__ = "src.services"
+# Add project root (parent of src/) to sys.path so 'src' is recognized
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..")))
 
 import os
 import logging
@@ -55,6 +61,7 @@ def index_documents(es: Elasticsearch):
     """
     docs = load_documents(DOCS_FOLDER)
     total_docs = len(docs)
+    print(total_docs)
     logger.info(f"Starting indexing of {total_docs} document sections...")
 
     for idx, doc in enumerate(tqdm(docs, desc="Indexing documents"), start=1):
@@ -117,7 +124,7 @@ def index_documents(es: Elasticsearch):
 def main():
     es = Elasticsearch(
         [ELASTIC_CONNECTION_URL],
-        http_auth=(ELASTIC_USERNAME, ELASTIC_PASSWORD),
+        basic_auth=(ELASTIC_USERNAME, ELASTIC_PASSWORD),
         verify_certs=False
     )
 
