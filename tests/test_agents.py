@@ -42,11 +42,14 @@ def test_embed_text_consistency_with_embed_texts(monkeypatch, docs, expected):
 
 
 
-def test_plan_returns_query_in_list():
-    query = "How does RAG work?"
+
+def test_plan_returns_reasonable_subqueries():
+    query = "How do antibiotics affect biofilms and how does resistance occur?"
     subqueries = plan(query)
+
     assert isinstance(subqueries, list)
-    assert subqueries == [query]
+    assert all(isinstance(q, str) and q.strip() for q in subqueries)
+    assert any("biofilm" in q.lower() or "resistance" in q.lower() for q in subqueries)
 
 
 def test_reason_returns_contextual_answer(monkeypatch):
