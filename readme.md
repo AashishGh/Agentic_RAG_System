@@ -1,7 +1,9 @@
 # Agentic RAG System
 
 A scalable, agent-driven Retrieval-Augmented Generation (RAG) system designed to process documents, embed semantic information, and answer user queries using autonomous agents. Built with a clean architecture that separates responsibilities into agents and services, the system is easy to extend, test, and deploy.
+Below is the architectural overview of the system showing its modular agents, supporting services, and interaction with external components like Elasticsearch and DeepSeek.
 
+![Agentic RAG System Architecture](./assets/architecture.png)
 ---
 
 ## 📁 Project Structure
@@ -125,7 +127,9 @@ python text_extracter.py
 
  **Serving**  
 `api.py` exposes endpoints using FastAPI for document upload and intelligent querying.
+The following diagram illustrates the complete lifecycle of a user query in the Agentic RAG System — from subquery decomposition to embedding-based retrieval and final response generation via DeepSeek reasoning.
 
+![Agentic RAG Query Flow Diagram](./assets/query_flow.png)
 
 ## 🖥️ Running the Agentic RAG System
 To fully run the system, follow these steps in order:
