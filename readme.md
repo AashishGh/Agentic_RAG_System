@@ -15,7 +15,7 @@ A scalable, agent-driven Retrieval-Augmented Generation (RAG) system designed to
 │ │ ├── init.py
 │ │ ├── chunker.py ← Splits documents into text chunks
 │ │ ├── embedder.py ← Embeds chunks using transformer models
-│ │ ├── planner.py ← Directs agent flow based on query
+│ │ ├── planner.py ← Directs agent flow with subquery generation
 │ │ ├── reasoner.py ← Refines and expands query context
 │ │ └── executor.py ← Generates final response from retrieved content
 │ └── services/
