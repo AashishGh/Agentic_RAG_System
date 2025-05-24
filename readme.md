@@ -145,7 +145,7 @@ cd src/services/
 python delete_index.py
 python indexer.py
 ```
-
+![ElasticSearch UI through Kibana](./assets/ES_kibana.png)
 ### 2. Launch the FastAPI Backend
 Start the FastAPI server from the root directory:
 ```bash
